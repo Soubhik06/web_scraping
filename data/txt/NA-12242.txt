@@ -1,0 +1,342 @@
+This Appeal has been filed under Section 117-A of the Patents Act,
+
+ 1970, aggrieved by the rejection order dated 22.06.2020, refusing to grant
+
+ patent to the appellant on the ground that the so claimed invention of the
+
+ appellant is not patentable as it is hit by Section 3(k) of the Patents Act,
+
+ 1970. 2.The appellant claims that as seen from the Patent Application filed
+
+ by the appellant before the respondents, it is clear that a technical
+
+ contribution has been made by the appellant as the invention of the appellant
+
+ pertains to 'Cryptography on a simplified elliptical curve', which according to
+
+ the appellant is a unique invention. According to the appellant, the invention
+
+ of the appellant for which patent has been sought for is illustrated in the
+
+ following manner: Efficient algorithms for inserting arbitrary values using
+ elliptial curves are probabilistic. Therefore, the
+ implementation time of such algorithms is not constant. It is a
+ function of the message to be encoded. Thus, if an attacker
+ determines different implementation times of the applied
+ algorithm, it can obtain information on the encoded message.
+ In order to mask the time used by a probabilistic insertion
+ algorithm, it is possible to add unnecessary steps in the
+ algorithm so that its application always spreads over a time
+ period of the same length, regardless of the processed
+ message'. 3.By using the above method and in order to mask the time used by
+
+ the probabilistic insertion algorithm, the appellant claims that its invention is
+
+ a technical contribution, made by the appellant and therefore, the reason for
+
+ refusing to grant patent to the appellant's invention as seen from the
+
+ impugned order is a total non-application of mind to the nature of invention
+
+ for which patent was sought for by the appellant. 3/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023 4.Counter affidavit has been filed by the respondents reiterating the
+
+ contents of the impugned order. 5.Learned counsel for the appellant drew the attention of this Court to
+
+ the European Guidelines for examination of patent as well as the Guidelines
+
+ framed by the Indian Patent Office for examining computer related
+
+ invention. He would submit that it has been made clear in those guidelines
+
+ insofar as the technical contributions of a patent seeker is concerned, the
+
+ same will not fall under the category of inventions that are not patentable
+
+ under Section 3(k) of the Patents Act, 1970. 6.The reason given by the respondents for refusing to grant patent in
+
+ favour of the appellant is that being a mere "technical effect" adopted by the
+
+ appellant, the question of granting patent to the appellant will not arise and
+
+ if the same is granted, it will be in violation of Section 3(k) of the Patents
+
+ Act, 1970. According to the respondents, since a mathematical formula has
+
+ been adopted by the appellant, which has resulted in the appellant's so
+
+ claimed invention, the question of granting patent to the appellant does not 4/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ arise in view of the statutory bar under Section 3(k) of the Patents Act,
+
+ 1970. 7.One more reason given by the respondents for refusing to grant
+
+ patent in favour of the appellant is that the appellant has adopted "business
+
+ method" for the purpose of claiming invention, which is not permissible
+
+ under law as per Section 3(k) of the Patents Act, 1970. 8.Learned counsel for the appellant would further submit that insofar
+
+ as the reason given by the respondents that the appellant's so claimed
+
+ invention merely adopts a mathematical formula is concerned, he drew the
+
+ attention of this Court to the CRI Guidelines, more specifically to Clause
+
+ 4.5.1 and would submit that since the invention of the appellant specifies a
+
+ practical application, though the appellant has adopted a mathematical
+
+ formula, the finding rendered by the respondents under the impugned order
+
+ that encryption/decryption system is not permissible under law as per Section 3(k) of the Patents Act, 1970 is arbitrary and not in accordance
+
+ with law. According to the appellant, this case falls under one of the 5/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ exceptions and the respondents ought not to have held in the impugned
+
+ order that all inventions pertaining to encryption/decryption is not
+
+ patentable. Learned counsel for the appellant also drew the attention of this
+
+ Court to the European Guidelines for examination of patents applications
+
+ and would submit that insofar as the technical applications, where technical
+
+ contributions of a mathematical method is sought to be patented, are
+
+ concerned, it is clear from the same that those technical contributions are
+
+ patentable even in case of encryption/decryption. Therefore, the learned
+
+ counsel for the appellant would submit that by total non-application of mind
+
+ to the guidelines for examination of patent applications and by a non-
+
+ speaking order, the respondents have passed the impugned order. He also
+
+ drew the attention of this Court to the hearing notice issued by the
+
+ respondents prior to passing of the impugned order and would submit that in
+
+ the said hearing notice, it is seen that there was no reference to business
+
+ method, which is not patentable under Section 3(k) of the Patents Act, 1970
+
+ but despite the same, the respondents have included that reason as well for
+
+ refusing to grant patent. 9.Learned Standing Counsel for the respondents reiterated the 6/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ contents of the impugned order and would submit that the case of the
+
+ appellant falls under the category mentioned in Section 3(k) of the Patents
+
+ Act and therefore, according to him, rightly, the respondents have refused to
+
+ grant patent to the appellant under the impugned order.
+
+ Discussion: 10.According to Section 3(k) of the Indian Patent Act, mathematical
+
+ processes and computer programs per se are explicitly excluded from being
+
+ eligible for patent protection. The section above has undergone modifications
+
+ and has been shaped by amendments and court rulings about the
+
+ patentability of software-related innovations.
+
+ THE 2002 AMENDMENT
+
+ The inclusion of the word ‘per se’ in Section 3(k) of the Patents
+
+ (Amendment) Act, 2002 was intended to clarify the patentability
+
+ requirements for computer programs. Previously, the Act did not allow for
+
+ the patenting of computer programs without any restrictions. The change
+
+ made in 2002 included the term ‘per se’ to indicate that while computer
+
+ programs are not eligible for patent protection, software innovations may be
+
+ eligible for patents if they exhibit a ‘technical application’ or a ‘technical 7/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ impact.’ Consequently, the amendment implemented the technical effect test
+
+ as a criterion for determining the eligibility of software for patent protection. 11.As seen from the impugned order, the contentions of the appellant
+
+ as raised in this appeal have neither been considered in accordance with the
+
+ guidelines for examination of patent applications (CRI) nor a speaking order
+
+ has been passed. The invention for which the appellant seeks for patent is
+
+ 'cryptography on a simplified elliptical curve'. 12.According to the appellant, to prevent hacking of the coded
+
+ message transmission, a unique invention through a simplified elliptical
+
+ curve has been invented for which patent is sought for by the appellant.
+
+ According to the appellant, the steps for the said invention exhibits a
+
+ technical effect, as it requires only two terms of the equation remaining to be
+
+ checked in order to decide which of the two terms correspond to a squared
+
+ term in Fq, thereby enabling to determine a point on an elliptical curve in a
+
+ manner suitable for use in the field of cryptography. According to the
+
+ appellant, the steps of the method achieve an innovative technical effect,
+
+ which is to allow a determination requiring a constant time regardless of the 8/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ input parameter 't', as the number of required operations is the same and also
+
+ achieve an improved efficiency as the number of demanding operations is
+
+ reduced, thereby resulting in improvement in calculation performance, while
+
+ not allowing any attack linked to the execution time of the cryptographic
+
+ calculation. 13.However, as seen from the impugned order, the contentions of the
+
+ appellant, as referred to supra, were not considered by the respondents.
+
+ There is an exception to Section 3(k) of the Patents Act,1970 and as per the
+
+ said exception, if the appellant's so claimed invention is a technical
+
+ contribution made by them, the invention is patentable. The very same
+
+ contention was raised by the appellant before the respondents. But, however,
+
+ as seen from the impugned order, it has not been considered as no reason
+
+ has been given under the impugned order as to why the contentions of the
+
+ appellant has to be rejected. The European Guidelines as well as the Indian
+
+ Guidelines pertaining to Patent Applications also make it clear that
+
+ inventions involving technical contributions in computer related field are
+
+ patentable. The relevant clauses in both the aforesaid Guidelines are
+
+ re-produced hereunder: 9/18 - optimising load distribution in a computer network; - determining the energy expenditure of a subject by
+ processing data obtained from physiological sensors;
+ deriving the body temperature of a subject from data
+ obtained from an ear temperature detector; - providing a genotype estimate based on an analysis of
+ DNA samples as well as providing a confidence interval
+ for this estimate so as to quantify its reliability; - providing a medical diagnosis by an automated system
+ processing physiological measurements. Indian Guidelines
+ 4.5. Determination of excluded subject matter relating to
+ CRIs: What is important is to judge the substance of claims taking
+ whole of the claim together. If any claim in any form such as
+ method/process, apparatus/system/device, computer program
+ product/computer readable medium falls under the said
+ excluded categories, such a claim would not be patentable.
+ However, if in substance, the claim, taken as whole, does not
+ fall in any of the excluded categories, the patent should not be
+ denied. Hence, along with determining the merit of invention as
+ envisaged under Sections 2(1) (j) , (ja) and (ac), the examiner
+ should also determine whether or not they are patentable
+ inventions under Section 3 of the Act. 4.5.1 Claims directed as "Mathematical Method": Similarly mere manipulations of abstract idea or solving purely
+ mathematical problem/equations without specifying a practical
+ application also attract the exclusion under this category.
+ However, mere presence of a mathematical formula in a claim,
+ to clearly specify the scope of protection being sought in an
+ invention, may not necessarily render it to be a "mathematical
+ method" claim. Also, such exclusions may not apply to
+ inventions that include mathematical formulae and resulting in
+ systems for encoding, reducing noise in communications/
+ electrical/electronic systems or encrypting/decrypting electronic
+ communications. 4.5.2 Claims directed as "Business Method": The term
+ 'Business Methods' involves whole gamut of activities in a
+ commercial or industrial enterprise relating to transaction of
+ goods or services. The claims drafted not directly as "business
+ methods" but apparently with some unspecified means are held
+ non-patentable. However, if the claimed subject matter specifies
+ an apparatus and/or a technical process for carrying out the
+ invention even partly, the claims shall be examined as a whole.
+ When a claim is "business methods" in substance, it is not to be
+ considered a patentable subject matter. However, mere presence of the words such as "enterprise", 13/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ "business", "business rules", "supply-chain", "order", "sales",
+ "transaction", "commerce", "payment" etc. in the claims may not
+ lead to conclusion of an invention being just a "Business
+ Method", but if the subject matter is essentially about carrying
+ out business/trade/financial activity/transaction and/or a method
+ of buying/selling goods through web (e.g. providing web service
+ functionality), the same should be treated as business method
+ and shall not be patentable. 14.Under the impugned order, the exceptions as highlighted in the
+
+ Indian and European guidelines, which the appellant claims its invention
+
+ falls, has not been considered under the impugned order by a speaking
+
+ order. Insofar as the reason "adoption of business method" given by the
+
+ respondents under the impugned order is concerned, is also not supported
+
+ by a speaking order. Further, it is to be noted that even in the hearing notice
+
+ issued to the appellant by the respondents prior to the passing of the
+
+ impugned order, the said reason was not mentioned to enable the appellant
+
+ to counter the same by filing its objections to the said ground. Therefore,
+
+ being a non-speaking order, necessarily, the impugned order has to be
+
+ quashed and the matter has to be remanded back to the respondents for
+
+ fresh consideration. 15.The other reason given by the respondents, namely, adoption of 14/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ algorithms by the appellant in its so claimed invention is concerned, this
+
+ Court is of the considered view that the respondents have not taken into
+
+ consideration the contentions of the appellant, which are as follows: 16.This Court, after giving due consideration to the contents of the
+
+ impugned order, has to agree with the contentions of the appellant that the
+
+ respondents failed to consider the plea of the appellant that the invention
+
+ claimed by the appellant is not based on set of rules and is not an algorithm. 17.For the foregoing reasons the impugned order dated 22.06.2020
+
+ passed by the respondents, being a non-speaking order with regard to the
+
+ contentions of the appellant as raised in this appeal and on the ground of
+
+ violation of principles of natural justice since the appellant was not put on 15/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ notice in the notice of hearing about the alleged "business method
+
+ contention", is quashed and the matter is remanded back to the respondents
+
+ for fresh consideration of the appellant's patent application, on merits and in
+
+ accordance with law and this appeal is disposed of by issuing the following
+
+ further directions: No costs. Consequently, connected petition is closed. 12.11.2024
+
+ vga
+ Index: Yes/No
+ Speaking/Non Speaking Order
+ Neutral Citation Case: Yes/No 17/18 https://www.mhc.tn.gov.in/judis
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ ABDUL QUDDHOSE,J. vga
+
+ (T) CMA (PT) No.198 of 2023 and (T) CMP (PT) No.21 of 2023
+
+ 12.11.2024 18/18 https://www.mhc.tn.gov.in/judis

@@ -1,0 +1,1080 @@
+% 01.03.2024
+
+ C.A.(COMM.IPD-PAT) 3/2021 1. The appellant submitted Application No. 202011011938 dated
+ 19 March 2020 for grant of a patent in respect of an invention titled "a
+ method and system for detecting road anomalies" (hereinafter "the
+ subject patent"). The application stands rejected by the Controller of
+ Patents and Designs ("the Controller") vide order dated 8 January
+ 2021 passed under Section 15 of the Patents Act, 1970. The appellant
+ is in appeal against the said order. the claim in the application suffers from want of inventive step vis-a-
+ vis prior art D-2. Though the First Examination Report (FER) dated
+ 15 June 2020 cites four prior art documents D-1 to D-4 as disclosing
+ all the features of the claims in the subject patent, the notice of
+ personal hearing, issued consequent to the reply filed by the appellant
+ to the FER, restricted the allegation of lack of inventive step to
+ comparison of the subject patent with the prior art D-1 to D-3 and the
+ final impugned order holds the subject patent to be lacking an
+ inventive step only vis-a-vis the prior art D-2. 3. I may note that this position was accepted by both sides and
+ arguments were also advanced before me, on the aspect of
+ obviousness and inventive subject in the subject patent vis-a-vis the
+ prior art D-2. 4. The Court is only required, therefore, to examine whether the
+ subject patent is lacking an inventive step vis-a-vis D-2; in other
+ words, whether the distinguishing features of the subject patent would
+ be obvious to a person skilled in the art from the disclosures contained
+ in D-2 and, therefore, whether the impugned order is correct in
+ rejecting the appellant's application on the ground of lack of inventive
+ step. 5. For this, one has to appreciate the essential features of the suit
+ patent, which are claimed, by the appellant, to be inventive. 6. The complete specifications of the suit patent read thus: b) Indian; c) SCO 315-316, First Floor, Himalaya Marg, Sector 35B,
+ Chandigarh - 160036, India 3. PREAMBLE TO THE DESCRIPTION
+
+ The following specification particularly describes the invention
+ and the manner in which it is to be performed. FIELD OF THE INVENTION
+
+ [001] The present invention relates to transportation
+ management information system. More particularly, it relates to a
+ system and method to maintain the heavily travelled roadways. BACKGROUND OF THE INVENTION
+
+ [002] In the recent years, with exponential increase in traffic on
+ the roads, there is lot of pressure on continuous upkeep and
+ maintenance of the road networks across the cities. Road
+ authorities are losing the continuous battle for upkeep of the road
+ because of frequent weather change, improper drainage, improper
+ or inadequate repair work, improper design of the road, frequent
+ cutting of the roads for laying cables and conduits, heavy traffic
+ or heavy vehicles plying on the roads which are not designed to
+ handle such loads. As a result, road imperfections develop
+ continuously and need to be managed before they become Signature Not Verified dangerous. Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 3 of 56 Signing Date:13.03.2024 22:46 [003] Road anomaly may be defined as misalignment in the road
+ surface due to any cut or crack in the road due to cable laying or
+ any pothole due to improper water drainage or some 20 bump or
+ uneven level due to manhole cover which leads to sudden braking
+ or turning of the vehicle as soon as driver tries to negotiate the
+ anomaly or sometimes if the driver is not able to negotiate then it
+ leads sudden jerk in the vehicle. [004] In both the above situations either vehicle damage could
+ happen, or accident can occur due to sudden application of brakes
+ or turning of the vehicle. In some cases, skidding of the vehicle
+ because of sudden braking or turning over has led to fatalities.
+ Hence, it becomes utmost important to continuously monitor the
+ road surface condition for anomaly and make sure that the road
+ condition should not become worse to cause accident or unfit for
+ driving. Also, the roads can be maintained better if the anomalies
+ are detected and fixed in the early stages due to less cost of
+ preventive maintenance as compared to rehabilitation or
+ upgrading or reconstruction of the roads. [005] Further, USA patent US9863928 B1 discloses a road
+ condition detection system for identifying and monitoring road
+ conditions, and for communicating information regarding road
+ conditions to various users. The road condition detection system
+ is provided for capturing data indicative of road conditions and
+ analyzing the captured data to locate and identify various road
+ conditions (e.g., road hazards, such as potholes, or weather
+ conditions, such as ice). In various embodiments, the road
+ condition detection system includes a road condition sensor array
+ configured for being attached to a vehicle and for capturing road
+ condition data. The captured data may be transmitted and assessed
+ by a server configured for identifying potential road hazards or
+ other road conditions based on the road condition data captured
+ by the sensor array. The prior art discloses a system based on
+ laser and vibration sensors. The system however, does not detect
+ the severity of the road condition. [006] Another USA patent US20180068495A1 discloses a
+ method of detecting and identifying road surface defects is
+ provided. Motion and position information is received from a
+ plurality of vehicles. A profile is retrieved for a particular vehicle
+ from a database of vehicle profiles by using an identifier of the
+ particular vehicle. One or more criteria are identified for detecting
+ a particular type of road surface defect based on the retrieved
+ profile of the particular vehicle. Upon determining that the
+ received motion and position data satisfies the identified criteria, a Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 4 of 56 Signing Date:13.03.2024 22:46 detection of a road surface defect of the particular type and a
+ location associated with the detected road surface defect based on
+ the received position information is reported. The prior art
+ discloses method of detecting the road conditions using motion
+ sensors and accelerometer. The method disclosed in prior art is
+ cost intensive as multiple vehicle types and their sensor data has
+ to be correlated based on their weight, tyre size, dimensions etc.
+
+ [007] Nowadays, various methods and systems are available
+ based on the technologies related to sensors and laser. These
+ methods and systems have limitations due to vibration-based
+ sensors and high costing of laser scanning. Also, the laser sensor
+ is not efficient in wet weather and narrow roads. Due to these
+ limitations there is a need of cost effective method and system for
+ detecting the road anomalies. OBJECTIVE OF THE INVENTION
+
+ [008] The primary objective of the present invention is to
+ provide a method and system to give prior warning to the
+ subscribed driver or user for upcoming road issues. [009] Another objective of the present invention is to provide a
+ cost-effective method and system for better surveillance of road
+ condition. [0010] Yet another objective of the present invention is to
+ automate the measurement of road condition. [0011] Yet another objective of present invention is to provide
+ safe driving assistance to its subscribed users. [0012] Another objective of the present invention is to provide
+ a proactive system and a method to report road anomalies
+ regularly. [0013] Yet another objective of the present invention is to
+ provide a method and for periodic tracking of the road conditions
+ which may help in accessing the quality of re-carpeting or patch
+ work done. SUMMARY OF INVENTION
+
+ [0014] The present invention proposes a system for tracking the
+ road anomalies through a dashcam mounted on plurality of
+ vehicles. The method and system maps and identifies the road
+ anomalies by analyzing the video of road conditions and classify Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 5 of 56 Signing Date:13.03.2024 22:46 the road anomalies by earmarking the road anomalies into
+ potholes, bumps, cracks, etc. and rating them into yellow, amber
+ and red colors based on certain parameters like dimensions of
+ anomalies, type of anomaly, type of road on which anomaly has
+ happened(highway, main city road, colony road, service road,
+ etc.), GPS co-ordinates, date time stamp when the anomaly has
+ been reported, changes if any since first time the anomaly has
+ been reported, area to which the location belongs (sector, area,
+ wards, zones, sub-district, tehsil/taluka, etc.). BRIEF DESCRIPTION OF THE DRAWINGS
+
+ [0015] A complete understanding of the present invention may
+ be obtained by reference to the accompanying drawings, when
+ taken in conjunction with the detailed description thereof and in
+ which: degree view. The cameras provide a high definition
+ view of the road surface and simultaneously the GPS
+ data is recorded by the GPS data recording unit (200).
+ Once the survey is done by the camera, the camera Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 7 of 56 Signing Date:13.03.2024 22:46 footage and GPS log files (.GPX) are downloaded to a
+ central computer to compute the same. - Data Processing Unit (300) may comprise of the
+ central system to process the raw videos and identify
+ and classify the road anomalies based on training
+ dataset of the road anomalies. This process also helps in
+ classifying the severity of the road anomaly data and
+ notifying the road authorities and subscribed drivers in
+ case of potential issues. This process also gets the input
+ of the GPS data like the deceleration in speed at a
+ particular spot or patch of the road. - Data Mapping and Publishing Unit (400 and 500)
+ may comprise the geographical mapping of road
+ anomalies, creation of anomalies database and its
+ updation based on road survey conducted, plotting of
+ the road anomalies on any available web mapping
+ service based on the route selected by the drivers along
+ with the name of the roads featuring distress spots and
+ suggesting alternate route with their anomalies
+ information. Further, the report generates a map
+ plotting the exact spots of road distress with color
+ coding based on severity of road anomalies on the web
+ map and create a heat map to show the concentration of
+ road anomalies in the area or zone. This helps both the
+ road authorities to take necessary actions on preventive
+ maintenance and the subscribed drivers take the
+ conscious decision on choosing the appropriate route. [0027] Fig. 2(a) and 2(b) illustrate the functioning of data
+ capturing unit (100) for detecting the road anomalies. The data
+ capturing unit (100) comprises a dashboard camera (Dashcam), a
+ Global Positioning System (GPS) and a storage device. The
+ Dashcam is a video camera with high definition 1080p, 130
+ degree viewing angle covering all lanes of the road, Wide
+ Dynamic range (WDR) function which adjusts according to the
+ ambient light, built in G-sensor for image stabilization in case of
+ shock or jerk. The Dash cam may be but not limited to, Akaso
+ dash cam C330. Dashcam records the videos of the roads to
+ analyses the road anomalies. [0028] In an embodiment, the dashboard camera and GPS may
+ be combined. [0029] Further, Dashboard camera may pair with a
+ communication device through available network to transfer data Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 8 of 56 Signing Date:13.03.2024 22:46 to the mobile application. Afterwards, the data from mobile
+ application can be transferred to central server through any
+ network. Alternatively, the data may be physically transferred to
+ central server via storage device such as Secure Digital (SD) card. [0030] The GPS data recording unit (200) or a GPS logger is a
+ device which is used to capture the GPS co-ordinates and create a
+ stream of it so that once the whole route is recorded the data can
+ be used to trace the vehicle's path on the map, the date time stamp
+ and the speed at which the vehicle has traversed the route. The
+ GPS logger may comprise of GPS receiver, a processing and
+ storage unit. In an exemplary embodiment, U-blox7 GPS
+ Receiver, a Raspberry PI model 4 B and 16 GB SD card for
+ recording the stream of GPS co-ordinates are used. The data
+ recorded from GPS logger is stored as .GPX file. With every
+ track being recorded as a .GPX file it is easy to play it in GPX
+ player software which plays the recorded location position along
+ with date time stamp and the speed. The captured .GPX files can
+ be uploaded from Raspberry PI to central server through SSH
+ protocol in a secure manner for processing at the central server.
+ The GPS logger will help create a trace of the route travelled by
+ the vehicle used for road survey. The GPS co-ordinates of
+ potholes and patches are identified and mapped to identify the
+ accurate position of road issues. [0031] Further, the data capturing unit (100) installed on
+ plurality of vehicles to capture the video and GPS data. Vehicles
+ may be but not limited to, any utility vehicle deployed by
+ municipal committees, personal cars, or commercial vehicles such
+ as trucks, buses etc. but preferably plying during the less traffic
+ time in the morning when shadows are less prevalent. [0032] Fig. 3(a), 3(b), 3(c) and 3(d) illustrate the process of
+ classification of road anomalies and mapping of road anomalies
+ on to a web mapping service application. [0033] As shown in Figure 3(a), the central server is a high end
+ desktop machine which process the data captured by data
+ capturing unit (100). In an exemplary embodiment, a desktop
+ machine with Intel i7 processor, Nvidia GPU, atleast 16-32 GB
+ RAM, 512 SSD is used. The central server runs an Artificial
+ Intelligence based algorithm to identify the road anomaly based
+ on the trained dataset of road anomalies. Training data set
+ categorize anomalies in different categories such as potholes,
+ cracks, scrapped road, bumps, misalignments of manhole covers
+ and frames. Further, the server classify the quality of roads as fair,
+ bad or worse and determine the right speed to cross over the Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 9 of 56 Signing Date:13.03.2024 22:46 anomalies based on recent driver experience. It also determines
+ the alternate travel path for users to avoid travelling over a road
+ having anomalies. [0034] Further, as shown in figure 3(b) and 3(c), the video is
+ processed through the data processing unit (300) to detect the road
+ anomalies. After processing the video, image frames are recorded
+ having bounding box corresponding to the detected anomalies
+ along with date and time stamp. A bounding box is an imaginary
+ box to demarcate the objects from their surroundings. In digital
+ image processing, the bounding box is merely the coordinates of
+ the rectangular border that fully encloses a digital image when it
+ is placed over a page, a canvas, a screen or other similar bi-
+ dimensional background. Based on the dimensions of the
+ anomalies and the data of deceleration on location of the road
+ anomaly, the road anomaly is classified into fair (yellow), bad
+ (amber) or worse (red). If there are multiple road anomalies in the
+ particular stretch of the road the whole patch may be marked as
+ bad or worse. [0035] The data mapping unit (400) classifies and labels the road
+ condition by creating a map of road including road anomalies and
+ provide the average deceleration in speed to negotiate the road
+ anomaly. While the driver sees the different routes on the map for
+ reaching the destination the driver may also choose to select the
+ route which has less road anomalies. [0036] In accordance with the present invention the method for
+ detecting road anomalies is discussed herein: -data mapping unit (400) to mark the location of detected
+ anomalies on the web mapping service application; and -data publishing unit (500) to notify the information
+ regarding suitable speed and severity of road anomaly to
+ the user; 7) The system for detecting road anomalies as claimed in
+ claim 6, wherein the data capturing unit (100) includes at least one
+ dashboard camera, at least one GPS logger and at least one
+ storage device. 8) The system for detecting road anomalies as claimed in
+ claim 6, wherein the GPS logger includes a GPS receiver, a single
+ board computer processing unit, and a power source. Dated this 19th day of March, 2020
+ Sd./- RANA, Vikrant (PA-248)
+ of S. S. Rana & Co. Attorney of the Applicant
+ AUDERTEC SOLUTIONS LLP" The expression "road anomalies" is a compendious term
+ covering any defect in road surface, owing to any cut and crack
+ in the road, pothole, bump or uneven level, which would require Signature Not Verified a driver driving on the road, to suddenly brake or turn the Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 16 of 56 Signing Date:13.03.2024 22:46 vehicle or if he does not do so, to a sudden jerk in the vehicle.
+ As this can result in accident, mapping of road anomalies is
+ necessary, both for notifying the concerned authorities, who can
+ rectify the roads as well as to inform subscribed drivers of such
+ anomalies, so that they can negotiate the vehicle appropriately
+ or choose roads, which are more easily negotiable. 8. Five objectives of the claimed inventions are identified, viz. (a) Providing a method and system to give prior warning to a
+ subscribed driver or user of upcoming road issues, (b) providing
+ a cost effective method and system for better surveillance of
+ road condition, (c) automating measurements of road condition, (d) providing safe driving assistance to subscribed users, (e)
+ providing a proactive system and a method to report road
+ anomalies regularly and (f) providing a method for periodic
+ tracking of road conditions. 9. The method claimed in the subject patent, when adopted, fulfils
+ two purposes. Firstly, it analyzes the video of the road so as to map
+ the conditions of the road. Secondly, it classifies road anomalies by
+ earmarking them on the basis of the type of anomaly and rating the
+ anomaly as yellow, amber or red, based on pre-determined
+ parameters. Thirdly, the complete specifications are accompanied by
+ drawings, designated as figures 1, 2(a), 2(b), 3(a), 3(b), 3(c), 3(d), 4, 5
+ and 6. These drawings, followed four steps: 10. The claimed invention is divided in complete specifications,
+ into: 11. The Data Capturing and Data Recording Unit comprises the
+ following features: 12. The vehicle is to be driven at a speed of 20 to 30 kilometre per
+ hour at a pre-decided route set by the user. As the vehicle moves, the
+ camera records a video of the entire road surface, including any
+ anomaly in the road covering of 130 degree view. 13. The GPS data of the road is simultaneously recorded on the
+ GPS recording unit. 14. The GPS Data Recording Unit - (hereinafter the GPS DRU) -
+ alternatively called the GPS logger - consists of a GPS receiver and a
+ processing/storing unit. 15. The GPS DRU captures the GPS coordinates of the road and
+ creates a stream so that it is possible to trace the path of the vehicle,
+ the date time stamp and the speed of the vehicle. 16. The data is stored as a .GPX file, which can easily be played
+ using GPX player software which, when played, would identify the
+ position of the vehicle, date and time stamp and the speed. 17. Thus, the GPS DRU identifies anomalies and maps them so that
+ accurate locations are identified. 18. The camera footage and the GPS log files (in .GPX format) are
+ downloaded to a central computer. 19. Alternatively, the camera may be paired with a mobile through
+ a mobile application, and the mobile can send the data to the central
+ server. Again, alternatively, the video recording recorded by the
+ camera can be physically transferred to the central server through a
+ Secure Digital (SD) Card. 20. The Data Process Unit consists of a central server, which is a
+ desktop machine that processes the data captured by the camera and
+ the GPS DRU and mapped by the GPS DRU. 21. The central server identifies road anomalies based on a dataset.
+ The trained dataset classifies the anomalies into various categories
+ such as potholes, cracks, scrapped road, bumps, misalignments of
+ manhole covers, and the like. 22. The central server thereafter classifies the road, based on the
+ nature of anomalies contained therein as fair (yellow), bad (amber) or
+ worse (red) and, thereby, identifies the quality of road by colour
+ coding. 23. Based on this data, the central server determines the speed at Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 20 of 56 Signing Date:13.03.2024 22:46 which the anomaly is to be negotiated, based on recent driving
+ experience and also suggests alternate travel path which could be
+ adopted. 24. The data mapping and publishing unit does the following
+ function: 25. As such, the data mapping and publishing unit creates a heat
+ map which identifies concentration of road anomalies on various
+ roads. This serves two functions. It helps authorities to repair the
+ roads and correct the anomalies and also helps subscribed drivers to
+ negotiate the anomalies and select alternate routes. 26. Thus, the entire method claimed in the subject patent involves (a) Classification of the road anomaly, by co-relating the
+ video of the road labelled through the data mapping system, Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 21 of 56 Signing Date:13.03.2024 22:46 exact geo tagging of the anomaly and average deceleration of
+ speed while negotiating the anomaly. (b) Tagging of the road anomalies in colour coded fashion so
+ as to inform the authorities about the severities of the anomalies
+ and enable them to prioritize and plan repair work. (c) Conducting historical analysis of the deceleration through
+ the location where the anomaly is detected and (d) Informing subscribed users in advance of the existence
+ and severity of road anomalies. 27. The specifications clarified that the aforesaid process is
+ continuous and iterative so that that new spots are continuously geo-
+ tagged, anomalies specific colours are changed from time to time
+ and, if the road is re-surfaced or patch work is done, geo-tags are
+ removed. 28. Thus, the process for visualization of road conditions based on
+ specific area includes (a) collection and processing of road anomalies
+ data for a particular area for a particular period of 10-15 days so that
+ periodical variation in road anomalies can be noted and (b)
+ geographical colour coding of the sub-areas within the area based on
+ number and severity of anomalies. 29. Para 0040 of the complete specifications also refers to the
+ process of communication of the road anomalies to the subscriber
+ drivers/users. The user is required to switch on the web mapping
+ service application, select the destination to which he intends to Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 22 of 56 Signing Date:13.03.2024 22:46 travel and press 'Start'. When he does so, the system identifies his
+ existing location, destination location and selects the best route1. 30. From the database of road anomalies, the system downloads the
+ road anomaly data for the road that the driver has selected and shows
+ it to the driver on the web mapping service application. The driver is
+ thus warned of the upcoming road anomaly based on severity and the
+ speed of the driver. The driver is also provided suggestion of the
+ average speed at which the anomaly should be negotiated. Prior Art D-2 31. The complete specifications of the prior art D-2, sans the
+ drawings, may be reproduced thus: (57) ABSTRACT
+
+ The present invention is directede to a road condition detection
+ system for identifying and monitoring road conditions, and for
+ communicating information regarding road conditions to various
+ users. The road condition detection system is provided for
+ capturing data indicative of road conditions and analyzing the
+ captured data to locate and identify varius road conditions (e.g.,
+ road hazards, such as potholes, or weather conditions, such as ice).
+ In various embodiments, the road condition detection system
+ includes a road condition sensor array configured for being
+ attached to a vehicle and for capturing road condition data. The
+ captured data may be transmitted and assessed by a server
+ configured for identifying potential road hazards or other road
+ conditions based on the road condition data captured by the sensor
+ array. Road Condition Detection System
+
+ FIG. 1 shows a road condition detection system 100, according to Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 27 of 56 Signing Date:13.03.2024 22:46 one embodiment. In the illustrated embodiment, the road condition
+ detection system 100 generally comprises a road condition sensor
+ array 120 mounted on a vehicle 110, an onboard computer 130,
+ and a central data analysis server (herein "central server") 170. As
+ discussed in greater detail below, the onboard computer 130 is
+ configured to communicate with the road condition sensor array
+ 120 in order to control the capture and storage of road condition
+ data. The onboard computer 130 is further configured to s
+ communicate with the central server 170 via a communication
+ network 150 in order to transmit road condition data to the server
+ 170 for analysis. Additionally, the central server 170 and onboard
+ computer 130 may be configured to communicate with one or more
+ user devices 180 (e.g., a mobile phone, tablet computer, digital
+ information acquisition device, or the like) to provide updated road
+ condition data to a user. The components of the illustrated
+ embodiment are discussed in more detail below. Road Condition Sensor Array
+
+ FIG. 2 shows a road condition sensor array 120 mounted on
+ a vehicle 110 according to one embodiment. In the illustrated
+ embodiment, the road condition sensor array 120 generally
+ comprises a front sensing unit 121a housed within a detachable
+ front mounting housing 122a, and a rear sensing unit 121b housed
+ within a detachable rear mounting housing 122b. According to
+ various embodiments, the front sensing unit 121a comprises
+ various road image detection devices, including an optical camera,
+ a vibration sensor, and a road surface scanner. As the vehicle 110
+ drives along a road 5, the road condition sensor array's sensing unit
+ 121a captures road condition data relating to the conditions of the
+ road 5. For example, the captured road condition data may include
+ video data, surface profile data, illumination level data, vibration
+ data, and other data generated by other devices in the sensing unit
+ 121a. As described in greater detail below, the sensing unit's
+ devices are in communication with the vehicle's onboard computer
+ 130, which may be configured to control the operation of the
+ sensing unit 121a and store captured road condition data. In various embodiments, the sensing unit 121a includes an
+ optical camera configured to capture video and/or still images of
+ the road surface and detect the illumination level of the road 5. For
+ example, in one embodiment, the optical camera may be
+ configured to capture video of the road surface continuously as the
+ vehicle 110 travels. In such embodiments, the onboard computer
+ 130 may continuously store video data generated by the optical
+ camera and may be configured to buffer and transmit data to a user
+ device 180. According to various embodiments, the optical camera may
+ also be configured to receive light from the road through an
+ aperture in the camera housing, which may vary in size to control
+ the amount of light reaching the optical sensor. The optical sensor
+ is configured to detect the intensity of the light received through
+ the aperture resulting in illumination level data corresponding to
+ the illumination level of the road 5 at a given point. Accordingly, if
+ the vehicle 110 is traveling at night along a lighted road and passes
+ by an area where street lights are out, the illumination level data
+ will indicate a reduction in luminous intensity. Similarly, the
+ illumination level data may indicate poor illumination in tunnels,
+ under bridges, or in covered areas (e.g., parking lots). In this way
+ the optical camera is able to capture illumination level data
+ indicative of a particular road's varying illumination levels along
+ the distance traveled by the vehicle 110. In various embodiments, the optical camera may be further
+ configured to detect the reflectivity of the surface of the road 5.
+ This may be accomplished, for example, by the camera emitting
+ light (e.g., via a flash bulb or LED bulb) and detecting the level of
+ light reflected by the road surface. As such, the optical camera is
+ able to capture reflectivity data indicative of the surface reflectivity
+ of the road 5 at any given point. Accordingly, if a road surface is
+ wet (e.g., due to rain or an oil leak) or coated with another
+ hazardous substance, the reflectivity data will indicate a
+ comparative increase in the reflectivity of the road surface.
+ Likewise, where the road is dry, the reflectivity data will indicate a
+ comparative decrease in the reflectivity of the road surface. In this
+ way. the optical camera is also able to capture reflectivity data
+ indicative of a particular road's varying reflectivity along the
+ distance traveled by the vehicle 110. As will be appreciated from the description herein, the
+ optical camera may be configured to capture video data,
+ illumination level data, and reflectivity data, or two or more
+ cameras may be provided, each being configured to capture
+ illumination level data or reflectivity data. In addition, a lens may
+ be disposed within the camera housing aperture and a shutter
+ and/or lens cover may cover the lens when the camera is not
+ actively recording illumination level data or reflectivity data. In
+ this way, the shutter and/or lens cover may protect the lens from
+ damage such as being scratched or cracked. In other embodiments,
+ the illumination level data and reflectivity data may be captured via
+ other suitable devices. such as laser sensors or the like. In addition to the optical camera, the sensing unit 121a may Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 29 of 56 Signing Date:13.03.2024 22:46 include a road surface scanner may comprise a laser or
+ electromagnetic sensor disposed within a scanner housing. As the
+ vehicle travels along the road 5, the sensor is configured to scan
+ the surface of the road 5 and capture surface profile data indicative
+ of the road's surface profile. Accordingly, if the vehicle 110 travels
+ over a pothole, the captured surface profile data will indicate a
+ depression in the road surface. Likewise. if the vehicle 110 travels
+ over piece of debris or other object on the surface of the road 5, the
+ captured surface profile data will indicate a protrusion on the road
+ surface. In this way. the road surface scanner is able to capture
+ surface profile data indicative of a particular road's full surface
+ profile along the distance traveled by the vehicle 110. As noted above, the sensing unit 121a also includes a
+ vibration sensor configured to capture vibration data indicative of
+ the magnitude and frequency of vibration of the vehicle 110 as it
+ travels along the road. For example, in one embodiment, the
+ vibration sensor is configured to detect vibrations in the vehicle's
+ chassis (e.g., vibrations transmitted from the road surface through
+ the wheels and suspension to the chassis). Accordingly, if the
+ vehicle 110 travels over a pot hole, the vibration data captured by
+ the vibration sensor will indicate a sharp change in vibration
+ magnitude or frequency. Additionally, if the vehicle 110 is
+ traveling a smooth road. the vibration data will indicate a low-
+ magnitude, consistent vehicle vibration, while a rough road will
+ result in inconsistent vibration data corresponding to various
+ bumps and imperfections in the road surface. In this way, the
+ vibration sensor is also able to capture vibration data indicative of
+ the smoothness of a particular road along the distance traveled by
+ the vehicle 110. According to various embodiments, the sensing unit 121a
+ may further comprise an infrared camera, a noise detecting device,
+ and/or other road condition detecting devices. For example, the
+ infrared camera may be used for capturing infrared data indicative
+ of hot spots on the road surface while the noise detecting device
+ may be used for capturing noise data indicative of loud noises
+ associated with a vehicle traveling over a pot hole or other debris.
+ Indeed, as will be appreciated from the description herein, the
+ sensing unit 121a may include any road condition detecting device
+ capable of detecting useful data indicative of one or more road
+ conditions. Additionally, in some embodiments, the various
+ cameras and/or sensors of the road condition sensor array 120 may
+ have zoom capabilities in order to capture road condition data with
+ at varying degrees of granularity. As shown in FIG. 2, the various devices of the sensing unit Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 30 of 56 Signing Date:13.03.2024 22:46 121¢ are secured within a mounting housing 122a. In the illustrated
+ embodiment, the mounting housing 122a is mounted to the front
+ bumper of vehicle 110 and faces the road surface directly in front
+ of the vehicle 110 (e.g. as indicated by the dashed lines in FIG. 2).
+ In certain embodiments, the mounting housing 122 includes a
+ quick release mechanism configured to engage a mating member
+ on the vehicle's front bumper. This allows the sensing unit 121a to
+ be easily removed from vehicle 110 and easily mounted on another
+ vehicle. Moreover, as will be appreciated from the description
+ herein, the vehicle 110 may include a plurality of mating members
+ positioned at various locations on the vehicle 110 (e.g., front
+ bumper, rear bumper, centrally underneath vehicle, side of vehicle
+ frame, etc.) such that the one or more road condition sensor arrays
+ 120 can be secured at various locations on the vehicle 110. In the illustrated embodiment, the road condition sensing
+ array 120 also includes a rear sensing unit 121b secured within a
+ rear mounting housing 122b. According to various embodiments,
+ the rear sensing unit 121b may comprise the same, or one or more
+ of, the various sensors and detection devices provided in the front
+ sensing unit 121a. In addition, the rear mounting housing 122b
+ may be substantially the same as, or similar to, the front mounting
+ housing 122a. As will be appreciated from FIG. 2, the provision of
+ both front and rear sensing units 121a, 122b enables the road
+ condition sensing array 120 to capture additional road condition
+ data to verify various road conditions. Indeed, in certain
+ embodiments, the rear sensing unit 121b may be configured to
+ capture road condition data to confirm road conditions indicated by
+ the road condition data captured by the front sensing unit 121a. In various other embodiments, the sensing units 121a, 121b
+ and mounting housings 122a, 122b may be provided at any suitable
+ location on the vehicle 110 depending on its configuration and
+ intended use. In addition, according to various embodiments, less
+ or additional sensing units may be provided as needed. For
+ example, in certain embodiments. only a single front or rear
+ sensing unit may be provided. In other embodiments, additional
+ sensing units may be placed on lateral sides of the vehicle. Onboard Computer & Communications Network
+
+ According to various embodiments, the road condition
+ sensor array's sensing units 121a, 121b may be controlled by the
+ vehicle's onboard computer 130. In various embodiments, the
+ onboard computer 130 comprises at least one processor, a location-
+ determining device or sensor (e.g., a GPS sensor), a real-time
+ clock, J-Bus protocol architecture, an electronic control module Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 31 of 56 Signing Date:13.03.2024 22:46 (ECM), a port for receiving data from vehicle sensors located on
+ the vehicle 110, a communication port for receiving instruction
+ data, a radio frequency identification (RFID) tag, a power source, a
+ data radio for communication with a WWAN, a WLAN and/or a
+ WPAN, a programmable logic controller (PLC), and one or more
+ memory storage devices. The memory storage devices may include
+ volatile memory and/or non-volatile memory, which can be
+ embedded and/or may be removable. For example, the non-volatile
+ memory may be embedded or removable multimedia memory
+ cards ("MMCs"), secure digital ("SD") memory cards. Memory
+ Sticks, EEPROM, flash memory, hard disk, or the like. The
+ memory storage device may also include DRAM and NVRAM
+ memory modules. In other embodiments, various components of
+ the onboard computer 130 (e.g., the RFID tag, the location sensor,
+ and the PLC) may be located in the vehicle 110, external from the
+ onboard computer 130. The onboard computer's location sensor may be, for
+ example, a GPS-based sensor compatible with a low Earth orbit
+ (LEO) satellite system, medium Earth orbit satellite system, or a
+ Department of Defense (DOD) satellite system. Alternatively,
+ triangulation may be used in connection with various cellular
+ towers positioned at various locations throughout a geographic area
+ in order to determine the location of the vehicle 110. The location
+ sensor may be used to receive position, time, and speed data. In
+ addition, the location sensor may be configured to detect when its
+ vehicle 110 has entered or exited a GPS-defined geographic area
+ (e.g., a geo-fenced area). As will be appreciated from the
+ description herein, more than one location sensor may be utilized,
+ and other similar techniques may likewise be used to collect geo-
+ location information associated with the vehicle 110. In addition, various embodiments of the onboard computer 130
+ may include multiple processors configured for carrying out the
+ various processes described herein. As will be appreciated from the
+ description herein, the onboard computer 130 may not include
+ certain of the components described above, and may include any
+ other suitable components in addition to, or in place of, those
+ described above. As an example, the onboard computer 130 may
+ include various types of communications components (e.g., to
+ support new or improved communications techniques). In the illustrated embodiment, the onboard computer 130 is
+ generally configured to communicate with the road condition
+ sensor array's sensing units 121a, 121b in order to (i) control when
+ the sensing units 121a, 122b capture road condition data, (ii) store
+ the road condition data captured by the sensing units 121a, 122b, Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 32 of 56 Signing Date:13.03.2024 22:46 and (iii) transmit the stored road condition data to the central server
+ 170 and/or the user device 180. For example, in one embodiment,
+ the onboard computer 130 causes the sensing units 121a, 122b to
+ capture road condition data continuously as the vehicle 110 travels.
+ In other embodiments, the onboard computer 130 causes the
+ sensing units 121a, 122b to capture road condition data at given
+ time intervals when the vehicle 110 is on (e.g., such that all of the
+ sensing unit's sensors capture data every second, every 2 seconds,
+ or every 5 seconds). In other embodiments, the onboard computer
+ 130 causes the sensing units 121a, 122b to capture road condition
+ data at given distance intervals as the vehicle 110 travels down
+ road 5 (e.g., such that all of the sensing unit's sensors capture data
+ every 5 feet, every 10 feet, or every 50 feet traveled). In further embodiments, the onboard computer 130 causes
+ the sensing units 121a, 122b to start or stop capturing road
+ condition data when the vehicle 110 changes direction, goes over a
+ bump, or accelerates. In addition, the onboard computer 130 may
+ be configured to monitor signals received from the sensing units
+ 121a, 122b and capture data only when certain predefined
+ parameters are met (e.g., illumination intensity below a predefined
+ valued or a road surface profile deviating more than a certain
+ amount from a predefined base profile). Moreover, the onboard
+ computer 130 may be configured to trigger data capture by one or
+ more specific devices in the sensing units 121a, 122b according to
+ the criteria above. Indeed. as will be appreciated from the
+ description herein, the onboard computer 130 may be programmed
+ to trigger data capture by the sensing units 121a, 122b according to
+ any desirable parameters. As noted above, the onboard computer 130 includes a
+ location-determining device or sensor, such as a GPS sensor, and a
+ real-time clock. Accordingly, in various embodiments, the onboard
+ computer 130 may be configured to associate and store location
+ and/or date and time information--e.g., as indicated by the location
+ sensor and clock--with the road condition data collected by the
+ road condition sensor array 120. By associating location and date
+ and time information with the road condition data captured by the
+ road condition sensor array 120, the physical and temporal location
+ of a road hazard indicated by the road condition data may be
+ determined (e.g., by the central server 170 as explained below). In various embodiments, the road condition data captured
+ by the road condition sensor array 120 may be stored in the
+ onboard computer 130 (e.g. in the computer's memory storage
+ devices). For example, in certain embodiments, the onboard
+ computer 130 is configured to store road condition data collected
+ by the road condition sensor array 120 continuously as it is
+ captured. In other embodiments, the onboard computer 130 is Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 33 of 56 Signing Date:13.03.2024 22:46 configured to store road condition data collected by the road
+ condition sensor array 120 only if the onboard computer 130
+ detects a deviation in the road condition data that may indicate the
+ presence of a road hazard (e.g., a change in vibration frequency or
+ road surface profile). In yet another embodiment, the onboard
+ computer 130 is configured to store only road condition data
+ captured within a particular geo-fenced area. As described in greater detail below, the road condition
+ data captured by the road condition sensor array 120 and stored by
+ the onboard computer 130 is transmitted to the central server 170
+ via a communications network 150. According to various
+ embodiments of the present invention, the communications
+ network 150 may be capable of supporting communication in
+ accordance with any one or more of a number of second-generation
+ (2G), 2.5G and/or third-generation (3G) mobile communication
+ protocols or the like. More particularly, the network 150 may be
+ capable of supporting communication in accordance with 2G
+ wireless communication protocols IS-136 (TDMA), GSM, and IS-
+ 95 (CDMA). Also, for example, the network 150 may be capable
+ of supporting communication in accordance with 2.5G wireless
+ communication protocols GPRS, Enhanced Data GSM
+ Environment (EDGE), or the like. In addition, for example, the
+ network 150 can be capable of supporting communication in
+ accordance with 3G wireless communication protocols such as
+ Universal Mobile Telephone System (UMTS) network employing
+ Wideband Code Division Multiple Access (WCDMA) radio access
+ technology. Some narrow-band AMPS (NAMPS), as well as
+ TACS, network(s) may also benefit from embodiments of the
+ present invention, as should dual or higher mode mobile stations
+ (e.g., digital/ analog or TDMA/CDMA/analog phones). As yet
+ another example, the network 150 may support communication in
+ accordance with techniques such as, for example, radio frequency
+ (RF), Bluetooth™, infrared (IrDA), or any of a number of different
+ wireless networking techniques, including Wireless LAN (WLAN)
+ techniques. In certain embodiments, the onboard computer 130 may be
+ configured to transmit stored road condition data whenever it is
+ able to establish a successful connection with the central server 170
+ via a WLAN component of the network 150 (e.g., when the vehicle
+ 110 returns to a hub broadcasting a wireless networking signal). In
+ addition, the onboard computer 130 may be further configured to
+ immediately transmit (e.g. via 3G cellular network) captured road
+ condition data meeting predefined "alert" parameters (e.g., road
+ condition data clearly indicating a road hazard, such as a pothole or
+ debris). In such embodiments, the onboard computer 130 (and/or Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 34 of 56 Signing Date:13.03.2024 22:46 central server 170) may be further configured to transmit the alert-
+ status road condition data to the Department of Transportation,
+ local media outlets, or other online road condition services in order
+ to provide real-time status updates for various roads. Central Server
+ According to various embodiments, the road condition data
+ captured by the road condition sensor array 120 and stored by the
+ onboard computer 130 may be subsequently transmitted over the
+ network 150 to the central server 170 for post processing. As will
+ be appreciated from the description herein, the central server 170
+ includes various devices for performing one or more functions in
+ accordance with embodiments of the present invention, including
+ those more particularly shown and described herein. However,
+ various embodiments of the central server 170 may include
+ alternative devices for performing one or more like functions
+ without departing from the spirit and scope of the present
+ invention. In various embodiments, the central server 170 includes a
+ processor that communicates with other elements within the central
+ server 170 via a system interface or bus. In some embodiments, the
+ central server 170 includes a display device/input device for
+ receiving and displaying data. This display device/input device
+ may be, for example, a keyboard or pointing device that is used in
+ combination with a monitor. In certain embodiments, the central
+ server 170 may not include a display device/input device and may
+ be alternatively accessed by a separate computing device (e.g., a
+ networked workstation) having a display device and input device.
+ The central server 170 further includes memory, which preferably
+ includes both read only memory (ROM) and random access
+ memory (RAM). The server's ROM is used to store a basic
+ input/output system (BIOS), containing the basic routines that help
+ to transfer information between elements within the central server 170. In addition, the central server 170 includes at least one
+ storage device--such as a hard disk drive, a floppy disk drive, a
+ CD Rom drive, or optical disk drive--for storing information on
+ various computer-readable media, such as a hard disk, a removable
+ magnetic disk, or a CD-ROM disk. As will be appreciated by one
+ of ordinary skill in the art, each of these storage devices is
+ connected to the system bus by an appropriate interface. The
+ storage devices and their associated computer-readable media
+ provide nonvolatile storage for a personal computer. It is important
+ to note that the computer-readable media described above could be
+ replaced by any other type of computer-readable media known in
+ the art. A number of program modules may be stored by the Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 35 of 56 Signing Date:13.03.2024 22:46 various storage devices and within RAM. Such program modules
+ include an operating system and/or a plurality of program modules
+ (e.g., one or more modules configured for analyzing road condition
+ data). According to various embodiments, the modules control
+ certain aspects of the operation of the central server 170 with the
+ assistance of the processor and operating system. Also located within the central server 170 is a network
+ interface for interfacing and communicating with other elements of
+ a computer network. It will be appreciated by one of ordinary skill
+ in the art that one or more of the central server 170 components
+ may be located geographically remotely from other central server
+ 170 components. Furthermore, one or more of the components may
+ be combined, and additional components performing functions
+ described herein may be included in the central server 170. While the foregoing describes a single processor, as one of
+ ordinary skill in the art will recognize, the central server 170 may
+ comprise multiple processors operating in conjunction with one
+ another to perform the functionality described herein. In addition to
+ the memory, the processor can also be connected to at least one
+ interface or other means for displaying, transmitting and/or
+ receiving data, content or the like. In this regard, the interface(s)
+ can include at least one communication interface or other means
+ for transmitting and/or receiving data, content or the like, as well
+ as at least one user interface that can include a display and/or a
+ user input interface. The user input interface, in turn, can comprise
+ any of a number of devices allowing the entity to receive data from
+ a user, such as a keypad, a touch display, a mouse, a joystick or
+ other input device. While reference is made to a central "server" 170, as one
+ of ordinary skill in the art will recognize, embodiments of the
+ present invention are not limited to a client-server architecture. The
+ system of embodiments of the present invention is further not
+ limited to a single server, or similar network entity or mainframe
+ computer system. Other similar architectures including one or
+ more network entities operating in conjunction with one another to
+ provide the functionality described herein may likewise be used
+ without departing from the spirit and scope of embodiments of the
+ present invention. For example, a mesh network of two or more
+ personal computers (PCs), or similar electronic devices,
+ collaborating with one another to provide the functionality
+ described herein in association with the central server 170 may
+ likewise be used without departing from the spirit and scope of
+ embodiments of the present invention. In the illustrated embodiment, the central server 170 is
+ configured to receive road condition data from the onboard
+ computer 130 via network 150. For example, in certain s
+ embodiments, the central server 170 may receive a substantially Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 36 of 56 Signing Date:13.03.2024 22:46 real-time data feed via network 150. In other embodiments, the
+ central server 170 may receive road condition data downloaded
+ from the onboard computer 130 when the vehicle 110 is in range of
+ a WLAN. Processing of Road Condition Data
+ FIG. 3 illustrates steps executed by the road condition
+ detection system 100 to analyze captured road condition data
+ according to one embodiment. As shown in FIG. 3, the process
+ begins at step 302 where road condition data captured by the road
+ condition sensor array 120 is transmitted to the onboard computer
+ 130 via a road sensor input interface. Next, at step 204, the
+ onboard computer 130 performs continuous storage and buffering
+ of the road condition data received from the sensor array 120. Simultaneously, in step 306, the onboard computer 130
+ analyzes the vibration data present in the road condition data. At
+ step 308, the onboard computer determines whether a bump has
+ been indicated by the vibration data. For example, where the
+ vehicle travels over a pothole or piece of debris, the vibration data
+ captured by the sensor array's vibration sensor (e.g., an
+ accelerometer) will indicate a sharp change in vibration. If a bump
+ is detected, the onboard computer moves to step 310 where it
+ marks the road condition data corresponding to the detected bump
+ and freezes the data buffer (e.g., saving and marking the previous
+ one minute of data). Next, at step 312, the onboard computer 130 determines
+ whether real time transmission of road condition information is
+ enabled. If real time transmission is enabled, the onboard computer
+ 130 moves to step 314 where it immediately transmits road
+ condition data captured around the impact of the detected bump.
+ For example, in one embodiment, the onboard computer 130 may
+ immediately transfer the relevant road condition data to the central
+ server 170 for processing and transmission to various user devices 180. In other embodiments, the onboard computer 130 may be
+ configured to be configured to immediately transmit the relevant
+ road condition data directly to a user device 180. In yet another
+ embodiment, the onboard computer 130 may be configured to
+ immediately generate and transmit road condition information
+ indicative of the detected bump and/or any related road conditions
+ to the user device 180. In this way, hazardous conditions may be
+ transmitted in real-time wirelessly to users for immediate updates
+ regarding road conditions. Turning now to step 316, the onboard computer 130 is
+ further configured to perform an end-of-day upload of all captured
+ road condition data. For example, as noted above, in one
+ embodiment the onboard computer 130 may be configured to
+ transmit all captured road condition data to the central server 170 Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 37 of 56 Signing Date:13.03.2024 22:46 at the end of work day when a WLAN 2 connection can be
+ established with the central server. Next, at step 318, post
+ processing of the captured road condition data is performed by the
+ central server 170. In certain embodiments, this may include
+ reformatting the data and associating the captured road condition
+ data with GPS coordinates and time stamp data to provide context
+ to the captured road condition data. Next, at step 320, the central server next performs signature
+ recognition analyses of the road condition data to determine further
+ information regarding road conditions. These analyses are
+ described in greater detail below in regard to the exemplary
+ method shown in FIG. 4. Finally, at step 322, the central server 170
+ generates finalized reports and contents for distribution to various
+ user devices 180. The reports and content may include, but are not
+ limited to, map data for display on existing digital maps indicating
+ one or more road conditions (e.g., on Google Maps), reports on the
+ conditions of roads in certain areas, text messages alerting users to
+ various road hazards, and the like. In certain embodiments, a report
+ may be generated where a user may use a viewer to fast forward
+ through video data to locations where hazardous road conditions
+ have been identified. Referring back to step 320 in greater detail, various
+ embodiments of the central server 170 are generally configured for
+ analyzing road condition data received from the onboard computer
+ 130 to identify hazardous road conditions indicated by signatures
+ in the data. In various embodiments, the central server 170 includes
+ a pattern recognition module for processing the road condition
+ data. As described in greater detail below, the pattern recognition
+ module is generally configured for sensing deviations in the road
+ condition data which may indicate various specific road conditions
+ or road hazards. FIG. 4 illustrates steps executed by the pattern recognition
+ module according to one embodiment. Beginning at step 190, the
+ pattern recognition module identifies and retrieves target road
+ condition data. For example, in certain embodiments, a user may
+ request that the central server 170 analyze data for a particular area
+ (e.g.. a geo-fenced area such as a county, city, highway,
+ neighborhood, or the like) received during a particular time period
+ (e.g., within the past week). In this case, the pattern recognition
+ module would review the road condition data it has received from
+ the onboard computer 130 and identify road condition data
+ captured at locations within the user-specified area during the user-
+ specified time period. As will be appreciated from the description
+ herein, the pattern recognition module may be configured to
+ retrieve target data relating to any set of user parameters. Next, at step 200, the pattern recognition module analyzes.
+ the video data (e.g., the video or image data captured by the Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 38 of 56 Signing Date:13.03.2024 22:46 sensing unit's optical camera) present in the retrieved road
+ condition data to identify potential road imperfections. For
+ example, as the vehicle 110 travels along the road 5 in FIG. 2, the
+ video data will show relatively consistent images of the road
+ surface. However, where potholes, cracks, debris, or other
+ imperfections are present, the pattern recognition module will
+ identify these deviations in the image signature and associate them
+ with road imperfections. If the pattern recognition module detect
+ imperfections in the road's surface based on the video data, the
+ module moves to step 201 where the associated data is stored (e.g.,
+ in the server's memory storage areas). In addition, at step 201, the
+ pattern recognition module will determine the location and time of
+ the captured data associated with the road imperfection and
+ associate this location/time data with the stored video data for use
+ in generating images of road imperfections. Next, at step 202, the pattern recognition module analyzes
+ the surface profile data (e.g., data captured by the sensing unit's
+ road surface scanner) present in the retrieved target road condition
+ data to identify potential road imperfections. For example, as the
+ vehicle 110 travels along the road 5 in FIG. 2, the surface profile
+ data will indicate a relatively consistent road profile (e.g., a
+ consistent detected distance from the scanner to the road surface).
+ However, where the vehicle 110 travels over a pothole or piece of
+ debris in the road, the surface profile data will deviate significantly
+ and indicate an abnormal surface profile. Accordingly, the pattern
+ recognition module is configured to identify deviations or
+ abnormalities in the surface profile data. In addition, the pattern
+ recognition module may be configured to compare the surface
+ profile data in the target data with historical surface profile data to
+ identify changes in the road surface profile over a period of time
+ (e.g., by comparing earlier surface profile measurements captured
+ at a particular location with the most recent surface profile
+ measurement for the particular location to identify surface profile
+ deviations or abnormalities). As shown in FIG. 4, if the pattern recognition module does
+ not detect imperfections in the road's surface profile based on the
+ surface profile data, the module moves to step 204. However, if the
+ pattern recognition module does detect imperfections in the road's
+ surface profile, the module moves to step 203 where the associated
+ data is stored (e.g., in the server's memory storage areas). In
+ addition, at step 203, the pattern recognition module will determine
+ the location and time of the captured data associated with the road
+ imperfection and associate this location/time data with the stored
+ surface profile data for use in generating graphical representations
+ of road imperfections. Next, at step 204, the pattern recognition module analyzes
+ the vibration data (e.g., data captured by the sensing unit's
+ vibration sensor) present in the retrieved target road condition data
+ to identify potential road imperfections. For example, as a vehicle
+ 110 travels along the road 5 in FIG. 2, the vibration data will
+ indicate relatively consistent road profile (e.g., a consistent
+ vibration frequency detected as the vehicle 110 moves). However.
+ where the vehicle 110 travels over a pothole or piece of debris in
+ the road, the vibration data will deviate significantly and indicate
+ an abnormal surface profile (e.g., a sharp change in vibration
+ frequency or magnitude). Accordingly, the pattern recognition
+ module is configured to identify deviations or abnormalities in the
+ vibration data. As shown in FIG. 4, if the pattern recognition module does
+ not detect imperfections in the road's surface profile based on the
+ vibration data, the module moves to step 206. However, if the
+ pattern recognition module does detect imperfections in the road's
+ surface profile, the module moves to step 205 where the associated
+ data is stored (e.g., in the server's memory storage areas), In
+ addition, at step 205, the pattern recognition module will again
+ determine the location and time of the captured data associated
+ with the road imperfection and associate this location/time data
+ with the stored vibration data for use in generating graphical
+ representations of road imperfections. Next, at step 206, the pattern recognition module analyzes
+ the illumination level data (e.g., data captured by the sensing unit's
+ optical camera) present in the retrieved target road condition data
+ to identify potential low illumination sections of road. For
+ example, as a vehicle 110 travels along the road 5 in FIG. 2, the
+ illumination level data will indicate relatively consistent
+ illumination (e.g., either a consistent day- light luminous intensity
+ or, during the night, a consistent artificial light luminous intensity).
+ However, where the vehicle 110 travels on a portion of road where
+ a street light is out - or that is otherwise poorly lit - the illumination
+ level data will deviate significantly and indicate an abnormal
+ illumination level (e.g., a sharp change in illumination intensity).
+ Accordingly, the pattern recognition module is configured to
+ identify deviations or abnormalities in the illumination level data.
+ In addition, the pattern recognition module may be configured to
+ compare the illumination level data in the target data with
+ historical illumination level data to identify changes in illumination
+ levels over a period of time (e.g., by comparing earlier illumination
+ level measurements captured at a particular location at a particular
+ time of day with the most recent illumination level measurement
+ for the particular location at the particular time of day to identify Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 40 of 56 Signing Date:13.03.2024 22:46 illumination level deviations or abnormalities). As shown in FIG. 4, if the pattern recognition module does
+ not detect low illumination levels based on the illumination level
+ data, the module moves to step 208. However, if the pattern
+ recognition module does detect low illumination levels, the module
+ moves to step 207 where the associated data is stored (e.g., in the
+ server's memory storage areas). In addition, at step 207, the pattern
+ recognition module will again determine the location and time of
+ the captured data associated with the low illumination levels an
+ associate this location/time data with the stored illumination level
+ data for use in generating graphical representations road
+ imperfections. Next, at step 208, the pattern recognition module generates
+ a graphical representation of various road condition indicated by
+ the target road condition data. For example, in one embodiment,
+ the graphical representation may comprise an interactive road map
+ showing the location of potential road imperfections (e.g., potholes
+ or debris) and low illumination areas (e.g., where a street or tunnel
+ light is out). In this way, a user is able to view road conditions
+ existing within the parameters set for the target data (e.g., hazards
+ within a particular area and/or time period). In addition, the
+ interactive road map may be configured to automatically match
+ before and after images and/or data regarding particular condition
+ so the user is provided with comparative information about the
+ current and prior state of the condition. For example, in one
+ embodiment, a user may select a particular road hazard on the map
+ and the pattern recognition module will retrieve the most recent
+ image of the hazard (e.g., an image of a pothole captured by the
+ optical camera) and next most recent image of the hazard (e.g., an
+ earlier image of the same location before pot hole was formed). As will be appreciated from the description herein, various
+ embodiments of the pattern recognition module may be configured
+ to analyze additional road condition data to identify other road
+ conditions. For example, as noted above, the sensing unit 121 may
+ be configured to capture reflectivity data indicative of the
+ reflection coefficient of a road surface. As such, the pattern
+ recognition module may be configured to analyze any captured
+ reflectivity data and identify data indicating an abnormal
+ reflectivity (e.g., where the road is wet or icy). Additionally, the
+ pattern recognition module may be configured to similarly analyze
+ infrared data (e.g. to identify iced roads) and noise data (e.g., to
+ identify debris or road imperfections). Furthermore, the pattern
+ recognition module may be configured to show conditions
+ indicated by this additional data on any generated graphical Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 41 of 56 Signing Date:13.03.2024 22:46 representations, such as the interactive map noted above. The
+ pattern recognition system may also be configured to identify
+ additional conditions indicated by the road condition data. For
+ example, in certain embodiments, the illumination level data and
+ reflectivity data may be used to indicate weather conditions in a
+ particular area (e.g., sunny, cloudy, raining, etc.). In addition, the
+ condition of painted lines on roads (e.g., lane markers) may be
+ evaluated based on captured video data, reflectivity data, or the like
+ (e.g., to determine whether painted lines are weathered and need to
+ be repainted). In various embodiments, the pattern recognition module
+ may also be configured to use the hazards or conditions to
+ calculate a road condition index representing a relative hazard level
+ for a particular road or area. For example, in certain embodiments,
+ the road condition index may be calculated using a predetermined
+ function of the number of identified hazards occurring over a given
+ length of road and/or the illumination level over a given length of
+ road. In further embodiments, the predetermined function for
+ calculating the road condition index may take into account the
+ severity of the identified hazards. For example, in various
+ embodiments, a deep pot hole indicated by surface profile data
+ may be weighted more heavily in the road condition index
+ calculation than a light bump indicated by the vibration data. In
+ certain embodiments, the sensor array may also be configured to
+ direct certain optical cameras towards road signs or mile markers
+ and captures images indicating where other associated road
+ condition data is being captured. Use of Road Condition Sensor Arrays in Vehicle Fleet
+
+ According to various embodiments, the road condition
+ detection system 100 may be adapted for use with a fleet of
+ vehicles in order to provide comprehensive road condition updates.
+ The vehicle fleet may be, for example, that of a freight or mail
+ carrier (e.g., the United States Postal Service or United Parcel
+ Service, Inc.), a public transportation provider (e.g., city buses
+ and/or taxis), or one or more rental car agencies. In such
+ embodiments, road condition sensor arrays 120 are provided on
+ numerous vehicles in the fleet and configured to transmit captured
+ road condition data to the central server 170. In this way, road
+ condition data indicative of all roads on which the equipped
+ vehicles travel can be collected and analyzed by the central server
+ 170 (e.g., using the methods described above). By providing roads
+ condition sensor arrays on one or more large vehicle fleets, road
+ condition data may be captured and analyzed to indicate road
+ conditions over a wide area. In embodiments where the central server 170 receives large
+ amounts of road condition data from road condition sensor arrays
+ 120 in a vehicle fleet, the server's pattern recognition module may
+ be configured to repeat steps 202-208 for all received road
+ condition data in order to continuously identify potential road
+ hazards. In various embodiments, information about identified road
+ conditions may be communicated to the Department of
+ Transportation, local media outlets, online road condition services,
+ directly to user devices 180, and/or stored by server 170. In
+ addition, the pattern recognition module may be further configured
+ to continuously update the above-described interactive map (e.g.,
+ by periodic updates in accordance with the transmission of road
+ condition data from the onboard computers 130 to the server 170
+ and by immediate "alert" updates in the scenarios noted above).
+ This updated, global interactive road map may also include
+ calculated road condition indexes. In various embodiments, the global interactive map may be
+ made accessible via a website or other remote application such that
+ it can be accessed via the network 150 and viewed one a remote
+ personal computer, smart phone, or other device. In this way, the
+ interactive map can be accessed and viewed by drivers,
+ government agencies, and others interested in updates on the status
+ of potential road hazards. In further embodiments, the central
+ server 170 may be configured for indicating potential road hazards
+ on other map-based systems, such as Google Maps, Bing Maps, or
+ Apple Maps. As noted above, the road condition information
+ provided in this way may be used to plan road repairs, salting,
+ other road maintenance, as well as to provide status updates for
+ commuters in order to avoid traffic and potential vehicle damage. CONCLUSION
+
+ As will be appreciated from the description herein, the
+ components and operation of the road condition detection system
+ 100 may be modified according to various embodiments. For
+ example, various sensing devices may be employed in the road
+ condition sensor array's sensing unit 121 to capture a variety of
+ road condition data. In addition, the central server 170 may be
+ configured accordingly to identify various hazards and other
+ conditions based on the captured road condition data using various
+ methods or algorithms. Moreover, according to various
+ embodiments, the road condition data may be processed as
+ described herein by the central server 170, the onboard computer
+ 130, any other suitable computing device, or some combination
+ thereof. Indeed, many modifications and other embodiments of the Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 43 of 56 Signing Date:13.03.2024 22:46 inventions set forth herein will come to mind to one skilled in the
+ art to which these inventions pertain having the benefit of the
+ teachings presented in the foregoing descriptions and the
+ associated drawings. Therefore, it is to be understood that the
+ inventions are not to be limited to the specific embodiments
+ disclosed and that modifications and other embodiments are
+ intended to be included within the scope of the appended claims.
+ Although specific terms are employed herein, they are used in a
+ generic and descriptive sense only and not for purposes of
+ limitation. That which is claimed: Mr. Rana submits that, in assessing whether the later patent would be
+ obvious or anticipated from the earlier patent, the Court is required, as
+ per the judgment of the Division Bench of this Court in F. Hoffmann
+ La Roche Ltd v. Cipla Ltd2 , to (i) identify a person ordinarily skilled in the art, (ii) identify the inventive concept embodied in the patent, Signature Not Verified 2 2015 SCC OnLine Del 13619
+Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 48 of 56 Signing
+Date:13.03.2024 22:46 (iii) impute, to the normally skilled but unimaginative
+ ordinary person skilled in the art what was common general
+ knowledge in the art at the priority date, (iv) identify the differences between the matter cited and the
+ alleged invention and ascertain whether the differences are
+ merely workshop improvements or actually involve inventive
+ steps, (v) determine whether the differences would be obvious to a
+ person skilled in the art without having to adopt a hindsight
+ approach. Viewed thus, Mr. Rana submits that it cannot be said that the subject
+ patent has no inventive step vis-à-vis D-2. Analysis 34. When one reads the complete specifications in D-2 vis-à-vis the
+ principal features of the subject patent which are claimed to be
+ inventive, the conclusion is inevitable that all the said features are
+ already expressly envisioned in the complete specifications in D-2.
+ For ready reference, and at the cost of repetition, the following
+ extracts from the complete specifications in D-2 may be noted: In other embodiments, the on-board computer is configured to
+ store road condition data collected by the road condition sensor
+ array only if the on-board computer detects a deviation in the
+ road condition data that may indicate the presence of a road
+ hazard..." 35. So comprehensive, indeed, are the complete specifications of
+ the D-2 patent that reference to further extracts therefrom is hardly
+ necessary. A reading of the complete specifications indicates that the
+ D-2 patent has envisioned a system for detecting road anomalies
+ which is largely similar to that envisioned by the subject patent. The
+ principle of a camera capturing road anomalies, which may be an
+ audio or video camera, and which may capture anomalies in the road
+ as the vehicle travels; the principle of the system being mounted on Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 53 of 56 Signing Date:13.03.2024 22:46 one vehicle, vis-à-vis a multitude of vehicles; the transmission of the
+ data captured by the camera/sensor array to the on-board computer;
+ the diverse possibilities of the data being stored on real-time basis, vis-
+ à-vis the data being stored on a backup platform so as to have access
+ to historical data regarding the road; geo-profiling of the road, road
+ conditions, and the network of roads; transmission of the data to a
+ central server which would, either on real-time basis or on the basis of
+ historical data, chart the anomalies in various roads; and final
+ transmission of the data to the users so as to provide information
+ regarding road anomalies and take remedial steps where necessary, are
+ all fully and completely contemplated, captured and visualised by the
+ D-2 patent. The possibility of various embodiments, in which the
+ specifics of the various features of the system for tracking road
+ anomalies may vary, and the specific varied features are all envisaged
+ by the D-2 patent. 36. The aspect of obviousness, vis-à-vis prior art, has, unlike the
+ trade mark regime, to be assessed from the point of view of a person
+ skilled in the art who is possessed of common general knowledge as it
+ exists on the priority date of the prior art, but who is not expected to
+ exercise any imaginative faculties. The authority, or the Court,
+ assessing the aspect of validity of the later patent in view of the
+ teachings contained in the earlier patent, has to reasonably assess
+ whether a person skilled in the art would, or would not, be able to
+ arrive at the later patent from the teachings in the complete
+ specifications of the earlier patent. Absolute identity of the
+ specifications in the two patents is not what is required. What is Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 54 of 56 Signing Date:13.03.2024 22:46 needed is sufficiency of guidance or teaching in the specifications of
+ the earlier patent which, when coupled with the object sought to be
+ achieved by the later patent, would arm a person skilled in the art,
+ possessed of ordinary general knowledge as it existed on the priority
+ date of the earlier patent, to arrive at the later patent. While trademark
+ infringement is examined from the point of view of a person of
+ average intelligence and imperfect recollection, the person, from
+ whose point of view the aspect of patent infringement is to be
+ examined, or from whose point of view the aspect of obviousness of
+ the later patent from the earlier patent is to be assessed, is a person
+ who is neither of average intelligence nor suffers from any
+ imperfection in recollection. He is a person who is skilled in the art
+ and is, therefore, vis-à-vis the art concerned, possessed of the
+ necessary intelligence and skill as is expected of a person dealing in
+ such matters. 37. The impugned order of the Assistant Controller has extracted
+ certain observations from Order 250/2012 dated 2 November 2012
+ passed by the IPAB, which read: (The person) is not a person of exceptional skill and; knowledge...
+ He must, however, be prepared to display a reasonable degree of
+ skill and common knowledge of the art in making trials..." On the aspect of obviousness, the following observations of the IPAB
+ had been relied upon by the Assistant Controller: To my mind, these observations correctly encapsulate the principle of
+ obviousness, and the indicia of an inventive step, vis-à-vis prior art, as
+ a requirement of a valid patent. 38. Given the weight and amplitude of the teachings in the
+ complete specifications of the D-2 patent, I find no reason to differ
+ with the decision of the Assistant Controller, insofar as it holds that
+ the subject patent is invalid on the ground of obviousness and lack of
+ inventive step, when compared with the prior art D-2. Conclusion 39. For all the aforesaid reasons, the appeal fails and is dismissed. C.HARI SHANKAR, J
+ MARCH 1, 2024
+ rb/dsn Signature Not Verified Digitally Signed By:AJIT KUMAR C.A.(COMM.IPD-PAT) 3/2021 Page 56 of 56 Signing Date:13.03.2024 22:46

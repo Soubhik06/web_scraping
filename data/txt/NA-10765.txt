@@ -1,0 +1,864 @@
+1gi
+
+ NATIONAL INFORMATICS CENTRE SERVICES INCORPORATED
+ (A Government of India Enterprise under NIC)
+ MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY
+
+ REQUEST FOR PROPOSAL
+
+ From vendors for empanelment with NICSI
+ for
+ Open Source Software Support Services
+
+ TENDER NO. NICSI/OPEN SOURCE SOLUTION/2017/05
+
+ 15, First Floor, NBCC Tower
+ Bhikaji Cama Place, New Delhi - 110066. TeL: 011- 26105054, Fax: 011-26105212 Page 1 of 59 Table of Contents
+
+1 ABOUT NICSI .......................................................................................................................................6
+2 ABOUT THIS TENDER ........................................................................................................................6
+ 2.1 SCOPE OF WORK .................................................................................................................... 8
+ 2.2 IMPORTANT DATES .............................................................................................................. 12
+ 2.3 EARNEST MONEY DEPOSIT ................................................................................................ 13
+3 PRE-BID QUERIES ............................................................................................................................ 14
+4 BID SUBMISSION .............................................................................................................................. 14
+5 BID OPENING .................................................................................................................................... 18
+6 BID EVALUATION ............................................................................................................................. 18
+ 6.1 PRE-QUALIFICATION EVALUATION ................................................................................. 18
+ 6.2 TECHNICAL BID EVALUATION .......................................................................................... 19
+ 6.3 FINANCIAL BID EVALUATION ............................................................................................ 19
+7 EMPANELMENT OF SUCCESSFUL BIDDER ................................................................................ 20
+ 7.1 EMPANELMENT CONDITIONS .......................................................................................... 20
+ 7.2 SECURITY DEPOSIT .............................................................................................................. 21
+ 7.3 PERFORMANCE BANK GUARANTEE .................................................................................22
+8 PLACING OF ORDERS.......................................................................................................................22
+9 PAYMENT ...........................................................................................................................................23
+10 REFUND OF EMD & SECURITY DEPOSIT .....................................................................................23
+11 GENERAL TERMS & CONDITIONS ................................................................................................ 24
+ 11.1 CONDITIONS ......................................................................................................................... 24
+ 11.2 MICRO, SMALL & MEDIUM ENTERPRISES DEVELOPMENT ACT ................................25
+ 11.3 PRICE VARIATION CLAUSE .................................................................................................25
+ 11.4 LIMITATION OF LIABILITY ................................................................................................ 26
+ 11.5 INDEMNITY........................................................................................................................... 26
+ 11.6 TERMINATION FOR INSOLVENCY .................................................................................... 27
+ 11.7 FORCE MAJEURE .................................................................................................................. 27
+ 11.8 TERMINATION FOR DEFAULT ........................................................................................... 27
+ 11.9 ARBITRATION ....................................................................................................................... 28
+ 11.10 CONCILIATION ..................................................................................................................... 28
+ 11.11 APPLICABLE LAW ................................................................................................................ 28
+12 SPECIAL TERMS & CONDITIONS .................................................................................................. 29
+13 ANNEXURE ....................................................................................................................................... 30
+ ANNEXURE 1. Eligibility Criteria .................................................................................................. 31 Page 2 of 59 ANNEXURE 2. Technical specifications ........................................................................................34
+ANNEXURE 3. SLA ........................................................................................................................ 42
+ANNEXURE 4. Bidder's profile ..................................................................................................... 46
+ANNEXURE 5. Format for project preferences ............................................................................ 48
+ANNEXURE 6. Self-declaration .................................................................................................... 49
+ANNEXURE 7. Financial bid proforma template .......................................................................... 51
+ANNEXURE 8. Service network .....................................................................................................54
+ANNEXURE 9. Format for Performance Bank Guarantee ........................................................... 57
+ANNEXURE 10. List of Enclosures ................................................................................................59 Page 3 of 59 Abbreviations
+
+CSS Closed Source Software
+OSS Open Source Software
+API Application Programming Interface
+BG Bank Guarantee
+CDMA Code Division Multiple Access
+CMS Content Management System
+CST Central Sales Tax
+CVC Central Vigilance Commission
+MeitY Ministry of Electronics and Information Technology
+EMD Earnest Money Deposit
+FEC Financial Evaluation Committee
+GOI Government of India
+GFR General Financial Rules
+GTV Gross Total Value
+GSM Global System for Mobile communication
+HQ Head Quarter
+HR Human Resource
+HTML Hyper Text Markup Language
+HTTP Hypertext Transfer Protocol
+HTTPS Hypertext Transfer Protocol Secure
+ICADR International Centre for Alternative Dispute
+ Resolution
+ICT Information and Communication Technology
+ILAC International Laboratory Accreditation
+ISO International Organization for Standardization
+IT Information Technology
+ITR Income Tax Report
+LBT Local Body Tax
+JDK Java Development Kit
+MAF Manufacturer Authorizations Form
+NIC National Informatics Centre
+NICNET National Informatics Centre Network
+NICSI National Informatics Centre Services Incorporated
+NSIC National Small Industries Corporation
+OEM Original Equipment Manufacturers
+PBG Performance Bank Guarantee
+PDF Portable Document Format
+PSU Public Sector Undertaking Page 4 of 59 RTGS Real Time Gross Settlement
+SLA Service Level Agreement Page 5 of 59 1 ABOUT NICSI
+
+ The National Informatics Centre Services Inc. (NICSI) was set up in 1995 as a section 25 Company
+ under National Informatics Centre (NIC), Ministry of Communications & Information Technology,
+ Government of India to provide total IT solutions to the Government organizations. NICSI provides
+ services for a number of e-Governance projects undertaken by NIC and Department of Electronics
+ and Information technology (DeitY). Main Objectives: In furtherance of these objectives, NICSI has been providing various products & services to
+ organizations in the Central Government, State Governments and PSUs etc. Products and Services
+ include Hardware, Systems Software, Application Software, Software Development, Intra-
+ Networking, Wide Area Networking, Video Conferencing, IT Consultancy, IT Implementation
+ Support among others. 2 ABOUT THIS TENDER
+
+ Government of India (GoI) is implementing the Digital India programme as an umbrella
+ programme to prepare India for a knowledge based transformation into a digitally empowered
+ society and a knowledge economy. Under the overarching vision of Digital India, GoI aims to make
+ Government services digitally accessible to citizens in their localities and to ensure efficiency,
+ transparency and reliability of such services at affordable costs. To meet this objective, there is a
+ need to set up a commensurate hardware and software infrastructure, which may require significant
+ resources. Interoperability among various e-governance systems is an important prerequisite for
+ upgrading the quality and effectiveness of service delivery. It is also required in order to facilitate
+ the single window concept of electronics services delivery by Government organizations.
+ For promoting open standards for software interoperability across various Government
+ Departments and agencies, GoI has already notified the "Policy on Adoption of Open Source
+ Software for Government of India" and "Technical Standards on Interoperability framework for Page 6 of 59 eGovernance". There is also a "Policy on Open APIs for Government of India" will encourage the
+formal use of open APIs in Government organizations.
+Government of India shall endeavor to adopt Open Source Software in all e-Governance systems
+implemented by various Government organizations, as a preferred option in comparison to Closed
+Source Software (CSS). Adoption of Open Source Software (OSS) has increased worldwide and has
+led to innovations in implementation of ICT solutions across businesses and Governments. The use
+of OSS in the key domains of ICT implementation (like application development, internet
+connectivity, infrastructure, Data Centre and mobile) has helped widespread adoption of open
+source technologies across the world. The OSS solutions have matured to a large extent and millions
+of committed developers are participating in making it conducive to the needs of different areas of
+ICT implementation. The increased convergence of computing platforms facilitates the use of OSS
+together with Open Standards and adoption of web browser as a unified platform for software
+applications. OSS solutions have also found acceptance with many government departments under the GoI. Most
+of these departments use the community edition of the respective OSS solution and are solely
+dependent on the open source communities for any support or help. Such kind of support neither
+Guarantees a resolution nor has any time frame attached to the response and resolution of the
+posted query. In order to bridge this gap in the available support for OSS solutions, NICSI, through this tender,
+desires to select and empanel vendors with proven competence in providing active support services
+to various Central/ State government departments for a range of functional areas as mentioned in
+SCOPE OF WORK. Three types of support services are desired to be procured: In view of the above, this tender requires the empaneled vendors to provide support
+ services on the community versions, which were released in last three years and may be
+ released in future, of the functional areas defined in the table below: Big data, Analytics and Search Engine Hbase/Hadoop, Apache-Couchdb,
+ Redis, Apache-Spark, Apache-Flink,
+ "R-Programming", Pandas-Python- 1. Above mentioned list of open source technologies are indicative. If there is an
+ introduction of any new technology under specified functional area, the bidder has to
+ provide support for the same to the User. 2. The empaneled vendor will be required to provide support for versions of the relevant
+ functional area currently available, released in last 3 (three) years and also all
+ subsequent versions as and when they are released during the period of empanelment. The vendor is expected to provide three types of services mentioned below. A user department
+ would be free to opt for either one or all of these services for a particular functional area based
+ on its requirements. As part of this support service the vendor responsibilities would include the
+ following: date
+
+ Pre-bid meeting date 24.08.2017 at 1130 Hrs
+
+ Bid submission start 31.08.2017 from 0900 Hrs onward.
+ date
+
+ Bid submission end 14.09.2017 till 1500 Hrs. date
+
+ Tender bids opening 15.09.2017 at 1530 Hrs. date Page 12 of 59 2.3 EARNEST MONEY DEPOSIT
+
+ Earnest Money Deposit must be submitted by all the bidders, except those who are
+ registered with the Central Purchase Organization, National Small Industries
+ Corporation (NSIC) or the concerned Ministry or Department only (if they are
+ registered for relevant schedules / products under this tender). The bidder must submit
+ the certification of registration with one of the given authorities. Bidders may bid for
+ any one or multiple functional areas as defined in SCOPE OF WORK.
+ The EMD amount for each functional area is mentioned in below table: 1. If the bidder chooses to bid for multiple functional areas, then the bidder must
+ submit separate EMD in the form of DD/ BG separately. Combined EMD will
+ NOT be accepted by NICSI. For E.g. if the bidder choose to bid for two
+ functional areas as "Programming Language and relational database",
+ bidder must submit EMD separately for amount equivalent to INR 10 Lakhs
+ & INR 12 Lakhs respectively. 2. The Earnest Money Deposit (EMD) must be submitted through Demand
+ Draft/Bank Guarantee of any Scheduled Commercial Bank (drawn in favor of
+ National Informatics Centre Services Inc., New Delhi) physically before Bid
+ submission end date as mentioned in IMPORTANT DATES, otherwise bids
+ will be rejected. However, the scanned copy of Bank drafts must be uploaded
+ (PDF format) electronically on http://eproc-nicsi.nic.in. 3. EMD shall be valid for a period of 180 days from the date of publication of the
+ tender which should be further extendable in case of need. EMD of
+ unsuccessful bidders will be returned, without any interest, on tender
+ finalization. EMD of successful bidders will be returned after they sign letter
+ of empanelment with NICSI and submit a bank guarantee of equal amount for
+ the period of empanelment/extended empanelment. 3 PRE-BID QUERIES
+
+ NICSI will hold a pre bid meeting with the prospective bidders at the designated Pre-bid meeting
+ date as mentioned in IMPORTANT DATES in the NICSI conference hall. Bidder must note that
+ the pre-bid queries should also be sent through e-mail and must be submitted before the due date
+ as mentioned in IMPORTANT DATES . The queries can be sent to NICSI through email at tender- [email protected] . Bidder must submit the pre-bid queries in .xls (Excel) file in below format
+
+ Company name M/s. 4.1. The bids for this tender for each functional areas have to be submitted in accordance with the
+ instructions given below. 4.2. NICSI will not accept delivery of proposal in any manner other than that specified in this
+ section. Proposal delivered in any other manner shall be treated as defective, invalid and
+ rejected. 4.3. Eligibility Criteria proposal and the Technical proposal should not contain any financial
+ information. 4.4. If any bidder does not qualify in technical evaluation, the financial proposal of that bidder
+ shall not be considered for evaluation. 4.5. Online bids (complete in all respect) for all the functional areas must be uploaded on
+ http://eproc-nicsi.nic.in latest before 3:30 pm by Bid submission end date as mentioned in
+ IMPORTANT DATES
+ 4.6. Bid Submission procedure Page 14 of 59 a. Bid submission shall be sub-divided into two (2) parts: Bid Submission
+ (Online) & Bid Submission (Manual Part). b. The packets as mentioned below have to be uploaded online on the NICSI
+ e-procurement portal http://eproc-nicsi.nic.in. For this the Agencies must
+ have obtained a class 2 digital signature certificate as described on the
+ afore-mentioned portal. Packet-1 The file should be saved in a PDF version and marked as: The envelope not containing the above documents or containing the
+ technical or financial bid in explicit / implicit form will lead to rejection
+ of the bid. 4.8. These bids would be valid for a period of 180 days from the date of opening
+4.9. NICSI will not be responsible for any delay on the part of the bidder in obtaining the terms
+ and conditions of the tender notice or submission of the bids either online or the hard copies
+ submitted beyond the Bid submission end date as mentioned in IMPORTANT DATES
+4.10.The bids submitted by fax/ E-mail /manually etc. shall not be considered. No correspondence
+ will be entertained on this matter. 4.11. Conditional tenders shall not be accepted on any ground and shall be rejected straightway. If
+ any clarification is required, the same should be obtained on the Pre bid meeting date as
+ mentioned in IMPORTANT DATES
+4.12. In case, the day of bid submission is declared Holiday by Govt. of India, the next working day
+ will be treated as day for submission of bids. There will be no change in the timings.
+4.13. All pages of the bid being submitted must be signed by the authorized signatory, stamped and
+ sequentially numbered by the bidder irrespective of the nature of content of the documents.
+ Un-signed & un-stamped bid will be summarily rejected.
+4.14. At any time prior to the Bid submission end date , NICSI, may, for any reason, whether
+ at its own initiative or in response to a clarification requested by a prospective bidder, modify
+ the Tender Document by an amendment. The amendment will be notified on NICSI's website
+ http://eproc-nicsi.nic.in and should be taken into consideration by the prospective agencies
+ while preparing their bids. 4.15. In order to give prospective agencies reasonable time to take the amendment into account in
+ preparing their bids, NICSI may, at its discretion, extend the Bid submission end date.
+4.16. No bid must be modified subsequent to the Bid submission end date. No bid must be
+ withdrawn in the interval between the Bid submission end date and the expiry of the bid
+ validity (180 days from the Bid Opening date as mentioned in IMPORTANT DATES.
+ Withdrawal of a bid during this interval may result in forfeiture of bidder's EMD.
+4.17. The bidders must bear all costs associated with the preparation and submission of their bids. NICSI will, in no case, be responsible or liable for those costs, regardless of the outcome of
+ the tendering process. 4.18. The bidder may choose to bid for services of a single or multiple functional areas mentioned
+ in SCOPE OF WORK of the tender document. 4.19. The bid for a particular functional area MUST contain quotes by the bidder for all service
+ types (Helpdesk Support, Short term Consultative Support and Long Term Consultative Page 17 of 59 Support). If the bidder fails to quote for all service types mentioned, the bid proposal will be
+ rejected and EMD of the bidder will be forfeited for all categories against which the bidder
+ has submitted its proposal. 4.20. Bids not submitted as per the specified format and nomenclature may be out rightly rejected.
+ 4.21. Ambiguous/Incomplete/Illegible bids may be out rightly rejected.
+ 4.22. Submission of the Bid will be deemed to have been done after careful study and examination
+ of all instructions, eligibility norms, terms and required specifications in the tender document
+ with full understanding of its implications. Bids not complying with all the given clauses in
+ this tender document are liable to be rejected. Failure to furnish all information required in
+ the tender Document or submission of a bid not substantially responsive to the tender
+ document in all respects will be at the bidder's risk and may result in the rejection of the bid.
+ 4.23. NICSI, at any time during the course of evaluation of the bids, may seek verbal or written
+ clarifications from the bidders, which may be in the form of product demonstration,
+ presentation, undertaking, declaration, reports, datasheets, etc., if NICSI finds the
+ information in the submitted bids to be insufficient/ambiguous/deviant or of any such nature
+ that hinders the evaluation committee from arriving at a clear decision. It will entirely be at
+ NICSI's discretion whether to seek clarifications or not, and what clarifications to seek, or
+ take any other action as per the guidelines provided in the tender. 5 BID OPENING
+
+ Online bids (complete in all respect as detailed in BID SUBMISSION) received along with Demand
+ Draft of EMD (Physically) will be opened at Tender bids opening date in presence of bidders'
+ representative, if available. Bid received without EMD will be rejected straight way. 6 BID EVALUATION
+
+ 6.1 PRE-QUALIFICATION EVALUATION
+
+ 6.1.1 The Bidders must have furnished the necessary documents to establish their
+ eligibility (indicating the page number in the bid) for each of the items given
+ in Eligibility Criteria. Relevant portions in the documents should be
+ highlighted. If a bid is not accompanied by all the necessary documents, it will
+ be summarily rejected. 6.1.2 Undertaking for subsequent submission of any of the eligibility documents
+ will not be entertained. However, NICSI reserves the right to seek further
+ proof in the form of document or seek clarifications on the already submitted
+ documents. 6.1.3 All bid proposal documents must be submitted electronically in PDF format. Upon verification, evaluation/assessment, if in case any information Page 18 of 59 furnished by the Bidder is found to be false / incorrect, their bid will be
+ summarily rejected and no correspondence on the same shall be entertained.
+ Submission of false/forged documents will lead to forfeiture of their
+ submitted EMD amount of all functional areas for which bidder has
+ participated in the bid. 6.1.4 A Bid that does not fulfill all the stipulated eligibility conditions/criteria will
+ not be considered. 6.2 TECHNICAL BID EVALUATION
+
+ 6.2.1 A duly constituted Technical Evaluation Committee (TEC) will select Bidders on
+ the basis of Technical Specifications mentioned in the tender document. Please
+ note that bidders will be awarded marks as per the criteria laid out in tender
+ document and must score at least 70% marks to proceed further for financial
+ evaluation. 6.2.2 If the bid doesn't score at least 70% of marks in the technical specifications as
+ mentioned in Technical specifications , then the bidder would be disqualified and
+ his bid would be rejected. 6.2.3 The TEC has the right to verify the requirements of the quoted resources with the
+ required tender specifications for all resource categories as mentioned in
+ Technical Qualification criteria for Man-Power support ( Short term
+ and Long Term Support)
+ 6.2.4 The TEC reserves the right to reject a resource if it does not match the
+ specifications as mentioned in the different resource categories
+
+6.3 FINANCIAL BID EVALUATION
+
+ 6.3.1 The following must be complied with during the preparation of the financial bid: 6.3.2.2 FEC is not liable to disclose the following to the bidders:- 7.1 EMPANELMENT CONDITIONS
+
+ 7.1.1 NICSI will form a panel for period of empanelment. Maximum 3 (three)
+ agencies will be empaneled under each category. The decision of NICSI shall
+ be final. 7.1.2 The empanelment under this tender, with all its terms and conditions, can be
+ used by NIC also. 7.1.3 The empanelment will be valid for a period of 2 years in the first instance from
+ the date of empanelment. It may be extended for another year depending
+ upon the need of NIC / NICSI's project requirements with mutual consent.
+ 7.1.4 The empaneled vendor must offer the services for a particular
+ functional area at the L1 value bid finalized through this tender during the
+ period of empanelment/extended empanelment, except for revision in rates as
+ per provisions of Section 11.3: PRICE VARIATION CLAUSE.
+ 7.1.5 All empaneled vendors must honor all tender conditions and adherence to all
+ aspects of fair trade practices in executing the purchase orders placed by NICSI
+ on behalf of its clients. Failing this, NICSI may forfeit their EMD
+ 7.1.6 In the event, an empaneled Company or the concerned division of the
+ Company is taken over /bought over by another company, all the obligations Page 20 of 59 and execution responsibilities under the agreement with NICSI, should be
+ passed on for compliance by the new company in the negotiation for their
+ transfer. 7.1.7 Empaneled vendor cannot sub contract any part of scope of work under any
+ category of the tender to any other company. 7.1.8 In case any selected bidder refuses to sign empanelment within seven days of
+ communication from NICSI, the offer would be treated as withdrawn and the
+ bidder's EMD will be forfeited. 7.1.9 In case an empaneled vendor is found in breach of any condition(s) of tender
+ at any stage during empanelment, legal action as per rules/laws, shall be
+ initiated against the bidder and EMD/Security Deposits shall be forfeited.
+ 7.1.10 NICSI may, at any time, terminate the empanelment by giving written notice
+ before 30 days to the empaneled vendor without any compensation, if the
+ empaneled vendor becomes bankrupt or otherwise insolvent, provided that
+ such termination will not prejudice or affect any right of action or remedy
+ which has accrued or will accrue thereafter to NICSI.
+ 7.1.11 Tender process will be over after the issue of empanelment letter to the selected
+ bidder. Thereafter, information submitted by the participating bidders before
+ and during the bidding process may be put by NICSI in the public domain.
+ Competent Authority in NICSI may not exercise the privilege given under Right
+ to Information Act Section 8(1) (d) which says "there shall be no obligation to
+ give any citizen information including commercial confidence, trade secrets or
+ intellectual property, the disclosure of which would harm the competitive
+ position of a third party, unless competent authority is satisfied that larger
+ public interest warrants the disclosure of such information".
+ 7.1.12 Reasons for rejecting a tender/bid will be disclosed to a bidder only where
+ enquiries are made. 7.2 SECURITY DEPOSIT
+
+ 7.2.1 In the case of the Bidder who has been selected for empanelment, the bidder (including
+ those exempt under Section 2 .3) must give Security Deposit for the equivalent amount
+ of EMD. Security Deposit will be in the form of Bank Guarantee (BG) of any commercial
+ bank drawn in the name of National Informatics Centre Services Inc, New Delhi, valid
+ till empanelment. EMD of successful bidders will be returned after they sign letter of
+ empanelment with NICSI and submit a security deposit of equal amount for the period
+ of empanelment/extended empanelment. The BG will be released after the
+ empanelment or extended empanelment or complete execution of all the purchase
+ orders issued under this empanelment, whichever is later and thereafter the Security
+ Deposit / BG shall be returned to the empaneled vendor without any interest. In case of Page 21 of 59 default by the empaneled vendor on non-acceptance of the purchase orders, this
+ Security Deposit /BG will be forfeited and empanelment will be cancelled. Security deposit must be made in the form of Bank Guarantee equal to the
+ EMD amount
+
+ Validity Valid for the period of empanelment / extended empanelment. The BG will be released after
+ the empanelment or execution of all pending Purchase Orders, whichever is later
+
+ Instrument One single deposit in the form of Bank Guarantee
+
+ Amount Equal to EMD amount
+
+7.3 PERFORMANCE BANK GUARANTEE
+
+ 7.3.1 Once Empaneled, the selected agency to whom the Purchase Order (PO) / Work Order
+ (WO) is issued shall be required to give Performance Bank Guarantee (PBG) for the
+ amount equivalent to 10% of the PO value. PBG will be in the form of Bank Guarantee
+ (BG) of any Nationalized / Scheduled / Centralized Bank drawn in the name of National
+ Informatics Centre Services Inc. (NICSI), New Delhi.
+ 7.3.2 The PBG should remain valid for an additional period of 90 (ninety) days beyond the
+ timelines mentioned in the PO. For example, if the timelines mentioned to complete a
+ deliverable in the PO is for 3 months, the PBG shall be valid till 3 months + 90 days
+ from the date of project initiation. 7.3.3 In the event wherein a PO is released by NICSI for project renewal or a fresh PO is
+ released, the bidder shall ensure extension / submission of PBG with 15 days of issuance
+ of the PO. 7.3.4 PBG has to be made in form of Bank Guarantee equal to 10% of PO value. I. Valid for the period of PO / extended PO plus (+) 90 days.
+ a. Validity II. The PBG will be released (without any accrued interest) after the
+ completion of all tasks (deliverables) as assigned in the PO. b. Instrumen
+ III. One single deposit in the form of Bank Guarantee. mode either through e-mail containing the scanned copy of the Purchase Order or an alert
+ through e-mail for downloading the Purchase Order from Web Site. 8.2 Objection, if any, to the Purchase Order must be reported to NICSI by the empaneled
+ vendor within three (3) working days from the date of receipt or date of email
+ whichever is earlier for modifications, otherwise it is assumed that the empaneled vendor
+ has accepted the Purchase Order in totality. 9 PAYMENT
+
+ 9.1 Empaneled vendors should furnish details of the location from where they are going to raise
+ their Bills / Invoices to NICSI, New Delhi. 9.2 Empaneled vendors must raise their Bills / Invoices in the name of NICSI, New Delhi.
+ 9.3 The payment to the agency will be made on monthly basis depending upon the actual
+ duration of the services rendered at NICSI/Client office after availing service.
+ 9.4 In case of a milestone based assignment, the payment to the agency shall be made after
+ completion of the milestone on the basis of actual man-month of services rendered for
+ achieving the particular milestone. 9.5 The maximum penalty that can be levied on the vendor in one month/milestone will be
+ equal to 25% of the payment due to the vendor for that month/milestone
+ 9.6 The agency will submit Pre-receipted bills in triplicate (having details of concerned work- order number, Date and Project-Number of NICSI) on monthly basis/at completion of
+ milestone in the name of NICSI-New Delhi by the 5th day of the succeeding month along
+ with the Monthly Satisfactory Performance Report(s) duly signed by NICSI/Client Project
+ coordinator or the user-department/end-customer. Payment will be made within 30 days
+ of submission of the Bill along with all the completed documents and after deducting the
+ applicable penalty etc.
+ 9.7 Payment must be subjected to deductions of any amount for which the Agency is liable
+ under the empanelment or tender conditions. Further, all payments shall be made subject
+ to deduction of TDS(Tax deduction at source) as per the current Income-Tax Act and /or
+ any other Govt. orders / rules. 9.8 All payments will be made through RTGS only. 10 REFUND OF EMD & SECURITY DEPOSIT
+
+ The Earnest Money Deposit (EMD) without any interest accrued will be refunded as follows: 11.1 CONDITIONS
+
+ 11.1.1 The empanelment under this tender is not further assignable by the empaneled
+ vendor. The empaneled vendor must not assign its contractual authority to any
+ other third party. 11.1.2 As a matter of policy and practice and on the basis of Notification published in
+ Gazette of India dated 14th March, 1998, it is clarified that services of the
+ vendor empaneled through this tender can be availed by both National
+ Informatics Center [NIC] and National Informatics Center Services
+ Incorporated [NICSI], as the case may be depending on the project, and the
+ empaneled vendor shall be obliged to render services to both or any of these
+ organizations as per the indent placed by the respective organization. In other
+ words, the selection procedure adopted in this tender remains applicable for
+ NIC as well, and in the event of rendering services to NIC, the empaneled
+ vendor must discharge all its obligations under this tender to NIC as well
+ 11.1.3 Any default or breach in discharging material obligations under this tender by
+ the empaneled vendor while rendering services to NIC/NICSI, shall invite all
+ or any actions / sanctions, as the case may be, including forfeiture of EMD,
+ security deposit, invocation of performance guarantee stipulated in this tender
+ document. 11.1.4 All terms and conditions governing prices and supply given in this tender, as
+ applicable to NICSI, will be made equally applicable to NIC.
+ 11.1.5 NICSI reserves the right to modify and amend any of the stipulated
+ condition/criterion given in this tender document after concurrence with the Page 24 of 59 successful bidder, depending upon project priorities vis-à-vis urgent
+ commitments. NICSI also reserves the right to accept/reject a bid, to
+ cancel/abort tender process and/or reject all bids at any time prior to award of
+ empanelment, without thereby incurring any liability to the affected agencies
+ on the grounds of such action taken by NICSI. 11.1.6 Any material default by the bidder in respect of tender terms & conditions will
+ lead to rejection of the bid & forfeiture of EMD/Security Deposit.
+ 11.1.7 The decision of NICSI arrived during the various stages of evaluation of the
+ bids is final & binding on all bidders. Any representation towards these shall
+ not be entertained by NICSI. 11.1.8 Printed/written conditions mentioned in the tender bids submitted by bidders
+ will not be binding on NICSI. 11.1.9 Upon verification, evaluation/assessment, if in case any information furnished
+ by the bidder is found to be false/incorrect, their total bid shall be summarily
+ rejected and no correspondence on the same, shall be entertained.
+ 11.1.10 NICSI will not be responsible for any misinterpretation or wrong assumption
+ by the bidder, while responding to this tender. 11.2 MICRO, SMALL & MEDIUM ENTERPRISES DEVELOPMENT ACT
+
+ 11.2.1 If a bidder falls under the Micro, Small & Medium Enterprises Development
+ Act, 2006 , then a copy of the registration certificate must be provided to
+ NICSI. Further, the bidder must keep NICSI informed of any change in the
+ status of the company. 11.2.2 Following facilities have been extended to the SSI units registered with NSIC: rata benefits to the empaneled vendor if full reference with documentary
+ evidence is submitted. 11.3.2 There will be an annual increment of 8% in the rates on each anniversary of
+ the contract signing date Page 25 of 59 11.3.3 All other taxes, i.e. VAT, Installation Charges, Service Taxes as mentioned in
+ the tender by the empaneled vendor will be added to arrive at the new revised
+ total rate. Local taxes such as Octroi, LBT , etc shall be paid by NICSI
+ on actuals. 11.4 LIMITATION OF LIABILITY (a) The empanelled vendor shall not be liable for any indirect or consequential
+ loss or damage. (b) With respect to damage caused by the empanelled vendor to end user / NICSI
+ / NIC under any work order issued pursuant to this empanelment, the
+ empanelled vendor shall be liable to end user / NICSI / NIC only for direct
+ damage and loss up to the maximum extent of the higher of (i) the total
+ amount payable to empanelled vendor under the respective work order, or (ii)
+ the proceeds which the empanelled vendor may be entitled to receive from
+ any insurance maintained by the empanelled vendor to cover such a liability. (c) The limitation of liability in (b) above shall not affect the empanelled vendor's
+ liability in case of gross negligence or wilful misconduct on the part of the
+ empanelled vendor or on part of any person or company acting on behalf of
+ the empanelled vendor in carrying out the services. The limitation of liability
+ in (a) and (b) above shall not affect the empanelled vendor's liability, if any,
+ for damage to Third Parties caused by the empanelled vendor or any person
+ or firm / company acting on behalf of the empanelled vendor in carrying out
+ the services under any work order issued pursuant to this empanelment. 11.5 INDEMNITY
+
+ The empaneled vendor must indemnify NICSI/NIC/User departments against all third
+ party claims of infringement of patent, trademark/copyright or industrial design rights
+ arising from the use of the supplied software/ hardware/manpower etc and related
+ services or any part thereof. NICSI/NIC/User department stand indemnified from any
+ claims that the hired manpower / empaneled vendor's manpower may opt to have
+ towards the discharge of their duties in the fulfillment of the purchase orders.
+ NIC/NICSI/User department also stand indemnified from any compensation arising
+ out of accidental loss of life or injury sustained by the hired manpower / empaneled
+ vendor's manpower while discharging their duty towards fulfillment of the purchase
+ orders. 11.6 TERMINATION FOR INSOLVENCY
+
+ NICSI may at any time terminate the purchase order/empanelment by giving four
+ weeks written notice to the empaneled vendor, without any compensation to the
+ empaneled vendor, if the empaneled vendor becomes bankrupt or otherwise insolvent. 11.7 FORCE MAJEURE
+
+ If at any time, during the continuance of the empanelment, the performance in whole
+ or in part by either party of any obligation under the empanelment is prevented or
+ delayed by reasons of any war, hostility, acts of public enemy, civil commotion,
+ sabotage, fires, floods, explosions, epidemics quarantine restrictions, strikes, lockouts
+ or acts of God (hereinafter referred to as "events"), provided notice of happenings of
+ any such event is duly endorsed by the appropriate authorities/chamber of commerce
+ in the country of the party giving notice, is given by party seeking concession to the
+ other as soon as practicable, but within 21 days from the date of occurrence and
+ termination thereof and satisfies the party adequately of the measures taken by it,
+ neither party shall, by reason of such event, be entitled to terminate the
+ empanelment/contract, nor shall either party have any claim for damages against the
+ other in respect of such nonperformance or delay in performance, and deliveries under
+ the empanelment/contract shall be resumed as soon as practicable after such event has
+ come to an end or ceased to exist and the decision of the purchaser as to whether the
+ deliveries have so resumed or not, shall be final and conclusive, provided further, that
+ if the performance in whole or in part or any obligation under the empanelment is
+ prevented or delayed by reason of any such event for a period exceeding 60 days, the
+ purchaser may at his option, terminate the empanelment. 11.8 TERMINATION FOR DEFAULT
+
+ Default is said to have occurred
+
+ a. If the empaneled vendor fails to accept the Purchase Orders
+ b. If the empaneled vendor fails to deliver any or all of the services within the time
+ period(s) specified in the purchase order or during any extension thereof granted
+ by NICSI. c. If the empaneled vendor fails to perform any other material obligation(s) under
+ the contract
+
+ If the empaneled vendor defaults in above circumstances, his Bid security
+ (EMD)/BG received against this empanelment will be forfeited and
+ empanelment will be cancelled. If the empaneled vendor defaults in the above circumstances, a cure period of
+ 30 days will be given to the vendor to rectify the default failing which the
+ empanelment against this tender will be cancelled and 8.5% of the work order
+ value will be levied as cancellation charges. NICSI can get the work done
+ through alternate sources with the difference in the cost of getting the work
+ done to be borne by the successful bidder with capping of maximum 10% of the
+ value of the goods/services for which alternative option is sorted to. In case of
+ any Termination, NIC/NICSI/user shall be liable to pay the vendor for all the
+ goods and services accepted till the effective date of termination. 11.9 ARBITRATION
+
+ 11.9.1 If a dispute arises out of or in connection with this contract, or in respect of
+ any defined legal relationship associated therewith or derived there from, the
+ parties agree to submit that dispute to arbitration under the ICADR
+ Arbitration Rules, 1996. 11.9.2 The Authority to appoint the arbitrator(s) shall be the International Centre
+ for Alternative Dispute Resolution (ICADR). 11.9.3 The International Centre for Alternative Dispute Resolution will provide
+ administrative services in accordance with the ICADR Arbitration Rules,
+ 1996. 11.10 CONCILIATION
+
+ 11.10.1 If a dispute arises out of or in connection with this contract, or in respect of
+ any defined legal relationship associated therewith or derived there from, the
+ parties agree to seek an amicable settlement of that dispute by Conciliation
+ under the ICADR Conciliation Rules, 1996. 11.10.2 The Authority to appoint the Conciliator(s) shall be the International Centre
+ for Alternative Dispute Resolution (ICADR). 11.10.3 The International Centre for Alternative Dispute Resolution will provide
+ administrative services in accordance with the ICADR Conciliation Rules,
+ 1996. 11.11 APPLICABLE LAW
+
+ 11.11.1 The empaneled vendor shall be governed by the laws and procedures
+ established by Govt. of India, within the framework of applicable legislation
+ and enactment made from time to time concerning such commercial
+ dealings/processing. 11.11.2 All disputes in this connection shall be settled in Delhi jurisdiction only. 11.11.3 NICSI reserves the right to cancel this tender or modify the requirement at any
+ stage of Tender process cycle without assigning any reasons. NICSI will not be
+ under obligation to give clarifications for doing the aforementioned.
+ 11.11.4 NICSI also reserves the right to modify/relax any of the terms & conditions of
+ the tender by declaring / publishing such amendments in a manner that all
+ prospective bidders / parties to be kept informed about it.
+ 11.11.5 NICSI, without assigning any further reason can reject any tender(s), in which
+ any prescribed condition(s) is/are found incomplete in any respect and at any
+ processing state. 11.11.6 NICSI also reserves the right to award works/supply order on quality/technical
+ basis, which depends on quality/capability of the system and infrastructure of
+ the firm. Bidder(s) are, therefore, directed to submit the tender carefully along
+ with complete technical features of the solutions as well as other documents
+ required to access the capability of the firm. 11.11.7 All procedure for the purchase of stores laid down in GFR shall be adhered-to
+ strictly by the NICSI and Bidders are bound to respect the same.
+ 11.11.8 The bidder must maintain absolute confidentiality on the information with
+ respect to NIC/user Security plan and related details, which the bidder
+ becomes aware of during interaction with NIC-personnel and from the
+ solutions supplied by them and made operational under NICNET domain. The
+ bidder must sign a Non-Disclosure Agreement (NDA) with
+ NIC/NICSI/user. 12 SPECIAL TERMS & CONDITIONS
+
+ 12.1 This tender process will adhere to conditions of CVC Circular No. 3/01/2012 dated
+ 13.01.2012 wherein
+ 12.1.1 In a tender, either the Indian agent on behalf of the Principal/OEM or
+ Principal/OEM itself can bid but both cannot bid simultaneously for the same
+ item/product in the same tender. 12.1.2 If an agent submits bid on behalf of the Principal/OEM, the same agent shall not
+ submit a bid on behalf of another Principal/OEM in the same tender for the same
+ item/product. 12.2 Bidder must ensure there is no discrepancy between the hard copy submitted and the
+ softcopy uploaded for the Financial Bid. In case of any discrepancy between hard copy
+ submitted and softcopy uploaded, then the commercials uploaded in softcopy will prevail.
+ 12.3 The empaneled vendor shall be responsible for any damage to equipment's; property and
+ third party liabilities caused by acts of its professionals positioned at NIC/user sites. All
+ equipment shall be used only for the purpose of carrying out legitimate business and shall
+ not be put into any other use. 12.4 NIC/NICSI would only hire resources for its services from the empaneled vendor. The
+ resource deployed by it for this purpose will be its employees and they will have no right for
+ absorption in NIC/NICSI at any stage. 12.5 Printed/written conditions mentioned in the tender bids submitted by bidders will not be
+ binding on NICSI. 12.6 Upon verification, evaluation/assessment, if in case any information furnished by the
+ bidder is found to be false/incorrect, their total bid shall be summarily rejected and no
+ correspondence on the same, shall be entertained.
+ 12.7 NICSI will not be responsible for any misinterpretation or wrong assumption by the bidder,
+ while responding to this tender. 12.8 The copyright in all drawings, documents and other materials containing data and
+ information furnished to NIC/user by the empaneled vendor herein shall remain vested
+ with the empaneled vendor or, if they are furnished to NIC/user directly or through the
+ empaneled vendor by any third party, including supplies of materials and services, the
+ copyright of such materials shall remain vested with such third party.
+ 12.9 The copyright in all drawings, documents and other materials containing data and
+ information furnished to the empaneled vendor by NIC/user herein shall remain vested
+ with NIC/user. 12.10 NIC/user and the empaneled vendor shall maintain confidentiality and shall not, without
+ the written consent of the other party hereto, divulge to any third party any documents, data
+ or other information furnished directly or indirectly by the other party hereto in connection
+ with the empanelment, whether such information has been furnished prior to, during or
+ following termination of the empanelment. 12.11 The empaneled vendor shall not use such documents, data and other information received
+ from NIC/user for any purpose other than the work and services as required for the
+ performance of the Contract. 12.12 The Vendor must not use this empanelment anywhere on its own, without taking prior
+ permission from NICSI. Any purchase order placed with reference to this empanelment has
+ to be executed through NICSI only. 12.13 Any invoice generated on NICSI under this empanelment by the empaneled vendor must be
+ done only from an office located in Delhi
+
+13 ANNEXURE
+
+ The necessary Annexures for this tender are given in the following pages. ANNEXURE 1. Eligibility Criteria 1. Eligibility/ Pre-qualification criteria mentioned in this annexure is common to all
+ functional areas mentioned in SCOPE OF WORK 2. Bidder can bid for empanelment in any of the functional area or all functional
+ areas defined in this document. 3. The Bidders are required to submit all required documentation in support of the
+ evaluation criteria specified as required for evaluation of the bids. under the Companies Act 1956 Registration attested
+ or a partnership registered by Company
+ under the Indian Partnership Secretary/ Authorized
+ Act 1932 with their registered Signatory
+ office in India for the last
+ three years as on 31st
+ March 2017. 2. Power of Attorney in the name Power of Attorney in
+ of authorized signatory the name of
+ authorizing him for signing authorised signatory
+ the bid documents or related
+ clarifications on bid
+ documents 3. Bidder must have an average Duly signed &
+ turnover of INR 10 crores stamped CA certificate
+ during the last 3 financial from the given
+ years (i.e., FY 2016-17, FY activities for the
+ 2015-16, FY 2014-15) from financial years
+ development, deployment,
+ support or maintenance of
+ OSS solutions Page 31 of 59 4. The bidder/OEM must have 1. Project
+ executed a minimum of three references as per
+ projects related to Annexure 5 of
+ OSS Solution in any the tender
+ Government (Central / State / document
+ PSUs) departments or private 2. Work order
+ organizations in India. The
+ order value placed must 3. Work
+ exceed INR 2 crores or Completion
+ equivalent in any foreign Certificate from
+ currency during the last three the client
+ financial years (2016-17, 2015-
+ 16, 2014-15)
+
+ The bidder/OEM must have 5. 1. Project
+ experience of managing and
+ references as
+ operating help desk support
+ per Annexure 5
+ of the tender
+ document 2. Work order 3. Work
+ Completion
+ Certificate from
+ the client 6. The bidder must have a Duly signed &
+ Positive Net Worth for the last stamped CA certificate
+ 3 financial years ( 2016-17,
+ 2015-16 , 2014 - 15) 7. The bidder must have a Duly signed &
+ registration number of GST stamped copies of
+ relevant certificates of
+ registration 8. The bidder must have cleared Duly signed &
+ his VAT/ CST dues up to 31st stamped copy of Tax
+ March, 2017 to the Clearance Certificate
+ Government. from the Commercial Page 32 of 59 Taxes Officer of the
+ Circle concerned
+
+ Auditor/CA signed
+ VAT returns may be
+ provided 9. Bidder must have a valid PAN Duly signed &
+ stamped copy of PAN
+ card / certificate 10. The bidder must be a single Undertaking signed by
+ legal entity/ individual authorized signatory
+ organization. Consortium
+ shall not be allowed. 11. The bidder must have filed its Duly signed and
+ Income Tax Returns for the stamped copies of
+ last 3 financial years (i.e., FY Income Tax Returns
+ 2016-17, 2015-16, 2014-15)
+ Digitally signed ITR
+ may be provided 12. To confirm in Yes or No, If yes, a duly signed &
+ whether the bidder falls under stamped copy of the
+ the Micro, Small and Medium registration Certificate
+ Enterprises Development Act, must be provided to
+ 2006. NICSI. Further, NICSI
+ must be kept informed
+ of any change to the
+ status of the company
+ as per the mentioned
+ act. 13. The bidder must be ISO Bidder should submit
+ 9001:2008/ISO 27001: 2013/ copies of these
+ ITIL / CMMI level 3 certified certifications Page 33 of 59 ANNEXURE 2. Technical specifications
+
+2.1 Technical Qualification criteria for Man-Power support ( Short term and Long Term
+ Support)
+ Resource Minimum Minimum Compliance List of
+S.no. 1. The minimum qualification for the resources mentioned above is B.Tech, B.E., MCA, M.Sc
+ (IT) or equivalent 2. The resources must be on the rolls of the organization for at least one year at the time of
+ submission of this bid 3. The resource levels of Project Manager and Solution Architect must have relevant
+ certifications from recognized institutions to support their work experience Page 34 of 59 2.2 Technical Qualification criteria for each functional area:  Experience in configuring user sessions, threads and Hibernate connection
+ pools are a must.  Experience in Cluster deployments especially for Apache Tomcat, and JBoss
+ AS.  Hands-on experience with performance tuning of JVM based applications.
+  Experience in both Windows and UNIX environments.
+  Experience in using tools to monitor and analyse JVM, threads dumps,
+ connections pools, hardware resources etc.
+  Good understanding of web protocols including HTTP, HTTPS, TCP/IP, and
+ DNS
+  Thorough understanding of networking and web technologies such as Ajax,
+ HTML, JavaScript, JQuery, jsp, asp, Flash, etc.
+  Knowledge of web page composition (static vs. dynamic elements, browser
+ behavior, etc.)
+  Experience in deployment of web applications on IIS is an added advantage Page 35 of 59  Hands on experience with Agile/Scrum methodology
+ Administration experience in data center environment , performance tuning ,
+ hardening , monitoring etc
+
+2.2.3 Programming Language
+ Experience in HTML , CSS , Java Script , JS libraries and frameworks like
+ jQuery, Bootstrap , Angular JS , Node JS
+ Responsible for end to end implementation of strategic Projects, Planning,
+ Design, Coding and Development, Testing, Implementation etc in
+ programming
+
+2.2.4 Operating System
+ Hands on experience in Unix flavors; Ubuntu/Redhat/CentOS
+ Installation, Configuration, and maintaining Linux servers in Physical and
+ Virtual Instances
+ Administration of Linux services including DNS (BIND/named), LAMP, NTP,
+ LDAP (OpenLDAP, Active Directory), MYSQL, PostgreSQL, Jenkins, JIRA,
+ Tomcat
+ High proficiency with Linux command line utilities and operations
+ Management of releases and staging / production versioning automation
+ Mail server setup and administration (SendMail, Postfix)
+ Use of GIT or other distributed version control system in development or
+ automation
+ Proficient with network tools such as iptables, Linux IPVS, Disk Management
+ (LVM/RAID), Open source Firewall
+
+2.2.5 CMS
+ Experience of any content management system will be considered
+
+2.2.6 Mobile Applications
+ Experience in building Hybrid apps for IOS, Android, Windows
+ Experience in working with Mobile Frameworks like Ionic, Oracle MAF, React
+ Native, Native Script etc.
+ Good hands on experience in utilizing the hardware capabilities (like GPS,
+ Camera, Wireless, Mobile Data, Bluetooth, fingerprint & Memory Cards) and
+ software capabilities (like contacts, email apps, swipe and voice control) using
+ Apache Cordova, Javascript, Native IoS, Native Windows, Native Android and
+ other based native mobile application development using React Native / Native
+ Script Plugins or using Device native features Page 36 of 59 2.2.7 Big Data, Analytics and Search Engine
+  Ability to evaluate and provide solutions to cloud-related issues and blockers
+ to success.  Responsible for building scalable distributed data solutions using Hadoop,
+ Apache Cassandra, Apache CouchdB
+  Designing a sustainable data-ingestion solution to maintain data lineage for
+ long term viability
+  Setting up the big data environment to perform the analysis. The sole purpose of the SLAs laid down in this section is to clearly define the level of service that is
+ expected from the vendors empaneled through this RFP. For the purposes of this Service Level
+ Agreement, the definitions and terms as specified in the contract along with the following terms
+ shall have the meanings set forth below: 6 Data theft For every data theft incident committed by High
+ incident the resource deployed by the empaneled
+ vendor a penalty shall be imposed along
+ with punishment applicable under the legal
+ provisions of the country prevailing at that
+ point in time. Note: ANNEXURE 4. Bidder's profile
+
+S. Particulars Description
+No.
+
+ i. Name of the Bidder
+
+ ii. Type of Incorporation (Sole
+ Proprietor/ Partnership/
+ Private Limited/ Limited
+ Firm)
+
+ iii. Year of Incorporation
+
+ iv. Place of Incorporation
+
+ v. Place of
+ Manufacturing/Supply
+
+ vi. Whether any
+ Legal/Arbitration
+ proceedings have been
+ instituted against the
+ Bidder or the Bidder has
+ lodged any claim in
+ connection with works
+ carried out by them. Mention Yes/No. If yes,
+ please give details. vii. Service Tax No.: If this declaration is found to be incorrect then without prejudice to any other action that may be taken
+as per the provisions of the applicable Act and Rules thereto prescribed by GoI, my/ our EMD/security
+deposit may be forfeited in full and our bid, to the extent accepted, may be cancelled. Thanking you,
+
+Name of the Bidder: - 7.1 Bidder billing information
+Name of the Bidder: <Mention value here>
+
+The rates quoted in all the detailed financial bids below should be exclusive of all taxes
+
+7.2 Detailed financial bid for Man-Power Support for each Functional Area
+
+The base man month rate for consultative support is INR X 1. The rates quoted below are long term consultative support rates 2. Short term rates are valid for 21 days and any engagement beyond that will be treated as
+ a long term engagement 3. The short term consultative support rates will be calculated by dividing the monthly rate
+ by 22 days and adding a 20 %premium on that rate 4. The vendor will quote only a base man month rate i.e. X 5. The multiplication factor in column 4 above will decide the rates for each resource
+
+ S.no. Resource Category Man Month Rate Multiplication Total Value
+ (2) (3) Factor
+ (1) (4) (5 = 3 *4) 1 Technical X 4 Resource 1 2 Technical X 3 Resource 2 3 Technical X 2 Resource 3 4 Project Manager X 1 5 Solution Architect X 1 Grand Total Value (GTV) A Page 51 of 59 7.3 Detailed Financial Bid for Helpdesk Support for each functional area
+
+ 7.3.1.1 Detailed Financial Bid for Core/Instance based Helpdesk Support
+
+This is only applicable for the functional areas of 1.Relational Database and 2.Web
+Server/Application Server
+ S.no. Resource Category Unit Rate for one Weightage Total Value
+ (2) year
+ (1) (3) (4) (5 = 3 * 4) 1 Helpdesk Support ( per 16 core ) 2 Helpdesk Support ( per 1 instance )
+ Grand Total Value ( GTV ) B
+
+ 7.3.1.2 Financial Bid for Query based Helpdesk Support
+
+This is only applicable for the functional areas of 3.Programming Language ; 4.Operating
+System; 5.CMS; 6.Mobile Applications; 7.Big data, Analytics and Search Engine
+
+ S.no. Resource Category Unit Rate for
+ (2) one year
+ (1) (3)
+ 1 Helpdesk Support
+ Gross Total Value C
+
+ Note - 1 unit means 20 queries per day on an average for the duration of the
+ contract Page 52 of 59 7.4 Total Financial proposal value
+
+ S. No. Description
+
+ Gross Total Value (GTV) in figures: GTV (T) = GTV (A) +
+ GTV (B) or GTV (C)
+
+ Quoted price (GTV) in words: ----------------------------------------- ------- Note
+L1 will be selected based on the value comprised in table above mentioned as Gross Total Value
+(GTV)-T Page 53 of 59 ANNEXURE 8. Service network
+
+The following information for service centers across India must be supplied by the bidder. NICSI would
+verify the information furnished here and if found incorrect the bid is liable to be rejected. ANNEXURE 9. Format for Performance Bank Guarantee
+
+Ref: _________________ Date
+_________________
+
+Bank Guarantee No. ______________________
+
+To
+Managing Director, NICSI
+Hall No. 2&3, 6th Floor, NBCC Tower,
+15, Bhikaji Cama Place, New Delhi - 110066. 1. Against contract vide Advance Acceptance of the Tender No. _________________ dated
+ _________________ covering __________________________________ (hereinafter
+ called the said "Contract") entered into between the National Informatics Centre Services Inc.
+ (hereinafter called "NICSI") and _________________ (hereinafter called the "Bidder") this is
+ to certify that at the request of the Bidder we ------------- Bank Ltd., are holding in trust in favour
+ of NICSI, the amount of ___________________________ (write the sum here in words) to
+ indemnify and keep indemnified NICSI against any loss or damage that may be caused to or suffered
+ by NICSI by reason of any breach by the Bidder of any of the terms and conditions of the said
+ contract and/or in the performance thereof. We agree that the decision of NICSI, whether any
+ breach of any of the terms and conditions of the said contract and/or in the performance thereof
+ has been committed by the Bidder and the amount of loss or damage that has been caused or
+ suffered by NICSI shall be final and binding on us and the amount of the said loss or damage shall
+ be paid by us forthwith on demand and without demur to NICSI. 2. We __________________________________ Bank Ltd, further agree that the guarantee
+ herein contained shall remain in full force and effect during the period that would be taken for
+ satisfactory performance and fulfillment in all respects of the said contract by the Bidder i.e. till
+ _________________ hereinafter called the said date and that if any claim accrues or arises
+ against us _________________ Bank Ltd, by virtue of this guarantee before the said date, the
+ same shall be enforceable against us
+ ___________________________________________________ Bank Ltd,
+ notwithstanding the fact that the same is enforced within six months after the said date, provided
+ that notice of any such claim has been given to us _________________ Bank Ltd, by NICSI
+ before the said date. Payment under this letter of guarantee shall be made promptly upon our
+ receipt of notice to that effect from NICSI. 3. It is fully understood that this guarantee is effective from the date of the said contract and that we
+ _________________ Bank Ltd, undertake not to revoke this guarantee during its currency
+ without the consent in writing of NICSI. 4. We undertake to pay to NICSI any money so demanded notwithstanding any dispute or disputes
+ raised by the Bidder in any suit or proceeding pending before any court or Tribunal relating thereto
+ our liability under this present bond being absolute and unequivocal.
+ The payment so made by us under this bond shall be a valid discharge of our liability for payment
+ there under and the Bidder shall have no claim against us for making such payment. 5. We __________________________________ Bank, further agree that NICSI shall have the
+ fullest liberty, without affecting in any manner our obligations hereunder to vary any of the terms
+ and conditions of the said contract or to extend time of performance by the Tendered from time to
+ time or to postpone for any time of from time to time any of the powers exercisable by NICSI against
+ the said Bidder and to forebear or enforce any of the terms and conditions relating to the said
+ contract and we, _________________ Bank Ltd., shall not be released from our liability under
+ this guarantee by reason of any such variation or extension being granted to the said Bidder or for
+ any forbearance by NICSI to the said Bidder or for any forbearance and or omission on the part of
+ NICSI or any other matter or thing whatsoever, which under the law relating to sureties, would, but
+ for this provision have the effect of so releasing us from our liability under this guarantee. 6. This guarantee will not be discharged due to the change in the constitution of the Bank or the
+ Bidder. Information as per Annexure 1: Eligibility 2.
+ Criteria. Authorization letter for submission of quotation
+ by the authorized signatory (with signature duly 3. attested by the Company's HR / Finance Head). Proof of Authorized Signatory in the form of
+ Power of Attorney / Board Resolution. Bidder's profile as per Annexure 4 : 4.
+ BIDDER'S PROFILE
+ For Packet 3 5. Technical Bid as per the format provided in
+ different schedules of Section 13 : 6. Any other document which the vendor may feel
+ necessary to support the product/bid. Total No. of Pages in the bid, all sequentially numbered For Envelope No. 3 Financial Bid as per Annexure 7 : Financial Bid Proforma Template
+ Financial bid as per 7.4 Financial proposal 7. value 8. Detailed Financial bid as per 7.2 and 7.3 Page 59 of 59

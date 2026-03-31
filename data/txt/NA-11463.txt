@@ -1,0 +1,172 @@
+This appeal is directed against order dated 24.08.2017 rejecting Patent
+
+ Application No.7133/CHENP/2009 for grant of patent to an invention titled
+
+ "Methods for Acquiring Billing and Usage Data in an IMS Environment".
+
+ Upon request by the patent applicant, First Examination Report (FER)
+
+ dated 18.03.2015 was issued. In such report, objections were raised inter
+
+ alia on the grounds of lack of novelty and inventive step by citing prior art
+
+ documents D1 and D2, and on the ground that the claimed invention is
+
+ excluded from patent protection under Section 3(k) of the Patents Act,
+
+ 1970 (the Patents Act ). The appellant replied to the FER on 25.11.2015 and
+
+ also submitted amended claims. Upon considering the appellant's
+
+ reply, by hearing notice dated 02.06.2017, the objections on the
+
+ grounds of lack of novelty and inventive step were dropped but the objection 2/11 https://www.mhc.tn.gov.in/judis ( Uploaded on: 28/03/2025 05:26:36 pm )
+ on the ground of Section 3(k) was retained. The impugned order was issued
+
+ in the above facts and circumstances. 2. Learned counsel for the appellant submits that the claimed
+
+ invention identified the problem to be resolved as a method of verifying call
+
+ signalling messages so as to prevent fraud and enable accurate identification
+
+ without being dependent on the billing system for such purpose. By
+
+ referring to paragraph 8 of the written submissions and figure 3, which is set
+
+ out therein, learned counsel submits that the claimed invention clearly
+
+ represents a technical advancement over prior art and provides a solution to
+
+ the problem identified in the complete specification. 3. By referring to the impugned order, learned counsel submits that
+
+ the Controller completely misconstrued the scope of Section 3(k) by holding
+
+ that the monopoly claim is directed at a method of conducting business. In
+
+ support of this contention, learned counsel referred to and relied upon an
+
+ earlier order of this Court in Priya Randolph v. The Deputy Controller of
+
+ Patents, (Priya Randolph') 2023:MHC:5450. He also relies upon the 3/11 https://www.mhc.tn.gov.in/judis ( Uploaded on: 28/03/2025 05:26:36 pm )
+ judgment of the Delhi High Court in Microsoft Technology Licensing, LLC
+
+ v. The Assistant Controller of Patents and Designs , 2023:DHC:3342, for the
+
+ proposition that a claimed invention implemented on a general purpose
+
+ computer may nonetheless qualify as an invention provided there is a
+
+ technical effect that improves the technical system on a functional basis. 4. Mr.J.Madanagopal Rao, learned SPC, responded to these
+
+ contentions by relying on the counter affidavit. In particular, he submitted
+
+ that the claims of the appellant, in substance, relate to business methods, and
+
+ that the Section 3(k) objection cannot be overcome merely by reference to
+
+ technological terms and expressions. He further submits that the concept of
+
+ the claimed invention fall entirely within the realm of business transaction
+
+ concepts. 5. Independent claim 1, as rejected, is as under: copying (100), upstream from a billing system (BS), a
+ call signaling message and an IMS accounting message 4/11 https://www.mhc.tn.gov.in/judis ( Uploaded on: 28/03/2025 05:26:36 pm )
+ relating to an IMS transaction; and
+ providing (102) the copied messages to an application
+ (210) for one of billing verification, fraud detection, revenue
+ assurance, and data analysis.” 6. Upon considering the current claims of the appellant, including the
+
+ above extracted independent claim 1, in relevant part, it was recorded as
+
+ under: https://www.mhc.tn.gov.in/judis ( Uploaded on: 28/03/2025 05:26:36 pm )
+ This bears/has direct reference / relevance to CRI
+ guide lines para 4.5.2 which states that “but if the subject
+ matter is essentially about carrying out business / trade /
+ financial transaction and/or a method of selling goods
+ through web (e.g. providing web service functionality),
+ should be treated as business method.”
+ CRI guide lines para 4.5 further states that “the focus
+ should be on the underlying substance of the invention, not
+ the particular form in which it is claimed”
+ Here the focus is NOT made on the “form of claims”,
+ but rather on the business concept / nature of the subject
+ matter of claims 1-17 which are hence considered to be Non-
+ Patentable subject matter.” 7. The above extracts from the impugned order disclose that the
+
+ appellant's patent application was eventually rejected largely on the ground
+
+ that it is a business method as per Section 3(k) of the Patents Act. A
+
+ reference to algorithms is also made therein. Section 3(k) is as under: 8. In Priya Randolph, I considered an appeal against an order rejecting
+
+ the application for grant of patent for an invention titled “For selectively
+
+ concealing physical address information”. After taking note of the CRI
+
+ guidelines in that regard, I held as follows in paragraph 8 thereof: 6/11 9. In Microsoft Technology Licensing, LLC v. The Assistant
+
+ Controller of Patents (2024:MHC:2537), I re-visited the exclusion under Section 3(k) . After recording that the exclusions under Section 3 are
+
+ classifiable into different categories, including the category wherein the
+
+ exclusion applies on account of the subject matter of the claimed invention
+
+ being protected under the Copyright Act, 1957 , I recorded that the exclusion
+
+ under Section 3(k) of business methods and computer programmes per se is
+
+ directed at excluding from patent protection matters which form the subject
+
+ of copyright protection. 7/11 https://www.mhc.tn.gov.in/judis ( Uploaded on: 28/03/2025 05:26:36 pm ) 10. In the impugned order, the Controller has noticed that the
+
+ substance of the claim should be looked at and not the form. On perusal of
+
+ independent claim 1, it appears to be a claim directed at the deployment of
+
+ software, including applications, for the purpose of enabling verification of
+
+ calls without routing such calls through the billing system. In other words,
+
+ the monopoly claim is not directed at a method of conducting business.
+
+ Instead, it is directed at a method of using software for the above purposes
+
+ so as to improve the system's functionality. Therefore, the rejection of the
+
+ patent application on the ground that it is a business method is untenable. 11. While there is a fleeting reference to algorithms in the impugned
+
+ order, there is no discussion thereon. As recorded earlier, other objections
+
+ relating to lack of novelty and inventive step were dropped by the Controller
+
+ after examining the appellant's response. 12. In these facts and circumstances, impugned order dated 8/11 https://www.mhc.tn.gov.in/judis ( Uploaded on: 28/03/2025 05:26:36 pm )
+ 24.08.2017 is set aside and the matter in remanded for re-consideration on
+
+ the following terms: consideration. (ii) Such re-consideration shall be limited to examining whether the
+
+ claimed invention is excluded from patent protection on account of being a
+
+ computer programme per se or algorithms. (iii) After providing a reasonable opportunity to the appellant, a
+
+ reasoned decision shall be issued within a period of four months from the
+
+ date of receipt of a copy of this order. (iv) For the avoidance of doubt, it is made clear that no opinion is
+
+ being expressed herein with regard to the subject matter of the remand. 13. (T)CMA(PT)/106/2023 is disposed of on the above terms without 9/11 https://www.mhc.tn.gov.in/judis ( Uploaded on: 28/03/2025 05:26:36 pm )
+ any order as to costs. 25.03.2025
+ rna
+ Index : Yes / No
+ Internet : Yes / No
+ Neutral Citation: Yes / No
+
+ To
+
+ The Controller of Patents,
+ Patent Office, Intellectual Property Office Building,
+ GST Road, Guindy,
+ Chennai 600 032. SENTHILKUMAR RAMAMOORTHY,J 10/11 https://www.mhc.tn.gov.in/judis ( Uploaded on: 28/03/2025 05:26:36 pm )
+ rna
+
+ (T)CMA(PT)/106/2023
+ (OA/9/2018/PT/CHN)
+
+ 25.03.2025 11/11 https://www.mhc.tn.gov.in/judis ( Uploaded on: 28/03/2025 05:26:36 pm )

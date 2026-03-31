@@ -1,0 +1,544 @@
+OPG Securities Pvt. Ltd. First Floor, First Floor, 4/10,
+ Asaf Ali Road,
+ New Delhi- 110 002 2. Mr. Sanjay Gupta 3. Ms. Sangeeta Gupta 4. Mr. Om Prakash Gupta
+ First Floor, 4/10,
+ Asaf Ali Road,
+ New Delhi- 110 002 ...Appellants
+
+Versus
+
+Securities and Exchange Board of India,
+SEBI Bhavan, Plot No. C-4A, G-Block,
+Bandra-Kurla Complex, Bandra (East),
+Mumbai- 400 051 ...Respondent
+
+Mr. Ravichandra S. Hegde, Advocate with Ms. Mitravinda
+Chunduru and Mr. Shonan Bangera, Advocates i/b RHP
+Partners for the Appellants. Mr. Rafique Dada, Senior Advocate with Mr. Manish
+Chhangani, Ms. Samreen Fatima, Mr. Sumit Yadav and
+Mr. Abhay Chauhan, Advocates i/b The Law Point for the
+Respondent - SEBI. CORAM: Justice Tarun Agarwala, Presiding Officer
+ Ms. Meera Swarup, Technical Member
+
+Per: Justice Tarun Agarwala, Presiding Officer 1. Two separate orders have been passed by the Adjudicating
+
+Officer ("AO" for convenience) of the Securities and Exchange 4 Board of India ("SEBI" for convenience) imposing penalties
+
+upon the appellants. By an order dated February 10, 2021 the
+
+AO has imposed a penalty on National Stock Exchange of India
+
+Limited ("NSE" for convenience), Mr. Ravi Narain and
+
+Ms. Chitra Ramkrishna. Against this order three appeals have
+
+been filed namely Appeal No. 166 of 2021 by NSE, Appeal No.
+
+167 of 2021 by Mr. Ravi Narain, Appeal No. 168 of 2021 by
+
+Ms. Chitra Ramkrishna. The AO has passed another order
+
+dated February 11, 2021 imposing a penalty upon OPG
+
+Securities Pvt. Ltd. and Ors. against which Appeal No. 369 of
+
+2021 has been filed. Since the issue is common, all the appeal
+
+are being taken up together. 2. The background leading to the filing of the present appeal
+
+has been lucidly illustrated in the appeals filed by NSE and
+
+others in Appeal No. 333 of 2019 and other connected appeals
+
+against the order of the Whole Time Member ("WTM" for
+
+convenience) which was decided by this Tribunal on January
+
+23, 2023 and is therefore not being repeated. 3. However, in brief, with regard to the colocation scam, a
+
+show cause notice dated 22.05.2017 was issued by the WTM 5 against 15 noticees. The show cause notice mainly contained
+
+the allegations regarding: 4. (i). the issue of preferential access given to certain TMs
+
+while disseminating the TBT data feed; (ii) the issue of access
+
+to Non-ISPs for laying of Dark fiber within the exchange
+
+premises; (iii) non-cooperation by NSE and its Officers; (iv) not
+
+acting on complaints forwarded to the exchange; (v) NSE failed
+
+to ensure trading in a transparent, fair and open manner and,
+
+consequently, failed to fulfil the objects envisaged in its MoA
+
+and the conditions of recognition. 5. Supplementary show cause notice was issued on July 31,
+
+2018 and, in this way, notices initially issued to 15 noticees
+
+increased to 17 noticees. 6. Summary of allegations contained in 2017 show cause
+
+notice, 2018 show cause notice and supplementary show cause
+
+notice are as under: d. NSE allegedly did not have defined policies and
+
+ procedures with regard to Secondary Server access, and
+
+ the guidelines were not issued as a circular. By selectively
+
+ reprimanding some brokers connecting to the Secondary
+
+ Servers (and not others), and allowing some brokers to
+
+ continue connecting regularly to the Secondary Servers,
+
+ NSE allegedly showed differential treatment to brokers;
+
+e. NSE allegedly failed to maintain backups or records for: f. There were allegedly no policies and procedures for
+
+ allocation/mapping of the IPs of members to the
+
+ dissemination servers, nor was there a Standard Operating
+
+ Procedure ("SOP") to deal with requests for change in IP
+
+ mapping to a particular server. Such requests were left to
+
+ the discretion of the NSE's Project Support and
+
+ Management ("PSM") Team, which has shown
+
+ differential treatment / responses to members for such
+
+ requests; g. The Noticee has allegedly violated the provisions of
+
+ Section 4 of the Securities Contracts (Regulation), Act
+
+ 1956 ("SCRA"), by failing to fulfil its main object of
+
+ ensuring fair dealing; h. The Noticee has allegedly failed to comply with
+
+ Regulation 48 of the Securities Contracts (Regulation)
+
+ (Stock Exchanges and Clearing Corporations) 8 Regulations, 2012 ("SECC Regulations") in view of its
+
+ alleged failure to cooperate with SEBI, the SEBI
+
+ External Committee appointed by SEBI, and the forensic
+
+ auditor appointed by the Noticee on SEBI's direction,
+
+ and to provide requisite information as sought by SEBI;
+
+ and
+
+ i. The Noticee has allegedly failed to comply with
+
+ Regulation 41(2) of the SECC Regulations by giving
+
+ preferential access to certain trading members. 7. In addition to the above, 2018 show cause notice alleged: d. It was alleged that OPG was constantly logging in across
+
+ servers and OPG was aware of the weakness of the system
+
+ architecture and the advantage of having first access in
+
+ terms of trade. Further, OPG had designed the software in
+
+ such a way that OPG could connect first and gain
+
+ advantage. e. It was also alleged that by assigning multiple IPs to OPG
+
+ to a single Port by NSE allowed crowding by OPG
+
+ enabling OPG to establish first, second, third and even
+
+ fourth connection to the server and thereby in this regard
+
+ OPG gained advantage over other stock brokers and,
+
+ therefore, alleged NSE has acted in a fraudulent manner 10 and had indulged in fraud and unfair trade practices in the
+
+ securities market. f. It was further alleged that the manner in which OPG
+
+ gained preferential access day after day on select servers
+
+ indicate complete laxity and dereliction of duty on the part
+
+ of NSE officials and employees and failed to prevent
+
+ manipulation of the system and failed to ensure equal, fair
+
+ and transparent access. It was alleged that by not taking
+
+ preventive as well as curative measures proactively
+
+ Mr. Ravi Narain and Ms. Chitra Ramkrishna facilitated
+
+ fraud and manipulation by OPG. 8. The supplementary show cause notice further alleged: 9. Based on the above, the WTM framed the following
+
+issues: 10. Whether TCP-IP architecture for TBT data feed provided
+
+a fair and equitable access to all TM. This issue has been further
+
+sub-divided into: 11. The WTM after considering the material evidence on
+
+record found that most of the charges levelled against the 12 appellants were proved. The WTM accordingly by its order
+
+dated April 30, 2019 discharged 14 of 17 noticees and issued
+
+directions against three noticees, namely, NSE, Mr. Ravi Narain
+
+and Ms. Chitra Ramkrishna as under:- for short). b. NSE is prohibited from accessing the securities
+
+ market directly or indirectly for a period of 6
+
+ months from the date of the impugned order.
+
+ c. NSE to carry out System Audit at frequent
+
+ intervals, after taking into consideration the
+
+ changes in the technology. d. NSE to reconstitute its Standing Committee on
+ Technology at regular intervals. e. NSE to frame a clear policy on administering
+ whistle blower complaints. f. Mr. Ravi Narain, noticee no.2 to disgorge 25%
+
+of the salary drawn for Financial Years 2010-11
+
+to 2012-13 to the IPEF. g. Mr. Ravi Narain shall not associate with any
+
+listed company or a Market Infrastructure
+
+Institution or any other market intermediary for a
+
+period of five years. h. Ms. Chitra Ramkrishna, noticee no.3 to
+
+disgorge 25% of the salary for Financial Year
+
+2013-14. i. Ms. Chitra Ramkrishna shall not associate with
+
+any listed company or a Market Infrastructure
+
+Institution or any other market intermediary for a
+
+period of five years. j. NSE shall initiate an enquiry under its
+
+Employees Regulations against Mr. Mahesh
+
+Soparkar (Noticee No. 10) and Mr. Deviprasad
+
+Singh (Noticee No. 11) with respect to the findings
+
+contained in paragraph 8.4.7.6 of the impugned
+
+order and submit a report within 6 months.
+
+k. Mr. Anand Subramanian (noticee no.4), Mr.
+
+Ravi Apte (noticee no.8), Mr. Umesh Jain (noticee
+
+no.9), Mr. R. Nandakumar (noticee no.5), Mr. 14 Mayur Sindhwad (noticee no.6), Mr. Ravi
+
+ Varanasi (noticee no.7), Mr. Sankarson Banerjee
+
+ (noticee no.12), Mr. G. Shenoy (noticee no.13),
+
+ Mr. Suprabhat Lala (noticee no.14), Mr.
+
+ Nagendra Kumar SRVS (noticee no.15), Mr. N.
+
+ Murlidaran (noticee no.16) and Mr. Jagdish Joshi
+
+ (noticee no.17) are discharged. 12. In addition to the above, the WTM has passed another
+
+order dated 30th April, 2019 prohibiting OPG Securities Pvt.
+
+Ltd. (hereinafter referred to as "OPG") and other noticees from
+
+accessing the securities market for a period of five years and
+
+restraining OPG from taking any new clients for a period of one
+
+year. The WTM further directed OPG and its Directors to
+
+disgorge jointly and severally a sum of Rs.15.57 crores
+
+alongwith interest at the rate of 12% p.a. w.e.f. 7th April, 2014
+
+onwards. Against the order of 30th April, 2019, OPG has filed
+
+Appeal no.184 of 2019. 13. Against the aforesaid two orders of the WTM five appeals
+
+were filed which were heard and decided together by a common
+
+order of this Tribunal dated January 23, 2023. This Tribunal
+
+found that most of the charges were not proved and accordingly
+
+allowed the appeals in part by issuing the following directions:- 15 14. On the same issue and on the same cause of action, the
+
+AO has issued a show cause notice dated January 04, 2019
+
+against NSE, Mr. Ravi Narain and Ms. Chitra Ramkrishna and
+
+another show cause notice dated January 28, 2019 was issued
+
+against OPG Securities Pvt. Ltd. & Ors. The AO, after
+
+considering the material evidence on record passed the
+
+impugned order dated February 10, 2021 against NSE, Mr. Ravi
+
+Narain and Ms. Chitra Ramkrishna and another order dated
+
+February 11, 2021 against OPG Securities Pvt. Ltd. and Ors.
+
+imposing penalties. 15. We have heard Shri Somasekhar Sundaresan, the learned
+
+counsel, Shri P. N. Modi, the learned senior counsel,
+
+Shri Piyush Raheja, the learned counsel and Shri Ravichandra S.
+
+Hegde, the learned counsel for the appellants and Shri Rafique
+
+Dada, the learned senior counsel for the respondent. 16. The learned counsel for the appellants contended that the
+
+findings given by the AO is virtually the same as given by the
+
+WTM in its order which findings have been dealt with in detail
+
+by this Tribunal in its judgement dated January 23, 2023. It was
+
+urged, that the controversy involved in the present appeals is
+
+squarely covered by the decision of this Tribunal dated January
+
+23, 2023 and, therefore, the appeals could be decided on the
+
+basis of the findings given by this Tribunal in its order of
+
+January 23, 2023. In this regard, the learned senior counsel Shri
+
+Dada, fairly conceded that the findings given by the AO in the
+
+impugned orders is virtually the same as given by the WTM in
+
+its orders and that the decision of this Tribunal squarely covers
+
+the issue. 17. It was urged that two findings against the NSE have been
+
+upheld by this Tribunal, namely, the finding relating to absence
+
+of randomizer and the finding relating to IP allocation and load 19 balancer and also the finding that there was no defined policy
+
+and procedure regarding access to secondary server. 18. It was urged, by the learned counsel for NSE that this
+
+Tribunal had imposed a penalty of Rs. 100 crores while
+
+considering the violations committed by the NSE and, therefore,
+
+contended that the penalty imposed by this Tribunal would
+
+cover the violation found by the AO. It was urged, that the
+
+penalty of Rs. 1 crore imposed by the AO should be set aside in
+
+view of the imposition of penalty by this Tribunal in its order of
+
+January 23, 2023. 19. On the other hand, it was urged by the learned senior
+
+counsel for the respondent that the proceedings initiated by the
+
+WTM under Chapter IV of the SEBI Act whereas the AO
+
+initiated proceedings for violation committed by the appellants
+
+under VI-A of the SEBI Act. Since two separate proceedings
+
+were validly initiated the penalty imposed was appropriate. 20. Having considered the submissions made by the learned
+
+counsel for the parties, we find that this Tribunal while setting
+
+aside the disgorgement held:- 21. The directions issued by the WTM under Section 11 & 11B was set aside by this Tribunal but the Tribunal held that he 21 NSE cannot go scot-free and taking into the factors
+
+contemplated under Section 15J which is under Chapter VI-A of
+
+the SEBI Act and in exercise of the powers conferred upon this
+
+Tribunal under Rules 21 of the Securities Appellate Tribunal
+
+(Procedure) Rules, 2000, the Tribunal imposed a penalty of
+
+Rs. 100 crores upon the appellant NSE for the lapse committed
+
+by them. 22. In our opinion, two penalties for the same violation cannot
+
+be imposed. Since we had already imposed a penalty of Rs. 100
+
+crores upon NSE in our order dated January 23, 2023 which in
+
+our opinion is more than sufficient. The impugned order of the
+
+AO imposing a penalty of Rs. 1 crore against the appellant,
+
+thus, cannot be sustained and is quashed. The appeal of NSE is
+
+allowed. 23. Mr. Ravi Narain and Ms. Chitra Ramkrishna have been
+
+penalized Rs. 25 lakhs each by the AO. For the same violations
+
+the WTM had directed Mr. Ravi Narain and Ms. Chitra
+
+Ramkrishna to disgorge 25% of their salary and were also
+
+restrained from being associated with any listed company or a
+
+market infrastructure institution or any other market
+
+intermediary for a period of five years. 22 24. This Tribunal in its order of January 23, 2023 had set aside
+
+the directions for disgorgement and reduced the debarment from
+
+five years to the period undergone. This Tribunal noted in
+
+paragraph nos. 209, 210 and 211as under:- 25. This Tribunal also held:- 26. In view of the aforesaid finding Mr. Ravi Narain and
+
+Ms. Chitra Ramkrishna cannot abdicate their responsibility for
+
+the lapse and while functions may be delegated, duty of care,
+
+due diligence could not be abdicated and, consequently, the
+
+direction of this Tribunal reducing the period of debarment was
+
+passed. 27. For the same lapse a penalty of Rs. 25 lakhs has been
+
+imposed by the AO. We find that one of the directions given by
+
+the WTM was that an enquiry against the employees to whom
+
+the powers were delegated should be initiated. We also find
+
+that the AO initiated separate proceedings against the
+
+employees of NSE who were computer/technical experts,
+
+namely, the Chief Technical Officers Mr. Ravi Apte and
+
+Mr. Umesh Jain and head of the Project Support and
+
+Management Team ("PSMT"), namely, Mr. Mahesh Soparkar
+
+and Mr. Deviprasad Singh, who were managing the colocation 28 operations. The AO by a separate order dated August 29, 2019
+
+did not impose any penalty against the employees. 28. In view of the aforesaid, we are of the view that for the
+
+aforesaid lapse committed by Mr. Ravi Narain and Ms. Chitra
+
+Ramkrishna a limited debarment order had been passed by this
+
+Tribunal. We find that no further directions are required to be
+
+issued and the imposition of penalty in the circumstances is
+
+unwarranted. The impugned order in so far as it relates to the
+
+appellants Mr. Ravi Narain and Ms. Chitra Ramkrishna is set
+
+aside. The appeals are allowed. 29. The Charge levelled against OPG Securities Pvt. Ltd. and
+
+Ors. by the WTM is as under:- 30. Based on the aforesaid charges, only four issues were
+
+framed namely: 31. The WTM exonerated OPG and its Directors on issue
+
+nos.1 and 2 and found OPG and its Directors guilty of unfair
+
+access and advantage by consistently logging into the secondary
+
+POP servers, and on that basis, made unfair gain of Rs.15.57
+
+crores. 32. The WTM accordingly prohibited OPG from accessing the
+
+securities market and from buying, selling or otherwise dealing
+
+in securities for a period of five years. The Directors were also
+
+restrained from accessing the securities market for a period of
+
+five years. Further, OPG in its capacity as a stock broker was
+
+directed not to take any new clients for a period of one year and
+
+further directed OPG and its Directors to disgorge an amount of
+
+₹15.57 crores along with interest at the rate of 12% per annum
+
+from April 7, 2014 onwards, till the date of payment." 33. This Tribunal in paragraph 263 held as under:- 34. In the operative portion this Tribunal affirmed the
+
+violations committed by OPG but set aside the directions to
+
+disgorge an amount of Rs.15.57 crores and remitted the matter
+
+to the WTM to decide the quantum of disgorgement afresh in
+
+the light of the observation made by this Tribunal in its order.
+
+The AO imposed a penalty of Rs. 5.2 crores after finding that
+
+the appellant had committed the violations levelled against it
+
+and its Directors. Since, we have already upheld the violations
+
+as given in the WTM's order, we also affirm the violations
+
+committed by the OPG as found in the AO's order. However,
+
+the AO while calculating the penalty and while considering the
+
+factors provided under Section 15J also took into consideration
+
+the direction of WTM to disgorge an amount of Rs. 15.57
+
+crores. Considering the fact that the penalty imposed by the AO
+
+takes into consideration the computation of unlawful gains as
+
+arrived by the WTM in its order which portion of the order has
+
+been set aside by this Tribunal, we are of the opinion, that the
+
+AO is required to reconsider the quantum of penalty. We
+
+accordingly, affirm the violation committed by OPG and its
+
+Directors but set aside the order in so far as it relates to the
+
+quantum of penalty and remit the matter to the AO to decide the
+
+quantum of penalty afresh. 35. In view of the aforesaid Appeal No. 166 of 2021, Appeal
+
+No. 167 of 2021 and 168 of 2021 are allowed and Appeal No.
+
+369 of 2021 is partly allowed. In the circumstances of the case,
+
+parties shall bear their own costs. The misc. application is
+
+disposed of accordingly. 36. This order will be digitally signed by the Private Secretary
+
+on behalf of the bench and all concerned parties are directed to
+
+act on the digitally signed copy of this order. Certified copy of
+
+this order is also available from the Registry on payment of
+
+usual charges. Justice Tarun Agarwala
+ Presiding Officer
+
+ Ms. Meera Swarup
+ RAJALAKS Digitally signed
+ Technical Member
+ by
+ HMI RAJALAKSHMI
+12.07.2023
+PK HARISH HARISH NAIR
+ Date: 2023.07.13
+ NAIR 14:29:18 +05'30'

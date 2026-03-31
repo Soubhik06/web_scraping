@@ -1,0 +1,88 @@
+Shri Samdarshi Tiwari, learned Dy. Advocate General for
+ the respondents/State. We appreciate the stand taken by the applicant
+ APDMC that the applicant is committed to conducting
+ transparent, free and fair examination. Keeping in mind the rival submissions and suggestions
+ given on the previous date of hearing and also after
+ perusing the name of the Agency who is likely to be
+ entrusted with the Online Examination to be conducted for
+ and on behalf of APDMC, in our considered opinion, it may
+ be appropriate to provide for dispensation which may
+ assuage the concern of all the stakeholders and also instill
+ credibility and confidence in the entire process of online
+ examination. The measures to be adopted as indicated hereinafter
+are not only regarding the minimum technical compliance
+to be fulfilled by the concerned Agency but also about the
+logistical compliances to be done by the principal
+(APDMC) and the monitoring agency (AFRC). We may
+consider of issuing directions to provide for following
+security measures :- The Database Administrator must be appointed from an
+ independent agency such as NIC not below the rank of
+ Scientist C.
+
+A. Central Examination Server :- Owner of one server should not be able to access the second
+ replica server. (6) A Monitor server should also be configured in same manner as 3 of examination server but to store monitoring data such as
+ audio/video/images/biometric data collected from each
+ examination centre. B. Examination server at each examination centre.
+(1) Each Examination centre should have fingerprint reader at main
+ gate so that only those examinees are allowed whose fingerprint is
+ stored on Examination server in Examination centre. User
+ biometric information (Fingerprint/face recognition) may be
+ register at the time of enrollment/form filling through authorized
+ centre or kiosk only. (2) Each examinee should be validated by his/her own credential (id
+ and password) through the server. (3) Exam Hall must have auto generated encrypted code for paper. This auto generated code (id) must be distributed randomly. The
+ first candidate who comes in exam room shall have first code,
+ second shall get second code and likewise.
+(4) The password of each user stored in the database should be in
+ encrypted form. (5) As soon as the exam gets over and data is submitted to database on
+ Examination server at each examination centre, immediately the
+ DML (Data manipulation Language) get locked for the
+ database so that the data could not be changed at any situation.
+ (Database access time must be limited upto exam period only,
+ whatever it may be 2 hrs or 3 hrs and after examination it must be
+ blocked immediately and no command or deletion, addition,
+ alteration shall be allowed. It is to ensure that the test is taken in a
+ certain amount of time. Some automated testing programs allow
+ this feature). The auto generated id is for the internal use only
+ and not be opened to anyone except Examination In-charge having
+ exclusive password.. (6) Each examination hall should have at least two CCTV cameras
+ with audio recording facility to the monitoring server not less than
+ 5 Mhz frequency. The camera must have sufficient electricity back
+ up through UPS, so that the movement and activity of Examinee
+ can be recorded in case of power failure. This data should be
+ uploaded to monitoring server on real time basis.
+(7) The recording of desktop of each Examinee computer should also
+ be uploaded to monitoring server on real time basis which in turn
+ to be secured at the monitoring server contemporaneously.
+(8) The local server installed at Examination Centre should be
+ connected through VPN to the master server. The internet
+ connectivity on the local server to be disconnected. No possibility 4 of hacking is possible in this configuration.
+(9) The Examination Centre must have ISO 27001 certification.
+(10) The Result be declared within prescribed time or within 15
+ minutes. (11) The tentative answer keys for the objective type examinations
+ should be hosted on the website of APDMA and AFRC
+ immediately after the examination is over and candidates will be
+ given days' time to file claims and objections, if any to the
+ examination authority. (12) The same will be placed before the Experts committee of which
+ Database Administrator from independent agency such as NIC is
+ also a member for scrutiny and the corrected final answers be
+ published on the website again. Candidates can self-evaluate their
+ answers with answer keys. C. Measures to be taken at Examination Centre
+(1) A firewall like software should be installed to each examinee
+ computer. The task of this software is to remove vulnerabilities
+ present in examinee computer. The tasks are listed as below:- By data available in central server and replica server.
+ By seeing Desktop recording of particular examinee.
+ By seeing CCTV video/audio recording of examination
+ room. (2) As Examinee is being identified by biometric data
+ (fingerprint and face or more) therefore only genuine
+ examinee can attend the examination. It is also verified
+ through examinee credentials." We are inclined to give some time to both the parties
+ to examine the efficacy of the security measures indicated
+ hitherto and to offer their counter proposal, if any, so that
+ appropriate directions can be issued on the next date of
+ hearing. We make it clear that if there is any issue about
+ appointing Database Administrator by NIC, the parties may
+ suggest any other independent agency (Government
+ Undertaking) or even names of former Officers of such
+ undertaking not below the rank of Scientist C in NIC or
+ equally qualified. We accordingly, defer the matter till 03.08.2015 to be
+ taken up at 10:30 AM.

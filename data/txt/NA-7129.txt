@@ -1,0 +1,193 @@
+Reserved on 20/06/2019
+ Passed on 25/06/2019
+
+ This is the first bail application under Section 439 of
+ Cr.P.C. Applicant Manohar M.N. was arrested on 02/05/2019 in
+ connection with Crime No.12/2019 registered at Economic Offences
+ Wing, Bhopal (M.P.) for the offence punishable under Sections 120-B , 420 , 467 , 468 , 471 of the IPC, Section 66 of the Information
+ Technology Act, 2000 and Section 7 read with Section 13(2) of the
+ Prevention of Corruption Act. 2. As per prosecution story, M.P. State Electronics
+ Development Corporation Ltd. (hereinafter referred to as "MPSEDC")
+ is a body working under State of M.P. Department of Science and
+ Technology. Department of Information Technology, Govt. of Madhya
+ Pradesh adopted the e-Tendering System using online platform in 2006.
+ In the year 2012 Government of Madhya Pradesh appointed MPSEDC,
+ as the Nodal Agency for MP e-procurement portal. MPSEDC selected
+ M/s Tata Consultancy Services with Antares Systems Ltd. as the new
+ Implementation Agency for end-to-end e-Procurement solutions. The Digitally signed by ANURAG SONI Date: 26/06/2019 10:59:14 2 agreement with TCS & Antares was signed in the year 2013. The New
+ Service Providers undertook the Customization, Integration,
+ Implementation and Maintenance of Single, Unitary, Web Based e-
+ Procurement Software (Portal) with the specified modules which also
+ include E-Tendering. Applicant Manohar M.N. was the Vice President
+ of Antares Systems Ltd. and was the project in-charge on behalf of the
+ company. Co-accused Nandkishor Brahme was posted as OSD in
+ MPSEDC from the year 2012 and was assigned the duty as Nodal
+ Officer of E-Tendering Project. In E-Tendering Project, MPSEDC
+ made a platform available to various Government Departments for
+ floating tenders. In the tendering processes the concerned Department
+ which issued the tender uploaded its tender on the portal, on which last
+ date of filing tender and the time of its opening was mentioned. While
+ issuing the tender, the concerned officer also attached the public key of
+ his digital signature. The tenderer after registering himself on MP e-
+ Procurement portal filled the tender and after filing the tender,
+ submitted the tender on the portal after it was encrypted by the public
+ key of the officer concerned attached with the tender. After submission
+ of the tender, no departmental officer, e-tendering company or other
+ person could open the tender before its opening time. 3. On 11th April, 2018 at the time of opening of three tenders
+ Nos. 91, 93 & 94 floated by the Madhya Pradesh Jal Nigam Maryadit
+ (here in after referred as "MPJNM") the computer displayed a message
+ that "the contents of the document had been modified". On that service
+ provider company Antares Systems Ltd. was directed to submit the
+ report after inquiry. In the first report given by the team of Antares
+ Systems Ltd after examining the system they mentioned that there was
+ no irregularity and only attributed the message to technical defect.
+ However, they also stated that further technical analysis was going on.
+ Thereafter, on 05/05/2019 Antares Systems Ltd. again gave the Root Digitally signed by ANURAG SONI Date: 26/06/2019 10:59:14 3 Cause Analysis Report (R.C.A.) mentioning therein that the tenders had
+ been tampered with. On that the then Managing Director of MPSIDC
+ informed MPJNM for canceling these bids and also directed Antares
+ Systems Ltd. to enquire all the tenders, which were floated by the
+ various Government department between 01/01/2018 to 30/04/2018 on
+ E-Portal. On that the team of employees of Antares Systems Ltd. again
+ enquired the matter and gave the report to the effect that during the
+ check period six other tenders i.e. tender of MP Road Development
+ Corporation No.786, Public Works Department Tender Nos. 49813,
+ 49982 & 49985 and tender of Water Resources Department Nos. 10030
+ & 10044 were also manipulated similarly. 4. Thereupon, on the direction of Chief Secretary of M.P.
+ Government a preliminary enquiry was conducted by the Economic
+ Offence Wing. In the preliminary enquiry it was found that after
+ changing the bid price of tender Nos. 91, 93 & 94 of MPJNM
+ amounting to Rs.1,769 crore the M/s GVPR Engineers Limited
+ Hyderabad for tender No.91, M/s the Hume Pipe Company Limited
+ Mumbai for tender No. 93 and M/s JMC Projects India Limited
+ Mumbai for tender No. 94 were made lowest bidder (L1), likewise by
+ tampering the two tenders of the Public Works Department Tenders
+ Nos.49985 & 49982 amounting to Rs.13.46 crores, M/s Ramkumar
+ Narwani Bhopal, were made lowest bidder, in the Tender no. 4981319
+ amounting to 15 crores, Sorathiya Velji Ratna and Company Vadodara
+ were made lowest bidder. After tampering the tender of Madhya
+ Pradesh Road Development Corporation amounting to Rs.7.86 crores
+ M/s Madhav Infra projects Vadodara, Water Resources Department
+ tender Nos.10030 & 10044 total amounting to Rs.1135 Crore, M/s Max
+ Mantena Micro JV Hyderabad and Sorathiya Velji Ratna Baroda were
+ made a lowest bidder (L-1), due to which companies earned illegal
+ profits. 5. On the basis of that preliminary evidences and findings of a
+ probe report of the Computer Emergency Response Team, New Delhi,
+ Crime No.12/2019 was registered at Economic Offences Wing, Bhopal
+ (M.P.) for the offence punishable under Sections 120-B , 420 , 468 , 471 of the IPC, Section 66 of the Information Technology Act, 2000 and Section 7 read with Section 13(2) of the Prevention of Corruption Act
+ against applicant and other co-accused persons. 6. From the report of the Computer Emergency Response
+ Team, New Delhi and the other evidence collected by the investigating
+ agency during investigation it was found that in the year 2016, OSMO
+ Pvt. Ltd. (co-accused Varun Chaturvedi and Vinay Choudhary, the
+ Managing Directors of OSMO and Sumit Golwalkar, the Marketing
+ Director of that company) entered into an agreement with Antares Ltd.
+ in order to check the reasons why the whole system of E-tendering had
+ slowed down and was engaged to conduct a performance test of the E-
+ tendering system and come up with concrete steps to tackle the slow
+ speed. During the performance test, OSMO was provided with user IDs
+ and Bidder IDs by the Antares Ltd. In the month of June, 2016 OSMO
+ stated that it was not able to conduct a performance test of the whole
+ system and thus could not complete the process of testing. 7. It is further stated that the manipulation was done by one of
+ the user ID and bid IDs. For manipulating the tenders of MPJNM, a
+ demo file was created on MP e-procurement portal. That file was
+ created using ID PT 4, which was given to OSMO IT Solutions at the
+ time of performance testing and they also used digital signature
+ certificate (DSC) of Keshav Rao Uikey. The IP address registered while
+ creating the said demo file was 27.60.163.98 and 27.60.185.14, which
+ was linked with mobile No.9755092919. The SIM of this mobile
+ number was registered in the name of co-accused Varun Chaturvedi and
+ was being used by co-accused Vinay Choudhary. Thereafter, hackers Digitally signed by ANURAG SONI Date: 26/06/2019 10:59:14 5 entered into the database through the staging server, where original
+ tenders were stored and this process was done through virtual private
+ network (VPN), the access of which was only with co-accused
+ Nandkishore Bramhe. After reaching the database server hackers
+ accessed the file where the original tenders were saved. They copied
+ the details of all the bidders, who submitted the bids, which were
+ encrypted. After copying the bids they again came back to the demo
+ tender file created by them earlier and by using bidder ID number
+ 15597 and vendor ID number QK 829 846 pasted the said bids in demo
+ file. The vendor ID used for this purpose was the same, which was
+ issued to OSMO for performance testing in the year 2016. After pasting
+ the encrypted bid in the demo file, the hackers assessed the system
+ again on 03-03-2018 i.e. the date on which the said bids stood
+ decrypted as the date of opening the demo tender was mentioned as 03-
+ 03-2018. Thus, they were able to see the figures/bids submitted by all
+ the bidders in encrypted form. After seeing the amount filed by each
+ bidder another demo file was created in the second demo file, the
+ encrypted bids as visible in the first demo file were pasted in the second
+ demo file. Again by using the bidder ID No.15597 having vendor ID
+ number QK29846 they manipulated the bids and made the person they
+ wanted to benefit as the lowest bidder (L-1). After making the change
+ in the second demo file and placing a wrong bidder L-1 hackers copied
+ the encrypted/manipulated bid value and again by using the staging
+ server reached the database server through a VPN, access of which
+ was given to co-accused Nandkishore Bramhe, opened the original
+ tender file and pasted the said encrypted manipulated bid value next to
+ the name of the bidder they wanted to benefit and thus manipulated the
+ bids. 8. Learned counsel of the applicant submitted that the
+ applicant is nowhere involved in that scam. He is the Assistant vice Digitally signed by ANURAG SONI Date: 26/06/2019 10:59:14 6 President of the ASL Company. ASL is a company specializing in
+ software management particularly pertaining to the public e-
+ procurement, since the year 1997 and ever since has been working to
+ the satisfaction of the Government Agencies throughout the Country.
+ ASL has continuously been providing the software e-procurement
+ services to the State of Punjab, Goa and certain other States. The
+ applicant has been successfully working as a marketing personnel
+ targeting business development in ASL since the year 2004. It is further
+ submitted that TCS alongwith ASL had participated in the bid and
+ looking to the reputation of the companies and other relevant factors.
+ TCS along with ASL were successful bidders and accordingly a Tri-
+ Party agreement was executed between MPSEDC, ASL and TCS. It is
+ further submitted that they had a pre-defined duty in their respective
+ expertise in managing the aforesaid e-procurement portal. Accordingly,
+ the security of the portal entirely rested with MPSEDC. In this regard
+ applicant is also filed the copy of said Tri-Party agreement. Learned
+ counsel of the applicant further submitted that the allegations against
+ the present applicant is that Antares Ltd was allegedly entrusted with
+ the security of the portal. During the process of performance test,
+ OSMO was provided with user IDs and bidder IDs by the Antares Ltd.
+ The bids were altered by using that user IDs and bidder IDs. However,
+ from the material available on record it is clearly manifested that the
+ duty of the security squarely belongs to the MPSEDC. The bids were
+ altered at the user ID level, which had nothing to do with the operations
+ of the software functions, which was being performed by ASL. The
+ applicant has falsely been implicated in the crime. The applicant is a
+ reputed citizen of the locality and there is no likelihood of his
+ absconding or tampering with the prosecution evidence. He is in
+ custody since 02/05/2019 and conclusion of trial will take time. On the Digitally signed by ANURAG SONI Date: 26/06/2019 10:59:14 7 strength of aforesaid submissions it is prayed that the applicant be
+ released on bail. 9. On the other hand, learned counsel for the respondent/EOW
+ opposed the prayer and submitted that the whole responsibility of
+ security of e-procurement portal was with the applicant Manohar M.N.
+ since he was the head of Antares in respect of e-procurement portal at
+ Bhopal. In the latter produced by Suresh Kumar CEO of Antares this
+ fact is mentioned. Applicant Manohar M.N. was hand and gloves with
+ all the co-accused persons and just to benefit them came with the first
+ report dated 17/04/2018 that there was no tempering in the bids. Even
+ prior to that Antares also sent an Email on 11/04/2018 mentioning that
+ no irregularity was found. Later, when the said tempering came to the
+ knowledge of higher officials second finding report was given
+ accepting that the tempering had happened in the whole tendering
+ process, which shows that he was also involved in the conspiracy. No
+ manipulation could have taken place without the knowledge of
+ applicant Manohar M.N. The demo files which were used in the
+ manipulation in the bids were created and made available to OSMO by
+ the applicant Manohar M.N. and by using the bidder ID, bids were
+ changed and manipulated. On the request of co-accused Nandkishore
+ Brahme VPN Access was given to him, which was also used by the
+ Antares from his Bangalore office for maintenance of the e-
+ procurement portal. That VPN was used in the tender manipulation. In
+ the report of CERT it is mentioned that the Staging server had access to
+ the main database, which should ideally not be the case. By assessing
+ the database through the staging server, data had been read from
+ genuine tenders and copied to blank tenders name Demo. The said
+ faulty process was created by applicant Manohar M.N. so that the other
+ co-accused persons could access the main database seamlessly and
+ manipulation could be done. This clearly shows that applicant Manohar Digitally signed by ANURAG SONI Date: 26/06/2019 10:59:14 8 M.N. was involved in the conspiracy. The investigation is still going
+ on, so he should not be released on bail. 10. Applicant Manohar M.N. was the Vice President of Antares
+ Systems Ltd. and was the project in-charge of e-Procurement Software
+ (Portal) on behalf of the company. It is alleged that the demo files
+ which were used in the manipulation in the bids were created and made
+ available to OSMO by the applicant Manohar M.N. The investigation
+ regarding his involvement in the crime is going on. So looking to the
+ allegations as mentioned above, this Court is not inclined to grant bail
+ to the applicant at this stage. 11. Accordingly, M.Cr.C. is rejected. (Rajeev Kumar Dubey)
+ JUDGE
+
+ as/ Digitally signed by ANURAG SONI Date: 26/06/2019 10:59:14
