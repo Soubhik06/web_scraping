@@ -1,0 +1,35 @@
+Companies can consider a tokenised approach to age assurance to ensure data minimisation, the European Union’s Data Protection Board (EUDPB) said in a statement on age assurance on February 11. When assuring that someone meets the age threshold to access a service, companies do not necessarily need to know what a person’s age is – just that they are over or under the prescribed age. For example if companies cannot process the data of someone under the age of 18 without parental consent (like it is in India) all they need to do is figure out whether or not someone is in the under 18 group or over 18 group, not whether they are 24 or 45.
+
+“A third-party provider performs an age check and provides the user with an “age token” that the user can present to the service provider without needing to prove their age again. The age token may contain different user’s attributes and about when, where or how the age check was performed,” EUDPB says explaining how tokenisation could work.
+
+The EUDPB’s statement provides guiding principles for companies to design age assurance mechanisms that are compliant with the EU General Data Protection Regulation (GDPR). The GPDR along with other EU regulations such as Digital Services Act imposes minimum age requirements for processing a user’s personal data and when determining access to pornographic content.
+
+Just like the EU, India has also brought in age restrictions through its Digital Personal Data Protection Act, 2023 . This act states that companies have to seek verifiable parental consent before processing the data of anyone under the age of eighteen. Under the recently released draft Digital Personal Data Protection Rules, 2025 (DPDP Rules) , the Government further suggests that companies must ensure that they verify the age and identity of parents. One of the methods of verifying parents is via a virtual token mapped to the age and identity of the parent. EUDPB’s statement gives us a better sense of how this tokenised approach could work.
+
+Companies should implement age assurance in a “risk-based and proportionate manner”, the EUDPB says. The board urges companies to ensure that age assurance mechanisms factor in the rights of all people. This includes children’s rights to protection of personal data, protection from violence and other forms of exploitation, and also their right to access information from a variety of sources.
+
+One of the key arguments coming in from India around age verification is the need for a risk-based method for age verification. In India, platforms cannot track or carry out behavioral monitoring of anyone under the age of 18 unless the government exempts them from this restriction if it believes that certain companies are processing data in a “verifiably safe manner”. Before the government released the DPDP Rules, the Head of Public Policy at Snap Uthara Ganesh had said that she saw the exemption for verifiably safe companies as “an opportunity to make a persuasive case for a risk-based approach”. Indian government eventually decided to keep the list of exemptions narrow under the draft rules, with companies having no way of meeting specific criteria to qualify as verifiably safe.
+
+Despite this, many have continued to argue that the government should consider creating a list of requirements that companies must fulfill to be verifiably safe and carry out tracking, instead of exempting certain organisations/purposes. Participants at MediaNama’s discussion about the rules suggested that these requirements could include asking platforms to turn off comments or banning companies from sharing children’s data with third parties.
+
+While guiding companies on how to adopt age assurance, the EUDPB takes note of the fact that in many cases age assurance can pose a high risk to people’s rights and freedoms. As such, in these cases, companies need to carry a data protection impact assessment which assesses the scope of data a company would process for age assurance and the legitimate purposes for doing so.
+
+Age assurance should not provide companies with additional measures to track, identity, or locate people. The personal data they collect should not fulfill purposes unrelated to age assurance such as enabling further targeting or profiling of users, including for both commercial (through personalised advertisements) and malicious targeting ( for purposes such as grooming, bullying, stalking, or harassment). Companies must adopt privacy-enhancing technologies (PET) to limit the possibilities of repurposing the data.
+
+The board also says that companies can determine the necessity and proportionality of age assurance by conducting an assessment to identify and evaluate the risks that their service poses to children such as exposure to harmful contact or content. “For example, a service provider processing personal data to check the age of all their users when accessing all their content or services, even when the content or services are suitable for all audiences and devoid of any risk, would not pass the necessity and proportionality tests.
+
+The age assurance method must have data protection built into it by design. This means that companies should consider adopting age-assurance technologies that:
+
+This means that people should have the option to choose between different age assurance methods if they do not wish to undergo verification via a specific method. Companies should also regularly assess the age assurance methods they have selected (including solutions they purchase from third parties) to ensure that they are functioning in line with their specific purpose.
+
+Companies should evaluate how effective their age verification mechanisms are based on factors such as:
+
+Companies that carry out age assurance should implement measures to keep the data required for assurance safe. EUDPB suggests that pseudonymisation and encryption of personal data may be helpful measures to mitigate the potential effects of data breaches. Further, companies can also keep shorter data retention periods, to reduce the exposure surface for age assurance data. “A no-log policy may be considered a valuable safeguard: once the user’s age is verified, no record of the personal data used for the age assurance process is kept,” the board suggests.
+
+Companies can make sure that they are compliant with age assurance requirements by adopting a government-proposed method for the same. “Age assurance should operate in a framework where all processes and systems are designed, implemented, revised, documented, assessed, tested or audited in a way that meets data protection regulations and other legal requirements” the board argues.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

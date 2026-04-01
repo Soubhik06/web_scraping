@@ -1,0 +1,50 @@
+SUBREDDIT: r/india
+TITLE: PSA: Drastically increase security of online/credit card accounts through two step authentication.
+DATE: 2015-06-19
+SCORE: 6
+URL: https://www.reddit.com/r/india/comments/3ae5ln/psa_drastically_increase_security_of_onlinecredit/
+
+--- POST TEXT ---
+
+With the recent few posts about credit card fraud, here is a post that deals with the larger issue of online security. I promise you that if implemented, these steps will **exponentially improve your safety** on the internet and other digital mediums. If not anything, PLEASE ENABLE TWO STEP AUTHENTICATION ON YOUR EMAIL ACCOUNTS. 
+
+Email accounts have become that central place where all other accounts (and thereby our digital lives) are daisy chained into. Having a compromised email or other online accounts can have very serious consequences. [Here is one such story.](http://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/ ) And I think many here know of the infamous [2014 celebrity icloud photo hack](https://en.wikipedia.org/wiki/2014_celebrity_photo_hack). 
+
+**What is single factor authentication and why is it inherently insecure?**
+
+Single-factor authentication is a process for securing access to a given system through one category of credentials. Example, key to the lock which is securing a certain room, password for an account, CVV for a credit card. 
+In each case, the system not nearly secure enough. 
+
+* Keys can be easily duplicated
+* Passwords can be captured by key loggers, or hacked by brute force, or simply looked at over the shoulder. Matters are made worse by people’s tendencies to repeat passwords and choose short simple ones.
+* CVV: many don’t even know that they are to be kept private. Worse yet, they are printed on the back of the card. 
+
+**Enter two factor (and multi-factor) authentication:**
+
+Two factor authentication is the process of securing a given system by two means, usually something that the user ‘has’ and something that the user ‘knows’. Unless you have access to both the factors, the system cannot be accessed. Systems which require even higher security can implement multi factor authentication, where you need access to 3 or more factors to enter the system. 
+
+**Example:** To withdraw money from an ATM you need your debit card (something that you have) and punch in the correct pin (something that you know). Don't have either one, and account is inaccessible. 
+
+**Common services in India where you should enable two factor authentication**. Each link will send you to the page which explains how to set it up. (For full list: [look here](https://twofactorauth.org/)). 
+
+* Visa/Mastercard 3-D Secure service (ex: [for ICICI Bank](https://www.3dsecure.icicibank.com/ACSWeb/EnrollWeb/ICICIBank/main/index.jsp;jsessionid=acs_n38201078183464531342)) for credit/debit cards: After initiating transaction, a one-time password is sent to your mobile number which expires in a small time frame. 
+* Facebook (Can't post facebook links here)
+* [Gmail](https://www.google.com/landing/2step/) (&amp; other Google services)
+* [Hotmail/Outlook](http://windows.microsoft.com/en-in/windows/two-step-verification-faq) (Microsoft account)
+* [Apple ID](https://support.apple.com/en-us/HT204152) (iCloud)
+* [Yahoo!](https://help.yahoo.com/kb/SLN5013.html)
+* [LinkedIn](http://blog.linkedin.com/2013/05/31/protecting-your-linkedin-account-with-two-step-verification/)
+* [Twitter](https://blog.twitter.com/2013/getting-started-with-login-verification)
+* [Dropbox](https://www.dropbox.com/en/help/363))
+* [Evernote](https://blog.evernote.com/blog/2013/10/04/two-step-verification-available-to-all-users/)
+* [LastPass](https://helpdesk.lastpass.com/multifactor-authentication-options/)
+* [WordPress](https://en.support.wordpress.com/security/two-step-authentication/)
+
+**Common concerns against two factor authentication and FAQ:**
+
+1. **It is too technical and time consuming to set it up.** Yes it might take a few minutes of time, but isn’t your long term security and privacy worth that? As for the difficulty, online services have made it increasingly easy.
+2. **I don’t like typing in the 2nd factor code every time I need to log into email.** You don’t need to! A lot of services like Gmail, Outlook, Dropbox, Yahoo, etc. have a ‘don’t ask me again’ tickbox. So you only need to type in the code first time for that computer, or after you clear cookies. From the second time onwards, that system will no longer require the 2nd factor. For credit cards however, code is sent for every transaction. 
+3. **The second factor usually is a code sent to phone, what if I don’t have reception?** A lot of services send the code to the authenticator app ([looks like this on android](https://lh4.ggpht.com/yChKYV75092iHI3h6Qt9Jt_7psYnN1HeRsMsn5C0pmjXZ2yBDdOQ6WZw-nZRJyMusp23=h900-rw)). This app works based on a time bound algorithm and works even without reception. Works even in airplane more. For some services which send the code through sms (like Visa 3D-Secure) you need reception. 
+4. **The second factor usually is a code sent to phone, what if I lose it?** Yes for a lot of services, the phone is either sent code through SMS or the authenticator app on the phone. This is not a problem, as usually there are other means to retrieve a code. In the case of Google/Yahoo you can optionally store phone numbers. Also, you can log in through a previously authenticated system (if you selected ‘don’t ask me again’), and disable two factor authentication temporarily. Besides, in use it is never a real inconvenience when comparing the exponential security it provides. Losing your phone might complicate matters temporarily, but the chances of that happening are very small anyway. 
+
+Again, I implore you to set up 2 factor authentication where you can, at the very least on your email and credit card accounts. I have seen a few people deeply regret their decision to not consider this security feature only when it's too late. It is kind of like crying over a crashed or corrupted hard disk, where you could have prevented loss of precious data by a simple back up. **People who need help can contact me via PM**.

@@ -1,0 +1,37 @@
+You’re reading it here first: The Hyderabad City Police wants to acquire several invasive phone and computer cracking tools for its Cyber Crime unit, including software such as Cellebrite’s UFED that can bypass, reveal or disable lock codes of several makes of smartphones including those running iOS. The department is also looking to buy software that can retrieve data from popular platforms such as WhatsApp to access contacts, chats and attachments. The state government has invited bids from solution providers who can supply these tools, install and maintain them, and even train police personnel in using them.
+
+The tender, reviewed by MediaNama, is meant for the acquisition of cyber-forensic tools for the Hyderabad City Police’s SafeCity Project. The tender lists 23 equipment that the Hyderabad police is looking to acquire for its Cyber Crime Unit. The surveillance capabilities of police departments across India have always been shrouded in secrecy, with very little information in the public domain. If Hyderabad police goes through with the acquisitions mentioned in the tender, it will join the Delhi police, which has admitted to possessing such tools, including Cellebrite’s UFED.
+
+As a whole, the requirements point to the direction the Telangana government wishes to go ahead with in terms of surveillance and individual privacy — the tender, among other things, talks about retrieving deleted emails, deploying ‘passwares’ and perpetrating brute force attacks to access smartphones.
+
+Hyderabad police commissioner Anjani Kumar couldn’t be immediately reached for comment. We have reached out to WhatsApp for comment on the tender. We will update this post if we receive a response.
+
+“It should support more than 31,110 device profiles and 10,800 different mobile application versions,” the tender document said. With this equipment, the Telangana government is looking to acquire data of apps such as Facebook, Twitter, WhatsApp, Google Duo, Dropbox, Coinbase and so on. The tender specifically talks about about bypassing WhatsApp’s security features to access its chat details.
+
+“WhatsApp data retrieval includes decryption of the database and recovery of contacts, chat, chat attachments and user account,” the tender document said. The Hyderabad City Police is also looking to bypass security measures such as two-factor authentication (2FA). “The software should allow use of cloud login keys from the mobile device and using cloud keys it should result in bypassing the security mechanism such as two factor authentications imposed by the cloud service provider that prevent access to the data,” the document read.
+
+Similar to OFED, the Telangana government demanded a “special WHATSAPP EXTRACTION METHOD [in upper case letters] which extracts data by scanning a QR code from a mobile app or using the WhatsApp token from PC (on WhatsApp desktop app or web browser) extracted using special in-built module,” it said. Through this tool, the Telangana government wants an in-built passware for finding encrypted device backups and images to unlock a smartphone. It can brute force and decrypt encrypted user partitions using exploit extracted out of LG devices in DFU mode, the document added.
+
+Apart from these major softwares, the Hyderabad City Police has listed their requirement for an audio authentication software, a system to recover data from damaged devices, an equipment to recover and analyse video from CCTV, smartphone, car black box and so on.
+
+The Hyderabad City Police has often been under the scanner for its usage of “360 degree” databases and of technologies such as artificial intelligence, facial recognition, CCTV cameras in policing and surveillance. Since 2017, the department has been using the Integrate People Information Hub (IPIH) database, which the then-Commissioner and present state DGP M Mahender Reddy had said provides a 360 degree view of every citizen, starting with names, aliases, family details, Aadhar details and so on for use in investigations.
+
+The state government has deeply invested in CCTV surveillance. In October 2020, the government announced its plans to double the number of cameras in the city from 5.8 lakh to 10 lakh. The city has, for this reason, gained the dubious distinction of being the city with the most number of cameras in India, according to report by Comparitech .
+
+“There is a lot of money being poured into the procurement of sophisticated surveillance technologies across the country, particularly in large cities like Hyderabad, Delhi and Bombay. At the same time, the larger ecosystem of forensics examination and the level of understanding of these technologies within the criminal justice system is lacking, so its not clear how useful they may ultimately be,” opined Divij Joshi, a tech policy fellow at Mozilla.
+
+With such invasive technology in the Hyderabad City Police’s armoury, the obvious question that arises is why, when and in what circumstances will these equipment being used. Speaking to MediaNama, Likith Goud, a cyber investigator with Telangana State Police told MediaNama: “Nowadays criminals are resorting to voice over internet protocol (VoIP)  calls. They buy fake numbers and just register on WhatsApp to do their thing. So there are two ways we go about an cyber investigation — ethical and unethical.”
+
+By ethical, the investigator explained, it meant going through proper channels for obtaining information from the platform and unethical means using such hacking equipment. “If we approach a social media platform for information regarding any investigation, they never part away with data and only furnish IP address. We are forced to resort to use such equipment for retrieving chat details,” Goud added.
+
+But, when are these tools used? “Cellebrite is a forensic tool. We use it on a device only after catching the suspect, interrogating him/her. For using this tool first we have to prove that using this particular device, the crime was perpetrated,” Goud said.
+
+Despite these clarifications, concerns remain regarding the usage of such equipment, especially in light of the Pegasus attack on several Indian academics. Researchers are urging political and judicial intervention for bringing in reforms in regards to surveillance and usage of invasive technologies.
+
+“There is a severe need for surveillance reform in criminal procedure, evidence law and forensics in India — something particularly brought to light after the targeting of human rights defenders in the Pegasus case, and the more recent revelations around Bhima Koregaon. In other jurisdictions, rules and principles regarding police access to digital devices have been checked by political and judicial authorities. However, criminal procedure and practice in India has not seen similar reform. The implication is, of course, that there are few safeguards currently against very invasive surveillance of people by the police using digital surveillance technologies,” Joshi added.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

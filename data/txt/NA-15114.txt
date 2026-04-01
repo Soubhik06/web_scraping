@@ -1,0 +1,15 @@
+The Reserve Bank of India has directed banks to secure their customers’ debit and credit card data, after millions of credit and debit card details of Indian banks were reportedly leaked, and put for sale on the internet. In its advisory, RBI’s Cyber Security and Information Technology Examination Cell urged banks to verify the genuineness of the leaked data and disable and re-issue credit and debit cards to people whose details might have been compromised. Banks have also been asked to inform the Computer Emergency Response Team (CERT-In) about the progress they’ve made in following RBI’s order. This was first reported by the Economic Times.
+
+What was the leak? More than 1.3 million payment card details – 98% of them being Indian banks’ cards – have been put up for sale on Joker’s Stash, according to a ZDNet report from October 29. 550,000 of these cards belong to one single bank, according to the report. The data is being sold at $100 per card, the report said. The card details were likely obtained by using skimming devices installed on ATMs and Point of Sales systems.
+
+The card dump includes Track 2 data, usually found on a payment card’s magnetic stripe, which rules out skimmers installed on websites, where Track 2 is never used, the report said.
+
+What is Joker’s Stash? Joker’s Stash is a “card shop” where stolen card details – card dumps – can be obtained. To access the website, you need an invite – known as “Jabber” – from someone who already has an account on it.
+
+NPCI said details taken off of Joker’s Stash: The National Payments Corporation of India (NPCI), held a meeting with all public and private banks after learning about the leak, according to a Bloomberg Quint report . NPCI also told the outlet that the leaked card details are no longer available on Joker’s Stash. MediaNama has reached out to NPCI for comment.
+
+This is the second such major breach: In October 2016, more than 3 million credit and debit card details of Indian banks was breached , making this instance the second major breach of bank card details in India.  RBI has also asked banks to sensitise customers about using their credit and debit cards securely.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

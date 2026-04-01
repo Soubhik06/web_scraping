@@ -1,0 +1,35 @@
+The report’s findings show that the modus operandi of the group was to send high-profile government targets emails that contained malicious payloads designed to capture sensitive information.
+
+We missed this earlier : Researchers at Seqrite, the cybersecurity arm of Quick Heal technologies, claim that they have found sophisticated phishing attempts targeting Indian critical infrastructure PSUs across sectors of finance, power, and telecom by a Pakistan-linked group. Further, in a report published by the firm on July 9, it said that the attacks were targeted to get access to sensitive information “including screenshots, keystrokes, & files from the affected system”.
+
+MediaNama has reached out to the Indian Computer Emergency Response Team (CERT-In) to confirm the alleged attempts after a Seqrite spokesperson said that following the discovery, its researchers had alerted CERT-In and NCIIPC and that they were working with government authorities to protect possible targets. We will update this report when we receive a response.
+
+Why does this matter: In 2019, the Chennai-based Kudankulam nuclear plant was affected by a cyber attack. Following this, investigations were carried out by the Computer & Information Security Advisory Group (CISAG) of the Department of Atomic Energy (DAE) along with CERT-In. While, in recent Parliamentary responses, the government has denied that there have been successful cyberattacks on power grids, it revealed that a total number of 454 (2018), 472 (2019), 280 (2020), and 138 (2021, up to June) phishing incidents were observed by CERT-In. However, in its responses, the government has acknowledged that there have been multiple failed attempts to attack power grids.
+
+The Seqrite report says that the attackers used spear phishing emails to begin the initial intrusion among “high profile” government targets.
+
+According to the report, “The final payload can capture sensitive information including screenshots, keystrokes, & files from the affected system. In addition, it can also execute commands specified as part of instructions from C2 servers.”
+
+While in most cases the researchers found that the backdoors were variants of NJRat — a Remote Access Tool that can help steal passwords, key logs, and operate webcams remotely — in one case they found a payload written in C#, a programming language. This, they said, installs an implant that helps the attacker examine the target and install other backdoors. According to the report, the evidence suggests a highly organised operation designed to evade most security mechanisms.
+
+The report said that the campaign this year was an expansion of Operation SideCopy which it had discovered was targeting Indian Defence units in October last year. In the course of analysing data accessible from the operation’s command-to-control (C2) servers, Seqrite researchers found a common IP address that was the first entry in many logs. This, the report said, indicated that the corresponding system was likely being used for testing the attack before its launch, and using data from whatismyipaddress.com revealed that the provider of that IP address is Pakistan Telecommunication Company Limited. Thus, it strengthened the claim that the attacks from Operation Sidecopy could be originating from a Pakistan-based group which in its report last year, Seqrite had identified as the ‘Transparent Tribe group’.
+
+According to the report, Seqrite researchers suspect this attack to be a cyber-espionage campaign aimed at collecting sensitive information to gain a competitive advantage against India.
+
+In March, a Chinese state-backed hacking group had targeted the IT systems of Indian vaccine makers Bharat Biotech and Serum Institute of India, according to cyber intelligence firm Cyfirma .
+
+In February, Recorded Future , an American company that studies the use of the internet by state actors, uncovered a Chinese state-sponsored cyberattack that was targeting India’s electricity grid and power distribution systems. According to Recorded Future, Red Echo, the organisation behind the attack, deployed malware known as ShadowPad. The attack was linked to the unexpected power outage that hit Mumbai in October 2020, but the government has denied any connection. The government, however, said that it is aware of ShadowPad and has taken appropriate steps against it .
+
+Last month, during a United Nations Security Council (UNSC) Open Debate on “Maintenance of International Peace and Security: Cyber Security” Foreign Secretary Harsh V Shringla reportedly raised concerns about cross-border state-sponsored cyber attacks. Without naming any countries he said, “Some states are leveraging their expertise in cyberspace to achieve their political and security-related objectives and indulge in contemporary forms of cross-border terrorism.”
+
+India currently abides by the Cybersecurity Policy 2013 , although a new cybersecurity policy has been in the works since 2019 and is expected to be released by October this year, according to Lt Gen. (Dr) Rajesh Pant, the National Cyber Security Coordinator.
+
+According to reports , the new policy would tackle all aspects of cyberspace including governance or data as a national resource, building indigenous capabilities, and cyber audit.
+
+Meanwhile, another cybersecurity project of the Union Government, the National Cyber Coordination Centre (NCCC) has been pending full implementation . The NCCC, currently in phase-I of implementation, went live in 2017 and was set up to provide “real-time macroscopic views” of cybersecurity threats in India. According to MEITY’s submission about the NCCC to the Parliamentary Standing Committee on Information Technology, a shortage of funds has impeded its full implementation. However, the Ministry said that the full-fledged NCCC will be implemented “within a period of one year if requisite funds are provided.”
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

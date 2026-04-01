@@ -1,0 +1,49 @@
+Policy research institution Dvara Research has said that requiring AePS touchpoint operators to be associated with only one acquiring bank would “cause inconvenience to both the customer and the AePS operator.”
+
+It said so in its feedback to the Reserve Bank of India’s (RBI) ‘Draft Directions on Due Diligence of Aadhaar Enabled Payment System (AePS) Touchpoint Operators ‘. The new directions aim to “streamline the process of onboarding customers” and combat the growing instances of AePS frauds.
+
+Dvara shared that limiting operators to a single bank would not necessarily prevent fraud, as bad actors can bypass such restrictions. Additionally, Dvara’s researchers found that operators acquire licenses from multiple banks to avoid a much larger issue of frequent server downtime. Thus, it suggested allowing multi-homing or using multiple service providers.
+
+Operated by the National Payment Corporation of India (NPCI), AePS is a payment system that enables financial transactions through Aadhaar number and biometrics or OTP authentication. It facilitates cash withdrawal, deposits, and funds transfers at MicroATMs (handheld card swiping devices) through a business correspondent (BC – an extended arm of a bank that provides financial services to unbanked/underbanked areas) or agents of any AePS-enabled acquiring bank. Agents can obtain a ‘Customer Service Point license’ from banks to enable transactions through touchpoints.
+
+Frequent server downtime
+
+Dvara’s research found that failed AePS transactions were quite common. It noted that these transaction failures took place due to insufficient balance, biometric mismatch, etc. However, server failure specifically was a major contributor to failed transactions. Due to these failures, customers cannot avail of these services and agents lose the potential earnings on those transactions.
+
+Consequences of failed transactions
+
+Failed transactions can not only cause inconvenience to consumers but also affect trust in agents. While most failed transactions result in an automated reversal to the customer’s account, delays are common. Unaware of the reversal process, customers often accuse agents of fraud due to transaction failures, Dvara found.
+
+Agents use multiple operators to avoid the frequency of failed transactions caused by server downtime
+
+Dvara in its research found that operators acquire Customer Service Points (CSP) licenses from multiple providers for AePS transactions. This is not allowed under the RBI’s guidelines on Financial Inclusion by Extension of Banking Services (2010) which states that CSPs can only represent one bank. However, CSPs bypass these restrictions by using multiple licenses obtained in the names of their family members. Agents use this method to have the option access to the infrastructure of multiple banks when the server of one bank has failed. This allows them to avoid transaction failure and maintain trust.
+
+Concerns of Fraud
+
+Fraud remains a persistent issue in AePS transactions. Some bad actors among CSPs defraud customers using the pretext of server failure or thumbprint mismatch, Dvara noted. They target customers who do not have mobile phones or access to the mobile number linked to their bank account, elderly and illiterate customers. However, they argue that being onboarded by only one bank does not ensure the prevention of fraud.  It said, “A CSP holding even a single license can defraud customers by claiming a transaction failed and not handing over money after a successful debit.”
+
+Large-scale fraud incidents such as the leaking of biometric data seem to be far more concerning. In 2023, biometric cloning accounted for 11% of all financial cybercrimes according to the Indian Cyber Crime Coordination Centre (I4C) of AePS, a cybercrime division within the Ministry of Home Affairs. Pankaj Chaudhary, Minister of State for Finance, shared in the Rajya Sabha on July 30 that compromised Aadhaar numbers and fingerprint biometrics, via mainly land and property registration records, are the reason behind frauds.
+
+Dvara has suggested that the RBI look for alternative approaches and update guidelines as per customer and agent needs
+
+Multihoming
+
+Dvara recommends that the RBI allow multihoming wherein CSPs can use the services of more than one acquiring bank as this creates a more flexible environment. It noted that over the past few years, CSPs have already adopted this method, proving its efficiency in tackling persistent issues of server downtime.
+
+Develop white label services
+
+Business Correspondents (BCs) could operate as white-label entities, Dvara recommends. This would allow them to choose the bank server that provides them with the highest possibility of a successful transaction. It noted that the Committee on Comprehensive Financial Services for Small Businesses and Low-Income Households or Mor Committee also recommended that white label BCs must be interoperable.
+
+Risk-based approach to non-exclusivity of acquiring bank
+
+While CSPs choose banks non-exclusively, Dvara suggests that the RBI and NPCI adopt a risk-based approach to enable non-exclusivity for CSPs. The ‘Draft Framework on Alternative Authentication Mechanisms for Digital Payment Transactions (2024)’ already follows this model, allowing issuers to choose an appropriate alternative factor of authentication for a transaction based on the risk profile of the customer and/or beneficiary, transaction value, channel of origination, etc. Similarly, the draft directions for the transaction limits to be set for AePS touchpoint operators are also risk-based. With ample precedent for this approach, Dvara recommends the RBI and NPCI use it for the non-exclusive selection of acquiring banks.
+
+Leveraging real time data
+
+In order to prevent fraud, Dvara suggests that the RBI and NPCI leverage real-time data generated through the AePS network to monitor the activities of AePS operators. For example, it suggests leveraging data by geo-tagging transactions. This it states can help discover patterns that indicate fraudulent activity. This data can contribute to the ‘risk-based approach’ ie. the NPCI and acquiring banks can study CSPs’ behaviour before collaborating. In fact, Dvara suggests creating a risk rating mechanism. Those with a low rating can be banned from accessing select AePS servers. This can also help weed out fraudulent players. The risk rating mechanism can also incorporate the consumers’ inputs on the CSP operator.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

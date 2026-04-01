@@ -1,0 +1,37 @@
+A recent statement by the Ministry of Communications and the Department of Telecommunications addressed a Rajya Sabha question regarding the âIncoming Spoofed Calls Prevention System.â The response stated that the system ensures telecom providers process genuine calls and update a centralized repository in near real-time. Moreover, it added that authorities regularly monitor data on spoofed and genuine calls.
+
+The information came as a response to the following questions asked by S Niranjan Reddy:
+
+The government stated that the system permits genuine calls from international roaming subscribers. It further added that it maintains a repository âin hashed and encrypted form of the genuine subscribers.â
+
+It also mentioned that telecom service providers (TSPs) update this centralized repository in ânear real-timeâ to ensure accuracy.
+
+For grievances about blocked calls, the ministry stated that subscribers can use TSPs’ standard grievance redressal mechanisms. These include websites, toll-free numbers, and customer service centers.
+
+Moreover, it added that authorities âroutinely gather and closely monitorâ data on spoofed and genuine calls.
+
+The responses provided by the Ministry are ambiguous, given the technical and operational nature of the questions.
+
+The response mentions the use of a repository of genuine subscribers. However, it does not explain how the system prevents legitimate calls from being mistakenly flagged. The response would lend much more clarity if it explained the specific safeguards or algorithms used to minimize false positives.
+
+The term “near real-time” does not clarify the actual frequency of updates or the process for resolving any discrepancies or delays in the database updates. Providing more detail on these aspects would be helpful for better understanding the systemâs functionality.
+
+The phrase “data is routinely gathered and closely monitored” lacks specific details, such as the metrics used and the frequency of analysis. It also does not explain how the system effectively distinguishes between spoofed and genuine calls. Providing further information on these aspects would offer a clearer understanding of the system’s effectiveness.
+
+These responses appear to overlook some technical specifics and operational transparency. This makes it challenging to fully assess the system’s reliability.
+
+In October this year, the Ministry of Communications launched the âInternational Incoming Spoofed Calls Prevention System’. The system aims to identify and block incoming international calls posing as Indian phone numbers.
+
+The press noted that cybercriminals are using Indian numbers starting with (+91) to conduct scams that originate abroad by manipulation of Calling Line Identities (CLI).
+
+The Department of Telecommunications (DoT) had linked these spoofed calls as a significant source of financial scams and impersonation of government officials.
+
+To address this issue, the DoT, in collaboration with Telecom Service Providers (TSPs), implemented a system that reportedly blocked around 1.35 crore spoofed calls within its first 24 hours of operation.
+
+Earlier in May, the DoT directed TSPs to block incoming international spoofed calls displaying Indian mobile numbers, which cybercriminals exploited in scams such as fake digital arrests and FedEx fraud schemes.
+
+In July, the Ministry of Finance allocated Rs 38.76 crore to the DoT for the Centralised International Out Roamer (CIOR), relabelled as the International Incoming Spoofed Calls Prevention System.  Funding for the Digital Intelligence Unit (DIU) to combat telecom fraud was also raised to Rs 85 crore for FY25, from Rs 50 crore in FY24.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,55 @@
+What’s the news: Electronics Corporation of Tamil Nadu Ltd (ELCOT) has floated a tender to select a System Integrator (SI) for designing, developing and establishing forensic investigating labs for the state’s Cyber Crime Wing. These labs will be set up at 46 Cyber Crime Police Stations (CCPS) at districts, commissionerates and special units, supported by six regional labs and a State Cyber Command Centre (SCCC).
+
+The goal, as per the tender, is to procure hardware, software, cyber forensic tools, workflow software, training and other services required for the operation of cybercrime investigation labs at the above-mentioned locations for three years.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+CCPS to operate with and independent of other labs: As per the tender, the SI will ensure that the CCPS can operate both in a standalone mode – with necessary tools for day-to-day investigation – and integrated mode – ability to escalate or request assistance from the RL and SCCC.
+
+Moreover, of the total CCPS meant to register complaints and confiscate digital evidence, 36 stations will be in districts, seven stations in cities and three more units in other areas. The cyber regional labs will help the CCPS in analysis and guidance.
+
+The tender also called for handholding support by a consultant in the SCCC for three years. The consultant will be present 24×7 and support the regional labs and CCPS either through online or offline mode as per the requirement. For this reason, there will be one manager and four lab administrators during the final acceptance testing along with 12 lab administrators in the regional labs.
+
+The six cyber regional labs will be at an intermediary level for providing connection between the SCCC and the CCPS. These labs will be established in Tamil Nadu Police Academy, Tiruchirappalli (Trichy), Coimbatore, Madurai, Chennai and the Crime Branch-CID. In 2019, the state government had already sanctioned setting up of cyber labs in Chennai and Coimbatore aside from Madurai, Tiruvannamalai, Villupuram, and Vellore.
+
+SI to handle data security responsibilities: The data collected from the labs will be hosted in the Tamil Nadu State Data Centre in Chennai whereas the recovery site will be in the Tamil Nadu Disaster Recovery Centre in Trichy.
+
+Accordingly, the data centre, recovery site, SCCC, regional labs and CCPS will be configured with intranet connectivity “with failover redundancy” at the data centre level. The SI will also provide training on forensic tools and emerging cybercrimes, cyber security for three years.
+
+Further, the SI will be responsible for data migration. The Cyber Crime Wing has case related data in various file formats. As such, the SI will assist the CCPS in copying of data to data centre and form a data repository.
+
+Workflow software implementation: Another responsibility given to the SI is the development of a workflow software for collection, sharing and transfer of data between CCPS, regional labs and the SCCC. It will enable data sharing and coordination on investigation.
+
+The  Cyber Crime Wing workflow requires that a police officer at the CCPS files the complaint of a civilian and collects the provided evidence before visiting the crime scene. There, the officer will collect images using “imaging tool or confiscate the machine.”
+
+If the evidence provided is a handheld device, it will be put in a Faraday bag, marked and escalated to the regional labs. The lab will check for the previously reported cases similarities or pattern which, if found, will be sent back to the CCPS as per previous advice by the SCCC.
+
+In case the evidence is an email or a social media or other online based data, the regional lab will collect/extract the data and send it to the SCCC. Similarly, new cases will be forwarded to the SCCC. The SCCC will make a copy of the evidence provided both physically and digitally, use all available tools  for the digital evidence and “arrive at the solution.”
+
+The government will direct the SI to select and customise any robust, secured, open source software, created through contemporary programming languages, to the requirements of the department while going through the above-mentioned workflow.
+
+“The workflow software shall be robust, smooth and hassle free and the same shall be accepted after demonstration. The application shall be hosted in the Data Centre,” said the tender.
+
+UPS and other mechanisms required in all cyber labs
+
+The SI will also have to install an uninterruptible power supply (UPS) in all regional labs and CCPS. Other mechanisms required are firewall and switches for the SCCC, regional labs and CCPS, network components and LAN connectivity within the facility.
+
+At the data centre, virtual servers should be configured with the ability to “roll out images from prebuilt templates, support for multiple hypervisors, create backups, support for replication, support for Linux and Windows VMs, object storage for state cyber command centre and cyber labs.”
+
+Additionally, the tender said that all the CCPS, regional labs and SCCC should be configured in a mesh network with the State Data Centre and State Disaster Recovery Centre.
+
+Network connectivity between various labs: The SI will ensure that the Data Centre and Disaster Recovery Centre are connected through 32 Mbps and 16 Mbps MPLS respectively. The SCCC shall be connected through 16 Mbps connection while the regional labs will be connected with eight Mbps MPLS connection at each location. CCPS will enjoy 4 Mbps MPLS connection at each of the 46 locations.
+
+In terms of cloud requirements, the SI shall coordinate with ELCOT for hosting, managing and maintaining the data and application in ELCOT cloud.
+
+Are there proper cybersecurity laws in place?
+
+Although India still does not have a data protection law, there is a Tamil Nadu Cybersecurity Policy 2020 that recommends a Computer Emergency Response Team (CERT-TN) to maintain cybersecurity hygiene. The team is supposed to monitor, detect, assess and respond to cyber vulnerabilities, events that threaten cybersecurity, etc. In case of breaches, all external disclosures of security incidents are to be reviewed by the competent authority as per the policy. However, it is unclear as to who this authority is. Worse still, in 2021, MediaNama reported that while CERT-TN exists on paper, its officers are currently just a committee of bureaucrats with other roles in the government.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

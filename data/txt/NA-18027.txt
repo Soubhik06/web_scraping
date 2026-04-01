@@ -1,0 +1,25 @@
+SUBREDDIT: r/india
+TITLE: BSNL Users. Time to change your DNS server. BSNL DNS server has been hijacked.
+DATE: 2016-01-09
+SCORE: 15
+URL: https://www.reddit.com/r/india/comments/4035d4/bsnl_users_time_to_change_your_dns_server_bsnl/
+
+--- POST TEXT ---
+
+Have you guys noticed you have been redirected to [domain-error.com](http://domain-error.com/noresult.php) ? | [Screenshot](http://i.imgur.com/i8gMybX.png)
+
+The above screen shot has a bunch of affiliated link and ads which is considered phishing.
+
+Initially I thought its some kind of malware in my PC. After googling a bit and found its [DNS hijacking](https://en.wikipedia.org/wiki/DNS_hijacking). It affects regardless what Operating System you are using.
+
+Some people already complained in twitter but no action taken. | [Screenshot] (http://i.imgur.com/9uXVFC7.png)
+
+and few technical details on what it is.
+
+[Askubuntu forum](http://askubuntu.com/questions/708762/redirecting-to-http-domain-error-com)
+
+[Article - After Airtel tracking it’s users, is it BSNL spoofing too?](http://shivamkhandelwal.in/bsnl-dns-spoofing-detected/)
+
+[Broadbandforum - BSNL Broadband DNS Servers are tampering with NXDOMAIN Records](http://broadbandforum.co/threads/109426/)
+
+The solution for now is to change the DNS in router to google DNS or OpenDNS. This is some serious issue and it affects most of the BSNL users. I'm sure BSNL has no idea.

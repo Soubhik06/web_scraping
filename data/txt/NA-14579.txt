@@ -1,0 +1,79 @@
+Airtel blocks access to websites using specially configured routers — called “middleboxes”, researchers have found. Centre for Internet and Society researchers Kushagra Singh and Gurshabad traced 25 middleboxes to Airtel . Their research concluded that both Airtel and Jio rely on Server Name Indication (SNI), a website identifier on a server, to carry out the blocking.
+
+“Out of the 4379 websites that the authors tested for, they found Jio to be censoring 2951 websites via SNI inspection,” their further research with the Open Observatory of Network Interference (OONI) says. In Jio’s case, they couldn’t conclude that middleboxes are used since tests used to detect middleboxes were not conclusive.
+
+While government-ordered blocking of websites is legal in India, the problem occurs because these orders are not made public, and the ISPs do not block websites uniformly across the country. Thus, internet users in India do not have uniform access to the internet.
+
+An ISP should ideally use the same techniques — whether it be middleboxes or other methods — to block websites throughout its network in the country, and all ISPs should block the same websites. However, as demonstrated by Singh and Grover’s research, that is not the case.
+
+Such opaque and arbitrary censorship means that internet access of 76% of all internet users in India is conditioned by Airtel and Jio’s practices. According to TRAI’s latest Telecom Services Performance Indicator Report (January-March 2020), Jio accounts for 52.26% of all internet subscriptions in the country while Airtel accounts for 23.64%.
+
+Paradoxically, perfect implementation of middleboxes and other blocking methods, even by just two of the biggest ISPs in the country, would make it easier for the Indian government to erect the Great Firewall of India.
+
+Despite multiple emails and calls to Airtel and Jio for comment, we did not get a response.
+
+When a user attempts to access a website by typing its domain name (medianama.com), a connection is established between the user’s IP address and the website’s. An IP address is a numeric string unique to each device on the internet, including IoT devices. This connection is mediated through a computer-readable DNS (Domain Name System). The initial “wire”, so to say, is laid down via the TCP (Transmission Control Protocol).
+
+Over this “wire”, data can be either in an unencrypted format or an encrypted format. In the former case, that is, over HTTP, the data is exchanged in plain text and is visible to the ISPs.
+
+In the latter case, data is exchanged over an encrypted format, that is HTTPS, and is thus not visible to ISPs. Here, on top of TCP, you have the TLS (Transport Layer Security) protocol that ensures encryption. However, certain data, such as Server Name Indication (SNI), is not encrypted and is visible to ISPs. This basically means that your ISP would know that you have visited medianama.com but will not know which article you read.
+
+Since electromagnetic signals can only travel a certain distance before they attenuate, requests between the user and the website are routed via a number of routers or boxes to maintain signal strength and data quality. Each individual router routinely computes the most efficient path of routing data requests so that they are fulfilled quickly.
+
+Data requests from a user to medianama.com could have an optimum path of 10 boxes and to google.com could have an optimum path of 15 boxes. This also varies according to internet traffic (basis of traffic management practices) but in a short span of time, it is reasonable to conclude that a particular request will be routed along the same path.
+
+Technically, the 10 boxes between the user’s device and the website server are all middleboxes, but here we use middleboxes to specifically refer to boxes that block, censor or revert data requests , Grover said. Ideally, these boxes are just supposed to ‘dumbly’ forward packets to complete a data request. It is when they cease being passive forwarding instruments that the problem occurs.
+
+With middlebox-based censorship, the idea is that if enough middleboxes in the ISP’s entire network are reconfigured to block certain SNI, all subscribers will be prevented from accessing certain websites. If Jio and Airtel implement it along their entire networks, 76% Indian internet users will be affected. Such implementation would also make it easier for the government to create the Great Firewall of India by blacklisting websites.
+
+Think of it this way: on a particular IP address, a number of websites (domain names), can be hosted. This is because an IP address is mapped onto one physical device, a server in this case, and one server can host multiple sites.
+
+Thus, the same server/IP address can hypothetically host medianama.com, nytimes.com and buzzfeed.com; this is called virtual hosting, Singh said. A way to better direct requests to the website is to add Server Name Indication (SNI) which basically tells the server underlying the IP address that the request is directed to medianama.com in particular. This takes the request to medianama.com, the actual H, and then to a particular URL (such as the URL to this article).
+
+Consider this: the IP address takes the request to the apartment building, SNI takes it to the particular flat, and URL to the particular room.
+
+Let’s assume Airtel wants to block access to medianama.com. To do that it has a few options:
+
+Yes, it is. But certain metadata, such as the IP address and SNI, packet size, etc. are not encrypted, Grover said . Thus, Airtel wouldn’t be able to see your username/password on Facebook, which is an HTTPS site, or which photos you viewed or pages you visited, but it will know that you visited Facebook.
+
+Airtel has configured at least 25 boxes across the country, Singh and Grover discovered, to look out for certain SNIs. When users try to access those SNIs, these middleboxes essentially block the request from proceeding along the path. With Jio, they found that HTTPS websites are blocked but haven’t found proof related to existence of middleboxes (more on that below).
+
+Singh and Grover basically used TCP data packets with an expiry time. The packets they sent to the websites had a predefined time to live (TTL) beyond which they would essentially die (the technical phrase is time out). For instance, a packet with TTL of 3 means that the packet would die after reaching the third box. By repeatedly incrementing the TTL, they figured out the distance between a client and blocked website. Let’s assume the path distance was 10 boxes.
+
+They then sent a data packet to the same IP address, now with the SNI of the blocked website included in the packet. Since they know the path distance was 10 boxes, they send 10 data packets with each having different TTLs (from 1 to 10). For all packets where the TTL was more than 5, they got a reset packet, that is, their TCP, the “underlying wire”, was terminated. This indicates that box 5 was blocking access to certain SNIs.
+
+Once they had figured out the particular box in the path that acted as a middlebox, Singh and Grover got its IP address and mapped it against a public database of IP addresses. From there, they could identify 25 middleboxes that were registered to Airtel and were censoring internet traffic.
+
+Singh specified that they haven’t been able to attribute middleboxes to Jio but speculated that it could be because Jio has set up proxies.
+
+Both Grover and Singh agreed that Jio’s blocking mechanisms are shrouded in secrecy but it is clear that Jio blocks access to HTTPS websites.
+
+Grover and Singh’s research with OONI revealed that Jio blocks HTTPS websites not just via SNI-based inspection, but also on the basis of the web server involved with the TLS handshake.
+
+They further concluded that with Jio, at times, it was not clear whether their test packets timed out because of censorship or a failure in the proxy box establishing a connection with the website.
+
+China is also blocking all traffic but with Encrypted SNI (ESNI). Basically, this means that the Chinese government could only see that a request was sent to a particular IP address; they couldn’t make out whether it was medianama.com or techcrunch.com. Hence, they blocked access to all websites that used ESNI. This, Grover said, forces websites to use only SNI so that if a website that is harmless for the state is hosted alongside a dissident’s website on the same server, the former isn’t blocked as well.
+
+ESNI is a feature of a newer TLS protocol (version 1.3). For older TLS protocols, since SNI remains unencrypted, China continues to block traffic to specific websites.
+
+SNI-based blocking is increasingly being used by governments to block access to specific websites. South Korea , Venezuela and Jordan are among some of the nations that have used SNI-based blocking, primarily to tamp down on free speech and protests.
+
+While Sections 69A and 79 of the Information Technology Act allow the Indian government to order ISPs to block access to certain websites across India, this does not mean that all internet users in India experience the internet in the same way. Research by three researchers, including Singh and Grover, from CIS concludes that this is because of three reasons:
+
+Grover explained that Section 69A is very limited in its scope as it primarily deals with national security and public order. Courts use Section 79 to block access to defamatory content or websites that violate copyright. Also, Section 79 allows the courts to order the intermediaries — ISPs in this case — to “remove or disable access”, he pointed out.
+
+The situation is exacerbated by the fact  that users may not even know that websites are being blocked by the government, Singh told us. Other blocking methods, such as those used by BSNL and MTNL, or older systems used by Airtel, would tell the user that access to the website has been blocked by the Department of Telecommunications; newer configurations just say that the website cannot be accessed. And that error message seems similar to those that crop up for other reasons: slow internet, connection to the website timed out, too much traffic, etc.
+
+This lack of transparency in the censorship of the internet basically means that there is no accountability and no recourse for users to fight against a paternalist and authoritarian state.
+
+Singh’s detailed technical write-up on Airtel’s use of middleboxes is available here . Grover and Singh’s detailed technical write-up on Jio’s use of SNI inspection is available here . Their paper on web censorship techniques in India, written along with Varun Bansal, is available here . Their detailed technical write-up for OONI, co-authored with Simone Basso, is available here .
+
+Read more: China blocks all HTTPS traffic that uses TLS 1.3
+
+***Correction (October 15, 2020 4:56 pm): Corrected a typo in sixth paragraph of second section. Changed “clocked” to “blocked”. Error is regretted.
+
+***Update (October 12, 2020 6:32 pm): Added a paragraph about looking up the IP address of a domain name using DNS. Originally published on October 12, 2020 at 11:06 am.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,107 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: SEBI catches a pump-and-dump fraud and discovers a weird Reliance connection in the process. A fun read.
+DATE: 2025-02-01
+SCORE: 1
+URL: https://www.reddit.com/r/IndiaInvestments/comments/1if0ep3/sebi_catches_a_pumpanddump_fraud_and_discovers_a/
+
+--- POST TEXT ---
+
+*Original Source:* [*https://boringmoney.in/p/reliance-pays-a-hell-ton-of-money*](https://boringmoney.in/p/reliance-pays-a-hell-ton-of-money?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=bharat+global+reliance) *(my newsletter Boring Money, if you like what you read, please visit the original link to subscribe and receive future posts directly in your inbox)*
+
+\--
+
+I’ve always thought it funny that a company can generate infinite shares, almost like an infinite money glitch. Generate infinite shares, sell for infinite money.
+
+If a company sells a billion shares, it’s just splitting the same limited pie into a billion pieces. The total size of the pie remains the same. So of course there isn’t going to be any infinite money.
+
+But because of this infinite shares creation ability, companies can shrink the size of the piece of the pie with any particular shareholder. If I own 10 shares of a company with 100 shares, and the company magically creates another 900 shares and sells them to its favourite people, those people now have 900 while I’m stuck with the same 10.
+
+There are safeguards against this kind of stuff and it’s not something that usually happens. I probably wouldn’t be writing about it if it did usually happen. Late in December, SEBI [issued an order](https://www.sebi.gov.in/enforcement/orders/dec-2024/interim-order-in-the-matter-of-bharat-global-developers-limited_90114.html) against Bharat Global Developers, a 30-year old company whose only reason for existence was its capacity to defraud individual investors.
+
+Bharat Global ran a classic pump-and-dump, and the first thing you do to run a pump-and-dump is hoard up on the shares of the company you’re pumping. From SEBI’s order:
+
+&gt;\[…\] the Company made two preferential allotment of shares – 9.72 crore shares in April 2024 to 31 allottees and 35 lakh shares in August 2024 to 10 allottees. These large preferential allotments resulted in 99.5% of the shareholding being concentrated in the hands of these 41 allottees…
+
+Bharat Global sold more than 10 crore (100 million) shares to 41 of its favourite people. These 10 crore shares were the entire company! 99.5% of it at least. 99.5% is quite a sweet spot if you’re looking to do a pump-and-dump.
+
+# The pump and the dump
+
+We’ve spoken about the general mechanics of a pump-and-dump [before](https://boringmoney.in/p/youtube-is-great-for-pump-and-dumps#:~:text=The%20mechanics%20of%20it%20are%20known%20and%20simple%3A). It’s reasonably straightforward:
+
+1. Find a relatively unknown company. Buy as many of its shares as you can.
+2. Scream your lungs out! The nicer the story about the company, the better.
+3. People thinking they’re great stock pickers will buy the shares of the company. This is a dumb illiquid stock, so its price will shoot up.
+4. Sell to the suckers.
+5. ??? Profit.
+
+Bharat Global sold the bulk of its shares in April 2024, first starting with 31 people. This was a ₹97 crore sale. In August 2024, it sold another batch of shares to 10 more people for ₹73 crore.
+
+When a company sells its shares in a “preferential allotment” or in better words, to people that it chooses to, those people cannot sell their shares to the public right away. They’re locked in for 6 months to ensure that the company isn’t just distributing free money, and so that public investors have some time to evaluate and react to the company’s actions.
+
+The 31 people who bought Bharat Global’s shares in April couldn’t sell until at least October. As soon as October hit, the company started screaming its lungs out with announcements. Here’s a slice of the kind of disclosures it made:
+
+1. ₹300 crore order! For potatoes! From McCain India Agro Pvt Ltd. Yeah, the frozen fries company.
+2. ₹650 crore order! From Tata Agro &amp; Consumer Products. For tea leaves and dry fruits.
+3. ₹156 crore order! From UPL Agro—groundnuts to extract oil from!
+4. A ₹120 crore order from Reliance Industries Ltd! For designing, engineering and constructing a refinery component.
+
+I’m sure I don’t need to say it, but all these orders were fake. SEBI went to each company and asked them about the orders. The companies from the disclosures don’t even exist! Bharat Global just added a random “Agro” at the end of a bunch of popular companies’ names to make their fake orders sound fancy.
+
+Between 30th October and 11th December, 13 of Bharat Global’s favourite 41 who were now out of the lock in, sold their shares. They made a massive ₹272 crore ($31 million) in profit. Here’s an example of the scale of the profit:
+
+&gt;One of the preferential allottees, namely Mahadev Manubhai Makvana who was allotted 37,82,000 shares in the first allotment, is also the Authorised Signatory in respect of two bank accounts of BGDL with Yes Bank and Axis Bank. The account opening date for Yes Bank was March 20, 2024. He offloaded 4,97,359 BGDL shares for INR 70,71,94,153 between November 01, 2024 and December 20, 2024, making a profit of approximately INR 70,22,20,563 against an investment of approximately INR 49,73,590.
+
+Mahadev Manubhai Makvana (MMM?) invested ₹49 lakh ($57k) and made ₹70 crore ($8M). 155 times the initial investment! Uff.
+
+SEBI also discovered that MMM *was* Bharat Global. His name was on one of the company’s bank accounts! If you’re running a pump-and-dump, maybe don’t put your name on the bank account of the company you’re pumping.
+
+Boring Money is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+# And then there was Reliance
+
+Of the four fake disclosures I highlighted, one is not the same as the others. When SEBI wrote to Reliance to figure out if they had indeed placed a ₹120 crore order with Bharat Global, here’s what it got:
+
+&gt;RIL submitted vide e-mail dated December 19, 2024 that BGDL had not supplied any material for the FCC project of RIL’s refinery. RIL further submitted that BGDL (formerly known as Kkrrafton Developers Limited) had supplied only general construction materials to RIL for about INR 155 crore (including taxes) during the period from April 01, 2024 to September 30, 2024 which was not related to the FCC project.
+
+Bharat Global’s announcement about a ₹120 crore order was false, no surprises there, but Reliance told SEBI that there was *another* ₹155 crore order which was apparently legitimate and fulfilled?!
+
+Bizarre. Very bizarre. Bharat Global was a company whose revenue was literally 0 for many years before it turned into a money grabbing vehicle. It lied about having subsidiaries which did not exist. The company changed its name 4 times in its lifetime. (Probably picked the name “Bharat Global” because of how patriotic the pumpers-and-dumpers were.)
+
+There was no business! There was never a business! All its disclosures were fake. And yet, somehow, out of nowhere, not only did it have a real ₹155 crore order from Reliance, but it also *chose to* make up a fake order when it could very well have just disclosed the real one instead?
+
+I think this takes the cake for anything I’ve written until now. And I’ve written about some [weird stuff](https://boringmoney.in/p/embassy-reit-looks-at-a-fraud#:~:text=suspicious%20was%20suspicious.-,FIT%20AND%20PROPER,-If%20you%20were). I really don’t know what’s happening. SEBI needs to jump on this thread and find some answers. But hey, until then, maybe I can guess?
+
+Here’s some stuff about Reliance’s payments from SEBI’s order:
+
+&gt;… data submitted by RIL shows that a payment of INR 57.22 crore was made to Kkrrafton Developers Limited on March 16, 2024, another 8.07 crore on March 19, 2024 and a last payment of INR 28.04 crore on August 12, 2024.
+
+and,
+
+&gt;\[…\] In this regard, from the bank statements of BGDL obtained from Indian Bank, it was observed that RIL made advance payments of Rs. 65.29 crore to BGDL in March 2024.
+
+Reliance paid Bharat Global ₹65 crore in advance and before it even raised an invoice for that money! In all, Reliance paid the company at ₹93 crore, with the last payment in August. Now come on, Reliance is known to be pretty cut-throat, always getting the better half of a deal. Paying a zero-revenue company ₹65 crore before it’s even asked to doesn’t sound like it.
+
+Let’s put these events down in chronological order:
+
+1. In March 2024, Reliance paid Bharat Global ₹65 crore out of the goodness of its heart.
+2. The next month in April, Bharat Global allotted shares worth ₹97 crore to its favourite people.
+3. In August, Reliance paid another ₹28 crore.
+4. Later in the same month, Bharat Global allotted another ₹73 crore worth of shares to its favourite people.
+5. The money that Reliance paid Bharat Global did not show up in Bharat Global’s financial statements.
+
+Is there a connection between the money Reliance paid Bharat Global and the money that Bharat Global’s favourite people paid it? I don’t know. Were those people really using Reliance’s money to run a pump-and-dump? I have absolutely no idea. \[1\]
+
+# Playing saviour
+
+The people that bought Bharat Global’s shares in its second sale in August were to be locked in until February 2025. By late December, just before SEBI stepped in, Bharat Global’s pumped-up price was at ₹1300—6X the price that the August buyers got the shares at.
+
+This post would’ve probably been a two-part pump-and-dump series, had SEBI not identified the first pump-and-dump in time. For now, the 13 folks that made the ₹272 crore profit will have to give the money back. And the others that couldn’t sell Bharat Global’s shares in time will be stuck holding the bag. \[2\]
+
+**Footnotes**
+
+\[1\] I really mean this! There are a lot of unknowns.
+
+\[2\] In the process of writing this I discovered that some of the 41 people are very obviously involved in other pump-and-dumps as well. Attempts at them, at least, if not successful ones. I’ll probably write about it in a future MYSTERY POST.
+
+ 
+Original Source: [https://boringmoney.in/p/reliance-pays-a-hell-ton-of-money](https://boringmoney.in/p/reliance-pays-a-hell-ton-of-money?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=bharat+global+reliance)

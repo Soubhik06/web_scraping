@@ -1,0 +1,61 @@
+A multistakeholder working group for the United Nations’ Digital Public Infrastructure (DPI) Safeguards Initiative has published its interim report recommending a framework for establishing guardrails to prevent human rights risks associated with improper design and implementation of DPI.
+
+Acknowledging the role of DPI in further better governance, welfare delivery, inclusivity, and assisting countries in achieving sustainable economic goals, the working group has highlighted specific DPI risks associated with human rights.
+
+Risks related to human rights, classified as normative risks in the report, arise in the absence of frameworks prescribing legal, ethical, and regulatory requirements mitigating human rights violations. These include risks of exclusion, discrimination, privacy violations, and issues hindering access to justice or the rule of law.
+
+On the other hand, market-oriented factors pose risks due to monopolies, hamper sovereignty of intellectual property and innovation, discrimination due to AI-based decision-making, environmental risks, geopolitical risks, system risks and failure of technology design.
+
+The World Economic Forum (WEF) defines Digital Public Infrastructure (DPI) as “digital solutions that enable basic functions essential for public and private service delivery, i.e. collaboration, commerce, and governance. Think about our existing shared public infrastructure such as roads and education, but online: that’s DPI in a nutshell”.
+
+According to the WEF, DPIs along with Digital Public Goods (DPGs) form the open governance ecosystems meant for democratising access to governance systems and enabling delivery of citizen-centric services. DPGs comprise “open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, [and] do no harm,” says the United Nations (UN). Read MediaNama’s explainer to know more about DPGs.
+
+The UN Working Group has identified five stages of a DPI lifecycle—scoping (defining the purpose, goal and constraints of a DPI); strategy and design (conceptualising the DPI design according to the needs); development (building a DPI prototype ensuring reliability and scalability); development and transformation (implementing in the operational environment and identifying changes); operations and maintenance (continuous testing and maintenance to ensure performance metrics are achieved).
+
+The UN interim report on DPIs recommends a set of foundational and operational principles as part of an actionable framework for establishing guardrails for the safe and inclusive adoption of DPIs by countries. The foundational principles form the basis for any DPI, while the operational principles applied during the operational level may vary across contexts.
+
+The foundational principles outlined in the report include:
+
+Operational Principles:
+
+The report lays out measures for the systematic application of principles into the day-to-day operations of all stakeholders associated with the DPI life cycle. This includes the following:
+
+Foundation operations assessment: The report defines certain operational measures such as written laws, regulations and policies in place for the effective functioning of the DPI. In addition to legal and administrative requirements, it also requires investments in “human-to-human infrastructure and offline systems” as permanent service layers to ensure that the DPI remains optional throughout the life cycle and is non-exclusionary. Lastly, operationalisation also includes adopting or amending appropriate laws to prevent abuse of power and ensure control by diverse stakeholders across sectors.
+
+Stakeholder capacity-building: DPI implementation is a multi-stakeholder process that requires collaboration from multiple sectors including the government, private sector, communities, and judicial actors. Community-based service providers are important for ensuring that the DPI is implemented inclusively, while private sector and start-ups are key for building different components of the DPI.
+
+Strengthening operational processes: The report highlights the importance of undertaking operational measures to adhere to the rule of law, which protects human rights and access to justice in ensuring transparency of DPI adoption including early piloting and effective implementation of right-to-information law is necessary to provide information about the systems.
+
+The report also emphasised transparent procurement processes, which must be global standards and good practices. “This includes processes to assure the availability of in-house technical expertise, vendor qualification, technical or process specifications, documentation and knowledge transfer to support the building of local competencies, and the use of open international standards,” the report added. Additional measures include conducting regular audits of the DPI, ensuring public participation, and human rights due diligence by industry members.
+
+Strengthening data protection: DPI involves the digitisation of vast amounts of data and allows governments to use such data for developing processes tailored to the needs of specific demographics. While this is helpful for better governance, in the process people’s data is exposed to third parties for studying the data, which raises privacy concerns. The report calls for privacy-safeguarding measures in the face of risks of re-identification of an individual in cases of pseudonymized data.
+
+The report recommended employing robust anonymisation techniques to protect individual data points and using privacy-enhancing methods to ensure that the actual data is not transferred outside the DPI. In case of secondary usage of data, for example, research-oriented purposes including third parties, consent of the data principal must be mandatory.
+
+“Without agency, individuals might choose to opt out of using DPI. A system based on opting-in should employ fine-grain consent management and enable people to volunteer data for specific use cases,” the report noted.
+
+Additionally, secondary usage of data obtained from DPI must be regulated with liability measures to deter misuse, such as stalking, discrimination, or repurposing data for special interests. The report also recommended that technical protections that establish protocols for every interaction with the data sets should be established.
+
+Effective impact assessment: It is recommended that significant investment should be made in conducting timely assessments of public sector systems and subsystems to identify issues related to data protection, algorithmic decision-making, interoperability and human rights impact. These findings should be made public, with exceptions including personal data and cybersecurity concerns. Secondly, industry actors engaged in developing or deploying DPI should adhere to prescribed guidelines, and applicable laws and conduct impact assessment and human rights due diligence.
+
+Redress and access to justice: Access to legal aid in adjudicating claims related to essential services delivered through the DPI is necessary to ensure effective redressal of complaints. This is in addition to online and offline complaint and redress mechanisms. “Judicial redress measures should allow for a pre-deprivation process for all essential services,” the report added.
+
+Monitoring and evaluation: In order to prevent technical risks that can jeopardise people’s rights to welfare, it is important to undertake transparent monitoring and evaluation mechanisms. The report stated, “Regular public reporting on outcomes of monitoring and evaluation enables public auditing, builds trust, and guides the system towards continuous improvement.”
+
+Systems approach to maintenance: The report recommends adopting a systems approach while tailoring the life cycle of a DPI for specific use cases. Secondly, the business models should include long-term costs for data storage and other maintenance of the DPI. Additionally, systemic change could be sustained by collaborating with local digital ecosystems, local DPI providers and other stakeholders.
+
+“Unregulated operationalization of DPI, though systematic, would be dangerous in its impact on privacy, inclusion, equity, and the predictability of public institutions. Since DPI has the potential to significantly restructure our society, we should understand its implications and provide for the necessary governance frameworks to make it safe and inclusive,” the report noted.
+
+The working group has recommended sustained governance of DPI throughout its life cycle. Such governance frameworks should ensure that laws and regulations are enforced alongside the principles for mitigation and management of risks are upheld at every stage of the DPI implementation. Additionally, the report also noted that “As there is no one-size-fits-all DPI template for every country or region, subsidiarity – i.e., decision-making and governance at the appropriate decentralized level – becomes a priority for acceptance and trust”.
+
+The key governance stakeholders include governments, technology communities and companies, non-governmental organizations (NGOs), businesses, international development organizations, philanthropic foundations, think tanks and research institutions, researchers, academics and domain experts, and local ecosystems.
+
+According to the report, the implementation of governance requires the following:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

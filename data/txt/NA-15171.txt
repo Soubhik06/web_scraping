@@ -1,0 +1,23 @@
+Highly sensitive biometric data of over 2,600 Afghans and Iraqis was found on United States’ military devices, bought online by a hackers association called ‘Chaos, Computer, Club’ (CCC). This unprotected biometric database included names, fingerprints, iris scans, DNA, and faces and photographs of people from the two countries, as per CCC.
+
+According to The Verge , the devices were bought by the CCC at $68 and were also available on eBay. CCC’s investigation into these devices, reportedly left behind during the hasty withdrawal of NATO troops, highlights that the US military largely relied upon biometric devices to identify and screen people in Afghanistan at checkpoints, patrol points and controlled access to such personal information by local collaborators. The data collection was under ‘Automated Biometric Identification System’ program and was supported by the German armed forces, Bundeswehr, CCC notes in its blog .
+
+What did the group find?
+
+Why it matters?
+
+From availing basic services to government schemes, India is increasingly boosting the use of biometric data and authentication in almost every sector with Aadhaar linkage . Data leaks and identity theft from the biometric system have exposed people’s information to privacy threats in the absence of a data protection law. The CCC researchers’ warning that any biometric database is a ticking bomb is pertinent to note as experts in India have also warned about similar risks with respect to Aadhaar data.
+
+What are the risks involved?
+
+Who cares?
+
+The CCC reached out to SEEK’s manufacturer, Crossmatch Technologies or HID Global and the two known users of the devices, the US Department of Defense and the Bundeswehr, informing them about the vulnerability of such sensitive data. The group did not receive any substantiate or significant response from either of the parties.
+
+“The irresponsible handling of this high-risk technology is unbelievable. It is inconceivable to us that the manufacturer and former military users do not care that used devices with sensitive data are being hawked online,” said Matthias Marx, who led the CCC research group, as per the report.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

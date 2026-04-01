@@ -1,0 +1,53 @@
+There’s been a strange argument between ICICI Bank and Flipkart’s PhonePe over the past two weeks, relating to UPI, the Unified Payment Interface.
+
+UPI is a service provided by the National Payments Corporation of India (NPCI), a private non-profit corporation that is owned by banks, including many government-owned banks. UPI allows you to make a “virtual private address” (VPA) in the form of id@provider , linked to a bank account, and to transfer money between VPAs (using the underlying IMPS transfer mechanism that is also provided by NPCI).
+
+PhonePe, as you may recall, was the first UPI app on the market, preceding NPCI’s own BHIM app. Since UPI is exclusive to banks at this time, third party apps like PhonePe must tie-up with an existing bank. PhonePe’s partner is Yes Bank, and so all VPAs created using PhonePe are in the form id@ybl , even if the linked bank account is at ICICI or some other bank.
+
+NPCI’s BHIM app similarly creates phone-number@upi VPAs regardless of where your bank account is.
+
+All was fine until 13 January 2017, when Flipkart added PhonePe as a payment option and ICICI responded by blocking transfers from ICICI accounts via PhonePe. Here are a couple of stories trying to make sense of why this happened:
+
+The crux of the dispute is this: Flipkart’s integration of PhonePe requires users to make an @ybl VPA, and ICICI doesn’t like it because as per spec, Flipkart should accept any VPA. Flipkart’s response has been that the spec rules only apply from Jan 31, so there’s some time. ICICI isn’t backing off.
+
+Just why is ICICI so upset? To understand this, one must start elsewhere.
+
+Bank account as identity
+
+Like most people, you receive your income into your bank account. It may have been via a cheque, but nobody likes the hassle of handling cheques, so your income is increasingly likely to arrive via a bank transfer.
+
+What happens when you decide to change banks for any reason? It could be a lower minimum deposit from a competing bank, proximity of the branch to your home, a friendly bank manager, the quality of their online interface, or just about any other reason. That’s secondary.
+
+If you are a salaried employee with a single source of income, you tell your employer that you’ve changed your account and would like deposits to the new account. Chances are this is not a big deal unless the employer insists on a special salary account.
+
+If you have multiple income sources, however (as a freelancer or small business), you will have multiple customers who need to be informed, and you may need to keep the old account open for a while in case someone misses your update and transfers to the old one. Maybe one of your customers is a company with a vendor enrollment process—a common feature among larger companies where they have such bureaucracy to prevent their own employees from committing fraud by doing business with friends. Changing your account now involves paperwork that could take weeks, and the more such customers you have, the more of a hassle it gets.
+
+In effect, you can’t change your bank account because doing so is a fair bit of hassle. Your identity to your customer’s finance department is your bank account number and IFSC code.
+
+Enter UPI, with a VPA that can be issued by any bank, linking to an account at any other bank. Don’t like the bank where you hold your account? Redirect your VPA to some other account. As simple as that.
+
+The bank where you hold your account no longer controls your identity. Your VPA provider does.
+
+If they can’t hold you by your identity, they have to retain you as a customer the old fashioned way, with better service, and that’s expensive. In Exit, Voice and Loyalty , Albert O. Hirschman’s seminal treatise on the topic, we learnt that companies operating in a limited field of competition (the entry barrier for a bank being pretty high) depend on a combination of service and hassle to retain customers.
+
+ICICI Bank is India’s second largest bank (after SBI). Yes Bank is a piddling new bank with a competitive streak. Yes Bank offering VPAs via PhonePe wouldn’t have ordinarily bothered ICICI until Flipkart, still India’s largest ecommerce company, flexed its muscle. When you get an @ybl VPA, Yes Bank is now keeper of your identity, for a fraction of the cost of actually maintaining a bank account on your behalf. ICICI is justifiably worried about being reduced to a commoditised bank account.
+
+Which brings us to NPCI
+
+Under UPI, every bank is encouraged to make its own UPI app and issue its own VPAs, and may the most competitive win, etc. Until NPCI launched its own official BHIM app with shiny @upi VPAs for everyone.
+
+NPCI, the platform provider that coordinates payments between all shareholding banks is now also competing with all of them for owning user identity, with the Prime Minister’s blessings to boot.
+
+No wonder the Watal committee report has been critical of NPCI.
+
+If you think this identity control tussle is an oddity, it isn’t. In an essential sector like banking (everyone needs a bank account), controlling your identity is often the only thing that prevents a business from being an undifferentiated commodity. If you need another example, just look at how telecom providers, another essential sector, have reacted to mobile number portability.
+
+***
+
+Kiran Jonnalagadda is a co-founder of HasGeek, which hosts the 50p conference on payments.
+
+Read the original article here . Copyright HasGeek, 2017. Crossposted with permission from HasGeek.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

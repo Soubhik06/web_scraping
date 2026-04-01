@@ -1,0 +1,27 @@
+“As long as you are connected to the internet, data localisation doesn’t make a difference [to cyber security],” Manu Zacharia, the president of the Indian Security Research Organisation (ISRA) said at Nullcon 2020. Speaking at a panel on the “Economics of Data Breach”, fellow panelist Yash Kadakia, founder of and chief technology officer at Security Brigade, said that the problem, in fact, will get worse since the effectiveness of hackers’ monitoring will improve. “Hackers will now know that if they want Indian data, they have to attack these servers, if they want Chinese data, they have to attack these servers, etc.,” he explained.
+
+Suchit Mishra, the chief information security officer at Autonomous Intelligent Driving (AID) GmbH, argued that the primary aim behind data localisation was censorship and that most regulations do not understand how technologies actually work. “It is consumers’ data. Let them decide where they want their data to be,” he said.
+
+In a later email to MediaNama, Kadakia said, “Having to host separate copies of data in each country, would increase the cost and effort it takes for companies to secure the same data. i.e. having to secure and monitor 20 different independent data stores is much harder and a lot more expensive than a few consolidated data stores. Moreover, today organizations need to store and secure data as per the highest common denominator – in-terms of compliance standards vs otherwise lax local standards that may come into play with data localization. [sic]”
+
+Bug Bounty programmes need to be more lucrative: Kadakia pointed out that hackers can get far more money for breached data and zero day hacks on the dark net than through bug bounty programmes. As a result, “if you increase the amount of bug bounty like Apple, that will help,” Zacharia suggested in response to a question from MediaNama. This is similar to how Singaporean ministers have high salaries so that they are not tempted by bribes, he explained.
+
+Differential privacy may offer a solution: Mishra said that people think data breaches “are like accidents on the road; they happen”. To protect personally identifiable information in such a case, Mishra suggested that differential privacy might help. Differential privacy means sharing information about the data set in terms of patterns, but withholding the PII itself.
+
+Regulatory approach is effective, to some extent: The problem in the Indian development cycle is that security is a parallel track that comes right at the end, instead of being intervowen into the process itself, Kadakia said. He said that regulatory approach is effective, but “the challenge is the ‘so what’ answer [to data breaches] given by companies”. For instance, 17 million personal records were stolen from Zomato’s databases in 2017, but since it did not have an effect on the brand value, the company did not take remedial action, he explained. In the European Union, because of Article 33 of GDPR , that makes reporting personal data breaches mandatory, “we see them [companies] taking it up a lot”, he said.
+
+Business owners needs to be held accountable: Mishra agreed but said that regulations have limited effectiveness. “Accountability has to shift back to the business owner so that the regulation is effective. Jail term is a huge deterrent,” he said. If the CEO of a company can be jailed, the company is far more responsible about cyber security. Under Section 84 of the proposed PDP Bill, 2019, a company director is liable if it is found that the offence was “committed with the consent or connivance of, or is attributable to any neglect on the part of” him/her.
+
+Data brokers and other hackers purchase breached personal records for “a couple of dollars per record” to “better leverage” it for “better return on investment”, Kadakia said. A lot of cyber security research companies and threat intelligence companies such as Kadakia’s own Security Brigade also buy breached records to “research it”. Under the proposed Personal Data Protection Bill, 2019, it is not clear if such research would also qualify as an exemption under Section 38. “Nation states also buy such data [breached personal records],” Mishra said.
+
+Zacharia argued that if you are connected to the internet, there is no privacy. “100% privacy effective internet is just not possible,” he said. However, measures such as encryption and protocols that reset themselves every time are of some help, he said, but encryption alone is not enough as “it is just one layer” of security.
+
+“The concept of privacy-preserving internet doesn’t exist,” Kadakia also declared. This is because hacking fundamentally means breaking into what exists. Thus, even if we were to assume that a privacy-preserving internet existed, hackers would constantly work to undermine that, he explained. “Cyber security is an iterative process”, not an absolute one, he further clarified.
+
+Disclosure: I had been invited by Nullcon to conduct a workshop on the Personal Data Protection Bill, 2019, and my stay and travel were sponsored by the organisers.
+
+***Uodate (March 12 11:39 am): The article was updated with Yash Kadakia’s comments sent via email. Originally published on March 11 at 10:30 am.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

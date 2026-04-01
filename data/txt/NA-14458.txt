@@ -1,0 +1,61 @@
+As governments and platforms grapple with how to tackle different forms of online harm, the child sexual abuse material (CSAM) enforcement framework is often seen as one of the most operationally mature models. Built around coordination between platforms, law enforcement, and institutions like National Center for Missing & Exploited Children (NCMEC), it has enabled relatively faster and more standardised responses to one category of illegal content.
+
+In this part of the interview, MediaNama Editor Nikhil Pahwa speaks with Cloudflareâs Chief Legal Officer Douglas Kramer about whether this model can be extended to other areas such as copyright enforcement, what safeguards are needed to prevent misuse, and why replicating the CSAM approach is far more complex than it appears.
+
+The conversation highlights a key distinction: while some harms are universally recognised and technically identifiable, others involve legal interpretation, making enforcement far more contested.
+
+This interview has been lightly edited for clarity and formatting. Additional parts of this conversation will be published soon.
+
+Read Part 1 of the interview: [ link ]
+
+Nikhil Pahwa: One parallel, and perhaps not an exact parallel, is with the child sexual abuse material (CSAM) framework, right? It’s unusually operational. You forward reports to NCMEC. You share hosting provider identity and origin IP. You acknowledge, which is not as sensitive because it can be used to bypass protections. And you built a trusted reporter program as well, even planned API access.
+
+I’m not sure if you’ve operationalised API access yet, but to speed up investigation. So what are the governing principles that you look at as Cloudflare in terms of who gets access to this data, to the original IP or hosting intelligence , and how fast. What due process checks do you have to prevent access from being misused or expanded beyond the original purpose?
+
+Douglas Kramer: So it’s a good example to talk about, because like you said, I think it has been, although not perfect, a very successful way to approach this, for a couple of reasons.
+
+I will also say, I don’t know if this was part of your question there at the end, but one of the things we need to be wary about is that, as successful as this has been, people who are trying to manipulate processes also understand that it’s very successful, and they will call any number of things child sexual abuse material.
+
+Much the way that, again, in the real world, you’ll end up with doxing or swatting, sending police because of these sorts of claims, we often find that people who are trying to go after websites they don’t like might try to do this.
+
+But regardless of that, the things that have worked, I think, to some success in the CSAM space, some of which are replicable for other areas of abuse, some of which are not, are:
+
+One, the universality of it, right? That there is no question around the world, (thereâs) uniform agreement, that this content is abhorrent. There is no valid purpose for it. Whereas most of the (other) areas that we deal with, there’s some question about that. Gambling is legal in some countries online and not legal in others. Cultural standards might permit some level of discourse or speech that is not permitted in other borders. So there’s a unanimity around this content that is helpful.
+
+Secondly, by and large, on its face, this information can be identified and can be watermarked, where that’s not always the case, where the legality or illegality of something, or the appropriateness or inappropriateness of something, can be identified on its face.
+
+So the question on copyright, for example, is a question of legal right, not a question of the content . The content owned by the rights holder looks exactly the same as the pirated content. It’s just a question of: does the correct license exist in this space? Was the access appropriately gained?
+
+They’re all legal questions that have nothing to do with the content itself. And the same could be said for claims like defamation, theft, phishing, all of that.
+
+And so I think the reason you haven’t seen governments and the private sector come together as effectively as they might have in that space is, first, there has been a recognition that this is just so important. And fortunately, it was also an area that, because of these factors, I think was easier to make some progress on.
+
+So we continue to work with governments that try to set up systems to do similar sorts of things. I think they have yet to gain the sort of adoption we’ve seen about NCMEC because they’re often hard questions. And the question of who makes that determination, which is based on legal or factual determinations. Who plays judge and jury in that case is still a difficult one.
+
+Nikhil Pahwa: Do you see any legitimate parallel to the CSAM’s trusted reporter model for non-CSAM use cases?
+
+Douglas Kramer: I don’t know that I’ve thought about that extensively in different areas, because what we find in different places, and we’re at somewhat of a dispute with the Italian government right now, because, in that case, the Italian government set up a very aggressive regime around copyright but largely turned over the identification of copyright solely to the private sector, without any review by an administrative agency or a court.
+
+Nikhil Pahwa: It’s what courts in India are also doing with their dynamic injunctions.
+
+Douglas Kramer: Yeah, I’m not as familiar with the dynamic conjunctions, but there usually can be some sort of issue in that because throughout the history of the Internet, and I certainly don’t blame them, copyright holders who, as we may talk about a little bit later, certainly view Cloudflare as a friend and a defender in some cases, and in other cases might wish we do a little bit more, but they are doing absolutely everything they can you know, to serve their purpose to sort of continue to monetize and maintain, their intellectual property rights.
+
+And at times, whether it was in the United States, the very famous court decision against Napster back in the day, going after a single user for a very significant amount of money to make that point that others would recognize it, we certainly would expect them to very vigorously pursue those things.
+
+But those need to be understood within a system that has sufficient judicial and administrative controls to do it that way. So usually when we’re confronted with these sorts of questions, we try to understand what the source of those sorts of things are.
+
+The model for us is always going to be on the technical side. I think a lot of cybersecurity experts and engineers have become very effective at sharing threat signals, developing models that they can test, and then automating a lot of the blocking.
+
+Because again, whereas questions about the appropriateness of content or abusing content can be hard, Whether or not something is a DDoS attack, or a certain type of malware, is usually a little bit more of an objective reality.
+
+And so I think groups can come together and do that. So as much as the model might be NCMEC, I think some of the model might be information on cybersecurity threat sharing. And the question is: how do we get over the tricky sort of questions that will require some judgment, some determination of legal right? It will have different characteristics in the same way everyone can agree that CSAM is wrong universally.
+
+Generally, there can be agreement that cyberattacks, where one person is trying to take someone else offline or infect their thing, are inherently wrong.
+
+I think those sorts of elements are ones that we will increasingly try to expand further and further into all forms of abuse.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

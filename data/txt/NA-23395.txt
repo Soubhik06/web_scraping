@@ -1,0 +1,89 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Shapoorji Pallonji's junk bonds have some creative payouts -- a fun read about a slightly niche but interesting financial topic
+DATE: 2024-06-03
+SCORE: 1
+URL: https://www.reddit.com/r/IndiaInvestments/comments/1d6yyz6/shapoorji_pallonjis_junk_bonds_have_some_creative/
+
+--- POST TEXT ---
+
+*Original Source:* [*https://boringmoney.in/p/shapoorji-pallonji-junk-bonds*](https://boringmoney.in/p/shapoorji-pallonji-junk-bonds) *(my newsletter Boring Money. If you like what you read, do visit the original link to subscribe and receive future posts directly in your inbox)*
+
+--
+
+I was confused when I first read about junk bonds. They pay *more* than regular bonds? Then why are they junk? Well, [here’s why](https://www.bloomberg.com/news/articles/2024-05-17/india-s-biggest-junk-bond-faces-creditor-demands-as-delay-sought?srnd=india-v2):
+
+&gt;
+
+This is from a Bloomberg report last month. Junk bonds promise to pay more than regular bonds, but they’re junk because the companies that issue them might just go like “sorry no money for you this month” and you’d sort of have to be okay with it.
+
+In this particular case, Goswami Infratech, an infrastructure company part of the Shapoorji Pallonji group, issued some high-yield bonds sometime mid-last year. It wanted to revise certain terms because it couldn’t make an expected payment. The bond yield was high! 18.75% pa! For context, fixed deposit rates are around 7–8% right now.
+
+Shapoorji Pallonji is a large 150-year old conglomerate. Why are they borrowing money at a rate comparable to that offered by those [shady Chinese loan apps?](https://economictimes.indiatimes.com/industry/banking/finance/banking/loan-trap-inside-the-world-of-shady-digital-lending-apps-which-promise-a-loan-in-a-minute/articleshow/80304632.cms?from=mdr) \[1\]
+
+# Debt to repay debt
+
+A company that’s into constructing stuff needs money. That’s perfectly fine. It will borrow money, build a bridge or a building or whatever, collect tolls or sell flats, and slowly repay the money it borrowed with interest. There is a clear one-to-one relationship between the money that it borrowed and the asset that it built. In an ideal world, that is.
+
+In the real world, our company may not be able to repay on time. Maybe the bridge was delayed because it didn’t get environmental clearances on time. Or maybe the flats didn’t sell for the expected prices. So the company has to refinance! Basically, it has to borrow *more* so that it can use that money to repay the earlier loan, and then repay the new loan instead.
+
+Shapoorji Pallonji is a conglomerate comprising many capital-intensive companies. At any given point, at least a few of them may need to refinance their existing debt. So instead of having your companies borrow relatively smaller amounts separately, why not just club them all together and borrow a large amount at once?
+
+In June 2023, Goswami Infratech issued bonds worth a huge ₹14,300 crore ($1.7 billion), which were bought mostly by foreign investment firms. [Here’s](https://bond.bseindia.com/PPMFiles/2023/JUN/PPM/138/6807.pdf) the bond offering document and [here’s](https://www.bseindia.com/corporates/download/10299/PPDI_Prior/Project%20Skyline%20-%20Debenture%20Trust%20Deed%20(Execution%20Version)%20Signed_20230702132807.pdf) the debenture trustee deed. The company borrowed this money primarily to pay off a bunch of existing debts. Only about 2% of the ₹14,300 crore that it borrowed went to its own account, the rest went to make bond repayments for *7* other companies in the Shapoorji Pallonji group.
+
+I think this makes the sweet 18.75% interest make more sense? If you’re borrowing to repay the debt of a whole family of companies, you better be prepared to give out a lot of interest.
+
+https://preview.redd.it/7fo1gjfb8b4d1.jpg?width=749&amp;format=pjpg&amp;auto=webp&amp;s=a8fe0d52fc8871535a930b62fd99f8b6fb61d5c7
+
+# Fire sale?
+
+How is Goswami Infratech even going to repay these bonds? The junk bond money didn’t go into building an asset that it could monetise, it went into repaying past debt. But Shapoorji Pallonji is a conglomerate and has existing assets! So it’s going to sell some off. The bond documents outline exactly what and when:
+
+1. Ports owned by SP Port Maintenance, Shapoorji Pallonji’s port owning company. By 31 December, 2023.
+2. Afcons Infrastructure, one of Shapoorji Pallonji’s construction companies. By 30 June, 2024. \[2\]
+
+Goswami Infratech issued the junk bonds in July 2023. Shapoorji Pallonji had to sell off some ports within 6 months of the bond sale, and (part of) a large construction company in another 6 months. If it’s unable to stick to this timeline, Goswami Infratech has to pay an additional interest to the junk bond investors. (That’s exactly what happened with one of the ports—Shapoorji Pallonji took [nearly 3 extra months](https://www.thehindu.com/business/Industry/shapoorji-pallonji-group-sells-gopalpur-port-in-odisha-to-adani-ports-for-3350-crore/article67992291.ece) to sell it off, and the investors are now owed an additional 2% interest for those extra months.)
+
+One story of why Shapoorji Pallonji issued junk bonds is that its companies are in big debt and they needed urgent money to pay off that debt. Yes, sure, that’s true and also what they did with the money. But another story is that Shapoorji Pallonji issued those bonds to buy time for it to get the right price for its assets. Not too many eligible buyers in the market for a port, after all.
+
+# Get that money out
+
+Typically, the way bonds work is that the issuer, the company that’s borrowing money, pays the investor a fixed coupon every 6 or 12 months. Goswami Infra’s junk bonds though are zero coupon bonds. They don’t pay this fixed interest amount. Instead they pay the full amount owed right at the end.
+
+In theory there isn’t a problem with this. The issuing company likes it because it doesn’t have to scramble for cash every few months. The bond investor doesn’t mind it because she gets compound interest at maturity. With 18.75% interest, that’s a lot.
+
+The problem, of course, is that these are junk bonds! The investor doesn’t want to wait 3 years \[3\] expecting to get her principal back with that lovely interest only to be hit in the face with the company’s insolvency papers instead.
+
+There’s a sweet spot. Yes, you want the compound interest but you also want some regular payments to be assured that the money’s actually coming back. Some leeway to make those payments is fine, but not 3 years!
+
+Here’s where we’re standing:
+
+1. Shapoorji Pallonji has to sell some assets within 6 and 12 months of the bonds being issued. It will get cash.
+2. But the junk bonds don’t pay out a coupon like regular bonds. Selling assets can take time and is unpredictable. Being unable to make a coupon payment is a credit default, and the company would rather not go there.
+3. The investors want that asset sale money before the bonds mature. But how?
+
+All bond contracts have a certain safety net for investors. If the bond issuing company does anything “bad”, the investors can do an early redemption and ask for their money back with interest. All such bad things are obviously defined and it’s stuff like defaulting on interest payments, doing something illegal, [not sharing its financials](https://boringmoney.in/p/byjus-definitely-defaulted), etc.
+
+The important thing here is that there is a legal way for a company’s bond investors to ask for their money back before the agreed term. Sure, such early redemption is meant as a safety net if the company does a bad thing. But I guess the bad thing is optional? Instead of the trigger being “company does bad thing”, the trigger could very well be the opposite—“company does good thing”.
+
+That’s how the junk bond investors are getting their money before the bonds mature even though the bonds are zero coupon. They have early redemption clauses in the contract that when Shapoorji Pallonji sells off any of a bunch of its assets, it would have to give that money to the investors.
+
+[A snippet of the different ways the junk bond investors could get some of their money back before maturity.](https://preview.redd.it/jnntmmud8b4d1.jpg?width=491&amp;format=pjpg&amp;auto=webp&amp;s=a7c58aa0e978d6dbeb4f5708eff50380bb20d0a8)
+
+The bond investors are using early redemption clauses to ensure some safety too. For instance, the payment that Goswami Infratech missed that I quoted at the beginning of this article—that was an early redemption triggered because Shapoorji Pallonji had been unable to refinance *another* debt in time. It didn’t have anything to do with asset sales or the junk bond money at all. All it meant was that if Shapoorji Pallonji was having trouble refinancing its debt, the risk for our bond investors goes up too and they’d like some money to reduce that risk. \[4\] For now, Goswami Infratech has [negotiated an extension](https://www.bloomberg.com/news/articles/2024-05-18/india-s-biggest-junk-bond-sweetens-offer-in-return-for-more-time).
+
+Honestly, I haven’t read a lot of junk bond contracts to know enough, but the early redemption route looks like a pretty smart way to get some money out. Of course, whether this smartness pays off or not would depend on how much money the investors end up making at the end of all this.
+
+ 
+**Footnotes**
+
+\[1\] Okay, Chinese loan apps actually did sometimes go much, much higher, sometimes even up to 200% (?!) interest, according to [this](https://economictimes.indiatimes.com/industry/banking/finance/banking/loan-trap-inside-the-world-of-shady-digital-lending-apps-which-promise-a-loan-in-a-minute/articleshow/80304632.cms?from=mdr) article. But come on, 18.75% on bonds worth $1.7 billion is pretty crazy.
+
+\[2\] Shapoorji Pallonji isn’t planning on selling Afcons entirely, it’s going to do a stake sale in an IPO.
+
+\[3\] The bonds mature in April 2026.
+
+\[4\] The debt I’m referring to here is that of Sterling Investment Corporation, another of Shapoorji Pallonji’s companies which seems to be dedicated to just raising debt. The deal the investors had here is that if Shapoorji Pallonji had been able to refinance this debt at the original interest rate by 26 May, that’s perfectly fine. But if it has to borrow at a higher interest, the junk bond investors would immediately get an early redemption of ₹1,400 crore + the interest rate of the junk bonds would be revised to match whatever the company was paying for Sterling’s refinancing.
+
+--
+
+*Original Source:* [*https://boringmoney.in/p/shapoorji-pallonji-junk-bonds*](https://boringmoney.in/p/shapoorji-pallonji-junk-bonds)

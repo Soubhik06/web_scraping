@@ -1,0 +1,29 @@
+Telecom Identifier User Entities (TIUEs) must integrate the mobile number revocation list (MNRL) with their information technology systems, and deactivate the accounts of users whose numbers are in this list, the Department of Telecommunications (DoT) says in a new directive reviewed by MediaNama. Notably, this DoT directive was first reported by the Hindu.
+
+This comes in line with a series of directives that the government has issued in the recent past, directing both smartphone manufacturers and TIUEs to implement specific measures under the Telecom Cybersecurity Rules and their 2025 amendment .
+
+For context, the TIUEs are entities (other than a licensee or an authorised entity) that use telecommunication identifiers to identify users to provide/deliver services. This can include anything from WhatsApp or Telegram to a store at the local mall that messages you the e-receipt of your purchase.
+
+Last week, the government issued directions to app-based communication services to bind their services to users’ SIM cards under the rules. Non-compliance with the directive can result in action against the TIUE under applicable laws, including the Telecom Act, 2023.
+
+Besides requiring TIUEs to revoke numbers based on the MNRL, the government also mentions that businesses must submit action taken reports for these numbers on the Digital Intelligence Platform (DIP). This platform allows financial institutions to detect fraud before it takes place, and was introduced as part of the government’s financial fraud detection efforts in May this year . The system also includes a financial fraud risk indicator (FRI) which assigns a risk score — medium, high, or very high — to phone numbers based on data drawn from cybercrime complaints, telecom surveillance, and inputs from financial institutions.
+
+The government has also mandated that the TIUEs must integrate FRI data to identify all accounts within their systems that have numbers associated with the medium, high or very high risk scores. TIUEs must conduct due diligence on these accounts and based on the result, take actions such as suspending the accounts, deactivating accounts, or referring the people associated with these numbers to law enforcement authorities (LEAs). Notably, the TIUEs must submit an action taken report about these accounts on the DIP.
+
+Furthermore, TIUEs must monitor the DIP for any account the government has flagged for being involved in fraudulent activities. As soon as the government notifies TIUEs of accounts involved in fraud, they must deactivate these accounts within the first 24 hours. Elsewhere, TIUEs have to proactively monitor their services to identify numbers being used for fraud, maintain records of the accounts identified, and submit a list of the same on DIP on a regular basis.
+
+Interestingly, during MediaNama’s discussion on the telecom cybersecurity amendment rules, Seema Jindal, Head of Public Affairs at Truecaller, had mentioned the FRI database as a fraud detection system, questioning why there was a need for a mobile number validation platform (MNV platform that the rules were introducing).
+
+“When we say there is a lot of data which is lying out, maybe perhaps the other regulated sectors would need certain signals to enhance that. DoT also needs those signals and they do capture those signals. And perhaps why the focus is not on already using the existing systems. Have those systems [been] speaking to each other? Let those systems share signals between them. Let the impacted entities share bad actors. I don’t think there will be any justification for any entity to say ‘I don’t want to share the fraudulent data,’” Jindal said. She was arguing that instead of creating additional fraud detection systems, the focus should be on making sure that existing databases are interconnected.
+
+With the new directive, the government is indeed requiring integration with the FRI system, essentially validating the argument that existing systems should be leveraged for fraud detection.
+
+Note: The story will be updated to include additional commentary about the directive.
+
+Note: the story was updated on December 4, 2025 at 10:47 AM to add commentary from a MediaNama event.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

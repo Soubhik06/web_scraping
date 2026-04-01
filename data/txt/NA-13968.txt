@@ -1,0 +1,63 @@
+By Zoya Hussain
+
+In a recent development, U.S. President Joe Biden called for a ban on Artificial Intelligence (AI) voice impersonations during the State of the Union, following an audio clip that masqueraded as the voice of President Biden urging voters not to participate in New Hampshire’s primary election. Experts agree that 2024, a significant election year, is set to be dominated by AI-generated deepfakes, posing serious risks for at-risk democracies. Current studies indicate that about 50% of the US population struggles to distinguish between authentic and AI-generated imagery. Studies also show voters are not consistently able to identify voice-cloned audio.
+
+A Boom investigative report uncovered the use of AI voice cloning technology to spread disinformation in the run-up to the Madhya Pradesh assembly elections last year.
+
+With these emerging threats casting a long shadow over the integrity of democratic processes worldwide, it’s imperative to understand the technology at the heart of such controversies. So, what exactly is AI voice cloning, and how does this cutting-edge technology function?
+
+A team of three UC Berkeley School of Information students, Romit Barua, Gautham Koorma, and Sarah Barrington, along with a digital forensics expert, Hany Farid, in their latest research , investigated various methods to distinguish between real and cloned voices designed to impersonate specific individuals. Initially, the team analyzed audio samples of both genuine and deepfake voices, focusing on perceptual features or patterns that can be visually identified. The following paragraphs summarise and discuss the most important findings of the paper.
+
+Romit Barua, Machine Learning Engineer and Researcher from UC Berkeley explains that voice cloning involves leveraging advancements in audio signal processing and neural network technologies to replicate a person’s voice.
+
+There are two particularly relevant forms of voice cloning, Text-To-Speech (TTS) and Voice Conversion. The process begins by converting text into a spectrogram, a visual representation that maps frequencies over time, reflecting the unique harmonic characteristics of different voices. This conversion can be achieved through various methods, with modern systems often using techniques akin to those employed in image generation from text, fine-tuned for generating spectrograms.
+
+Once a spectrogram, which is a visual representation of sound, is generated,it goes through a special tool called a vocoder. This tool is trained on a specific voice to recognize a particular person’s voice and can use the information from the spectrogram to create sound that imitates that voice. This technique isn’t just for turning text into speech; it can also change one person’s voice to sound like someone else’s by applying the specific settings of the person you want to mimic.
+
+“Initially, the field focused on TTS (text-to-speech) and speech-to-text (STT) technologies, which convert written text into spoken words and vice versa. Over the years, especially in the last five to ten years, neural networks have become a central component of these systems, significantly improving their capabilities,” Barua told Medianama.
+
+In Text-to-speech, the user provides a text input. This form of technology is currently more advanced than Voice Conversion and generates higher-quality audio fakes. A common method of generating TTS deepfakes in 4 key steps is:
+
+The key feature for making voice cloning convincing lies in accurately replicating the fundamental frequency (F0), or pitch, of the person being cloned. This can loosely be thought of as achieving the correct pitch of the target voice.
+
+At present, when trained on sufficient data, most voice cloning providers can accurately match the fundamental frequency of the target voice. The speed of speech is a high-quality perceptive feature that can be used to distinguish between real and fake audio. However, over the past year, these generative models have improved in various aspects, including the speed of speech, intonation, and replication of the speaker’s breathing.
+
+Taking the example of a typical American accent with ample audio data, the cloning results are generally better compared to less commonly represented accents in the training data, such as an Indian accent. Public models often render non-American accents with an Americanized intonation due to the predominance of English audio in their training datasets.
+
+“However, with sufficient resources, specialists in the field can fine-tune models on extensive audio data to yield more accurate results. Yet, convincing cloning of accents remains a challenge. For instance, Google provides a standard, not cloned, voice that can mimic an Indian accent based on extensive training data, but true voice cloning with accurate accents is still difficult,” Barua added.
+
+The researchers examined the key differences between real and fake voices. One aspect to consider is the category of ‘perceptual differences.’ This involves the natural qualities found in human speech, such as rhythm, cadence, and the occurrence of natural pauses, which can be different from those in synthesized speech. These perceptual cues often make synthetic voices sound unnatural or ‘off’, and thus, distinguishable from real speech.
+
+Initially, voice cloning models struggled to replicate this natural cadence, contributing to the artificial feel of the generated speech. Gautham Koorma, another machine learning engineer and researcher from UC Berkeley, explained: “Real human voices typically have more pauses and vary in volume, attributed to natural behaviors like using filler words and moving relative to the microphone. This variability allows for the identification of pauses and amplitude as key authenticity indicators. However, we also found that while this approach was easy to understand, it might yield less accurate results”.
+
+Then, the researchers adopted a more comprehensive approach by integrating spectral features, using an ‘off-the-shelf’ audio wave analysis package, which are more related to the frequency domain. The program extracts over six thousand features, such as summary statistics (mean, standard deviation, etc.), regression coefficients, among others, and then narrows these down to the twenty most significant features.
+
+These features require some signal processing or neural network analysis to extract specific characteristics like Mel-frequency cepstral coefficients (MFCCs), commonly used in voice recognition systems. “We noticed that in this domain, there are often artifacts present in cloned voices—frequencies that wouldn’t naturally occur in a person’s voice. These artifacts, although not always perceptible to the human ear, can be detected through analysis, similar to how MP3 compression removes certain frequencies to reduce file size. These frequency domain artifacts can be a telltale sign of synthesized speech when analyzed closely,” Koorma added.
+
+Rakshit Tandon, a cybersecurity expert and consultant for the Internet and Mobile Association of India (IAMAI), acknowledged the challenges posed by AI-based voice clones’ potential to spread misinformation in an important election year, with more than 50 nations set to hold elections in 2024. “AI audio fakes can pose a significant threat. They are easier and cheaper to create compared to deepfake videos, and there are fewer contextual clues to detect with the naked eye,” said Tandon.
+
+Voice cloning is becoming a key tool for many fraudsters. Generally, this type of fraud can be categorized into personalized scams vs. universal scams.
+
+Personalized scams target individuals with the goal of extracting money or sensitive information. We have seen a massive increase in these types of scams, both globally, but especially in India. These scams often entail collecting very short amounts of audio, as short as 3-5 seconds, from family members, generating voice clones and calling to request money transfers or sensitive information.
+
+In terms of universal scams, there have been several politicians and key public figures being deepfaked. Barua noted, “While I have mostly been working and focusing on Deepfake scams in US elections, I remember hearing of the KT Rama Rao deepfake dropping hours before the election. These types of fakes, timed strategically, can cause mass confusion among society and have a huge impact on election results”.
+
+From a legal perspective, while existing laws designed to protect privacy, prevent fraud, and regulate consent may apply to voice cloning, the rapid advancement of this technology is outpacing the current legal frameworks. For instance, issues like intellectual property rights of individual voices and the potential for defamation, copyright infringement, impersonation, or privacy violations are significant concerns. “In India, specific legal frameworks that regulate the use of AI in voice cloning are still evolving. The country’s approach to digital innovation and privacy is guided by broader IT regulations and privacy laws, but as of now, there are no specific laws that directly address AI voice cloning,” said Tandon.
+
+Barua elaborated that trust and safety in AI is an increasingly important area, especially as these models improve and become more accessible beyond academia. The challenge lies in ensuring commercial providers implement safeguards to prevent misuse.
+
+“To prevent the misuse of voice cloning technology, it is critical that researchers and AI developers continue focusing heavily on both detection and prevention techniques,” Barua added. One potential countermeasure is watermarking, although not foolproof, as most watermarks can be breached. However, watermarks can help filter out unauthorized content to some extent. Developing detection tools for identifying cloned voices or deepfakes is another avenue being explored.
+
+Other steps for analyzing potential audio deepfakes can be:
+
+Author bio: Zoya is an award-winning journalist interested in covering digital security, platform regulation, and socio-political issues. She is also a two-time Reuters fellow, reporting on social inclusion and dis/misinformation.
+
+Note: The story was updated at 11:00 AM on 29/March/2024 to rectify the designation of Hany Farid who was earlier introduced as an alum of the UC Berkeley School of Information.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

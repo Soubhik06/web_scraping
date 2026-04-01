@@ -1,0 +1,59 @@
+On November 28, 2025, the Reserve Bank of India (RBI) issued the Digital Banking Channels Authorisation Directions, 2025, establishing a consolidated regulatory framework for the launch and operation of digital banking services by commercial banks.
+
+The Directions take effect from January 1, 2026, and apply to commercial banks, including banking companies (excluding small finance banks, payments banks, and local area banks), corresponding new banks, and the State Bank of India, as defined under the Banking Regulation Act, 1949.
+
+Through this framework, the RBI governs the authorisation and oversight of digital banking channels, covering services delivered via internet banking, mobile applications, Unstructured Supplementary Service Data (USSD), Short Message Service (SMS), and other electronic platforms.
+
+Importantly, the new Directions replace earlier circulars and guidelines on the subject, consolidating regulatory requirements into a single instrument while preserving actions taken under the repealed rules.
+
+The RBI positions these rules as a formal basis for supervising both âview-onlyâ facilities and transactional digital banking services offered by eligible banks. Consequently, all covered institutions must align their digital operations with the updated authorisation regime and the broader set of compliance obligations embedded within the Directions.
+
+Under the final Directions, banks must satisfy defined eligibility thresholds before launching either view-only or transactional digital services.
+
+To begin with, all commercial banks that have implemented a Core Banking Solution (CBS) and enabled their public-facing IT systems to handle Internet Protocol Version 6 (IPv6) traffic qualify to offer view-only digital banking facilities. This category covers basic, non-financial services delivered through internet banking, mobile banking, and other approved digital channels.
+
+However, banks must formally notify the RBIâs Department of Regulation via the PRAVAAH portal within 30 days of deciding to launch such services, and must submit a Gap Assessment and Internal Controls Adequacy (GAICA) report certified by an approved authority for supervisory scrutiny. The RBI retains the right to examine these filings before permitting operations to proceed.
+
+By contrast, banks seeking to provide transactional banking facilities must clear a higher regulatory bar and obtain prior RBI approval. Although they must meet the same basic infrastructure prerequisites, CBS implementation and IPv6 readiness, they must additionally demonstrate compliance with minimum regulatory capital to risk-weighted assets (CRAR) norms, as well as satisfy applicable paid-up capital or net-worth requirements as of the immediately preceding financial year.
+
+Moreover, applicant banks must show that they possess adequate financial and technical capability to sustain digital operations on an ongoing basis. This includes submitting detailed estimates of setup, maintenance, and upgrade costs, identifying funding sources, presenting costâbenefit analyses, disclosing any use of third-party technology service providers, and outlining the availability of skilled personnel to manage systems and partnerships.
+
+Finally, banks must maintain a satisfactory regulatory compliance record, including adherence to cybersecurity instructions and the absence of major adverse findings in recent information-security audits. They must also submit a CERT-In-empanelled GAICA report confirming compliance with prescribed technological controls before the RBI considers granting approval.
+
+At the outset, the Directions require banks to follow existing legal and regulatory frameworks, including the Information Technology Act, 2000, the Digital Personal Data Protection Act, 2023, foreign-exchange regulations under FEMA, and RBI instructions on payment systems and KYC, among others. In addition, all legal settlements must fall under Indian jurisdiction. Beyond these broad compliance duties, the chapter devotes detailed attention to the customer-facing conditions under which digital banking operates.
+
+Crucially, banks must obtain explicit, recorded consent from customers before registering or deregistering them for any digital banking service. The rules also require banks to clearly inform customers that SMS or email alerts will be sent to their registered contact details for both financial and non-financial account activity.
+
+Furthermore, banks may offer multiple registration channels to reduce the need for branch visits and shorten processing times. During registration, banks must provide terms and conditions in clear, simple language, preferably in English, Hindi, and the relevant local languageâcovering charges, stop-payment processes, grievance-redressal mechanisms, and the risks, responsibilities, and liabilities attached to digital services.
+
+Importantly, the RBI prohibits mandatory bundling of digital banking services. Banks cannot require customers to opt into internet or mobile banking to access other services, including products such as debit cards. Although banks may collect mobile numbers to send transaction alerts, the choice to use any digital channel must rest solely with the customer.
+
+Additionally, where banks offer mobile banking through non-app channels such as USSD or SMS, they must ensure that the service remains network-independent, allowing customers across telecom operators to access facilities equally.
+
+The Directions make digital banking contingent on a wider stack of technology, security, and fraud-control rules. Any bank that offers digital channels must comply with five pre-existing RBI frameworks on IT outsourcing, IT governance, payment security, cybersecurity, and fraud-risk management.
+
+First, the Master Direction on Outsourcing of IT Services requires regulated entities to treat all outsourced IT and IT-enabled services under a board-approved outsourcing policy, with detailed risk assessments, due diligence on vendors, contractual controls over data security and confidentiality, and business-continuity and exit arrangements. Banks remain fully responsible for outsourced activities and must monitor service providers on an ongoing basis.
+
+Secondly, the Master Direction on IT Governance, Risk, Controls, and Assurance Practices sets out a formal IT-governance framework. It places responsibility on the board and senior management to oversee IT strategy, cyber risk, and resource allocation; mandates dedicated committees and positions such as the IT Head and Chief Information Security Officer (CISO); and requires regular risk assessments, internal controls, independent assurance, and technology audits.
+
+In parallel, the Master Direction on Digital Payment Security Controls prescribes common security baselines for internet banking, mobile apps, card payments, and other digital payment instruments. Banks must implement strong customer authentication, robust encryption, secure application-development practices, transaction monitoring, and clear communication with customers on rights, obligations, and risks.
+
+The Cyber Security Framework in Banks adds further requirements: a board-approved cyber-security policy, continuous surveillance (often via a Security Operations Centre), incident reporting, root-cause analysis, and disaster-recovery and business-continuity arrangements.
+
+Finally, the Master Directions on Fraud Risk Management in Regulated Entities strengthen board-level oversight of fraud risk, require early-warning and red-flag systems, and mandate prompt reporting and remediation of fraud incidents.
+
+The RBI released a statement outlining the feedback received on the draft Digital Banking Channels Authorisation Directions, 2025, and the revisions made ahead of final issuance.
+
+Initially, feedback sought clarity on whether FinTech firms should be explicitly included or exempted from the framework, and whether NBFCs should be brought under its scope. The RBI rejected these proposals, stating that the Directions apply only to banks. However, it clarified that where banks outsource services to FinTechs or other third parties, those arrangements must comply with existing regulations governing the relevant products or services.
+
+More significantly, the RBI accepted requests to revise several definitions. It updated the definition of âdigital banking channelsâ to provide a clearer explanation of âcross-institutional service capabilities,â and confirmed that UPI and CBDC are payment systems, mobile wallets operate as prepaid payment instruments, and APIs function as connectivity tools rather than channels. At the same time, the RBI reaffirmed that banks remain responsible for regulatory compliance and customer grievance redressal across these digital assets.
+
+On authorisation procedures, the RBI approved a key relaxation by removing the requirement for prior approval to launch additional digital channels once a bank already operates an approved channel. The central bank concluded that banks authorised for one channel possess the necessary cybersecurity and operational systems to expand into comparable digital platforms.
+
+Within customer-focused provisions, the RBI also accepted feedback to explicitly reference the Ministry of Financeâs âAccessibility Standards in the Banking Sectorâ in the general guidelines for digital banking services.
+
+Conversely, the RBI rejected proposals to relax IPv6-readiness requirements, minimum-capital thresholds, and CRAR norms, as well as requests to allow customers to deregister from mandatory transaction alerts. Additionally, it withdrew the proposed rule on automated confirmation of outlier transactions, citing overlap with existing fraud-risk management regulations.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

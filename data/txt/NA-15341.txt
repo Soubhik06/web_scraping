@@ -1,0 +1,51 @@
+The cyberattack against Accenture was done using LockBit which is a strain of ransomware that has been highly active since 2019, a timeline reveals.
+
+A LockBit hacker group accessed proprietary data of IT consulting firm Accenture in a ransomware attack on Wednesday, according to a tweet by VX Underground. The group, in its post, said: “These people (Accenture) are beyond privacy and security. I really hope that their services are better than what I saw as an insider. If you’re interested in buying some databases, reach us.” It is not yet known whether a ransom had been paid or not by the company.
+
+Why it matters? Ransomware attacks rose by 93 percent in the first six months of 2021 according to a report by Check Point. The cybersecurity firm also pointed out that the number of attacks is expected to increase despite interventions by law enforcement. The pandemic has fuelled rapid digitalisation worldwide causing cybersecurity attacks to rise in tandem. It is to be noted that in many of these attacks, ransoms are being paid by the afflicted companies which in turn encourages more criminals to go down the route in order to get rich quickly.
+
+pic.twitter.com/3p1ztVWEej
+
+— vx-underground (@vxunderground) August 11, 2021
+
+VX Underground, a database of malware source codes, had posted a countdown of four hours along with its tweet indicating the time at which the group will release the data.  Once the countdown was over, hackers published nearly 2,400 files such as powerpoints, case studies, quotes, etc. according to a tweet by CNBC journalist Eamon Javers.
+
+These files remained inaccessible due to TOR domain outages, presumably due to high traffic, VX Underground wrote in another tweet . It also added: “Lockbit has rolled back the clock – stating data will be re-released 12 Aug, 2021 20:43 UTC.”
+
+Lockbit ransomware group has indeed ransomed @Accenture . Today they briefly released 2,384 files which were inaccessible due to TOR domain outages, presumably due to high traffic.
+
+Lockbit has rolled back the clock – stating data will be re-released 12 Aug, 2021 20:43 UTC pic.twitter.com/UK9bynLJRy
+
+— vx-underground (@vxunderground) August 11, 2021
+
+In a statement to CRN, Accenture said that the attack had no impact on its operations or on its clients’ systems .
+
+“Through our security controls and protocols, we identified irregular activity in one of our environments. We immediately contained the matter and isolated the affected servers. We fully restored our affected servers from backup. There was no impact on Accenture’s operations, or on our clients’ systems,” the company was quoted as saying.
+
+LockBit is a strain designed to block user access to computer systems in exchange for a ransom payment, as per Kaspersky’s website. “LockBit will automatically vet for valuable targets, spread the infection, and encrypt all accessible computer systems on a network,” the website explained.
+
+Antivirus software company Emsisoft’s blog post provides a timeline of LockBit’s activities in the last two years:
+
+September 2019: LockBit makes its first appearance.
+
+May 2020: LockBit partners with Maze ransomware developers to exchange tactics and resources, with LockBit using Maze’s leak site to publish stolen files. It was referred to as the ransomware cartel .
+
+September 2020: LockBit launches its own leak site.
+
+August 2020: INTERPOL warns of a spike in LockBit attacks on medium-sized companies in the Americas as part of its Cybercrime: Covid-19 Impact report .
+
+October 2020: Press Trust of India is the target of a LockBit attack. The incident causes disruptions to its operations. No ransom was paid and IT teams were able to restore the affected systems overnight.
+
+April 2021: UK rail network Merseyrail is hit by LockBit according to a report by Bleeping Computer. The hackers infiltrated a director’s Office 365 email account and informed the employees of the attack.
+
+June 2021: LockBit launches LockBit 2.0 along with an advertising campaign to recruit new affiliates.
+
+The blog post said that 9,955 LockBit submissions have been recorded by ID Ransomware to date.  ID Ransomware is an online tool that helps victims of ransomware identify which ransomware has encrypted their files. Only 25 percent of total attacks are reported to ID Ransomware, the post added.
+
+Also read:
+
+Have something to add? Subscribe to MediaNama and post your comment
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

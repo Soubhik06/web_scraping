@@ -1,0 +1,69 @@
+Recently, the Ministry of Electronics and Information Technology (MeitY) published the final version of “AI Governance Guidelines,” which is aimed to provide a framework that “balances AI innovation with accountability, and progress with safety.”
+
+As India currenlty lacks the AI-domain specific laws in place, the recently published MeitY’s AI Governance Guidelines can serve as a defining policy document that outlines the current regime’s intent on how it wants to regulate AI and make legislative changes around it and how it wants to approach AI policies strategically, especially when India is still vulnerable to the global policies, especially from the US’s tarrifs and China’s swift AI advancements.
+
+For some context, the Government of India established an advisory group in 2023 under the Principal Scientific Advisor of MeitY to examine AI-related issues and regulation in India. A subcommittee on AI governance, led by IIT-Madras professor Balaraman Ravindran, was formed in July 2025 to develop these Guidelines. After initially releasing a draft report in January that received over 2,500 public submissions, this subcommittee drafted these final Guidelines with a bunch of key recommendations to the government as well as other regulators.
+
+The following article outlines the key recommendations briefly and then expands on the Committee’s reasoning behind these recommendations.
+
+Based on this feedback, MeitY formed a drafting committee to finalise India’s AI governance framework. Its mandate includes recommending a governance model that balances innovation and risk, building trust for sustainable AI growth, and providing practical guidelines and principles for industry, regulators and sectoral agencies.
+
+While affirming that many existing Indian laws can cover the risks that could emerge from AI, such as malicious impersonation of individuals or personal data breaches, the Guidelines acknowledge the urgent need to conduct a comprehensive review of the relevant laws to identify regulatory gaps in the AI ecosystem.
+
+Citing one such instance, the report noted the need for reviewing India’s Pre-Conception and Pre-Natal Diagnostic Techniques (PC-PNDT) Act, which aims to prevent the sexist sex-selective abortion practices in India. “The Act should be reviewed from the perspective of AI models being used to analyse radiology images, which could be misused to determine the sex of a foetus and enable unlawful sex selection,” reads the Guidelines.
+
+The policy recommendation guidelines state that inter-ministerial consultations are underway to examine these regulatory issues.
+
+Referring to the two-decade-old IT Act, the guidelines say the government must clearly define the roles of actors in the AI value chain, such as developers, deployers, and users, and specify how current definitions, including “intermediary,” “publisher,” and “computer system,” will govern them.
+
+The committee acknowledged that all AI systems are inherently probabilistic in nature and can produce unexpected outcomes that cause harm despite reasonable precautions. Thus, it cited the RBI’s FREE-AI Committee, which recommended a “tolerant” approach in the financial sector toward first-time or one-off errors. The committee said sectoral regulators should choose enforcement strategies suited to their domains, but emphasised that the rule of law must remain paramount and enforcement should focus on preventing harm while allowing responsible innovation.
+
+The Guidelines question the potential immunity that could be granted to AI systems in the name of a vague and broad interpretation of “intermediaries” under Section 79 of the IT Act, which provides safe harbour protections to intermediaries for harmful content hosted on their platforms and applications.
+
+It argued that under the current broad frameworks of laws, including those governing telecom companies, search engines, and even cyber cafes, these entities could also be classified as “intermediaries,” which are defined as entities that receive, host, or transmit content on behalf of the sender/user.
+
+Furthering this argument, it stated that such legal immunity wouldn’t be applicable to the so-called “intermediary” AI systems and suggested that the existing legal framework needs to be re-examined from the perspective of liability for AI developers and deployers if they fail to comply with the required due diligence.
+
+“Therefore, the Committee is of the view that the IT Act should be suitably amended to ensure that India’s legal framework is clear on how AI systems are classified, what their obligations are, and how liability may be imposed,” reads the policy recommendation guidelines.
+
+The much-awaited finalisation of the DPDP Rules, which enforce the DPDP Act, 2023, excludes publicly available data from the law’s purview, thereby enabling the massive scraping of publicly available information, including personal data, which the DPDP Act aims to protect. This means that many AI-based companies are set to benefit from this provision.
+
+The Guidelines refer to the following key aspects that need to be addressed, formulating a new legal framework with amendments if required:
+
+In order to prevent the harmful content generation and distribution, like child sexual abuse material (CSAM) and non-consensual images (‘revenge porn’), the Guidelines recommend that the AI Governance Group look into existing regulatory frameworks, such as content authentication and provenance of the AI-generated content.
+
+Regarding the aspect of traceability, the Guidelines suggest AIGG to examine the current watermarking and labelling tools that can identify the origins of AI-generated content, which can potentially lead to the underlying databases or large language models (LLMs) that produced the content. “Such attribution tools have potential utility for both content authentication and provenance,” affirms the Guidelines. It Guidelines also cautioned the committee to examine the bypassing mechanisms of content authentication and provenance, as they could put citizens’ privacy at risk.
+
+For more context, the recent draft amendment to the IT Rules, 2023, mandates such labelling, including the possible existing industry standard labelling protocol, such as the Coalition for Content Provenance & Authenticity (C2PA). Referring to these amendments, S. Krishnan, Secretary at MeitY, appreciated the government’s amendment and stated that users have the right to know whether the content being produced and distributed is a deepfake or not.
+
+The guidelines recommend that the proposed AI Governance Group, supported by the Technology and Policy Expert Committee, review India’s regulatory framework and “issues of content authentication in detail and issue appropriate guidelines” to advise agencies such as MeitY on appropriate techno-legal solutions and additional legal measures to address AI-generated deepfakes without compromising user privacy. The guidelines recommend forming a committee of international experts from government, industry, academia, and standard-setting bodies to develop global standards for content authentication and certify information as genuine.
+
+The Guidelines avoided addressing matters related to copyright issues, as they are still awaiting recommendations from the Department for Promotion of Industry and Internal Trade (DPIIT), which established the committee in April 2025 to study the use of copyrighted material for AI training. At the core, the committee is set to examine, under the Indian Copyright Act, whether AI training would qualify for the fair use doctrine or not.
+
+When compared to the US’ AI Action Plan and China’s Global AI Governance Action Plan, the report asserts that India’s balanced approach benefits countries in the Global South. “India should continue its participation in multilateral AI governance forums, such as the G20, UN, OECD, and deliver tangible outcomes as host of the ‘AI Impact Summit’ in February 2026,” recommends the Guidelines while emphasising the importance of research, policy planning and simulation exercises that can address the future issues.
+
+The guidelines identify several key risks that could affect end users. According to the committee, these include:
+
+To address such risks amplified and produced with the help of AI systems, the guidelines define a national-level centralised public incident reporting database-based reporting mechanism that records the series of events where malfunctioning of AI systems has occurred, including the harms related to “health, disruption of critical infrastructure, human rights violations, or damage to property, communities, or the environment.” Indian Computer Emergency Response Team (CERT-In)-IN is one such example of an existing incident reporting mechanism.
+
+“Over time, a structured feedback loop should be created: reports feed into threat analysis, which helps policymakers identify emerging risks, understand patterns of harm, and strengthen oversight. This process will also build a culture of accountability,” assures the report.
+
+To encourage large-scale adoption of voluntary measures, the committee recommends a set of financial, reputational, technical, and regulatory incentives, including:
+
+Referring to the indigenously developed NITI Aayog’s Data Empowerment and Protection Architecture (DEPA) , the Guidelines suggested that the “techno-legal system for permission-based data sharing through consent tokens” can be expanded for effective AI governance, including the following aspects:
+
+The Guidelines recommend that the government provide “targeted incentives and financing support, including tax rebates on certified solutions, AI-linked loans,” to support AI development and adoption in the MSME sector. The policy also suggests offering subsidised access to GPUs. “This will help lower the cost of adoption, if supported by sector-specific AI toolkits and pre-built starter packs tailored to industries like textiles, retail, logistics, and food processing,” reads the Guidelines.
+
+The policy recommends that the Small Industries Development Bank of India (SIDBI) and the Micro Units Development & Refinance Agency Ltd (MUDRA) disperse these loans.
+
+For more context on how the Indian government is financing AI developments, we can examine the budget allocation of the India AI Mission, which is Rs. 10,372 crores. However, under this Mission, the Safety and Trust category is severely underfunded, accounting for only 0.2% of the total budget allocated to the Mission.
+
+While mentioning the infrastructure initiatives that the India AI mission took, the AI Governance guideline explained its current status as of August 2025:
+
+NOTE : The article was updated on 07-11-2025 at 03:31 pm to fix a minor typo error, and on 05:29 pm to clarify a minor error under “On Content Moderation and Deepfakes.”
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

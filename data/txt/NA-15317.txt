@@ -1,0 +1,49 @@
+High commissions, lack of transparency on how products are ranked in search, one-sided policies, and platform lock-ins are some of the many concerns that online sellers on existing e-commerce marketplaces like Amazon, Flipkart, Swiggy, and Zomato have. The Open Network for Digital Commerce (ONDC) is being pitched as a solution to many of these concerns, but how exactly will ONDC address them?
+
+ONDC is currently undergoing testing in a few cities but is expected to have a wider public launch sometime this month. Currently active on the network are one buyer app, Paytm; a couple of seller apps including GoFrugal, Seller App, eSamudaay, GrowthFalcons, and Digiit; and logistics providers including Dunzo, Loadshare, and ShipRocket. Buyer apps are platforms that consumers can use to search for products from various sellers on ONDC and seller apps are platforms that stores can use to list their products on ONDC. MediaNama spoke with some of the seller apps to understand how the network will benefit sellers.
+
+Read: What Is The Open Network For Digital Commerce (ONDC) And How Will It Work?
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+Five major concerns that sellers currently face with existing e-commerce marketplaces are:
+
+Will be decided by various stakeholders: Unlike current marketplaces, where the marketplace charges a single fee as commission, in ONDC there are multiple types of fees that can be levied, apart from shipping charges:
+
+Commissions will overall be lower than existing platforms:
+
+No charges will be levied by seller apps at launch: The seller apps MediaNama spoke to indicated that they will not charge any commission on sellers in the initial stages of ONDC to encourage adoption and to understand the business model better. “None of the fees is mandatory and it is left to the Network Participant to charge or waive off,” Jhunjhunwala said. SellerApp’s Dilip Vamanan said: “We are not charging any commission as of now. I think in the long term we are looking to ensure that the platform is absolutely free for a small business or a beginner. Let’s say if they are making Rs. 50,000 or 1 lakh per month, we would ideally like the platform to be free and post that it will be based on the revenue.”
+
+Will be transparent and cannot be obscured: “ONDC requires the commissions which are being charged to the seller to be published publicly,” Vamanan said. It will also likely be transparent because unlike in traditional marketplaces where the entity that receives the money and the entity that settles with the seller is the same entity, here the buyer app will do the collection and it gives the money to the seller app and then the seller app settles to the sellers. The status and other information have to be passed to the network, which means it’s hard to hide figures.
+
+Algorithms have to be transparent: “All the buyer applications are bound to publish their sorting and filtering algorithms, at least the criteria in the top level so that there is no preferential treatment given to a particular seller,” Vamanan explained.
+
+ONDC has a policy to prevent discriminatory conduct: There are also agreements that both buyer apps and sellers apps sign, which state that no discriminatory sorting can be done, Vamanan added.
+
+Buyer profiling cannot influence search results: “The way the network works is that when a product is getting searched in a buyer app, it sends the request real-time to the network and gets a response. It’s not that the data is stored in the buyer app and processed according to the needs of the buyer or based on the buyer’s behaviour,” an industry executive explained. For example, buyer apps cannot profile users and show products from brands they are more likely to buy.
+
+Ratings and reviews will be portable: “The beauty of ONDC is when a seller switches from one seller platform to another, they get to carry their reputation with them. In ONDC when a seller is on a seller platform called X and then they come to GoFrugal, the seller rating is going to remain the same,” Nandhakumar explained. “So this is what they call a network-wide reputation,” he added.
+
+Will be handled by an independent entity: “It needs to be a central, independent service outside of a seller or a buyer application so that sellers can port their reputation without hassle,” Vamanan opined.
+
+Still in the discussion phase, there might be no rating mechanism in the pilot stage: The people MediaNama spoke to indicated that the rating and reputation management system is still in the discussion phase and is not going to get released in the pilot stage  Since the pilot stage is focused on groceries, there might not be any kind of rating system at all, Vamanan said. “If you look at even Dunzo in the grocery segment right, you may not find the rating of a store or a product there because, in this segment, most of the products are actually standard unlike an apparent or home improvement product,” he explained.
+
+Support APIs will be provided for both buyer and consumer redressal: According to people MediaNama spoke with, the way ONDC is expected to work is through a support management API, which seller and buyer apps will integrate with. There will be a ticketing mechanism between the seller apps and buyer apps and any disputes the buyer will raise in the buyer app or the seller in the seller app, the same will be validated and forwarded to the concerned entity, the industry executives explained. “So any complaint from sellers will come to us (seller app) and it will come to our dashboard,” Vamanan said to illustrate the point.
+
+ODR system for escalation of complaints: If the complaint remains unresolved for either the buyer or seller, for example, if the buyer has raised a bogus complaint and the seller has to refund, then that is an issue for the seller. This will still be an open ticket, and in this case, ONDC will introduce a mechanism called an online dispute resolution (ODR) system. This will probably be a third-party agency, industry executives said. And if the complaint is still not getting solved, all consumer products come under the liability of getting sued in a consumer court.
+
+Working on ways to make this smoother and faster: “Any queries that get placed at the buyer app will now get passed on to the seller. But we are still working out ways to make this smooth and reduce the overall turnaround time. We are defining certain criteria under which the buyer app can determine and give the customer a refund before even contacting the seller. For example, if a customer says they ordered a veg biryani but got non-veg, then the refund will be issued and the buyer app will connect with the merchant later and claim that amount. The same goes for logistics,” Pai explained.
+
+ODR is still being discussed and tested, might not launch in the pilot stage: For the pilot launch, it appears that the support ticketing system is going to release and later the ODR system will come into the picture. “Each and every ‘edge case’ is being worked out. We want to make ONDC more robust, based on feedback. Before testing it on the public, ONDC will have to prepare an entire framework and put it on public domain by the end of this month for eliciting comments from all stakeholders,” a government official told Business Standard recently. “A few years ago, not many people wanted to shop on e-commerce platforms. However, because of the systems that companies in this space built, such as ease of returning products and a plethora of choices available to customers, these platforms became very popular. When ONDC is launched, it will be judged and benchmarked against these platforms,” the official added. ONDC is expected to publish its draft framework for dispute resolution in two weeks, Economic Times reported on September 20.
+
+One of the major concerns for both buyers and sellers in the e-commerce sector is the rampant prevalence of fake reviews. It affects consumers when they are led to buy products that might not be of the quality that reviews make them out to be and it affects sellers when their reputation is tarnished without merit. To address this issue, the Department of Consumer Affairs (DoCA) May 28 announced that it will develop a framework to curb fake reviews on e-commerce websites.
+
+Buyers and sellers in ONDC will also be victims of fake reviews when the network launches to the public, but ONDC stakeholders believed that the prevalence of fake reviews will be less pronounced in ONDC. But ONDC models can probably reduce fake reviews because of their hyper-local nature. You are likely to know the store it is coming from because that will be your neighbourhood Kirana store, and so you will know the reputation of the store, one industry executive explained.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

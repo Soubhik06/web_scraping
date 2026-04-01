@@ -1,0 +1,21 @@
+McAfee announced its deepfake audio detection technology, Project Mockingbird, at the Consumer Electronics Show on January 8. McAfee says that it created Project Mockingbird to help its customers defend themselves against cybercriminals using artificial intelligence (AI)-generated audio to carry out scams. This technology uses a “combination of AI-powered contextual, behavioral, and categorical detection models to identify whether the audio in a video is likely AI-generated,” the company explained. McAfee claims that Project Mockingbird has an accuracy rate of 90%.
+
+Deepfakes have emerged as a growing point of concern amongst big tech companies, especially in the run-up to the elections in 2024 set to be held in several countries, including India. For example, Microsoft said it will launch a service where election candidates can digitally sign and authenticate content through digital watermarking. Similarly, YouTube has started urging creators to label AI-generated or other synthetic or altered content. It also began allowing users to submit removal requests if such synthetically generated content simulates an identifiable individual, including their face or voice.
+
+The effectiveness of these methods has been questioned, however, because digital watermarks can be bypassed by taking screenshots. Similarly, YouTube’s content labeling also left loopholes given that it only required creators to label AI-generated content that they deemed as looking realistic.
+
+McAfee’s Project Mockingbird seems to be another such attempt at tackling deepfakes but unlike the methods used by Microsoft and YouTube, it doesn’t rely on content labels. It puts the onus on the users to identify deep fake content. It would be interesting to see how this method fares against the others.
+
+On January 9, Fox Corporation released the beta version of its open-source content verification protocol Verify. Verify has been built on top of the Polygon blockchain and allows media organizations to cryptographically register their content to prove its point of origin. It also includes a consumer-facing content verification tool allowing users to identify that the content they are viewing is from a trusted source. Fox launched a closed beta version of Verify in August 2023 and has since uploaded 89,000 pieces of content from Fox News, Fox Business, Fox Sports, and Fox TV affiliates to it.
+
+Besides providing the origin history of a piece of content, this service is also intended to act as a “technical bridge between media companies and AI platforms.” It uses blockchain-based smart contracts, allowing companies to set programmatic conditions for those who access their content.
+
+Also read:
+
+YouTube Announces New Measures For AI-Generated Content, Users Can Ask For Takedown Of Deepfakes
+
+Microsoft To Help Combat Deepfakes In The Run Up To 2024 Elections
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

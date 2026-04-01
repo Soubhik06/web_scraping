@@ -1,0 +1,63 @@
+If you use a mobile number to verify users as part of your business, you may fall within the scope of the draft amendment to the Telecommunication Cybersecurity Rules, 2024. The draft introduces a new category of services covered under the rulesâTelecommunication Identifier User Entity (TIUE). These are defined as entities (other than a licensee or an authorised entity) that use telecommunication identifiers to identify users or to provide/deliver services.
+
+TIUEs must fulfill several obligations, such as collecting data on how they use telecom identifiers, sharing it with the government, and suspending the use of certain identifiers when ordered.
+
+Besides including a new entity category under the rules, the amendment also introduces a new platform. The draft amendment suggests that the government, by itself or through its agencies, intends to establish a Mobile Number Validation (MVN) platform to prevent cybersecurity incidents. It will issue directions to authorised and licensed entities regarding the form and manner in which they must participate in the platform. TIUEs can, either by themselves or based on directions from the central/state government or government agencies, place a request to verify telecom identifiers or their users/customers.
+
+A strict reading of the definition of TIUEs under the Act implies that anything from a food delivery service like Swiggy or Zomato, to WhatsApp and other communication services, or even a store at the local mall that messages you the e-receipt of your purchase, could fall within the scope of TIUEs.
+
+âThis could potentially include all services where a user has to give their phone number. The draft rules donât in any way qualify digital delivery of services,â said Sumeysh Srivastava, Associate DirectorâPublic Policy at the Quantum Hub, while speaking about what falls within the scope of a TIUE.
+
+Interestingly, while the amended cybersecurity rules appear to include over-the-top (OTT) communication services like WhatsApp, it is unclear whether they fall within the scope of the Telecommunication Act, 2023âthe overarching regulation under which the rules fall. In December 2023, shortly after the government passed the Telecom Act, then Minister of Communications Ashwini Vaishnaw, had put out a LinkedIn post that clearly stated that âOTT kept outâ. While he deleted this post shortly after, he later spoke to the Economic Times , re-emphasising that the IT Act, 2000 regulates OTT services.
+
+None of these statements were made on the floor of Parliament , making it unclear whether they accurately represent the scope of the Act. The definition of âmessageâ under the Actâwhich includes âany sign, signal, writing, text, image, sound, video, data stream, intelligence, or information sent through telecommunicationââappears broad enough to include OTTs and other digital services like email.
+
+Speaking to MediaNama, Nikhil Narendran, Partner at Trilegal, argued that based on his reading of the amendment, the scope of the amended rules appears to be quite vague and broad, and could include things beyond what the Telecom Act regulates.
+
+âThe amendment is very wide; it doesnât give us any information on which specific platforms the government intends to cover under the scope of TIUEs. A platform that just registers a user with a mobile number is very different from one, letâs say, a fintech, which has specific regulatory requirements from the RBI to identify the user,â he explained.
+
+Even if one were to argue that the broad definition of âmessagingâ under the Telecom Act includes OTT communication services, Narendran argued that the amendment appears to go even beyond those. The broad scope of the regulation raises questions about what exactly the government intends to regulate. It is not clear whether the intent is to prevent misuse of IMEI numbers or fraudulent transactions using phone numbers.
+
+TIUEs have a range of responsibilities that the original version of the rules limited strictly to telecom companies. These include:
+
+In the interest of ensuring telecom cybersecurity, the central government (or its authorised agencies) can ask TIUEs to submit data related to the telecommunication identifiers that they use.
+
+They can also ask TIUEs to provide this data from designated points through digital means, to enable processing and storage. The government may analyse the data collected from TIUEs to take measures to enhance telecom cybersecurity. It may also share this analysis with law enforcement agencies, telecom entities, TIUEs, or users. No data disseminated to these entities may be used for purposes other than ensuring telecom cybersecurity.
+
+Every TIUE must ensure compliance with the standards and directions that the government releases to prevent misuse of telecommunication identifiers, equipment, networks, or services.
+
+When the government considers immediate action necessary or expedient in the public interest, it can pass an order directing the TIUE to temporarily stop using a specific telecom identifier to identify customers or deliver servicesâwithout issuing prior notice. It can also ask telecom companies to suspend the use of that identifier.
+
+The government will provide a copy of the suspension order to the affected TIUE or person. Within 30 days of the order, the TIUE must submit a written representation explaining why it should not suspend the identifier. After providing the affected entity with a chance to be heard, the government may revoke, modify, or uphold its order, recording its reasons in writing. The modification may include further directions to prohibit or limit the use of such identifiers.
+
+If necessary, or on a TIUEâs request, the government may share a list of telecom identifiers that it has acted upon under these orders.
+
+Once the platform receives a verification request, it passes it on to the licensed/authorised entities, who will then process the request and send a response in a government-specified format. The platform will provide mobile number validation services only for validating customers or users associated with a telecommunication identifier for services linked to such an identifier. TIUEs and authorised entities must comply with data protection laws while doing so.
+
+If a TIUE chooses to verify identifiers by itself, it has to pay three rupees per request. Of this, the government/agency will keep one rupee and send the rest to the relevant authorised entity or licensee undertaking the mobile number validation. However, if the TIUE is carrying out this verification based on government directions, it has to pay only one rupee and fifty paisa per request. Of this, the government will keep fifty paisa and send the rupee to the relevant authorised/licensed entity. If the central or state government department/ministries use the platform for verification, they do not have to pay any fee.
+
+The MVN gives platforms the option to verify each individual user. This means that users can no longer rely on services that generate temporary phone numbers or services like Google Voice, which allow people to create free phone numbers. This is because TIUEs will not be able to verify these numbers against the records of licensed telecom operators.
+
+With no option but to provide service providers with their actual phone numbers, one could argue that this raises concerns about user identification at scale. In response, Srivastava argued that, based on his interpretation of the amendment, the identification will be an internal process, and users can still remain anonymous to each other. âIt’s not like it’s changing anything externally in terms of how the user is displayed on the platform or anything. The platform will know who you are from that perspective,â he explained.
+
+He also pointed out that, based on his reading of the amendment, there does not appear to be a mandate for platforms to verify users at scale. âI think the governmentâs intention here may be to ask platforms that pose a higher risk for financial fraudâlike financial services platforms, for exampleâto mandatorily verify user numbers,â he explained.
+
+While Srivastava argues that users can continue to remain anonymous, there are other privacy concerns that need to be considered under the draft amendment. Narendran expressed concern about the fact that TIUEs could suo moto decide to verify numbers using the platform. He implied that this could mean anyoneâfrom a retailer collecting your number for a loyalty program to a gun dealerâcould make a verification request, and questioned whether such a step would be proportionate.
+
+âThis needs to be fleshed out in much more detail. There should be a valid nexus and there should be a gating criterion on the entities that should be able to access this data,â Narendran said. He added that itâs unclear whether such a platform could also be used by companies to build end-user platforms to prevent spam calls.
+
+Another privacy concern with the amendment is that it does not clarify what information a TIUE will receive from the MVN platform. It could work like a ping mechanismâwhere the TIUE simply confirms that the number matches the userâor it could provide detailed information, including KYC data collected by telecom companies. âThe government should provide details of the parameters TIUEs will get access through the platform instead of leaving these aspects ambiguous as they have under the draft amendment.â Narendran said.
+
+As per the original cybersecurity rules, the government can request telecom companies to provide traffic data or any other data required to ensure telecom cybersecurity. The only exemption is the content of messages, which the rules exclude from the scope of the data that the government can request.
+
+Given that telecom companies already collect traffic data, what is the point of requiring TIUEs to submit the same information? Responding to this, Srivastava argued that TIUEs may possess specific details that telcos do not. He also noted that there has been a long-standing demand from telcos for regulatory parity between themselves and OTT service providers; this requirement, even if duplicative, could help achieve that parity.Â
+
+Besides the MVN platform and the inclusion of TIUEs, the rules also include the following changes:
+
+Note: The story was updated on June 27, 2025, at 6:16 PM to correct a typographical error.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

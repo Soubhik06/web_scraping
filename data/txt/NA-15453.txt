@@ -1,0 +1,31 @@
+More than 3.2 million debit card details may  have be stolen by hackers from ATMs and POS machines on YES Bank’s network, as indicated by this Mint report . The ATMs were managed by Hitachi Payment Services and card data was stolen from May 25 to July 10, the report added.
+
+Around 90 YES Bank’s ATMs and POS machines were targeted by the malware which resulted in card details of State Bank of India (SBI), ICICI Bank and HDFC Bank customers stolen. The report added that NPCI, Visa, MasterCard, the banks involved and Hitachi called for a forensic probe into the matter.
+
+The damage to customers
+
+NPCI said that the complaints of fraudulent withdrawal are limited to cards of 19 banks and 641 customers. The total amount involved is Rs. 1.3 crore . Out of  a card base of about 3.2 million that could have been possibly compromised 0.6 million are RuPay cards.
+
+The NPCI received  complaints from few banks that their customer’s cards were used fraudulently mainly in China and USA while customers were in India. It added that it suspects compromise was at switch level which is PCI-DSS certified. Hence, subsequently PCI Council (the international body which sets standards on for PCI–DSS) was persuaded to conduct a forensic audit of the switch of one bank which is likely to be the point of compromise. Its full statement here .
+
+YES Bank, on its part, issued a statement saying that there was no breach on ATMs handled by the bank itself.
+
+“YES BANK has proactively undertaken a comprehensive review of its ATMs, and there is no evidence of a breach or compromise on YES BANK ATMs. YES BANK continues to work with relevant stakeholders, including other public sector and private banks, and NPCI, to ensure utmost safety and security of its ATM network and payment services which are completely safe to use.”
+
+What other banks are doing
+
+Earlier this week, State Bank of India initiated a recall of more than 6 lakh debit cards following the security breach, as indicated by this Times of India report . Many of SBI’s customers found that their debit cards were locked out by the bank and had to go reapply for a card at their branch or through net banking.
+
+Meanwhile, HDFC Bank and ICICI Bank issued a statement advising their customers to change their debit card PINs. The bank also advised customers to use ATMs from the bank itself.
+
+Breach at Axis Bank
+
+Earlier in the week, Axis Bank, the third largest private sector bank, hired  audit Enrst and Young to investigate a security breach in its servers. A month ago, the bank got a call from security firm Kaspersky Lab who said that their servers may have been breached. An independent probe confirmed an authorized entry by an offshore hacker. “Our internal monitoring mechanism identified such a threat recently and all steps have been undertaken to neutralize the same,” Axis Bank said in a statement.
+
+Credit card fraud in Kotak Mahindra Bank
+
+In October 2015, Kotak Mahindra Bank detected a credit card fraud to the tune of Rs 2.84 crore which involved 1730 transactions carried out on 580 cards. The fraud was carried out by fabricating the cards and used for online shopping and making payments in seven countries. An internal investigation by the bank showed that the cards were created by stealing data from a newly created series of unissued cards all within the BIN (Bank Identification Number) range.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,47 @@
+On June 12, a day after the alleged CoWIN data leak became public, Rajeev Chandrasekhar (the incumbent Minister of State for Skill Development and Entrepreneurship and Electronics and Information Technology), tweeted saying that Cert-In (Indian Computer Emergency Response Team) has assessed the data leak and found that the data being thrown up by the Telegram bot was from a threat actor database made up of breached/stolen data from the past.
+
+The credibility of Chandrashekhar’s statements becomes doubtful given that CoWIN should be the only portal with access to this information. A similar question came from tech journalist Aditi Agarwal who tweeted that “The question is raises it that how was previously breached data (presumably non CoWin data) linked with details specific to CoWin database (like [the] place of vaccination, ID used, people linked to the same number)?” For that to happen, she says, the CoWIN database must have been breached at least once earlier.
+
+Point 2 is the most important one here.
+
+The question is raises it that how was previously breached data (presumably non CoWin data) linked with details specific to CoWin database (like place of vaccination, ID used, people linked to the same number)?
+
+That can only happen if https://t.co/YNXVPbRTFi
+
+— Aditi Agrawal (@Aditi_muses) June 12, 2023
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+In 2021 (ironically also on June 12), the Union Health Ministry made a statement saying that “the claims of so-called hackers on the dark web, relating to alleged hacking of the Co-WIN system and data leak, is baseless. We continue to take appropriate steps as are necessary, from time to time, to ensure that the data of the people is safe with Co-WIN”.
+
+Then, in 2022, the chairperson of CoWIN (and also a key player in the development of Aadhaar), Ram Sewak Sharma had tweeted that “ #CoWIN has state-of-the-art security infrastructure and has never faced a security breach. Data of our citizens on CoWIN is absolutely #safe and #secure . Any news about data leaks from CoWIN holds no merit.”
+
+The fact that the government and CoWIN chairperson have both come out with responses to alleged data leaks twice before gives credibility to the assumption that there could have been data leaks earlier. While Chandrashekhar tweeted again clarifying that the “breached/stolen data from the past” was that of a database other than CoWIN’s. But that still begs the question, if the information doesn’t come from CoWIN, then which other database has this information?
+
+The next thing to ponder over in Chandrashekar’s statement is that he said the data has not been “directly breached”. On this, Agarwal reflects , “If it ‘appears’ that CoWin database hasn’t been ‘directly’ breached, with which entities is CoWin database being shared that an indirect breach is even possible?”
+
+This question gains more gravity when you look at the statements Sharma made in yesterday’s G20 meeting. He said that “We designed CoWIN to be a system of open APIs [application programming interfaces], open standards so that others could connect because we were aware that [a] single application will not be able to do the job. And today you have 135 applications connected with CoWIN.” One must wonder whether any information is being shared with these connected applications that he talked about.
+
+But again, the government denies this, in the press release published by the Ministry of Health and Family Welfare yesterday it says that the third-party applications that have been provided authorized access to Co-WIN APIs can access personally identifying data of vaccinated beneficiaries, but puts emphasis on the fact that this information could be assessed only through beneficiary OTP authentication.
+
+However, it backtracks saying that one API has “a feature of sharing the data by calling using just a mobile number of Aadhaar. However, even this API is very specific and the requests are only accepted from a trusted API which has been white-listed by the Co-WIN application.” Based on what we understand, this means that there is a possibility that one of the APIs could possibly have served as a chink in CoWIN’s armor.
+
+Agarwal also discussed this issue and pointed out that “but aren’t all APIs that give access to CoWin data created by CoWin itself? So why would it need to whitelist it’s own APIs? Did they mean that the entity that got access to this non-OTP API was whitelisted? Linked with MoS’s tweet, does this mean that that the whitelisted entity was compromised?”
+
+It is also important to note that the press release made some statements that don’t align with reality. It says that “There is no provision to capture [the] address of [the] beneficiary,” but as we reported yesterday and as the screenshots flooding Twitter clarify, the “address” revealed by the bot isn’t that of the beneficiary but that of the place where they got vaccinated.
+
+Another statement they made was that Only Year of Birth (YOB) is captured for adult COVID-19 vaccination but social media posts claimed that the Telegram bot also mentioned people’s date of Birth (DOB).  While it may be true that only the year of birth was captured, it is also true that the vaccination certificates had Aadhaar numbers. Going back to Sharma and his infamous social media challenge (where he made his Aadhaar number public) people were quickly able to tell him his personal details like his date of birth, phone numbers, his PAN number, and where it was issued and even sent money to his UPI account (as reported by India Today). Of course, this could have been the result of his date of birth being public information, but it does leave room for the possibility that people’s date of birth could have been disclosed through Aadhaar numbers.
+
+Similarly, let’s say someone uses another ID to verify their identity for CoWIN registration (like their passport, just as Sharma did), they could also reveal the vaccinated person’s date of birth. Agarwal tweeted , “when you look at the sample API results, passport data does give the DOB”. She further mentioned that there have been instances where the Telegram bot got people’s date of birth wrong , which she says “suggests that either the DOB was being pulled from databases of respective IDs or it was optically scanning from previously uploaded ID proofs from other leaked databases (CoWin doesn’t ask for a copy of the ID proof, just the ID number) leading to errors or making month and date up with the correct year.”
+
+“Health data is the most monetizable data for hackers. However, the details which have been stolen (as per media reports), are not the ones that can be used to extort or coerce . Data regarding sexual and terminal diseases is what is used usually for coercive exploitation,” Pavan Choudary, Chairman, The Medical Technology Association of India (MTaI, an association of research-based medical technology companies) told MediaNama.
+
+Naturally, we cannot disregard the fact that the leaked information could be used for identity theft. Choudary agreed and said that if the leak is real, the government needs to ringfence all the data reservoirs. He believes that the recent attacks on AIIMS, ICMR, and now Co-WIN App, make the passage of the Data Protection Bill becomes even more urgent.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

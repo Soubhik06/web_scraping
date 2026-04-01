@@ -1,0 +1,55 @@
+Due to the negligence of AP Mahesh Cooperative Urban Bank, its employees, and its poor cybersecurity infrastructure, hackers, many of them Nigerians, were able to siphon off over Rs 12 crores from the Hyderabad-based bank, Hyderabad City Police revealed in a press conference on March 30.
+
+Hackers gained access due to vulnerabilities in the system and at the same time, created around seven accounts in the bank, to which they transferred money. This money was further transferred to 115 different bank accounts and then to another 398 bank accounts, Hyderabad City Police said. It identified that most of the accounts created were scattered across the country. The money was later withdrawn from 938 ATMs all over India.
+
+Over 22 people from across the country have been arrested in connection to this crime. However, the main accused, whom the police suspect to be a Nigerian national, has not been caught yet and might be holed up in the United Kingdom, according to Hyderabad City Police. The stolen money has been transferred to Nigeria, most likely through cryptocurrencies or hawala (informal system of money transfers), police informed.
+
+This incident highlights why it is imperative for institutions like banks to observe safe cybersecurity practices. Last year, India’s critical infrastructure was targeted by non-State actors, indicating a paradigm shift in modern warfare. Such incidents show why ramping up Indian citizens’ cybersecurity awareness is long overdue, both in the public and private sectors.
+
+Dear reader, we urgently need to build capacity to cover the fast-moving tech policy space. For that, our independent newsroom is counting on you . Subscribe to MediaNama today, and help us report on the policies that govern the internet.
+
+“Generally there are two-three master admins in every bank. However, Mahesh bank had about 10 master admins due to carelessness. They also used common user IDs and passwords. These 10 super admins’ can access the bank’s database — customers, bank accounts, details about how much money are in these accounts and so on.” — Hyderabad City Police Commissioner CV Anand
+
+Phishing emails sent with RAT virus: “The main hacker, Nigerian, who we think is in London, sent about 200 phishing mails on November 4, 10 and 16 last year from his computer to Mahesh Co-operative bank employees. After sending the emails, he waited for a little bit, and then two employees of Mahesh bank clicked on the link. In the link there was a Remote Access Trojan (RAT) virus.  After clicking it once, the hackers had access to the bank’s systems,” Hyderabad City Police Commissioner CV Anand said in a press release.
+
+Keylogger software deployed: “After that, the hacker sent a keylogger software. Keylogger software means, any work done by the employees on their computer, any typing, any transaction — it will be seen by the hacker parallelly in his system. So, when the employees came to the office in the morning and typed in their user id and password, it was relayed to the hacker,” Anand explained.
+
+Admin access established: “From January 6 to January 23 (2022), the hacker used the keylogger software to open the systems after the employees shut down their computer to establish a connection with the master admins’ computer,” he added.
+
+“Through user admin, he entered the database. After he entered the database, he did the transactions.” — Commissioner CV Anand
+
+Alongside getting unauthorised access to the bank’s systems, Nigerians were tasked to open bank accounts through locals. “These people are called handlers in India. Many of them are Delhi-based, and almost everyone is Nigerian,” police informed.
+
+Seven locals were contacted to open accounts at the AP Mahesh bank. “Around 10% commission was promised to these people. These seven accounts were opened in November,” Anand said. In January, the balance amount in these accounts was altered after access to the database was established.
+
+The names of the accounts in which the balance amount was altered by hacking are:
+
+“After they opened the accounts in the first phase, 115 accounts were opened across the country. These accounts were in Mumbai, Delhi, Bangalore, Hyderabad..wherever they had contacts, they opened accounts. These people also got 10% commission,” Anand said.  “Shahanaz Begum sent 9.5 lakhs to one Pooja Kapoor. She said that after taking her 10%, she gave the money to one Mallik, who in turn gave the money to another Liakhat Ali. If you follow the trail, the end person is a Nigerian. He’s the one who made people open the accounts, and promised to give them 10%,” he explained.
+
+“At every stage, there must be strong firewalls. From super admin to database there must be strong different firewalls. The bank did not even have firewalls . Not just that, intrusion prevention systems and intrusion detection systems and phishing detection softwares were not arranged by Mahesh bank. Meaning, they need to spend money to do this. Big banks like HDFC, ICICI, spend thousands of crores for cybersecurity. But Mahesh bank spent only Rs 10 lakh and gave it to a company called Intrasoft. ” —Commissioner CV Anand
+
+Here’s the police found out about bad cybersecurity practices at the bank —
+
+Followed IP address proxies: “IP logs for the internet banking details of bank accounts were obtained and it was found that the IP addresses were proxies with locations indicating USA/Canada/Romania. The hackers, based in UK used proxy IPS through VPN services of a Bihar-based company,” a press release by police said.
+
+Requested information from Canadian ISP: “From our Central Crime Station, we wrote a letter to ISP Cayman Canada asking them who they gave the proxy IP to. To which they replied saying that they gave it to a person in Patna (Box RDP VPN),” Anand said.
+
+Special teams dispatched to multiple states: Hyderabad City Police said that special teams were formed and sent to Delhi, Haryana, Uttar Pradesh, West Bengal, Maharashtra, Karnataka, Kerala, and 7 northeastern states to apprehend the suspects.  It also said that they had to spend Rs 58 lakhs to crack the case and that it involved 100 cops.
+
+The Telangana State Cooperative Apex Banks’ core account was targetted by African nationals, and Rs 1.96 crores was stolen by the accused, according to a Times of India report. Police identified fraudulent transactions originating from three customer accounts in the banks’ branches at Secunderabad and Chandanagar, the report said.
+
+“There was unauthorised access to the bank’s network and from the core account, the amount was transferred to two of the three accounts on July 9 at Chandanagar and Secunderabad branches,” wrote the bank’s Deputy General Manager S Srinivasa in the police complaint.
+
+Two locals, upon being interrogated by the police, said that they were contacted by an African national from the city who offered them a 10% cut for opening bank accounts in their names and letting him use the accounts for financial fraud, the report said. In parallel, the bank’s server was hacked and around Rs 2 crores was transferred into these newly-created accounts. The amount was further moved to ten other banks across the country, Cyber Crime ACP KVM Prasad told TOI.
+
+Hyderabad Police recommended these steps for banks and financial institutions to mitigate cyber risks :
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

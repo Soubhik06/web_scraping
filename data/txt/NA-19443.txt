@@ -1,0 +1,34 @@
+SUBREDDIT: r/india
+TITLE: Air India finally admitted to the data breach and sent out an email - this is arguably worse in terms of data compromised than the Domino's leak
+DATE: 2021-05-28
+SCORE: 117
+URL: https://www.reddit.com/r/india/comments/nmuf3y/air_india_finally_admitted_to_the_data_breach_and/
+
+--- POST TEXT ---
+
+Dear Passenger,
+
+This is to inform you that SITA PSS our data processor of the passenger service system (which is responsible for storing and processing of personal information of the passengers) had recently been subjected to a cybersecurity attack leading to personal data leak of certain passengers including yours. This incident affected around 4,500,000 data subjects in the world. 
+
+While we had received the first notification in this regard from our data processor on 25.02.2021, we would like to clarify that the identity of the affected data subjects was only provided to us by our data processor on 25.03.2021 &amp; 5.04.2021. The present communication is an effort to apprise you of accurate state of facts as on date and to supplement our general announcement of 19th March 2021 initially made via our website.
+
+The breach involved personal data registered between 26th August 2011 and 20th February 2021, with details that included name, date of birth, contact information, passport information, ticket information, Star Alliance and Air India frequent flyer data (but no passwords data were affected) as well as credit cards data. However, in respect of this last type of data, CVV/CVC numbers are not held by our data processor.
+
+We would also like to inform you that the following measures to ensure safety of the data were immediately taken:
+• Investigating the data security incident;
+• Securing the compromised servers;
+• Engaging external specialists of data security incidents; 
+• Notifying and liaising with the credit card issuers;
+• Resetting passwords of Air India FFP program.
+
+Further, our data processor has ensured that no abnormal activity was observed after securing the compromised servers.
+
+While we and our data processor continue to take remedial actions including but not limited to the above, we would also encourage you to change passwords wherever applicable to ensure safety of your personal data.
+
+The protection of our customers’ personal data is of highest importance to us and we deeply regret the inconvenience caused and appreciate your continued support and trust.
+
+For more information, you can contact: Mr Deepak Sangwan, on email id:
+
+----
+
+Yaya, my passport information and DoB is now in hands of randos. I fucking hate the lax standards of Indian tech security.

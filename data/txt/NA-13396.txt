@@ -1,0 +1,53 @@
+“VPN (Virtual Private Networks) is not a piece of software; it’s not a service. It’s a concept where you have a network that says: I am allowing people to connect with me in a trusted fashion using this protocol. I don’t understand how the VPN requirement is related to (data) breaches. It seems like they are painting VPNs with a broad malicious brush,” Dr. Joseph Lorenzo Hall, Senior Vice President for a Strong Internet, Internet Society, said in his closing keynote address at an event organised by MediaNama. He argued that most people use VPNs to protect themselves when they’re in adversarial network environments.
+
+The event dealt with India’s new cybersecurity directions, issued via its agency CERT-In, and the impact they will have on the landscape of the internet in India.
+
+The discussion was held with support from Internet Society, Meta and E2E Networks Limited.
+
+Hall elaborated that VPNs usually keep minimal logs because they have an unbelievable amount of data at any given point and they are a security product. He added that most security products will be upfront about the data they collect, store, and disclose when they share it with the government. Hall stated that he would like the government to clarify their concerns over VPN as there might not be a need to come up with a new framework. He said that one can reuse principles from the VPN transparency initiative which are followed by the major VPN service providers in the world.
+
+“I’m not sure they’re going to tell us exactly what they think the problem is,” Hall commented.
+
+Why it matters : The guidelines will usher in significant changes in how digital companies operate in India, and are likely to impose serious compliance burdens on these companies. The event draws out the problems inherent in the guidelines and what can be done to address them.
+
+Dear reader, we urgently need to build capacity to cover the fast-moving tech policy space. For that, our independent newsroom is counting on you . Subscribe to MediaNama today, and help us report on the policies that govern the internet.
+
+Hall aired several concerns in the course of his 30-minute discussion with Nikhil Pahwa, Founder and Editor, MediaNama. Here is a summary:
+
+Use targeted solutions to allay concerns of law enforcement: Pahwa asked about frauds that are committed using a VPN connection as law enforcement agencies look to procure identity information, Hall batted for targeted solutions. “There are principles of either due process or limitation in many law enforcement contexts. You are only allowed to get access to certain information for certain kinds of crimes. Fraud may be one of them but you don’t need to have a blanket law that treats everyone as a criminal. It is a recipe for disaster and it is undemocratic in my opinion,” Hall responded.
+
+Keeping a log for 180 days is too long: Hall censured the guidelines for having an “imprecise focus” on the kind of incidents that need to be logged. “Port scanning is listed in the directions and I don’t know why it’s there. Computers, online right now, receive a port scan many times in a second. It’s just how it is. That’s how the internet works. (These) are not things that CERT-in is going to find instructive and it’s going to be a lot of data,” Hall said in response.
+
+Many incidents do not need 180 days: “Many of the less serious incidents do not need 180 days of logging data. DNS providers log 24 to 48 hours of data to do debugging typically. I don’t know what kind of incidents are going to be solved with 180 days (data) that would not be solved by 14 days (of logging data). The onus should be on CERT-in to say the most serious incidents require 180 days of logs,” Hall told Pahwa. He added that CERT-In should also explain why the guidelines are rigorous in order to identify serious cybersecurity incidents.
+
+Explore a graded approach: Hall advised that CERT-in can explore a graded approach where if a company thinks that an incident is less severe then they provide a certain scope of information with a certain amount of time. He said that the period should depend on the average number of days it takes to discover a breach. “It’s like 280 days in India right now; it’s long but it’s long pretty much everywhere. Maybe they’ll reduce the logging requirement in the future if the mean time to discovery becomes smaller. I would love to see a technical analysis from CERT-in that talks about the distribution of incidents and how they actually picked the number rather than grabbing it out of the air or taking it from previous regulation,” he remarked.
+
+Technical feasibility of the six-hour reporting window: “Cybersecurity isn’t war and I try not to use too many war-related analogies but when you’re in the depths of an incident response, it can feel like the fog of war. Things change constantly. You get new information constantly. The attackers may realize you’ve discovered them and start to do horrible things to your system because now they know that they’ve been discovered. It’s going to do nothing good (for) the first responders who have to come and respond to these kinds of incidents,” Hall argued. He also said that it is difficult to report an incident given the uncertainty when the company has an incident.
+
+Large companies may comply effectively: “In general, companies or organizations with very large operations are going to be able to respond much better because they’ll have dedicated staff. People who run their own servers online, people who just wrote an app in their garage, all these people are going to be implicated by the (six-hour reporting window),” Hall remarked. He advocated for effective limits on the amount of money and time that a company can spend on this effort. Hall also added that he cannot figure out the purpose of this requirement as it would require companies to have people on call at all times. A company will have to keep in mind several issues like the cost and insurance liability because if the data provided to the Indian government gets breached then there might be legal repercussions elsewhere in the world, as per Hall.
+
+Localisation of data is complicated: Hall commented that the guidelines require companies to log access of only Indian Indian users or Indian computers. He said that it was not easy as it requires companies to have a good idea of who its users are; moreover, IP addresses, he said, are inaccurate. He added that the process could produce a lot of mistakes as companies will have to copy lines from the log to another computer that is storing data for the Indian government and CERT-In. There is also no clarity on fines to avoid these mistakes, Hall said.
+
+Incomplete set of data will not be helpful: “It’s unclear (what their intention is) because if they want all the logs to understand how an attack works but you only have logs with Indian pieces; you’re eliminating the rest of the world. An attacker is going to come from all sorts of places and you’re going to have an incomplete set of data. It’s kind of weird,” Hall said. He said that it would make sense for an attacker to launch an attack from outside of India.
+
+VPNs are not effective for attacks: “VPNs are kind of a weird way to accomplish an attack. It makes sense for fraud but VPNs are not nearly as anonymous or protect privacy in an attacking sense, as you might think,” Hall said when asked about whether the guidelines will prevent attacks from originating within India with the help of VPNs.
+
+Reasonable timeframe for compliance: “It’s hard to say given the uncertainty but I would think you would want a six-month period. Some businesses may say we’re going to go out of business in three months in planning and implementation because we’re spending so much on this now. It is the kind of timeframe over which you can be sure that a large diverse set of companies can iron out any wrinkles. It shouldn’t be like: here’s what we think you should do. These things are particularly onerous but we see no dialogue or conversation whatsoever,” Hall said.
+
+Intensifies proliferation of Splinter Net: “One of the biggest concerns we’ve had is what we call the Splinter Net. These rules will create separate notions of what the internet is and how it means to operate on the internet. Seeking a specific set of time servers is directly against the spirit and the technical best practices that we have for doing good time operations online,” Hall stated unequivocally.
+
+Hard regulation threatens the existence of the internet: “The governments around the world know that society’s problems are exacerbated by certain kinds of activities online and everyone’s trying to deal with them but these hard regulatory moves threaten this global resource. India sets a really important example for like-minded countries. We’ve seen Bangladesh and Cambodia take up pieces of the IT Rules, 2021, but translated into their own context in such a way that they’ve become even more dangerous in those countries,” Hall warned. He cautioned that such regulations create an experience where one cannot talk to someone around the world and share ideas about how to best organize cyberspace in our society. “India sets an important example that many other countries around the world look to follow about what’s reasonable,” Hall revealed.
+
+Engage in a collaborative dialogue: Hall urged the Indian government and nodal agencies to engage in a “ knowledgeable dialogue” with stakeholders because that is how one should come up with rules and regulations and best practices that eliminates some of the bad things on the internet. “I don’t think any of these (unintended) consequences are at the heart of what CERT-in or the Indian government want to do. We’re all here to try and work on these problems and unilateral edicts like these are only going to cause a lot of problems,” Hall said in conclusion.
+
+You can read MediaNama’s summary of the Internet Society’s report on CERT-In guidelines here .
+
+Update (15 June, 9:30 am): Added event sponsors
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

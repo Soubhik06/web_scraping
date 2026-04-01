@@ -1,0 +1,41 @@
+Recent parliamentary developments have highlighted the growing use of Artificial Intelligence in e-governance but do we know to what extent? In the last budget session , the central government came forward with a list of six governing systems where facial recognition technology was used for ease of governance. Some of these use cases highlighted the use of facial recognition in unexpected places like the governmentâs GI Cloud initiative or the Sarathi app used for RTO purposes.
+
+Further digging into such uses brought forward the governmentâs âAI enabled Image & Video Analyticsâ otherwise known as IVANI. Used by the National Informatics Centre (NIC) for e-governance services, IVANI not only includes services for operational purposes but also healthcare. Here is an explainer detailing what IVANI does and which government sectors have already begun the use of IVANI for daily functioning.
+
+IVANI works Computer Vision into e-governance
+
+In April 2022, the NIC released a paper by Dr Dibakar Ray that discussed the use of IVANI in e-governance. Although the paperâs brief did not use the term âIVANIâ, it talked about Computer Vision, a field of Artificial Intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs with the help of âDeep Learning Networks in Ideal Conditions.â
+
+As such, image analytics is used for:
+
+Use of IVANI for the MeghRaj initiative
+
+What is MeghRaj Cloud? It is a government initiative seeking to use Cloud Computing to âaccelerate delivery of e-services in the country while optimizing ICT [Information and Communication Technology] spending of the government.â Under this initiative, the government aims to provide services like Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS).
+
+How is IVANI used here? While answering questions in the Parliament, the Ministry of Electronics and Information Technology (MeitY) said MeghRaj uses IVANIâs Satyapikaanan API-based service for its facial recognition system. By March 20, MeghRaj received around 6.86 crore AI service requests. In fact, currently, Satyapikaanan is used for:
+
+MediaNamaâs take: Like in the case of ASTR, such recurring use of facial recognition in government work raises the question of consent. Following an RTI application from MediaNama, the NIC said that âno dataâ used for this purpose is stored but that the system still matches a live person with a photograph already submitted through online forms.
+
+What if a person is not comfortable sharing their facial information just to give a learnerâs test? Can the person refuse? What is the alternative procedure? What if a person living in a remote area applies for the test? Will the applicant have to travel to an exam centre in the big city to have their face scanned?
+
+Also, what if the photo submitted originally no longer matches the face of the applicant? We have already reported a situation where the ASTRâs facial recognition failed to detect ageing in the case of one aggrieved Airtel SIM subscriber. So what happens if an unassuming pensioner does not receive their life certificate because they forgot to update their photograph? Will the person have to jump through hoops like the Airtel customer?
+
+Use of IVANI in healthcare
+
+The NIC paper also talked about IVANIâs use to identify potential tuberculosis patients for follow-up testing. This is as per a tripartite MoU between the ICMR, NIC and Central TB Division of the Ministry of Health & Family Welfare seeking to use AI Services in the National Tuberculosis Elimination program.
+
+âThe risk profiling of patients along with Cough Spectral Analysis as well as Sputum Molecular Image Analytics will help in checking First and Second Line Drug Resistance in tuberculosis patients,â said the paper.
+
+MediaNamaâs take: Once again, there is the question of consent. The paper does not mention how patients are informed about the use of AI in testing and whether there is an opt-out system for people unwilling to have their data processed in such a manner. Unlike in the previous case, there is also no assurance that the data will not be stored by authorities which raises questions about the duration of data storage and data security.
+
+Another concern is what data was this AI built on. Earlier, Karan Tripathi , a researcher looking into the use of AI in healthcare at the University of Sheffield, warned that an AI that uses health data containing inequities is likely to reproduce those inequities in medical devices.
+
+He gave the example of an AI-based medical device meant to detect ovarian cancer risks in the US. Tripathi said that the device failed to detect high risks in people with darker skin because the data it was trained on was not equitably representative of black people or ethnic minority people.
+
+It will soon be a year since the introduction of the revised Digital Personal Data Protection Bill, 2022 that states a Data Fiduciary must send a notice to a Data Principal before processing their data. Since then, there have been further developments in the Telecom Bill , the IT Rules , and the Digital India Act â all to show that the government is starting to take a keen interest in framing its tech policy. But on the flip side, where are the safeguards for people to assert their control over their personal data? That IVANI has already been in effect since 2022 begs more attention towards this question.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,147 @@
+SUBREDDIT: r/Scams
+TITLE: Apple Tech Support Scam, mom fell for almost completely.
+DATE: 2019-02-21
+SCORE: 3
+URL: https://www.reddit.com/r/Scams/comments/aszxf9/apple_tech_support_scam_mom_fell_for_almost/
+
+--- POST TEXT ---
+
+As I was about to head home from work, I received a concerning phone call from my Mom. She had been had by a scammer and was standing outside a grocery store about to purchase $300 worth of iTunes gift cards to pay for tech support... Then and only then did she feel that something was off about the call!
+
+I promptly told her to get home fast and unplug her PC, since any time wasted trying to shut it down is more time for the scammer to browse her PC, yes she followed his instructions to install Log Me In...
+
+Below is a log that I created after talking to my Mom to get some kind of chronology of the scammers tactics:
+
+&amp;#x200B;
+
+**Chronological Event Log**
+
+*Scammer*: called on land line phone posing as Apple Support Tech
+
+&amp;#x200B;
+
+*Scammer*: Instructed mom to navigate to a set of security settings on phone (that doesn't exist), mom couldn't find where he directed her.
+
+&amp;#x200B;
+
+*Scammer:* Explained that her phone had a virus that was hiding the security settings (scare tactic)
+
+&amp;#x200B;
+
+*Scammer*: Told Mom to go to computer, and run the command (windows+R) and then type "cmd" to run command prompt
+
+&amp;#x200B;
+
+*Scammer*: Instructed Mom to type "netstat" which will display local and foreign ip traffic
+
+&amp;#x200B;
+
+*Scammer:* "These are the bad people attacking your computer, I can take care of that" (scare tactic)
+
+&amp;#x200B;
+
+*Scammer*: Instructed mom to go to internet browser and type in something
+
+&amp;#x200B;
+
+*Mom*: "--I can't remember what I typed in, it opened up something, and then he had access--"
+
+&amp;#x200B;
+
+*Scammer*: Opened up a browser window to show he was working on her problem doing tech stuff, but really just opened up the website [http://geektyper.com/plain/](http://geektyper.com/plain/), (a website that's a fancy semi-interactive animation that looks scary, but it is ultimately all smoke no fire) showing mom that he was working on the problem and errors were popping up and Instructed mom to "get a security card with the codes on it (iTunes Gift Card) from whole foods to pay for tech support repair of the problem.").
+
+&amp;#x200B;
+
+*mom*: "I'm not going there right now."
+
+&amp;#x200B;
+
+*Scammer*: "You have to go there right now, you don't have much time before I can't fix this, go I'll call you on your cell phone."
+
+&amp;#x200B;
+
+*Scammer*: Called her cell phone and kept her on the phone while she drove to the store.
+
+&amp;#x200B;
+
+*Mom*: "I think he kept me on the phone so I couldn't call anyone else for help, or you (cpt\_badass)"
+
+&amp;#x200B;
+
+*Scammer*: "go in the store and get x3 iTunes cards for $100 each."
+
+&amp;#x200B;
+
+*Mom*: "I don't understand why I need x3 cards."
+
+&amp;#x200B;
+
+*Scammer*: "You need one for your printer, one for iPhone, and one for computer."
+
+&amp;#x200B;
+
+*Scammer*: "Get them for $100 each, pay with your credit card and the money will go back on your card within 2-3 hours."
+
+&amp;#x200B;
+
+*Scammer*: "Put the phone in your pocket when you check out and don't talk to anyone else, or the people at checkout will charge you $20 each more per card."
+
+&amp;#x200B;
+
+*Mom*: "Call me back." - then hung up on Scammer
+
+&amp;#x200B;
+
+*Mom*: Phoned you (cpt\_badass)
+
+&amp;#x200B;
+
+*Scammer*: tried to call her back repeatedly while on the phone with you (cpt\_badass)
+
+&amp;#x200B;
+
+*You:* (cpt\_badass): Told mom to get back in her car, and head home to her PC, unplug it and call you back, because she was being scammed by some pecker wood Indian.
+
+&amp;#x200B;
+
+*You*: Remote desktop into mom's pc, discovered that the Go To Assist (log me in) program was running, when you looked at it in task manager, it disappeared along with the installed files and desktop shortcut like it auto uninstalled when you were looking at it (which the software is incapable of doing on its own). About the same time that the software removed itself, your mom quit getting called by the scammer. You then uninstalled the program, and deleted the downloaded installer (after copying it to the zip file along with the url history and a series of screenshots from different folders that had been modified during the scammer's visit) and proceeded to perform a level 5 diagnostic wipe and clean of mom's PC.
+
+&amp;#x200B;
+
+Below are the URLs visited by either Mom or the scammer. If there is anyone that can decipher or flag these URLsplease do so. As this scam targets a highly susceptible percentage of the population. Also, alert your parents, friends and relatives of this scam, and to call you if anything seems fishy, because it probably is.
+
+&amp;#x200B;
+
+**In chronological order of visit:**
+
+ https://www.fastsupport.com/
+
+&amp;#x200B;
+
+ https://launch.getgo.com/launcher2/launch.html?token=e0-EthpUkfbWG0YKGpJcuabAmYV9rMZ6NgUdjPU8EpoRODCwnRE8FUgvVIuFvzhJvBXkxtsCYKOmdC8VFJ-PdI8bok1QqpNGbM4lli931kkPcmh9E_HElO-QV0Y2yBvnyC_VJGQHZVoECxNAQR2h7O6D-dddeOFALURAVk3qep3TAJbBxqYPLVz5LIwWOan7o9loNlEQkF1l7Be17-I57EdHMcDuTd3uw7wkRWWeWW8pdLGVF-wini1yjghth2DOGTreCQEI3vnxm3e-t2vYx8-fSuAbu8HYfFSVm-5ifcKUL0bMvf9US0JLB9a31NErhtlyfo4AAyEfhooHFgwQby2TiCHcbK8aplItEi6smJUgkdH1qvdzwN6Z7hpJqFK2ksDWBJsCFh9fosszFpQqLBnwRJSGMl7CWv3X9uWsuLOga-eiDqSofM93MkZWl2yNsFF7VOYSLfq0E8n-VDZl_BsD7c1PvgJcQwt2Ih0PtzmQMv-OWn-gi84Nx7slUmbzMQUHKaYxYF73wG6_mKp_U8viA8StCw
+
+&amp;#x200B;
+
+ https://launch.getgo.com/launcher2/launch.html?token=e0-ge5oMlAAS07pz0qiY3o2IY_RosU7YabxGwwaqtZzyfesbDHHyG0DSVoYk-NBvK9L4T89B01Aos53NrEHxPJhp73eZm1G1Or1YBdIodrVgxHgZPV4NyFg8-e7UFOtxt5sG0i96UbmvOLJpyszT2jWY__yI0XNNYe_0jZ3__03czfHu8gD-idSNQxC8fZHg1i9VOi54z6iCpPdymEpF9SlTv04wKsSBf50SERnW2tNCWOHkakeANntFMOrm7G123Xu6vmRq6OCb8PzjrNXcyv_ihnjdQgyowHFP7Z6rSzPgpRhYT0WZMG1XXVzMf25KZpiA1A4ZqKZzDleVPLHKAG08LKKZguaFuoufq0iE7zthQCi0RQCixCpb-HVSsAD3uj6tLGEYqwzObBosQQdrSrFerkDNSxkuon89PUuhD4_ZvdVvuN_K3DlEDHRu856ejZ4xjQKWZA6RQt8iNZxlDY9sDt5zpZJ3_oWFgUR8bkjgHowCvofuHHMfhYxssp4cmqUjiDQXg26hz25DVgGFf6UF_N9SRg
+
+&amp;#x200B;
+
+ http://geektyper.com/plain/
+
+&amp;#x200B;
+
+ https://launch.getgo.com/launcher2/helper?token=e0-ge5oMlAAS07pz0qiY3o2IY_RosU7YabxGwwaqtZzyfesbDHHyG0DSVoYk-NBvK9L4T89B01Aos53NrEHxPJhp73eZm1G1Or1YBdIodrVgxHgZPV4NyFg8-e7UFOtxt5sG0i96UbmvOLJpyszT2jWY__yI0XNNYe_0jZ3__03czfHu8gD-idSNQxC8fZHg1i9VOi54z6iCpPdymEpF9SlTv04wKsSBf50SERnW2tNCWOHkakeANntFMOrm7G123Xu6vmRq6OCb8PzjrNXcyv_ihnjdQgyowHFP7Z6rSzPgpRhYT0WZMG1XXVzMf25KZpiA1A4ZqKZzDleVPLHKAG08LKKZguaFuoufq0iE7zthQCi0RQCixCpb-HVSsAD3uj6tLGEYqwzObBosQQdrSrFerkDNSxkuon89PUuhD4_ZvdVvuN_K3DlEDHRu856ejZ4xjQKWZA6RQt8iNZxlDY9sDt5zpZJ3_oWFgUR8bkjgHowCvofuHHMfhYxssp4cmqUjiDQXg26hz25DVgGFf6UF_N9SRg&amp;downloadTrigger=restart&amp;renameFile=1
+
+&amp;#x200B;
+
+ https://launch.getgo.com/launcher2/connected.html?token=e0-ge5oMlAAS07pz0qiY3o2IY_RosU7YabxGwwaqtZzyfesbDHHyG0DSVoYk-NBvK9L4T89B01Aos53NrEHxPJhp73eZm1G1Or1YBdIodrVgxHgZPV4NyFg8-e7UFOtxt5sG0i96UbmvOLJpyszT2jWY__yI0XNNYe_0jZ3__03czfHu8gD-idSNQxC8fZHg1i9VOi54z6iCpPdymEpF9SlTv04wKsSBf50SERnW2tNCWOHkakeANntFMOrm7G123Xu6vmRq6OCb8PzjrNXcyv_ihnjdQgyowHFP7Z6rSzPgpRhYT0WZMG1XXVzMf25KZpiA1A4ZqKZzDleVPLHKAG08LKKZguaFuoufq0iE7zthQCi0RQCixCpb-HVSsAD3uj6tLGEYqwzObBosQQdrSrFerkDNSxkuon89PUuhD4_ZvdVvuN_K3DlEDHRu856ejZ4xjQKWZA6RQt8iNZxlDY9sDt5zpZJ3_oWFgUR8bkjgHowCvofuHHMfhYxssp4cmqUjiDQXg26hz25DVgGFf6UF_N9SRg&amp;locale=en&amp;app=true
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+TL;DR
+
+Mom almost got the full brunt of the scammer's intent. Luckily just before she shelled out $300.00, she called me.I fixed her up, and resolved the issue, while educating her on the wild west scam-land known as India, and the tactics being used by peckerwood scammers to scare folks out of their money.
+
+&amp;#x200B;

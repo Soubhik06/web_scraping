@@ -1,0 +1,129 @@
+While the government’s vaccine procurement and distribution policy is being deliberated at length, its COVID-19 vaccine related technology instruments display a more measured and targeted approach.
+
+CoWin seems like an innocent registration and vaccine tracking platform, but it is being used to populate parts of a National Health ID database under the National Health Stack (NHS) ecosystem. Though the government maintains that Aadhaar is not mandatory under its COVID-19 vaccination policy, the ground reality is far different. Through a combination of outsourcing CoWin’s development, executive orders allowing CoWin to use Aadhaar data and some legal sleight of hand, the government has ensured that CoWin operates in an ambiguous legal environment.
+
+The platform was privately developed last year and later transferred under the Ministry of Health’s ownership recently. In between, the government allowed CoWin to use Aadhaar data, based on which the National Health Authority (NHA) is creating Unique Health IDs.
+
+Many vaccine beneficiaries are surprised to find that their vaccine certificates came with a new Unique Health ID. While the government has a consent policy under CoWin, very few beneficiaries know about it. Nor are they aware that their Aadhaar IDs would be used by the NHA for a secondary purpose, apart from simple authentication for receiving the vaccines.
+
+As of May 29, CoWin had 244 million registrations, of which 167 million received the first dose of their vaccines which translates to 12.21% of the entire population or 17.67% based on the actual target population of 944.7 million.
+
+In January, the government said that the CoWin platform “has been developed by the Ministry of Health and Family Welfare for real time information of vaccine stocks, their storage temperature and individualized tracking of beneficiaries for COVID-19 vaccine.”
+
+“The CoWin platform is not only citizen facing, but also has modules that assist vaccination centres and administrators in the physical operations and management. Discovery and registration of vaccination slots is only the visible tip of the iceberg. After the first dose, CoWin aids citizens to track the schedule of vaccination based on the brand of vaccine by issuing provisional certification. This enables vaccine administrators to keep a check on those who are either jumping their schedule or lack the necessary information around it. Post the second dose, a centralised digital certificate is issued across the country that can be universally authenticated” —Government Statement May 29, 2021
+
+CoWin also enables the vaccine officers to verify citizens at point of vaccination, and also record any Adverse Events Following Immunization (AEFI).
+
+Apart from CoWin, another software used by the government, vaccine manufacturers and vaccine centres is eVIN or the Electronic Vaccine Intelligence Network. According to a statement in August 2020, eVIN had been implemented in 32 states and UTs with more than 23,500 cold chain points across 585 districts of 22 States and 2 UTs routinely using the platform for efficient vaccine logistics management.
+
+There have been many reports asking who developed CoWin. Even the Ministry of Electronics and Information Technology (MEITY) said that it had “no information” of who developed the CoWin app, or how much money was spent on making it, it said in response to an Right-To-Information query .
+
+According to a report by The Ken, the government did not want to get into the hassle of a tender or contract process and therefore, it decided to outsource the entire logistics and software-based monitoring to the United Nations Development Programme. The report said that UNDP turned to one of its existing software providers, Trigyn Technologies, to build CoWin towards the end of last year.
+
+A source, who is aware of how these platforms were developed, told MediaNama that eVIN functions as a supply-chain management platform while Co-WIN was created for beneficiary registration. “Trigyn developed CoWIN on behalf of the UNDP and the Health Ministry in India. The IP rights on CoWin were transferred recently from the UNDP to the Health Ministry,” this person told MediaNama. The United Nations Development Programme in India and Trigyn Technologies did not respond to email queries sent by MediaNama on May 26.
+
+In January, the Government of India signed a non-commercial Memorandum of Understanding with Nandan Nilekani’s e-Gov Foundation. The organisation developed a platform called DIVOC as a tool for large scale digital vaccination credentialing programs.
+
+“DIVOC was not built specifically for India or under the request of the Government of India/National Health Authority, rather as a globally usable generic open source project adopting W3C verifiable credentials. The focus of DIVOC was digital credentialing and the vaccination credentialing was just one of the use case,” a spokesperson for e-Gov told MediaNama in an email.
+
+e-Gov provides technical support to the ministry and its partners to integrate DIVOC modules with CoWin, they said.
+
+“How CoWin integrated with NHA systems, Aadhaar, etc were designed by the CoWin team. DIVOC is built as a generic digital credentialing platform, and specific integrations that will be required to make it work within a country differ and any such country specific integrations are not managed by the DIVOC team. In the case of CoWin, the DIVOC certification module has been integrated, and other components have been built by the CoWin team,” e-Gov said.
+
+While e-Gov maintains that it did not develop DIVOC based on a request from the Health Ministry or NHA but as a larger “public good” tool, Nilekani had advocated for a large-scale vaccination platform back in October last year.
+
+“The name of the person, the name of the vaccinator, which vaccine was used, what time, date, location, will be recorded. The information could then be sent in real time to a cloud location, and it will send back a digital certificate to me, saying that I have been vaccinated. Because in the Covid-19 vaccine system, it is not only important that I am vaccinated, it is also important that you know that I am vaccinated. The digital certificate can then be shown at a job interview, airport, railway station, bus stand etc. If it is a two-dose vaccine, then you generate a provisional digital certificate the first time, and after three weeks or whatever is the time duration, you send a reminder by email or message for that person to come and get the vaccine, and then give them a final certificate,” Nilekani told the Indian Express .
+
+This system, Nilekani told the paper, can include a network of public and private vaccination centres. “So it could be government-sponsored, or it could be a hospital or a corporate or a pharmacy, it doesn’t matter, but all of them use the same application technology. There will be an app on a PC or a smartphone, and one can take an appointment for vaccination,” he said.
+
+Sound familiar?
+
+When asked if the government had heard his proposal Nilekani told the newspaper, “I did make a presentation to a set of senior officials and they appreciated the ideas, and hopefully they will implement whatever they feel is fit.
+
+The government has already begun building its database for National Health Identities with the help of Aadhaar.
+
+In January, the Health Ministry officially allowed Aadhaar-based authentication to create a Unique Health Identifier or National Head ID for identification and authentication of beneficiaries for various health IT applications promoted by the ministry. This enabled CoWin to accept Aadhaar data, with the National Health Authority acting as the authentication-user-agency (AuA) on the UIDAI’s network.
+
+This notification authorised any Health Ministry approved IT application to use Aadhaar data, even though CoWin was developed by a private entity. “We cannot say that this is retrospective action or that this is a violation of the Aadhaar Act, since the CoWIN team was acting on the Health Ministry’s mandate,” a senior lawyer told MediaNama on the condition of anonymity.
+
+MediaNama reached out to RS Sharma, the head of the National Health Authority, multiple times over the last few weeks. He did not respond to our queries. MediaNama sent emails to the Health Ministry, Unique Identification Authority of India and the National Health Authority on May 26. They did not respond.
+
+Sharma told the Economic Times in April, that around 200,000 unique National Health IDs had already been created under its pilot programs in the Union Territories. He added that the NHA is working on integrating Aadhaar e-KYC, digital signatures, DigiLocker and payment channels like the Unified Payments Interface to create this system of “digital medical records”.
+
+Sharma was previously the head of the Unique Identification Authority of India (UIDAI), which operates the Aadhaar program, between July 2009 and March 2013. He was also the head of the Telecom Regulatory Authority of India between August 2015 to September 2020. Sharma is currently the head of NHA and is also the Chairman of Empowered Group on Technology and Data Management related to the COVID-19 pandemic.
+
+The National Health IDs are being rolled-out in a phased manner:
+
+The NHA also expanded the National Health database by enrolling existing list health insurance scheme beneficiaries under the Ayushman Bharat program through Aadhaar-based verification.
+
+Since the start of the vaccine registration program earlier this year, the Health Ministry has insisted that states/Union Territories use Aadhaar to identify and track beneficiaries of the COVID-19 vaccine given that it is the “most reliable authentication” mechanism to identify beneficiaries. Further, the Health Ministry is also conducting pilots on Aadhaar-based facial recognition for vaccine beneficiaries in Jharkhand and has processed over 1,000 successful authentications on a daily basis at the vaccination sites.
+
+While official documents from the NHA reveal that the National Health IDs are being rolled-out independently and in select geographies, and not through CoWin, millions of vaccine certificates have been issued so far with a “Unique Health ID.” This ID is generated based on Aadhaar information provided by the vaccine beneficiary.
+
+But were beneficiaries informed that by providing their Aadhaar details to CoWIN, they would be issued a Unique Health ID?
+
+While the government has reiterated time and time again—in the FAQs on COVID- 19 Vaccine , Operational Guidelines and January 1, 2021 notification—that Aadhaar is not mandatory for CoWin registration and vaccine administration, the reality on the ground is different.
+
+It is important to note that users on CoWin or other vaccine registration platforms do not need to authenticate themselves through Aadhaar at the time of registration or when they are booking their slots. A full list of acceptable forms of identity was published by the NHA in December last year. As per the government’s Operational Guidelines for vaccine administration, there is  push for Aadhaar based authentication. The guidelines state that a vaccine officer must verify the recipients’ identity after their first dose and will use the beneficiary reference ID number to issue the certificate.
+
+These vaccine officers are encouraged to verify the vaccine recipients’ identity with Aadhaar IDs as the “preferred mode” for authentication, either through biometric, OTP, demographic or offline authentication means, it says. In case an individual chooses to provide Aadhaar, the CoWin system will perform an Aadhaar authentication, the guidelines added.
+
+This is a reminder of how the government pushed Aadhaar usage on a “voluntary, but mandatory” basis in the past.
+
+As part of the CoWin portal, the government also issued a consent policy which was to be signed and submitted by vaccine officers and health department officials at the vaccine centre. These clauses are a part of the CoWin portal District Admin Interface of the CoWin platform.
+
+However, it seems, in April this consent policy was changed.
+
+BREAKING: #CoWin modified its consent collecting agency for health Id generation as National Heath Authority. It was Govt of India as I pointed in January.
+
+It is still discrete, hidden, pre-selected & meaningless and not an informed consent.
+
+Who is this "I" in this consent? pic.twitter.com/hrbOmP7s42
+
+— 𝗔𝗻𝗶𝘃𝗮𝗿 𝗔𝗿𝗮𝘃𝗶𝗻𝗱 (@anivar) April 21, 2021
+
+MediaNama was provided with screenshots of the consent policy on CoWin, but could not independently verify the same. The NHA did not respond to queries sent on May 12, seeking information about this change in the consent policy.
+
+Under the January policy, the consent form had to be signed by the vaccine officers/administrators attesting to the fact that the beneficiary “consented to share” their Aadhaar number with the Government for authentication and for the creation of “Unique Health IDs.” Essentially, the beneficiary had to “inform” the vaccine officer that they consent to the “government” using their Aadhaar data. But a few months later, the government changed the language of this declaration. Under the April policy, the consent form had to be signed off by the beneficiary who “voluntarily” consented to share their Aadhaar number with the NHA, for the sole purpose of creating a Health ID.
+
+The implication of this change is that under the January policy, the liability to sign the consent policy rested on the vaccine officer and other officials seeking the consent of the vaccine beneficiary. Whereas under the April policy, the legal burden was shifted to the individual. What this means is that each vaccine beneficiary needs to read the policy first and then sign-off, after receiving their vaccines and prior to getting their certificates.
+
+How many of 214 million vaccine certificates issued so far have Unique Health IDs? How many IDs were issued with the informed consent of beneficiaries?
+
+MediaNama spoke to four vaccine beneficiaries in different cities. Two of these beneficiaries received their vaccines at government vaccine centres, while the rest received their vaccines through private entities. All four told MediaNama that the vaccine officers and vaccine site officials did not inform them that by giving their Aadhaar IDs, it would lead to a Unique Health ID being generated in their favour.
+
+The first person who received a vaccine certificate, with a Unique Health ID, after their first dose told MediaNama that they had gone to a ‘drive-in’ vaccine centre and the process was very smooth, but they were shocked to learn they had been allotted a Unique Health ID. “The people in charge did not inform me when I would get a vaccine certificate, and that I was enrolling for the National Health ID because I gave my Aadhaar card at the time of registration,” this person said on the condition of anonymity.
+
+A second person was forced to provide their Aadhaar card at a government-run vaccine centre in New Delhi, despite using a different ID at the time of registration on CoWIN. The third and fourth vaccine beneficiary said they received their dose at a private company office, which arranged arranged the vaccine through a private hospital. The company mandated Aadhaar verification for both beneficiaries, when they went to the office to receive their dose
+
+There is also this thread of evidence posted on Twitter in response to The News Minutes’ Editor Dhanya Rajendran:
+
+Did the vaccination centre insist on your Aadhaar id? If yes, please reply here or DM
+
+— Dhanya Rajendran (@dhanyarajendran) June 2, 2021
+
+Based on the conversations with the four beneficiaries, there seems to be a lag between the time the beneficiary receives the vaccine and when they receive an OTP confirming their dose and vaccine certificate. This means that vaccine certificates are not being issued in real-time as the governments’ operational guidelines envisage.
+
+The National Health ID and the Electronic Health Records (EHRs) are two of the 35 building blocks for the National Health Stack, a government policy to create a data-led healthcare information market. Through this health-care technology ecosystem,  hospitals, pharmaceutical companies, healthcare professionals, pharmacies, healthcare tech companies, insurance companies will seek to deliver health services to the patient at an affordable cost. The government insists that the patient/citizens’ consent and anonymisation will be at the core of this framework and market.
+
+The NHS is part of the governments’ digitisation efforts that first began with Aadhaar and DigiLocker, and then moved into finance with UPI and now OCEN. These are part of the India Stack architecture. The NHS and the National Health ID are like a bank account that stores all your health information, against which insurers, bio-genetic companies, pharma giants, lenders and other interested participants can use this data to provide services or conduct research.
+
+In an interview with BloombergQuint last year, the NHA’s Additional CEO Dr. Praveen Gedam said that existing laws will be enough to protect citizens of any foul play or misuse in the national health ID programme.
+
+The roll-out of Aadhaar followed a similar line, said privacy experts that MediaNama spoke to. First, Aadhaar IDs were issued and from 2009 onward a database was populated without a data protection law in place. It was only under the Aadhaar Act, 2016 that the government created the UIDAI as a statutory authority.
+
+While there will be endless debates on whether CoWin and the liberalised vaccine pricing strategy is efficient, the Supreme Court has already acknowledged that CoWin is inherently exclusionary. It recently said that the “marginalised sections of the society” would bear the brunt of this accessibility barrier, according to Live Law .
+
+With the government leveraging the Common Service Centres network to register vaccine beneficiaries and vaccinate the wider population, the push for using Aadhaar-based authentications will only increase despite its “voluntary” nature. As a result, the government and the NHA can populate its National Health ID database without much resistance, since the entire consent framework depends on vaccine officers informing vaccine recipients of their choice to enroll into the NHS ecosystem, starting with an ID.
+
+Will the CSC ensure there is informed consent for the millions of people it will enroll onto CoWin and the Health ID database?
+
+While the urban population can use alternative forms of identity, the rural population would have to rely on Aadhaar IDs. While the informed sections of the population can haggle with vaccine officers that Aadhaar is not mandatory, the poor may not have that luxury.
+
+Interestingly, the UIDAI recently put out draft Aadhaar authentication regulations through which it has proposed that: “consent maybe presumed to be given if no communication of opting out of the modified purpose is received by requesting entity.” This means that the requesting entity for Aadhaar data can ‘presume’ that consent has been provided, if there is no strict opt-out communication from the ID holder to the requesting entity.
+
+This clause would effectively whitewash the fact that the consent mechanism for Aadhaar-Unique Health IDs, under the CoWin portal, is broken.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

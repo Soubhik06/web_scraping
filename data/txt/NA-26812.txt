@@ -1,0 +1,17 @@
+SUBREDDIT: r/personalfinanceindia
+TITLE: Star health data leak with PAN ITR and medical records
+DATE: 2024-10-10
+SCORE: 1
+URL: https://www.reddit.com/r/personalfinanceindia/comments/1g0gu0b/star_health_data_leak_with_pan_itr_and_medical/
+
+--- POST TEXT ---
+
+Mobile PAN addresses income details and medical records, pre-existing disease details and claim data of 3.1 crore people have leaked. One of the worst health insurance provider star insurance as per this sub and data failed to even protect their APIs and are now suing Telegram where the data is being sold. 
+
+The hackers probably found an unprotected API or cloud Data endpoint or maybe a malicious employee allowed this to happen. 
+
+Hackers say that their Chief information security officer did it for money (28k USD) but wanted more money (150k USD) for continued leak. so the hacker leaked it instead. 
+
+https://indianexpress.com/article/technology/tech-news-technology/star-health-insurance-data-breach-all-you-need-to-know-9613363/
+
+https://www.thehindu.com/sci-tech/technology/personal-data-of-about-3-crore-star-health-customers-up-for-sale-online-hacker-alleges-top-official-for-breach/article68739263.ece

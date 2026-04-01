@@ -1,0 +1,49 @@
+A malware attack on the e-hospital software of All India Institute of Medical Sciences (AIIMS), New Delhi, was detected by the cyber-security systems in AIIMS on June 6, according to a tweet by the institute. The institute also claimed that the attempt was “successfully thwarted” and the threat was “neutralised” by the team. However, IT Minister of State Rajeev Chandrasekhar tweeted yesterday denying the cyber-attack and made claims that do not look convincing enough. We discuss this below in the article.
+
+A malware attack was detected at 1450 hrs by the cyber-security systems in AIIMS, New Delhi The attempt was successfully thwarted, and the threat was neutralised by the deployed cyber-security systems. The eHospital services remain to be fully secure and are functioning normally
+
+— AIIMS, New Delhi (@aiims_newdelhi) June 6, 2023
+
+AIIMS was hit by a major ransomware attack in November last year, which disrupted critical health services at the hospital and exposed the health data of millions of patients to severe data security risks. The latest news of the attack on the e-hospital server was first tweeted by Ashish Srivastava, The New Indian Express reporter, who stated that according to sources, the e-hospital software was inoperable since afternoon and a ‘virus found’ notification was displayed when someone tried to access it. The tweet by AIIMS came an hour after Srivastava’s tweet.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with top stories from MediaNama and around the world, delivered to your inbox before 9 AM. Click here to sign up today!
+
+According to The New Indian Express report, registration, billing and other services were hit on Tuesday due to the suspected cyber-attack. AIIMS claimed in its tweet that the e-hospital services are now fully secure and are functioning normally.
+
+#BREAKING : After six months of a major malware attack, the e-hospital software of #AIIMS Delhi is again suspected of a cyberattack. Sources say that the software has remained inoperable since the afternoon, and 'Virus found' is displayed when accessed. @NewIndianXpress pic.twitter.com/CqBH53Vl9M
+
+— Ashish Srivastava (@AshishOnGround) June 6, 2023
+
+Why it matters: Ransomware incidents have doubled in the country since 2020, as per data tabled in the Parliament in December last year. The AIIMS server attack in November exposed serious lapses in the cybersecurity system. But, the government has been claiming that the attack was a result of a conspiracy by foreign actors , thus shifting the focus away from critical questions on what is being done to avert such cyber-incidents in future. Also, given the threats looming over health infrastructure, whether or not the government declare health as a ‘critical sector’ is something that needs to be watched out.
+
+Is E-hospital not on the internet?
+
+IT Minister of State Rajeev Chandrasekhar was quick to respond to the reporter’s tweet denying the cyber-attack. According to the minister, e-hospital is an internal application, which is not available for internet users. He claimed that an attempt by someone to access the portal generated the alert due to a security layer used by AIIMS and the same person circulated the screenshot of the error message displayed. The minister ‘s tweet comes after AIIMS confirmed that a malware attack was indeed detected in the software.
+
+E-Hospital is an internal application not available for internet users.
+
+Someone may have tried accessing this portal and alert generated due to security layer used by AIIMS. Same person may have taken a screenshot of error msg and circulated it.
+
+There is no cyberincident or… https://t.co/pmfNpanIzd
+
+— Rajeev Chandrasekhar 🇮🇳(Modiyude Kutumbam) (@Rajeev_GoI) June 6, 2023
+
+E-hospital data compromised in 2017: In 2017, Abhinav Srivastav, an Ola employee created an Aadhaar e-KYC verification application, which provided Aadhaar data verification by illegally accessing the UIDAI server. According to MediaNama’s report , the data was legally housed with an NIC server, but illegally accessed.
+
+It was found that the app accessed UIDAI data through the e-hospital app and made the information available. MediaNama’s report states that the only eHospital app on Google Play store was run by the government of India and was listed by Mobile Seva, a government initiative for mobile governance. As per the description on the app, e-hospital served as an online registration facility, was hosted on the cloud services of the National Informatics Centre and used eKYC of Aadhaar to extract patient data.
+
+Responding to the minister’s tweet, technologist Anivar Aravind was quick to point out the 2017 case discussed above. Aravind highlighted that the eKYC app was using UIDAI API in the e-hospital backend and connecting it via the internet, which implies that the app is on the internet.
+
+@Rajeev_GoI Do you remember an unofficial Aadhaar eKYC app created by an Ola employee in 2017. It was using white listed UIDAI API in E-hospital backend & connecting it via the Internet (using hardcoded credentials) .
+
+There is no major change to that system. It has internet https://t.co/SbWy7poEPN
+
+— 𝗔𝗻𝗶𝘃𝗮𝗿 𝗔𝗿𝗮𝘃𝗶𝗻𝗱 (@anivar) June 6, 2023
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

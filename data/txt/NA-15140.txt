@@ -1,0 +1,35 @@
+Alibaba owned mobile web browser UC Browser reportedly leaks sensitive user information and is a privacy risk according to a Canadian technology research group called Citizen Lab, reports The Huffington Post . The Citizen Lab research was prompted by a document leaked by Edward Snowden.Â The report mentions that the Chinese and English editions of the Android version of the browser makes user data like location, search details, network operator and even mobile device identifier numbers like the IMEI number easily available to third parties.
+
+This is so because a lot of sensitive data is transmitted without proper encryption. Some of these mentioned in the Citizen Lab report are:
+
+– User search queries are sent without encryption to the search engine Shenma (in the Chinese language version) or Yahoo! India and Google (in the English language version).
+
+– User data, including IMSI, IMEI, Android ID, and Wi-Fi MAC address are sent without encryption to Umeng, an Alibaba analytics tool, in the Chinese language version.
+
+– User geolocation data, including longitude/latitude and street name, are transmitted without encryption by AMAP, an Alibaba mapping tool, in the Chinese language version.
+
+Why is this of concern? That’s because anyone with access to data traffic, which includes the telecom operator, can easily identify users and their devices and subsequently collect personal data.Â Another cause for concern is that a part of the personal user data (in the form of DNS lookups) remains within the application even when users clear the application’s cache.
+
+It’s worth noting that an Alibaba spokesperson told The Huffington Post that they’ve fixed the security concerns highlighted by Citizen Lab and users have been updated about the same. Also note that the Chinese edition of the UC Browser Android app seems to be more vulnerable than the English edition, which is used in India.
+
+Alibaba acquired UC Browser parent UCWeb in June last year.Â Alibaba had previously mentioned in its IPO filing that it owned 66% stake in UCWeb in form of convertible preferred shares, which the company had acquired over several years through several rounds of investments,Â the last of which was completed in April 2014.
+
+UCWeb in India: Â UCWeb had setup its second headquarters in India in April 2013,Â in a bid to push its UC mobile browser among Indian users. A month later, the company had stated plans of investing $170 millionÂ in expanding its global operations, majority of which was expected to be deployed inÂ India to build a mobile Internet ecosystem.
+
+As per StatCounter, the company is currently the mobile browser with the highest market share in India with 47.92% market share (as of May 2015), followed by Opera with 20.61% market share, Chrome with 11.5% market share, Android with 9.04% market share and Nokia with 3.6% market share.
+
+The company however hasnât disclosed new India user base numbers for quite sometime now and the last number is from December 2012, wherein it hadÂ claimed Â to have 40 million users in India. Globally, it had claimed to have surpassed 500 million quarterly active users in March last year.
+
+Xiaomi privacy concern
+
+Interestingly, another Chinese company has also faced a bit of flak for not being careful with user information. In August last year,Â security firm F-Secure had found that Xiaomiâs MIUI-based smartphones wereÂ sending user data â including text messages, contacts, phone numbers, ISPâs name, IMEI number and other details â back to Xiaomiâs server, whether users signed up for the companyâs cloud-based services or not.Â F-Secure also found that thisÂ data wasnât encrypted.
+
+At the time, the Chinese smartphone maker hadÂ for the first timeÂ acknowledged Â that its phones were sendingÂ text messages back to its servers. However, the company said that thisÂ was being done to test whether text messages sent out by aÂ user could possibly be sent over using data connection instead of carrierâs SMSÂ Â gateway to save userâs money. Xiaomiâs VP International Hugo Barra also mentioned that this optionÂ is turned on by default. More on how Xiaomi deals with userâs data here .
+
+A couple of months later, the Indian Air Force issued an alert note Â to its staff and their family members that warned them against using any Xiaomi products, saying that the company was stealing not just their phone numbers and IMEI (device identifier) number, but was also accessing their phone calls and personal text messages. At the time, Barra had toldÂ Medianama that theyÂ do not collect any information without user permission. âUsers will always be notified beforehand in situations when we require your personal information, and will have to approve the request.â He alsoÂ mentioned that they were in the process of migrating theirÂ services and corresponding data for Indian users from theirÂ Beijing data centers to Amazon AWS data centers in Singapore and USA, which is expected to be fully completed by the end of 2014. The company also plans to setup a local data center in India in 2015. More on that here .
+
+Read the full Citizen Lab report here .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

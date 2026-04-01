@@ -1,0 +1,35 @@
+SUBREDDIT: r/Scams
+TITLE: Delta Airlines fake website via Google ads
+DATE: 2022-07-10
+SCORE: 1
+URL: https://www.reddit.com/r/Scams/comments/vvfpfl/delta_airlines_fake_website_via_google_ads/
+
+--- POST TEXT ---
+
+Hello all,
+
+I recently discovered what appears to be a fraudulent website impersonating Delta Airlines' website. I discovered (and was tricked by) this website as follows:
+
+I searched for "delta" on Google. The top result is an ad that looks as shown in the screenshot below. It looks legit. When I hover over the top link, the URL is [https://www.google.com/](https://www.google.com/)\[long string of characters\], so nothing raises a red flag for me there.
+
+[Delta ad when Googling for \\"delta\\".](https://preview.redd.it/oynzapgxsma91.png?width=817&amp;format=png&amp;auto=webp&amp;s=701c2d89b9f45f6f55366bef26474a22464462b8)
+
+When I click the top link, the following happens: The first time I click it, it takes me to [https://www.delta.com/](https://www.delta.com/), i.e., the proper Delta Airlines website. The second time I click the link, it takes me to a nondescript website which after about a second redirects me to another website deltaairlines (dot) shop. This website, in turn, looks a lot like Delta's real website, but with a message encouraging the website visitor to call a support team due to high visitor volumes; see the screenshot below.
+
+[Fraudulent website impersonating Delta's website.](https://preview.redd.it/6t7cpwtpuma91.png?width=1138&amp;format=png&amp;auto=webp&amp;s=34432415a86a4e328bfd4b83016aa2671b64ad01)
+
+This then repeats itself when I click the Google ad: Every other time I'm taken to Delta's real website, and every other time I'm taken to the fraudulent website. What's devious about this is that, as far as I can see, *there's no way to tell this is not legit before you're on the website*. It's the top result on Google, so I trust it!
+
+Now, let's rewind to before I found this fraudulent website. I had been trying to book a flight ticket from Delta via [kayak.com](https://kayak.com). I tried going through the check-out process twice. Each time, I ran into issues with the fare going up, which made me go back to Kayak in disbelief, searching for the trip again, and the ending up back at Delta's website where I tried booking again after giving up and accepting the higher price. The third time I went through the process, I got to check-out and paid with PayPal. This gave me an error message. I then paid with another credit card directly. This gave me another warning saying that the fare had gone up, and the purchase couldn't be completed. 
+
+At this point, I was pretty annoyed. I then noticed that my credit card (the one I used with PayPal) had been charged (a pending one), but I hadn't received a confirmation email from Delta. I checked Delta's website, and saw that my booking did appear there under "My Trips". At this point, I wasn't sure if I had managed to book a ticket or not, so I decided to call Delta. I Googled "delta" to find their website again to get the customer support number, and ran into the fraudulent website.
+
+When I got to the fraudulent website, I had experienced website issues (paying with PayPal was very slow) and I was looking for a customer support number. So the message didn't seem odd to me. Without thinking, I called the number. I was immediately connected (no waiting line is a red flag, I suppose). The first person I spoke to was a woman with an Indian (No racism here---I love Indians. My impression is that many scams are based out of India, so I thought it worth mentioning). I described my problem to her, and she connected me to her manager (another warning sign since I didn't ask for it, I suppose), a man, also with an Indian accent. He asked for my booking confirmation number and name, and was able to pull up my flight details (which anyone can do via Delta's website with those details). He then said that the fare had increased, and that I needed to pay a few hundred more to get the ticket. After some arguing back and forth, I said I wanted to use the 24-hour money back guarantee. He said that since the flight ticket had been marked for further processing (I can't remember his exact wording), it would take 2 billing cycles to get the money back. Since this sounded unreasonable, I asked for his manager, at which point the call was disconnected. I called back again, a woman answered, but the call was disconnected almost immediately. 
+
+Now I was more than a little annoyed. Since the interaction was so outrageous, I was beginning to suspect I had called the wrong number. I now went back to Delta's website---the correct one this time---and called another support number (different from the fraudulent one). Now I had to wait in line. Eventually, I got to a support person. She could see the booking on her end, but said the payment hadn't gone through. She gave me the option to pay over the phone. At this point, I didn't know who to trust, so I declined and asked her to cancel the flight. She removed it from her system. As she did, the flight also disappeared on my end under "My Trips" on Delta's real website. She said the pending charge should disappear by the next day, and if not, I should dispute it with my bank. She also confirmed that the situation I was in---trying to book and getting charged but not actually getting a ticket---was somewhat common, especially when using PayPal.
+
+And that is basically it. I have a pending charge of over twelve hundred dollars, and don't have any flight tickets to show for it. Some concluding thoughts: I think all my attempts to book tickets were via the legit Delta website. All price increases they mentioned were also reflected on Kayak. I think the first time I found the fraudulent website was when I went looking for a customer support number. I think the first call was with the fraudulent party, and the second one was with a legit Delta support person. 
+
+What hit me the most is that there seems to be no way to avoid getting to the fraudulent website. It is the top result when Googling for "delta" and there are no signs (at least no to me) that would indicate that it's fraudulent. It's also a bit uncanny how well the fraud narrative fit with my situation: The prices *had* legit gone up. I suppose the fraudsters can easily adapt what they say based on your particular problem.
+
+I hope this post is helpful for someone. I'd be very interested to hear thought and comments on my experience. Are these sneaky Google ads to scam websites common? Did I miss some red flags? Anything else I should do beyond following up with my bank if the charge doesn't go away?

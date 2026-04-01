@@ -1,0 +1,37 @@
+Seven international individuals have filed a class action lawsuit in California against Meta-owned WhatsApp, alleging the company misrepresented its end-to-end encryption (E2EE) and violated users’ privacy. Based on an unnamed whistleblower’s claims, the complaint alleged that despite promises of end-to-end encryption, Meta employees have access to encrypted private messages.
+
+Various people, including India-based Alka Gaur and individuals from Australia, Brazil, Mexico, and South Africa, filed the lawsuit against the platform. It covers most WhatsApp users worldwide but excludes those in the US and Canada because of an arbitration clause in WhatsApp’s terms of service , while those in the UK and the European Region are excluded as they are required to raise claims in their own country or Ireland.
+
+The lawsuit against WhatsApp and its parent company, Meta, primarily alleges that they fraudulently misrepresented the app’s privacy by secretly storing, analysing, and maintaining unlimited access to users’ end-to-end encrypted communications.
+
+The lawsuit alleges the companies invaded users’ privacy, breached contractual obligations, and profited unfairly from the unauthorised use of private encrypted communications, including claims under California’s specific privacy, theft, and unfair competition laws, like the federal Wiretap Act and California-specific statutes such as the Computer Data Access and Fraud Act and the Invasion of Privacy Act .
+
+Calling these allegations false, WhatsApp’s Head, Will Cathcart, reiterated, “WhatsApp can’t read messages because the encryption keys are stored on your phone and we don’t have access to them.” He further linked the lawsuit to the infamous Pegasus spyware used by various countries to spy on WhatsApp’s users. “This is a no-merit, headline-seeking lawsuit brought by the very same firm defending NSO after their spyware attacked journalists and government officials,” read his post on X.
+
+“Any claim that people’s WhatsApp messages are not encrypted is categorically false and absurd. WhatsApp has been end-to-end encrypted using the Signal protocol for a decade. This lawsuit is a frivolous work of fiction, and we will pursue sanctions against plaintiffs’ counsel,” a WhatsApp spokesperson told MediaNama.
+
+Addressing the platform’s end-to-end encryption claims, the lawsuit states, “These claims are false. WhatsApp and its parent company, Meta, store, analyse, and can access virtually all of WhatsApp users’ purportedly ‘private’ communications.”
+
+For some context, WhatsApp uses the Signal encryption protocol. “No one outside of the chat, not even WhatsApp, can read, listen to, or share them,” states WhatsApp in its frequently asked questions (FAQs). After acquiring WhatsApp for two years, Facebook integrated Open Whisper Systems’ Signal Protocol into the platform in 2016.
+
+The lawsuit also claims that the Signal Protocol is not secure because it reveals metadata while encrypting only the messages. “Lest there be any confusion, the Signal Protocol does not protect all user information (nor does it purport to). Only the contents of the communication are encrypted; the metadata associated with the communication is not. Thus, as even they concede, Meta and WhatsApp have access to users’ metadata and can identify the who, when, and where (among other circumstances) of users’ communications,” states the complaint.
+
+While the Signal protocol that WhatsApp integrated is open-source, the way it has been integrated is not in the public domain, raising some concerns, as the lawsuit highlights, “Although cryptosecurity experts are confident the Signal app functions without any kleptographic backdoor, the public can only take the word of Meta and WhatsApp that they do not have access to the substance of WhatsApp users’ communications.”
+
+The lawsuit says WhatsApp discloses only limited exceptions to end-to-end encryption, such as receiving up to five recent messages when a user reports another user in an individual or group chat and basic details about the last five calls. “Nothing in these disclosures suggests that WhatsApp or Meta can access all of any user’s communications. Nor do the disclosures suggest that WhatsApp or Meta can access a user’s communications even when the limited circumstances identified in the disclosures do not apply,” speculates the lawsuit.
+
+Complainants claim that WhatsApp has an internal team with unlimited access to encrypted communications, which can grant access to data requests. Without naming the particular whistleblower, the lawsuit claims, “As the whistleblowers here have explained, WhatsApp and Meta store and have unlimited access to WhatsApp encrypted communications, and the process for Meta workers to obtain that access is quite simple.”
+
+“A worker needs only send a ‘task’ (i.e., request via Meta’s internal system) to a Meta engineer with an explanation that they need access to WhatsApp messages for their job. The Meta engineering team will then grant access—often without any scrutiny at all—and the worker’s workstation will then have a new window or widget available that can pull up any WhatsApp user’s messages based on the user’s User ID number, which is unique to a user but identical across all Meta product,” the lawsuit laid out the process to access the encrypted chats.
+
+Additionally, the lawsuit also alleges that Meta has a “special handling” to “closely track” within Meta and WhatsApp” for “celebrities, politicians, and Meta employees.”
+
+“Meta workers still have access to these users’ messages, but their access to the accounts flags the worker for investigation. Even as to these privileged few WhatsApp users, however, Meta and WhatsApp are still misleading them and violating their privacy by storing their supposedly private, end-to-end encrypted messages,” claims the lawsuit.
+
+Meta has faced repeated controversy following whistleblower allegations in recent years. Some of these include:
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

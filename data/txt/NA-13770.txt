@@ -1,0 +1,29 @@
+Starting in early 2024, Google will require all apps on Play Store—that enable account creation—to let users delete their accounts and any related data, the company said in a blog post dated April 5.
+
+“For apps that enable app account creation, developers will soon need to provide an option to initiate account and data deletion from within the app and online. This web requirement, which you will link in your Data safety form, is especially important so that a user can request account and data deletion without having to reinstall an app.” — Google
+
+Once the policy goes into effect, users will be able to delete the account and data from either:
+
+Developers can request until May 31, 2024, to comply with this policy. Developers who would like to know more about the new policy can find detailed information here.
+
+Why does this matter: It’s a welcome move from Google because it gives users more control over their data. This is something that privacy regulations should be doing. But thanks to the Indian government stalling on the Data Protection Bill for five years now, Indian citizens don’t have the necessary legal safeguards and, instead, have to rely on platforms like Google Play Store and Apple App Store to provide them the same.
+
+Does all user data get deleted along with the account? “ When you fulfill a request to delete an account, you must also delete the data associated with that account. The feature also gives developers a way to provide more choice: users who may not want to delete their account entirely can choose to delete other data only where applicable (such as activity history, images, or videos). For developers that need to retain certain data for legitimate reasons such as security, fraud prevention, or regulatory compliance, you must clearly disclose those data retention practices,” Google explained.
+
+Can Google ensure data is deleted? While the proposed feature appears to give users control, it’s not clear how Google will ensure that apps actually delete the accounts and data of any user who request the same.
+
+The Data Safety section already shows info about account deletion, but it doesn’t go far enough: In April 2022, Google introduced the Data Safety section for all apps listed on the Play Store. This section, which appears on the app’s install page, essentially displays the data practices of the app including what data is collected, what data is shared with third parties, whether users can request the data to be deleted, etc.
+
+This new measure proposed by Google is more effective as it provides users an option to delete accounts and data whereas the current privacy labels only show whether or not users can delete their data. The data safety section will come with a refreshed data deletion badge that reflects the proposed changes.
+
+“While Play’s Data safety section already lets developers highlight their data deletion options, we know that users want an easier and more consistent way to request them. By creating a more intuitive experience with this policy, we hope to better educate our shared users on the data controls available to them and create greater trust in your apps and in Google Play more broadly.” — Google
+
+Notably, Mozilla last published a report claiming that Google Play Store’s Data Safety section is misleading users by showing inaccurate information on the data practices of apps.
+
+Apple already has a similar policy in place for App Store: Apple, in June 2022, instituted a similar policy for apps on App Store, but Apple’s policy doesn’t require developers to provide a web deletion option.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,47 @@
+In breaking news today, Q4 2014 saw Indonesia’s average speed drop from 3.7 Mbps to 1.9 Mbps since the previous quarter, relieving India the ignominy of having the slowest average Internet speed in the Asia-Pacific region for the 10th time in a row. TRAI might be doing a celebratory jig, make no mistake however, according to the study conducted by content delivery network Akamai Technologies for its Q4 2014 State of the Internet report , India’s average Internet speed also dropped the same quarter by 0.7%, holding steady at 2 Mbps.
+
+The report is based on data collected by Akamai’s Intelligent Platform across several metrics. This report provides insight into internet connection speeds, broadband adoption rates, mobile connectivity, and attack traffic.
+
+India’s average internet speed, which continued to be at 2 Mbps for the third quarter in a row, is still the second slowest in the Asia-Pacific region, with the country ranking 116th globally in terms of average Internet speed. South Korea remains the fastest in this region, as well as the world, with an average speed of 22.2 Mbps, although its speeds dropped from 25.3 Mbps the last quarter. The country also continues to be the only country in Asia with an average speed over 20 Mbps, with Hong Kong coming in second at 16.8 Mbps and Japan third with 15.2 Mbps.
+
+As we have mentioned time and again , the 2 Mbps average internet speed appears to be too high for India, as the TRAI defines broadband as internet connections above 512 Kbps. Keeping this in mind 2 Mbps average speed in India is practically impossible. However, the possible reason for this bloated number is perhaps the fact that for the study Akamai only takes into consideration data gathered from its Intelligent Platform .
+
+Akamai’s definition of broadband internet on the other hand, is internet connections with speeds above 4 Mbps. In Q4 2014, India had 7.8% connections above the 4 Mbps threshold, an increase from 6.9% last quarter. India was the second lowest ranked country in the Asia-Pacific region at 95, with only Indonesia doing worse at 4.6%. Note however, Indonesia saw a decrease of 87% for such connections since the last quarter.
+
+High speed broadband adoption :
+
+Akamai defines broadband connections with speeds over 10 Mbps as high-speed broadband. The adoption of high speed broadband in India stood at 1.1% a 0.7% decrease QoQ, although a 104% increase since the same time last year. As of now, the country ranks 65th internationally, with some Asian countries like Indonesia, Philippines and Vietnam lagging behind India.
+
+In South Korea, 79% of the internet connections were above the 10 Mbps mark, while 95% were above the 4 Mbps mark. Japan and Hong Kong also had an impressive adoption rate with 56% and 60% of the connections in each country above 10 Mbps, and 88% and 91% above 4 Mbps respectively.
+
+Attack traffic :
+
+India has dropped down in ranking with reference to origin of attack traffic, and now stands in the 7th place with 2.4% traffic, down from the 4th place last quarter. China continues to be the biggest source of attack traffic over all internationally, with 41% of attack traffic originating there. The US comes in second with 13% attack traffic, followed by Taiwan at 4.4%, Russia at 3.2% and Turkey at 2.9%.
+
+Telnet (port 23) was the most targeted port internationally with 32% of the attacks, a significant increase from 12% last quarter. The second most popular port for attack was Microsoft-DS (port 445) with 15% of the attack traffic and HTTP alternate (port 8080) with 6.6%. Other protocols targeted include HTTP (port 80), MS Terminal Services, MySql and SSH among others.
+
+Enterprises faced the highest number of attacks at 31%, followed by commerce at 27%, media and entertainment at 16%, high tech at 15%  and the public sector at 12%. According to the report, the fourth quarter of 2014 was dominated by attacks using the Poodle vulnerabilities which affect SSLv3. Attackers also used Yummba and Webinject tools to commit banking fraud.
+
+4K readiness :
+
+There is a growing demand for 4K (Ultra HD) video content globally and even in India, given that 4K TVs are available for as cheap as Rs 40,000. According to Akamai, 10-20 Mbps bandwidth is the minimum speed required for seamless streaming of 4K videos. The 4K readiness metric tries to determine which countries or regions already have that capability.
+
+South Korea ranked first by this metric, with 61% 4K readiness, followed by Hong Kong and Japan at 41% and 34% respectively. In India the 4k readiness increased 91% YoY and stood at 0.4%, a decrease of 11% from last quarter.
+
+Page load times and IP addresses :
+
+In Q4 2014, it took an average of 4460 milliseconds in India, down from 4840 last quarter, while it took 6972 ms in the case of mobile internet, up from 6772 ms last quarter. The number of unique IP addresses in the country were reported at 18,240,827 out of the 802,818,414 IP addresses used globally. The US and China had the highest number of IP addresses registered with 151,386,342 and 125,400,588 registered IPs respectively.
+
+Download Q4 2014 Report (pdf)
+
+Also read :
+
+India continues to have the slowest internet speeds in Asia-Pacific: Akamai
+
+Updated: Average Internet speed in India is 2 Mbps; Still the slowest in Asia-Pacific: Akamai
+
+India continues to have the lowest Average Internet speeds in Asia Pacific: Akamai
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

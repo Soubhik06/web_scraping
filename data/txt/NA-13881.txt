@@ -1,0 +1,129 @@
+This is a record of the proceedings in the Supreme Court bench hearings on the Constitutional validity of Aadhaar, which began on Feb 13, 2018. You may read the previous days’ proceedings here: Day 1 , Day 2 , Day 3 , Day 4 , Day 5 , Day 6 , Day 7 , Day 8 , Day 9 , Day 10 , Day 11 , Day 12 , Day 13 , Day 14 , Day 15 , Day 16 ., Day 17 , Day 18 , Day 19 and Day 20 .
+
+The Attorney General resumed his submissions from the previous day. He handed over a PowerPoint presentation that the CEO of UIDAI wanted to present before the Court in word format. The Bench agreed to allow the PowerPoint presentation at 2:30pm. The Court told the petitioners to submit a questionnaire based on the presentation on the next hearing on Tuesday, March 27, 2018.
+
+The Chief Justice of India asked the AG to continue with his other submissions.
+
+The AG continued to read from ID4D World Bank report on sustainable development goals. He talked about the paramount importance of unique identity and eradication of poverty. He read extensively from pages 25 and 26 in the report above.
+
+The AG then read the bit on the necessity and the greatness of purpose limitation in a data protection regime.
+
+The AG said India has transferred 9000 crores to set up and operate UIDAI. (No further details).
+
+The ID4D report referred to the NIPFP “cost benefit analysis” to say there could be a 58.5% cost savings because of Aadhaar. (Recall that the assumptions in the study and the non-disclosed sponsorship that NIPFP had from UIDAI were pointed out by Prof. Reetika Khera right after!)
+
+Justice Chandrachud queried about authentication and enrolment services fees. The AG said that as of today both enrolment and auth services are free. He concluded reading from the report saying that the goal is to comply with Sustainable development goal of legal identity for all by 2030.
+
+The AG said that India has taken a leap ahead of all other countries. As big an exercise with 1.2 Billion enrolments has not happened anywhere else, he asserted. He handed over a list of dates on the history of the Aadhaar programme. He made the point that Aadhaar is not a casual venture undertaken in a routine manner, but a lot of thought has gone into the programme. Various committees and groups of the Government have been working on it since 2006.
+
+Justice Sikri asked about the relevance of all these documents beyond demonstrating that much effort has gone in. He said that the documents do not answer constitutionality questions of the Act. Justice Chandrachud points out that as far back as Aug 2009 it appears the need for legislation was felt and asked why it took till 2016.
+
+(Bench rose for lunch. State would give a presentation on Aadhaar at 2.30 pm.)
+
+(There are several inaccuracies in the presentation that follows, and in the interest of information, they are numbered and clarified below the day’s report)
+
+At 2:30pm, CEO of UIDAI, Dr. Ajay Bhushan Pandey commenced his PowerPoint presentation on Aadhaar. He said he would talk about Aadhaar, security, success rates, etc. He has four agenda points:
+
+Dr. Pandey said that in pre Aadhaar times, most people didn’t have IDs [1] . He said that he didn’t have an ID either since he came from a small village [2] . From 2000-09 also, many people did not have a nationally acceptable ID. All IDs are limited in their own way. EPIC, for example, cannot be given to children. Getting a ration card was also difficult because it required other IDs to procure a ration card. The genuineness of ration card is not easy to ascertain. Voter id and ration cards are region specific.
+
+Dr. Pandey fondly recalled that he joined UIDAI even before the first Aadhaar number was issued and is happy with having been part of every milestone that it has achieved.
+
+Dr. Pandey asserted that Aadhaar is a nationally verifiable digital ID. It’s not difficult to procure. The 12 digit number is a completely random number. Once issued, it’s never issued again, even if the person dies. It is not linked with citizenship and includes transgenders and children.
+
+He read out and explained each bullet point from this slide.
+
+Dr. Pandey said that people may not be able to provide biometrics due to reasons like leprosy, but they have made exceptions for such cases. He said that enrollment and updation can happen in any part of the country. It’s a portable entitlement. Not region specific, unlike other IDs. He said that there’s no data sharing without consent. He said that data is shared only on the instructions of a district judge and for national security.
+
+Dr. Pandey took the court through the process of enrollment and asserted that UIDAI collects very minimal data. He said that even father’s name is not necessary. No info on religion, caste etc is collected.
+
+Dr. Pandey said that in the US, to get a birth certificate, a lot of information is collected. Even info like the kind of pregnancy is taken.
+
+Next he explained the biometric exception process and gave example photos for the same. He asserted that they always provide for exceptions in appropriate cases and no one will be denied enrolment.
+
+Dr. Pandey explained how there is no de-duplication of Aadhaar.
+
+Justice Chandrachud asked for clarification on biometrics exception for people who can’t possibly give their biometrics. Dr. Pandey said that authentication will happen through other modes like OTP or demographic authentication in such cases. He referred to Aadhaar Authentication Regulations. He elucidated on the types of authentication mechanisms available under the Act.
+
+Dr. Pandey said there will be 13 modes of auth if you take 10 fingers plus 2 iris plus OTP! (MediaNama: This is unclear. Each finger and iris is a separate mode of authentication?)
+
+Dr. Pandey said that enrollment agencies are both public and private. They empanel these agencies based on certain criteria. Then registrars decide if an agency is fit to be an enrollment agency. He said that they have operator certification agencies along with 30 thousand enrollment centres. Decentralized enrollment, but the data is stored in a centralized place.  He said that there’s a safe button with enrollment agencies to encrypt data
+
+Dr. Pandey said 256-bit encryption is the standard, but Aadhaar has a much superior hardest to break 2048-bit encryption standard. He said that it would require the strength of the entire universe to break that encryption! [3]
+
+Justice Sikri asked if that was at the time of capture or before transmission. Dr. Pandey asserts it (interception?) is not possible. He said all machines are STQC certified and software are all UIDAI provided. He said that the traceability of all actors is ensured through audit trail [4] .
+
+Justice Sikri asked about the 49,000 enrollers blacklisted – why they deregistered so many agencies then?
+
+Dr. Pandey responded that it was due to corruption mostly – took money for enrolments. Also, some operators were not entering the details properly – demographic data quality was bad. He said that they have very strict quality control standards.
+
+Justice Sikri said that it’s incomprehensible that 49,000 people fall in that category.
+
+Dr. Pandey reiterated that they have high-quality parameters. He said some of them also misused the biometric exception. He said some of them also registered a tree or Hanuman etc earlier. He said they used to trust enrolment operators a lot earlier but they no longer do and have more stringent quality control.
+
+Dr. Pandey said that 120.3 cr have enrolled.
+
+Justice Chandrachud asked about World Bank report saying under 5 not having id. Dr. Pandey said even infants can have Aadhaar. They don’t check for 182-day limit. They enrol children as soon as they are born. They don’t take biometrics of the infant. Only a photograph is taken. Biometrics of parents are collected. At the age of 5, they take the child’s biometrics and then again at age 15.
+
+Justice Sikri asked whether they contact the child or do the children have to come to them. This was one of the arguments related to exclusion.
+
+Dr. Pandey said that Anganwadi workers themselves can become enrollers. Also, enrollment camps are set up in schools.
+
+Justice Sikri asked if they take Parental consent. Pandey said all legal compliance has to be taken care of. For others, he said they can go to enrolment centres and they also do an update.
+
+Justice Sikri wanted to know how one knows that one’s biometric have changed. He said there are so many technically illetare and illiterate people and how they know when to update. For eg, for workers and labourers.
+
+Dr. Pandey said that in such cases, when a person goes for authentication, for example to a PDS shop and his Biometrics don’t match, then an error code is sent to UIDAI and then the person will be asked to update his biometrics.
+
+Justice Chandrachud is not convinced with this method. He said this will lead to exclusion.
+
+Dr. Pandey said that a circular was issued yesterday, which said that if a person’s authentication through biometrics does not happen, then he shall not be denied benefits for that reason. (MediaNama: AG had explicitly asked for an exemption for welfare under Section 7 for the Aadhaar linking deadline, implying that Aadhaar would be mandatory – this is contradictory )
+
+Dr. Pandey said that every Aadhaar card has a QR code, which prevents de-duplication. The QR code will also show the person’s photo [5] . This method can also be resorted to if biometrics don’t match.
+
+Justice Chandrachud said thatUIDAI does not know if denial of service happened, they will only know that authentication failure happened.
+
+Dr. Pandey answered in the negative but said they constantly advise ministries that on the ground there will be exclusion if they solely depend on aadhaar auth. Which is why in law, they made exceptions and that any official not obeying and denying services would be taken a strong view of!
+
+Justice Chandrachud asked if there is official data of denial of service. Dr. Pandey said there wasn’t.
+
+Justice Sikri asked about shopkeeper appropriating the grain by saying biometric mismatch.
+
+Dr. Pandey said Aadhaar cannot cure every kind of malaise (referring to Jharkhand case) . He said at least now we have proof that it is the ration shopkeeper is caught (MediaNama: unclear how) . Earlier he could not be.
+
+Dr. Pandey said 100% auth success is NOT possible. Many variables, connectivity, machine not working, etc etc, but asserted that Aadhaar Act takes care of it.
+
+Justice Chandrachud and Justice Sikri unconvincedly looked on.
+
+Dr. Pandey said Aadhaar enrollment is done in prison also.
+
+Dr. Pandey now said at the Govt level a decision has been taken that enrolments will happen only in banks, govt offices and post offices. (MediaNama: This was actually ordered by the Supreme Court )
+
+Dr. Pandey said enrollment and updation of Aadhaar is a continuing process. The total cost of an Aadhaar card is less than one dollar.
+
+Justice Khanwilkar asked about the software not being Indian and the petitioners arguing that it could be prone to tampering.
+
+Dr. Pandey replied that only the biometric match software is licensed from foreign companies. World’s best companies in that industry he said. The rest has been developed in India. He said those software run on their data centre.
+
+Dr. Pandey said just because Banks use SAP or Oracle, does not mean Banks give data to Oracle. He said that these algorithms are their IP just like how Microsoft has IP in Windows. But, Dr. Pandey asserted, the servers are theirs. They have 6000 servers. Just because they are using the services of these companies, doesn’t mean that the companies have Aadhaar data. He said that the biometrics is also anonymized (by a reference no.) before being matched against the biometrics stored in the central database.
+
+Dr. Pandey said there can be no false positive dedupes because there is also a manual override process. [6]
+
+Dr. Pandey explained the entire process of enrollment. He proudly said the contact centre at 1947 receives almost 1.5 lakh calls a day – one of the largest, he said!
+
+Dr. Pandey took the court through the e-KYC process using Aadhaar.
+
+Dr. Pandey said that till now no agency has taken biometrics data for the purpose of national security. He said they had denied data to CBI also. He said that once biometrics reaches CIDR, it can never be shared on any ground whatsoever except for national security under Section 33. (Note: even that does not allow biometric sharing!) He said that in 1.5 years, there has been no request for biometrics from government for anyone!
+
+Dr. Pandey said that they have registered devices for authentication. The devices use their key for encryption. The biometrics are not shared with the requesting entity also. The authentication process takes less than a second. They don’t collect purpose, location and details of the transaction. He claimed that authentication data is not transmitted to the CIDR!
+
+Justice Chandrachud asked about metadata? Dr. Pandey said he’ll explain that later.
+
+Dr. Pandey said they are doing four crore authentications every day. They don’t know the purpose of these authentications. Information remains in the silos and merging of silos is also prohibited.
+
+Court rose for the day. Advocate General will continue submissions on behalf of the government at 11:30am on the 27nd March 2018.
+
+Summary of hearing based on tweets by Prasanna S Gautam Bhatia and SFLC
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

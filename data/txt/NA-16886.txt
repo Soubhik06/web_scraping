@@ -1,0 +1,78 @@
+SUBREDDIT: r/india
+TITLE: Minority to majority effect: How many votes do you actually need for majority in India?
+DATE: 2025-02-16
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/1iqo9td/minority_to_majority_effect_how_many_votes_do_you/
+
+--- POST TEXT ---
+
+**Assumption 1: 100 Cr voters equally distributed among 543 constituencies, so \~18.4L voters in each constituency.**
+
+**Assumption 2: Everyone votes**
+
+**Assumption 3: There are only 2 equally popular parties**
+
+So, in a ideal and direct democracy, you would need 50% + 1 votes, that would be 50cr + 1 votes.
+
+But in a representative democracy, you need 272 seats and need 50% + 1 votes in each constituency to form majority.
+
+ 272 * ((18,40,000 / 2) + 1) = 25,02,40,272 votes (~25%)
+
+**Lets modify assumption 3 a bit**
+
+**Assumption 3A: The are many parties but only 2 popular parties. Except for top 2, all other parties combined get 20% votes in any constituency**
+
+So, from remaining 80% votes you need 40% + 1 votes to win any constituency
+
+ 272 * ((18,40,000 * 4 / 10) + 1) = 20,01,92,272 votes (~20%)
+
+**Now lets modify Assumption 2 a bit**
+
+**Assumption 2A: Only 65% voters vote in any constituency.**
+
+ 272 * (((18,40,000 * 65 / 100) * 4 / 10) + 1) = 13,01,25,072 votes (~13%)
+
+**Finally we can modify Assumption 1 as well.**
+
+**Assumption 1A: Population across 543 constituencies is distributed normally.**
+
+Asked ChatGPT for normal distribution of voter count across constituencies. I generated with following parameter
+
+* Mean ≈ 18.17 lakh
+* Standard Deviation ≈ 4.9 lakh
+* Minimum ≈ 78,415 voters
+* Maximum = 30 lakh voters
+
+Now I took average count of smallest 272 constituencies i.e., 14.33L voters
+
+ 272 * (((14,33,000 * 65 / 100) * 4 / 10) + 1) = 10,13,42,032 votes (10%)
+
+In a population of 140 Cr people, out of which 100 Cr voters, from whom 65 Cr actually vote,
+
+**You need about 10% of votes to actually form majority government in a representative democracy like India. Which is \~7% of population of India.**
+
+Notes:
+
+* This a general framework, it can be modified and extended to calculate more exact numbers. We can use data from 2024 and even calculate for 2029 or any upcoming state election.
+* If you feel, I have made some wildly wrong assumption, you can recalculate and post your numbers.
+* This provides an estimation of **minimum** number of votes in different scenarios.
+* **There are lots of assumptions in this i.e., mentioned them as 'Assumption'.**
+ * I have tried to keep these numbers close to actual numbers from 2024 Lok Sabha elections.
+ * **Assumption 2A** needs to better handled. It is applied same to all constituencies. I believe it could create a small difference if actual data is used. As voter participation varies across constituencies and you might have more voter percentage in lower populated constituencies.
+ * **For Assumption 1A**, we can either use actual data or maybe reduce standard deviation.
+* With this framework, you can analyse impact of
+ * Divided opposition
+ * Voter fraud
+ * Low voter turnout
+ * Impact of NOTA
+ * Voter participation
+ * Voting age, etc
+* I hope this would trigger conversation about direct democracy (like Switzerland), two-round system (like France) or any other ways to reduce this disparity.
+
+Further Read:
+
+* Minority to majority effect: https://www.cambridge.org/core/journals/european-constitutional-law-review/article/militant-democracy-and-the-minority-to-majority-effect-on-the-importance-of-electoral-system-design/AF19FA3D01F394AA41FC13147850F3FB
+ * Hungary
+ * The crucial elections in 2010 have been described as a ‘perfect storm’, when public disaffection led to a simple majority of votes for the then opposition alliance between Fidesz and KDNP.[Footnote  ^(78) ](https://www.cambridge.org/core/journals/european-constitutional-law-review/article/militant-democracy-and-the-minority-to-majority-effect-on-the-importance-of-electoral-system-design/AF19FA3D01F394AA41FC13147850F3FB#fn78)The electoral system, which mixed majoritarian and proportional rules, turned this simple electoral majority (53%) into a parliamentary supermajority (67%).
+ * Turkey
+ * The AKP came to political power in 2002. It won a plurality of the votes (34%) but received almost two-thirds of the seats (66%) in parliament. Due to an implosion of the party system, many parties had ended up below the 10% electoral threshold, leading to 46% wasted votes.[Footnote ](https://www.cambridge.org/core/journals/european-constitutional-law-review/article/militant-democracy-and-the-minority-to-majority-effect-on-the-importance-of-electoral-system-design/AF19FA3D01F394AA41FC13147850F3FB#fn81)

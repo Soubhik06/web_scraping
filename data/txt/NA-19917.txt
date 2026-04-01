@@ -1,0 +1,24 @@
+SUBREDDIT: r/india
+TITLE: Sapnaonline is leaking your data
+DATE: 2020-12-27
+SCORE: 34
+URL: https://www.reddit.com/r/india/comments/kl73l5/sapnaonline_is_leaking_your_data/
+
+--- POST TEXT ---
+
+[Sapnaonline.com](https://Sapnaonline.com) is leaking your data
+
+They have an IDOR (Insecure direct object reference) vulnerability on their website which reveals your personal data
+
+What that means is someone without authorization to your account can see your data like name, email, phone, address, what you ordered, etc.
+
+You can simply change a particular parameter &amp; the details will be revealed, the attacker only needs the Order ID (which he cane keep trying with different order #)
+
+I've mailed them multiple times &amp; to multiple people but they never respond.
+
+Proof : [Screenshot](https://imgur.com/PWPJa8O)
+
+&amp;#x200B;
+Stay safe,
+
+R

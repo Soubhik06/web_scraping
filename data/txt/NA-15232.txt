@@ -1,0 +1,57 @@
+American data analytics company Palantir Technologies, that has been embroiled in controversies for the last few years, has filed its S-1 form with the Securities and Exchange Commission (SEC) so that it can be listed on the New York Stock Exchange (NYSE). The company has opted for a direct listing instead of an initial public offering (IPO).
+
+Palantir started in 2003 by building software for the US intelligence “to assist in counterterrorism investigations and operations,” the company’s description in the S-1 filing reads. The company started working with commercial enterprises later.
+
+The S-1 filing makes it abundantly clear that Palantir has very close ties, not just with the American government, but also with other unnamed governments around the world, and is dependent on them for almost half its revenues. Over the next few years, the company wants to become the default operating system for data across the US government.
+
+Of the total revenue it generated in 2019 ($742.6 million), 53% came from the commercial segment and 47% from the government segment. Of its total addressable market (TAM) of $119 billion, government agencies in the US, its allies and other countries account for 53% or $63 billion. Of this, $26 billion is estimated in the US government sector and $37 billion in the international government sector. The commercial sector accounts for $56 billion (47%).
+
+The company wants to become the default operating system for data across the US government. It cited its successful 2016 lawsuit against the US Army for not letting the company bid when the Army was looking for contractors to improve its Distributed Common Ground System, or DCGS, an intelligence-gathering system that collects and analyses surveillance information to help soldiers on the ground. It will also expand its reach with American allies abroad.
+
+Palantir employs 2,398 full-time employees and they are located both within and outside the US. Of those employees, a total of 929 are software engineers and other technical staff whose principal responsibilities are to build, operate, and improve the capabilities of our two platforms.
+
+The Peter Thiel-backed company’s software is used across 36 industries in more than 150 countries. In the first half of 2020, the company had 125 customers.
+
+Its current US government clients include the US Army, Navy, Air Force and Marines, US Special Operations Command, US Department of Defense, Department of Homeland Security, Center for Disease Control, Department of Agriculture, Department of Health and Human Services, Department of Veteran Affairs, Food and Drug Administration, National Institute of Health, and the SEC itself. Its software was used by special operations commanders in the Middle East in 2008, and currently, “every battalion in the US Army” uses Palantir software for intelligence analysis, as per the SEC filing.
+
+Other clients are: Airbus, bp (the energy company), Credit Suisse, Danish national Police, Fiat Chrysler Automobiles US (a North American automaker), Fiserv (a payments and fintech firm), Merck KGaA (a German technology firm), Scuderia Ferrari (the racing division of Ferrari).
+
+In its S-1 filing, which also had a letter by the CEO and co-founder Alexander Karp lamabasting the Silicon Valley, the company made its stance on supporting the government clear. “Our software is used to target terrorists and to keep soldiers safe. If we are going to ask someone to put themselves in harm’s way, we believe that we have a duty to give them what they need to do their job,” Karp wrote. In scathing criticism of the Silicon Valley, he essentially said that Palantir would continue to engage with governments around the world for counterterrorism and law enforcement purposes, no matter the kind of flack it drew from civil society and public in general.
+
+“ We have chosen sides . Our software is used by the United States and its allies in Europe and around the world. Some companies work with the United States as well its adversaries. We do not. We believe that our government and commercial customers value this clarity.” — from Palantir’s S-1 filing (emphasis original)
+
+No business with China on the horizon: Even though the filing states that the company will not work with US’ non-allies, it did not specify any countries or regions except China. “Our leadership believes that working with the Chinese communist party is inconsistent with our culture and mission. We do not consider any sales opportunities with the Chinese communist party, do not host our platforms in China, and impose limitations on access to our platforms in China in order to protect our intellectual property, to promote respect for and defend privacy and civil liberties protections, and to promote data security,” it said.
+
+Karps’s letter acknowledged that “the construction of software platforms that enable more effective surveillance by the state of its adversaries or that assist soldiers in executing attacks raises countless issues, involving the points of tension and tradeoffs between our collective security and individual privacy, the power of machines, and the types of lives we both want to and should lead”, but said that the “more fundamental issue is where authority to resolve such questions — to decide how technology may be used and by whom — should reside”.
+
+In a scathing criticism of the Silicon Valley, Karp wrote that the “engineering elite of Silicon Valley may know more than most about building software. But they do not know more about how society should be organized or what justice requires”.
+
+However, at another point in the letter, he wrote that the “alignment of interests between our employees and our company, and between our company and our customers, is one of the principal reasons we have come as far as we have”, suggesting that the interests of customers and employees are paramount, not the society’s at large. That casts a pallor over claims of knowing what justice requires.
+
+Karp made it clear that Palantir, despite being founded in Silicon Valley, doesn’t share the technology sector’s “values and commitments”. The company, as per Karp, does not “sell, collect, or mine data”. He castigated companies that are “built on advertising dollars” while “software projects with our nation’s defense and intelligence agencies, whose missions are to keep us safe, have become controversial”.
+
+In December 2019, Palantir had picked up Project Maven, the controversial unmanned drone programme from the Pentagon that Google had refused to renew earlier that year after facing push back from employees. In March 2017, the Intercept had reported that Palantir had created a new intelligence system, Investigative Case Management (ICM), which was used to deport “illegal” immigrants from the United States under President Donald Trump’s executive orders, as well as to separate “illegal” immigrant children from their parents.
+
+In June 2020, the British National Health Service (NHS) gave the company access to sensitive personal data of patients, employees and citizens during the COVID-19 pandemic. Information shared included religious and political affiliations along with past criminal offences.
+
+And if all that was not enough, a few Palantir employees were also involved in helping Cambridge Analytica develop the psychographic models that were eventually used to target Facebook users on behalf of the then presidential candidate Donald Trump, Christopher Wylie, a Cambridge Analytica co-founder, had told the British Parliament in March 2018.
+
+Gotham (released in 2008) and Foundry (released in 2016) create an integrated dataset for the clients such that all the existing silos within a government agency or a company contribute to the entity-specific unified “data asset”. The two platforms “vertically integrate” data across its life cycle, “from raw data in a source system to decisions made at the highest levels of an organization”. While Gotham helps users identify patterns within datasets and is targeted at governments, Foundry is a similar product targeted at private companies. The latter creates a “central operating system for their data”.
+
+Gotham has been used for intelligence analysis, defence operations, mission planning for American and allied governments, and by the US Army. It is also offered to commercial customers, including in the financial services industry who investigate frauds. It identifies patters within datasets, ranging from signals intelligence sources to reports from confidential informants. “Gotham is now used broadly across government functions,” the company has claimed.
+
+Foundry has been used by individual companies and entire industries including energy, transportation, financial services and healthcare. A number of government customers also use Foundry. The filing mentions that a leading auto manufacturer is using the software across its factories in North America to help ensure quality control on the production line, in what could be a possible reference to Fiat Chrysler Automobiles US.
+
+The company and its CEO specified at least thrice in the S-1 filing that their products protect individual privacy and prevent misuse of misinformation; they only integrate data that their clients already have. Its other products include Palantir Cloud subscription, on-premises software and professional services.
+
+Palantir uses computing infrastructure from Amazon Web Services (AWS), Microsoft Azure and other unnamed others to host or operate some or all of certain key platform features or functions of our business, including our cloud-based services (including Palantir Cloud), customer relationship management activities, billing and order management, and financial accounting services.
+
+How the products work? What can they do?
+
+The company took advantage of its “emerging growth company” status as defined in the Jumpstart our Business Startups Act of 2012 (JOBS Act) to present only two years of audited financial statements and related management’s discussion and analysis and reduced disclosures about its executive compensation arrangements, among other things.
+
+The company disclosed that it has incurred losses every year since its founding in 2003 and may “never achieve or maintain profitability”. As it seeks to grow, its operating expenses will continue to rise but because of multiple factors, its revenues may remain especially affected:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

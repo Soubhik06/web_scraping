@@ -1,0 +1,45 @@
+Substack, a creator-focused subscription and publishing platform, has suffered a data breach affecting an unknown number of creators and subscribers on its platform. The company confirmed the incident in an email sent to some of its users.
+
+The issue with data breach notifications like this one from Substack (just now!) is that financial data and passwords are listed as 'not leaked.' Great, now there's just a list of emails paired with phone numbers. In a world of 2FA & SIM swaps, email + phone IS critical data. pic.twitter.com/SUtK7h7qvM
+
+According to the email, Substack identified evidence on February 3 that an alleged third party had exploited an unspecified flaw in its systems to gain access to users’ email addresses, phone numbers, and “other internal metadata.” Substack revealed that the data breach occurred in October 2025, meaning users’ data may have been exposed for up to four months.
+
+“I’m incredibly sorry this happened. We take our responsibility to protect your data and your privacy seriously, and we came up short here,” Substack Chief Executive Officer (CEO) Chris Best conceded in the email.
+
+However, the publishing platform claims that users’ passwords, credit card numbers, and other financial information remain secure.
+
+Based on Substack’s email, it is unclear what exactly the flaw in its systems was. It remains unclear why the breach went undetected for so long, or whether hackers attempted to contact Substack to demand a ransom.
+
+“We have fixed the problem with our system that allowed this to happen. We are conducting a full investigation and are taking steps to improve our systems and processes to prevent this type of issue from happening in the future,” Best wrote in the email.
+
+Notably, Substack has not issued a public web announcement about the breach, instead notifying users via email. This suggests that the breach may have affected a subset of Substack’s more than 50 million active subscribers, though its full extent is yet to be determined.
+
+That said, the fact that the breach came to light only three days ago raises the possibility that its actual scope could expand as Substack’s investigation continues. A dark web source has claimed that the breach compromised 697,313 records, including Stripe payment system IDs used by creators to receive subscriber payments. These claims, however, remain unconfirmed at the time of writing.
+
+Substack’s email indicates that the breach affects only users with Substack accounts. Individuals who subscribe to a Substack newsletter using only an email address, and do not create an account, should not be affected.
+
+However, the full extent of the compromised data remains unclear. Substack stated that users’ “metadata” was accessed, in addition to email addresses and phone numbers.
+
+In its privacy policy , Substack describes metadata as potentially including user IDs, profile pictures, biographies, and IP addresses, among other information. The exact data involved likely depends on how an individual uses the Substack platform.
+
+This is not the first time Substack has inadvertently exposed users’ email addresses. In July 2020 , the company accidentally revealed user emails by placing them in the “cc” (carbon copy) field instead of the “bcc” (blind carbon copy) field while sending a policy update.
+
+At the time, Substack apologised in a post on X (formerly Twitter), stating: “While we caught the error early, it was too late to retract that first batch (of emails). We are so sorry this happened – and we are aware of the irony.
+
+While we caught the error early, it was too late to retract that first batch. We are so sorry this happened – and we are aware of the irony. This was a genuine mistake, we feel terrible about it, and we will do everything in our power to never repeat it.
+
+“This was a genuine mistake, we feel terrible about it, and we will do everything in our power to never repeat it.”
+
+However, the publishing platform has once again let users down, with the latest breach now reportedly involving leaked phone numbers and metadata in addition to email addresses.
+
+Unsurprisingly, user frustration on social media has been evident following the disclosure. For instance, verified X user (formerly Twitter) Arvid Kahl wrote: “Great, now there’s just a list of emails paired with phone numbers. In a world of 2FA (two-factor authentication) and SIM swaps, email + phone is critical data.”
+
+It also means we should treat emails and phone numbers as data that we should encrypt in our databases. Just like we salt/hash passwords, there should be a best practice to at least encrypt these values with a secret key. Sure, still not fully safe, but it beats plain text.
+
+“It also means we should treat emails and phone numbers as data that we should encrypt in our databases,” Kahl added.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

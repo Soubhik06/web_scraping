@@ -1,0 +1,81 @@
+SUBREDDIT: r/Scams
+TITLE: Got incredibly unlucky with a scam call this morning.
+DATE: 2022-01-10
+SCORE: 84
+URL: https://www.reddit.com/r/Scams/comments/s0o48y/got_incredibly_unlucky_with_a_scam_call_this/
+
+--- POST TEXT ---
+
+Got a (landline) call early this morning purporting to be from BT Openreach about an upgrade to our internet.
+
+Coincidence #1: I had recently looked into upgrading via the MyBT site a few weeks ago.
+
+Coincidence #2: After going through the process, the site had told me I already had the fastest (not very fast) speed possible, but to check back regularly in case they upgraded the local exchange/junction boxes.
+
+Coincidence #3: Literally **as I am on the phone to this guy** a BT van pulls up on the other side of the street and a guy in a white hard-hat unloads a minidigger from a trailer on the back.
+
+It's early, I haven't woken up fully yet, and my brain is telling me that they're calling about likely disruption to the service (which freaks me out because I really need it for work), and so I give them the pin code that my phone buzzes with to 'identify myself as the account holder'.
+
+Final piece of bad luck/me not twigging: my phone only surfaces the last text from a contact, so all I saw was:
+
+"Hello, BT here. Your PIN is: XXXX. You'll only be able to use it once."
+
+And NOT the one before it:
+
+"Hello, BT here. You reset your password for XXXXXXXXXX on 10/01. If you didn't request that, reset it now at..."
+
+So now this guy is bombarding me with my customer ID, date-of-birth, last bill amount (which is of course all legit because he's now in my account), and then he starts telling me that the reason my internet has been slow or dropping is that someone is piggy-backing on it and I need to go install an app to help them fix it. Finally, the alarm bells go off in the ol' noggin.
+
+I say 'thanks, I'll change my router password'. He says that won't work. He tells me to google search "my1p address location", which is where things became truly priceless. The top result is an ip address, and under that it says Mountain View, California, and he's telling me this is where the rest of my internet is going while I'm reading the top result right below which is:
+
+## [SCAM ALERT: IP Location is Mountain View, California](https://www.berserkcomputers.co.uk/blogs/post/scam-alert-ip-location-is-mountain-view-california)
+
+So I read that back to him.
+
+He insists it isn't a scam. He actually says the words: "You don't need to think about this."
+
+I say "It's fine; don't worry, I'm going to hang up and call BT myself, that way I'll know who I'm talking to."
+
+He says there's no point because the people I get through to will only have to put me back through to *his* department and they're too busy to take calls.
+
+I say I'm going to do it anyway, and hang up. I still haven't twigged that I've let him into my account yet, but I'm online looking for the BT number to call.
+
+I get *another* call. This Indian gentleman sounds older than the last one, and presumably had stormed over to an underling's desk to 'show him how it's done' after the last attempt.
+
+He tells me he's calling from BT Openreach. I say I'm about to call them. He says I shouldn't do that. I say I don't care. He yells, and I think I'm repeating this word for word:
+
+"You don't care? I will cut off your internet right now, see if you care about that!"
+
+&lt;click&gt; 
+
+So I called BT, reported what happened, and reset my account password again. Bit irritating that they got my DoB to sell, but I count myself lucky. I suggested to BT that they reword their PIN message to explicitly state what it's for, rather than relying on two separate texts that might not both be surfaced or might appear out of order.
+
+I've since had two followup calls on my mobile, as well, which I've dealt with as follows:
+
+Me: Hello?
+
+Them: Hello, this is 'Roger' from Bt Openreach, calling about the problems you were having earlier.
+
+Me: ....Hello?
+
+Them: Hello? Can you hear me?
+
+Me: Yes.
+
+Them: Hello, this is 'Roger' from Bt Openreach, calling about the problems you were having earlier.
+
+Me: ....Hello?
+
+Them: Hello? Can you hear me?
+
+Me: Yes.
+
+Them: Hello, this is 'Roger' from Bt Openreach, calling about the problems you were having earlier.
+
+Me: ....Hello?
+
+Them: Hello? Are you the account holder?
+
+Me: ...Hello?
+
+Them: We will try calling later on a better line.

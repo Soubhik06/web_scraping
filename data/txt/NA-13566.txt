@@ -1,0 +1,87 @@
+Samsung Electronics held its annual AI Forum 2025 , bringing together Artificial Intelligence (AI) researchers and industry experts to discuss breakthroughs in artificial intelligence, agentic intelligence, and large language models (LLMs). Day 1 was held at Samsung’s The UniverSE campus, while Day 2 took place online via YouTube live streaming.
+
+In the opening keynote address, Kyungwhoon Cheun, corporate president and CTO of Samsung Electronics’ DX Division, focused the discussion on agentic AI. He explained it in two ways: The first, “advanced reasoning capabilities,” refers to the ability to analyze and solve complex problems step by step, transforming AI from a mere imitator into “an autonomous problem solver.” He also said that Samsung is preparing such AI technologies to deliver value to users.
+
+This article highlights key moments and takeaways from the event, including discussions on why LLMs struggle with reasoning and how researchers are working to prevent illegal AI data scraping and the misuse of generative AI.
+
+Joseph Gonzalez, co-director of the Sky Computing Lab at the University of California, Berkeley, discussed sleep-time computing, which enables AI systems to prepare using previous context and chat history even before LLMs are queried.
+
+“For me, agents are AI systems that combine reasoning and tool use to accomplish complex tasks,” Gonzalez said. “At the simplest, we can think of it as an LLM interacting with some software services or systems. Increasingly, it’s also interacting with data technologies through things like RAG (Retrieval-Augmented Generation) to find the right information. As we move forward, we start to think about things like context management systems that manage the memory or context exposed to the model.”
+
+He outlined three new efforts related to AI agents and LLMs during his presentation
+
+Sleep-time computing involves increasing the computational resources available to a large language model (LLM) during inference (when it’s generating a response) to improve its reasoning and performance on complex tasks. To reduce latency and cost, he said that they are using the idea of background inference, where they “anticipate requests and compute useful quantities even before the query arrives” from the users.
+
+He explained that this process is akin to how context is handled by the AI models, especially by moving the information out of long-term and short-term memory, which then pulls the memory facts into working memory as the model completes the tasks through sleep-time computing. Sleep-time compute is an AI technique where a model performs heavy, complex reasoning and inference during its idle periods, rather than in real-time when a user is present.
+
+He says that test and compute can be reduced by 5% without affecting the accuracy; on the contrary, he claims that the accuracy can be increased by 13%.
+
+As an alternative to prompt-engineering, which “requires significant manual effort,” he says that the post-training process, using techniques such as supervised fine-tuning and reinforcement learning, can “augment large language models with new behaviors and knowledge.” He also said that since AI models are sensitive to domain variations, they may also cause mode collapse and reduce the model’s ability to follow instructions or retain general behaviors. For context, mode collapse is a problem in generative AI models when they produce limited or repetitive outputs instead of utilizing the full diversity of the data.
+
+He said that doing this would eliminate the need for prompt engineering as users learn to construct the prompt based on the present state of the conversation. As Gonzalez demonstrated in his presentation, this works similarly to the feedback loop mechanism between an AI agent model and a black-box model, where the model’s decision-making process happens internally.
+
+He said researchers can use sleep-time computing to record past events and process them before future interactions or queries. He also envisioned the potential benefits if they “could capture all of our interactions with the digital and physical world, including emails, messages, audio, and video.”
+
+Subbarao Kambhampati, a professor at Arizona State University, said LLMs can perform external actions through function calls, serving as the main controller of external components in agent-like systems. He compared these setups to web service orchestration frameworks, where users can build their own agents that respond to human prompts.
+
+He noted that safety concerns arise both in the external components and in the prompt-based control of the models. Kambhampati posed a key question: whether LLMs can independently plan and execute tasks fully autonomously?
+
+He emphasizes the planning aspect of LLMs’ reasoning capabilities, because acting without any planning might end up raising serious safety issues. Kambhampati rhetorically asks: Think of leaving a gun lying around in a home with a toddler? He compared LLMs to human cognitive systems. He referred to two systems of human cognitive processes, which were popularized by Daniel Kahneman:
+
+By contrast, Kambhampati said, LLMs function only reflexively, drawing inferences from the “knowledge” of digital traces collected during pretraining on internet-scale data and refined through task-specific fine-tuning. Unlike human cognition, LLMs lack a clear counterpart to System 2, raising questions about whether they can truly engage in deliberative reasoning.
+
+He said that auto-regressive AIs can’t reason, and he further explained that typically planning involves knowledge of actions, preconditions and effects, task-reduction methods, and techniques for resolving or modifying the plans. However, relating to these with LLMs, he explained that AI planning assumes this knowledge is defined in advance and emphasises correctness and verification, while LLMs accept almost any planning problem without guarantees of accuracy. Kambhampati noted that LLMs, trained on vast internet data, show “ approximate omniscience ” that allows them to generate actions and recipes but cannot reliably combine them into consistent, error-free plans.
+
+He concluded by saying that “LLMs are pretty good at planning the knowledge part, but very bad at the interaction resolution part.”
+
+Pascal Hitzler, a professor at Kansas State University, spoke about Knowledge Graphs and the challenges of creating one for LLMs. He explained Knowledge Graphs as a specific type of “specific database expressed as, labeled, directed graph” that structures the information about entities and their relations. These are used in large-scale, multi-source data for various purposes, including aiding AI agents to improve their output.
+
+He pointed out that the main challenge of creating a high-quality knowledge graph is the granularity of the datasets. He hypothesised an example to illustrate: If a “Kansas City” has a “population” relationship with the number “560,32,” the schema would define that a “city” has a “population,” which is a “positive integer.” Hitzler followed with the following questions to explain why this is not as straightforward as it may appear:
+
+He suggested that LLMs can help in creating a well-structured knowledge graph. “ LLMs can act as natural language-based databases and are capable of producing structured outputs, as seen in coding assistance,” he said.
+
+However, he also highlighted the challenges of applying LLMs to such tasks, like “ hallucinations and nonsensical output .” Similarly, he pointed out the massive scale of knowledge graphs as the need for coverage of niche domains where the knowledge of LLMs is very limited.
+
+Stefano Ermon, a professor at Stanford University, spoke about generative images created using AI models, particularly using diffusion models . He differentiated between two types of models in the generative AI space:
+
+Ermon explained that the main challenge is in applying diffusion to discrete data, like textual data, and also lies in its continuous nature, which involves adding noise and gradients to the image. Researchers address this by defining a “noising” process for discrete data that randomly deletes or swaps words, then training a neural network to reverse the process by predicting missing words or correcting errors.
+
+For AI-based text generation, the AI model starts with pure noise, such as masked or random tokens, and iteratively refines it into final coherent sentences. He referred to a 2023 paper to explain the instance when the diffusion model outperformed the traditional autoregressive model.
+
+“So, we had a paper last year where we introduced a method called SAD, a score entropy discrete diffusion model, which is actually really exciting because for the first time we were able to match the quality of an autoregressive model at the GPT-2 scale,” he said.
+
+Ben Y. Zhao, a professor at the University of Chicago, talked about mitigating the harms of adversarial AI tools, and he said that despite the hallucinations and errors, AI is being used for interesting things. However, he also said, “With any technology, misuse and abuse can lead to significant harms. Similarly, for generative AI, the harms are more significant than the use cases.” Additionally, he warned that we must address the potential downsides before deploying large-scale systems.
+
+Zhao warned that the harms of generative AI are already unfolding in real-time, citing examples such as AI-generated spam (a.k.a AI slop) overwhelming the internet, people’s faces and voices being taken without consent for use in models, and the creation of non-consensual sexually explicit images, including those of children. He also pointed to the use of large language models to commit crimes, scams that mimic the voices of loved ones to defraud the elderly, and personalized deepfake models targeting celebrities and public figures, most of whom are women, he claims.
+
+To address these AI-generated concerns, he said that they have developed two tools named Glaze and Nightshade.
+
+“We target AI models and say, well, you know, we understand how these AI models work. We are going to confuse them by slightly modifying the images in very subtle ways,” he said.
+
+“Nightshade is a tool that we released for free for artists to use and also for companies because the idea is, you know, this is not something that is a weapon. This is something that’s more like a defense. Artists and companies who want to protect their images can apply this to their own images, and as long as they’re not being trained on,” he said.
+
+Zhao said his team, in collaboration with Samsung Research, is building tools to protect human photos from misuse in abusive applications such as “undressing” apps and personal deepfakes. He also said that his team is working to prevent LLMs from leaking private data, including phone numbers and addresses, that they may have ingested during training.
+
+SangHa Kim, corporate vice president and head of the AI Productivity Team at Samsung Research, said that while AI is being adopted across industries, selecting the right generative model for business needs is still a challenge. Public benchmarks, she said, fail to measure productivity performance in real-world tasks because they test general language ability and abstract reasoning rather than enterprise-specific requirements. She also noted that they suffer from reproducibility problems, data contamination, and a narrow focus on English single-turn tests, making their scores unreliable indicators of how models will perform in real-world applications.
+
+To address those shortcomings, Samsung Research developed TrueBench, a benchmark designed for real business use cases. Kim said it evaluates models against both explicit instructions and implicit requirements such as safety rules, domain conventions, and background assumptions.
+
+“We have visualised all the information, and by checking the category scores, you can see what kind of characteristics the model has. Which model is strong for information, which is strong against hallucination, or for safety? And through the leaderboard, you can measure the multilingual performance for 12 languages,” she added.
+
+Michael S. Brown, vice president and head of the AI Centre in Toronto at Samsung Research, explained that cameras use a series of processing steps, or a “pipeline,” to produce an image, with white balance as one of the most critical. White balance corrects color casts from different light sources to make images appear natural. For context: A color cast is an unwanted overall tint of one color that affects an entire image or scene, making it look unnatural.
+
+Brown said humans perceive consistent colors through a process called color constancy, but cameras cannot adjust automatically. Objects reflect spectra of visible light, and humans process them through three types of cone cells, while cameras approximate color accuracy using sensor filters calibrated in the lab or factory. So, cameras record both an object’s reflectance and the illumination spectrum, so they often require computational correction regarding white balance. Brown said AI can make this correction more effective.
+
+He says that AI can replace the illumination estimation step in the auto white balance process used with trained models. To build these models, researchers have to capture images of scenes containing calibration charts with known white or gray patches. By measuring the color of these patches in the sensor image, they determine the accurate illumination levels. During the training process, they mask the technical charts so the AI can learn to estimate illumination levels from the image itself.
+
+To address this auto white balancing issue, at the Samsung Research Centre, they have developed two methods:
+
+In his talk, Brown said modern smartphones use multiple cameras with different sensors, each with distinct spectral sensitivities. As a result, two cameras capturing the same scene record slightly different colours, and the 3×3 colour transformation matrix needed to align these colours shifts depending on the illumination. He claims that they have done with only 200 parameters.
+
+Brown said the time of day and geolocation serve as strong indicators of likely illumination, since, for example, outdoor sunlight is not a probable light source at midnight. He explained that this approach uses a single camera and enhances the AI model with additional features, such as clock time and geolocation, which the system converts into probabilities of lighting conditions like dawn, sunrise, or dusk.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

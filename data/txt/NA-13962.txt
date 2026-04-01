@@ -1,0 +1,37 @@
+The UIDAI, the government entity which runs the Aadhaar identification project has filed a First Information Report against mobile payment co Qarth technologies and its co-founder Abhinav Srivastava, among others, alleging the app gave out Aadhaar eKYC without permission, reports the Hindu . Qarth was acquired by Ola in March 2016 , and Srivastava told the Hindu that they never used Aadhaar for KYC. KYC refers to the “know your customer”, or personal identification information that companies take from customers. Aadhaar’s eKYC is a norm which allows for digitally sharing this information.
+
+A few things to note here:
+
+1. Qarth is no longer operational: Even their domain name Qarth.in has expired . We couldn’t find the payment app XPay on the Google Play store . It’s not clear whether this refers to another app that Srivastava was launching, or is specific to something that Qarth had done in the past. At the time that it was operational, XPay used to let users transfer money via IMPS, and had no linkage with Aadhaar or AEPS.
+
+2. What was the problem again? How is it, as the UIDAI has alleged, that someone was able to access the eKYC without permission? A report in the New Indian Express says that there was a fault with the National Informatics Centre (NIC), while one in the Deccan Chronicle says that the FIR also named AUA’s and KUA’s which shared their license key with Qarth. DC quotes Ashok Lenin, Deputy Director with the UIDAI, as saying that “the AUA and KUA were told not to allow any other agencies to perform authentication by sharing their licence key.” AUA refers to “Authentication User Agency”, agencies which are authorised to access the Aadhaar API (which allow access to Aadhaar features through software functions), and KUA’s are KYC User Agency. There’s a useful guide explaining how things work, here .
+
+3. Which app? FactorDaily adds that the app was called “Aadhaar e-KYC Verification”. Deccan Chronicle says it was called “mygov aadhaar e-kyc”. We couldn’t find either app on the Play Store.
+
+4. How long? The Times of India reports that the unauthorised data access began on the 1st of January 2017, and continued till the 26th of July. The fact that data was accessible for this long, and it went on for this long undetected is something that the UIDAI ought to be held responsible for.
+
+5. Which sections has the FIR been registered under? According to reports, the FIR was registered under the following sections of the Aadhaar Act:
+
+Section 37: “Whoever, intentionally discloses, transmits, copies or otherwise disseminates any identity information collected in the course of enrolment or authentication to any person not authorised under this Act or regulations made thereunder or in contravention of any agreement or arrangement entered into pursuant to the provisions of this Act, shall be punishable with imprisonment for a term which may extend to three years or with a fine which may extend to ten thousand rupees or, in the case of a company, with a fine which may extend to one lakh rupees or with both.”
+
+Section 38 : “Whoever, not being authorised by the Authority, intentionally,— (a) accesses or secures access to the Central Identities Data Repository; (b) downloads, copies or extracts any data from the Central Identities Data Repository or stored in any removable storage medium; (c) introduces or causes to be introduced any virus or other computer contaminant in the Central Identities Data Repository; (d) damages or causes to be damaged the data in the Central Identities Data Repository; (e) disrupts or causes disruption of the access to the Central Identities Data Repository; (f) denies or causes a denial of access to any person who is authorised to access the Central Identities Data Repository; (g) reveals any information in contravention of sub-section (5) of section 28, or shares, uses or displays information in contravention of section 29 or assists any person in any of the aforementioned acts; (h) destroys, deletes or alters any information stored in any removable storage media or in the Central Identities Data Repository or diminishes its value or utility or affects it injuriously by any means; or (i) steals, conceals, destroys or alters or causes any person to steal, conceal, destroy or alter any computer source code used by the Authority with an intention to cause damage,
+
+shall be punishable with imprisonment for a term which may extend to three years and shall also be liable to a fine which shall not be less than ten lakh rupees.
+
+Section 29 (2) : “The identity information, other than core biometric information, collected or created under this Act may be shared only in accordance with the provisions of this Act and in such manner as may be specified by regulations.”
+
+And the following sections of the IT Act:
+
+Section 65: “Tampering with computer source documents.-Whoever knowingly or intentionally conceals, destroys or alters or intentionally or knowingly causes another to conceal, destroy, or alter any computer source code used for a computer, computer programme, computer system or computer network, when the computer source code is required to be kept or maintained by law for the time being in force, shall be punishable with imprisonment up to three years, or with fine which may extend up to two lakh rupees, or with both. Explanation.–For the purposes of this section, “computer source code” means the listing of programmes, computer commands, design and layout and programme analysis of computer resource in any form.”
+
+Section 66: Computer related offences. -If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both. Explanation. -For the purposes of this section,- (a) the word “dishonestly” shall have the meaning assigned to it in section 24 of the Indian Penal Code (45 of 1860); (b) the word “fraudulently” shall have the meaning assigned to it in section 25 of the Indian Penal Code (45 of 1860).]
+
+As we’ve said in the past, Aadhaar is too brittle a system for it to not be at risk: the amount of data collected, the amount made accessible, and the apparent lack of monitoring of where it’s going is something that the government of India ought to answer for. In fact, in Parliament, IT Minister Ravi Shankar Prasad had said that the UIDAI reports to him, and he’s responsible for its functioning. He has a lot to answer for here, as does the UIDAI. That they allowed AUA’s and KUA’s to give unauthorised access to eKYC.
+
+Ola has much to answer for as well, if a company it owns was running a product that violated the law. We’ve written to the company requesting comment.
+
+Update: has sent the following statement across, saying: “Ola has neither commissioned nor is involved in any such activity. No such complaint has been brought to our notice.”
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

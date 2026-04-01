@@ -1,0 +1,45 @@
+Airtel has rolled out a network-level system that blocks malicious links across WhatsApp, Telegram, Instagram, email, browsers, and SMS. The feature is auto-enabled for all mobile and broadband users. It is currently live in the Haryana circle.
+
+The system scans internet traffic in real time. Instead of opening flagged websites, the system directs users to a screen that informs them about the reason for blocking the link. According to the company, the system uses data from global threat repositories, banks, and other institutions to block malicious websites sent across apps.
+
+Airtel confirmed to MediaNama that the feature has been in testing for the past six months. It also said the tool has achieved close to 100% accuracy in internal trials, making way for possible wider rollouts in the coming weeks.
+
+Some iPhone users have posted screenshots on X showing their network label changed from “Airtel” to “The Safe Network.” Airtel confirmed to MediaNama that this change is part of the new system’s deployment.
+
+Why is Airtel showing up as The Safe Network? pic.twitter.com/brN2NJKlof
+
+Hello Airtel @airtelindia did you just change your network name from Airtel to:- “The Safe Network” ?? pic.twitter.com/aOsRBRVUli
+
+Why is it showing "the safe network" instead of airtel pic.twitter.com/b7nwDkIVqE
+
+This is not the first time Airtel has tried to block such spam containing malicious links. Earlier in September, the telecom operator launched its AI spam call detection tool, which flagged over 27.5 billion spam calls until April 2025. This was the first step in Airtel’s shift toward AI-led spam prevention.
+
+Airtel expanded the spam detection system last month to issue spam alerts in 10 Indian languages. It also started scanning calls from international numbers. The company said overseas spam calls had risen by 12% over six months.
+
+The new fraud detection tool goes a step further in spam detection as it not only alerts the users about suspicious activity but also blocks malicious websites before they start loading. The system works at the network level, across services not owned or controlled by Airtel.
+
+In February 2025 , the Telecom Regulatory Authority of India (TRAI ) amended its regulations to require AI-based detection of unsolicited commercial communication (UCC) — messages sent without user consent or against stated preferences.
+
+The rules also require telcos to suspend unregistered senders and maintain honeypots in high-spam zones. In addition, telcos must trace and act on message header or template misuse. Telecom companies now have to ensure that all commercial communication passes through registered headers and designated number series.
+
+TRAI also empowered telcos to blacklist repeat offenders and disconnect services in cases of misuse. The regulator can also impose financial penalties if it finds that a telco has failed to take sufficient action against spammers.
+
+Although these requirements focus on calls and SMS, Airtel’s link-blocking system may reflect a broader interpretation. As spam shifts from messages to web links, network-level blocking becomes a way to stay ahead of fraud.
+
+MediaNama asked Airtel how its system determines a malicious website and how it operates on encrypted messaging platforms like WhatsApp. We also enquired about users’ data retention and if users can appeal against blocked links.
+
+In response, Airtel said the tool uses an advanced platform to detect and block malicious links across SMS, browsers, and encrypted platforms like WhatsApp and Telegram. It assigns a spam score to each website based on internal signals and threat intelligence from sources such as global repositories and banks. If the score is high, the system blocks the site before it loads.
+
+Regarding MediaNama’s question on the retention of browsing activity or access logs, Airtel revealed that the tool operates entirely on AI and does not log or store any user-level data. The company also confirmed that a grievance mechanism exists for users to report incorrect blocks. However, it did not provide details on how complaints are handled, what timelines apply, or what kind of resolution users can expect.
+
+Airtel’s system is auto-enabled and works at the network level, blocking access to flagged websites across apps and platforms, including encrypted messaging services. The company says it can detect threats even in end-to-end encrypted messages. However, it has not explained how the system identifies links in such environments without accessing message content.
+
+Airtel has been transparent with MediaNama about the system’s overall design, including its use of spam scores, AI-based detection, and the absence of user-level data logging. Even so, several operational details remain unclear. The company has not said what kinds of signals the tool relies on (for example, metadata or link previews) or whether more advanced methods such as Deep Packet Inspection (DPI) are involved.
+
+The company has also not published documentation on how the spam score is calculated, what classes of links are typically flagged, or how its grievance mechanism works in practice.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

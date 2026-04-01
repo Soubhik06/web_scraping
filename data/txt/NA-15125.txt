@@ -1,0 +1,25 @@
+A packet of data was reportedly hacked from Tata Powers servers by Hive, a ransomware gang, and then leaked on the dark web on October 25, 2022, reported Hindustan Times . This data includes bank accounts of the company, bank statements and details of its employees including their remuneration and passport information, said HT that viewed samples of the leaked data. Further, details of the batteries used by Tata Power and diagrams of some of their grids was also leaked.
+
+As per the report, the company on October 14 disclosed that its Information Technology infrastructure was hit by a cyberattack and some of its systems were affected as a result. The gang that claimed the cyberattack by releasing the data on dark web forum.
+
+Why it matters: Verizon in June of this year reported a consistent year-on-year increase in ransomware usage and exploitation of “the human element.” The report found that the finance, information and professional services sectors in Asia, Europe and North America have seen the most number of confirmed breaches. Moreover, in India the Ministry of Home Affairs reported 12 lakh such attacks in 2020. Such attacks can lead to huge financial losses, while grossly violating data and privacy rights.
+
+Hive ranked as the top three ransomware threats: Speaking to cyber experts, HT said Hive is among the top three ransomware threats, known to target sectors like energy, healthcare, financial services, media, and education, with other ransomware affiliates. Further, it said the company in a Bombay Stock Exchange filing said all critical operational systems were functioning and it had “taken steps to retrieve and restore its systems.”
+
+According to HT, negotiations between Hive and Tata Power broke down after 10 days of talk following which the gang began releasing the data into the dark web late around 6.30 am IST on Tuesday.
+
+Cybersecurity experts call it a serious breach: HT spoke to Dominic Alvieri, Philadelphia-based cybersecurity analyst who said it seemed as though every Tata bank account and October balance were released by Hive. Moreover, a partial bank account list and Tata Power’s Excel spreadsheet for September, employee passports and emails and various contracts are also a part of this data.
+
+Similarly, Maheswaran Shamugasundaram, country manager India, Varonis Systems, a NASDAQ-listed data security and analyst firm listed more data that could have been leaked like Aadhar numbers, PAN numbers, salary details, address information, phone numbers etc as well as engineering drawings, financial and banking records, client records and private keys. Shamugasundaram said this reiterated that organizations need to know where their critical data is stored and ensure they are adequately monitored and protected using data-centric zero-trust strategy.
+
+Potential harm to national security? Meanwhile, Harshil Doshi, country manager (India and SAARC), Securonix, a cyber security and threat detection firm said the scale of breach and potential for exploitation of citizens’ data is concerning.
+
+“Vulnerabilities to critical infrastructure can be exploited to harm India by both State and non-State actors, especially from a social engineering standpoint. To prevent such exploits, organisations will need to embrace futuristic solutions that use artificial intelligence and machine learning to predict threats, like a nationwide cyber defence centre to monitor critical infrastructure 24X7,” he told HT.
+
+According to Ritesh Bhatia, cyber expert, organisations should not upload such sensitive data on cloud-based servers.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

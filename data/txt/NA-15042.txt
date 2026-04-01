@@ -1,0 +1,39 @@
+The official Twitter handle of UIDAI has posted a series of tweets as a press statement categorically denying reports of the ECMP Aadhaar Enrolment Software being tampered and sold in underground markets. The tweets of the press release, edited lightly into readable paragraphs are as follows:
+
+Press Statement : UIDAI completely dismisses few reports in social media and online news channels about Aadhaar Enrolment Software being allegedly tampered and sold for some money in underground market which purportedly bypasses operators biometric authentication and facilitates making of Aadhaar cards without any documents, as totally baseless, false, misleading, and irresponsible.
+
+As part of our stringent enrolment and updation process, UIDAI matches all the biometric (10 fingerprints and both iris) of a resident enrolling for Aadhaar with the biometrics of all Aadhaar holders before issuing an Aadhaar. No operator can make or update Aadhaar unless resident himself or herself give his or her biometric. Any enrolment or update request is processed only after biometric of resident is authenticated.
+
+Also, before processing of the enrolment or update as stated above, enrolment operator’s biometric and other parameters are checked and only after all checks are found to be successful, enrolment or update of resident is further processed. Some of the checks include biometric check of operator, validity of operator, enrolment machine, enrolment agency, registrar, etc. which are verified at UIDAI’s backend system before further processing is done.
+
+In cases where, any of the checks fails, the enrolment request gets rejected and action against such operator is taken.
+
+Presuming, if at all, by some manipulation attempt at the operator’s end, essential parameters such as operator’s biometrics or resident’s biometrics are not captured and enrolment/update packet is sent to UIDAI, the same is identified by the backend system of UIDAI, and all such enrolment packets get rejected and no Aadhaar is generated. The concerned enrolment machines and the operators are identified, blocked and blacklisted permanently from UIDAI system. In appropriate case, police complaints are also filed for such fraudulent attempts.
+
+We have zero tolerance policy in all our processes including security & safety. All such operators who are found to be violating processes or who indulge in any type of fraudulent or corrupt practices, we blacklist them & impose financial penalty upto Rs. 1 lakh per instance. Also, all such enrolment attempts get rejected and Aadhaar is not generated. As on date, more that 50,000 operators have been blacklisted.
+
+We keep adding new security features in our system as required from time to time to take care of the new security threats by unscrupulous elements. It is assured that Aadhaar system is completely safe and secure.
+
+People are advise to stay away from unauthorized centres and approach only authorized Aadhaar enrolment centres in bank branches, post offices and  Government offices (list of which is published on UIDAI website ). This will ensure that their enrolment/updation is done only on the authorized machines and their efforts do not get wasted as rejected enrolment/updation.
+
+The UIDAI denial is not unexpected. Regardless of vulnerabilities reported, the UIDAI has not publicly acknowledged any vulnerability in the Aadhaar system so far. This includes denial of misuse of Aadhaar, even as it has instructed banks to be vigilant on Aadhaar and do e-KYC authentications in person and issue OTP only in the presence of the customer .
+
+The UIDAI describes how the software normally operates, including “biometric check of operator, validity of operator, enrolment machine, enrolment agency, registrar, etc.” However, the Asia Times report clearly states that the cracked software comes preconfigured with valid details of operators’ biometric and user details, so a person using it would appear to be a valid operator to the UIDAI server.
+
+The UIDAI press release presumes that manipulation at the operator’s end would result in operator’s or resident’s biometrics not being captured, causing the data to be rejected by the server. However, if the Asia Times report is correct, the data sent would contain valid information of an operator (not the real purchaser of the software) and whoever’s Aadhaar details they were creating or updating. There would be no reason for the server to reject the data for missing information.
+
+Nothing in the UIDAI press release describes why the hack described by Asia Times would not be possible.
+
+In fact, the Press release raises a further question of whether legitimate operators were removed from service because their credentials got misused.
+
+The UIDAI, in the press release denies that it is possible to bypass operator biometrics. However, when it restructured its penalty structure to impose a fine of Rs. 1 lakh on VLEs per enrolment center found to be bypassing biometrics (mentioned in their press release) last year, this was the reason provided in the OM issued by the UIDAI on the 20th June, 2017 “ Due to various cases of bypassing the operator biometric capture being reported , UIDAI has decided to impose a penalty of Rs 1,00,000 per enrolment station found to be bypassing the operator biometric.” (Emphasis by MediaNama)
+
+Clearly, not only is bypassing operator biometrics possible, but it is also clear that the UIDAI is aware of the problem and increased the penalty in view of the prevalence.
+
+The UIDAI has also filed FIRs against “unknown people” for bypassing biometrics, as seen here:
+
+Therefore, it is very hard to believe UIDAI denials of security vulnerabilities, because it is a default response, regardless of the truth in the matter, even as stated by the UIDAI itself.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

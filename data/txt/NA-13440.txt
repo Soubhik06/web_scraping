@@ -1,0 +1,41 @@
+The introduction of biometric authentication for card-based transactions marks a pivotal shift in Indiaâs digital payments landscape. Users will now have the option to authenticate transactions using fingerprints or facial recognition on their devices, eliminating the need to manually enter a personal identification number (PIN).
+
+However, biometric authentication systems are prone to several vulnerabilities. Case in point: the National Payments Corporation of India (NPCI) launched the Aadhaar-based payments system back in 2011, which relies on biometrics to authenticate transactions. As per data from the Indian Cyber Crime Coordination Centre (I4C) , a cybercrime wing under the Ministry of Home Affairs, Aadhaar-enabled Payment System (AePS) accounted for 11% of cybercrimes in finance in 2023.
+
+While the government and fintech companies such as Razorpay are increasingly advocating for the use of biometric authentication with the promise of enhanced security, collecting and storing biometric data raises significant privacy concerns. Biometric data is highly personal and sensitive; unauthorised access to this data can result in identity theft and financial fraud.
+
+Furthermore, thereâs a risk of function creep , where biometric data collected for a particular purpose is later used for unrelated activities without the individualâs consent. If such function creep occurs in surveillance contexts, within government or for-profit organisations, it could have far-reaching ethical and legal implications.
+
+Another major challenge is that biometric data needs to be regularly updated by the Unique Identification Authority of India (UIDAI) to maintain accuracy, prevent identity fraud, and ensure continued access to payment services. Physical changes due to aging or injury can alter an individualâs biometric identifiers such as fingerprints and facial features.
+
+IPO-bound fintech company Razorpay has rolled out biometric authentication for card payments, eliminating the need for one-time passwords (OTPs). The feature, launched in partnership with YES Bank, was announced by Razorpay Chief Executive Officer (CEO) Harshil Mathur at the Global Fintech Fest 2025.
+
+Explaining the rationale behind the move, Mathur said that card payments traditionally required entering an OTP or PIN, but delays and network issues often led to transaction failures. âOne challenge with OTP is that it sometimes does not arrive on time. Sometimes the network does not work. There is dependency and lag, due to which approximately 5â10% of transactions fail because of OTP verification,â ANI quoted him as saying.
+
+The rollout comes against the backdrop of the Reserve Bank of Indiaâs (Authentication Mechanisms for Digital Payment Transactions) Directions, 2025 , released last month. The revised norms make two-factor authentication (2FA) mandatory for all digital payments and encourage the use of alternatives to the widely used SMS-based OTP system.
+
+All payment system providers and participants, including banks and non-bank entities, are required to comply with the RBIâs new directions by April 1, 2026.
+
+All digital payment transactions across UPI, cards, wallets, net banking, account transfers, NEFT, and IMPS, among others, will be required to undergo 2FA. The factors of authentication can be derived from:
+
+While the RBI did not mandate 2FA or a specific factor earlier, most finance apps have relied on SMS-based OTPs as the second factor. Now, the RBI wants the payments ecosystem to leverage emerging technologies such as biometrics, app-based tokens, and device-native authentication methods.
+
+For instance, the first factor may comprise something user-related, such as a password, PIN, card, or biometrics, while the second must be dynamically generated or proven, such as OTPs, push notifications, or authenticator apps.
+
+It is worth noting that small-value contactless card transactions, certain prepaid payment instrument (PPI) transactions, PPI gift cards, National Electronic Toll Collection, and travel bookings made on global distribution systems by International Air Transport Association-approved entities will remain exempt from the new directions.
+
+The RBIâs new norms, and by extension, Razorpayâs biometric payment authentication feature, aim to mitigate fraud risks and establish a more resilient authentication framework across the digital payments ecosystem.
+
+In India, 35% of payment failures occur due to issues such as delayed or incorrect OTPs, according to Razorpay. At the same time, digital payment fraud is on the rise, with losses exceeding Rs 520 crore in the financial year ended March 2025, as per data from the Reserve Bank of India (RBI).
+
+The move also marks a structural shift in Indiaâs financial sector. With the Digital Personal Data Protection (DPDP) Act set to come into force, privacy-by-design is now a regulatory necessity. The responsibility lies with industry players to embed it in every layer of their authentication frameworks. Additionally, biometric authentication is expected to strengthen checks and balances for payment system operators, making digital transactions more secure and reliable.
+
+Earlier this week, UIDAI also advocated for the use of the Aadhaar biometric database for face authentication to process high-value financial transactions.
+
+However, as we pointed out earlier, Aadhaar-based or biometric authentication systems pose several financial and privacy risks. If biometric data is compromised, victims will be susceptible to long-term threats, as hackers can use stolen fingerprints or facial templates indefinitely for unauthorised transactions and identity theft. The lack of a âresetâ option for biometrics leaves users with little recourse against such breaches.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

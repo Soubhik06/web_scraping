@@ -1,0 +1,95 @@
+SUBREDDIT: r/india
+TITLE: IFF explains: An Election Commission vulnerability that could expose your phone number!
+DATE: 2022-01-15
+SCORE: 166
+URL: https://www.reddit.com/r/india/comments/s4h764/iff_explains_an_election_commission_vulnerability/
+
+--- POST TEXT ---
+
+# 
+
+[IFF needs your support, now more than ever. Details at the end of this post. ](https://preview.redd.it/qwk0c01trtb81.png?width=1600&amp;format=png&amp;auto=webp&amp;s=3fdf8ab0640d1d684c5d565ed4232f2661561378)
+
+# tl;dr
+
+On December 15th, 2021, CERT-IN reached out to the Election Commission of India (ECI) IT team, which patched a vulnerability in the ECI’s National Voters Service Portal website that allowed access to unredacted, registered phone numbers of voters. Though this was fixed, awareness about the issue and its consequences are limited. Keeping that in mind, IFF, along with Sai Krishna Kothapalli, the independent researcher who came across this technical snag, attempt to provide you with a background of the issue, explain the loopholes that caused this vulnerability and elaborate on the consequences of privacy breach of citizens.
+
+# Background
+
+On December 16th, 2021, news media reports indicated a vulnerability in the National Voters Service Portal ([NVSP](https://www.nvsp.in/)) that allowed access to registered voters’ phone numbers. This critical vulnerability was discovered by Sai Krishna Kothapalli, founder/ CEO of Hackrew, a Hyderabad based cybersecurity firm. He discovered this vulnerability while downloading his e-EPIC (Electoral Photo Identity Card) from the NVSP.
+
+On October 22, 2021, when Mr. Kothapalli first discovered this, he sent a vulnerability submission to [CERT-IN](https://www.cert-in.org.in/) (Indian Computer Emergency Response Team), which is the national nodal agency for responding to computer security incidents as and when they occur. Despite a 72-working hour deadline for acknowledging the vulnerability as stated in the CERT-IN website, they responded to Mr. Kothapalli after 46 days, on 7th December, 2021, informing that they were in touch with concerned authorities to take required action. They reached out to him again on 15th December, confirming that the vulnerability had been fixed, probably sometime in the preceding week.
+
+“The plugging of the loophole has not only prevented a major data leak — exposing the personal mobile phone numbers of several crores of voters across the country — but averted a possible scam during the process of elections. By accessing a mobile number, and using another [vulnerability](https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9) I found, we can send an SMS that will appear as if it came from credible Government IDs. For instance, we can send a message to a voter giving some misleading information that could deprive him/her of casting the vote. So one can imagine this on a larger scale, impacting crores of votes across India,” said Mr. Kothapalli.
+
+# Loopholes Explained
+
+Though information published on electoral rolls, which is already publicly available, can’t lead to any harm by itself, access to registered phone numbers linked with voter databases could have disastrous consequences. Mr. Kothapalli, in his [blog](https://kmskrishna.me/leaking-personal-phone-numbers-of-all-registered-indian-voters-fc47375af43d), has explained extensively how anyone with a little bit of technical know-how can access anyone’s personal phone numbers associated with voter IDs.
+
+https://preview.redd.it/vlc0wi6vrtb81.png?width=700&amp;format=png&amp;auto=webp&amp;s=4ffb68a49c10cb69dc4aa6cd1b30a2971c509507
+
+Source: [**How I Could Leak Personal Phone Numbers of All Registered Indian Voters’: Sai Krishna Kothapalli**](https://kmskrishna.me/leaking-personal-phone-numbers-of-all-registered-indian-voters-fc47375af43d)
+
+What’s interesting to note is that to do so, the only information required is the EPIC number and State name. Upon entering this information, one is able to view information such as Name, Father’s Name, State, Constituency, Mobile No, and Email ID. As shown in the image above, the mobile number and email ID information is redacted/ censored. The vulnerability gets exposed in the next step, when the system sends an OTP to the registered mobile number. The response sent to the browser (as shown in the images below) includes the voter’s unredacted phone number.
+
+&amp;#x200B;
+
+https://preview.redd.it/xngjb179stb81.png?width=1564&amp;format=png&amp;auto=webp&amp;s=425b61b173749f03c035fa55bd9f20e64374f408
+
+https://preview.redd.it/xqhpq1z9stb81.png?width=1280&amp;format=png&amp;auto=webp&amp;s=9af9c805d9ce1c3822fa505ad4e2e737b3c36e47
+
+**Source:** [**How I Could Leak Personal Phone Numbers of All Registered Indian Voters’: Sai Krishna Kothapalli**](https://kmskrishna.me/leaking-personal-phone-numbers-of-all-registered-indian-voters-fc47375af43d)
+
+EPIC numbers are publicly available on electoral rolls published by the Election Commission of India (ECI) during elections. Thus, one would simply need to write a simple script to get access to the unredacted personal phone number of every voter in a particular constituency. Though voters could be targeted by other means, both specifically and randomly, the process is very cumbersome and time taking.
+
+Combining this leaked information with the earlier mentioned loophole, which allows sending bulk text messages using credible government IDs such as “HPGOVT” or “ECISMS”, will inevitably lead to manipulation of elections, threatening the integrity of the electoral process. The scope of such breach is terrifying, especially considering that these messages are sent using credible sender IDs reserved by government and private organisations. “This is so far the most dangerous and highly effective way you can abuse this loophole. Huge sections of the country can be targeted in election-related scams this way, potentially rendering crores of individual voices meaningless”, added Mr. Kothapalli.
+
+&amp;#x200B;
+
+https://preview.redd.it/mepcht6cstb81.png?width=1506&amp;format=png&amp;auto=webp&amp;s=ed159a559355976f773d9b3e79de64a6a1d9232a
+
+Source: [**Electoral roll from Vishakapatnam East**](https://ceoaperolls.ap.gov.in/AP_Eroll/Popuppage?partNumber=1&amp;roll=EnglishMotherRoll&amp;districtName=DIST_03&amp;acname=21&amp;acnameeng=A21&amp;acno=21&amp;acnameurdu=021)‌ ‌
+
+[IFF](https://internetfreedom.in/dont-penalise-cybersecurity-researchers/#) had previously [written](https://drive.google.com/file/d/1mmiJWnxJL3wHJ_fzlcfGCgreSApTyUNu/view) to the CERT-IN pointing out a problematic [provision](https://www.cert-in.org.in/RVDCP.jsp) in their new Responsible Vulnerability Disclosure and Coordination Policy that penalises cybersecurity researchers for vulnerability disclosures, inhibiting voluntary disclosures by researchers. We had recommended that this clause of the Policy be amended, and that an explicit provision for protection of genuine security disclosures from vexatious legal claims and proceedings be specified.
+
+CERT-In [responded](https://drive.google.com/file/d/1cejTBwl2W4ZePIkBnQcBYISbucz6FIED/view) to our representation explaining that the Policy is an executive decision and thus must follow the existing provisions of the law. In light of this, we [wrote](https://drive.google.com/file/d/1gHq1fem8aG1vCGr4N2u1XwEmEqWi1IzM/view) to MeitY, asking them to amend the [Information Technology Act](https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMjk4NzY=), 2000 to provide a safe harbour for genuine security researchers. The [fact](https://internetfreedom.in/over-to-you-meity/) that several data breaches are not discovered and/or disclosed by the data fiduciaries but rather by independent digital security researchers, it is imperative that robust vulnerability reporting mechanisms protect vulnerability researchers from harm.
+
+# Consequences
+
+The above screenshots provided by Mr. Kothapalli proves that such a vulnerability exists and it could be misused by political organisations with ulterior motives, affecting lakhs and crores of voters. The fact that such misinformation could be spread using credible government IDs and that sensitive personal information was being leaked on official government websites is even more cause for concern. Another such concern was flagged by [media outlets](https://www.thehindu.com/news/national/data-breaches-expose-emails-passwords-of-several-government-officials-to-hackers/article34798982.ece), around June last year, when hundreds of emails and passwords of Union government officials were leaked due data breaches by Air India, Domino’s and Big Basket. These leaked emails on government domains such as u/nic.in and u/gov.in were used by hackers to send malicious emails, targeted towards government employees.
+
+In March 2021, [news outlets](https://article-14.com/post/govt-has-cleared-linking-of-aadhaar-voter-data-past-experience-reveals-how-it-can-be-manipulated-61c937a621c09) reported that the Bharatiya Janata Party (BJP) launched a data driven campaign in Puducherry, sending bulk text messages to prospective supporters, a month before elections. A. Anand, a political activist from the union territory, filed a PIL in the Madras High Court, alleging that only mobile numbers linked to Aadhaar received such text messages, indicating BJP’s access to personal information of voters. Though the BJP denied these allegations, the Madras High Court upheld the allegation as ‘credible’.
+
+In a similar case two years ago, a raid conducted by the special investigation team of the Telangana Police revealed that IT Grids (India) Pvt Ltd, a Hyderabad-based private company, built a mobile application for the then incumbent Telugu Desam Party (TDP) in Andhra Pradesh, using their illegal access to information about “stolen” voter details and Aadhaar data of around 78 million residents of Andhra Pradesh and Telangana. This leak was further [confirmed](https://www.thenewsminute.com/article/it-grids-row-uidai-accuses-company-hired-tdp-stealing-7-crore-aadhaar-numbers-100007) by the Unique Identification Authority of India (UIDAI). Moreover, during elections in the two states around that time, 5.5 million voters, who had linked their Aadhaar with voter ids, were deleted from the electoral roll.
+
+The recent [Election Laws (Amendment) Bill 2021](http://164.100.47.4/BillsTexts/LSBillTexts/Asintroduced/162_2021_LS_Eng.pdf), controversially passed in December, which attempts to link Aadhaar with the electoral roll data, broadens the possibility of election manipulation through voter profiling and targeting, predicting voting trends and choices, deleting inconvenient voters from the electoral roll and sending bulk messages to prospective voters. The rise of cybersecurity threats around government websites stress the need for data security and cyber safety training.
+
+# An unsatisfactory response from NIC
+
+In view of the data breaches and vulnerabilities on government websites leaking personally identifiable information of citizens, putting them at risk, we filed a [request for information](https://drive.google.com/file/d/1TLS5KOzeeKs5qgpSiTuIuOsiJVXRncaZ/view) with the National Informatics Center (NIC), Ministry of Electronics and Information Technology, Government of India. In our request, we asked for details and information on the government websites developed and currently managed by NIC. We also asked the PIO to share information on the security audits carried out in the previous six months, in accordance with NIC’ own website security guidelines.
+
+It is shocking to note that the [response](https://drive.google.com/file/d/1v7DfXQ62u82_hy07QzHZILsh7oT1sWRj/view) notes that there is no “compilation available on record with NIC” and that “the maintenance and content of the websites are the responsibility of the individual departments or states or districts or projects.”
+
+The response is problematic for several reasons:
+
+1. NIC has stated that the security of government websites is tasked with the departments or ministries, even though security is a listed service. This is worrisome as here the capacity for cyber security may not exist independently.
+2. Moreover, it is in clear dereliction of the Clause 1 of the [website security guidelines](https://nic-cert.nic.in/pdf/Website%20Security%20Guidelines.pdf) which covers all NIC employees, temporary/contractual staffs, vendors, third party personnel, central and state government employees and other stakeholders who are involved in website/ application – development, administration, management; and mandates them to “ensure that the website is security audited and an audit clearance certificate is issued by a CERT-IN empaneled vendor before hosting in production environment”.
+3. Additionally, several union ministries’ websites clearly display ‘managed by NIC’ banners in the footnotes, therefore, to claim that the maintenance of websites is the responsibility of individual departments is misleading.
+
+After receiving this incomplete and false response, we’ve filed a [first appeal](https://drive.google.com/file/d/1IN5SzK0FgNOF6kRKVQ7tM-Iw17h8QO9t/view) with the appellate authority again reiterating our request for a list of websites managed by NIC. In the coming days, we also plan to send a representation to the Ministry of Electronics and Information Technology with our recommendations on strengthening India’s cyberspace and closing vulnerability loopholes.
+
+# Important documents
+
+1. Reply on RTI to National Informatics Centre **(**[link](https://drive.google.com/file/d/1v7DfXQ62u82_hy07QzHZILsh7oT1sWRj/view)**)**
+2. The Election Laws (Amendment) Bill 2021 ([link](http://164.100.47.4/BillsTexts/LSBillTexts/Asintroduced/162_2021_LS_Eng.pdf))
+3. NIC- Computer Emergency Response Team (CERT) Website Security Guidelines ([link](https://nic-cert.nic.in/pdf/Website%20Security%20Guidelines.pdf))
+4. CERT-IN’s Responsible Vulnerability Disclosure and Coordination Policy ([**link**](https://www.cert-in.org.in/RVDCP.jsp))
+5. IFF’s representation to CERT-IN regarding ‘CERT-IN’s Responsible Vulnerability Disclosure and Coordination Policy’ ([**link**](https://drive.google.com/file/d/1mmiJWnxJL3wHJ_fzlcfGCgreSApTyUNu/view?usp=sharing))
+6. CERT-In’s response to IFF’s representation dated 26th October 2021 ([**link**](https://drive.google.com/file/d/1cejTBwl2W4ZePIkBnQcBYISbucz6FIED/view?usp=sharing))
+7. IFF’s representation to the Ministry of Electronics and Information Technology ([**link**](https://drive.google.com/file/d/1gHq1fem8aG1vCGr4N2u1XwEmEqWi1IzM/view))
+
+*Note: This blogpost was drafted primarily by Tejasi Panjiar, Capstone fellow hosted at IFF, with the help of Sai Krishna Kothapalli, CEO/ founder of Hackrew.*
+
+&amp;#x200B;
+
+Help us watch the watchmen. Become an [IFF member](https://internetfreedom.in/donate/), join our [growing community on Telegram](https://t.me/joinchat/iZMK2oalbt8xMGI1), or talk to us on the [IFF Forum](https://forum.internetfreedom.in/)!

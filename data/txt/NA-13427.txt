@@ -1,0 +1,89 @@
+India’s digital hiring ecosystem faces growing risks, from fake IDs and duplicate profiles to vehicle compliance failures and even deepfake attempts. With the festive season hiring surging 30–40%, platforms face pressure to onboard quickly while ensuring workers are safe and verified.
+
+In this interview, Ashok Hariharan, CEO and Co-Founder of IDfy, explains how consent management is being implemented, why fragmented verification standards across sectors leave loopholes for fraudsters, and why India’s verification framework is both ahead of the world and at a crossroads. He also warns of the hidden risks for delivery workers when customer behaviour is left unchecked.
+
+Watch the entire interview with IDfy CEO:
+
+Aakriti Bansal, MediaNama: Ashok, IDfy has been chosen by the Ministry of Electronics and Information Technology (MeitY) for consent management. How do you see consent management actually working in practice when it comes to digital verification?
+
+Ashok Hariharan, IDfy: When the onboarding happens on our platform (IDfy), consent is built into the journey itself. Imagine a delivery executive. He scans a QR code, uploads his ID card, a selfie, and address proof, and then he gets a consent page. That page says: we are collecting this data for purposes one, two, and three. He ticks the boxes. That consent is captured, timestamped, immutable, and nobody can go back and change it. Only after that do we (IDfy) do the checks: ID check, selfie-to-ID match, criminal record check, and so on. All this takes about 11 minutes.
+
+And just like you can give consent, you can revoke it. If a worker revokes consent, our system immediately stops verifications, deletes the data, and notifies the client. We (IDfy) built this before the law required it, because it is simply the right thing to do. But honestly, consent is maybe 2% of the overall problem. The bigger challenge is data governance: knowing where data is, how to delete it, how to audit third parties, and how to trace a breach.
+
+Aakriti Bansal: What are the main challenges you see with consent management?
+
+Ashok Hariharan: One, consent fatigue. If you give 25 tick marks, people will just click through. Take consent for what you need upfront, then go back for bite-sized consents later.
+
+Two, purpose limitation. Just because you have collected my ID does not mean you should use it for everything. A gaming app only needs to know I am over 18, not my full address.
+
+Three, revocation and visibility. Can I see what data you hold about me? Who did you share it with? Can I revoke it? For that, all your databases need to be connected to your consent system. You also need strong third-party risk management, because often it is the partner that leaks data, not you. Did it leak from a third party? Was my database hacked? Or did an employee misuse the data? You need to build what I call data lineage, the ability to track where a person’s data flowed and, when a breach happens, know who to inform and how to respond. This goes far beyond consent management. Consent is maybe 2% of the total problem, while the real fines come from data breaches, not from missed consents.
+
+And four, the blue-collar challenge. Many workers are not fluent in English. Consent needs to be in 22 languages today, and tomorrow, maybe even pictorial, using icons and graphics, so people actually understand what they are agreeing to.
+
+Aakriti Bansal: The Department of Telecommunications has proposed biometric verification for SIM cards. Do you see risks in having multiple verification systems run by different ministries?
+
+Ashok Hariharan: Multiple systems are fine, but the process must be unified. Telecom KYC is weaker than banking KYC, and that is why mule accounts exist. If telecom KYC followed the same gold-standard process as banking, fraudsters could not exploit that weak spot.
+
+Aakriti Bansal: The draft rules also talk about repeated re-verification, such as when replacing or upgrading a SIM. How should that be managed?
+
+Ashok Hariharan: People complain about user fatigue. But let us be clear: the real reason for re-verification is fraud. A little inconvenience is fine if it prevents misuse. There was a guy who was found with 10,000 SIM cards. He had used other people’s KYC documents to take over their identities. That is why re-verification matters. Every two or three years, or when your address changes, you should re-check. It protects the ecosystem.
+
+Aakriti Bansal: Stepping back, what are the biggest risks in digital hiring today?
+
+Ashok Hariharan: At onboarding, you need to establish: does this person exist, is the ID real or tampered, is the selfie the same person, are they a deepfake, do they have a criminal record, what is their address, have they been banned before. You also check risky addresses, places with a known history of fraud, and run de-duplication against your own fraud database.
+
+But the checks do not stop at onboarding. You do random liveness checks during the job, is the same worker delivering, and delta checks every six months, because someone who was clean can pick up an FIR later, or their vehicle can get linked to a crime.
+
+Aakriti Bansal: How have fraud risks changed with the rise of gig platforms?
+
+Ashok Hariharan: Five years ago, fraud rates were 2-3%. Now they are 6-7%. And fraudsters are smarter: identity theft, fake documents, deepfakes. Remote onboarding especially makes identity theft easier. The fix is to add deterrents, like a quick video call.
+
+Aakriti Bansal: And what about the festive season hiring?
+
+Ashok Hariharan: Hiring shoots up by 30-40%. Flexi roles like Amazon Flex also rise. With higher volume, fraud goes up by one or two percentage points. Nothing the platform is doing wrong; it is just what happens when you scale quickly.
+
+Aakriti Bansal: What kinds of fraud still slip through?
+
+Ashok Hariharan: If verification is done properly, identity theft, fake IDs, and deepfakes do not pass. The real risk is people who were fine at onboarding but later commit fraud. That is why random checks and repeated verifications matter.
+
+Aakriti Bansal: How common is it for banned workers to return with new IDs?
+
+Ashok Hariharan: With Aadhaar as the anchor, it does not happen. Aadhaar ensures uniqueness. Driver’s licences vary by state, but Aadhaar prevents duplication. Fake IDs and AI-made IDs only get through if the platform is not doing proper verification.
+
+Aakriti Bansal: Moonlighting among delivery workers is common. Do platforms see this as a problem?
+
+Ashok Hariharan: Not at all. Workers just switch hats and bags between Swiggy and Zomato. Platforms know this; they do not mind. That is how flex work is designed.
+
+Aakriti Bansal: Where does AI make the biggest difference in fraud detection?
+
+Ashok Hariharan: Detecting deepfakes, tampered documents, and liveness. We are the only Indian company iBeta-certified for single-photo liveness. No winking, no placards, just one photo. Fraudsters use AI, so verification has to use AI too.
+
+Aakriti Bansal: Can you share an example of where weak verification caused major problems?
+
+Ashok Hariharan: We ran checks on 2,000 ride-sharing vehicles. 7% had serious criminal records, including accidents, deaths, and drug cases. In one case, a car involved in two accidental deaths was still on the road, and my product manager was inside it. Some companies do rigorous checks. Others do almost nothing. That gap is dangerous.
+
+Aakriti Bansal: There has been industry talk of shared fraud lists across platforms. How could that work without hurting privacy?
+
+Ashok Hariharan: A centralised blacklist is risky. Each platform should keep its own fraud database and, with user consent, query others. The Digital Personal Data Protection (DPDP) Act has a carve-out for fraud that allows this. But you also need an ombudsman, so if I am wrongly marked as fraud, I can challenge it.
+
+Aakriti Bansal: How does India’s approach compare globally?
+
+Ashok Hariharan: Honestly, India is way ahead. Aadhaar prevents duplicates, UPI is unmatched, and the DPDP Act is as strong as the General Data Protection Regulation (GDPR). The US does not even have a comparable privacy law. Maybe Singapore and a few European countries are at a similar level, but overall, India is ahead.
+
+Aakriti Bansal: Beyond fraud, what risks do companies face when verification is weak?
+
+Ashok Hariharan: Companies lose both money and trust when goods go missing. Many of our clients choose us even though we are more expensive because we catch issues early, and we can triangulate where the problem came from. If something happens, we know the verified address.
+
+There are three major leakage points. The first is high-ticket goods such as TVs or cash-on-delivery orders that can be worth Rs. 50,000 or more. In those cases, the delivery person can abscond with a large sum. The second is the middle mile, in the trucking and warehouse-to-warehouse transfers, where goods can leak out of the system. The third is the last mile, the delivery stage, which carries the biggest brand risk because that is what the customer directly experiences. Warehouses can usually be secured with proper checks, but the middle mile and last mile remain the most vulnerable.
+
+Aakriti Bansal: How do companies balance speed and safety in hiring?
+
+Ashok Hariharan: Every company has its own approach. Some are more careful, some less. It also depends on the part of the supply chain. In warehouses, the risks are limited and can be controlled through security, so checks are lighter. In the middle mile, the main concern is theft and revenue leakage, which can be managed but usually does not damage the brand.
+
+The last mile is different. That is where workers are interacting with customers, and the risks include not just theft but also safety incidents that can directly damage the brand. So the checks and balances need to be much stronger at the last mile. Most of the hiring also happens there, which makes it more important.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

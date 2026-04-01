@@ -1,0 +1,33 @@
+SUBREDDIT: r/Scams
+TITLE: Father called fake tech support. How to I cover his ass?
+DATE: 2023-09-26
+SCORE: 1
+URL: https://www.reddit.com/r/Scams/comments/16sei12/father_called_fake_tech_support_how_to_i_cover/
+
+--- POST TEXT ---
+
+So my father had managed to get some malware or similar on his machine. Wave Browser, which he asked me to come help him with. 
+
+When I arrived at his home he was speaking to an Indian man and quickly asked me to join the call. I was flabbergasted. I asked who he was speaking to, Dad said “McAfee” to which I instantly suspected was not the case. The man said my father had accidentally purchased 5 copies of McAfee and was due a refund, but that the problem he had required $599 to fix. 
+
+Now for the bad part… my father had already given the man remote access. I put the call on mute and said “Daddy how did you get this man’s number.” He said he googled McAfee support’s phone number and then when he called the number they said they’d call him back in a few moments. They called back from “New Jersey” and now here we are. 
+
+I got my Dad to hang up and tried to go revoke remote access but his PC said that his home version of Windows 10 doesn’t support remote access. Which is clearly untrue, I saw with my own two eyes the man accessing it. I immediately shut down his machine. He showed me on his iPad what website he got the number from and it was clearly a scam site, not McAfee. Googled the number and it seemed to confirm. 
+
+Luckily my father doesn’t use any password managers. The things I’m worried about are bank statements and tax returns. 
+
+Steps I’ve taken:
+
+Shut down PC
+
+Changed Router Password 
+
+Called Geek Squad to come clean up the mess in person Oct 3rd
+
+Will have Dad call banks and credit agencies tomorrow. 
+
+Will have him use my Mac at my house to change his email password and any others I can think of. 
+
+What else can I do? His wife uses a Mac and probably has password managers and sensitive information on hers. Could they have accessed her stuff as well on the network? 
+
+TIA

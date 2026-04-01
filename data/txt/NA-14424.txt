@@ -1,0 +1,31 @@
+“The CNIL [the French data protection commission] has analysed several existing solutions for online age verification, checking whether they have the following properties: sufficiently reliable verification, complete coverage of the population and respect for the protection of individuals’ data and privacy and their security. The CNIL finds that there is currently no solution that satisfactorily meets these three requirements . […] The CNIL deems it urgent that more effective, reliable and privacy-friendly devices be proposed and regulated as soon as possible,” the Commission stated in a report published last September.
+
+Why does this matter: Mandatory age verification is increasingly becoming the norm for many online services due to regulations. For example, India’s proposed data protection bill requires all websites that collect or process any personal data to verify the age of the user, and if the user is below the age of 18, the company will have to comply with additional obligations such as getting parental consent, not profiling the child for targeted advertising, etc. But the main criticism of this proposal is that, in many cases, it requires a company to collect more data from a user than they would normally collect, hence becoming an issue for privacy and personal data protection. The CNIL report suggests that we need more privacy-preserving solutions before making age verification mandatory across the board.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+The CNIL report gives a summary of six different age verification solutions used at present and what the issues with these solutions are. While the report suggests that we need new and better solutions, it also outlines measures that can be incorporated in the interim to mitigate privacy concerns in the existing solutions.
+
+1. Age verification through payment card validation:
+
+2. Age verification through an estimate based on facial analysis
+
+3. The offline verification system
+
+4. Age verification through an analysis of identity documentation
+
+5. The use of central government-provided tools to verify identity and age
+
+6. Inferential age verification systems
+
+In its report, CNIL demonstrated the feasibility of a privacy-friendly, yet reliable, age verification system based on a secure protocol using “zero-knowledge proofs.” You can access a full demo of the solution here , but essentially the system involves a trusted third-party actor and works in the following manner:
+
+Essentially, this system prevents:
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,51 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: The Bull Case for Cred
+DATE: 2021-04-14
+SCORE: 364
+URL: https://www.reddit.com/r/IndiaInvestments/comments/mqjo3p/the_bull_case_for_cred/
+
+--- POST TEXT ---
+
+While we get amused by Rahul Dravid getting mad at Bangalore's traffic and Cred being the most efficient startup at burning money in India, I think there's a bull case here to vindicate the VCs who threw their LP dollars after a company which made 52L in revenue last year.
+
+&amp;#x200B;
+
+Kunal Shah keeps talking about India being a "trust deficit" society and removing trust deficit can generate positive externalities from improving transaction efficiency to happiness and perhaps reduce the daily anxiety when dealing with fellow Indians. Now beyond that abstract nonsense, we can pry out a general overarching goal: trustworthy people should be able to access credit in everyday transactions.
+
+Credit cards solve this problem somewhat - they give a zero interest 30 day credit to consumers while charging a merchant discount rate (MDR) to merchants. Additionally, they make interest money off of consumers who carry forward their monthly balances.
+
+Why do merchants agree to pay this MDR? Well it comes down to trust and supply and demand - consumers spend more if they have credit and merchants are better off using an intermediary to evaluate if a consumer is trustworthy and deserves that credit.
+
+That's where Cred comes in - I believe in the long run Cred can replace credit cards with a stronger credit underwriting platform and perhaps a cheaper MDR to merchants who accept "Cred Credit" (you're welcome, Kunal).
+
+But what's wrong with credit cards you say? What problem is Cred solving exactly for consumers? Well, credit cards suck. No really, they suck - competition in credit cards actually creates perverse incentives because card issuers go out of the way to offer rewards on cards and pay for them using higher MDRs. Overall, the cost to society increases.
+
+Secondly, credit cards have very low penetration in India due to the behemoth that is UPI. Who wants a cheap piece of plastic when they can pay using their phone in a secure fashion? The only problem with UPI is that merchants can't offer credit directly. Cred is well posed to become the intermediary between merchants and consumers who like to use UPI and offer a credit marketplace to solve this problem.
+
+Imagine your landlord being able to offer lower deposit rates because you're a Cred member. Or your local grocer offering you a 30 day credit without having to deal with the headache of reminding you to make payments.
+
+Execution will be key of course, but I think Kunal is in this for the long run and the flashy ads are building a huge customer base which Cred will be able to eventually monetize with the right credit offerings.
+
+&amp;#x200B;
+
+Edit: This elicited a healthy dose of emotion, cynicism and mockery.
+
+To address a few frequently mentioned comments:
+
+1. Cred cannot become CIBIL or Experian or a credit rating agency without the government's blessing.
+
+Agreed. I don't think they will become a credit rating agency directly. They will probably use existing credit rating + their own underwriting model using the data they collect to better control credit underwriting risk, and offer cheaper credit compared to traditional lenders.
+
+2. Cred is a scam/fad/VCs are stupid/VCs will file police complaint etc.
+
+Maybe. But the implicit premise of a bull thesis is that the founder, company and VCs are bonafide and not out there to scam each other or the customers due to reputational risk. It would also be ironic for a person who keeps talking about trust to actually be a scammer himself.
+
+3. Cred will sell your data
+
+Yes this is a possibility. But building a business model around the data (credit history) is likely more profitable than selling the data itself. The idea of this post is to explore a different business model with some creative conjectures.
+
+&amp;#x200B;
+
+Edit 2: I exaggerated the "credit cards suck" part a little bit. But to explain how credit card reward programs lead to price increases, have a look at this article: [https://nymag.com/intelligencer/2018/10/are-other-peoples-credit-card-rewards-costing-you-money.html](https://nymag.com/intelligencer/2018/10/are-other-peoples-credit-card-rewards-costing-you-money.html)
+
+Basically, credit card companies charge merchants a higher MDR for the privilege of accepting a premium VISA/MC credit card which offers better rewards to consumers over a standard no-rewards card. Merchants who want to accept Visa have do not have an option to decline these higher MDR cards. Of course, merchants have no option but to increase their prices for everyone to compensate for the higher transaction costs of a small percentage of premium card swipes.

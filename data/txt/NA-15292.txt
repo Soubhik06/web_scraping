@@ -1,0 +1,47 @@
+The Department of Consumer Affairs has notified the Legal Metrology (Packaged Commodities) Amendment Rules, 2026, requiring every e-commerce entity selling imported products to offer searchable and sortable country-of-origin filters on their platforms. The rule takes effect on July 1, 2026.
+
+Specifically, the Departmentâs February 13 notification inserts a new sub-rule (10A) under Rule 6 of the Legal Metrology (Packaged Commodities) Rules, 2011.
+
+In practice, platforms like Amazon, Flipkart, Meesho, and quick-commerce players like Blinkit will need to build filter mechanisms that allow consumers to search and sort entire product catalogues by where goods were made. For instance, a shopper should be able to pull up only electronics made in India or only apparel imported from Bangladesh directly through the platform’s search interface.
+
+Notably, the government first pushed e-commerce platforms on country-of-origin display in June 2020 but never backed it with formal regulation. Nearly six years later, the requirement finally has legal backing. However, as detailed below, enforcement of existing e-commerce compliance norms has proven challenging, raising questions about whether platforms will meet the July 1 deadline.
+
+MediaNama had reported on the draft version of this rule in November 2025. The Department circulated the draft on October 23, 2025, and initially set a comment deadline of November 22, 2025. It later extended this by 15 days to December 8, 2025. The final notification came about two months after that deadline.
+
+The government introduced two significant changes while finalising the rule.
+
+First, the draft framed the requirement as a proviso to the existing sub-rule (10), using the language âProvided that every e-commerce entityâ¦â. A proviso is a conditional clause attached to an existing rule. The final version, in contrast, creates a standalone sub-rule (10A), giving the provision independent legal force.
+
+Second, the draft stated that the rules would take effect âon the date of their publication in the Official Gazette,â meaning platforms would have had to comply immediately. The final notification instead gives platforms until July 1, 2026. This four-and-a-half-month runway likely reflects industry feedback received by the Department during the consultation period.
+
+The 2017 amendment to the Legal Metrology (Packaged Commodities) Rules, 2011 made it mandatory for e-commerce platforms to display key product details, including the manufacturerâs name, quantity, Maximum Retail Price (MRP), and country of origin on product pages. These requirements took effect in January 2018.
+
+However, there is a critical difference between displaying information and making it discoverable. Currently, a consumer must click into each product listing individually to check where it was made. The 2026 amendment, in contrast, requires platforms to turn this into a filterable, sortable attribute across the entire catalogue. That represents a substantially larger technical and data challenge than what platforms handle today.
+
+The push dates back to June 2020. Following the Galwan border clash and rising calls to boycott Chinese goods, Department for Promotion of Industry and Internal Trade ( DPIIT) held meetings with e-commerce firms , including Amazon, Flipkart, Snapdeal, Paytm, and Pepperfry. The Department suggested a deadline of August 1, 2020 , for new listings and October 1 for existing products. Platforms, however, said they needed two to three months to make the changes.
+
+Amazon began complying on July 21, 2020 . Nevertheless, the government never followed up with formal regulation to enforce compliance across all platforms. Confederation of All India Traders ( CAIT) welcomed Amazonâs move but noted that âfor three years, no effort was made by e-commerce companies to implement such a legal binding.â
+
+Meanwhile, the Consumer Affairs Ministryâs statement on the draft rules in November tied the amendment to the governmentâs Atmanirbhar Bharat and Vocal for Local initiatives, arguing that it would give domestic manufacturers equal visibility against imported goods on digital marketplaces.
+
+The governmentâs track record on e-commerce compliance raises questions about whether platforms will meet the deadline. During FY 2024â25, the Bureau of Indian Standards (BIS) conducted raids at 22 Amazon, Flipkart, and Blinkit warehouses across 11 states after finding that over 40% of 344 sampled products on e-commerce platforms lacked valid BIS certification. Additionally, in March 2025, BIS officers raided an Amazon warehouse in Delhi for 15 hours and seized over 3,500 products with missing or fake Indian Standards Institute certification (ISI) marks worth Rs 70 lakh.
+
+The country-of-origin filter adds another layer of difficulty. As Satish Meena, founder of market intelligence firm Datum Intelligence, told MediaNama during the draft stage: âSometimes, even the importer is unaware of the actual country of origin. Take electronics, for instance. A large share still comes from China, but shipments are often routed through countries such as the UAE or Singapore. In such cases, how do you determine the true source of a product?â
+
+Furthermore, the rule creates a split obligation. Third-party sellers must provide accurate origin data, while the platform must build and maintain the filter. The notification, however, does not specify what documentation sellers need to upload or how platforms should verify origin claims at scale.
+
+Moreover, it remains unclear whether consumers will actually use the filter, even if platforms build it. Meena raised this point as well: âCustomers pick and choose a product based on quality. When you are looking for affordability, the country of origin doesnât matter.â Indeed, price, reviews, delivery speed, and product fit drive online purchasing decisions far more than country of origin. The filter may help consumers who actively seek out Made in India products, but it is unlikely to shift broader purchasing patterns in the near term.
+
+The notification establishes the obligation but does not address how platforms should implement it. Consequently, several gaps remain.
+
+What counts as an “imported product”? The notification does not define the term. This creates ambiguity for goods that companies assemble in India using imported components, such as smartphones where manufacturers source chips and screens from China or Taiwan but complete final assembly domestically. It is unclear whether such products would need to appear under the country-of-origin filter.
+
+What happens if a platform does not build the filter? The notification does not prescribe penalties specific to non-compliance with the filter requirement. The Legal Metrology Act allows for fines and imprisonment for selling non-standard packages. However, no authority has yet tested whether a platform’s failure to build a search filter counts as a “non-standard package” violation under the Act.
+
+How will the government enforce this? The notification does not clarify whether regulators will audit platform interfaces directly to check if filters exist and function correctly, or whether they will act only on consumer complaints. Given that Amazon and Flipkart asked for two to three months to implement even basic country-of-origin display in 2020, the four-and-a-half-month compliance window for building searchable and sortable filter infrastructure across millions of listings will test both platform readiness and regulatory follow-through.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

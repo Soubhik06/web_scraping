@@ -1,0 +1,29 @@
+“EPFO did not suffer from a data breach in July or August 2022,” the Employees’ Provident Fund Organisation said in response to an RTI request filed by MediaNama in September. EPFO is one of the two government bodies responsible for the regulation and management of provident funds in India.
+
+Why does this matter: Back in August, a cybersecurity researcher claimed that sensitive data of over 28 crore Indian citizens was allegedly left exposed from EPFO’s Universal Account Number (UAN) database. These records contained sensitive details like address, bank account number, income levels, Aadhaar details, etc. If true, this would have been one of the largest data breaches in India. EPFO did not confirm or deny the breach back then.
+
+What do we know about the alleged attack: “On August 2nd, 2022, an internal report caught my attention. Our systems identified 2 (two) separate IPs with passwordless Elasticsearch clusters containing indices called “UAN”. After quick review of the samples (using a simple browser), I was sure that I am looking at something big and important. First IP with Elasticsearch cluster contained 280,472,941 records. Second IP contained 8,390,524 records,” Bob Diachenko, a cybersecurity researcher at SecurityDiscovery.com, claimed . According to the researcher, each record had the following structure:
+
+The exposed database was taken down within 12 hours of Diachenko tweeting about it, but it’s not known for how long this information was exposed before search engines indexed them, the researcher said.
+
+Elsewhere on Twitter, cybersecurity experts have pointed out that this data could be from the e-Shram database for gig workers or a 2018 breach involving EPFO.
+
+28 crores of migrant and informal workers data, likely registerted part of e-shram card creation process was publicly available. Waiting what CERT-IN does to investigate it. #cybsersecurity
+
+— Srinivas Kodali (@digitaldutta) August 3, 2022
+
+MP Karti Chidambaram’s letter to IT Minister: In a letter sent to IT Minister Ashwini Vaishnaw in August, Lok Sabha MP Karti P Chidambaram sought immediate intervention into the alleged leak of data from EPFO. Chidambaram had urged the minister to ensure:
+
+“A data breach exposes confidential, sensitive and protected information to unauthorised persons. This data breach is in clear violation of the fundamental right to privacy, upheld by the Hon’ble Supreme Court in Justice K.S Puttaswamy vs Union of India (2017).” — MP Karti Chidambaram
+
+Text of MediaNama’s RTI request:
+
+“On August 2, multiple news outlets (https://www.medianama.com/2022/08/223-epfo-uan-data-leak-280-million-records/ ) reported that there was a data breach at Employees’ Provident Fund Organization (EPFO) which resulted in the exposure of 28 crore citizens’ data including sensitive details like address, bank account number, income levels, Aadhaar details, etc.
+
+Could you please confirm whether or not EPFO reported any breach in July or August 2022 to CERT-In? If so, could you please state:
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

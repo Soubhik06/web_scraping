@@ -1,0 +1,23 @@
+HDFC Bank’s pilot with the NPCI has 25,000 consenting customers for tracking their location.  The technology for the pilot was developed by Zumigo where the lender will be able to map a customer’s location via cell tower triangulation to prevent fraud at ATM machines. The bank began this pilot in November 2015.
+
+“We match the location of a customer’s smartphone to the location id of the ATM. We assume that 99% of the times the customer carries the phone to the ATM. If the smartphone is not near the ATM, you can get an alert on your phone to decline the transaction,” Nitin Chugh, HDFC Bank’s head of digital banking explained.
+
+Zumigo technology gives an approximation of the customer’s location and cannot pin point a location via GPS. The bank is yet to lay down rules regarding the distance between  the ATM where the transaction is taking place.
+
+Zumigo also tied up with Mastercard earlier in February to provide card holders alerts of usage  normal routines and certain geographies.
+
+San Jose-based Zumigo has so far raised $7.72 million in three round of funding. Their investors include Intel Capital, Wells Fargo Startup Accelerator and Aligned Partners. The company was also part of the Wells Fargo Startup Accelerator in 2014.
+
+MediaNama’s take
+
+According to a Deloitte 2015 banking fraud survey , 93% of respondents had agreed that there had been an increase in the incidents of fraud in the banking sector over the past two years. The survey also said that the top three fraud risks that are currently the highest concerns for banks are Internet Banking and ATM fraud, card fraud and identity fraud .
+
+Rising bank fraud also comes at a time when many customers are trying to move away from password based security. The pilot’s biggest strength is that it gives the user control to deny a transaction going through in real time. Perhaps the move to more pull-based mechanism of authorizing payments can be provided in the NPCI’s unified payments interface architecture.  Hopefully more banks are adopting this via the NPCI and extend it to all card based transactions on ecommerce sites as well.
+
+Airtel’s Buddy Finder
+
+There are very few instances where companies have asked for a user’s consent for tracking their location via tower triangulation. Back in 2009, telecom operator Airtel piloted a location based service in Delhi and Mumbai, called Buddy Finder. The service would have allowed a subscriber to monitor the location of an individual who has agreed to share his/her location with the subscriber. However, Airtel’s service could be used to track only other Airtel customers.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,67 @@
+“The mobile operator has a lot of capabilities. They are the ones who should be controlling it (fraud prevention), rather than passing the buck to app providers. App providers are just riding on the mobile operators’ network layer,” said Parag Kar, former Qualcomm Vice President for Government Affairs (India and South Asia), at MediaNama’s ‘Impact of SIM Binding on Social Media’ discussion.
+
+For context, Kar was outlining what telecom operators could do to prevent digital financial fraud, in light of the Department of Telecommunications’ (DoT) recent SIM binding directive. To explain, this directive instructs messaging applications like WhatsApp, Telegram, Signal, Arattai and Snapchat to ensure that users bind their SIM cards to their respective messaging services.
+
+However, as MediaNama reported earlier, it isn’t technically feasible to implement SIM binding mandate at this stage. Similarly, various participants in the discussion also pointed out how the SIM binding mandate doesn’t stop financial frauds: signalling the possible need to find alternatives that will make ends meet without causing too much inconvenience to the users and businesses that use messaging apps for their operations.
+
+Major smartphone operating systems (OS) like iOS and Android restrict an application’s access to SIM-related as well as a mobile phone’s hardware-related data to preserve the privacy of users.
+
+Speculating about the need to push the SIM binding mandate even though it is technically infeasible, Kar said that, “The reason the mobile operator is pushing for the SIM binding is [a] commercial [one]. They also know that it is not practically possible to implement.”
+
+“They want to make money. That’s why they are going ahead and saying that we want everybody to send SMS. Everybody should be sending SMS all the time,” he added.
+
+Venkata Satish Guttula, Cyber Security Consultant at Allied Boston Consultants India Pvt Ltd., asked: “So what is going to stop the fraudsters from using these international numbers? There are certain things called virtual numbers, where I can just buy these virtual numbers and then use them, or else eSIMs. I can activate eSIMs and then use international eSIMs, and use those virtual numbers to commit fraud. So is that what it [SIM binding] is trying to solve?”
+
+“It is not solving the problem that is being advertised as it is. It will not stop the frauds that are happening. This [SIM binding] is not a silver bullet,” he added.
+
+While Guttula also said that fraudsters could easily switch to other messaging services or platforms such as email, Nikhil Pahwa, MediaNama’s Editor and Founder, pointed out that users can create accounts on apps like Telegram without even entering their mobile number.
+
+And addressing the possibility of platforms bypassing Telecom Identifier User Entity (TIUE) obligations under the Telecom Cybersecurity Rules , Anand Venkatanarayanan, Co-Founder of Deepstrat, cautioned by saying that, “If you really push messengers, they would move towards a username-based model.” Consequently, Pahwa responded by saying that this could create even more problems.
+
+“If you look at the Mobile Congress, which happened in India, all the mobile operators together announced that they are launching this API (application programming interface) to make banking applications more trusted and spam-proof,” Kar remarked.
+
+He was referring to the Global System for Mobile Communications Association’s (GSMA) CAMARA API, which was announced in October 2025 to strengthen telecom operators’ efforts to challenge digital scams through the GSMA Open Gateway initiative, which aims to provide banks and other online platforms with federated ways to verify customer identities and combat digital fraud.
+
+For context, at the India Mobile Congress 2025, Jio, Airtel and Vodafone Idea (Vi) said that they would offer banks and online retailers federated access to services such as SIM Swap and Number Verification APIs. To explain, such APIs enable applications to work across participating mobile networks while allowing operators to retain control over their data, policies, and revenue.
+
+The software reportedly provides an interface, interoperability and global cross-country coverage, so that digital businesses can securely connect their services that mobile operator networks can provide.
+
+Notably, Jio, Airtel and Vi also plan to launch a CAMARA-based Number Verification API before the end of 2025. This API is apparently supposed to be a more secure alternative to SMS-based One-Time Passwords (OTPs), as it enables businesses to verify a mobile user’s identity by matching their phone number against real-time network data.
+
+“I’m saying that the mobile operator, at the physical layer, has loads of information. It doesn’t have to go through GPS. He knows the Base Transceiver Station (BTS ID) from where the mobile actually originated. Suddenly, if the location gets changed, he can immediately tell. Now, because of this information that the mobile operator has, this information is being put at a central location and being served to high-risk groups like banks and others to create their systems more secure. Similarly, if you look at 5G, 5G actually has a system called network-level slicing. What 5G does is it gives an app a specific path, a logical path, which does not go through the internet,” Kar explained.
+
+Therefore, Kar argued that since mobile operators already have lot of capabilities, they should be responsible for managing fraud prevention, rather than shifting the burden on to app providers, who are merely operating on top of telecom networks.
+
+Elsewhere during the discussion, while referring to network slicing as one of the solutions to prevent fraud, Pahwa flagged it as a net neutrality concern : as it allows telecom operators to give certain applications preferential treatment through dedicated network paths that bypass the open internet.
+
+To explain, this practice risks creating a two-tiered (or more) internet in which well-funded or partnered services have the potential to gain an advantage, while smaller players lose ground, competition suffers, and operators exercise gatekeeper power over which services reach users.
+
+When OS-related data isn’t available to messaging applications, Kar explained, a telecom operator can undertake risk assessment measures to flag high-risk users. “OS-level data is not available, but a regulator or a bank can silently flag a user as high-risk and have the app query the mobile operator’s server in the background to fetch SIM-binding information. Because the app has a secure data connection with an IP address linked to the mobile number, the operator can identify the device and perform SIM binding using GSMA Connect, without the user’s involvement,” explained Kar.
+
+For context, GSMA Connect refers to the secure universal login mechanism that uses a mobile phone number for online authentication, without the need for multiple usernames and passwords.
+
+When Guttula asked what would happen if users relied on Wi-Fi for network access or used internet connectivity from a second SIM that may not be bound to the application, Kar clarified that this is “not a foolproof mechanism”.
+
+Within risk assessment mechanisms like the above-mentioned GSMA Connect, Kar explained that: “If suppose, there has been a SIM swap in the device, for 24 hours, that information the bank won’t know. That information only the operator knows. If a telecom operator detects a change to the SIM in that same device, because he knows the device and he knows the SIM, that information can be known. Similarly, there can be much information that the network layer knows that the app does not know.”
+
+And elsewhere, referring to the mandate of logging out users after every six hours from web-based applications, Nikhil Narendran, Partner at Trilegal, said that: “This is totally pointless. There are other ways in which you [can] ensure [that] there is no fraud happening.”
+
+Furthering the discussion on the responsibility of the telecom operator, Venkatanarayanan, said that the network layer already knows a user’s device identity, phone number, IP address, and location through the associated cell site.
+
+To arrive at a “composite risk indicator”, the telecom operators could ask questions like: What is the age of the SIMs? How far has it been KYC-modified? When was it reviewed or put on the revocation list?” “You can just take that information and feed it up to any app that wants it,“ said Venkatanarayanan.
+
+When the discussion veered towards examining the actual need of a new risk index given that the DoT’s Financial Fraud Risk Indicator (FRI) already exists, Venkatanarayanan explained that “the nature of any risk indicator is that it is probabilistic and [that] it has failure zones and failure rates”.
+
+However, he emphasised that this approach is a part of a “larger picture”, explaining that: “The right way to do cybercrime prevention using telecom data, hence, is always through probabilistic risk indicators, which you have to keep evolving over a period of time as circumstances, situations, and adversaries evolve, and then move into hard-nosed, simple indicators. I think that is the larger picture. [And] that is an alternative to SIM binding.”
+
+You can watch the event video here:
+
+Note: This discussion was organised with support from Meta and Snap. Our community partners for this event are the Internet Freedom Foundation (IFF), Software Freedom Law Centre (SFLC.in) and the Centre for Internet and Society.
+
+Also Read:
+
+Note: The headline of this article was changed at around 12:30 pm on December 17 to add more clarity.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

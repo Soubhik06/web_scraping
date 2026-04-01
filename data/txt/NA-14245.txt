@@ -1,0 +1,31 @@
+US-based human rights and security research groups — Amnesty International, CitizenLab and SentinelOne — have claimed in a joint statement that they unearthed new evidence that links the Pune police to the hacking of e-mail accounts of rights activists Rona Wilson and Varavara Rao and Delhi University professor Hany Babu, all of whom were arrested in 2018 in the Bhima-Koregaon case, the Wired magazine reported.
+
+The researchers claim that the evidence used by the Pune police against the three accused in their terrorist charge trials is the same material that they had “planted” on the three arrestees’ personal devices. Previously in June 2021, Massachusetts-based independent forensic investigators Arsenal Computing had established that an unidentified attacker used malicious software to infiltrate the two computers belonging to Rona Wilson and deposited dozens of files in hidden folders on the devices.
+
+Researchers at these three organizations have since linked the Pune police’s methodology to a broader hacking operation that targeted hundreds of anti-government individuals around the world since 2013. These attacks have mostly been using phishing emails or corrupted social media messages to infect targeted computers with spyware. These state actors have also used smartphone hacking tools such as the infamous Pegasus sold by the Israeli hacking contractor NSO Group, the three groups are alleging.
+
+Why this matters: The Pegasus fiasco illustrates the urgent reform required and safeguards in the state’s surveillance infrastructure to prevent infringement of privacy and fundamental rights, and also the country’s democratic institutions. Reports show that Pegasus and NetWire have not only been used against constitutional functionaries such as an Election Commissioner, a Supreme Court Judge and a number of MPs but also against intellectuals, activists and journalists including those arrested in the Bhima-Koregaon case. The allegations of hacking against Pune Police raise questions on the state’s powers and intentions when it comes to electronic and/or digital surveillance and investigations
+
+“There’s a provable connection between the individuals who arrested these folks and the individuals who planted the evidence,” Juan Andres Guerrero-Saade, a security researcher at SentinelOne, which led the investigation, told Wired magazine. “This is beyond ethically compromised. It is beyond callous. So we’re trying to put as much data forward as we can in the hopes of helping these victims.”
+
+SentinelOne’s new findings specifically link the Pune police to a long-running hacking campaign called ‘Modified Elephant’. After studying over 100 phishing emails received by Wilson (which were sourced through his defence lawyers), SentinelOne has found that the earliest attack on him can be traced back to as early as 2012. The report says that the attack began in 2012 but intensified only in 2014 and continued aggressively until at least 2016 .
+
+These new findings come from the three groups working with an unnamed email service provider that provided them with crucial data that allowed them to allege a link to the Pune police. In particular, SentinelOne notes that the email accounts belonging to Wilson, Babu and Rao were compromised by hackers in 2018 and 2019 who changed the recovery email address and phone number to allow the hacker to easily regain control of the accounts if their passwords were changed.
+
+Who did this recovery email ID and phone number belong to? According to the researchers, the manipulated recovery email address “included the full name of a police official in Pune who was closely involved in the Bhima Koregaon case.”
+
+These investigations are in sync with the revelations made by Arsenal Computing, last year, which pointed out that in Wilson’s case, a malware known as NetWire had added 32 files to a folder of the computer’s hard drive, including a letter in which Wilson appeared to be conspiring with a banned Maoist group to assassinate Indian prime minister Narendra Modi.
+
+Since the matter of smart device infiltration via Pegasus and similar malware came to light, privacy rights activists have called on the Supreme Court for an investigation into the matter. On October 27, 2021, the Supreme Court had set up a Technical Committee to:
+
+The effort is headed by former Supreme Court Justice RV Raveendran. The group has published two public notices dated January 2 and February 3, 2022, requesting people to submit their phones or devices which have seemingly been infected.
+
+The move has met with some success. A special National Investigation Agency (NIA) Court, on February 8, allowed the NIA to submit the mobile phones of the seven accused in the Bhima-Koregaon case before the Committee. Although, many people who had initially claimed Pegasus-infected devices have backed off from submission citing the possibility of personal identifiable information breach.
+
+The group has yet to make any of its findings public.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

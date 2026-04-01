@@ -1,0 +1,71 @@
+(By Preethi J & Nikhil Pahwa)
+
+Google owned Orkut , believed to be the largest social network in India in terms of userbase, announced the Orkut Zeitgeist last week – a report on the popular communities, usage and trends as witnessed by Orkut’s engineers over the period of a month. The report is similar to Google’s search Zeitgeist (2008s is here ) but has been performed for the first time for Orkut, for India.
+
+In this three part interview series, MediaNama spoke to Google India’s Rahul Kulkarni (Product Manager) and Parminder Singh (Business Head) about the Orkut Zeitgeist, usage trends, applications, branding, ID theft, advertising and mobile and lots more.
+
+How will Orkut Zeitgeist help you? What was the metholodogy you adopted for the Zeitgeist?
+
+Kulkarni: It will help us learn what people are looking for, which will in turn help us tweak Orkut’s features. The team at Orkut observed the volume of traffic at various communities to arrive at the ten most popular communities. The number of members is not necessarily an indication of activity – take for example Muktapeet, a citizen journalism community launched by Sakaal Times in 2006. Though it has only 8500 members primarily from Pune, the community is one of the most active ones.
+
+We looked at views, posts created and cities using IP address information. We are able to access IP information only for a limited time, so we kept the study to an average of 7 days, and repeated the analysis over several seven day periods. The Zeitgeist took a month to complete.
+
+How was it different from Search Zeitgeist?
+
+Kulkarni: There is a larger age difference here and a wider audience from different demographies. We had 17 million users (according to Comscore, July 2009), between the ages 18-30 and we chose select cities. There are 47 million communities on Orkut.
+
+You seem to have left out quite a few cities including Chennai. Why is that?
+
+Kulkarni: We looked at the top online cities and selected from IP addresses those that showed maximum usage. We looked at Bangalore and Hyderabad in South India.
+
+What stood out from your findings – anything unexpected?
+
+Kulkarni: The biggest surprise for us was the absence of any gossip on celebrity or Bollywood superstars in the top ten topics. Users are focussed on more broad level topics. Orkut’s Indian users, who were primarily cricket fanatics, are also now following international sports such as football – reflected in the active discussions about Manchester United.
+
+What’s the plan, where are you going with Orkut?
+
+Kulkarni: Orkut has been evolving subtly. We reshuffled the UI…in fact, stay tuned. You should be seeing some major changes soon. Overall we have evolved in terms of features – communities and skins. Photos are a top feature, we’ve added videos, privacy features, safeguards of identity. Scaling to the level of users that we have, in terms of catering to both naive and power users, we’ve seen a lot of growth from Tier 2 and 3 cities. Most high schools, reality shows have communities and active discussions. Our evolution has been based on the ability to get into the mainstream – needs of people, catering to peoples need to stay in touch with old friends and interesting people around certain topics. There is also Orkut on mobile – xHTML, J2ME app, iPhone versions. There’s a large and active team.
+
+Are there UI-changes planned for a real-time update experience?
+
+Kulkarni: Real-time is important. What we’re focusing on is on balancing the need for real-time, with the need to hear from people that you care about at that moment. I may not care about a real time updates from an old friend from Mountain View regularly, but if I am traveling there, then I’d want to know. How many real time updates can you digest in a day?
+
+How many official communities are on Orkut?
+
+Kulkarni : We are not able to differentiate between official and unofficial communities as they are both set up by Orkut users, who use their personal email accounts. The MTV community, which is official and run by the channel, has 3,80,000 members. There are communities which became NGOs and self help groups.
+
+How do you deal with ID theft?
+
+Kulkarni : When we talked to users a year and a half ago, this was happening. But how do you fix it? In case of impersonation, offending profiles are deleted within an hour of complaint. Privacy features are given to users. Offline, we ran a “Be Net Smart” campaign in schools with the Mumbai Police. We want them to be aware of issues with leaving your cell phone number, address – if you don’t do it in real life, you shouldn’t do it online. We also do SMS verification which ties the user down to a physical device.
+
+What is your policy on sharing user data with the government?
+
+Kulkarni : We have a Google-wide policy. Any request such as a court orders…we work with police and authorities, and help with investigations. There is a detailed process there, but it is quick. We’ve reduced the time and made it more nimble, so that we act quickly.
+
+How is the Indian language integration doing on Orkut?
+
+Kulkarni : Initially people who are familiar with the English language joined, but we are seeing combinations of Hindi-English, Malayalam-English or Kannada-English, Marathi-English. Its difficult to mine or understand this data because in India it is varied – we are talking 26 languages in combination with English. This has opened up worlds for people who arent comfortable to interact with friends on Orkut. Keeping in touch and getting information are primary drivers to use Orkut. The town user is spending ten minutes in a cybercafe to ask questions in English that is not polished; it is broken, with local language flavours and yet people understand, interpret and respond.
+
+But is the use of the Indic language script growing on Orkut? Or are we limited to bilingual users?
+
+Kulkarni : The vast majority is still in English script, though Indic language is growing, after transliteration was introduced. We see more communities using it. One such is the Hindi poetry community.
+
+What are the trends in usage from Tier 2 and 3 cities?
+
+Kulkarni: Reality shows are popular. We have seen communities on the stock market pop up in small towns. There are many educational communities where users discuss preparation for competitive exams such as CAT, GATE, GMAT. There are also batches of people with a goal of joining a big company who form a group to discuss the interview process and how to get in. The main access points are primarily cyber cafes where discovery of Internet services and social networking takes place. When a person is convinced of its usage, then they buy a desktop or start using their mobiles. Some carriers have reduced their data plans and this is welcome news.
+
+The Orkut user base is primarily between 18-30, mostly students from colleges. So primary usage does come during weekdays when they go to cybercafes. There is the office population but it isn’t as much as those from cybercafes and homes.
+
+There has been talk of churn or movement from Orkut to Facebook. Have you noticed a plateauing of active users or decline?
+
+Kulkarni: I can’t quote internal numbers, but Comscore’s June numbers state that Orkut has 15.5 million 30 day active users. We added 989,000 users in June alone. That itself is a pointer to the fact that we are growing rapidly inspite of covering a large base. We’ve seen growth and only growth. We’ve seen India only social networks like Bigadda, Bharatstudent come up as well as international ones like Bebo, Hi5 and Facebook. Competition is always healthy. Now that social networks are allowing users to take friends where they go – you can play the same application on MySpace, Orkut and Hi5 – lines between social networks are now thin.
+
+But Facebook has become more aggressive, partnering with media companies and telcos, pushing both on the Internet and Mobile side in India. Are you considering partnerships to make it Orkut more broad-based?
+
+Kulkarni: I can’t comment on Facebooks strategy. From an Orkut perspective, we spend our time studying user behaviour and evolving the network so users get a more magical experience. Our ground-up strategy has worked for us and will continue to work for us.
+
+Part 1: Orkut Zeitgeist, ID Theft, Indic Languages, Partnerships, Trends & More Part 2: On Orkut Applications, Integration Of Google Properties, Mobile, Orkut Promote Part 3: Branding & Monetization; AdWords, CTRs
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

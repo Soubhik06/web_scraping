@@ -1,0 +1,37 @@
+âEncryption works, but you might just delete the data if you are choosing encryption. At some point of time, you have to de-crypt it in order to look into the data. It can be a matter of safety, so presumably it has to be used at some point,â notes a discussant at MediaNamaâs roundtable discussion on âExploring User Verificationâ on March 23, 2023. The discussion focused on user verification norms in India, the importance of anonymity and effectiveness of verification in protecting individuals from online harm.
+
+While exchanging ideas about how user anonymity can be preserved, experts weighed in on how anonymization of data is not a fool-proof method to protect peopleâs privacy given the risks of de-anonymization of publicly available data. We have delved deeper into the harms of de-anonymization, here .
+
+The experts noted that thereâs need for better technical alternatives for anonymization. Ekta Jafri, Design Mentor at The TechBridge, inquired whether encryption can be a better solution to protect anonymity of users. The privacy expert (quoted above) stated, âEncryption preserves it (data)..in transit, but itâs not the solution to anonymity.â
+
+Watch the full event here:
+
+MediaNama hosted this discussion with support from Meta and Truecaller. The Internet Freedom Foundation, CUTS International, Centre for Internet and Society, and the Centre for Communication Governance at the National Law University, Delhi, were MediaNamaâs community partners for this event.Â
+
+STAY ON TOP OF TECH POLICY:Â Our daily newsletter with top stories from MediaNama and around the world, delivered to your inbox before 9 AM. ClickÂ here Â to sign up today!
+
+Encryption and anonymity:
+
+Encryption refers to a process of âconverting messages, information or data into a form unreadable by anyone except the intended recipientâ, essentially a crypted communication accessible only to the sender and receiver. Encryption tools are primarily used to protect âconfidentiality and integrity of contentâ against unauthorized third-party access or manipulation.
+
+Anonymity is using an âinvented or assumed nameâ to communicate anonymously on the internet. Sometimes individuals present their name or identity in a way that it âprotects the determination of oneâs name or identityâ and is not oneâs legal identity. In cases where individuals take up an assumed name it can be referred to as pseudo-anonymity , while anonymity can also refer to âtaking no name at allâ.
+
+As stated by the United Nations Special Rapporteur on Freedom of Expression, both encryption and anonymity, âseparately and togetherâ are critical to individual privacy and freedom of speech and expression as they âcreate a zone of privacy to protect opinion and beliefâ. This is true especially for journalists, activists and members of marginalized communities, who are vulnerable to surveillance and harassment by state and non-state members.
+
+Is encryption a better method? Jafri pointed out that personal, sensitive data can be encrypted and decrypted when in need by the right parties and it is also easy to share such encrypted data. The above-mentioned speaker, who also emphasized on encryption, was of the view that encryption is different from anonymity, because there is still room for decrypting data by whoever has access to it. Though it adds a layer of protection and all data must be encrypted to some degree, he states that:
+
+âWith most of the modern technology it’s quite difficult to stay anonymized, only because of the fact that datasets are available about everywhere you look. There has been no credible method that we have known for successfully anonymizing data, because you’re not the only person who collects it, everyone collects it.â
+
+Techniques for balancing encryption & anonymization:
+
+On the question of alternative techniques for protecting user data in a better way, law and policy consultant Pranesh Prakash mentioned the following:
+
+According to Prakash there are various ideas emerging from the computer science and mathematics field, but none of them are a solution. âIt’s a solution when you’re able to present something that works for multiple parties who are in conflict, which is what seems like is the case right now that there are different rights, which are genuinely in conflict, and how do we resolve that conflict and rights?,â he adds.
+
+This post is released under aÂ CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,65 @@
+South Koreaâs National Assembly on August 30Â passed a first-of-its-kind bill that forces Google and Apple to open their app stores to alternative payment systems.Â The bill now awaits to be signed into law by the president, whose party strongly endorsed the legislation.
+
+The legislation comes at a time when both Apple and Google are facing increased regulatory scrutiny and legal battles across the world with respect to their app store practices.
+
+“As bills with similar implications are being proposed in the U.S. and Europe, South Koreaâs bill will become a cornerstone for legislating app market platform regulations worldwide.” – Chairman Han Sang-hyuk, Korea Communications Commission.
+
+The law, which amends South Koreaâs Telecommunications Business Act, stipulates the following:
+
+Google: In a statement sent to The Verge,Â Google said that it will reflect on how to comply with the new law but that commissionsÂ allow it to keep Android free and give developers the means to access billions of consumers around the world. “Just as it costs developers money to build an app, it costs us money to build and maintain an operating system and app store,” the company said.
+
+Apple: Before the passing of the bill,Â Apple told The Verge that itÂ was concerned that users will be at greater risk of fraud and privacy violations when using other payment systems. It also said that it will make it inconvenient for users to manage purchases and enable parental controls. “We believe user trust in App Store purchases will decrease as a result of this proposalâleading to fewer opportunities for the over 482,000 registered developers in Korea who have earned more than KRW8.55 trillion to date with Apple,” the company added.
+
+Apple and Google vigorously fought the proposed legislation and even sought intervention from the US government in a last-ditch attempt,Â New York Times reported . But experts were unsure if the US will defend tech companies facing antitrust scrutiny abroad while it applies that same scrutiny to the companies at home, the report stated.
+
+MediaNama has reached out to Google and Apple with more questions and is awaiting a response.
+
+Rakesh Deshmukh, Co-founder & CEO of Indus App Bazaar, one of India’s largest third-party app stores, shared his support for the new law and added that he hopes that Google enhances developer choice by allowing the listing of app distribution platforms like Indus App Bazaar on the Play Store. “It’s about the choice of distribution; we all know that Google Play Store and App Store will continue to exist but we need more competition. We believe that choice is central to competition and hence when developers choose to distribute via our infrastructure, we allow a choice of payment gateway. This choice we believe would allow developers leverage to negotiate a reasonable fee with the two companies and payment gateway providers,” he said.
+
+Democratization is the need of the hour, for in-app payments & app distribution.
+
+Developers should be able to decide which distribution platform and payment gateway to use & what % of revenue to share.
+
+S.Korea has taken a step towards this ideal world, what about India? https://t.co/NYPqNtkFvR
+
+— Indus OS (@indusos) September 1, 2021
+
+Sijo Kuruvilla, Executive Director of the Alliance of Digital India Foundation (ADIF), tweeted :Â “Any legislation on the matter anywhere in the world will set a precedent for other nations to adopt and build on. To fair markets.”
+
+Reduced 15 percent commission:Â After coming under fire from multiple companies, Apple last November said that it will reduce commissions to 15 percent for developers that make less than $1 million per year. Google followed Apple with a similar, albeit slightly different, announcement saying that it will charge developers 15 percent for the first $1 million they earn in revenue in a year.
+
+Developers allowed to email users of alternate payment methods: Apple on August 27 proposed a number of changes to its App Store policy and agreed to pay $100 million in a bid to settle a 2019 class-action lawsuit filed by US app developers.Â The biggest concession is that developers can now let users know about payment methods available outside the in-app billing system through external communications like e-mail. But critics have argued that this doesn’t go far enough because in-app notifications and redirections to alternate payment systems are still banned.
+
+Epic Games lawsuit:Â Epic Games, maker of the popular Fortnite game, publically challenged Google and Apple last year by adding their own payment system within their app that allowed them to avoid the 30 percent commission. Owing to this violation, both Google and Apple removed Fortnite from their app stores, leading to a legal challenge from Epic Games. The hearings in the much-publicised lawsuit concluded last month and a verdict is awaited. Tim Sweeney, CEO of Epic Games, called the new South Korean law a major milestone in personal computing.
+
+Korea is first in open platforms!
+
+Korea has rejected digital commerce monopolies and recognized open platforms as a right.
+
+This marks a major milestone in the 45-year history of personal computing. It began in Cupertino, but the forefront today is in Seoul. https://t.co/Jd6Xfnef9o
+
+— Tim Sweeney (@TimSweeneyEpic) August 31, 2021
+
+New antitrust bill in the US: On August 11, US lawmakers introduced a new bill titled Open App Markets Act that goes even further than the South Korean legislation in regulating the app store market. The bill proposes:
+
+“Itâs time the U.S. follow suit to reduce Big Techâs app store influence. I urge Congress to swiftly pass my bill with Senators Blumenthal and Klobuchar that will help ensure fair competition for innovative startups,”- Senator Marsha Blackburn in a statement .
+
+Lawsuit in the US:Â In July this year, three dozen states in the US and the District of Columbia filed an antitrust lawsuit against Google alleging that its Play store is an illegal monopoly.
+
+Retaliation to Google policy update in India:Â Back in September 2020, GoogleÂ clarified that it will enforce its billing system on all apps downloaded from the Play Store for in-app purchases of digital goods and services and gave developers until September 30, 2021, to integrate into its billing system. Multiple Indian startup founders pushed back against Google forcing developers to use its billing system. Bowing to pressure, Google deferred the enforcement of its billing system policy only for India to March 2022. Interestingly, it is this very same policy update that pushed South Korean lawmakers into introducing this new law.
+
+Investigation in India:Â In November 2020, the Competition Commission of India (CCI) ordered a detailed investigation into Googleâs payment policies and alleged manipulation within Play Store. The apex body for anti-trust matters said that there was prima facie evidence that Google may be abusing its dominant position in India, with regards to Play Storeâs exclusivity and Google Pay (GPay) services. The CCI ordered an investigation into these aspects of Googleâs practices:
+
+Investigation in EU/Spotify complaint:Â The European Commission in June 2020 opened formal antitrust investigations to assess whether Appleâs rules for app developers violate EU competition rules in response to a complaint by Spotify . It particularly focuses onÂ the mandatory use of Appleâs in-app purchase system and restrictions on the ability of developers to inform users of alternative cheaper purchasing possibilities. In April this year, the commission informed Apple of its preliminary view that it distorted competition in the music streaming market as it abused its dominant position for the distribution of music streaming apps through its App Store.
+
+Investigation in the UK:Â In June, the UK government launched an investigation into Googleâs and Appleâs effective duopoly over the supply of operating systems (iOS and Android), app stores (App Store and Play Store), and web browsers (Safari and Chrome). The investigation will examine the amount of power Google and Apple have in the distribution of mobile apps and the extent to which there are suitable alternatives to the default app stores. It will also examine if Google and Apple are using their position to launch competing apps and services and if these are favoured over third-party apps when showcased to consumers. The final report of this investigation will be published by 14 June 2022, based on which the government willÂ establish a new pro-competition regulatory regime for digital markets.
+
+Russia warning: Russiaâs Federal Antimonopoly Service (FAS) on August 30 gave Apple a warning over abusing its dominant position in the distribution market for iOS apps and asked the company to eliminate signs of violations before the end of September. FAS reported that several iOS users and app developers reported concerns that users are not allowed to be informed about the possibility of cheaper purchase options outside of the app.
+
+Also Read
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

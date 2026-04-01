@@ -1,0 +1,48 @@
+SUBREDDIT: r/personalfinanceindia
+TITLE: career progress from 2LPA to 42 LPA by 24
+DATE: 2024-11-09
+SCORE: 1
+URL: https://www.reddit.com/r/personalfinanceindia/comments/1gn5vbv/career_progress_from_2lpa_to_42_lpa_by_24/
+
+--- POST TEXT ---
+
+after my last post I got some queries. So here's some observations..
+
+https://reddit.com/r/personalfinanceindia/comments/1glofpa/please_review_my_financial_plan/
+
+as a fresher out of my IIT I got 17LPA which is barely above average there. 10-20 in CS people were getting 70+. The next 50-100 got 40+ and about 200 after that got 20+ I think. (I'm not in CSE branch)
+
+I think companies will pay more for the same person in an IIT vs the same person(!!) in a different college because of peer pressure and low supply.
+
+I switched twice to correct/ reach my desired salary since no company will do it out of kindness of their heart.
+
+As for whether I deserve it, I'd say yes.
+
+- I go above and beyond in my day to day tasks. 
+- I don't ask to be spoon-fed but instead learn new things even if some of it isn't needed right away. 
+- I don't take ugly shortcuts in my code. 
+- I maintain quality and readability of the code
+ - maintain documentation, 
+ - do code review both publicly in PRs and privately in chat if it's a small issue.
+ - share knowledge material like blogs, seminar videos with others. These videos I had to find by myself on youtube and all.
+ - am good at googling, reducing repetitive work, improving developer's life with IDE's, scripts, tests etc.
+ - communicate clearly and timely with developers, managers, product owners.
+ - WRITE TESTS ! show me one person who enjoys testing and I'll show you one person who's messed up in the head
+ - actively participate in sprint planning and retrospectives,
+ - don't stonewall discussions,
+ - don't make arbitrary delays or sudden leaves,
+ - don't make unnecessary fuss [bikeshedding](https://en.wikipedia.org/wiki/Law_of_triviality) over trivial matters,
+ - take responsibility of delivering features even if working in a team, and also take the fall if things delay. 
+ - Offer help and advise 
+
+As for software developers asking questions ^^^ this is what got me here.. I built rapport with my managers and colleagues purely based on work and not friendships. In fact I used to appear cold and disinterested by others since I won't participate in bulla sessions or b*tch about anyone much or only talk in English.
+
+As for college folks or newbs at IT wanting to be in tech: try your hand at open source like in hackobter, outreachy, GSoC. You get paid by google, but you work for other open source organizations. you need an altruistic mindset for this in the beginning though. Sinking time with little hope of monetary reward. At most you get a token of thanks in a [release note](https://code.visualstudio.com/updates/v1_95#_thank-you). When you like the community, the product, the team, the learning opportunity, get some responsibilities and carry them out. Later they can offer a contract and extend it as per your performance. There's severe under-representation of Indians in global open source community.
+
+For non-programmers, there's a demand for people with technical writing skills, triage bug reports and keep the issues list tidy, events organisers, tech evangelists. https://www.python.org/psf/get-involved/
+
+Devops is also hot. Combined with security, DevSecOps is and will be hot in the coming years with the digital data protection act 2023 enforcing. Data breaches will be getting more frequent and more attention. And traditional companies will struggle with new age challenges. And startups who never paid attention to security or scale will tackle it when they make it to the index.
+
+Quality assurance is odd since for the first few years you do a lot of repetitive work but if you pitch ideas and take interest in the product, learn automation testing and try your hand in API validation (which ideally is a backend engineer job .. but they slack) you'll be an invaluable resource.
+
+Hope it helps. Cheers.

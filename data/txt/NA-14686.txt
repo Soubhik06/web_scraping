@@ -1,0 +1,49 @@
+Google introduced several measures to make its products secure-by-default and private-by-design at its I/O Developer Conference 2022, according to a blog post by the company. It also announced two new tools which allow users to control how their data is used by the company.
+
+The first one lets users ask to purge their contact details — phone numbers, home, and email addresses — from Google Search results. This option can be used in the coming months by clicking on the three dots next to individual Google Search results, the company wrote.
+
+Secondly, it introduced the ‘My Ad Centre’ which will permit users to control the ads they watch while using Google products. They will now be able to pick the ads they want to see more or less of and decide whether they want to personalise their ads. But these controls will only be rolled out later in the year.
+
+“My Ad Centre gives you even more control over the ads you see on YouTube, Search, and your Discover feed, while still being able to block and report ads,” read the post by Google’s SVP for core systems and experiences Jen Fitzpatrick.
+
+Google is a company whose model is cataloguing information and providing data to its users in a simplified manner. With these announcements, it seems to be moving towards using the information it collects from its users responsibly and offering users insight into how their personal data is processed by the company.
+
+Dear reader, we urgently need to build capacity to cover the fast-moving tech policy space. For that, our independent newsroom is counting on you . Subscribe to MediaNama today, and help us report on the policies that govern the internet.
+
+The tech giant wrote that people are increasingly worried about the safety of their data online, and underscored the following measures for better protection:
+
+Google wrote about the introduction of Protected Computing — a “toolkit of technologies” that manages how, when, and where data is processed to technically ensure the privacy and safety of users’ data. It does so by implementing the following measures:
+
+Google also provided an update on its Privacy Sandbox. It said that it was testing trial versions of the Privacy Sandbox APIs in Chrome. “One of these is Federated Credential Management, a new way for browsers to support logins with any identity provider without relying on third-party cookies or libraries, making it easier for users to sign in or sign up on your site,” the company announced.
+
+The company said that it will provide more updates on its Privacy Sandbox later this year.
+
+Privacy Sandbox is a 2019 project by Google that restricts the use of activity-tracking cookies and instead, offers alternative tracking mechanisms outlined in a set of proposals that Google has dubbed ‘Privacy Sandbox’. Multiple marketers and publishers had criticised the move for being anti-competitive and a complaint was filed with the CMA, which triggered an investigation in January 2021.
+
+Google announced in January this year that it was pulling the plug on Federated Learning of Cohorts (FLoC) and replacing it with Topics— a new Privacy Sandbox proposal for interest-based advertising, as per a blog post by Vinay Goel, Product Director, Privacy Sandbox, Chrome.
+
+“Topics was informed by our learning and widespread community feedback from our earlier FLoC trials, and replaces our FLoC proposal,” the blog read.
+
+Google began working on FLoC as an alternative to third-party cookies which the Chrome browser will be phasing out by 2023 . The company said that it was launching a developer trial of Topics in Chrome soon for website developers and the ads industry that includes user controls.
+
+The company rolled out Google Wallet which will be available in over 40 countries at first with plans to expand access to all Android users globally. Kevin Flanagan of Google explained that the company’s wallet will be able to store all kinds of credit and debit cards but it will not be limited to just cards.
+
+What are its functions? “Users will be able to quickly access their passes when they need them, and (they) will never have to worry about selecting which cards to carry in their Google Wallet. They can store their loyalty cards, gift cards, maybe some special offers or event tickets, boarding passes, transit tickets, or vaccine cards.
+
+Flanagan explained that Google Wallet will be a common platform that makes it easier for device makers to provide a digital wallet on every Android device. He added that Google Wallet will be accessible from the device lock screen and from the pulldown shade.
+
+Flanagan also said that the company is working on allowing users to store their driver’s licence in the Google Wallet. He added that the company has provided developers with Generic Passes API to digitise passes of any kind.
+
+Google said that its Wallet comes laced with privacy and security controls. “While it brings all of the security features of Android as its first line of defence, such as authentication, find my phone, remote data wipe, and more, users can rest easy knowing that their valuables stored in Google Wallet are safe and secure,” Flanagan said.
+
+Flanagan informed that payments made using the Wallet are encrypted and card information is never shared with third parties. ”Privacy controls allow users to maintain full control over their data with transparency about what is shared and who has access to it.”
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

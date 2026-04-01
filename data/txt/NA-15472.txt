@@ -1,0 +1,57 @@
+âThe fundamental problem with the rules that have come out is that they are, in a sense, collapsing two entirely separate regulatory logics [together]. One that is meant for, I think, the IT rules [is] about platform accountability and liability. And the stuff about labelling and content provenance is really to do with governing AI technology, right? And I think that by conflating AI oversight with the liability regime, we are essentially creating outcomes that are not needed and a lot of confusion,â a participant pointed out during MediaNamaâs discussion ‘Regulating for Deepfakes in India’ on November 5.Â
+
+The discussion focused on a draft amendment to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021. This amendment aims to legally define synthetically generated information, mandate labelling, watermarking, and metadata embedding for such content. Also, it requires user declarations, automated verification by Significant Social Media Intermediaries (SSMIs), and due diligence obligations for intermediaries that facilitate or host synthetic content.Â
+
+Discussing the responsibilities of social media platforms (classified as intermediaries under the IT Act and Rules), the participant argued that platforms should only be responsible for user behaviour and content moderation within the bounds of safe harbour.Â
+
+[Note: The bulk of the discussion was under the Chatham House Rule, under which participantsâ remarks names and affiliations cannot be disclosed. Where speakers specifically waived this rule, we have added attribution to their comments.]
+
+One of the biggest points of contention is whether social media platforms (and not platforms generating synthetic content) have labelling responsibilities as well. Addressing this, former Senior Director at the Ministry of Electronics and Information Technology (MeitY), Rakesh Maheshwari, suggested that, based on his interpretation, users are responsible for declaring synthetic content when they upload it on a social media platform.Â
+
+âIf it has been synthetically generated and that’s where maybe the platform puts a mark and gives metadata to be able to prove the provenance, and if it is passing through multiple kinds of platforms, naturally, the size of the file will keep on increasing. Hopefully, if nothing is removed, the traceability gets established, and maybe any platform that is used for uploading also gets noted,â he explained.
+
+Outside of labelling, participants explained that when users upload content to a social media platform, it ends up transcoding such content: a process via which a file can end up losing its metadata. They suggested that, given the metadata embedding requirements, social media platforms could end up liable for the metadata loss.Â
+
+Elaborating on his point about user disclosures about synthetic content, Maheshwari explained that users may not always correctly disclose content. âAssuming that the user has flagged that this is a synthetically generated media information, and the platform looks into [it] using the tools and confirms that it is. If it is so, then it labels it (the content) as synthetically generated. If not, and for the rest of the things where user has not declared it to be synthetically generated, what really happens in those scenarios?â he questioned.Â
+
+Maheshwari suggested that in cases where a user does not declare a piece of content as synthetically generated, the regulation should not require platforms to do anything except provide their own mark and their own metadata to it. He gave the example of how TikTok’s content includes labels which indicate that a video came from TikTok when a user exports it.
+
+âNow you [the social media platform can] leave it to the reporting community who reports [whether a piece of content is synthetic] and depending upon the kind of problem which has been reported, you can go back to what the user had committed, user had communicated and that’s where you start. Maybe if it is NCII [non-consensual intimate imagery], synthetically generated NCII, the policies can always convey that the user account shall be disabled,â Maheshwari argued.
+
+Besides suggesting platform-level labels, he also recommended that the regulation should exempt text-based synthetic outputs.
+
+Another participant, however, countered that the rules appear to require social media platforms to scan content and check whether it’s synthetically generated. âTo my mind, the main thing that [this] does is that it blurs the distinction between hosting and editorialising, right? And I think that obviously, it undermines this whole safe harbour principle. To me, the requirements represent an active moderation requirement,â they pointed out. Another participant agreed, suggesting that even a requirement to add platform logos to content is active moderation, to which Maheshwari argued that active moderation would involve looking into the content.Â
+
+Besides being a question of content moderation, participants also questioned the effectiveness of implementing content labels. A participant argued that if platforms have content labelling obligations, such as via C2PA (Coalition for Content Provenance and Authenticity) or SynthID , the labelling solution will not be effective because of lack of interoperability.
+
+âSo, the technical standards of detection and embedding those markers, first, we should think it through how that will happen. We will figure out adoption, and then we can define when we are going to embed them, and at what threshold we are going to embed them,” they explained.Â
+
+One of the participants brought up that platforms would struggle to establish whether a piece of live content is AI-generated. âAnd after that, let’s say if that becomes downloadable and I put my logo on it and if something untoward has happened, my brand image is going to go for a toss,â they argued.
+
+This particular participant also suggested that under the rules, any failure to reasonably verify user declarations about synthetic content could lead to a loss of safe harbour, adding that courts would have to provide clarity on what constitutes âreasonableâ verification.Â
+
+Meanwhile, another person argued that platforms could disagree with each other on âsynthetically generated informationâ classifications.
+
+âIf you have to actually implement these rules, you will have to proactively monitor each and every piece of content that a user uploads. Because, notwithstanding Mr. Maheshwari’s amendment, which he’s suggesting, as of now, whatever a user declares doesn’t matter. Whether the user says this is SGI [synthetically generated information] or not, the intermediary, as per the rules, has to verify,â they remarked.Â
+
+Discussing the implications of the rules on free speech, one of the participants quoted theÂ explanatory note for the draft amendment which mentioned the use of deepfakes for spreading misinformation, damaging reputations, manipulating elections and financial fraud.
+
+The participant highlighted how reputational damage and misinformation may not fit entirely within the scope of the restrictions, while comparing these with reasonable restrictions on freedom of speech and expression under Article 19(2) of the Indian Constitution.
+
+â This [push to go beyond reasonable restrictions] has been a trend with the Union Government, where [the] industry has not been recognising it for some time, and it was much more alive to it in 2013 when the Shreya Singhal case was filed. If you read the 2015 Shreya Singhal judgement, the Additional Solicitor General at that time, Mr Tushar Mehta, made the argument that the internet is a new medium and due to virality, there needs to be additional flexibility in how laws and regulations are applied,â the speaker argued.
+
+They added that the government appears to have succeeded in this push in the X Corp vs the Indian government case this year.
+
+The participant argued that unlike other jurisdictions, such as the European Union (EU) which created a comprehensive regulation, Indiaâs rules give the government powers for opaque censorship. Elaborating on the discussion with the MeitY AI Governance guidelines , the participant argued that under the header covering deepfakes the guidelines mentioned that traceability for deepfakes could be established using unique immutable identities like Aadhaar.
+
+He suggested that one such identity could the Aadhaar and a user could end up being asked to sign on platforms using their Aadhaar IDs.
+
+You can watch the event video here:
+
+This discussion was supported by Google, Meta, and Amazon, with community partners Internet Freedom Foundation (IFF), Centre for Communication Governance (CCG), NLU Delhi, and Broadband India Forum (BIF).
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

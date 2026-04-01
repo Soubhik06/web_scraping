@@ -1,0 +1,49 @@
+SUBREDDIT: r/india
+TITLE: LIC forgets to put OTP password on insurance forms exposing lakhs to phishing and ID theft
+DATE: 2025-01-04
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/1htbnkn/lic_forgets_to_put_otp_password_on_insurance/
+
+--- POST TEXT ---
+
+&gt;The exploit involved accessing a specific URL where insurance form PDFs were stored. By simply modifying the document ID in the URL, anyone could retrieve personal data without encountering any security measures.
+
+&gt;The document ID followed a sequential numbering system, starting from 0 and incrementing by 1 for each new entry. This allowed anyone to write a simple script or manually iterate through the numbers to download every document ever stored, covering the entire operational history of LIC’s eSales platform.
+
+&gt;Moreover, there was an absence of any form of authentication or verification, such as OTP validation, before granting access to these PDFs.
+
+&gt;Key confidential details included:
+
+&gt;\*Mobile numbers
+
+&gt;\*Email addresses
+
+&gt;\*Father’s and mother’s names
+
+&gt;\*Date of birth, age, and place of birth
+
+&gt;\*Residential addresses
+
+&gt;\*PAN card details
+
+&gt;\*Current occupation and employer details
+
+&gt;\*Educational qualifications
+
+&gt;\*Annual income
+
+&gt;\*Medical records and lifestyle details
+
+&gt;\*Family medical history
+
+&gt;\*Previous insurance policies held
+
+&gt;\*Bank account details
+
+&gt;\*Nomination details
+
+&gt;However, LIC does not specifically mention a process for users to delete their own data if they decide not to purchase a policy or switch to an alternative option.
+
+[https://www.medianama.com/2024/12/223-lic-delayed-action-security-warnings-esales-website-public-data/](https://www.medianama.com/2024/12/223-lic-delayed-action-security-warnings-esales-website-public-data/)
+
+lic data breach leak IRDAI cybersecurity

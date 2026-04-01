@@ -1,0 +1,107 @@
+This newsletter went out to MediaNama subscribers on December 21.
+
+Welcome to our latest special edition newsletter, dedicated to the important questions we’ve asked the authorities. Despite receiving either no reply or only a generic response that barely scratched the surface, we believe that these questions are crucial and deserve to be brought to your attention.
+
+Here goes:
+
+What is the status of Amazon’s application for satellite communication? [ Kamya Pandey]
+
+In November it was reported that the Department of Telecommunications (DoT) was seeking clarification from Amazon on its satellite communication (satcom) license application. The company has been reportedly seeking approval from the Indian National Space Promotion and Authorization Centre (IN-SPACe) to offer broadband-from-space services in the country.
+
+What we asked: We reached out to Amazon to find out more about its application—
+
+What is the status of Amazon’s application?
+
+What they said: We do not have any comments to share about this as of now.
+
+Why it matters:
+
+In the recent past Indian telecom companies have been arguing that online platforms (such as Facebook and WhatsApp) should pay telcos a fee for causing a strain on their networks by receiving vast amounts of traffic. With Amazon entering the broadband service market, it would be interesting to see how this debate plays out. One must note that less than 1% of interconnection agreements (agreements between telcos for sending and receiving information from each other’s networks) across the world are paid. So while telcos want OTTs to pay them, they don’t pay each other. This means that if Amazon sends data using its own network, it wouldn’t have to pay a network fee.
+
+How are telcos tackling the transition of license fee from revenue to capital expenditure? [Kamya Pandey]
+
+As per the Supreme Court’s judgement , license fees that telcos are required to pay to the DoT, will now be classified as capital expenditure. Revenue expenses are generally fully deductible from taxable income in the year they are incurred, while capital expenditures are not, meaning that telcos would now have to pay more income tax.
+
+What we asked: We reached out to Bharti Airtel, Reliance Jio and Vodafone Idea with the following questions—
+
+1. How would this re-classification of the license fee impact your business? 2. Are there any plans to file petitions to review the classification of license fees?
+
+What they said: No response.
+
+Why it matters: With the Supreme Court’s saying that license fees are a part of capital expenditure, telcos would have to look at years worth of tax records (starting from 1999 when the telecom policy changed and required operators to pay a open time entry fee payment and an additional license) and make the necessary payments.
+
+Did BookMyShow create a black market for World Cup tickets due to a technical bug? [Sarvesh Mathi]
+
+In a detailed thread on X, a user claimed that he and other people were able to get ahead in the booking queue for the ICC World Cup tickets because of a technical bug on the BookMyShow site that allowed users to access the booking link five minutes before the official booking opening time.
+
+What we asked: Based on the user’s claim, we asked BookMyShow:
+
+What they said: No response.
+
+Why it matters: The Cricket World Cup is one of the biggest events in India but the ticketing process by BookMyShow was mired in controversy. Many users took to social media to complain about how they waited for hours to get a ticket and were then told the tickets were sold out. Some users, however, managed to grab dozens of tickets and sold them in the black market for multiple times higher. If all this was due to a technical bug that BookMyShow could have easily addressed, it begs the question of whether more BookMyShow should be better scrutinised given the monopoly it enjoys in this space.
+
+Was there a data breach at Taj Hotels? [Sarvesh Mathi]
+
+A hacker last month claimed that he has in possession the personal data of millions of customers of Tata-owned Taj Hotels. He was selling the same for $5000. MediaNama was able to verify the dataset listing on the leaked data marketplace BreachForums, but we are unable to confirm if this dataset indeed contains customer data leaked from Taj Hotels and if so, what is the amount and granularity of the data at stake here.
+
+What we asked: We asked Indian Hotels Company Limited (IHCL), which owns Taj Hotels, for a statement confirming or denying the breach.
+
+What they said: No response
+
+Why it matters: If the hacker’s claims are authentic, this a serious breach given that the leaked personal data includes information on 1.5 million customers from 2014 to 2020 including their name, email, phone, date of birth, and address.
+
+How did the Internet and Mobile Association of India come up with its voluntary code of ethics for online gaming intermediaries? [G. Aarathi]
+
+A few weeks ago, multiple sources informed us that the industry body the Internet and Mobile Association of India (IAMAI) was coming out with a set of voluntary guidelines for online real money gaming companies. Given that the Indian government already has rules to regulate online real money gaming companies (albeit dormant), and that many other gaming industry bodies have similar codes in place, we were curious about what prompted IAMAI to bring these guidelines out at all.
+
+What we asked: We wrote to multiple IAMAI officials asking the following:
+
+What they said: No response.
+
+Why it matters: That yet another industry group is bringing a self-regulatory voluntary code for online real money gaming speaks to the slow and stagnant implementation of the Indian government’s online gaming rules. The rules have been in cold storage for months now as the government has yet to notify the private self-regulatory bodies that will oversee the sector. However, the difference here is that other codes were brought by gaming-specific industry bodies—while IAMAI, led by the CEO of a major online gaming company, represents the larger technology industry in India. It remains to be seen if there’s any significance to a large and influential grouping attempting to shape self-regulatory measures for a growing and controversial industry.
+
+In what way are Ed-tech firms working with the government for digitisation of education data? [Sarasvati NT]
+
+The Education Ministry of India has been accelerating the implementation of Vidya Samiksha Kendras (VSKs), under the National Digital Education Architecture (NDEAR) project for digitising the education sector. In August 2022, the Uttarakhand government partnered with a private Ed-tech company ConveGenius for establishing VSKs in the state.
+
+What we asked: We reached out to ConveGenius asking for more details about their collaboration with different State governments to implement VSKs:
+
+1. In what capacity is ConveGenius contributing for establishing a VSK in Uttarakhand? What is the time period of the agreement?
+
+2. If ConveGenius is providing a VSK toolkit to the State government, is the firm responsible for the technical operations of the VSK entirely?
+
+3. Does ConveGenius have visibility of or access to any educational data that the VSK analyses or processes?
+
+4. What are the safeguards for data protection and privacy of stakeholders’ data outlined in the contract between ConveGenius and the Uttarakhand government?
+
+5. Is ConveGenius providing VSK assistance to other states as well or has been reached out by other state governments for the same? If yes, could you please list them?
+
+We are yet to receive a response from the company to the queries mailed.
+
+Why it matters: VSKs play a key role in the NDEAR’s digital education infrastructure and the Education Ecosystem Registry (EER) project, which aim to create interoperable registries for student, teacher, and school data. In their feedback to the EER consultation paper, educators and activists have voiced concerns related to data-sharing, privacy rights of children, and limited access to the internet, among others. There is no information on whether a public discussion was held to address these questions. However, given that the government is advancing efforts to implement NEP across states, the push for establishing VSKs can be seen as a move to go ahead with predetermined plans while stakeholder questions remain unanswered.
+
+Did ransomware attack on ‘Save the Children’ affect the organisation’s data from India? [Sarasvati NT]
+
+In September this year, international child rights organisation ‘Save the Children’ was hit by a ransomware attack by a cybercrime group called ‘BianLian’. As reported by The Register, the ransomware attack compromised financial and health data from the nonprofit’s website.
+
+What we asked: We reached out to Save The Children, to gain clarity over the following questions:
+
+1. Did the Indian team receive any communication regarding the cyber-attack?
+
+2. Did the ransomware attack have any impact on the website of Save The Children, India? If yes, please provide details of the data that was affected by the cyber-attack.
+
+3. Which are the parties from India affected by the data theft?
+
+4. What is the kind of data regarding children from India does the team have? Was such data compromised by the ransomware attack?
+
+5. Did the team take necessary steps/measures to protect data from future vulnerabilities? If yes, what are they?
+
+What they said: We did not receive a response from the Indian team of the organisation yet.
+
+Why it matters: Save the Children works with around 25,000 employees across 116 countries, and has membership from 30 other countries, including India. The global child rights organisation primarily responds to national emergencies that impact child rights and holds data of supporting organisations, employees, spanning countries across the globe, and most importantly locally-relevant information on children’s health as well as education data. A cyberattack can compromise personal data of thousands of people, raising concerns of misuse of such information, privacy and safety of the employees. As per India’s Digital Personal Data Protection Act, the Data Protection Board can impose a penalty of Rs 250 Crores if an entity fails to take “reasonable security safeguards” to prevent personal data breach. While the organisation has initiated investigation with relevant authorities, it is worth checking how the local governments would address such incidents as per their data protection laws.
+
+Team MediaNama
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

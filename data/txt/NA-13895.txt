@@ -1,0 +1,21 @@
+If you are a free Twitter user (i.e. not a Twitter Blue subscriber), then today is the last day you will be able to use text messages (SMS) as your second authentication method. If you would like to continue having two factor-authentication (2FA), then you will have to switch from SMS to an alternative 2FA method such as an authentication app or security key.
+
+What is two-factor authentication (2FA): “Instead of only entering a password to log in, 2FA requires you to also enter a code or use a security key,” Twitter explains. The code is typically either delivered to a user on their registered mobile number or an authentication app set up by the user. Twitter, on February 15, made SMS-based 2FA available only to Blue subscribers and gave free users until March 20 to switch away to another 2FA method.
+
+Read: Why Is Twitter Charging Users For SMS-Based 2FA And Why It Shouldn’t
+
+Why does this matter: Failure to switch to an alternative 2FA by today will result in your account relying solely on a password for authentication during login, which is not recommended as hackers can get into your account much more easily. For instance, if you use the same password across different sites and one of the sites faces a data breach and your password gets leaked, then hackers will be able to get into your Twitter account effortlessly using the leaked credentials. A weak password is also easy to crack by brute forcing various combinations of text and numbers. Having 2FA for all types of accounts, not just Twitter, is considered to be an important cybersecurity practice because it will require an additional code even if hackers somehow get your password.
+
+What should users do: The easiest way for users to remain protected is to shift to an authentication app to receive codes for 2FA. This will work very similarly to SMS 2FA except that the one-time passwords (codes) you need to enter will be shown on an authentication app rather than you receiving a text message. Here are the options for authentication apps:
+
+If you are looking for something more secure than authentication apps, a security key is a way to go, but this requires you to purchase a physical piece of hardware that needs to be connected to the device you are trying to access Twitter from. Here’s an explainer from The Verge on how you can set up 2FA with a security key.
+
+Navigating settings on Twitter to change 2FA: On the Twitter desktop, iOS, or Android app:
+
+Are other forms of 2FA actually better? The price tag on SMS 2FA might be a blessing in disguise as SMS is not as secure as other 2FA methods because SIM swap attacks allow a hacker with a stolen password to be able to get the code sent to the user’s number. Although not common, it is possible , and therefore, 2FA using SMS is strongly discouraged for people who face a higher threat of hacking such as celebrities, politicians, CEOs, and journalists.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

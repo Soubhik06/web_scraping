@@ -1,0 +1,29 @@
+A database claiming to contain the Aadhaar number, passport number, and other personal details of 815 million Indians is listed for sale on BreachForums since October 9.
+
+“To put this victim group in perspective, India’s entire population is just over 1.486 billion people,” cybersecurity firm Resecurity noted in its blog post , emphasising that this could be the largest data breach of personal data in the country. In the wrong hands, this data can be used for digital identity theft, which can further result in other cybercrimes like banking fraud.
+
+Investigators with Resecurity established contact with the hacker selling the database and learned they were willing to sell it for $80,000. The hacker also shared spreadsheets containing four large leak samples with fragments of Aadhaar data as proof. The Resecurity team was able to identify valid Aadhaar IDs in the samples by cross-checking the same with UIDAI’s Verify Aadhaar feature. The authenticity of the entire database is however unverified.
+
+It is not yet clear where this database leaked from. The hacker “declined to specify how they obtained the data. Without the threat actor disclosing the source of the data leak any effort to diagnose the cause of the beach will be speculative,” Resecurity noted. Some media outlets have attributed the leak to the Indian Council of Medical Research (ICMR), but ICMR has not confirmed the same. The Times of India reported that the government is probing this leak.
+
+Article continues below , you might also want to read:
+
+Other personal details apart from Aadhaar and passport numbers that the database claims to contain include:
+
+The size of the database is 90 GB.
+
+“With more government agencies and companies hoovering up greater volumes of data now than ever, data leaks are almost inevitable. Any entity collecting such data should use data-centric security and deploy zero-trust protocols. Without a data security plan, we will continue to see sensitive personal information like health and financial data being breached.
+
+This will lead to identity theft and other costs amounting to billions.
+
+A swift probe and transparency from the ICMR and MEITY are essential to maintaining public trust.
+
+If they cannot guarantee data security, the government should stop collecting PII for every interaction.” — Mishi Choudhary, Technology Lawyer and Online Civil Rights Activist
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Update (October 31, 12:30 pm): Added comment from Mishi Choudhary
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

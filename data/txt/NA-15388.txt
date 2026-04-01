@@ -1,0 +1,53 @@
+The National Company Law Appellate Tribunal (NCLAT) is hearing one of the most consequential digital market cases in India. WhatsApp and Meta are appealing the Rs 213 crore penalty that the Competition Commission of India (CCI) imposed in November 2024. The CCI held that WhatsApp’s 2021 privacy policy update, which required users to agree to broader data sharing with Meta or lose access to the service, amounted to abuse of dominance.
+
+Meta’s lawyers attacked the order on multiple grounds. Senior advocate Amit Sibal described the CCI’s decision as resting on “seven misses”. According to him, the case was triggered by misinformation that WhatsApp would lose end-to-end encryption. He said the 2021 policy did not actually expand data sharing but only clarified the existing framework of the 2016 update, which courts had already upheld.
+
+He also insisted that the Commission misunderstood the opt-out mechanism. WhatsApp shares data with Meta only in limited and optional cases, such as “Click to WhatsApp” ads, and users can opt out. Additionally, Sibal faulted the CCI for failing to consult any user or advertiser and for presenting no concrete evidence of rivals being harmed.
+
+Furthermore, he accused the Commission of misapplying the law by skipping the step of proving dominance in the relevant market and instead relying on speculative future harms. Moreover, he added that the regulator ignored the pro-competitive benefits of personalised advertising. Finally, he called the remedies a “misadventure” because they imposed sweeping restrictions, such as a five-year ban on data sharing, without justification or proportionality.
+
+Meta argued that user data is non-rivalrous and widely available. The company claimed the Commission exaggerated the competitive edge it gains from WhatsApp data because location and behavioural signals can be inferred in other ways. It warned that blocking optional data flows would hurt innovation and small businesses that rely on improved ad tools.
+
+Meta also questioned the fine, pointing out that WhatsApp implemented the 2021 update. Its counsel maintained that if any penalty was necessary, it should fall on WhatsApp rather than Meta, which operates as a separate legal entity.
+
+WhatsApp’s counsel, Arun Kathpalia, reinforced this line. According to him, the 2021 update did not widen the scope of data collection compared to 2016, and users who opted out in 2016 still enjoy that protection. Kathpalia stressed that device information, such as battery level or signal strength, is collected only to maintain service quality.
+
+He further pointed out that WhatsApp operates under Indian IT Rules, not the European General Data Protection Regulation (GDPR) , so expectations of stricter disclosure or opt-in do not apply in the Indian market.
+
+The CCI responded with an equally forceful case. First, it rejected the idea that privacy lies outside its remit. The Commission clarified that it does not enforce individual privacy rights the way a consumer forum or data protection board might. However, when data practices create competitive distortions, that falls squarely within Sections 3 and 4 of the Competition Act .
+
+Section 3 covers agreements that restrict competition, while Section 4 addresses abuse of dominance, including unfair conditions. CCI said that WhatsApp’s 2021 policy update fits this frame because forcing users into data sharing strengthens Meta’s market power and affects consumers and competitors as a class.
+
+Furthermore, the CCI stressed the fact that WhatsApp being “free” does not remove it from scrutiny. Under the Act, price includes both monetary and non-monetary consideration, and user data qualifies as such. In digital markets, data functions as the currency of competition. Therefore, when a dominant platform like WhatsApp requires broader data sharing with its parent, Meta, that transfer of value must be examined for anti-competitive effects.
+
+On dominance, the Commission argued that strength can come not just from money, technology, or raw materials, but also from data. Moreover, aggregated data gives firms the ability to act independently of competitors or tilt the market in their favour. Notably, the CCI also asked the tribunal to consider the broader framing of the “market for user attention”. They explained that in the digital economy, every unit of user attention can be converted into commerce. Whoever captures and aggregates that attention across services gains structural advantages.
+
+On jurisdiction, the CCI argued that Parliament anticipated overlap between regulators. Sections 21 and 21A of the Competition Act explicitly provide for references between CCI and sectoral regulators. Therefore, the existence of a data protection law does not bar the CCI from acting when data practices affect competition.
+
+Additionally, the Commission pointed to the Supreme Court’s ruling in the Telecom Regulatory Authority of India (TRAI) vs CCI case, which held that while sectoral regulators handle technical and licensing issues, the CCI retains jurisdiction over anti-competitive conduct. Furthermore, the CCI leaned on constitutional and judicial precedent. It referred to the Puttaswamy privacy judgment , which recognised the economic value of data and acknowledged that data practices can influence markets.
+
+It also cited the Delhi High Court’s earlier ruling that allowed the WhatsApp investigation to proceed. Internationally, it pointed to the European Court of Justice’s 2023 decision upholding the German competition authority’s power to examine Facebook’s data practices as an abuse of dominance, even though a separate data protection regulator exists.
+
+The competing narratives reveal the core of the dispute. Meta and WhatsApp want data practices to remain in the domain of privacy law, where compliance can be measured through disclosures and consent. The CCI views data as a competitive parameter that can entrench dominance, reduce consumer choice, and raise barriers for rivals.
+
+Notably, Indian WhatsApp users face relentless promotional messages and spam. In Europe, WhatsApp’s practices are constrained by the GDPR, which sets stricter limits on how data can be shared for advertising. India has no equivalent curb in force today, making users more vulnerable to aggressive commercial messaging.
+
+Advertisers increasingly rely on Meta’s integrated ad stack, which combines Facebook, Instagram, and WhatsApp data. Smaller rivals cannot match this reach, and startups struggle to build alternatives. Users cannot realistically exit WhatsApp, given its lock-in. This combination of forced consent, cross-platform integration, and network effects is what the CCI sees as abuse of dominance.
+
+The remedies imposed by the CCI have drawn criticism. A five-year ban on sharing WhatsApp user data with Meta for advertising looks arbitrary when no reasoning was provided for the specific duration. Requiring detailed purpose binding for each category of data and mandating User Interface (UI) design changes also risks micromanagement. Remedies should be proportionate and targeted to restore fair competition, not to dictate every aspect of product design.
+
+However, the principle behind them is valid. Limiting cross-use of WhatsApp data that entrenches Meta’s advertising dominance is a legitimate way to restore competition. Moreover, Section 27 of the Competition Act gives CCI explicit power to craft such remedies. The tribunal can refine the measures to make them proportionate, but it should not accept Meta’s view that no remedy is appropriate.
+
+At stake is more than a fine or a privacy policy. The larger question is whether India adapts its competition law to a data-driven economy or allows platforms to hide behind regulatory silos. If the competition regulator steps back, platforms exploit the gaps: they tell the Data Protection Board that consent has been obtained, while telling the CCI that the service is free. In that scenario, neither body addresses the reality that data collection and cross-use distort markets.
+
+For Indian users, this translates into more spam and manipulation and fewer alternatives. For startups, it creates the challenge of competing against a platform whose dominance grows with each new layer of data. Moreover, international practice shows that competition regulators already treat data as a competitive asset.
+
+Internationally, Europe has enacted the Digital Markets Act , which tackles data-driven gatekeeping, while the U.S. Federal Trade Commission has challenged Meta’s acquisitions of Instagram and WhatsApp on grounds that they entrenched monopoly power through control of user data. However, India risks being left behind if it retreats into narrow silos.
+
+The NCLAT’s ruling, therefore, decides more than the fate of WhatsApp’s privacy update. Notably, it determines whether Indian competition law can grapple with the realities of digital markets. The CCI has argued persuasively that data is competition. The tribunal now has the chance to affirm that principle and ensure that Indian users and businesses are not left exposed to unchecked platform power.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

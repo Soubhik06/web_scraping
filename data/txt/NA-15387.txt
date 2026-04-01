@@ -1,0 +1,85 @@
+While India still awaits its National Cybersecurity Policy, the United States President on Wednesday issued an executive order that overhauls its cybersecurity policy. “Cybersecurity incidents like SolarWinds, Microsoft Exchange, and now the Colonial Pipeline incident are a sobering reminder that both U.S. public- and private-sector entities are very vulnerable to constant, sophisticated, and malicious attack — from nation-state adversaries to run-of-the-mill criminals,” a senior administration official said in a press call .
+
+The order focuses on the following policy key changes:
+
+The Federal Acquisition Regulation (FAR) and the Defense FAR Supplement contracts will be reviewed and modified by the Director of the Office of Management and Budget (OMB) to remove contractual obligations that deter service providers from sharing information into cyber threats.
+
+Common cybersecurity contractual requirements across agencies will be standardised , while agency-specific requirements will be reviewed by the Secretary of Homeland Security in consultation with the Secretary of Defense, the Director of OMB, and the Administrator of General Services and accommodated.
+
+The contract will be modified to instruct :
+
+Furthermore, the contract will specify :
+
+1. Adopting cloud technology based on zero trust architecture : The head of each agency is required to prioritize resources for the adoption of cloud technology, develop a plan to implement Zero Trust Architecture, and report these plans to the Director of OMB and the Assistant to the President and National Security Advisor (APNSA) within 60 days. To facilitate this:
+
+2. Modernising Federal Risk and Authorization Management Program (FedRAMP): The Administrator of General Services, in consultation with the Director of OMB and the heads of other agencies, will begin modernizing Federal Risk and Authorization Management Program (FedRAMP) by:
+
+1. Establishing baseline security standards for the development of software sold to the government : The Secretary of Commerce will seek input from various stakeholders to identify existing or develop new standards, tools, and best practices for evaluating software security.
+
+Guidelines that include standards, procedures, or criteria will be issued by the Secretary of Commerce regarding:
+
+2. Defining critical software :
+
+A definition of the term “critical software”  will be published by the Secretary of Commerce in consultation with the Secretary of Defense, the Secretary of Homeland Security, the Director of OMB, and the Director of National Intelligence.
+
+A list of categories of software that meet the definition of critical software will also be made available
+
+Guidance outlining security measures for critical software will also be published. Within 30 days from then, the Director of OMB will take appropriate steps to require that agencies comply with the guidance and only use software that meets the specified requirements.
+
+3. Piloting program to provide security ratings to software
+
+Pilot programs, based on existing consumer product labelling programs, to educate the public on the security capabilities of Internet-of-Things (IoT) devices will be initiated by the Secretary of Commerce in coordination with representatives from other relevant agencies. It will also find ways to incentivize manufacturers to participate in these programs.
+
+IoT cybersecurity criteria, as well as secure software development processes for a consumer labelling program, will be identified by the government. The criteria will reflect increasingly comprehensive levels of testing and assessment that a product may have undergone, and will be compatible with existing labelling schemes that manufacturers use to inform consumers about the security of their products.
+
+A recommended label or a tiered software security rating system will be developed by the Director of NIST after examine all relevant information, labelling, and incentive programs.
+
+A Cyber Safety Review Board will be established by the Secretary of Homeland Security, in consultation with the Attorney General, and will be convened following a significant cyber incident affecting FCEB Information Systems or non-Federal systems to review and assess the incident.
+
+Any advice, information, or recommendations that the Board suggests for improving cybersecurity following the assessment of an incident will be submitted to the President through the APNSA  by the Secretary of Homeland Security. The federal government will take steps to implement them as appropriate.
+
+The Board will include members from the government as well as the private sector. The Chair and Deputy Chair will be appointed biennially and will include one from each group. The Board will comprise representatives of the Department of Defense, the Department of Justice, CISA, the NSA, and the FBI, as well as representatives from appropriate private-sector cybersecurity or software suppliers as determined by the Secretary of Homeland Security.
+
+A standard set of operational procedures (playbook) will be developed by the Secretary of Homeland Security in coordination with the Secretary of Defense, the Attorney General, and the Director of National Intelligence, to be used in planning. Current incident response procedures vary across agencies, hindering the ability of agencies to analyze vulnerabilities and incidents more comprehensively across agencies.
+
+1. Enabling a government-wide endpoint detection and response system
+
+Endpoint Detection and Response (EDR) initiative will be deployed by FCEB agencies to support proactive detection of cybersecurity incidents.
+
+Recommendations for implementing an EDR initiative will be provided by the Secretary of Homeland Security. Within 90 days of receiving these recommendations, the Director of OMB will issue requirements for FCEB Agencies to adopt Federal Government-wide EDR approaches. The Director of OMB will work with the Secretary of Homeland Security to ensure that agencies have adequate resources to comply with the requirements issued.
+
+A report describing how authorization to conduct threat-hunting activities on FCEB networks without prior authorization is being implemented will be provided by the Director of CISA.
+
+Appropriate actions for improving detection of cyber incidents affecting National Security Systems will be recommended by the Director of the NSA. Within 90 days, the Secretary of Defense, the Director of National Intelligence, and the CNSS shall review these recommendations and establish policies that effectuate those recommendations.
+
+2. Improving information sharing within the Federal government
+
+To ensure alignment between Department of Defense Information Network (DODIN) directives and FCEB Information Systems directives, the Secretary of Defense and the Secretary of Homeland Security shall:
+
+Network and system logs must be collected and maintained by agencies and their IT service providers to address a cyber incident on FCEB Information Systems, if necessary. They will also be required to provide them, upon request, to the Secretary of Homeland Security and to the FBI.
+
+The requirements for what information to collect will be recommended by the Secretary of Homeland Security to the Director of OMB. This includes the types of logs to be maintained, the time periods to retain the logs and other relevant data, the time periods for agencies to enable recommended logging and security requirements, and how to protect logs within an agency’s systems and networks. Within 90 days of receiving these recommendations, the Director of OMB will formulate policies for agencies to establish requirements for logging and work with agency heads to ensure that agencies have adequate resources to comply with the requirements.
+
+In a press call, a senior administration official cited several recent cybersecurity incidents that severely harmed the nation:
+
+SolarWinds Hack: This Russia-linked incident , which occurred late last year, affected 9 federal agencies and 100 private companies. Hackers compromised SolarWinds’ monitoring and management software, which was used by multiple government agencies and Fortune 500 companies.
+
+Microsoft Exchange Hack: Earlier in March, Microsoft announced that Chinese hacking group Hafnium exploited vulnerabilities in its Exchange Server. Hafnium attacked 30,000 organisations in the US alone, with several hundred thousand worldwide. White House Press Secretary Jen Psaki termed the breach a “significant vulnerability that could have far-reaching impacts”.
+
+Colonial Pipeline Attack: Earlier this month, one of the largest fuel pipelines in the US was taken offline , following a cyberattack that affected the IT systems of the company that runs the pipeline. The pipeline is said to carry 45% of the fuel supply for the eastern US. Details of the attack are not fully known yet, but it is suspected to be a ransomware attack by the criminal group DarkSide.
+
+These high-profile attacks, along with other incidents like the ransomware attack closing Baltimore schools last year and lax security protocols leaving a Kansas county without drinking water supply, have promoted the US government to act decisively.
+
+“Today’s executive order makes a down payment towards modernizing our cyber defenses and safeguarding many of the services on which we rely. It reflects a fundamental shift in our mindset — from incident response to prevention, from talking about security to doing security — setting aggressive but achievable goals to make the federal government a leader in cybersecurity, and improve software security and incident response.” – A senior administration official said in a press call .
+
+While the order announces many ambitious steps the federal government will take to modernize the nation’s cyber defences, it also calls private players to follow its lead. “Much of our domestic critical infrastructure is owned and operated by the private sector, and those private sector companies make their own determination regarding cybersecurity investments. We encourage private sector companies to follow the Federal government’s lead and take ambitious measures to augment and align cybersecurity investments with the goal of minimizing future incidents,” a White House factsheet stated.
+
+Stating that adversaries use multiple methods to attack such as hunting for coding errors or compromising supply chains to create an opportunity, a senior administration official highlighted some common gaps that all incidents exhibit:
+
+Executive Order | White House Fact Sheet | Press Call
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

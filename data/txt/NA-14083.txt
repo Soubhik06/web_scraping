@@ -1,0 +1,23 @@
+The Telecom Regulatory Authority of India (TRAI) has asked telecom companies to suspend traffic from business entities if it detects misuse of headers and message templates. It has further directed them to restrict messages containing OTT links, URLs and APKs, as part of its latest spam-restricting measures.
+
+Telecom companies must ensure that all messages from a business entity (like a bank or an insurance company) are traceable starting November 1, 2024, the Telecom Regulatory Authority of India (TRAI) said in its latest spam directions . These directions are in line with the regulator’s Quality of Service directions from February last year where it had said that telecom companies must ask business entities for details of all the telemarketers they engage to send messages to their customers. TRAI has directed telecom companies to reject any telemarketing message where they cannot define the chain of telemarketers or where it doesn’t match.
+
+As per its latest directions, if telecom companies notice misuse of a message template or header, they must suspend traffic to and from that entity immediately, till the entity files a complaint against the misuse of the message header/template with a law enforcement agency. In such a situation, the entity must also review all its header and message templates and take corrective measures as per the regulations, to prevent their misuse.
+
+Further, TRAI directs telemarketers working with business entities to identify and report misuse of message headers/templates within two business days. If they fail to do so, TRAI instructs their telco to block them.
+
+This comes soon after the TRAI chairman said that the regulator will review and strengthen spam regulation on August 8, 2024. The led telecom regulator to instruct the telecom operators to blacklist unregistered telemarketers on August 13, 2024. TRAI also asked the telcos to disconnect all telecom resources for these telemarketers for two years.
+
+TRAI has previously instructed business entities to get their message templates and headers registered on the Distributed Ledger Technology (DLT) Platform, established under Telecom Commercial Communications Customer Preference Regulations, (TCCCPR) 2018, for scrubbing by all telcos.
+
+In its latest directive, TRAI notes that it has given similar instructions in the past as well. It mentions that it:
+
+However, telecom companies and business entities did not completely adhere to these directions. TRAI said that it has received information from the Indian Cyber Crime Coordination Centre (I4C) about multiple instances where principal entities’ identities, message headers and templates were misused. In some of these cases, TRAI found no correlation between the entity name, message header, and templates.
+
+Further, it also found that spam/scam messages were using words like ‘disconnection’, ‘lottery’, ‘OTP’, even though these terms were not related to the business of the senders. The regulator also mentions that in some cases the same content template was linked to multiple different message headers. Moreover, telemarketers were using content templates registered for promotional purposes for transactional messages.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

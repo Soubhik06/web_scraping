@@ -1,0 +1,33 @@
+Users on social media have highlighted an interesting, but controversial use case of Google’s new Gemini AI model: culling watermarks from images, including images published by Getty Images and other renowned stock media portals, as per a Tech Crunch report .
+
+The Gemini 2.0 Flash model appears to have precious few guardrails, and in addition to removing watermarks, it can generate images of famous personalities and copyrighted animated characters without any fuss. Case in point: an image of the world’s wealthiest person, Elon Musk , and a series of images of the famous Pokemon character Pikachu .
+
+Notably, only last week, Google had expanded access to Gemini 2.0 Flash’s image generation feature.
+
+This particular feature is ‘experimental’ and ‘not for production use’ as of now, and is only available for use on Google’s developer-facing tools like AI Studio.
+
+And even though it appears to be immaculately skilled at removing watermarks and filling in any gaps that are left after a particular watermark is removed, it isn’t perfect at executing this job.
+
+It apparently struggles with semi-transparent watermarks and those that cover a wide expanse of images.
+
+On the other hand, AI models such as Anthropic’s Claude 3.7 Sonnet and OpenAI’s GPT-4o expressly refuse to remove watermarks from images, with Claude even going as far as to call the act “unethical and potentially illegal.”
+
+Earlier in June last year, PicsArt partnered with Getty Images to generate copyright-free AI images. The partnership allows PicsArt’s new AI image generation tool to create images “with commercial rights and an indemnity,”. Here, PicsArts used licensed Getty Images to train its AI models.
+
+Coming to the legal aspect of removing watermarks, the US copyright law outlaws doing away with a watermark sans the original owner’s consent, except for rare instances .
+
+Elsewhere, the European Union’s AI Act ‘s Article 50 – which lists out the obligations of AI providers and deployers of AI systems – states that outputs of an AI system should be in a “machine-readable format”, and must be detectable as “artificially generated or manipulated”.
+
+Meanwhile, closer home, China has announced ‘identification measures’ stipulating that AI-generated content should have human and machine-readable notifications. Even AI-generated files available for download must have labels so that users are aware about what they are going to access.
+
+An important point to note here is that Chinese regulators likely drew inspiration from the EU’s AI Act, usually considered to be the most comprehensive legal framework aimed at regulating AI thus far.
+
+“Chinese policymakers and scholars have said that they’ve drawn on the EU’s Acts as inspiration for things in the past,” said Jeffrey Ding , an Assistant Professor of Political Science at George Washington University.
+
+But as AI keeps on becoming sophisticated, it is the need of the hour for countries around the globe to amend existing laws or even bring in newer legislation that safeguards and ensures the rights and security of copyright holders.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

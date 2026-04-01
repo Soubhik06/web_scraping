@@ -1,0 +1,47 @@
+Digital payments company Paytm has collaborated with Perplexity to launch an AI-powered search for users within its app to access “real-time financial assistance”. The service will enable users to make everyday queries, use local language options, and make “informed” financial decisions, the company stated in its press release .
+
+The “Ask AI” feature is located within the free tools section of the Paytm app.
+
+Paytm Founder Vijay Shekhar Sharma also announced plans to launch several “AI-first experiences” within its app through Perplexity’s integration. These comprise “individually tailored” features like portfolio management, savings, and expenditure control alongside summarisation and other financial insights, Sharma explained. Previously, Paytm had announced the development of AI-based fraud mitigation for financial institutions and leveraging AI for cost-cutting and driving efficiency, among other use cases of AI.
+
+Picking up on Paytm’s intent to enable users to make “informed” financial decisions using AI search, MediaNama tested the feature with three questions about investment advice.
+
+2. “How can I raise returns on my portfolio?”
+
+3. “Which mutual funds should I invest in?”
+
+However, as per the regulations of the Securities and Exchanges Board of India (SEBI), entities providing investment advice must register with the body as Investment Advisers. According to SEBI’s 2013 regulations on Investment Advisers (IAs), these entities need to meet certain basic criteria:
+
+Moreover, the market regulator’s recent guidelines on IAs shed light on AI usage in such services. Firstly, to ensure transparency, IAs using such tools shall explicitly disclose to clients its presence and extent in investment advice. Next, IAs shall be “solely responsible” for ensuring the confidentiality, security, and integrity of client data during such processes. SEBI mandates that investment advisers must comply with these norms by April 30, 2025, for existing clients.
+
+These guidelines follow SEBI’s August 2024 consultation paper on the regulatory framework for investment advisers and research analysts (RAs). For context , RAs generate research reports on financial performance and market trends, instead of directly advising clients (in contrast to IAs). Concerning chatbot services, the regulator noted how they often lack safety precautions for sensitive data shared during conversations, leaving it vulnerable to data exposure. Further, while acknowledging the assistive effort of AI tools for RAs and IAs, SEBI added that they may not provide “meaningful outputs” in light of complex security or client-specific scenarios like personal or financial goals. Further, AI tools may not fully disclose information used to generate the output/recommendation, like whether the investment adviser has complied with risk profiling requirements.
+
+Speaking of the usage of AI in investment advice, SEBI has also considered robo advisors or companies providing automated support for financial advisory services. A 2016 consultation paper clarifying the amendments to the regulations on investment advisers, permitted the usage of automated advice tools by IAs subject to certain compliance requirements. These include ensuring the automated tools are suitable for the purpose, are used only for target clients, contain a comprehensive system audit, etc. Notably, akin to the process of utilising AI tools, IAs must disclose the tools’ operation and the limitations of their outputs to clients.
+
+SEBI’s recommendations followed the outline of different levels of automated investment tools:
+
+The tools could later provide customers with either a more general or specific list of securities or model portfolios that the investor can choose to purchase to meet their investment goals.
+
+Coming back to the provision of investment advice by Perplexity and Paytm’s “Ask AI” feature, it pulls inputs from pre-existing websites and sources like Investopedia, Voya, and Economic Times, among others. However, as with other AI answer engines, there remains a risk of misinformation due to hallucinations and information gaps . Notably, easy access to an AI search engine providing advice may also risk over-reliance. To explain, a study about Trust and Reliance on AI concluded that the mere knowledge of AI-generated advice causes individuals to over-rely on it and follow advice conflicting with available contextual information and their own assessment. Finally, as users may depend on this new feature to ask for investment-related advice, concerns about its legality and the potential harm to users remain.
+
+MediaNama reached out to Paytm with additional questions concerning this new feature and its functionalities.
+
+Paytm reached out to MediaNama explaining that it “ensures user data privacy by not sharing any historical data with Perplexity AI” and that the latter functions independently akin to other AI-powered search tools. A spokesperson also stressed that the “Ask AI” tool does not provide financial advice.
+
+Moving forward, this collaboration marks another attempt by Perplexity to make inroads into India’s AI landscape. To gain popularity, the company recently offered free access to its Pro Version to students and faculty of IIT Madras. Further Perplexity’s Srinivas also met Prime Minister Modi on his recent visit to India, discussing AI adoption in the country. Following the visit, Srinivas pledged funds worth $1 million and a portion of his time to qualified individuals developing AI in India, aiming to surpass Deepseek’s R1 model. Continuing this sentiment, during the call with Paytm, he also remarked that India should build its own foundational AI models to compete on global benchmarks.
+
+While this launch received positive reactions from many, others termed it an attempt to broaden Perplexity’s India base, questioning Paytm’s stake in the collaboration.
+
+Paytm has partnered with perplexity to launch a feature which it should have launched on its own. WTF (What's the Feature) ——— Paytm users will be able to "ask everyday questions, explore topics in their local language, and make informed financial decisions" through the AI…
+
+1. "I am guessing has the engineering capability to localize" is a big assumption. 2. Why is management bandwidth being dedicated to this (even for PR) is the bigger question. https://t.co/mliFAkJVOB
+
+Note: The headline was updated on February 28 at 7:17 PM based on editorial inputs.
+
+Note: The post was updated on March 1 at 12:10 PM to add Paytm’s response.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

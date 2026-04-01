@@ -1,0 +1,19 @@
+Ed-tech company Vedantu faced a data breach on July 8, exposing the personal data of about 686,899 users. Twitter account Have I Been Pwned, a website which tracks and reports data breaches, first reported this.
+
+New breach: Indian training site Vedantu had 687k records exposed in July. Exposed data includes IP and email addresses, names, phone numbers, genders and passwords stored as bcrypt hashes. 28% of addresses were already in @haveibeenpwned https://t.co/LGaAnj1hUA
+
+— Have I Been Pwned (@haveibeenpwned) November 1, 2019
+
+What all data was breached? Personal details including usersâ email and IP address, names, phone numbers, gender, passwords, spoken languages, time zones, website activity, all of which were stored as bcrypt hashes, were leaked, according to Have I Been Pwned.
+
+Vedantu is aware of the breach: Vedantu was aware of the breach and is in the process of informing its customers, Have I Been Pwned said. Microsoft’s regional director, Troy Hunt, who manages Have I Been Pwned, said on Twitter that Vedantu was also aware that its customersâ data was being exchanged online.
+
+Just for the record, I managed to make contact with Vedantu a week ago. They were aware of the incident and advised they were contacting impacted customers. They were also aware their customer data was being exchanged online https://t.co/bguAcm3rh6
+
+— Troy Hunt (@troyhunt) November 1, 2019
+
+What Vedantu said: Vedantu, however, also said that sensitive details of users were not leaked and since the details were stored in an encrypted format, it wouldnât be easy to misuse the data, according to the Economic Times. The vulnerability was fixed within a few days, as per the report. The ET report says that the breach took place in the last week of September, but according to HIBPâs website, the date of breach was July 8.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

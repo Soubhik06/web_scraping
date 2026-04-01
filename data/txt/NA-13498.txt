@@ -1,0 +1,45 @@
+“Every provision is a walking disaster,” “not feasible at all,” “don’t understand the rationale behind it,” “there are so many unanswered questions,” “no one is going to comply with these directions,” “a complete joke,” were some of the comments made by cybersecurity experts to MediaNama when we asked them what they thought about CERT-In’s new cybersecurity directive.
+
+The Indian Computer Emergency Response Team (CERT-In), which is the government-appointed nodal agency tasked with performing cybersecurity-related functions in the country, on April 28 issued new directions covering aspects related to the timeframe for reporting cybersecurity incidents, synchronisation of clocks, maintenance of logs for 180 days, and maintenance of KYC and transaction information for crypto exchanges and VPN providers. Cybersecurity experts spared no time in criticising these new directions for a long list of reasons.
+
+Dear reader, we urgently need to build capacity to cover the fast-moving tech policy space. For that, our independent newsroom is counting on you . Subscribe to MediaNama today, and help us report on the policies that govern the internet.
+
+What does CERT-In want companies to do: It wants companies to connect to the Network Time Protocol (NTP) Server of the National Informatics Centre (NIC) or the National Physical Laboratory (NPL) or to servers traceable to these NTP servers for synchronisation of their systems clocks. Those entities with infrastructure spanning multiple geographies can use other accurate sources as long as their time source does not deviate from NPL and NIC.
+
+Why is time synchronisation important: Computers depend on time for a whole lot of reasons, but when it comes to cybersecurity, having a synced time across systems helps with incident response. “One of the first things attackers do is try to cover their tracks once they enter your system. And one way they do that is by fiddling around with the clock time. So your logs go astray. And if you don’t have proper logs, then doing any sort of incident response or any sort of forensic investigation becomes very difficult,” Suman Kar, CEO of cybersecurity firm Banbreach, explained.
+
+How do computers get the time? “We ask others because my laptop, for example, doesn’t really have access to a time source, something like a quartz crystal that oscillates a particular number of times in a given second and that is how we define what a second is,” Kar added. So, computers and other devices get the time from something called a time server.
+
+The complexity behind time servers: “A time server obtains very accurate time from the GPS satellite system . This server is a highly technical and expensive piece of equipment,” cybersecurity researcher Anand Venkatanarayanan said. “The way in which time servers work is via synchronisation. So let’s say you have a server and then you have a time server. This server asks the time server what the time is. What if the time server is down and not responsive? Then you experience a drift, which can break down authentication and cause interconnected systems to misbehave. So the purpose of the NTP protocol is to minimise time drift by getting time from a reliable, authenticated source,” Venkatanarayanan explained. “Time is a very difficult problem because it’s a continuous process. Just because you are in sync with some server that’s sitting halfway across the world, doesn’t mean you are going to be in sync the next second. Because your system can have unpredictable delays in updating the next second,” Suman Kar explained.
+
+Why CERT-In’s directions are absurd:
+
+Are there privacy concerns with using NIC’s time servers? “There could be privacy concerns. Depending upon whether you want the government of India to know that you have a server with so and so IP,” researcher Srinivas Kodali told MediaNama. But Suman Kar argued otherwise. “With NTP, what I’m really doing is I’m asking a few people what the current time is. You really can’t create a profile of me, depending on how frequently and who I ask about time,” Suman Kar said.
+
+What does CERT-In want companies to do: All companies must mandatorily report cyber incidents to CERT-In within 6 hours of noticing such incidents or being brought to notice about such incidents.
+
+Why CERT-In’s timeline is unreasonable:
+
+What does CERT want companies to do: Companies must mandatorily enable logs of all their ICT systems and maintain them securely for a rolling period of 180 days and the same should be maintained within the Indian jurisdiction. These should be provided to CERT-In along with reporting of any incident or when ordered by CERT-In.
+
+Why this is not feasible:
+
+What are the privacy concerns with this requirement:
+
+What does CERT-In want companies to do: Data Centres, Virtual Private Server (VPS) providers, cloud service providers, and Virtual Private Network Service (VPN Service) providers, are required to register the following accurate information about customers and subscribers for a period of 5 years or longer duration after any cancellation or withdrawal of the registration:
+
+Why this is problematic:
+
+MediaNama has reached out to Amazon Web Services, Google Cloud, Jio, and Cloudflare for their responses and will update this post once we get them.
+
+Currently, companies can report incidents to CERT-In over email, phone, fax, or by filling in a PDF form that is available on their site. This very process is outdated and inefficient when it comes to reporting cybersecurity incidents as Anand Venkatanaryanan and Suman Kar point out:
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

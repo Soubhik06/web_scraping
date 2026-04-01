@@ -1,0 +1,37 @@
+SUBREDDIT: r/india
+TITLE: Major Privacy Breach in Coaching Institutions
+DATE: 2021-01-21
+SCORE: 84
+URL: https://www.reddit.com/r/india/comments/l1vj7t/major_privacy_breach_in_coaching_institutions/
+
+--- POST TEXT ---
+
+Reposted since my previous post didn't reach out to many people.
+
+ We all know how Indian parents are obsessed with the IIT or NEET exams for their kids, of course their motive behind this obsession is for the better of their children, and they send their kids away for whole 2 years to coaching institutes to distant cities, the most popular of them being Kota, which is famous for its premier coaching institutes.
+
+These institutes have made a profit of more than INR 1600 crore (about USD 200 million) [source](https://www.forbesindia.com/article/family-business/they-built-a-coaching-empire-in-kota-next-a-global-makeover/62681/1) from exploiting innocent parents, most of the children are given substandard teachers and the result producing so-called intelligent children are put in top batches and given the best teachers for milking them day and night for the results, which provides fuel for the next session admissions. Little do these parents know that even their children's privacy is violated by their parents.
+
+I am an intermediate-level pentester and I have found very serious security issues in the websites of Allen Career Institute and Sri Chaitanya institute. These issues are so serious that if GDPR laws were applicable in India, these institutes might have been shut down by now.
+
+Allen Career Institute currently has over 2 lakh students studying with them. And all the students' pictures are OPENLY ACCESSIBLE without any authentication credentials and hosted on their domain [officeweb.allen.ac.in](https://officeweb.allen.ac.in/). I cannot give the full URL here because someone could misuse the students' images. And guess what, there are pictures of children as young as 11 years since Allen starts batches from Class 6. Wonder what a potential abuser could do with the pictures of these young souls.
+
+Not only that, but at the time of admission, Allen takes the full details of a student, including Parents' Name, Blood Group and Residential Address. I was also able to easily retrieve all this information of any student given just his/her registration number.
+
+The security measures on their website are so damn pathetic that an amatuer person like me could easily retrieve such sensitive private details of students without any considerable effort.
+
+And about Sri Chaitanya, they even ask the aadhaar number of the student at the time of admission, and their test website [epraghna.com](https://epraghna.com/) is so-poorly designed that I managed to reset any student's password with just a custom POST request. Then I was able to view all of his/her details.
+
+These institutes need to be charged and strict legal action should be taken against them in these matters. There is little awareness about privacy laws in this country. These institutes earn so much yet they care nothing about students' privacy.
+
+I tried to contact both the institutes by email but none responded. Seems that they only respond to people who are interested in buying their courses.
+
+Please share this as much as possible. It's better that these institutes realise the seriousness of this problem before something unfortunate happens. I hope these people are sued in courts and made to pay a huge price as they have taken the serious issue of privacy so lightly.
+
+POC containing 3 censored pictures of students with roll number:- [https://www.reddit.com/user/ParticularOk1268/comments/kzrtzm/sample\_set\_of\_3\_images\_file\_names\_are/](https://www.reddit.com/user/ParticularOk1268/comments/kzrtzm/sample_set_of_3_images_file_names_are/)
+
+I also tried to contact a journalist but he didn't show much interest in this story and never replied back.
+
+If you know anyone who could help, please share their contact in the comments or by PMing me or at [thethatguy@protonmail.com](mailto:thethatguy@protonmail.com)
+
+Thanks a lot.

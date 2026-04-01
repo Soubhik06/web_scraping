@@ -1,0 +1,31 @@
+ChatGPT’s ability to generate human-like text has taken the world by surprise. Although it has an overwhelming number of positive use cases, it has, most recently, gained infamy for being used by students to cheat in school. As a result, even as it continues to be a research preview chatbot, calls for regulations have started coming in.
+
+Here’s a primer on what ChatGPT is, its origins, ownership, strengths, weaknesses, and more.
+
+What is ChatGPT: ChatGPT-3 is a language generation model developed by OpenAI. It was launched in November 2022, and is widely considered the most advanced AI model for language generation. It has been trained on a diverse dataset that includes web pages, books, articles, and other types of texts.
+
+The origins: The history of ChatGPT-3 begins with its predecessor, GPT-2, which was released in 2019. GPT-2 was a significant improvement over its predecessor, GPT, in terms of both the size of the model and the quality of the generated text. However, GPT-2 also raised concerns about its potential misuse, such as the generation of fake news. As a result, OpenAI decided to release a smaller version of the model, called GPT-2 “small,” and to not release the full model to the public.
+
+Who owns ChatGPT-3: ChatGPT-3 is developed and owned by OpenAI, a private research company based in San Francisco. The company was founded in 2015 by a group of entrepreneurs and researchers, including Elon Musk, Sam Altman, and Ilya Sutskever.
+
+What can ChatGPT do: It can perform a wide variety of natural language processing tasks such as language translation, text summarization, text completion, answering questions, and text generation. It can also be fine-tuned for specific tasks such as sentiment analysis and named entity recognition.
+
+What are some use cases of ChatGPT-3:
+
+These are just a few examples of the many ways ChatGPT-3 can be used to enhance various industries and businesses. As the field of natural language processing continues to evolve, we can expect to see more innovative uses of ChatGPT-3 and other language models.
+
+What are some limitations of ChatGPT-3: Like any machine learning model, ChatGPT-3 has certain weaknesses or limitations. Some of the biggest weaknesses of ChatGPT-3 include:
+
+Some of the limitations of ChatGPT can be mitigated using a combination of human oversight, fact-checking, and other techniques.
+
+What’s the technical architecture that ChatGPT is based on: The architecture of ChatGPT-3 is based on the Transformer architecture , which was introduced in a 2017 paper by Google researchers. The Transformer architecture uses self-attention mechanisms to process the input text, allowing the model to understand the relationships between different words in the text. This is in contrast to traditional language models, which use recurrent neural networks (RNNs) to process the input text. RNNs process the input text sequentially, which can make it difficult to understand relationships between words that are far apart in the text.
+
+Fun Fact: Except for the intro and minor tweaks here and there, this article was written by ChatGPT.
+
+Note (Update: 21 Jan, 7:20 pm): Added that this article was written by ChatGPT.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

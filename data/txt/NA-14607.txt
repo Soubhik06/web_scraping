@@ -1,0 +1,31 @@
+India has the slowest broadband adoption internationally, according to the latest State of the internet report by Akamai.
+
+Despite a 31% quarterly increase and a 131% yearly increase, India’s high-speed broadband connections adoption rate is at a paltry 0.4%, the lowest among countries that were included in the report. Brazil was the only other country that had an adoption rate below 1%, with a 0.8%. Akamai defines broadband connections with speeds over 10Mbps as high-speed broadband, leagues ahead of TRAI’s definition of broadband as 512Kbps.
+
+The average connection speed in India was 1.5Mbps according to the report. On the other hand, 71% of connections in South Korea have speeds over 10Mbps, followed by Japan with 47%.
+
+Broadband connectivity: Akamai defines broadband as connections with speed of over 4Mbps and India ranked 81 internationally. Only 3.6% of its connections offer such speeds. The number of connections that can offer these speeds has increased 97% year-on-year and by 20% from the previous quarter. This however, pales in comparison to China that has increased the number of connections with speeds over 4Mbps to 29% at an annual growth rate of 382%. TRAI should seriously consider increasing minimum broadband speed to 4Mbps to arm twist operators into providing better speeds.
+
+Average peak broadband speed: India registered a similarly disappointing when the peak average broadband speed was calculated. India was ranked 125th internationally and slowest in Asia Pacific with a peak speed of 10.9Mbps as opposed to Hong Kong which had a average peak speed of 68 Mbps. That said, it is worth noting that the speed has increased by 21% from the previous quarter and by 30% from the previous year.
+
+Page load time: It takes 5134 milliseconds to load a page in India and 9123ms if you are trying to open the same page using mobile internet. This means there is a mobile penalty of 1.8x that operators need to address, especially since mobile internet adoption is happening at a faster rate than wired broadband in India.
+
+IP addresses decline: The number of unique IP addresses in India has declined from 18.37 million in the previous quarter to 17.84 million in Q1 2014. Akamai has not stated any reason for the decline.
+
+Attacks
+
+India is not among the top 10 sources for DDoS attacks anymore. Attacks from India were the fifth highest in Q1 2013 and sixth highest in Q4 2013. However, this data is for non-spoofed DDoS attacks. So it is possible that a lot of these attacks are spoofed and sent from Indian IPs.
+
+That said, India is among the top 10 countries for POST attacks from Drive toolkit. Internationally, DDoS attacks increased 47% in Q1 2014 from the same period in the previous year, despite a 21% drop in application-layer attacks. The attack vector has shifted to infrastructure based attacks targeting CHARGEN and NTP reflection vectors. These vectors accounted for 23% of infrastructure based attacks in the quarter.
+
+Half of the attacks in Q1 2014 targeted media and entertainment industry, while 17% of the attacks were targeted at software and technology industry. Security industry had to deal with 12% of these attacks and financial sector had to bear the brunt of 9% of the attacks. Gaming industry was also targeted by such attacks, with 7%.
+
+54% of malicious packets consumed by Akamai’s subsidiary Prolexic was aimed at media and entertainment websites. These websites were also in the receiving end of 42% of all NTP reflection and amplification attacks in the quarter. Software industry was targeted most with DNS and NTP reflection and amplification attacks
+
+Download Q1 2013 report here (pdf)
+
+Also read: India Has Lowest Broadband Speeds In Asia-Pacific: Akamai
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,65 @@
+SUBREDDIT: r/india
+TITLE: PSA: If you use WhatsApp, you NEED to have Signal Messenger too
+DATE: 2018-04-28
+SCORE: 123
+URL: https://www.reddit.com/r/india/comments/8fhnfu/psa_if_you_use_whatsapp_you_need_to_have_signal/
+
+--- POST TEXT ---
+
+With more than [200 million] (https://mashable.com/2017/02/24/whatsapp-india-200-million-active-users/) active users in India, WhatsApp is definitely the default communications app for Indians. Even military and law enforcement personnel use it to transfer data for practical and speedy transfer process, though this is more out of necessity and lack of alternatives than out of any real advantage. The average user is happy with WhatsApp, especially after it introduced end-to-end-encryption in 2016, until he appreciates the following points:
+
+1. **WhatsApp stores your metadata and shares it with governments (and if it is stored, it can be stolen by paid hackers too)** 
+
+WhatsApp stores metadata of all your communications through the app. Metadata is not the content of the communication but the technical details such as who (WhatsApp) called/messaged who, when, for how long, from what IP address and from what phone (IMEI). To understand metadata, in this example about mobile phone data/CDR, [let us look at the explanation] (https://www.eff.org/deeplinks/2013/06/why-metadata-matters) offered by the Electronic Frontier Foundation
+
+&gt;They know you rang a phone sex service at 2:24 am and spoke for 18 minutes. But they don't know what you talked about.
+
+&gt;They know you called the suicide prevention hotline from the Golden Gate Bridge. But the topic of the call remains a secret.
+They know you spoke with an HIV testing service, then your doctor, then your health insurance company in the same hour. But they don't know what was discussed.
+
+&gt;They know you received a call from the local NRA office while it was having a campaign against gun legislation, and then called your senators and congressional representatives immediately after. But the content of those calls remains safe from government intrusion.
+
+&gt;They know you called a gynecologist, spoke for a half hour, and then called the local Planned Parenthood's number later that day. But nobody knows what you spoke about.
+
+Telephone metadata or CDR is stored by Indian telecom companies. There is nothing you can do about it. But by storing your WhatsApp activity metadata on their servers and sharing it with governments, your privacy is invaded.
+
+Your metadata shows a record of EVERYONE you have sent a message, voice called, shared videos and pictures with since the activation of your WhatsApp account. It doesn't say WHAT it is but the other details remain. 
+
+They know that you have exchanged hundreds of messages and a few photos between 0100 and 0400 every night with a certain number. They know you were on mobile data (when your device communicated with Whatsapp servers routinely) on the day your parents left for another city and then you sent messages to another number before accessing WhatsApp from an internet connection at a hotel in a nearby city. They know you switched your sim card to another phone before calling a number belonging to a journalist critical of the Indian government. If ever you get in a fight with the family of a powerful politician, become a whisteblower on scams or expose corruption, using WhatsApp to communicate can compromise your security and possibly your life.
+
+Many of you will be asking: So? If law enforcement is seeking this information, even if I want to keep it private, they will find out about it anyway. But the point is: if metadata is stored and retained on WhatsApp servers, it can also be illegally accessed by hackers with financial or personal motives. Even your non IT background ex can hire a hacker over the dark web to hack WhatsApp* servers and access your metadata. Businessmen routinely obtain intelligence on their associates and this can include technical surveillance.
+
+*How Signal can help* : Signal does not store metadata. The [FBI demanded Signal] (https://arstechnica.com/tech-policy/2016/10/fbi-demands-signal-user-data-but-theres-not-much-to-hand-over/) to hand over metadata but all they had stored on their servers (and thus had to hand over) was :
+
+* when the account was created
+* the last time the account connected to Signal's servers.
+
+It is for this reason that Signal is blocked in oppressive countries like China, Egypt and the UAE.
+
+2. **Association with Facebook**
+
+WhatsApp is associated with Facebook, which had been reading [SMSs and your phone logs] (https://www.theguardian.com/technology/2018/mar/29/facebook-logged-sms-text-phone-calls-users-complain) for a long time. Since WhatsApp is also owned by Facebook, there are grave privacy implications of using WhatsApp.
+
+3. ** Email backup **
+
+Maybe you had a chat with your girlfriend/close friend about very sensitive issues. There is a small possibility that the other party enjoyed the chat and would like to reminisce about it in the future. In WhatsApp all it takes is a single button to email that chat to your email account and it remains for posterity, which can have privacy and emotional implications. Blackmail, acting out, all the things that can happen when a relationship goes sour is possible.
+
+4. **Self Destructing Messages **
+
+The beauty of self destructing messages in Signal is that it can be turned on and off at your discretion. You can talk about cat pictures to your friends on Signal. But when you want to talk about something more intimate, simply turn on the self destructing timer to (5/15/30/60 seconds or 1/5/30 minutes or 1/6/12 hours or 1/7 days) and after the recipient reads the message, the message will be deleted automatically after the set time. It doesn't mean a determined user can't record your conversation but it makes it harder and offers more peace of mind.
+
+**Signal's drawbacks**
+
+1. Lack of easy backup solutions.
+
+There exists a way to backup chat messages in plain text by using the export button but it appears media (pictures, videos) have to be saved otherwise.
+
+2. Niche user base
+
+Signal is currently used by human rights activists, law enforcement, spies and those seeking extreme privacy. It is also used by drug dealers and criminals but they also use WhatsApp. [Laura Poitras used] (http://www.businessinsider.com/how-laura-poitras-avoided-being-tracked-by-government-during-citizenfour-2015-4) Signal, as does Edward Snowden, who recommends the app. A lot of ordinary people use it too. But that number is small. It can grow if more common people adopt it.
+
+My recommendation: Don't ditch WhatsApp. Continue to use it but at the same time also consider introducing Signal into your lives. Your privacy matters.
+
+[Download from Google Play] (https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&amp;hl=en)
+
+*The commonest means of WhatsApp hacking is through social engineering. You are sent a PDF/Microsoft Word/Powerpoint document with malicious code embedded in it. Social engineering ensures that you will be curious and open it. On doing so, a RAT is [installed on your device] (https://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/). To avoid this, do not open such documents and upload them to VirusTotal.com to check it for any RATs. If you must open them, do so in a VM or a live session.

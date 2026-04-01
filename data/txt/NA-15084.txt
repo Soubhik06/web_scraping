@@ -1,0 +1,59 @@
+Reporting an increase in losses for the financial year, the startup lists several risk factors that have adversely impacted its operations including security breaches and the COVID-19 pandemic.
+
+App-based and online payments platform MobiKwik filed its draft documents to raise Rs 1,900 crore via a public offering. Out of the Rs 1,900 crore, primary shares will be worth Rs 1,500 crore while secondary shares (shares that existing investors can sell) will be worth Rs 400 crore.
+
+Founded by Bipin Preet Singh and Upasana Taku, Mobikwik Systems’ total income increased by 18 percent to Rs 302 crore for the financial year ending March 31. Its losses at the same time increased to 12 percent to Rs 111 crore. The company last raised $20 million from Abu Dhabi Investment Authority pegging their valuation at $700 million.
+
+Why this matters? The draft red herring prospectus (DRHP) comes months after the fintech startup reported over 10% higher losses in FY21, with revenue decreasing due to the second wave of the pandemic and its subsequent effect on the economy. Mobikwik’s total loss increased to Rs 110.9 crore from Rs 99.1 crore last year. It is also important to note that the startup faced allegations of a data breach in March , which purportedly compromised the data of millions of cardholders. The Information Technology (Intermediary Guidelines and Digital Ethics Code) Rules, 2021 which was notified in February is also applicable to Mobikwik.
+
+Mobikwik in their draft DRHP said that the net proceeds from the offering will go towards —
+
+“The exact amounts that will be utilised from the Net Proceeds towards the stated objects will depend upon our business plans, market conditions, our Board’s analysis of economic trends and business requirements, competitive landscape, ability to identify and conclude inorganic acquisitions as well as general factors affecting our results of operations, financial condition and access to capital,” the DRHP said adding that it plans to utilise the proceeds over the next five years.
+
+In the DRHP’s risk assessing segment, MobiKwik took cognisance of reports from March 2021 of a breach of its data security systems and “gaining wrongful access to personal and financial data of our users”. Mobikwik said, “Following such media reports, we engaged an independent digital forensic audit expert to conduct an audit relating to these allegations. The forensic audit expert subsequently reported that based on the analysis of logs/ data provided to them, there was no unauthorised access from outside of our Company’s infrastructure or internally to the database server wherein customer data is stored, during the review period.
+
+However, MobiKwik said that the forensic audit expert’s report was limited to a virtual walkthrough of its systems, not analysing employee devices, and that the review was based on logs made available by the platform. “Certain non-mandatory logs were not available for the audit. In addition to the recent incident, in 2010, when we were operating at a relatively smaller scale, a hacker had gained unauthorized access to our operating systems, which resulted in certain disruption in our operations,” it added.
+
+MobiKwik is a fintech company and its DRHP claims that it is one of the largest mobile wallets service in terms of its gross merchandise value (GMV) and the Buy Now Pay Later (BNPL) feature.
+
+“Our large merchant network includes websites and mobile apps, where the MobiKwik Wallet is a payment option in the checkout as well as physical retail stores, where the MobiKwik Wallet is a QR code payment option at the point-of-sale (“POS”)/ cashier. Our platform also enables peer-to-peer payments via unified payment interface (“UPI”), MobiKwik Wallet as well as MobiKwik Wallet to bank payments. As of March 31, 2021, our Company had over 101.37 million Registered Users and more than 3.44 million ecommerce, physical retail and biller partners” — Mobikwik DRHP
+
+“The COVID-19 pandemic has adversely impacted and is likely to further adversely impact the operations of our users, merchants, lending partners and other partners, and may adversely impact our results of operations in the future,” said MobiKwik in its Internal Risk Factors segment of the DRHP.
+
+The platform said that although there was an increase in users transacting online and onboarding of new merchants, such increases were not enough to offset the decline in specific categories such as offline spending.
+
+“ Consequently, our revenue from operations decreased by 18.87% from ₹ 3,556.75 million in Fiscal 2020 to ₹ 2,885.71 million in Fiscal 2021, while our consolidated Gross Merchandise Value (“GMV”) decreased by 29.67% from ₹ 212,312.22 million in Fiscal 2020 to ₹ 149,319.56 million in Fiscal 2021,” it said adding that the impact of the ongoing second wave cannot be ascertained currently.
+
+The platform has experienced growth in its section of Buy Now Pay Later (BNPL) products, which includes products such as MobiKwik Zip and features such as providing EMIs. It plans to grow this segment by leveraging big data and utilising its large merchant network
+
+KYC-completed user base – As of March 31, 2021, MobiKwik said that it had acquired over 41.58 million KYC-completed users, with no customer acquisition cost on its platform.
+
+MobiKwik merchant network – Mobikwik said its aggregate number of merchants where transactions have taken place at least once on MobiKwik Zip has increased from 2,454 in March 2020 to 11, 351 in March 2021.
+
+The DHRP claimed that in Fiscal 2021, MobiKwik acquired 77.00% of Registered Users organically without any cost. Although it primarily acquires users through search engine optimisation and user referrals, it also has other modes of user acquisition —
+
+MobiKwik’s MobiScore, which they claim is a data science-driven credit scoring algorithm, utilises 500 raw and derived variables for underwriting and risk assessment to pre-approve users and determine credit limits, according to the DRHP. “We consider data beyond traditional credit scores, including, for example spending patterns, device information, location history and mobile application usage,” the DHRP said.
+
+Mobikwik said that it has 89 employees in its collection team who —
+
+The Payment and Settlement Systems Act, 2007 (PSSA) — This law regulates and supervises the payment systems in India and designates the RBI as the authority for that purpose. Under the PSSA, it is mandatory to secure authorisation from the RBI for the commencement and/or operation of a payment system.
+
+Payments and Settlement Systems Regulations, 2008 – The PSS Regulations were enacted to give effect to the provisions of the PSSA. The PSS Regulations contain instructions regarding the manner in which applications and authorisations under the PSSA are to be made.
+
+Bharat Bill Payment System Guidelines – BBPS provides a bill payment service to customers through a network of agents, enabling multiple payment modes, and providing instant confirmation of payment.
+
+RBI’s Master Direction on Issuance and Operation of Prepaid Payment Instruments – In exercise of the powers under the PSSA, RBI issued the Master Direction on Issuance and Operation of Prepaid Payment Instruments (PPIs). PPIs are instruments that facilitate the purchase of goods and services, including financial services, remittances facilities, etc., against the value stored on such instruments.
+
+..and in the Information Technology sector
+
+Information Technology Act, 2000 – The IT Act deals with legal recognition to transactions carried out by various means of electronic data interchange involving alternatives to paper-based methods of communication and storage of information; facilitate electronic filing of documents, and create a mechanism for the authentication of electronic documentation through digital signatures.
+
+The Personal Data Protection Bill, 2019 – The Data Privacy Bill , proposes to supersede the Information Technology Act, 2000 and deals with the provisions relating to compensation payable by companies for failure to protect personal data. The Data Privacy Bill also establishes a Data Protection Authority of India.
+
+Aadhar (Authentication) Regulations, 2016 and Draft Aadhaar (Authentication and Offline Verification) Regulations, 2021 (Draft Authentication Regulations) – Under the Aadhaar (Authentication) Regulations, 2016 (“Regulations”), a “Requesting entity” means an agency or person that submits the Aadhaar number, and demographic information or biometric information, of an individual to the Central Identities Data Repository (CIDR) for authentication. The Regulations also state that requesting entities must ensure that the core biometric information collected from the Aadhaar number holder is not stored, shared, or published for any purpose whatsoever, and no copy of the core biometric information is retained within the requesting entities.
+
+Also read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,45 @@
+AI agents can now pay on behalf of users, with Visa and Mastercard rolling out systems that let AI assistants browse, choose, and make purchases using secure tokenized credentials. Mastercard calls its platform Agent Pay, while Visa has launched Intelligent Commerce, both part of a global shift toward agentic commerce, where AI tools act on users’ behalf to complete financial transactions.
+
+Both companies have partnered with major tech firms like Microsoft, OpenAI, and the International Business Machines Corporation (IBM) to enable secure, personalised payments. They claim users will have control over what their AI agents can do and spend. But what happens if the AI overspends or makes a mistake? In India, the legal and regulatory frameworks may not yet be ready for this kind of AI-powered automation.
+
+Visa and Mastercard say their systems will let AI agents initiate and complete purchases using digital tokens instead of card details. Visa’s AI-Ready Cards and Mastercard’s Agentic Tokens are both tokenised credentials designed for AI agents. These tokens help verify user identities, enforce spending limits, and process payments securely without exposing sensitive data.
+
+The goal is to make commerce seamless and personalised. AI agents could soon handle everything from shopping for birthday gifts to making B2B cross-border transactions.
+
+India’s Digital Personal Data Protection Act (DPDPA) and the draft DPDP Rules, 2025 lay out broad rights for users—like giving consent, asking for data erasure, and filing complaints. But they don’t spell out what happens when an AI agent steps in to make financial decisions for a user. There’s no clarity yet on how delegated consent, agent-controlled data use, or token-based transactions powered by AI should work.
+
+The RBI’s tokenization guidelines also stick to more traditional setups as they cover user-initiated payments through phones, watches, or other personal devices, but not situations where an AI assistant makes the purchase.
+
+In the absence of regulation, platforms get to define these terms themselves.
+
+India’s financial authorities are embracing AI but mostly for backend operations. The RBI Innovation Hub launched MuleHunter.AI to detect mule accounts involved in fraud. Meanwhile, NPCI is testing AI models that assign fraud-risk scores and flag suspicious UPI transactions.
+
+These systems show that regulators already use AI in sensitive financial functions. However, they have not defined how consumer-facing AI agents should be governed, especially if they begin initiating payments.
+
+So far, RBI, MeitY, and NPCI haven’t released any circulars, advisories, or draft rules that clearly spell out how AI agents should be allowed to make payments. The RBI’s digital lending guidelines and tokenization FAQs don’t cover delegated AI actions. The DPDPA lacks enforceable standards for AI agent behavior or financial liability.
+
+If AI agents start handling routine tasks like paying bills or booking public services, they could end up automating financial decisions before India has put legal safeguards or proper user checks in place.
+
+MeitY’s proposed AI Governance Board and ethics framework—though focused on public sector AI, suggest that the government is beginning to think about oversight. But until clear rules emerge, agentic commerce will likely remain under-regulated.
+
+Kiran Nambiar, co-founder and CEO of MYfi by TIFIN, shared his views on agentic commerce:
+
+Agentic workflows in commerce and beyond are becoming essential. This evolution is not just about improving efficiency, but also enabling greater accessibility and inclusion. In a country as diverse as India—with its multitude of languages and wide-ranging digital literacy—agentic systems that allow users to simply speak to complete complex tasks could be truly transformative.
+
+All modes of interaction—manual or automated—carry inherent risks. AI receives heightened scrutiny because it is both relatively new and operates at a potentially exponential scale. That said, when designed with the right safeguards, AI systems can actually enhance the safety and security of transactions. For instance, beyond OTP-based verifications, voice recognition can serve as an additional layer of authorization. I believe AI systems should act more as co-pilots than autonomous decision-makers, empowering users to make the final call based on well-presented information.
+
+Given the rapid pace of technological innovation, current safeguards—while foundational—are likely insufficient on their own. Regulatory frameworks, such as RBI’s tokenisation guidelines, are an important starting point, but they must evolve in tandem with the tech landscape. In parallel, private organisations developing AI-powered systems should proactively invest in enhanced security measures to protect users. We almost can’t protect against what we don’t know yet.
+
+A helpful analogy is to consider how one would interact with a trusted human assistant. What consents and confirmations would you expect? Replicating these behaviours in agentic systems is a good baseline—but not sufficient. True traceability is critical: every decision made by the AI agent should be logged, along with the rationale. This ensures both accountability and the opportunity for system improvement. While the agent should handle complexity in the background, users must always have visibility and the final say—particularly before high-impact actions like transactions.
+
+Financial institutions must take a leadership role in defining norms around transparency, accountability, and dispute resolution in AI-driven payments. While regulators will continue to play a critical role, institutions delivering these services are best positioned to anticipate challenges and implement safeguards early. Particularly with dispute resolution, users should retain ultimate authority to mitigate errors arising from automated decisions. Over time, as systems mature and build trust, these models can gradually evolve into being more autonomous.
+
+Agentic commerce is not just about convenience but it reshapes the relationship between users, AI systems, and financial infrastructure. If AI agents can act and spend on a user’s behalf, they should also be bound by clear legal limits.
+
+India’s current data protection and payment laws were not designed for agentic systems. Without updates, users may not know when an AI is transacting for them, what data it uses, or how to dispute a mistake. As Visa and Mastercard move fast on these tools, India’s lawmakers and regulators must decide whether they will catch up or let platforms define the future of money on their own terms.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

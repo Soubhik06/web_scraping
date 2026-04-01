@@ -1,0 +1,17 @@
+SUBREDDIT: r/Chennai
+TITLE: Phishing Website Found and Firebase API Key Exposed - What should I do next? 
+DATE: 2024-08-22
+SCORE: 1
+URL: https://www.reddit.com/r/Chennai/comments/1eylqok/phishing_website_found_and_firebase_api_key/
+
+--- POST TEXT ---
+
+Hi everyone,
+
+I recently came across a phishing website link on Instagram that was sent by someone I know whose account appears to have been hacked.
+
+When clicking the link, it prompted for Instagram/Facebook login credentials.
+
+After analyzing the website, I discovered that the Firebase API key and database URL were exposed. I’ve taken immediate action by deleting the existing login details of other victims that were compromised.
+
+Currently, I am pushing a chunk of data to the Firebase database to mitigate potential damage. What else can be done to shock the owner of the website?

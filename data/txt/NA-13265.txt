@@ -1,0 +1,49 @@
+Medianama’s take: Stronger cybersecurity standards are a legitimate and necessary goal, but the government must demonstrate their effectiveness with transparency and evidence rather than shifting the compliance burden to smartphone manufacturers. If the government believes that a proposed set of 83 security standards meaningfully addresses India’s cybersecurity risks and threats, it needs to provide the public with a clear explanation of how these security measures will work, why they are necessary, what trade-offs these directives can entail, and how to counter them.
+
+The Press Information Bureau rejected claims of a source-code access mandate but confirmed that “routine stakeholder consultations” were underway, consultations that neither the public nor the media were aware of until Reuters first reported them. Recent history shows why this matters.
+
+The now-revoked Sanchar Saathi app mandate and the still-active SIM-binding directive demonstrate a pattern of imposing compliance-based technical solutions initially through directives, addressing the feasibility and privacy concerns later. SIM binding, in particular, remains in force despite well-documented technical impracticalities and privacy risks , and would have required significant reconfiguration of operating systems by smartphone makers. The current proposals risk repeating the same mistake.
+
+Requirements such as mandatory detection and continuous warnings when devices are jailbroken, blanket restrictions on background-running applications using specific sensors, or mandating the retention of security logs can go beyond addressing the core concern of solving the cybercrimes or ensuring cybersecurity and also enter the realm of restricting the user choice and their liberty to use their own device as they want to.
+
+The jail-breaking aspect is significant because we are not yet sure how users can mitigate the issue , given the alleged continuous warning banners that recommend corrective measures when they attempt to jailbreak their devices, including rooting them . Rooting the devices can give far more freedom to customise apps and the ability to install the apps which may not be available on app stores like Google Play Store and Apple’s App Store.
+
+Equally concerning are proposals such as retaining detailed security logs for at least a year and subjecting updates to prior government notification. The government’s measures can carry significant privacy and security implications, particularly if the government cannot publicly demonstrate how these provisions can reduce cyber risks or how they will protect additional stored data from misuse in the future.
+
+Rejecting the Reuters news report that claimed the Indian government planned to mandate access to the smartphone’s source code, the Press Information Bureau stated that the allegation was fake. The statement, however, confirmed that the government is conducting “routine stakeholder consultations,” which had not been publicly disclosed.
+
+A news report by @Reuters claims that India proposes forcing smartphone manufacturers to share their source code as part of a security overhaul. 🔍 #PIBFactCheck ❌ This claim is #FAKE ▶️ The Government of India has NOT proposed any measure to force smartphone manufacturers to… pic.twitter.com/0bnw0KQL9Q
+
+Recently, the Department of Telecommunications (DoT) also wanted to forcefully install a government-owned application, Sanchar Saathi, an app developed by the DoT, in the name of checking the genuineness of smartphones. However, the Indian government was forced to revoke this directive following public backlash.
+
+Nonetheless, DoT’s SIM Binding directive is still not yet revoked. Medianama’s coverage on SIM Binding directive shows the technical infeasibility and impracticality issues, along with privacy-related issues, which aim to bind the SIM to social media messaging platforms like WhatsApp, Telegram and Snapchat, among others.
+
+According to four anonymous individuals and alleged confidential documents from the Indian government and the smartphone manufacturing industry that Reuters had access to, the government introduced a “package of 83 security standards ” for smartphone manufacturers to comply with, aiming to improve the security of smartphone devices.
+
+Among various other “Security standards,” access to source code is the most problematic demand from the Indian government. Because source code is the fundamental, human-readable component of a program. Its format should be such that developers and other users can also understand it.
+
+Therefore, the source code, which the government wants access to, is protected under the intellectual property framework as a “literary work” under copyright law and may also be protected as a trade secret. Patent protection, however, can apply in limited instances where the software or underlying device meets specific patentability requirements.
+
+For some additional context around the government’s ability to ask for such potentially patented or IP-protected material, under the Protection of Trade Secrets Bill, during situations of national emergency, extreme urgency, or significant public interest, the Indian government can ask the owner to disclose the trade secrets of their business or products to either the government or third parties. In return for sharing such details, the Indian government proposed a “fair license fee” based on the value of the trade secret, including the costs incurred for developing and maintaining it.
+
+However, the Trade Secrets bill has not passed, and the Indian government has not invoked any of these grounds to justify the additional requirements outlined below:
+
+When Reuters broke this story, the news agency quoted IT Secretary S. Krishnan saying, “any legitimate concerns of the industry will be addressed with an open mind”. Krishan further said it was “premature to read more into it”.
+
+Later that day, the Press Information Bureau issued a statement refuting the Reuters report, particularly regarding the allegations related to forcing smartphone makers to disclose their source code. It further blamed the news agency, saying, “they [Reuters] have selectively chosen to ignore the comments of the industry association [MAIT], which clearly indicates its mischievous intent to sensationalise the news.”
+
+“Any compromise of mobile security can lead to identity theft, financial losses, privacy violations, and unauthorised access to sensitive information such as banking details, photographs, and login credentials,” reads the press release , highlighting the cyber-risks arising due to increased smartphone usage, particularly for financial transactions. Earlier, when the Department of Telecommunications introduced the Sanchar Sathi app and SIM binding directives, the Indian government justified these measures, stating that the intent was to prevent cybercrimes and enhance cybersecurity.
+
+The press release reiterated and reassured that they would examine the stakeholder consultations with an “open mind in the best interest of the country and industry.”
+
+The Manufacturers’ Association for Information Technology (MAIT) is a government-recognised industry body representing India’s electronics and hardware sector in the Information and Communication Technology (ICT) sector. It represents Original Equipment Manufacturers (OEMs), including companies such as Apple, Samsung, Google, and Xiaomi, which have informed the government that several proposed requirements are not feasible due to global privacy policies.
+
+As per Reuters, MAIT and its member companies raised the following concerns:
+
+NOTE: The headline was updated on January 13, 2026, at 10:16 a.m. to improve clarity.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

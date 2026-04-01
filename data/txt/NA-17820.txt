@@ -1,0 +1,83 @@
+SUBREDDIT: r/india
+TITLE: For finance enthusiasts: A fun read on the recent "pump-and-dumps" (the one involving Arshad Warsi)
+DATE: 2023-03-10
+SCORE: 33
+URL: https://www.reddit.com/r/india/comments/11nh3im/for_finance_enthusiasts_a_fun_read_on_the_recent/
+
+--- POST TEXT ---
+
+*Source:* [*https://boringmoney.substack.com/p/youtube-is-great-for-pump-and-dumps*](https://boringmoney.substack.com/p/youtube-is-great-for-pump-and-dumps) (my newsletter)
+
+\--
+
+If you see a video on YouTube that asks you to buy a stock because it’s going to go up and make you rich, congratulations, you’re observing one of the oldest stock market scams—the “pump-and-dump”. The mechanics of it are known and simple:
+
+1. Find a relatively unknown company with an illiquid stock (very few shares that are actually trading)
+2. Buy as many shares as you can. This will push the price up \[1\]
+3. Scream your lungs out about this company and make a nice story about it. Something like “this company is about to be bought by a large conglomerate”
+4. People will see that the price of the stock has really gone up in the last whatever months, think you know what you’re talking about, and buy the stock themselves. This is when you sell all that stock you bought earlier
+5. ?? Profit
+
+If we didn’t have laws and regulators and boring stuff like that, the pump-and-dump I described above would be a guaranteed way of making cash. Unfortunately, we do, so even though such scams still happen, sometimes they get caught.
+
+Last week, markets regulator SEBI [published](https://www.sebi.gov.in/enforcement/orders/mar-2023/interim-order-in-the-matter-of-stock-recommendations-using-youtube-in-the-scrip-of-sadhna-broadcast-limited_68595.html) two [orders](https://www.sebi.gov.in/enforcement/orders/mar-2023/interim-order-in-the-matter-of-stock-recommendations-using-youtube-in-the-scrip-of-sharpline-broadcast-limited_68596.html) of pretty much the same pump-and-dump run by largely the same group of people with two separate companies, Sadhna Broadcast and Sharpline Broadcast. I’m writing about just Sadhna here, because really the same thing happened with Sharpline (so much so that SEBI itself copy-pasted some elements from one order into another and then issued a minor [correction](https://www.sebi.gov.in/enforcement/orders/mar-2023/corrigendum-to-the-order-dated-march-02-2023-in-the-matter-of-stock-recommendations-using-youtube-in-the-scrip-of-sharpline-broadcast-limited_68651.html), ha).
+
+**The pre-pump: Sadhna’s stock party**
+
+The pump-and-dump I just described has a problem (apart from being illegal). If you’re a manipulator who wants to pump a stock, you have to make sure that you have bought enough of it in the first place, to make a decent profit for your effort when you dump. This might be a bit challenging because the stock you chose was intentionally one that didn’t have too many shares trading in the first place.
+
+It might be easier, and much more profitable, to run a pump-and-dump if you actually owned the company that’s being pumped. That way, you already own a chunk of the company’s shares and can sell them after pumping them up. That’s exactly what happened with Sadhna. **Gaurav Gupta** and a bunch of his family members own and manage Sadhna, and they were also the ones that dumped the stock onto individual retail investors.
+
+But the Gupta family couldn’t directly hype up their own stock! That would be too obvious. So they got **Manish Mishra** \[2\] who made two YouTube channels and put out videos asking people to buy Sadhna stock, with one of the big (false) claims being that Adani \[3\] was going to buy the company.
+
+But before the videos, there was the need to establish some credibility. Sadhna had very few shares trading in the market and that would make it suspicious for new investors who would come after seeing Mishra’s videos. So there was a bunch of people, 12 of them, whose only job was to buy and sell in the pre-pump period to make it look like there was a lot of investor activity in the stock. (The intended message here is—“look, there’s suddenly so much buying and selling in this stock, obviously these investors know something that *you* don’t!”)
+
+EVERYONE came together to get Sadhan’s stock ripe and ready for the pump! The ***directors*** of Skyline Financial Services, Sadhna’s RTA (registrar and transfer agency, a firm that provides some essential investor services to a company), bought and sold during this time. So did a broker at MNM Stock Broking, presumably a brokerage firm close to the Gupta family. Both of these are SEBI-registered entities, but clearly that doesn’t mean much. The broker at MNM got his son, daughter, spouse and (seemingly) friends to buy and sell Sadhna stock.
+
+Everyone I’ve mentioned till now was somehow directly connected to the Gupta family. But there’s a funny group of people who have nothing to do with the Guptas but seem to have known Manish Mishra and were invited to the Sadhna stock party as well These are **Aahuti Mistry** and **Arshad Warsi** &amp; family. Mistry runs a celebrity-management company, and Warsi is, well, a celebrity, so that’s how they know each other, I guess. Both of them added to Sadhna’s volumes during the pre-pump.
+
+All of this happened between April and mid-July last year. They bought and sold among themselves, created an illusion of a well-traded stock, pushed the price up from around ₹2 in April to ₹12 by mid-July. All in preparation for the videos to go out.
+
+**The dump: Sadhna’s stock afterparty**
+
+Before I read SEBI’s order, I had absolutely no idea just how easy it was to get viewers and subscribers on YouTube if only you were willing to spend on ads. Manish Mishra made 2 YouTube channels to promote Sadhna, uploaded 5 videos, had 1.5 million subscribers \[4\] and more than 30 million videos. He spent ₹64 lakh ($78,000) on ads. (His wife and he made only about ₹20 lakh in profit from Sadhna, so it's a bit sad, really.)
+
+Anyway, so Mishra’s videos were out and people fell for them and bought Sadhna stock. That’s when Gupta family &amp; friends started selling Sadhna stock. Unlike Mishra and his wife, the Guptas made quite a lot of money \[5\]. Before all this began in April, Sadhna's stock was at ₹2. For some time in August, the stock went up to ₹33 (16X). The Guptas wanted to sell and the public was buying. The Guptas &amp; friends, 13 of them, made about ₹38 crore ($4.6 million) in all.
+
+*All* the others, the small fish, that were buying and selling in the pre-pump period made about ₹3 crore combined by selling the shares that they had remaining from earlier. According to SEBI, Arshad Warsi, his wife, and his brother, together made about ₹75 lakh from the pump-and-dump. And yet, here’s Arshad on [twitter](https://twitter.com/ArshadWarsi/status/1631242225496489984):
+
+&gt;Please do not believe everything you read in the news. Maria and my knowledge about stocks is zero, took advice and invested in Sharda, and like many other, lost all our hard earned money.
+
+I’m sorry but it’s hilarious that he got the name of the company wrong. It’s Sadhna, not Sharda! “Sharda” is an anagram of “Arshad”, not the stock you bought and sold, dummy!
+
+But Warsi says that they lost money while SEBI claims they made a profit. So what’s happening?
+
+Turns out—when the price of Sadhna’s stock was going up during the dump, when people were buying after watching the YouTube videos, the Warsis sold the stock they had from earlier and did make a profit. But then, as the price continued to go up, they probably thought that they sold a good stock too cheap (??) and bought some shares again, likely intended to sell them off again at an even higher price later. When the dumping period ended in September, the Warsis were still holding Sadhna stock that they had *bought* during the dump. At some point, after people stopped coming from YouTube, there would be no one to sell to.
+
+The Warsis *bought* during the dumping period and got stuck with the stock. Just like all those YouTube investors! If you’re part of a pump-and-dump, it is very important to ensure that you buy before the pump and sell during the dump. It’s kind of the whole point, else you’d just pump-and-dump yourself. \[6\]
+
+**Let’s do illegal stuff and all talk to each other**
+
+Traditionally, the way to commit securities fraud is to meet your rich pals at a golf course, talk about golfing and other entertaining stuff for most of the time, but also whisper a bit about the illegal pumping-and-dumping stuff that you have planned. Okay I get it, we don’t have that kind of time to go golfing now, we’re all about swift communication. That’s where encrypted communication like Signal comes into the picture. Not ideal, but it works.
+
+There were 31 people involved in the Sadhna pump-and-dump and all of them spoke to each other using regular cellular phone calls! Stuff that telecom companies have a nice itemised bill for and can share it with whoever asks! Of course, SEBI asked for the records, got them, and easily figured out the connections between each of the groups, eventually all tracing back to the Gupta family. The only other thing these folks could’ve done to make it easier for SEBI would be to put their plans on a piece of paper and deliver it to the SEBI chief’s home.
+
+It’s obvious that none of these people remotely expected to get caught. Even the directors of a 27-year old SEBI-registered RTA (registrar and transfer agent) did not so much as attempt to cover their tracks! Imagine having a 3-decade long career in finance and not caring about doing the bare minimum to cover your financial crime.
+
+I think all this says more about SEBI than these folks. Just how bad have you been at your job that even Arshad Warsi is taking part in pump-and-dumps without worrying about getting caught? Imagine what it will take to catch the scammers who *do* care about not getting caught.
+
+**Footnotes**
+
+\[1\] If you’re unsure about why the price would of the stock would go up, [here’s](https://boringmoney.substack.com/p/adani-stocks-only-go-up#:~:text=A%20simple%20yet,dollars%20are%20traded.) my very first post that explains this
+
+\[2\] I’m unable to find what Manish Mishra’s day job actually is. SEBI’s orders have nothing about his background. Was stock pumping his full time job? Maybe!
+
+\[3\] Adani just happens to be there no matter what I’m writing about! At least this was a cameo and nothing more.
+
+\[4\] .. I have about a 1000 subscribers. Maybe I should turn this Substack into a YouTube channel?
+
+\[5\] To clarify, it’s not that the Mishras *didn’t* make money from this pump-and-dump. The goal would always have been to enable the Gupta family to dump and share some of those proceeds. The Mishras directly making a profit would only be a bonus.
+
+\[6\] Oh, and the celebrity manager Aahuti Mistry? She did the same thing! But she got lucky. She did not even make that initial profit because she both bought and sold *all* the stock from the initial pre-pump period during the same pre-pump.
+
+*Source:* [*https://boringmoney.substack.com/p/youtube-is-great-for-pump-and-dumps*](https://boringmoney.substack.com/p/youtube-is-great-for-pump-and-dumps)

@@ -1,0 +1,97 @@
+“We are moving from AI systems that recommend to AI systems that act,” said Caroline Louveaux, Chief Privacy, AI & Data Responsibility Officer at Mastercard, describing the shift underway in financial systems at the India AI Impact Summit 2026.
+
+For Mastercard, the transition is already operational.
+
+“In cyber security and payments, the shift is already real today,” she said. “AI agentic systems are being deployed, for example, to detect suspicious transactions, to triage fraud signals, to initiate secure payment forms.”
+
+In payments infrastructure, milliseconds matter.
+
+“If we want to be able to detect and to block fraud in real-time, decisions have to be made in milliseconds at scale,” Louveaux said.
+
+But speed, she cautioned, cannot come at the expense of accountability.
+
+“Autonomy can only scale if there is trust,” she said.
+
+Earlier AI systems assisted human decision-making. They surfaced signals and suggested actions. Humans retained execution authority.
+
+Agentic systems alter that structure.
+
+“These agents must act within clear values, principles, within clear permissions,” Louveaux said. “What is the agent allowed to do? What is it not allowed to do? And when does a human need to step in?”
+
+“Humans have to have full oversight,” she added.
+
+The shift is not just about automation. It is about delegation of execution within defined boundaries.
+
+“Autonomy can only scale if there is trust,” Louveaux said.
+
+Mastercard outlined four structural safeguards for what it described as agentic commerce:
+
+In financial networks processing millions of transactions per second, audit trails form the backbone of compliance and dispute resolution.
+
+If Mastercard illustrates agentic AI in payments, Synopsys shows how it is reshaping infrastructure design.
+
+“You used to design a new car every seven years or maybe five years,” said Prith Banerjee, chief technology officer and senior vice president at Synopsys. “Now they want to bring a new car to market every year.”
+
+“Chip design used to be every three years. Now you have to do it every year,” he said.
+
+At the same time, system complexity has surged.
+
+“You used to have a chip with maybe a million transistors. Now it’s a billion transistors. It’s a trillion transistors,” Banerjee said.
+
+“You cannot do that anymore purely with human designers. That’s where agentic AI is coming in,” he added.
+
+Synopsys has developed what Banerjee called “agentic engineers”.
+
+“These are like human engineers that are not trying to take the jobs of human engineers away,” he said. “They are going to complement the job of a human engineer… but the human will still be in the loop.”
+
+Unlike large language models operating on text, Banerjee described this as ‘Our world is physical AI, physics interacting with the real world.’
+
+When AI systems influence braking systems, steering mechanisms or semiconductor design validation, errors carry material consequences.
+
+Syam Nair, chief product officer at NetApp, argued that agentic systems amplify the importance of data governance.
+
+“Data quality is super important,” he said.
+
+“Agents make decisions based on the data,” Nair added.
+
+“If data is manipulated or lineage is not understood, outcomes can be scary,” he said.
+
+He identified three structural risks:
+
+Cybersecurity pressures further complicate deployment. “59 seconds is the average breakout of a threat these days,” Nair said.
+
+He also contextualised current maturity. “If you have five levels of AI, from assistive to fully autonomous networked agents, we are somewhere around level three,” he said.
+
+U.S. AI policy is reframing its institutional approach. Officials are moving from a safety-led posture toward a standards-driven model tied to innovation and industry collaboration.
+
+“It was originally founded as the US AI Safety Institute,” said Austin Mayron, acting director of the U.S. Centre for AI Standards and Innovation (CAISI). “That signalled the shift away from safety principles more towards standards and innovation.”
+
+In June 2025, Secretary of Commerce Howard Lutnik refounded the body as the U.S. Centre for AI Standards and Innovation and placed it within the Department of Commerce. The restructuring signalled a deliberate pivot toward economic development and technical standard-setting.
+
+“The Secretary has tasked us to be the front door for industry to the United States government,” Mayron said. “We are very focused on helping industry.”
+
+CAISI operates within the National Institute of Standards and Technology (NIST), an agency that historically develops technical standards rather than enforces regulation.
+
+“NIST hasn’t been a regulatory organisation,” Mayron said. “It’s been an organisation that promoted economic and technological development by developing standards and facilitating the development of standards and best practises.”
+
+Instead of issuing rules, CAISI is launching consultations.
+
+“Just this week, CAISI, my organisation, we kicked off an AI agent standards initiative,” Mayron said.
+
+CAISI has issued a Request for Information (RFI) on AI agent security. NIST has also released a publication for comment on AI identity and verification. Both efforts seek industry input before formalising guidance.
+
+“We don’t actually know what the problem is until we talk to the people closest to the issue,” Mayron said.
+
+To gather that input, CAISI plans sector-specific listening sessions across:
+
+Across speakers, four principles recurred:
+
+In closing remarks, moderator Jason compared AI to GPS. It can give directions, he said, but humans ultimately decide what to do with them.
+
+As AI systems move from recommending to acting, the question is no longer whether they are intelligent. It is whether institutions can remain accountable for the outcomes those systems produce.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

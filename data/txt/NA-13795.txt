@@ -1,0 +1,107 @@
+Alibaba backed digital payments company Paytm has trained its guns on Google Pay, asking the NPCI, a bank-owned entity which operates the UPI payments system in India, to “revisit the Payment Policy of Google Pay for India”. Both an NPCI representative and a Paytm representative have verified the authenticity of the letter, which was sent via email at around 4pm yesterday by Sonia Dhawan, VP at Paytm, to NPCI CEO Dilip Asbe, with a copy to Ajay Sawhney, Secretary MEITY. Paytm has targeted WhatsApp before , and some of its allegations were legitimate then, WhatsApp’s launch is being stalled owing to a push for data localisation ( from Paytm ), and concerns around data sharing, which Paytm has also raised in this letter.
+
+The text of Paytm’s letter is transcribed below, and we’ve added for your reference, a copy of Google’s Terms which Paytm has criticised.
+
+In the letter, Paytm makes the following specific allegations (our comments in-line):
+
+MediaNama’s take: This allegation is factually incorrect. Google Pay might be unlicensed, but it is not unregulated. Google Pay, as well as all digital businesses operating in India are governed by Indian laws, including the IT Act, which covers all technology companies. While it is true that UPI apps like Google Pay are unlicensed, UPI itself has a stringent regulatory mechanism, as per which not everyone can launch a UPI app: there is a whole set of norms and guidelines issued by the NPCI which need to be complied with before anyone is allowed on to UPI.
+
+Not everything needs to be licensed: Paytm in its first avatar, when it launched at the VAS Asia event in 2009 , was also unlicensed, providing mobile payments services as a payments gateway for mobile operators. That didn’t mean that it was unregulated and that relevant laws weren’t applicable, or that they weren’t bound by the terms and conditions that telecom operators put on them.
+
+Now that Paytm is licensed as a Payments Bank, it is using its regulatory moat against Google Pay here. Lets not forget that the RBI had previously said it expects that Payments Bank licenses would be on tap. Would Paytm support the idea of Google (and Whatsapp) getting Payments Banks licenses, so that there is regulatory parity between them? I doubt it.
+
+MediaNama’s take: Using data for monetary gains is at the core of every digital business, for delivering services to them. Does Paytm not have the scope of using their customers’ data for monetary gains “with complete disregard for the users’ need for privacy?”
+
+There’s a need to assess all digital businesses by not just what they do but also the scope of what they can do, especially when it comes digital behemoths and and large amounts of data on individuals being collected by them. In that context, Paytm needs to be judged by the same yardstick as it expects Google to be judged by.
+
+On using user data for monetary gains, here’s a quote from Paytm founder Vijay Shekhar Sharma from 2011 :
+
+“We have this large mobile marketing piece, which is multiple types of customer communication and upselling pieces come together. We base ourselves on massive analytics, and a large number of data points that we enter into our databases every day. The customer knowledge know-how is at the core of our business. If you see that, and build what all you could communicate to the customer.”
+
+Lastly, there’s also disregard for privacy when companies share data with the government without an explicit order, just on the basis of a phone call from the PMO.
+
+In its privacy policy (we’ve included the relevant section in full below), Google says:
+
+Google may share your payments related information, including UPI Transaction Data, with Merchants, Banks, Third Party Providers and service providers as required for the purpose of operations, settlement payment processing, and promoting Google Pay Services .
+
+Your UPI Transaction Data will not be used for any monetisation purpose (eg for advertisements) by any entity other than Google.
+
+Google needs to be more specific about what kind of data it shares with third party providers for the purpose of promoting Google Pay services, and perhaps modify these terms. In a statement to MediaNama, Google said that
+
+“Google does not use any individual UPI transactions data for any monetization purpose e.g. for advertisements.”
+
+MediaNama’s Take: Firstly, this scaremongering around data localisation has to stop: Paytm and other companies are using this to negatively impact the economies of scale that larger players like Google have, because they leverage that scale to bring down costs. This is a security policy argument being made for a business gain. The physical location of data is irrelevant: what is important is the laws that govern that data, and the jurisdiction that applies, and as long as Indian laws are applicable to this data, how does it matter where this data is stored?
+
+Lastly, Paytm itself has a number of group companies: has Paytm never shared data with Paytm Mall? Or does the Paytm Payments Bank not share data with One97, which runs the Paytm services? Has Paytm never used its data for promoting its services?
+
+All payments companies collect location data and communications logs for fraud detection, and customer complaint resolution. Does Paytm not collect this data?
+
+When we analysed payments apps back in 2016 (before Google Tez/Pay was launched), here are the permissions that Paytm sought: – access to “read your Web bookmarks and history”. – The ability to modify your contacts – Read phone status and identity – Location tracking using GPS/telecom network
+
+To quote Deepak Abbot from Paytm, on a comment he left on MediaNama on this story in 2016 : “I would have liked to see any proof of misuse of such data by these wallet Apps than a generic run down of permissions being sought. Any instances where data like location, wifi information, running Apps was actually misused or used outside of the core business.” That applies to Paytm’s allegations to Google as well.
+
+Google also sent a statement to MediaNama that addresses some of the allegations raised, saying:
+
+“Google Pay users have a direct relationship with Google – as per Google Pay terms of service a Google Account is opened with Google LLC. A common Google Account allows for checks and controls required for managing risk, fraud, spam, and for enhancing security measures, that are applied across Google products. It runs as a common thread across Google products allowing for seamlessness of service that a user can avail of and benefit from.”
+
+Text of the letter that Paytm sent to NPCI
+
+We truly appreciate NPCI’s BHIM UPI payment method for its contribution towards providing an innovative and convenient mode of payments of digital payment. One97 Communications that owns the brand Paytm, India’s largest digital payments company is committed to expand the reach of BHIM UPI payments to millions of customers and merchants.
+
+We are writing to you with reference to the “Payments Policy of Google Pay for India” wherein we would like to highlight a few critical aspects of this policy that require your immediate attention. As per the policy (attached) the company has stated that it is using Payments data of Indian users for their advertisement business and sharing it with “Group Companies” & unnamed “Third-Parties” also. This is a clear disregard for a consumer’s need for privacy. Please refer to our submission with regards to the payments policy.
+
+1. Google Pay’s privacy policy states that that it collects, stores, uses and discloses their user’s personal data for advertising and promotional purposes. They can use their customer’s name and image in the promotional material with no additional consent from the user (Ref: Point 15- Communications and Privacy Policy). We would like to highlight a very important fact that Google Pay, which is an unregulated payments platform, has the scope of using their customers’ data for their monetary gains with complete disregard of the user’s need for privacy. The critical payments data collected by them is being processed and stored outside of India which can have severe security implications in case of a data breach as their policy states of this data is also being disclosed with advertiser’s and third parties.
+
+2. Google pay collection discloses user’s personal data with Google, group companies, payments participants & unnamed third-parties (Ref: Point 15 – Communications and Privacy Policy.)” India is in the process of drafting its personal data protection bill for safeguarding citizen’s privacy and security in the digital domain. Against this backdrop, it is for of utmost concern that global companies are sharing Indian user’s personal data among group companies and unnamed third-parties inside and outside of India.
+
+Recently, WhatsApp was directed to stop sharing user’s data with its parent company, Facebook. In the light of this, it is disconcerting that Google Pay is sharing user’s critical personal data with Google, group companies, payment participants & unnamed third-parties as their policy clearly states. We believe that Google, who already has our social data, has now gained access to the payment’s data, which has the scope of being used/disclosed for monetary gains, affecting the privacy of Indian users & the security of the country.
+
+3. Google Pay accesses its user’s navigations, logs & correspondence data. It also reserves a right to collect, store, use, read their users communications. (Ref: Point 10 – Communications Platform & Point – 15 Communications and Privacy Policy). The need and access to search private information in the light of above-stated facts raises a concern over the intent of the company, collecting such personal information and disclosing the same with group companies and third-parties
+
+At Paytm, we consider that it is our foremost responsibility to ensure user’s trust on digital payments, and have put all important measures to ascertain. Data privacy & protection of every user should be ensured by all players, including un-regulated payments platforms operating within this domain. As the Indian payments ecosystem is evolving at a fast pace, all players should get a level playing field and policies should be the same for all.
+
+In light of the above mentioned submission we sincerely hope it NPCI would revisit the Payment Policy of Google Pay for India.
+
+For context, here’s a copy of the Privacy and Communications section (point 16, not 15) for Google Pay’s terms and conditions:
+
+Privacy In addition to other clauses in the Combined Google Pay Terms, you agree and specifically consent that we may collect, store, and use your personal data and any communications made through Google Pay, in accordance with Applicable Laws and our Privacy Policy.
+
+Google may share your payments related information, including UPI Transaction Data, with Merchants, Banks, Third Party Providers and service providers as required for the purpose of operations, settlement payment processing, and promoting Google Pay Services.
+
+Your UPI Transaction Data will not be used for any monetisation purpose (eg for advertisements) by any entity other than Google.
+
+If you are a Recipient, you agree and specifically consent that Google may store your information including bank account number on Google Pay for the purpose of sending you payments.
+
+You agree and specifically consent that Google may, through automated means, access your Google Pay navigational, log, and correspondence information/data. This information/data will help us analyze the merchants, markets, technology, operating systems, browsers, devices, locations from/for which our Google Pay Services are used. For example, such information and its analysis will help us to better understand your needs and provide you with a wider range of services, or developing updates for particular operating systems and mobile application versions, etc. The information collected also helps us offer you other products, programs, or services including Offers as provided by Merchants or Billers that we believe may be of interest to you or alert you in case of software compatibility issues.
+
+You agree and specifically consent that Google may, through automated means, access your messages on your mobile device/mobile number and retrieve/use information from your messages to provide you with enhanced services by Google or Group Companies. For example: OTP is a one-time password which is provided by your issuing bank in order to carry out the second factor authentication. If you allow us to access your messages, you understand that we may retrieve your OTP from the message received on your mobile device/number and populate and submit the OTP for second factor authentication.
+
+You represent that you have obtained all requisite prior consents and waivers necessary from any third party or Recipients and have provided such third party or Recipient with notice to permit Google, Group Companies and Payment Participants to carry out actions described in this paragraph. You further warrant that you will provide such notices and secure such necessary consents and waivers in advance of providing similar information to Google in the future.
+
+If you choose to delete or wipe-out any information or data from Google Pay or your Google Account or you or Google choose to terminate the use of your Google Account or Google Pay Services, you understand that we may still retain, use and/or disclose such information/data for legal reasons detailed in the Google Privacy Policy .
+
+The Google Privacy Policy explains how we treat your personal data and protect your privacy when using Google Pay.
+
+Communications from or with Google . You agree and specifically consent to the collection, storage and use of your information for communications from or with Google. You agree and specifically consent that we may, on our own or through third parties, send you emails, SMS, or communicate with you through other means, for:
+
+(i) providing you with Google Pay Services and transactional or account related information,
+
+(ii) sending you payment related reminders/updates,
+
+(iii) promoting Google Pay Services or other Google services
+
+(iv) promoting Group Companies’ services or our Third Party Providers’ services, including any offers or schemes or prizes that may be provided by these entities. These promotions will not use your UPI Transactions Data.
+
+(v) promoting new products and activities, or
+
+(vi) investigating or resolving any product or Google Pay Service related concerns including complaints;
+
+(vii) obtaining your invaluable feedback.
+
+In order to serve you better, we may also send you surveys to understand: (i) your experience with our Services, and/or (ii) your needs and requirements.
+
+You may choose to, or we may invite you to, submit comments or ideas about Google Pay Services, including without limitation about how to improve the Service or our products. By submitting any idea, you agree that your disclosure is gratuitous, unsolicited and without restriction and will not place us under any fiduciary or other obligation, and that we are free to use the idea without any additional compensation to you, and/or to disclose the idea on a non- confidential basis or otherwise to anyone.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

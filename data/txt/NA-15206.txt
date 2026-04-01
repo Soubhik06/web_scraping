@@ -1,0 +1,55 @@
+Meta Platforms will have to face a class action lawsuit as per the decision of California’s North District court on September 9, 2023. The decision was regarding the John Doe vs. Meta Platforms Inc. case, wherein the plaintiff accused the tech giant of obtaining healthcare-related information about Facebook users via its Meta Pixel tracking tool.
+
+Health data from 664 hospitals accessed by Meta: The incident began in 2020 when plaintiffs accused Meta Pixel of intercepting personally identifiable medical information and content of patient communications from Facebook users. Meta then monetises this data for profits. According to the HIPAA Journal, at least 664 hospital systems and medical providers were sending medical information to Facebook through the Meta Pixel tool. Consequently, plaintiffs have brought several federal and state law claims against Meta in the lawsuit. Stating that some of these claims are plausibly alleged while others need more specificity, Judge William H. Orrick dismissed some claims while granting others.
+
+Why it matters: Some of the claims by plaintiffs were retained owing to a distinction between personal data and sensitive personal data like health data. The judgement highlights the importance of defining “sensitive personal data” in a data protection law – an important point for India, considering the Digital Personal Data Protection Act, 2023 of data does not have such a definition despite repeated requests from experts and MPs.
+
+Key decisions in the judgement
+
+Orrick dismissed (with leave to amend) a privacy violation claim but allowed other claims like: breach of contract, unjust enrichment, violations under the Electronic Communications Privacy Act (ECPA) and California Invasion of Privacy Act (CIPA). The rationale for these decisions is as follows:
+
+The judgement looked at the violation of privacy considering the nature of information accessed and consent sought.
+
+Plaintiffs must specify sensitive data accessed by Meta: Orrick said plaintiffs must describe the types or categories of sensitive health information that they provided through their devices to their healthcare providers to make privacy invasion claims. This amendment to the claim is required because plaintiffs alleged that unprotected and constitutionally protected information was captured by Meta’s Pixel.
+
+The judge agreed that plaintiffs had sufficiently proved a reasonable expectation of privacy in their medical communications and that “Meta’s conduct was highly offensive.” However, regarding protected interest, he conceded to Meta’s argument that “the named plaintiffs fail to identify with specificity what, if any, private or particularly sensitive information about them Meta allegedly received.” As such, it granted the tech giant’s motion to dismiss this claim, pending amendment.
+
+Article continues below ⬇ , you might also want to read:
+
+No proof of actual consent by health providers: Orrick denied Meta’s motion to dismiss the plaintiffs’ claims under ECPA. While Meta disclosed its purported attempts to prevent third-party developers who incorporated the Pixel from sending sensitive data to Meta, it intended to and did receive that sensitive data. As per earlier court judgements in the US, for consent to be “actual,” disclosures must explicitly notify users of the practice at issue. Here, Orrick said Meta failed to point out anything that showed “healthcare providers did not just presumably but actually consented to the sending of sensitive healthcare information of its customers.”
+
+“Determination of whether actual consent was given depends on what Meta disclosed to healthcare providers, how it described and trained healthcare providers on the Pixel, and how the healthcare providers understood the Pixel worked and the information that then could or would be collected by Meta. These evidence-bound determinations are inappropriate to reach on this motion,” he said.
+
+Plaintiffs granted breach of contract claim: Though Meta argued that a “limitation of liability” clause in its terms of service bars breach of contract claims, plaintiffs argued that such a limit for the breach claim violates section 1668 of the California Civil Code. Moreover, they alleged:
+
+“Meta has developed advanced technical systems to detect potential misuse of certain products and is fully capable of using those systems to detect Pixel Partners from which it is acquiring health information without authorization. However, Meta has not used those systems to stop acquiring such information and has not taken appropriate action to prevent health entities from sharing health information with Meta in the absence of the right to do so.”
+
+Even when admitting that Meta employed a filter to reduce the transfer of sensitive or protected information, plaintiffs alleged the company knew this filter was not effective. The company could have improved its filter or taken other steps to block the transfer of the sensitive or protected information, said plaintiffs.  As such, Orrick said, “The motion to dismiss the breach of contract and related breach of the duty of good faith and fair dealing claims is DENIED.”
+
+Unjust enrichment claim granted on top of contract claims: Meta argued that since plaintiffs already have an explicit contract claim, they shouldn’t also have an unjust enrichment claim.
+
+What is an unjust enrichment claim? An unjust enrichment claim is a legal argument based on the idea that one party has benefited unfairly at the expense of another party, and so, the former should compensate the other party for the unjust gain or benefit. These claims are typically used when there is no specific contract or agreement in place between parties, but still, one party has benefited unfairly from the other.
+
+However, Orrick denied Meta’s motion, suggesting that the plaintiffs can still make this claim as an option right now, even if the contract claim already covers their accusation that Meta sold their data without permission and unfairly kept the money. He said, “plaintiffs may plead this claim as an alternative at this juncture, even if the contract claim can be read to cover plaintiffs’ allegation that Meta sold their data without consent and unjustly retained the proceeds.”
+
+Meta also challenged the validity of the claim by arguing that the plaintiffs haven’t clearly stated that they don’t have enough legal remedies, as required by a previous court case. Plaintiffs claimed that they very much mentioned that legal remedies are not enough in their complaint. This is important because it reflects that they need more than what standard legal options provide to address the harm or losses they claim to have suffered.
+
+Tracking software recognized as a device: Another claim of the plaintiff depended on whether Meta Pixel, a software, can be viewed as a “device.” Meta tried to argue that its Meta Pixel tracking software should not qualify as a “device” under the CIPA. However, plaintiffs argued that decisions construing and interpreting CIPA with the ECPA hold that servers or software qualify as “devices.”
+
+They argued that a software application, once installed on users’ phones, “surreptitiously intercepted personal data and communications and transmitted this data to Carrier IQ and its customers.” It was also argued that “Carrier IQ Software is a ‘device’ for purposes of the Wiretap Act.” So, Orrick agreed that the Pixel software is a device.
+
+Privacy violation cases cannot include harms to computers: The plaintiffs also claimed damages and losses under California’s Comprehensive Computer Data Access and Fraud Act (CDAFA). They claimed that Meta Pixel “has prevented them from communicating with their healthcare providers through their computers or other means.” Moreover, the incident has led to their protected information becoming “less valuable.”
+
+However, Meta argued that the CDAFA applies when there’s harm to how computers work, not only privacy violations. Regarding the plaintiffs’ arguments, it said plaintiffs have not provided enough evidence to support their argument.
+
+Orrick ruled, “Plaintiffs indicated at the hearing that they might be able to plead a different theory of impairment of their computing devices. They may do so. The CDAFA claim is DISMISSED, with leave to amend.”
+
+Court dismissed claims of harmful computer code: Another section of the CDAFA holds people responsible if they knowingly introduce harmful computer code (like viruses) into computer systems. Plaintiffs also claimed based on this section. However, Meta said it was web developers of the healthcare entities who added Meta’s Pixel to their websites.
+
+Even if Meta is held responsible, plaintiffs still did not show how Pixel could qualify as a prohibited “contaminant” as defined by the law. (The law defines a “computer contaminant” as code designed to modify, damage, destroy, or transmit information in a computer without the owner’s permission). For these reasons, the judge granted Meta’s motion to dismiss the CDAFA claim but allowed the plaintiffs to amend their claim to provide more information or clarify their arguments.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

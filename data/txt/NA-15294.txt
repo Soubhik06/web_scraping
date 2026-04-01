@@ -1,0 +1,77 @@
+India’s Office of the Principal Scientific Adviser (PSA) has released a white paper that sets out how India intends to govern artificial intelligence through what it calls a “techno-legal” framework. Rather than proposing a standalone or omnibus AI law, the paper argues that governance must operate inside AI systems themselves, through technical controls applied across the system’s lifecycle and anchored in existing legal and regulatory instruments.
+
+Instead, the paper advances a “law-plus” model. Under this approach, sector-specific rules, subordinate legislation, regulatory guidance, standards, and technical enforcement mechanisms fill gaps in AI governance on top of existing laws.
+
+Notably, this model distinguishes India from jurisdictions pursuing comprehensive AI Acts and reframes AI governance as a responsibility that begins at the design and deployment stage, rather than as a post hoc compliance exercise.
+
+In the foreword, Principal Scientific Adviser Ajay K. Sood writes that while AI offers significant transformative potential, unmanaged risks and harms could undermine trust and slow adoption. Against this backdrop, the paper situates India’s approach within a global environment where governments continue to experiment with risk-based regulation, principles-led frameworks, and standards-driven governance models.
+
+Building on the India AI Governance Guidelines , the paper outlines a pro-innovation approach that combines baseline legal safeguards, sectoral regulation, technical measures, and institutional mechanisms to enable what it describes as “safe and trusted AI.”
+
+Importantly, the framework prioritises proportionality and flexibility. It explicitly rejects uniform obligations across all AI systems and instead calls for context-sensitive regulation shaped by institutional capacity and ecosystem diversity.
+
+At the core of the paper lies a shift in how it conceptualises governance itself. The white paper defines the techno-legal approach as the integration of legal instruments, rule-based conditioning, regulatory oversight, and technical enforcement mechanisms directly into AI systems by design.
+
+In this framing, governance does not function as an external constraint imposed after deployment. Instead, it operates as an intrinsic feature of AI systems that can respond to evolving risks.
+
+The paper positions this approach as a way to support responsible innovation while aligning AI systems with India’s legal, technical, and ethical norms. It identifies transparency, explainability, provability, and enablement for innovation as core characteristics and explicitly links them to constitutional values and developmental priorities.
+
+Rather than relying on a single regulatory intervention, the framework adopts a layered structure. It moves from law to rules framed under law, regulatory guidance, standards, and finally protocols and technical tools.
+
+Accordingly, governance remains distributed rather than centralised. The paper also designs this structure to scale through standardised, automated checks and measurable accountability using logs, attestations, and audit trails. It cautions that manual or checklist-driven compliance will not scale as AI systems grow more complex.
+
+The paper starts from the premise that AI risks do not emerge at a single point. Instead, they accumulate across the lifecycle of an AI system. Some harms, particularly those tied to data use and model training, become difficult or costly to remedy once systems enter deployment.
+
+To address this challenge, the framework distinguishes between “AI users” and “AI subjects.” While users interact directly with AI systems, subjects may experience the effects of AI-driven decisions without awareness or consent, especially in public services and automated decision-making contexts. In the Indian setting, the paper treats this distinction as especially important and uses it to justify lifecycle-wide safeguards.
+
+Accordingly, the framework organises governance around five stages of the AI lifecycle.
+
+At the data collection stage, the paper identifies risks related to privacy, safety, intellectual property, security, and fairness. If developers leave these risks unaddressed, poor data sourcing and ingestion can lead to regulatory non-compliance, biased or unsafe AI systems, and downstream harms that prove difficult to correct later.
+
+To mitigate these risks, the paper proposes data governance frameworks, risk assessments at ingestion, Data Protection Impact Assessments, and AI risk assessments before onboarding data, along with data classification, source validation, and consent verification. Crucially, it stresses that decisions taken at this stage shape outcomes across the entire AI lifecycle.
+
+The paper treats data-in-use protection during model training as a particularly sensitive phase because misuse at this stage often proves irreversible. Here, it flags risks such as unauthorised access, over-retention, reuse beyond purpose, exposure to unsafe datasets, security breaches, and intellectual property violations.
+
+To address these risks, the framework proposes privacy-enhancing technologies such as synthetic data and differential privacy. It also calls for data lineage tracking, audit logs, retention controls, AI and data risk assessments, digital contracts for data sharing, and confidential computing environments.
+
+At the training and evaluation stage, the paper highlights risks related to privacy, safety, security, fairness, and explainability. At the same time, it explicitly recognises trade-offs, including tensions between fairness assessments and privacy preservation, as well as between model performance and data minimisation.
+
+Rather than prescribing fixed outcomes, the framework calls for impact-aware decision-making, documentation of trade-offs through model cards, and stakeholder consultation. Furthermore, it proposes controls such as model risk assessment and benchmarking, scoring models across responsible AI attributes, red-teaming, stress testing, and mechanisms that demonstrate transparency and provability of compliance.
+
+The paper describes the inference stage as highly exposed because AI systems interact with live users and real-time data. As a result, risks at this stage include unintended disclosure of sensitive information, hallucinations, prompt-based manipulation, security attacks, and fairness concerns.
+
+To manage these risks, the framework proposes runtime monitoring, adversarial attack detection, AI firewalls, and inline risk classification mechanisms that continue to operate after deployment. Beyond runtime controls, the paper treats content provenance and disclosure as key governance mechanisms. It points to persistent identifiers and cryptographic provenance metadata as tools to mitigate misinformation and deepfake harms without relying solely on takedown-based enforcement.
+
+As AI systems gain autonomy and the ability to use tools or make decisions, the paper flags a corresponding escalation of governance risks. In response, it proposes controls such as agent identity, authentication and authorisation, continuous monitoring and behaviour logging, and kill switches.
+
+The paper emphasises that greater autonomy does not reduce accountability. On the contrary, agentic behaviour increases the need for observability and fixed governance checkpoints across the AI lifecycle.
+
+To operationalise the framework, the paper proposes a multi-layered institutional architecture that combines coordination, expertise, testing, and learning mechanisms. At its centre sits an AI Governance Group chaired by the Principal Scientific Adviser, which will coordinate across ministries and regulators, align standards, identify regulatory gaps, and guide policy evolution
+
+The framework also establishes a Technology and Policy Expert Committee under the Ministry of Electronics and Information Technology, alongside an AI Safety Institute tasked with evaluating and testing AI systems, developing safety tools, supporting capacity-building, and engaging internationally.
+
+Additionally, the paper proposes a national AI incident database that allows public bodies, private entities, researchers, and civil society organisations to report AI-related failures. This database would enable institutional learning and inform future standards and regulatory updates.
+
+Alongside formal institutions, the framework emphasises voluntary commitments and self-regulation. It positions industry-led transparency reports, red-teaming exercises, and safety testing as complementary governance mechanisms, supported by incentives that encourage early adoption of responsible practices.
+
+A defining feature of the framework lies in its reliance on India’s Digital Public Infrastructure (DPI), including Aadhaar, DigiLocker, and UPI, as governance enablers rather than mere service delivery systems. In this model, the paper treats these platforms as tools that support consent-based access, identity verification, auditability, and interoperability at scale.
+
+The paper frames the Data Empowerment and Protection Architecture (DEPA) as a complementary mechanism that enables purpose-limited, consent-driven data sharing using privacy-preserving techniques.
+
+By embedding techno-legal controls into DPI and DEPA workflows, the paper argues that India can reduce long-term compliance friction while supporting population-scale AI deployments.
+
+First, the paper does not clarify enforcement boundaries when AI failures cut across regulators. For example, if an Aadhaar-linked AI system used for welfare eligibility produces biased exclusions, the framework does not specify whether accountability would rest with data protection authorities, sectoral regulators, or a coordinating body such as the AI Governance Group.
+
+Second, the framework leaves open how AI subjects can contest harm. In practice, a job applicant rejected by an AI-driven screening tool may never know that automation played a role. The paper does not explain how such individuals can seek explanations or remedies when governance operates through embedded technical controls rather than visible legal processes.
+
+Third, while the paper encourages voluntary commitments and self-regulation, it does not define enforcement thresholds. If harms persist, the framework does not specify when regulators should intervene or how escalation would occur.
+
+Finally, the framework assumes significant technical capacity. In the near term, expecting startups or state agencies to implement continuous monitoring, provenance tools, and lifecycle-wide audits raises unresolved questions about feasibility and uneven implementation.
+
+Overall, the paper acknowledges that the techno-legal framework does not resolve all trade-offs, including tensions between privacy and performance, governing AI subjects rather than just users, cross-border alignment, and the cost of compliance. Instead, it positions techno-legal governance as an incremental approach that embeds safeguards into systems while preserving regulatory flexibility as AI adoption scales.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

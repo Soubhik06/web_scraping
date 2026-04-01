@@ -1,0 +1,29 @@
+The breach closely follows other instances of massive data leaks from firms like Dominos, Mobikwik, and Big Basket.
+
+Data belonging to 700 million people were put on sale on the dark web by a hacker who claimed to have obtained them from professional networking site LinkedIn’s application programming interface (API), according to a report by RestorePrivacy.
+
+The hacker had posted online, with 1 million users’ data as a sample, asking for a 4-figure US dollar sum (which can range from Rs 75,000 to Rs 7.5 lakh) to be deposited into an escrow account for the entire data.
+
+LinkedIn has since denied any breach of private data, saying that it is a part of publicly viewable member profile data. In a statement posted on its website, LinkedIn said, “Our initial investigation has found that this data was scraped from LinkedIn and other various websites, and includes the same data reported earlier this year in our April 2021 scraping update.”
+
+Data of 500 million users were exposed in April when a hacker posted them up for sale on the dark web in exchange for bitcoins. The Microsoft-owned company has 756 million users worldwide and thus, the latest breach could potentially impact 92 percent of its users.
+
+A sample data set of 1 million users was posted which upon examination, by 9to5Mac , included-
+
+Prasad T, Chief Information Security Officer at InstaSafe a cybersecurity firm, said that the breach appears to be an API end-point exploitation. “Although the data is illegal to use, it is highly in demand as in countries like the US, such (data) is in-demand for marketing purposes. However, should bad players get access to the data, it can lead to identity theft through more breaches,” Prasad told MediaNama.
+
+The absence of stringent government policies on cybersecurity requirements makes these attacks more likely. According to Prasad, regular access points and API evaluation itself can prevent many of these breaches from happening. “Governments need to see that the best engineers work for companies like LinkedIn, Google, Apple, etc. If they can get hacked then it is necessary that governments put in place some cybersecurity requirements,” Prasad added.
+
+The breach comes on the heels of massive data leaks from firms like Dominos , Mobikwik , and BigBasket which included passwords, Aadhaar card details, addresses, etc. Following this, many cybersecurity experts had raised concerns over MeitY (Ministry of Electronics and Information Technology) and CERT-In’s (Indian Computer Emergency Response Team) inaction over these leaks.
+
+According to disclosures made in Parliament by CERT-In, 26,121 Indian websites were hacked in 2020, including 59 government ones. Further, there was a 196 percent rise in cybersecurity incidents from 3,94,499 in 2019 to 11,58,208 in 2020.
+
+While BigBasket and Mobikwik denied claims of a data breach, the Reserve Bank of India instructed Mobikwik to ensure a third-party audit of its systems by a team from a CERT-In empanelled auditor.
+
+Meanwhile, Dominos approached the Delhi High Court to direct the Ministry of Electronics and Information Technology (MeitY) and Delhi Police to take down links to the leaked data.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

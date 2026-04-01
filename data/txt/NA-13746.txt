@@ -1,0 +1,107 @@
+This is a special newsletter that went out to MediaNama subscribers on July 26, 2023.
+
+Welcome to our latest special edition newsletter, dedicated to the important questions we’ve asked the authorities. Despite receiving either no reply or only a generic response that barely scratched the surface, we believe that these questions are crucial and deserve to be brought to your attention.
+
+Here goes:
+
+1. How is it legal for LinkedIn to ask people for Aadhaar-enabled verification? [Kamya Pandey]
+
+On June 7, LinkedIn announced in a blog post that users could now verify their identity on the platform through Aadhaar numbers. It further stated that those who don’t have Aadhaar numbers can choose to verify through their work email or workplace credentials.
+
+What we asked: To understand why LinkedIn was using this identity verification system, we reached out to the company with the following questions.
+
+Why it matters: According to a 2018 judgement by the Supreme Court, companies aren’t supposed to ask for Aadhaar for e-KYC (know your customer) purposes, because doing so would enable the commercial exploitation of an individual’s biometric and demographic information by private entities. This effectively means that LinkedIn isn’t allowed to go ahead with Aadhaar-enabled identity verification, so it is worth examining why it has been able to do so.
+
+2. Who was consulted on the Digital Competition Bill? [Sarvesh Mathi]
+
+The Committee on Digital Competition Law (CDCL), which was formed in February to explore ex-ante regulations for India and prepare a draft Digital Competition Bill, held multiple stakeholder consultations between February and March, and is reportedly in the final stages of preparing its report and the draft bill. But there is no clarity and transparency on who was consulted by the Committee.
+
+What we asked: We filed an RTI with the Ministry of Corporate Affairs asking:
+
+What they said: The Ministry denied an answer, responding that it is “not supposed to create information or to interpret information or to solve the problems raised by the applicants or to furnish replies to hypothetical questions.”
+
+We subsequently filed a first appeal arguing our case. The First Appellate Authority in May directed the Ministry to share with us details on question 1 and 2 outlined above. We are yet to get this information.
+
+We have now filed a second appeal to get requested the information.
+
+Why it matters: There is a lot of ongoing debate on whether India needs ex-ante regulations at this stage or not. Some are arguing that it is required to curb the dominance of foreign Big Tech companies but others argue that it could hurt Indian businesses. It is necessary that CDCL takes into account both sides of the argument, but we don’t know if that’s the case because in June, a group of nearly sixty stakeholders wrote to the Ministry of Corporate Affairs complaining that the CDCL only invited “a few stakeholders even though the proposed law directly and indirectly affects a much wider range of stakeholders.”
+
+3. Are companies like DreamX and Fampay allowed to offer UPI services? [Sarvesh Mathi]
+
+In late June, Entrackr and MoneyControl reported that the Reserve Bank of India (through NPCI) sent directives to companies like DreamX (Dream11’s UPI app), asking it to halt its UPI service carried in a co-branding arrangement with fintechs who have the required licence. A directive was also sent to Prepaid Payment Instrument (PPI) issuers barring them from entering into co-branding arrangements and providing their wallet and UPI services on other companies’ platforms.
+
+What we asked: We reached out to NPCI asking for a copy of the directive issued.
+
+We also emailed Pine Labs and Tri O Tech (both PPI issuers) asking if they received any directives in this regard and if they can share or comment on the same.
+
+What they said: We did not hear back from any of them.
+
+Why it matters: If RBI’s barring such arrangements, many platforms like DreamX, Fampay, Akudo, etc. will be forced to discontinue their UPI services since they provide these services in partnership with companies like Pine Labs and Tri O Tech.They will then have to secure their own licences if they wish to provide UPI services, which is not a trivial task.
+
+4. What’s the status of the applications for self-regulatory bodies under India’s online gaming rules? [G. Aarathi]
+
+Sources speaking to MediaNama a few weeks ago informed us that at least two applications for self-regulatory bodies under India’s online gaming rules had been with the IT Ministry for around two to three weeks. The next day, other media houses added that there was a third body in the mix. Remember: these industry-led bodies are responsible for certifying online games as ‘skill-based’ in India and ensuring that they prevent consumer harm before they hit the market.
+
+The sources even asked if we could try ‘putting pressure’ on the Ministry to accelerate the process. We didn’t do that, but we did report on the pending applications, a development that came shortly after MoS for IT Rajeev Chandrasekhar’s comments that the IT Ministry would start certifying online games as the industry was yet to form a self-regulatory body.
+
+What we asked: In emails to India’s top IT bureaucrats, we asked:
+
+What they answered: We didn’t get a response—however, one bureaucrat did forward our email to another department, cc’ing us in the process, a rare non-verbal acknowledgement of receipt.
+
+Why it matters: That the Ministry is taking its time with verifying these applications isn’t necessarily a bad thing, as industry sources told us. It could indicate that they’re paying attention to detail, and ensuring that the applications are scrutinised properly. However, the delays also weaken the Indian government’s hand when it comes to regulating online gaming, a sector that some Indian states think they have jurisdiction to govern over. For example, the IT Ministry is keen that gaming companies approach states and consult (or convince?) them on the Indian government’s online gaming rules. But, the industry, which prefers being regulated by the Centre, would rather have the self-regulatory bodies up and running first, so that they can show states that the rules are in force, and implementable. Without that, companies will be approaching states with empty hands, trying to convince them of the abstract promise offered by the Centre’s gaming regulations. Let’s not forget, the rules are already on shaky ground, with the GST Council recently taxing online games of skill at the same rate as gambling, which is regulated by states. More delays may embolden states to take the Centre’s rules head-on, and lay claim to regulating online gaming as well, whether in court or otherwise.
+
+5. What’s next for Facebook’s anti-hate enforcement policy in India? [Vallari Sanzgiri]
+
+On June 1, Meta shareholders rejected Proposal 7, a document that sought to address hate speech dissemination, failure in addressing risks and political bias, and concerns about content moderation and transparency against Facebook. For many invested parties working against such virtual speech, the Proposal was an important step in taking corrective measures. However, it seems like the company’s shareholders were not convinced.
+
+What we asked: Curious to understand Meta’s reasoning for rejecting the document, MediaNama sent the following questions to Meta:
+
+Over the month, we have not received a response from Meta.
+
+Why it matters: Rights groups like the IndiaCivil Watch International, Internet Freedom Foundation and others have repeatedly demanded the approval of this proposal as a means to curb hate speech online in south-Asian countries especially in India. This is a country with many different languages and thus many forms for the propagation of potential hate. A platform allowing speech in such regions should therefore have the regulations in place to prevent hate online even if it’s not done as per Proposal 7. This is why the third question to the company is of such importance. If shareholders are so confident in disregarding this document they must explain what other safeguards Facebook has in place to protect a country like India that is progressively becoming more reactive in terms of communal incidents.
+
+6. How is it possible that MyGov has no information about its contract for engagement with influencers? [Sarasvati T]
+
+When in March, the Ministry of Electronics and Information Technology issued a tender for the empanelment of various social media marketing agencies —primarily to bring on board influencers for enhancing the reach of its MyGov platform—it was established that government-endorsed influencer content is likely to be pushed on people’s social media apps. Two months later, experts pointed out on Twitter that ministers, including Rajeev Chandrasekhar, appeared as guests on a podcast by Ranveer Alllahbadia aka BeerBiceps, which was “co-presented by MyGov”–a part of Digital India Corporation, under the IT Ministry.
+
+What we asked: To gain information on the type and terms of collaboration, we asked MeitY the following questions via Right to Information:
+
+What they said: In response to our request, MediaNama was informed that the required information is not available with MyGov.
+
+Why it matters: While a tender was issued, the fact that the government is refusing to share information on the nature of collaboration with social media marketing agencies is concerning. In times when influencers wield considerable power in people’s minds, there needs to be deliberation on the ways this reach can be used to influence opinions about government projects and approaches. Infamous for misleading people on critical subjects, influencers can add to larger misinformation trends about policies, campaigns, and government projects, especially during an election year. Experts have also called for full disclosure of terms of contracts , payments made to participating entities or individual influencers, and codes of practices followed for interviews conducted by influencers, among others. While these events unfolded, MyGov is saying they have no information on the tender issued by its parent entity. Can we expect transparency in such a scenario?
+
+7. Why is the UIDAI evasive about questions on its initiatives to prevent spoofing of biometric data? [Sarasvati T]
+
+In April this year, the UIDAI announced its partnership with IIT-Bombay , to develop a touchless biometric capture system for fingerprint authentication. The entities will carry out joint research to build the mobile capture system with a “liveness model”, which will identify if the fingerprint or any other biometrics is that of a real person or a spoofed one.
+
+What we asked: To understand the scope of the project and areas focused on for research, we asked the UIDAI to provide the following through an RTI request:
+
+What they said: The UIDAI refused to provide the documents, stating that the information is exempted under Section 8(1) (d) of the Right to Information Act, 2005, which deals with commercial and trade secrets and intellectual property.
+
+Why it matters: While Aadhaar-Enabled Payment System (AePS) frauds have increased in the past two years and seem to have only become easier, the UIDAI has remained unresponsive to such instances and has not issued a single statement detailing the authority’s plans to tackle the problem and safeguard people’s biometric data. With cursory announcements, the UIDAI undertook two initiatives in 2023 to restrict Aadhaar spoofing attempts – both of which lacked details on how the new system will fix biometric leaks. The tender and contract details would probably highlight the areas of intervention by the UIDAI, the basis on which IIT-Bombay was chosen to build the new system and whether it is even necessary. The unwillingness to disclose information that should be in the public domain indicates a lack of transparency and accountability in UIDAI’s way of working.
+
+8. How did the National Health Authority deal with the CoWIN data leak? [Kamya Pandey]
+
+On June 11, the Fourth broke the news that a Telegram bot was leaking information about people who had received COVID-19 vaccination. Upon entering someone’s phone number the bot would spit out their details like Aadhaar number, vaccination status, gender, and date of birth.
+
+What we asked: We reached out to the National Health Authority with the following questions—
+
+Why it matters: This leak of information points to a vulnerability in India’s health data infrastructure and makes people vulnerable to identity theft and scams. While the NHA denied that the leak took place in a press release, it failed to address how this information became public. If the leak actually occurred and it goes beyond the information the bot had, it leaves one questioning whether other information from the CoWIN ecosystem, like co-morbidity data, could end up becoming public as a result of the breach as well.
+
+9. Are online pharmacies in Karnataka under the drugs controller’s scanner? [G. Aarathi]
+
+A few weeks ago, an offline pharmacy lobby, the South Chemists and Distributors Association (SCDA), met with Karnataka’s Health Minister, and health bureaucrats. What they wanted: strong action to be taken against online pharmacies, which are allegedly illegally selling protected medicines online without a licence. They particularly pointed out the ‘illegal’ actions of Pharmallama , an online pharmacy that provides a person’s daily prescriptions in individualised sachets, instead of the typical foil strips. The Minister assured them of action.
+
+In 2018, the Delhi High Court had issued an injunction against licenceless online sales of medicine, in a challenge against these companies filed by a pharmacist. Groupings like the SCDA argue that online pharmacies are violating this order—a stance supported by the fact that multiple companies have received show-cause notices from drug controllers over violating the order.
+
+What we asked: We reached out to Pharmallama with the following questions:
+
+What they answered: Radio silence.
+
+Why it matters: Online pharmacies were a boon for the millions locked down during the pandemic, and may continue to support areas with limited access to medicine. In that light, it’s easy to view SCDA as an offline pharmacy lobby grumpy that its turf is being encroached on by well-funded online upstarts. But, they also argue that there are tangible public health concerns behind letting anyone sell protected medicines. As the West Bengal government notes , “the right to manufacture and sell drugs & medicines has to be given cautiously as these are either ingested or administered into the body and have repercussions or adverse results if they are not manufactured or sold as per standards.” That’s a question that still remains under-answered by online pharmacies, including, in this case, Pharmallama.
+
+However, until the government actually steps in to regulate the online pharmacy sector as it has promised to, the safe sale of online medicines online is unlikely to take place.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

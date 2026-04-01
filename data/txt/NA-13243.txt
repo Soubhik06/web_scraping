@@ -1,0 +1,53 @@
+by Shuchita Thapar
+
+With rising instances of cybercrime being noted across the country, the need for vigilance in the cyber sphere has been highlighted by a number of commentators. These crimes have gained attention subsequent to the notification of demonetization, with rising online banking transactions and a governmental push towards a digital economy.
+
+Several new issues stemming from the distrust in digital payment systems have been reported. For example , the cybercrime cell of the Mumbai Police has received several reports of a scam characterized by persons receiving fraudulent calls allegedly from banks, discussing a new RBI policy. These calls informed consumers that credit and debit cards were soon to be deactivated, but if they released their card details, they would be permitted to continue usage. Once released, these details were misused. While issues such as these do not require extensive cyber expertise to resolve, their incidence is on the rise. Countering them requires banks as well as law enforcement agencies to increase their efforts towards educating new adopters.
+
+More concern may be caused by technology-intensive hacking attacks, both from within the country and outside. Recent instances include the hostilities faced by several Telangana-area software companies by alleged Pakistani attackers, as well as attacks by the group known as Legion. Their actions allegedly include the hacking of the twitter and email accounts of Rahul Gandhi, Vijay Mallya and Barkha Dutt, among others. There has also been an upswing in ransomware attacks recently, with over 11,000 attacks being reported in just three months. Reports of India’s first online Ponzi scheme are also now coming to light. This is despite the fact that 80% of cybercrimes remain unreported according to recent news reports. This post will review some initiatives taken towards the more efficient investigation of cybercrime by law enforcement across the country.
+
+Cyber Policing in India
+
+Crime and Criminal Tracking Network and Systems (CCTNS)
+
+Approved by the Cabinet Committee on Economic Affairs in 2009, with an allocation of INR 2 billion, the CCTNS is a project under the National e-Governance Plan. It aims at creating a nationwide networking infrastructure for an IT-enabled criminal tracking and crime detection system. The integration of about 15,000 police stations, district and state police headquarters and automated services was originally scheduled to be completed by 2012. However, this still remains incomplete .
+
+Apart from the slow pace of implementation and budgetary problems, on-the-ground hurdles to fully operationalizing CCTNS include unreliable Internet connectivity and under-trained personnel at police stations. Other issues include unavailability of facilities for cyber forensic analysis in most locations, and lack of awareness regarding online citizens’ services such as verification of tenants and employees and clearance for processions and events.
+
+Online Complaints
+
+The Central Government, in response to queries by the Supreme Court regarding measures taken to tackle cybercrime, recently announced that they would be setting up a ‘ Centre Citizen Portal ’. This portal will allow citizens to file complaints online with respect to cybercrimes, including cyber stalking, online financial fraud and others, suffered or observed by them.
+
+The governmental response also details the proposed process, stating that any such complaint on the portal will trigger an alert at the relevant police station and allow the police department to track and update its status, while the complainant too would be able to view updates and escalate the complaint to higher officials.
+
+Cyber Police Stations
+
+Cyber police stations generally include trained personnel as well as the appropriate equipment to analyse and track digital crimes. Maharashtra , where cybercrime has risen over 140% in recent times, and which had the dismal distinction of only recording a single conviction related to cybercrime last year, is converting its existing cybercrime labs into cyber police stations. This will mean there is a cyber police station in each district of the state. The initiative in Maharashtra is useful especially because of the rise in online transactions in Tier II and Tier III cities and the rising cybercrime related thereto. However, despite the rise in cybercrime, complaints remain of low reportage and low success rates in solving crime. Police officers point to problems processing evidence, with complex procedures being required to retrieve data on servers stored abroad.
+
+Further, there have been complaints in Bengaluru of the limited jurisdiction of cyber police stations. Pursuant to a standing order of the DG & IGP of Bengaluru City Police issued in June 2016, only cases with damages of over INR 5 lakh can be registered at cyber police stations in case of bank card fraud. In cases of online cheating, only those instances where damages exceed INR 50 lakh are amenable to the jurisdiction of cyber police stations. All other cases are to be registered with the local police station which, unlike cyber police stations, do not generally include trained personnel or the appropriate equipment to analyse and track digital crimes.
+
+While the order is undoubtedly creating problems for cybercrime victims, it was made taking into account the woefully under-resourced cybercrime police station in Bengaluru which, at the time, consisted of a 15-member staff with two vehicles at its disposal.
+
+Predictive Policing
+
+Predictive policing involves the usage of data mining, statistical modeling and machine learning on datasets relating to crimes to make predictions about likely locations for police intervention. Examples of predictive policing include hot-spot mapping to identify temporal and spatial hotspots of criminal activity and regression models based on correlations between earlier, relatively minor, crimes and later, violent offences.
+
+In 2013, the Jharkhand Police, in collaboration with the National Informatics Centre, began developing a data mining software for scanning online records to study crime trends. The Jharkhand Police has also been exploring business analytics skills and resources at IIM-Ranchi , in order to tackle crime in Jharkhan d.
+
+The Delhi Police has tapped into the expertise at the Indian Space Research Organisation in order to develop a predictive policing tool called CMAPS – Crime Mapping, Analytics and Predictive System. The system identifies crime hotspots by combining Delhi Police’s Dial 100 helpline calls data with ISRO’s satellite imagery and visualizing it as cluster maps. Using CMAPS, Delhi Police has slashed its analysis time from the 15 days it took with its erstwhile mechanical crime mapping to the three minutes it takes for the system to refresh its database.
+
+The Hyderabad City Police is in the process of building a database, called the ‘Integrated People Information Hub’ which, according to the City Police Commissioner, would offer the police a “360-degree view” of citizens, including names, aliases, family details, addresses and information on various documents including passports, Aadhaar cards and driving licenses.
+
+The data is combed from a wide-ranging variety of sources, including information on arrested persons, offenders’ list, FIRs, phone and electricity connections, tax returns, RTA registrations and e-challans. It is further indexed with unique identifiers, and is used to establish the true identity of a person, and present results to relevant authorities within minutes. While the system is aimed at curbing criminal activity and detecting fraud, a lack of clearly identified cyber security and privacy protocols is a worrying sign.
+
+Conclusion
+
+We recently reviewed the National Crime Records Bureau’s statistics relating to cybercrime, as set out in their Crime in India Report 2015 . Some concerns that stemmed from the figures set out in the report were the low conviction rates and high pendency of cases. Experts have linked these issues, amongst other things, with the limited mechanisms available for cyber policing and the effectively-defunct status of the cyber tribunals. A recent report by the Bureau for Police Research and Development also highlighted resource constraints affecting police stations, with several stations lacking basic necessities such as a vehicle or a phone connection. Over five lakh posts sanctioned posts also remain vacant.
+
+Given resource limitations, both in fiscal terms and relating to trained personnel, it is heartening to see the steps that have been taken towards efficient cyber-policing. While this post highlights some steps that have been taken in major jurisdictions, there are several initiatives even in non-metro cities towards tackling cybercrime. A National Cybersecurity Co-ordination Centre is also due to be launched around June this year. In a recent response to the Supreme Court, additional solicitor general Maninder Singh also informed the Court of substantial investments being made by the Central Government towards police and judicial training and towards the creation of cybercrime prevention cells. It is hoped that these measures will help to stem the growing tide of cybercrime in India.
+
+Cross-posted with permission from Centre for Communication Governance blog
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

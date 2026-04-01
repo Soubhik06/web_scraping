@@ -1,0 +1,39 @@
+“When Child sexual abuse material (CSAM), in the form of messages, are sent on WhatsApp, Telegram and other media, the real source of this information is often the web, including pornographic sites. The challenge lies in identifying the original source of the material and addressing that”, a speaker said during MediaNama’s workshop on identifying challenges to Encryption in India, “The problem of identifying the source of the material is very tough. You cannot control who will take a video or an image and upload it to the Darknet. The web is easier,” another speaker concurred. “We have a problem at the DNS level, at the categorisation level: why can’t ISPs join together and do it at a DNS level? Why can’t we block these [specific] porn categories?
+
+This workshop was held with support from the Internet Society (Asia Pacific Office), and was under the Chatham House rule; the quotes have thus not been attributed.
+
+1. Mandatory reporting of pornographic material involving a child: There are laws and regulations that mandate reporting of CSAM, and “compliance with the POCSO Act [Protection of Children Against Sexual Offences Act] is still being figured out.”
+
+As per the POCSO Act: “ Any person who has received any pornographic material involving a child or any information regarding such pornographic material” either being stored or likely to be transmitted/distributed, “shall report the contents to the SJPU [Special Juvenile Police Unit] or local police, or as the case may be, cyber-crime portal (cybercrime.gov.in)”. In addition, in case this is an intermediary, they shall “also hand over the necessary material including the source from which such material may have originated”. The report should include the details of the device in which it was noticed, and suspected device from which it was received, including the platform on which the content was displayed.
+
+How intermediaries can comply with these requirements is still something being figured out, and something that platforms are struggling with – “how can such a thing be materialised, using available technological tools?”
+
+2. Non-cooperation of Intermediaries in reporting CSAM material: The lack of cooperation of intermediaries in reporting or assisting with detecting CSAM material in India ends up creating grounds for removal of encryption for monitoring of messages and groups:
+
+Also read: Break end-to-end encryption to trace child porn distributors, make ISPs liable: Recommendations from Rajya Sabha Committee
+
+3. Identification considerations :
+
+A speaker pointed out that “The government of India has the super-power to look into and obtain electronic evidence. In selective cases, when it is critical, you can talk to a company to tap into a device or an app to take evidence.” Another said that if a message is shared with the police, you can tell whose device it is via the service provider. “If you have information on one side of the message, then the whole purpose of E2E [end-to-end-encryption] is broken: If you have meta-data of those messages, you can point to the person himself. “How do you know whose device it is? Via the service provider. Monitoring should be from the service provider perspective. There’s no need to break end to end encryption.”
+
+Online platforms, though, don’t cooperate, according to another speaker: “If I share a message with you, a screenshot, which indicates that at this time, this date, this device has been used to send this message. You have the phone number, through which you can access the device, through which you can access the person sending it. The platforms don’t cooperate.”
+
+Breaking encryption is not possible, but “there are workarounds, like usage of exploits, which can be used to provide access to mobile phones”, one speaker said.
+
+4. Concerns about proactive monitoring and usage of algorithms: Draft amendments to India’s Intermediary Liability rules call for platforms to use technological tools to proactively monitor content for taking down CSAM content, among other types of content. There are two key concerns here: “It’s a thin line,” one speaker said. “Proactive monitoring also translates to shoulder-surfing what someone is doing on an app.”
+
+Secondly, the effectiveness of algorithms is also a concern. While one speaker said that “if you can use algorithms for serving content, for delivering advertising, surely you can do that for CSAM. Intermediaries have the resources and datasets to develop algorithms.” At the same time, algorithms are entirely accurate, and accuracy will vary depending on one-to-one, one-to-many and many-to-many modes of matching. Algorithms also may not recognise context, as was famously demonstrated in Facebook’s napalm girl incident .
+
+Platforms can be an important source of learning for algorithms though: “The source of content is porn sites, and they diversify, in terms of distribution, like Instagram and Facebook groups. Facebook and Instagram have jpeg level deep learning algos, and these groups are taken down consistently. Facebook and Instagram have information on how such sites operate. The historic information that they have, help taking down of pages,” one speaker said. However, “A solution invented for one platform cannot work on every platform.”
+
+5. VPN as a loophole: Even if traceability of individuals is possible at an ISP/Telecom operator level, those circulating CSAM material can use VPNs and proxy servers to bypass protections and restrictions.
+
+What is the point of encryption if you can break it?
+
+Questions that need clarification
+
+Also in this series:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,50 @@
+SUBREDDIT: r/LegalAdviceIndia
+TITLE: Becoming a Merchant of Record (MoR) in India – Need Guidance on Legal/Operational Steps
+DATE: 2025-02-15
+SCORE: 1
+URL: https://www.reddit.com/r/LegalAdviceIndia/comments/1iq2oye/becoming_a_merchant_of_record_mor_in_india_need/
+
+--- POST TEXT ---
+
+Hi,
+
+I’m exploring how to set up a **Merchant of Record (MoR)** service in India, and I’d appreciate advice from those with experience in compliance, payments, or fintech. Here’s my breakdown of what I’ve researched so far and where I need clarity:
+
+# 1. Legal Setup
+
+* **Business Structure**: Should I register as a Private Ltd. Company or an LLP for MoR services?
+* **Registrations**:
+ * GST registration is mandatory, but do I need additional licenses (e.g., RBI authorization for payment aggregation)?
+ * Are there specific compliances for cross-border transactions (FEMA, etc.)?
+
+# 2. Payment Infrastructure
+
+* **Bank Partnerships**: Which banks offer merchant accounts suited for high-volume transactions?
+* **Payment Gateways**: Is it better to partner with existing gateways (Razorpay, PayU) or build in-house solutions?
+
+# 3. Regulatory Hurdles
+
+* **RBI Guidelines**: The RBI requires ₹15 crore net worth for payment aggregators. Does this apply to MoR services if I’m partnering with existing gateways?
+* **PCI-DSS Compliance**: How rigorous is the audit process for card data security?
+
+# 4. Tax Management
+
+* **GST on Services**: How to handle GST for clients (domestic vs. international)?
+* **TDS/Withholding Tax**: Are there specific deductions for MoR revenue sharing?
+
+# 5. Risk &amp; Liability
+
+* **Chargebacks/Fraud**: What tools or insurance do MoRs typically use to mitigate risks?
+* **Contractual Liability**: How to structure client agreements to limit exposure?
+
+# 6. Tech Stack
+
+* **Platform Requirements**: What features are critical for invoicing, reporting, and reconciliation?
+* **Fraud Detection**: Recommended tools/APIs for Indian markets?
+
+# 7. General Advice
+
+* Are there niche communities/forums for Indian MoRs?
+* What are common pitfalls to avoid in this space?
+
+**Background**: I’m based in India and want to cater to SaaS businesses needing MoR services for domestic and global transactions.

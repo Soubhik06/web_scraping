@@ -1,0 +1,25 @@
+Kotak Mahindra Bank recently detected a credit card fraud to the tune of Rs 2.84 crore which involved 1730 transactions carried out on 580 cards, reports Times of India . The fraud was carried out by fabricating the cards and used for online shopping and making payments in seven countries – Canada, USA, UK, Germany, Brazil, France and India – between July 2 and September 10, the report added.
+
+Kotak Mahindra Bank had filed an FIR with the Bandra-Kurla Complex cyber police station in Mumbai. An internal investigation by the bank showed that the cards were created by stealing data from a newly created series of unissued cards all within the BIN (Bank Identification Number) range.
+
+The first six digits of a credit card number are known as the Issuer Identification Number (IIN), previously known as Bank Identification Number (BIN). These identify the institution that issued the card to the card holder. When a new series of cards are issued, banks can create a new BIN. The rest of the number is allocated by the card issuer.
+
+The bank had recently placed a new order of cards from DZ Card India Ltd at Gurgaon that had acquired the contract to create the bank’s cards. “We had generated and registered three BIN Range (numbers) of the new cards (Visa and MasterCard)… Unknown persons forged and fabricated (the) cards and used the same as genuine,” the statement further read.
+
+It is unclear whether the leak of BIN used to create fake cards is a case someone had physical access to the relevant information or a remote computer network breach.
+
+The bank had noticed that the transaction size were usually high through the fraudulent cards, which was brought to the notice of the Internal Risk Management department. However, no settlement (i.e. closure of the transactions from a bank account) was made for the transactions after payments were made through the cards.
+
+MediaNama’s take
+
+This incident highlights the problems with moving towards online payments and card not present (CNP) transactions.  A look at this white paper ( PDF ) by the Smart Card Alliance Payments Council only confirms that CNP fraud is on the rise globally.
+
+Note that the modus operandi of the fraudulent transactions was done on online shopping websites which are CNP transactions. It is a common complaint among digital payment players in India to remove two-factor authentication to make payments more seamless and easier on mobile phones. However, the Reserve Bank of India has been firm, and rightly so, on insisting that two-factor authentication be mandatory for online transactions.
+
+Indeed, in an interview with MediaNama, Kotak Mahindra Bank’s head of digital initiatives Deepak Sharma had said that about close to 80% of the people in a focus group were pretty fine with the two layers of security.
+
+Image source: Flickr User StormKatt
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

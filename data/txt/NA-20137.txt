@@ -1,0 +1,26 @@
+SUBREDDIT: r/india
+TITLE: [NP] PSA: Zomato lied about their database/password security. Change passwords immediately!
+DATE: 2017-05-18
+SCORE: 201
+URL: https://www.reddit.com/r/india/comments/6bv9b3/np_psa_zomato_lied_about_their_databasepassword/
+
+--- POST TEXT ---
+
+**UPDATE2**: Zomato published a [new blog post](http://blog.zomato.com/post/160807042556/security-notice-update) that now conveys the seriousness of the issue. Few excerpts below. Please note this information also matches the DB sample which is available for sale in some places so I think we can say that the DB is real. This is probably what forced their hand.
+
+&gt; 6 million users had password hashes in the ‘leaked’ data, which can be theoretically decrypted using brute force algorithms.
+
+&gt; Please note that only 5 data points were exposed - user IDs, Names, Usernames, Email addresses, and Password Hashes with salt. No other information was exposed to anyone (we have a copy of the ‘leaked’ database with us). 
+
+&amp;nbsp;
+
+**UPDATE1**: I looked at a sample of the leaked information. So, zomato hasn't actually lied about the salting. BUT (and this is a big but), the salt was stored in the DB itself and is available as part of the leaked data. So the situation remains as grim as mentioned earlier.
+
+https://twitter.com/sajal_thomas/status/865134165288599553
+
+ - Zomato said the passwords are hashed with a strong scheme and each indivdual hashing done with its own saalt
+ - Reality found: The passwords are only md5 hashed with no salt. 
+ - Already available on darkweb for sale
+ - Easy passwords will be cracked in seconds using dictionaries/rainbow tables
+
+I'll do a more detailed post in this week's newsletter but for now, please change ur zomato password assap and wherever else same is being reused.

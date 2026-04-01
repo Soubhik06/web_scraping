@@ -1,0 +1,19 @@
+Truecaller launched an artificial intelligence (AI) Voice scanner that it says can “warn users in real-time, on the phone call – if it detects that the voice you are hearing is AI-generated,” on May 29. The scanner is an AI model trained to differentiate between human voices and AI-synthesized voices, to help users identify when they’re receiving AI-generated scam/spam calls. There’s a lack of transparency specifying exactly how the scanner has been trained, and what it looks for when scanning calls as identifiers for AI-generated voices.
+
+If a user receives a suspicious call, they can click on a dedicated button within the Truecaller interface which will merge the call with Truecaller’s phone line which records a sample of the caller’s voice. The company says that its voice scanner can identify an AI caller in seconds and has a “high degree of accuracy”. Notably, Truecaller’s press release does not provide any details on the scanner’s exact degree of accuracy.
+
+The feature will be first launched in the US market and will be rolled out globally later as a part of Truecaller’s premium subscription. The company says that it is “considering the potential integration of AI Call Scanner with other communication platforms and devices to extend its reach and impact.”
+
+Spam/scam calls and messages have been a pressing problem in India. The Department of Telecommunications and Ministry of Home Affairs’ recent investigations have revealed the misuse of 20 lakh numbers for cybercrime. The investigation also found that eight entities sent out 10,000 fraudulent messages in the past three months (February-April 2024).
+
+The growing prevalence of AI-enabled voice cloning ( audio deep fakes) exacerbates the problem of scam calls. Explaining the threat of these scams, Truecaller states that it takes three seconds for an AI voice synthesizer to create a clone of someone’s voice which could be used for scams. It mentioned that there have been reports of scammers taking samples of a person’s voice from social media videos, and training AI to clone the voice. They then use that voice to call the person’s family to scam them out of money.
+
+Given the lack of information about how the scanner works and its efficiency rate, it is hard to say whether it would be an effective solution to AI voice scams. In a MediaNama event conducted earlier this year, Gautham Koorma a researcher from UC Berkley said that audio detection is showing great results in lab settings. He added that models trained to detect audio deep fakes of specific people (like Prime Minister Narendra Modi) work better than general models meant to detect audio deep fakes in general.
+
+Koorma also pointed out that the detection of audio deep fakes in regional languages remains a challenge. To get a detection model to find a deep fake in a language, say Kannada, the model would have to be trained in that specific language which could add up computational costs for companies. As such, these models wouldn’t be available for free, which is what we’re seeing with the Truecaller detector as well, which is going to be made a part of the Truecaller subscription.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

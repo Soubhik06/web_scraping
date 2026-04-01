@@ -1,0 +1,49 @@
+SUBREDDIT: r/india
+TITLE: Is Flipkart going towards mobile only just for accessing the user data by abusing the permissions?
+DATE: 2015-09-06
+SCORE: 9
+URL: https://www.reddit.com/r/india/comments/3jubll/is_flipkart_going_towards_mobile_only_just_for/
+
+--- POST TEXT ---
+
+I dont think so. 
+
+I use an MIUI ROM which in which we can dynamically allow/deny permissions to running apps (just like many other ROMs also support). 
+And till now , and till now the app has accessed only location and camera (I used this to test image search feature)
+
+Yes , while installing it asked for permissions like reading SMS, contacts , call logs etc , but till now it has not used those permissions as can be verified from the below screen grab as per my usage of the app till now: 
+
+http://i.imgur.com/lb1WmF2.png?1
+
+And yes , one thing is worth mentioning here: 
+There is a permission category called 'Others' for apps and the data that can be accessed using subpermissions under this category are quite scary , eg Read your social stream! 
+
+[Source](https://support.google.com/googleplay/answer/6014972?p=app_permissions&amp;rd=1) 
+
+Yes , FK has some permission requests under this category viz. 
+
+1. receive data from Internet 
+1. read Home settings and shortcuts 
+1. write Home settings and shortcuts 
+1. install shortcuts 
+1. control vibration 
+1. use accounts on the device 
+1. control flashlight 
+1. read sync settings 
+1. create accounts and set passwords 
+1. toggle sync on and off 
+1. read Google service configuration 
+1. prevent device from sleeping 
+1. view network connections 
+1. full network access 
+1. uninstall shortcuts 
+
+I don't think permissions under this category are privacy breaching (except may be 6,8,9,10,11 , I'm not sure how they can make use of these for data mining)
+
+And while updating an app which make use of permissions under 'Others' category , even if a single item is added by the app in its update , then play store make you to review the permission (even if automatic update is turned on for the app , which is good) 
+
+So we need to be careful in general while updating apps which use 'Others' category 
+
+The subtext is FK is not going app only just for data mining and product suggestions based on it , there might be some other motives as well (like notifications as someone pointed in other thread).But we are blind to that now. 
+
+PS : Im not in any way associated with FK , it is just my personal opinion!!

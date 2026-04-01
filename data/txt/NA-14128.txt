@@ -1,0 +1,33 @@
+Microsoft has formally announced a new version of its Windows operating system, with a first look at the OS branded Windows 10. The company seems to have skipped a generation in its numbering scheme, going directly from Windows 8 to 10.
+
+Microsoft also announced that it will share it plans with enterprise customers and developers by releasing a Windows 10 Technical Preview on October 1st. While the company eventually plans to release the OS in late 2015, it currently outlined some of the new features which will make it to the finished version. Listed below are some of the highlights of the announcement:
+
+Unified apps platform :
+
+Microsoft said, Windows 10 will deliver a universal app platform with one security model and one deployment and management approach. Consequently, app developers will need to develop for only one platform, while letting users access across multiple devices including, Windows 10 tablets, phones, desktops and laptops. According to the company, apps can also scale to industrial devices, purpose-build industry solutions, Internet of Things devices (small footprint devices) and even 85” touchscreen conference room displays. It plans to achieve platform unity by:
+
+Note that the OSes for each platform are not inherently the same, as in its not possible to run a Windows 10 setup intended for desktop to run on mobile. Instead, this simply assures compatibility to developers, that their app will run across all platforms, reducing significantly the amount of effort they have to put in to otherwise make separate apps.
+
+For enterprise customers :
+
+According to Microsoft, Windows 10 will have several features that would make it particularly attractive to business users. The OS will feature an identity and information protection feature and ‘enterprise grade security’, although the company did not detail what this would entail. The company also said businesses would be able to upgrade directly from Windows 7/8 to Windows 10, without having to wipe-and-reload devices.
+
+Security features :
+
+Windows 10 will also let users create identities for accessing devices, apps and websites, making it easier for customers to restrict access to kids, employees, etc. The company claims, apart from improving resistance to phishing, breaches and online theft, it will also integrate various multi-factor authentication solutions like smartcards or token based systems in the operating system itself. BitLocker, a build in data encryption software offered in the Ultimate and Enterprise editions of Windows, also saw improvements with it now being able to keep data encrypted on any device or on the cloud, as opposed to only on PC hard disks.
+
+Interface changes :
+
+After facing immense criticism from PC users for its “Metro” interface changes in Windows 8, Microsoft has somewhat merged the visual appeal of Windows 7 and 8 for its latest operating system. Some of the more significant changes are:
+
+– The start menu is now similar to the one in Windows 7, although it now includes a personalizable space akin to the Metro tiles from Windows 8. The start menu can now also be resized to suit a user’s preferences instead of taking up the whole screen.
+
+– Windows Store apps will open in the same format as desktop programs, meaning they now have title bars, can now be resized and won’t run in the default full screen mode anymore.
+
+– Four apps can now be snapped to a screen as opposed to two in Windows 8. The company claims the OS will now show other apps and programs that are running when snapping and also make suggestions on filling the available screen space with other open apps.
+
+– The OS will also let users use multiple desktops to make it easier to categorize different purposes and projects.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

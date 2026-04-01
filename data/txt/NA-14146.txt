@@ -1,0 +1,111 @@
+In a landmark antitrust case, the US Judge of the District Court of Columbia, Amit Mehta, ruled that Google must share certain proprietary datasets with rivals to foster competition in the market, particularly in the search engine space. The order requires Google to disclose raw search-related as well as user-side data, but it is exempt from sharing advertisement-related data.
+
+DOJâs Revised Proposed Final Judgment reasoned that the data sharing remedies will provide Google’s rivals and the new entrants the necessary ingredients to improve the search engine’s quality and create new features and innovations in the long run. Under this initiative aimed at breaking Google’s monopoly in the search engine category, the court ruled that Google must periodically share its data with qualified competitors. The data includes:
+
+The article further explains each above-mentioned categories in detail.
+
+As per the DOJ’s proposed remedies, Google is required to make Search Index data available to the rivals âat marginal cost.” The indexed data is information about websites and their content obtained through crawling from the web or gathered from data feeds, or gathered through partnerships, which Google uses to provide results to the users in response to general search queries, as defined by the DOJâs Revised Proposed Final Judgment. Therefore, a search index database stores publicly available web pages and returns them in the search results page according to the user’s query.
+
+The information should include:
+
+Google uses signals to score and rank web pages. Signals are pieces of information that Google uses to evaluate and compare web pages for ranking purposes in the search results.  For example:
+
+Raw signals: Information such as the number of clicks per page, the number of words on the page, and the key terms in a userâs search query. For example, Google counts how often users click on a page after a specific query.
+
+Advanced signals: Deep-learning models generate complex measures that detect patterns in large datasets. RankEmbedBERT, for example, applies machine learning to create more sophisticated ranking signals.
+
+The court cites the exclusive distribution agreements Google has made over a decade with the distributors, like Apple, Samsung, and Mozilla, as the reason for its sizeable scale and advantage over its rivals. Along with these exclusive agreements, the tech giant had the added advantage of the user data that was available to it from conducting additional web crawling, expanding the search index, adjusting SERP rankings, and enhancing the freshness of results.
+
+âNo current rival or nascent competitor can hope to compete against Google in the wider marketplace without access to meaningful scale, especially on mobile,â noted the court while acknowledging that Generative AI products like ChatGPT, Grok, and Claude haven’t eliminated the need for general search engines like Google.
+
+Agreeing to the DOJ’s data sharing remedies, which represent “a reasonable method of eliminating the consequences of the illegal conduct,â the court also noted that making data available to competitors would narrow the gap of scaling created by Google’s exclusive agreements and its practices. The court exempted Google from the DOJ’s proposed ban on paying distributors to keep it as the default search engine and imposed the DOJ’s proposed data-sharing remedies instead.
+
+Tasneem Chipty, an antitrust Economist representing the DOJ, said that data-sharing remedies would stimulate greater competition, which could motivate Google to further its innovation as competition improves product quality over time. “Google will need to keep pace, even if it means having to disclose some innovations to rivals,” she said.
+
+Among Google’s “overarching objections” to data-sharing remedies, the company cited the legal objection raised when Microsoft was asked to make Internet Explorer open source in a 1998 antitrust case.
+
+Google argued that the data-sharing remedies resembled the âopen-source Internet Explorerâ remedy, which the New York district court rejected but the Massachusetts district court upheld. Then the complainants argued that Microsoft should open source its source code of the Internet Explorer and grant a âroyalty-free, non-exclusive perpetual right on a non-discriminatory basis to make, use, modify and distribute without limitation products implementing or derived from Microsoftâs source code.â However, the New York court then rejected these, saying the main liability in the case was Microsoft’s unlawful response to cross-platform applications and not the operating systems. It reasoned that just providing benefits to competitors doesnât necessarily restore competitive conditions in the market or fix the harm caused by Microsoftâs monopolistic behaviour, and also, perhaps it might result in the structural changes within the company, which could involve drastic actions like breaking up the company or significantly altering its business operations.
+
+Similarly, the Massachusetts court ruled that under the US’s antitrust law, it is legal to require a monopolist company to disclose some of its proprietary information if disclosing certain information helps the rivals to compete more effectively in the market. Moreover, in the current Google antitrust case, the court observed that the data-sharing remedies were directly related to the theory of liability in this case. This empowers the courts to ask Google to share the data it had accumulated over time with its rivals. Additionally, the court also said that the volume and the breadth of the data sharing will not result in the de facto divestiture of Google’s intellectual properties and, therefore, should not be treated as structural changes.
+
+Dr. Kevin Murphy, Googleâs expert in Economics and Industrial Organisation, argued that requiring periodic data disclosures for up to 10 years would reduce Googleâs incentive to innovate, as “the company wouldnât be able to keep the full returns from its Search investments for itself”. At the same time, Murphy argued, such measures would also weaken competitors’ incentives to innovate by allowing them to benefit from Googleâs innovations rather than investing in their own technical innovations. “Progress happens through the competitive process,” said Murphy. While the proposed data-sharing regime could “speed up things” by providing a ‘shortcut, he warned that it would come with some loss of incentives to do more innovation.
+
+Rejecting the above-said provisions from the DOJ’s proposed data-sharing remedies, the court ruled that the disclosure of the following information to the competitors is “reasonable and proportional” in an attempt to remediate the harm caused to the market and competitors because of Google’s exclusionary agreements.
+
+Citing expert testimonies from ChatGPT’s Nick Turly, Apple’s Eddy Cue and DuckDuckGo’s Gabriel Weinberg, the court said, “Receipt of this narrowed dataset will still enable rivals to overcome the scale gap by allowing them to build a competitive search index more quickly– one that is robust in volume, freshness, and utility.” Turley testified in court, saying that Google’s search index data would let OpenAI build its own index data faster and aid it in creating a better product more quickly. At the same time, Apple’s Cue said that the data disclosures would accelerate the competitorsâ ability to develop larger databases of indexes. Similarly, Weinberg added that this would jump-start building indexes at scale.
+
+The court ruled that Google has the right to know exactly what Search Index data it must share and when. The order stated, âThese indefinite terms will be excised,â and clarified that Google will not be required to share all signals, particularly processed or engineered data that is far removed from the user’s raw data.
+
+Citing this reason, the court declined to share the DOJ’s proposed two specific datasets that rely on users’ interaction data. They are:
+
+The court order declined to disclose these particular parts of search-related datasets, citing a lack of proof and said that it could not rely on uncertainty to mandate data sharing. The uncertainty arose because the DOJ failed to show how much of the user data was used by Google to scale as a monopoly.The court denied disclosure of the popularity ranking datasets because the DOJ failed to prove how much of the signal data relied solely on user data and how it helped Google scale further.
+
+According to the two exhibits submitted before the judge, the popularity-related data came from the Google-owned Chrome browser and through anchor link-related data. It means that through user-interaction data like “User-side Data” or “click-and-query” data derived from Chrome browser– which is not central to the liabilities filed against Google. And, Anchor-link data measures a webpageâs popularity by measuring how many links point to that particular website. Google uses this information to rank well-linked pages in its search results based on the user’s query.
+
+Similarly, quality measures were excluded by the court because they are not primarily based on the user’s data but rather on web content itself. For example, PageRank is a signal metric that measures the authoritativeness of a web page by analysing the number of important links pointing to it. Therefore, the court ruled that requiring Google to share its entire quality signals database because a small part of it may use users’ data was beyond what is fair or necessary by the court.
+
+The court explained the rationale behind asking Google to share its proprietary information using the 80-20 problem. The 80â20 problem, a.k.a. Pareto Principle , means that in many situations a small part of the causes (about 20%) produces most of the results (about 80%).  Gabriel Weinberg, CEO of DuckDuckGo, one of the expert witnesses during the remedy trial, said, “You can get to an 80/20 pretty quickly.” Complementing this, Nick Turley, the head of product for OpenAI’s ChatGPT, said that ChatGPT’s goal was to answer 80% of the queries with its own search index and highlighted that the difficulty is associated only with the remaining 20% queries. âWhen sources are less common, we may not know that they even exist, and we may, thus, not discover what makes the best source,â said Turley.
+
+“Answering the remaining 20%, which comprises long-tail queries, is particularly challenging because it requires the index to contain very specific and often obscure sources,” noted the court while emphasising the one key area where the data sharing could result in promotion of competition in the market, that is general search engine’s ability to respond to the “long-tail queries.” Long-tail keyword refers to a precise search phrase of three to five words that shows specific intent, often used in voice search or when users are close to making a purchase.
+
+Apple’s Executive Eddy Cue also emphasised that growing the competitor’s search index is vital to be considered as the genuine competition to Google on Apple’s Safari. “They [Google’s competitors] have to get better at the search index part. Theyâre very good at their LLMs. You know, theyâve already built large language models that are as good or better than most. That will create a product that gives better results and new capabilities. You know, those are things that people are interested in today,” he said, responding to the court’s question.
+
+In short, no. The DOJ initially wanted Google to share its data periodically based on the Technical Committee’s suggestion during the trial.
+
+However, the court rejected this aspect, concluding that the qualified competitors will receive only a “one-time snapshot of the relevant data contained in Googleâs Search Index at or around the time they are so certified by Plaintiffs.” It says that periodic disclosures of the data over the years go beyond to fix the monopolistic problem created by Google’s practices. One-time disclosure will enable “Qualified Competitors to build their own search indexes to answer long-tail queries, thereby giving them the kick start they need to compete.”
+
+Additionally, the court agreed to the DOJ’s proposal of asking Google to share the data at a marginal cost for the following four reasons:
+
+According to Professor Allan, Googleâs Knowledge Graph is an enormous database of information about people, places, and things and their connections. A Google expert witness testified that the database contains a billion entities and 500 billion connections, and Google uses this information to interpret queries and return factual results.
+
+Among the data collected for this purpose, the structured data includes Google’s Geo Index, which comprises local information, such as information about the opening hours of restaurants or small businesses. This information may come either from the user or the business owners themselves. Allan said that Google developed the Knowledge Graph despite a long history of failures in the research community to build similar products as a search input.
+
+In addition to parts of the Search Index, the DOJ proposed requiring the company to share sufficient datasets with qualified competitors to recreate Googleâs Knowledge Graph, including the above-mentioned local information. They propose that this disclosure should occur on a schedule set by the plaintiffs in consultation with the Technical Committee.
+
+The DOJ also argued that compelling Google to disclose Knowledge Graph datasets would help rivals overcome Googleâs scale advantage in gathering content. They justify the remedy on two grounds, mainly relating both of them to Google’s scale:
+
+However, the court rejected this plea, saying that datasets related to Google’s Knowledge Graphs were not tailored to address the specific harm that justified a remedy. It noted that the Knowledge Graph is not a result of Google’s advantage of scaling its business but its own processing of the data derived from numerous feeds and pipelines, including third-party sources, rather than directly derived from user data.
+
+Additionally, the court noted that Googleâs popularity incentivised local businesses to share more relevant data because it attracted more customers. “..the connection between that advantage and how Google acquires Geo Index data is too attenuated to sustain its compelled disclosure,” ruled the court.
+
+Plaintiffs define âUser-side Dataâ as all data obtained from users in the United States directly through a search engineâs interaction with the userâs device, including any software running on that device, by automated means. User-side Data includes information Google collects when responding to commercial, tail, and local queries. It may also include datasets used at all stages of training, including pre-training, filtering, post-training, and fine-tuning, for Googleâs ranking and retrieval components, as well as GenAI models used in Googleâs GenAI products.
+
+According to the DOJ’s proposed remedies, Google must provide Qualified Competitors, at marginal cost and on a periodic schedule determined by the Technical Committee, with the following datasets:
+
+For context, Glue is a âsuper query logâ that captures extensive data about a search query and the userâs interactions with the search results. This data includes:
+
+Professor Allan testified in court that this remedy doesn’t force Google to “disclose any models or signals built from Glue data, only the underlying data itself.”
+
+Similarly, RankEmbed and its later version, RankEmbedBERT, are ranking models that rely on two main data sources: 70 days of search logs and quality scores from human raters. Google uses this data and an AI-based deep learning system to measure the quality of organic search results. This can result in events like identifying the best documents to retrieve based on the search query, even when a query lacks exact matching terms. It also aids in finding the documents that are semantically related to a query.
+
+Related to this, the court ruled, “Google will be required to share Glue and RankEmbed data with a Qualified Competitor at least twice.” It reasoned, saying, “A more than one-time disclosure is reasonable given the importance of updating training data with fresh information.” After consulting the technical committee on the number of data disclosures, the court also ruled that it will set a cap to avoid the free raiding on Google’s data.
+
+Additionally, the DOJ also asked Google to disclose their user-side data used to train GenAI models in search and other GenAI products. However, neither Google nor its GenAI competitors have used click-and-query data to train their base LLM models, reads the court order.
+
+Nonetheless, the Google Search team post-trains Gemini base models for search-specific tasks. According to the DOJ, one of Googleâs post-trained models, MAGIT, fine-tunes the Gemini base model to generate text responses for AI Overviews using search data.
+
+The court rejected the claims because the complainant failed to explain what type of search data Google used, how much, or how it influenced the modelâs training.
+
+The court also noted that several witnesses from rival companies testified that access to Googleâs user-interaction data would help them improve their search engines, especially in handling long-tail queries. “Googleâs user-interaction data would enable DuckDuckGo, essentially, probably accelerate by years the ability to create indexes at scale and just improve the quality of DuckDuckGo, especially in the long-tail,â testified DuckDuckGo’s CEO, Weinberg.
+
+Later, the court observed that the evidence couldn’t show that Google’s GenAI products outperform the rivals’ products. Instead, the court said, evidence indicated the opposite: The GenAI market remains highly competitive. Googleâs Gemini app does not hold a clear advantage over other chatbots in factual accuracy or technical benchmarks due to its search-related data. “So, even if Google uses some ‘Search data’ to post-train Gemini models used in search or its GenAI products, sharing that data is not warranted to promote competition,” the court ruled.
+
+Google argues that sharing user-side data would allow competitors to train an LLM to mimic its web page rankings. It contends that a remedy enabling a rival to create a functional substitute is not permissible. The tech giant also claims that the proposed data-sharing remedies are inadequate because they do not explain the measures needed to anonymise the data before disclosure. It says this lack of detail would make it impossible to ensure that the data is provided while protecting personal privacy and security, leaving plaintiffs to define these terms independently.
+
+Referring to the mimicking claim by Google, the court said, “Helping competitors improve their search engines is precisely what this remedy is designed to accomplish.” It also noted that mimicking Google is not easy; it involves complex engineering processes. Therefore, the court ruled, “Sharing raw user data does not pose the same risks of ‘cloning’.â
+
+Additionally, referring to anonymising user data to protect users’ privacy, the court observed that applying these techniques will result in incomplete datasets. So, while maintaining the user privacy– which both parties agreed was essential and may perhaps require anonymisation–the court suggested the other privacy-enhancing techniques, such as adding noise, generalisation and k-anonymity, which is a data masking process that involves the creation of structurally similar data but hides sensitive information. Therefore, the court was “unpersuaded by Googleâs contention that the User-side Dataâsharing remedy is too vague to adopt and implement because it does not precisely spell out important privacy safeguards.”
+
+DOJ defines âAds Dataâ as information on how Google selects, ranks, and places Search Text Ads in response to queries, including any User-side Data used in that process. Their proposed remedy would require Google to provide Qualified Competitors, at marginal cost, with Ads data used to operate, build, or train “AdBrain models or other models for ad targeting, retrieval, relevance assessment, bidding, auctioning, and predicted click-through rates, formatting, or content generation”, in addition to any data available through the APIs.
+
+Omkar Muralidharan, Google’s vice president of product for search ads, argued in court that the Google Analytics Terms of Service states that it won’t share the advertiserâs customer data without consent.
+
+The court noted that the DOJ failed to show how sharing ad-related data would improve competition in the market. The court also agreed with Googleâs industrial organisation economics expert, Dr. Mark Israel, that competition in the general search text ads market depends on competitive conditions for GSEs rather than standing alone. “Greater competition in the general search text ads market will follow only if there is greater competition for GSEs,” said Israel.
+
+“Given the poor fit and dubious efficacy of the Ads Data remedy, the court declines to adopt it,” ruled the court in summation.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

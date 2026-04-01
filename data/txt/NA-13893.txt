@@ -1,0 +1,211 @@
+âWhen you run a YouTube channel through a software like Social Network Analytics, you will get thousands of lines of information, which will be your metadata. To analyze that metadata, I can use various other tools (publicly available open-source tools), where I can input this data and perform a keyword search to, let’s say, identify hate speech …We will be deploying three out of the 16 tools required for first-hand information at 46 police stations [in Chennai, Tamil Nadu]. This will enable them to conduct preliminary investigations on the ground if needed,” Sanjay Kumar, Additional Director General of Police, Cyber Crime Wing, Tamil Nadu Police told MediaNama, as he talked about the need to enhance technical capabilities of police officials for utilising metadata at a time when they have to mostly deal with digital crimes.
+
+Commonly understood as data about the visible content, Metadata encompasses information that records an individual’s electronic device and network activities, including call detail records (CDR), location data, IP addresses, image properties, message timestamps, device details, and social media profiles. For instance, in a Word file, metadata includes creation time, authorship, and modification history. In online communication apps, metadata reveals message delivery times, server interactions, message length, and recipient actions. While not disclosing content, metadata offers vital insights into user activities on networks, online platforms, and personal devices.
+
+For law enforcement agencies like the police, metadata plays a key role in establishing the path of investigation and connecting independent actors involved in a case. Speaking of the sufficiency of metadata for crime investigation, Saikat Datta, co-founder of DeepStrat says,
+
+âMost of the investigations rely mainly on metadata. Without metadata no investigation would take place as it is also used to define which Section to register the case on, to find clues, build evidence, and the chain of circumstances [of a crime scene]. Most investigations are post-facto, so they [police] will access it only as part of investigations. Metadata also leads to actual data, like a phone number. Thereâs no question of Telecom Service Providers not providing data about that number. Thereâs always enough metadata available for the police.â
+
+How much does the police rely on metadata for solving routine as well as serious crimes? To understand this we spoke to police officials from Tamil Nadu and Uttar Pradesh, who revealed what kind of metadata is collected by the law enforcement, which software is used for what kind of metadata analysis, what kind of insights they derive from it, whether collection of mass metadata and live metadata happens, and why they make a case for better policies to ease the process for obtaining data from intermediary agencies involved. We also explore the legality of metadata collection, laws that enable collection and processing of metadata, and whether there are any legal limitations on surveillance.
+
+MediaNama had also reached out to senior police officials from the cybercrime department of Hyderabad, Bangalore, Mumbai, Haryana and Assam police. While the author did not receive any response from Mumbai, Bangalore, Haryana and Assam police, Hyderabad police shared brief answers to our queries over WhatsApp (they had specifically requested that we send them queries over WhatsApp), and left our multiple requests, spanning a month, for a follow-up discussion unanswered.
+
+In what ways is metadata useful for the police?
+
+On December 30, 2022, a hoax bomb threat close to New Yearâs eve caused panic among the administration of Mumbaiâs well-known Mount Mary Basilica, as well as the Bandra police. A message regarding the bomb threat was posted on the churchâs website, and was later deleted by the sender. Cybercrime Investigator and Consultant Ritesh Bhatia, shared how he was able to track the culprit within two hours from his office using the IP address and details of the device used to send the mail. An IP address is a unique identifier, assigned by internet service providers, for a device connected to the internet.Â
+
+âWe provided the IP address for the police to track the sender’s location. Through further investigation on the website on which the mail was sent, we got the phone model, version details and also the operating system that was there,â Bhatia stated.
+
+He further noted that if the police had relied only on location data, the person in question could have denied the act. However, when provided with information such as model number of the phone, details of the browser history, keywords used on the search engine, etc, the police have enough metadata to confidently make a case against the individual.
+
+Iraj Raja, Superintendent of Police, Jalaun District, Uttar Pradesh, told MediaNama that data requirements vary, but Call Data Records (CDR) are requested in at least 90 percent of cases from telecom service providers (TSPs). A CDR will exhibit details of call duration, incoming and outgoing calls, tower location of the callers involved, etc. CDR is the most fundamental type of metadata which essentially connects the police to the individuals concerned with a case. To explain, Kumar illustrated, if the police want to locate a person through a mobile number or an International Mobile Equipment Identity (IMEI) number, which is a unique identification number of a mobile device, they will first contact the service provider.
+
+He said, âPolice focus on the ânight locationâ, as mobile numbers constantly change locations. A consistent night location suggests the person’s residence. If it shifts, police track it for over a month, pinpointing the predominant night-stay location. The location tolerance can be 50, 500, or 1,000 meters; 50 meters is preferred for proximity, like in a small colony. Service providers provide the exact location based on their system and tower connectivity etc.â
+
+With greater dependency of the police on Closed-circuit Television (CCTV) cameras along with facial recognition systems, these days policing is increasingly becoming synonymous with surveillance. Itâs now a widely reported fact that the Telangana , and Tamil Nadu police have been fiercely relying on CCTV data and comparing it with facial recognition datasets to identify persons accused of wrongdoing.
+
+When asked whether metadata has any role to play in cases involving CCTV data, Sanjay Kumar detailed out how metadata can be useful in determining the authenticity of an image captured from a CCTV footage. An image metadata would usually consist of details like the time of the day when the image was shot, lighting information such as ISO, resolution, usage of the flash etc. Kumar informs that an image authentication tool can generate more information, which is also considered as metadata, by marking a face or part of an image into various matrices. These markings are used by a facial recognition system for identification, and helping match individuals with existing databases. The authenticity of images is first assessed by the metadata before analysis.
+
+Kumar added, âDecoding an image involves splitting it into small matrices, constituting metadata. For instance, if I capture a person and alter the background, the metadata indicates multiple images within one. It identifies image one as a person marked in green, and another image marked in red, signifying overlap. If, for example, my head and body differ, it marks both as distinct. This denotes the image’s lack of authenticity. There are possibilities of the CCTV footage being edited. When you run a forensic tool on an image, you extract the metadata of that image which will inform whether to proceed with the investigation or ask for more information on the footage.â
+
+For social media related complaints, Iraj Raja stated that the cops usually require metadata related to profiles, IDs used, and email address etc. Such information along with CDR and server data provided by service providers enable the police to identify prima facie evidence in a case. He informed that in Jalaun district alone, the police requests for data from service providers for at least 50-60 cases in a month. The number naturally will be greater for bigger districts like Lucknow, Kanpur, Ghaziabad, and Meerut depending on the case at hand and the kind of request made.
+
+Is metadata being obtained lawfully in all cases?
+
+âThough not defined in law, for all practical purposes, the police will have criteria for determining cases wherein they need to seek orders. If the crime is against a child or a woman, or any form of sexual harassment, it will be taken upon priority. If there are standalone complaints, they may not take, because these are not easy orders. But if they’re dealing with a financial fraud syndicate, or with almost organised crime, then they will prioritise it and get orders for surveillance or gathering of metadata,â Vaishali Bhagwat, Cyber lawyer and member of the advisory board of the Maharashtra State Commission for Women, Maharashtra Cyber (Police) for Legal Reforms, told MediaNama.
+
+Interestingly, Bhagwat also informed that the police may go ahead and use data that has not been acquired through required orders to gather more information about the case. They may not file such data as evidence, but use it to investigate and get proper data. This indicates a privacy red flag, as the police could also have access to data unrelated to the case. (We talk more about this below.)
+
+Police can request metadata from intermediaries under Section 91 of the Code for Criminal Procedure (CrPC), Section 69 and Section 69B of the Information Technology (IT) Act, 2000.
+
+The Information Technology (Procedure and safeguard for Monitoring and Collecting Traffic Data or Information) Rules, 2009, establishes guidelines for carrying out interception or monitoring traffic data under Section 69B of the IT Act. Law enforcement agencies are obligated to follow due process, including obtaining a written order from the competent authority to initiate a data-request with an intermediary.Â
+
+Such orders are also supposed to be sent to a Review Committee for assessing if the directions are issued in accordance with the provisions of the law. The question remains: Are these rules strictly followed by law enforcement when obtaining data from intermediaries, especially given the challenges they face in the process? Do they ensure if the prescribed checks and balances for privacy are maintained every time they fetch for metadata?
+
+Is live tracking of mass metadata possible for the police?
+
+Law enforcement agencies, armed with powers to obtain data for crime investigation, raise concerns about infringement to privacy and potential mass surveillance. In February 2023, Indian authorities were able to track and deport a 19-year-old Pakistani woman Iqra Jeewani, who had eloped with an Indian man and was staying in Bangalore for four months. According to a report by NDTV, the Intelligence Bureau tracked Jeewani’s trail, as she was trying to contact her family members in Pakistan, and alerted the state intelligence. Based on the information from the bureau, the city police gathered further details and raided the couple’s house. A report by Scroll said, what landed Jeewani in trouble was her regular WhatsApp calls to her family in Pakistan. While it was being reported that the Jeewaniâs family had informed the police about the calls, the case still raised a question whether WhatsApp metadata was being tracked by the police.
+
+Speaking of WhatsApp calls, Anand Raje, co-founder of India Internet Foundation who has also worked with law enforcement for tackling cybercrime, told MediaNama, âWhatsApp calls are end-to-end encrypted, so they cannot be tracked. The police can only reach out to WhatsApp for data if the phone number is linked to a WhatsApp account. There are different methodologies, approaches that the police would employ depending on the requirement of the case, but it’s not like you can surveil an entire region.â
+
+In context of the Bangalore case, when asked whether the State police can track mass metadata, for example, call records for a particular region or a location at any given time, Kumar informed:
+
+âTracking is possible, because there are some restricted nations to which you can’t make a call. You need to prove that the call has nothing to do with any activity against the society. But it will be based on suspicion only. And they are tracked at a very high level, at the national levelâ¦and thatâs how information would have come to the state police [Bengaluru police].â
+
+Iraj Raja as well as Vinit Wankhede, Additional General of Police, Administration, Tamil Nadu, maintain that the officials or designated nodal officers do not have direct or access to any data, the requests always have to be need-based and they have to adhere to established processes for data requisitioning.Â
+
+âIf I have 100 people in Bandra and I am tracking all of them and their google locations, this is mass surveillance. But, it becomes noise, because it gives me nothing. When I am finding a needle in a haystack, why will I increase the haystacks? Mass surveillance leads to a greater noise and erroneous results. It will also require investing more into manpower and computing power. Even if the intent is there, Indian state police cannot do it. Technically, not possible,â Saikat Datta told MediaNama.
+
+Anand Raje, who took time to consult with law enforcement officials regarding this, told MediaNama days later, âMost of them [officials] say that thatâs[tracking] not possible, because there’s a lot of hierarchy involved. But, I am not convinced with the answers I’ve got.”
+
+While there are speculations about the use of metadata for mass tracking in actual practice, Sanjay Kumar, Iraj Raja and experts like Ritesh Bhatia have stated that there might be a possibility of such operations being undertaken at the highest levels of law enforcement hierarchy. For example, agencies working under the Ministry of Home Affairs (MHA), including the India Cyber Crime Coordination Centre (I4C), and the Intelligence Bureau (IB).
+
+But, is it legally permissible for the Central government or intelligence agencies under the Home Ministry or Central government to track mass metadata on a regular basis? According to lawyer Vaishali Bhagwat, it is not known whether tracking a vast amount of metadata concerning masses is happening in practice or not, but any form of lawful tracking or monitoring will warrant compliance with the procedural safeguards prescribed under the Rules. She noted that the safeguards also act as limitations against arbitrary use of interception powers by the State. In this case, the limitations include:
+
+âIn a way, a limitation works as an oversight mechanism on government access and there cannot be any surveillance, just on the whim and fancy of some state government or central government officer. These procedures, safeguards, in the sense that there has to be an application, then there has to be the nodal officer to first assess the requirement of such surveillance and to grant only such surveillance [permissions] that is necessary for the objective to be achieved. And the proportionality principle of privacy needs to be kept in mind,â Bhagwat explained.
+
+However, as pointed out by advocate Vrinda Bhandari, there is no way for a citizen to know the extent to which surveillance requests have been initiated by central agencies, and whether prescribed procedures are followed.
+
+MediaNama has filed a Right to Information request with the Ministry of Home Affairs asking for data on the number of requests made by the MHA and associated agencies under Section 69B of the IT Act from the year 2022 to the latest data available. The article will be updated if we receive a response to our queries.Â
+
+How does the police analyse metadata?
+
+While the Tamil Nadu and Uttar Pradesh police admit to procuring different tools for data analysis, Ritesh Bhatia disagrees stating that basic internet skills to filter data from open-sourced data analysis tools or commonly accessible tools like Google Sheets, and a policing mind suffices to segregate metadata as per the requirement. Cybercrime officials may use forensic tools such as Cellebrite for extraction of data and phone-cracking tools , but metadata analysis specifically does not demand any specialised training.
+
+Anand Raje notes an upward trend in the use of open-source tools by the police. He said, âWhat happens is these sophisticated tools are used by some consultants which are recruited by the police for taking care of the cyber-crime cases. It’s not that these tools are not publicly available. It’s not only about metadata; as investigations progresses, various software is essential.â
+
+Tamil Nadu Police is in the process of establishing a State Cybercrime Command and Control Center, with a Cyber Forensic Lab equipped with 16 tools.
+
+Hereâs a list of products for forensic analysis, the Tamil Nadu police is planning to acquire: Â  Â  Â Â
+
+1. IN Forensic Workstation (FRED)
+
+The FRED workstation is going to be the hub of all the cybercrime investigation activities, including mobile forensics amongst other operations related to digital analytics.
+
+2. Forensic Disc Imaging Device
+
+This will be used to extract and retrieve data from devices like a hard disk, where the data of a laptop or a desktop resides.
+
+3. Write Blocker
+
+When a document is edited, the hash value or a unique value attached to its content changes. As per Indian law, modified documents are not admissible in court as evidence. A Write Blocker is used to disallow editing of a document that constitutes a part of the digital evidence, while working with the document on a system.
+
+4. Portable Data Extraction System
+
+The Tamil Nadu police is going to provide rugged laptops with an inbuilt portable data extraction system in 46 cybercrime police stations across the State. The system will enable officials to carry the laptop to the reported incident site for speedy extraction and transfer of data.
+
+5. Disc Forensic Software and Digital Forensic Software
+
+A disc forensic is used to view metadata residing in a hard disk, such as the storage space, location of different files, opening different units in the device, and ultimately extracting metadata for each and every file thatâs there. A digital forensic software will be able to derive inputs from multiple types of digital evidence, such as hardware, network logs, files etc to mainly detect vulnerabilities concerning cyber security.
+
+6. Device Data Extraction Software
+
+This is used for extraction of metadata specifically from digital devices. For example, someone has typed a letter, but has deleted the file. Device data extraction is about connecting a storage device to this software and extracting metadata of that entire storage and using that metadata to find where the data or the file resides.
+
+7. Tower Dump Analyser
+
+A tower dump [[data on thousands of mobile numbers active on towers of a service provider in a particular area] analyser will be used to track and analyse an individualâs call details such as their last location. It also provides information even when the target person has changed their SIM card, using their mobile phoneâs IMEI number.
+
+8. Digital Video Recorder (DVR)
+
+A DVR will be used to extract metadata of CCTV recordings. A CCTV metadata will give inputs relevant for identification of a person, the timestamp and date stamp of the footages accessed.
+
+9. Image Authentication Software
+
+This software will be used for checking whether an image is authentic and has not undergone any modifications, edits, or has additional images embedded in it. The software will assist in authenticating an image serving before it is being used as an evidence.
+
+10. Password Recovery and File Decryption Tool
+
+Use: These will be used to unlock digital devices like laptops and mobile phones and also to access encrypted files.
+
+11. Image and Video Enhancement Tool
+
+Visual enhancement tools are used to enhance a video or image shot in dark or is unclear to be investigated. The enhancement tool is also used to sharpen the visuals, correct the colours, and provide at least minimum information that can be relevant to the case.
+
+12. Image Recognition Suit
+
+Use: After retrieving images using the DVR, through an image recognition tool, officials are able to scan through databases, including those connected to their facial recognition systems, to check if the individual has any past criminal record.
+
+13. Social Network Analytics Suit
+
+The product provides the law enforcement with information about an individualâs social media profiles and footprint across multiple platforms. This also includes assimilation of the tweets or Facebook activities of the concerned person. For example, if a YouTube channel is run through the tool, the user can know information about when a particular channel was launched, who is the owner, where is it registered, and when was it last opened through which server or IP address. Further, based on the instructions, the tool can also help identify anything related to hate speech or offensive content in the video. This indicates that a social media analytics tool can potentially enable the police to indulge in mass collection of social media metadata.
+
+14. Intelligent Data Analytics and Management System
+
+The management system will be used to finally collate all the information collected, into a single dashboard for the investigator to have a combined view of this information and take the next step.
+
+Kumar also talked about services like Innefu Labs and tools like MSAB, XRAY, which are used for social media monitoring. For example, when it comes to a campaign on Twitter/ X, using these tools for different requirements investigators can find out when and at what time a tweet originated and by whom, how many times the tweet in question was retweeted and by whom, who agreed with a particular point of view and hence the entire network. All of this extracted data, he states, can be called metadata, which can run up to thousand lines at times. To further read and categorise this metadata, Kumar mentions the use of tools like Hadoop and Tableau.Â
+
+When it comes to mobile tower data, the data obtained is large given that the numbers active on a particular tower may be high. In such cases, Vinit Wankhede says that the police usually go about establishing a pattern. For example, suppose thereâs a pattern of a vehicle moving from x point to z point and there are five towers which are being covered. Through the tower locations, one can establish the location of mobile users active on the said network and then track the concerned user.
+
+Are these all âMade in Indiaâ tools? According to Sanjay Kumar, the tools procured are all imported solutions for data extraction and analysis, mainly from Israel and Korea. However, Iraj Raja said that the UP police uses Indian tools, though he did not provide a list of the tools used by the department. Kumar mentioned that there are authorized technology partners in India who help in training, and acquiring the tool. These organisations also work with law enforcement agencies conducting Proof of Concepts (POCs), which essentially include testing the systems, and initiating the procurement process based on the feedback received from the investigators.
+
+In March 2023, the âStatus of Policing in India 2023â report by Common Cause and Lokniti CSDS, had highlighted that metadata can be more dangerous than the data or the content itself. It observed that the police and other state agencies have wide discretion over the use of surveillance technologies and the power to manage them, which makes it dangerous in the context of abuse of powers as well as lack of enough protection to public data. At a time when there is opacity about how metadata is being used for reasons other than investigation, the report emphasised on the need for transparency in the way these technologies are being used, oversight and accountability measures.
+
+MediaNama reached out to Delhi-based Alibi Technologies and Hyderabad-based ProDiscover , which mentions Telangana police as a customer on its website, asking them about the services they provide to the police for digital investigation, and the frequency of demands made by law enforcement agencies for technological equipment. We havenât yet received a response from the companies.
+
+Navigating challenges in law enforcementâs access to metadata
+
+Law enforcement agencies rely on intermediaries like telecom service providers (TSPs), internet service providers (ISPs), financial institutions like banks, and social media platforms among others for metadata access. A common concern expressed by cyber experts and police officials is that a lack of cooperation by intermediaries in providing relevant data often proves to be a roadblock against timely investigation. Among all service providers, they say, tackling social media related grievances is a major challenge, even as most of the complaints today concern activities on social media platforms such as cyber-bullying, hate speech, defamatory content, stalking etc.
+
+Vinit Wankhede illustrated the administrative challenges that arise using an example, wherein a defamatory post against someone has been posted on Facebook and the police is seeking to authorise the content through Meta to utilise such data as digital evidence.
+
+âIn today’s world of photoshop, screenshots are not completely admissible as evidence. To prove content was posted on Facebook, server-side certification is vital. The Police Superintendent will check the server and the service provider must confirm ownership, linking the account to an IP address. All that data has to be authenticated by the service provider. Facebook has data [regarding] the content, and of the alleged account holder. Until Facebook gives that evidence, you cannot prosecute the case,â he explained.
+
+Similarly, Kumar contends that there is a challenge when it comes to messaging platforms like WhatsApp, Telegram, and Signal. According to him, the police can only establish that a WhatsApp call has taken place with the help of a service provider, but to get more details of the chat or the call, the designated official will have to write to the nodal officer at Meta appointed to deal with requests of law enforcement agencies.Â
+
+What hinders the process? Several factors impede the data acquisition process, including internal company policies, varying international laws, and differing definitions of crime. âFor all these difficulties, the government interface inevitably becomes important. It is not a challenge to remove the content in question, but the administrative part is more challenging,â says Vinit Wankhede.
+
+Secondly, often the trail of investigation runs cold in cases where there are multiple devices connected to one server and tracing becomes an issue. The problem mainly occurs when servers are located outside India, and in some cases, data older than six months may not be retrievable from telecom operators.Â
+
+Wankhede explains, “When you’re online, you generate data logs with every site visit and activity. This metadata, crucial for investigations, includes your IP address. If the data isn’t retained within the necessary timeframe, or if the telecom operator doesn’t preserve it carefully, obtaining leads for investigation becomes a significant challenge.”
+
+MediaNama reached out to Meta, Signal and telecom companies like Bharti Airtel, Reliance Jio, and Vodafone Idea via email regarding the kind of data requests the companies receive from Indian law enforcement agencies, and the challenges faced by them in addressing such requests. While Meta and Bharti Airtel declined to share their comments, we did not receive a response from the others.
+
+Some say intermediaries are cooperative enough: Contrary to the prevalent discontent with intermediaries, UP police’s Iraj Raja asserts that intermediaries, when cooperative, provide enough data for crime detection. “We donât have direct access to these apps and we donât get encrypted data, but we do get enough details regarding user, end user, and other things. There are various such cases.”
+
+Raja shared an example of a case wherein an individual was facing harassment from a WhatsApp user who used different numbers. With WhatsAppâs compliance, the Jalaun police was able to trace the number and through IP address, they traced the perpetrator. Acknowledging the challenges involved in requesting data from intermediaries, he also underlined that the police does not need encrypted data in all cases, given that it may raise privacy concerns, and that currently, the intermediaries have been addressing their requests for details of a user profile.
+
+Data requests need to be very specific: Interestingly, Anand Raje pointed out that many of the data queries are not resolved by the intermediaries in a defined time period because the questions are too broad and that they need to be specific.Â
+
+âIf there is any activity in which the intermediary says that a particular person was logged in, then you actually pinpoint that such a device was used to log in into the account. And this also has to be verified by the telecom operator. Most law enforcement agencies are not aware of what needs to be asked when it comes to social media. So even the platforms are in a fix regarding what they must provide. Intermediaries try to get into specifics of data, because they also have very tight standards for privacy. And this is something that needs to be understood and even made aware to the law enforcement whenever they ask,â Anand Raje remarked.
+
+Is the police obligated to delete metadata collected once a case is solved? Further, regarding deletion of accessed metadata, Bhatia suggests the need for a law mandating the destruction of metadata once a case concludes. The IT Rules, 2009, require designated officers and intermediaries to destruct electronic records pertaining to directions for monitoring or collection of traffic data six months after the receipt of such order and after initiating the interception, except in cases where the investigation is ongoing. However, it does not state if the data collected during investigation by the officials must be deleted at some point.
+
+Bhagwat pointed out to the Supreme Courtâs observation in the Aadhaar judgment that the Unique Identification Authority of India and other authenticating entities cannot store authentication records, that is metadata, for more than six months. The Court had also emphasized on the importance of proportionality in metadata collection and storage, and had observed that “collection of metadata is conducive to surveillance.”
+
+Are speculations of mass surveillance through metadata unfounded?Â
+
+While the Bengaluru case sheds light on the government’s use of WhatsApp metadata, it also brings attention to the fact that the government has also envisioned implementing its two main projects to surveil citizensâthe Centralised Monitoring System (CMS) and the National Intelligence Grid or NATGRID.
+
+With the CMS, the government monitors communications on mobile phones , landlines and internet in the country, purportedly to âstrengthen the security environment in the countryâ, and to improve resources for CDR analysis, data mining, and provide alerts on target numbers by reducing intervention from telecom service providers. On the other hand, NATGRID will initially enable the government to collate, access, and analyse information, in some cases real-time data too , from at least 21 key organisations including the Income Tax department, National Crime Records Bureau, Civil Aviation Ministry, and more. This information will include citizensâ banking and financial transactions, databases of FIRs and stolen vehicles, air and rail travel records, immigration, property records, driving license, and telecommunications data. More details on the plans for NATGRID here .
+
+Conditions that facilitate unbridled government access to telecommunications data: Â
+
+The Unified License (UL) agreement, signed between the TSPs or ISPs and the government of India, places several obligations upon the service providers to provide facilities to trace and track subscriber communications to government-authorised agencies. Clause 37.2 under Part V of the updated UL terms and conditions reads:
+
+âThe LICENSEE is obliged to provide, without any delay, all the tracing facilities to trace nuisance, obnoxious or malicious calls, messages or communications transported through his equipment and network, if the equipment capable of tracing is with licensee, to the agencies of Government of India as authorized from time to time, when such information is required for investigations or detection of crimes and in the interest of national security. Any damages arising on account of Licenseeâs failure in this regard shall be payable by the Licensee.â
+
+Further, Clause 38.18 states that service providers have to maintain a website consisting of a complete list of subscribers, which will be accessible to âdesignated Security Agenciesâ at any given time. Clause 38.19 also states that the licensor or the government will also have access to the database relating to the subscribers of the licensee. The service provider is obligated to provide details of the subscribers, at any prescribed instant, to the licensor or authorised representative.
+
+Itâs worth noting here that under the draft Telecommunications Bill , online messaging and calling applications will also be brought under a licensing/authorisation framework, and subjected to similar requirements of law enforcement access to data. A similar framework for online messaging and calling was also a part of the Telecom Regulatory Authority of Indiaâs recent consultation on OTT applications .
+
+Amnesty Internationalâs recent report âPredator Files: Caught in the Netâ , an investigation into spyware products developed by Intellexa Alliance, an alliance of surveillance tech companies, makes critical revelations about how access to large-scale traffic data can be exploited by the State to target individuals using strategic infection systems. The disclosures show that the alliance has been supplying its products to countries like France, Egypt, Saudi Arabia, Libya, Vietnam etc among many others between 2007 and 2022. The report highlights that the strategic infection systems resemble mass surveillance tools as they require access to large-scale internet traffic to target and infect individuals.Â
+
+â The mass and âmassiveâ surveillance products offered by the Intellexa alliance suggest an evolution of earlier surveillance technologies from lawful interception systems that allowed traffic monitoring in a targeted, individualised manner â that potentially allowed for more checks and limitations- to more overbroad and indiscriminate methods,â the report informed.
+
+Acknowledging the impact of unrestricted access to metadata on privacy, in 2022, the European Court of Justice had ruled in favour of a convicted murderer as it clamped down on the powers of the Irish law enforcement to retain mobile phone metadata indiscriminately. Notably, the Court had observed that “combating of crime in the 27-member EU bloc did not justify retaining data that could violate the privacy rights of entire populations. Even particularly serious crimes could not be treated in the same way as threats to national security.”
+
+Bhandari also highlighted the inadequacy of the Digital Personal Data Protection Act in enforcing strict standards on data collection by government-authorised agencies. On the contrary, the DPDP Act includes exemptions to the government entities from various provisions related to consent and information on data accessed for investigation or security related objectives.
+
+Given the broad powers of the law enforcement under the IT Act, impact on an individualâs right to privacy can only be determined by applying the test of proportionality laid out by the SC in K.S. Puttaswamy vs Union of India judgment . The Court had observed that the principle of proportionality ensures that the Stateâs encroachment on an individualâs right to privacy is not âdisproportionate to the purpose of the lawâ. Amnestyâs report also cautioned that all indiscriminate mass surveillance fails to meet the test of necessity and proportionality, as it gathers unlimited amounts of data and is non-compliant with human rights.
+
+âHow do you realistically challenge the data collection by the police, given the power asymmetry?â Bhandari questioned observing that, âThe contours of data collection are very broad even under Section 69B of the IT Act. The problem is proportionality can only be read in terms of Puttaswamy if someone challenges it in Court. Further, given that thereâs lack of oversight, and invisibility over surveillance requests, itâs impossible as a citizen to know amidst a total lack of transparency.â
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS:Â Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. ClickÂ here Â to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

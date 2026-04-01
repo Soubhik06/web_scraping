@@ -1,0 +1,47 @@
+SUBREDDIT: r/india
+TITLE: Countering Anand Venkatanarayanan's demonization of Nilekani's claims on Aadhaar
+DATE: 2017-04-08
+SCORE: 8
+URL: https://www.reddit.com/r/india/comments/642szc/countering_anand_venkatanarayanans_demonization/
+
+--- POST TEXT ---
+
+First things first, assuming you have read Anand Venkatanarayanan's (AV) [article](http://www.thenewsminute.com/article/uidai-system-design-flawed-man-busts-nandan-nilekani-s-9-claims-aadhaar-59891) I recommend you read Nandan Nilekani's (NN) [interview](http://www.thehindubusinessline.com/blink/cover/nandan-nilekani-demonising-of-aadhaar-is-irresponsible/article9608232.ece) that Anand seems to debunk. In reality, his article is just like a magic show - using sleight and conceit to lead people believe in his narrative.
+
+&gt; a PDS system which was serving X number of people in a state, will suddenly start denying rations to a random set of X * 5/100 people
+
+However, there's a sleight of hand here - Nilekani talks of 95% success rate in PDS - Aadhaar system. Does that mean non PDS systems connected with Aadhaar have 5% error rate? Even for PDS, Anand fails in math. While he correctly calculates 5 crore **transactions** denied, it does not translate to 5% **people** denied. Eventually (at infinite repetitions) 100% people will have at least one failed transaction. Do you throw away your iphone when fingerprint authentication fails?
+
+&gt; So in short, the new PDS system actually converts inherent statistical uncertainty of biometric authentication with accrued savings
+
+* In 2nd point Anand bases savings on imagined "IF" conditions, without giving any statistics. And confuses public with statistics on everything apart from savings. While the 50,000 crore number could be debatable Nilekani claims 50,000 crore saved from *genuine* beneficiaries. How can the author Anand muddle it to say 50,000 crore savings comes from *fraud* + *genuine-denied* transactions?
+
+&gt; Rural tele-density is at 52.43%. when biometric fingerprint verification fails, there is a 47% probability that the person may be denied their entitlements.
+
+* 3rd point - So much dust blown in eyes. By same data source that idiot Anand shared, urban tele-density is at 160%. How would that idiot Anand calculate probability in this case? ROFL! The actual mathematical case would be: 5% error * 47% no OTP = 2.3% probability of failure of *transaction*, not *people* denied entitlement. How idiotically arrogant. 
+
+Another hole in argument - tele-density of 52 % does not correspond to 47% rural aadhaar not having cellphones. This is idiotic to assume a 2 year old kid will own phone number linked to aadhaar. Obviously a single mobile number of family head will link to muliple aadhaars.
+
+&gt; In short, the technology is broken and will not work except on ideal conditions, which will not exist most of the time.
+
+* 4th point - Another sleight of hand. Nilekani says some aadhaars have errors but rest of aadhaars will work. Anand says some aadhaars have errors which must mean that entire system is broken and hence *any* aadhaar will not work most of the time. Deliberate twisting.
+
+* Fifth point of Anand's is an opinion piece, not a factual argument. He is free to imagine whatever he wants to, however flawed it might be.
+
+* Sixth point of Anand's is total hogwash. Classic bait and switch technique. I encourage you to read context of Nilekani's comment - he says current government hasn't changed Aadhaar from what he as a chief of installed by previous government would have done, which Nilekani calls progressive. 
+
+It is a different matter altogether that the idiot author makes a completely tangential and nonsensical statement just to argue:
+
+&gt; Is the Indian state so void of moral and ethical sensibilities that it has to ask Bhopal gas victims, AIDS patients, trafficking victims to produce a UID or get lost?
+
+Perhaps idiot Anand forgets what identification means. In absence of Aadhaar, wouldn't any government request for identification of "victims" claiming benefits? Or should it be a loot of resources free for all who want to claim benefits in place of those genuinely affected?
+
+&gt; It is far easier to steal the biometric at source, not during enrollment, but during verification
+
+* 7th point is manipulation. Anand concedes it is difficult to steal biometric from database, hence it is easier to forge biometrics during verification. And then the idiot recommends a series of elaborate software + network + hardware + algorithm attacks to forge the biometrics "easily". Just think, it that easier than forging a signature if aadhaar wasn't in place?
+
+* 8th point is a sign of decay that Anand nit picks on hyperboles to prove a himself right. Context - Nilekani was asked "Please explain how the Aadhaar has benefited an ordinary taxpaying citizen." to which he replied "Why just the taxpaying? Millions of people without any ID, now have an ID." It is not an objective statement, but a figure of speech.
+
+* 9th is finally a valid comment attacking aadhaar on all its weak points. 
+
+Edit : formatting change from numbered bullet point, looks like numbers go back to 1 after quotations.

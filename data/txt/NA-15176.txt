@@ -1,0 +1,65 @@
+Key takeaways:Â
+
+Children were protected against harms like discriminatory treatment, blackmail or extortion, restriction of speech and more caused by data fiduciaries in the 2021 version of the data protection bill but it is no longer the case. The new draft Digital Personal Data Protection Bill (DPDP), 2022, significantly narrows down the definition of “harm”. This could mean less protection for children when their data is being processed by data fiduciaries.
+
+The draft DPDP, 2022 was released today (18th November 2022) by the Ministry of Electronics and Information. Public feedback on the bill can be submitted by 17th December 2022 on the MyGov website .
+
+Overall, the 2022 version is a much narrowed-down version of the previous bill. For one, the bill now only deals with digital data and not with non-digital data, thus reducing the scope of protection available for children.
+
+The DPDP Bill 2022 defines “child” as an individual who has not completed eighteen years of age, just like the previous bills released in 2018, 2019 and 2021:
+
+Here’s an analysis of how the bill has evolved since 2018 from the perspective of protecting children’s data:
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+What the 2022 Bill says: The Data Fiduciary shall, before processing any personal data of a child, obtain verifiable parental consent in such manner as may be prescribed. The bill also says âparental consentâ includes the consent of lawful guardian, where applicable, for the purpose of the section pertaining to children.Â Analysis: The earlier versions of the bill simply called for parental consent of the child but this has been replaced with obtaining verifiable parental consent .Â It’s not clear what is meant by “verifiable parental consent”. It remains to be seen how websites will verify if the consent has been given is by the ‘real’ parent/guardian and not someone else. Will websites resort to facial recognition or will they start collecting documents of proof showing the relationship between the parent/guardian and the child?
+
+What the 2018 Bill said : This version of the draft said,Â “Appropriate mechanisms for age verification and parental consent shall be incorporated by data fiduciaries in order to process personal data of children.” What the 2019 Bill said: The text in 2019 was tweaked a little to make it more definitive. “The data fiduciary shall, before processing of any personal data of a child, verify his age and obtain the consent of his parent or guardian, in such manner as may be specified by regulations.” What the 2021 Bill said: Same as 2019. Context: Multiple stakeholders had asked for the lowering of the age of consent to either the US standard (13 years) or the GDPR standard (13-16 years), Medianama had reported . However, the committee decided to leave that unchanged.
+
+What the 2022 Bill says: A Data Fiduciary shall not undertake such processing of personal data that is likely to cause harm to a child, as may be prescribed. In this case, “harm” means: a. any bodily harm; or b. distortion or theft of identity; or c. harassment; or d. prevention of lawful gain or causation of significant loss;
+
+Analysis: The definition of “harm” has been narrowed down, which reduces the protections available to children. This version excludes things like discriminatory treatment, blackmail or extortion, restriction of speech, any surveillance “that is not reasonably expected by the data principal” and more, which were present in the 2021 version of the bill.
+
+Here’s the definition of “harm” mentioned in the 2021 version of the bill: “harm” includes- (i) bodily or mental injury; (ii) loss, distortion or theft of identity; (iii) financial loss or loss of property, (iv) loss of reputation or humiliation; (v)loss of employment; (vi)any discriminatory treatment; (vii)any subjection to blackmail or extortion; (viii)any denial or withdrawal of a service, benefit or goods resulting from an evaluative decision about the data principal; (ix) any restriction placed or suffered directly or indirectly on speech, movement or any other action arising out of fear of being observed or surveilled; (x) any observation or surveillance that is not reasonably expected by the data principal (xi)any psychologicalÂ manipulation which impairs the autonomy of the individual; or (xii)such other harm as may be described
+
+The 2022 version also states that “A Data Fiduciary shall not undertake tracking or behavioural monitoring of children or targeted advertising directed at children.” Analysis:Â The same provision was there in the 2021 version of the bill as well.
+
+What the 2018 Bill said : Guardian data fiduciaries shall be barred from profiling, tracking, or behavioural monitoring of, or targeted advertising directed at, children and undertaking any other processing of personal data that can cause significant harm to the child, the text of the 2018 draft version reads. What the 2019 Bill said: Same as above, with just a minor grammatical change. What the 2021 Bill said: It revised version read, ” The data fiduciary shall be barred from profiling, tracking, or behavioural monitoring of, or targeted advertising directed at children and undertaking any other processing of personal data that can cause significant harm to the child. Reasoning for the change: In 2018 and 2019, only guardian data fiduciaries were barred from monitoring children, but in the 2021 draft, all data fiduciaries were barred from monitoring the activities of children as the concept of guardian data fiduciaries was removed from the bill.
+
+What the 2022 Bill says : “The provisions of sub-sections (1) and (3) shall not be applicable to processing of personal data of a child for such purposes, as may be prescribed.” Sub-section (1) deals with verifiable parental consent and sub-section (3) deals with harm caused to children by data fiduciaries. Analysis: The 2021 version mentioned certain specific cases where the exemption would be provided, like “offering counselling, child protection services”. These specific cases for providing exemption have been removed. Moreover, this sub-clause also means that for certain purposes which have not yet been defined, data fiduciaries will not require verifiable parental consent for processing children’s data.
+
+What the 2018 Bill said : An exemption was provided to the sub-section barring processing of children’s data, like when offering counselling, child protection services etc. The 2018 version read, the clause about the processing of children’s data “ may apply in such modified form, to data fiduciaries offering counselling or child protection services to a child, as the Authority may specify.” What the 2019 Bill said: In the next revision, the word “may” was replaced by “shall” making it more definitive and the word “regulations” was added. “The provisions of sub-section ( 5 ) (barring children’s processing of data) shall apply in such modified form to the data fiduciary offering counselling or child protection services to a child, as the Authority may by regulations specify. What the 2021 Bill said: It did not have any revision.
+
+What the 2018 Bill said : This version said, “Every data fiduciary shall process personal data of children in a manner that protects and advances the rights and best interests of the child.” What the 2019 Bill said: The words “ advances ” was removed in 2019. What the 2021 Bill said: In 2021, the “best interests of the child” part was removed as well. It reads: Every data fiduciary shall process the personal data of a child in such a manner that protects the rights of the child. Reasoning for the change: The JPC gave the reasoning that “using such qualifying phrases may dilute the purpose of the provision and give a leeway to the data fiduciary for manipulation.” For instance, an educational website can argue that taking children’s facial data is in the “ best interest” of a child as it helps students analyse how well they will perform in the upcoming exam. (This example is suggested by the author, not the JPC).
+
+What the 2018 Bill said : It provided a set of things to consider when deciding on the mechanism of age verification. No system to actually verify the age was suggested in 2018 or in its subsequent versions till 2021. The sub-section reads, “Appropriateness of an age verification mechanism incorporated by a data fiduciary shall be determined on the basis of â
+
+(a) volume of personal data processed; (b) proportion of such personal data likely to be that of children; (c) possibility of harm to children arising out of processing of personal data; and (d) such other factors as may be specified by the Authority”
+
+What the 2019 Bill said: The revised framing added the word “regulation” and removed the word “data fiduciary” . What the 2021 Bill said: In 2021, the word “regulation” was removed. It read: The manner for verification of the age of the child under sub-section (2) shall take into consideration â “. Rest remains the same. Why this is important: The controversial Age-Appropriate Design Code passed in California this September put the onus of children’s privacy on websites and apps. Privacy advocates flagged the problem with this as it would force companies to use facial recognition mechanisms for verifying the age of people. Hence, it is important to have a mechanism that respects privacy and does not lead to excessive collection of data.
+
+What the 2018 Bill said : The Authority shall notify the following as guardian data fiduciariesâ
+
+(a) data fiduciaries who operate commercial websites or online services directed at children; or (b) data fiduciaries who process large volumes of personal data of children.
+
+What the 2019 Bill said: The word “regulations” was added in 2019 . The Authority shall, by regulations , classify any data fiduciary, as guardian data fiduciary, whoâ ( a ) same as above ( b ) same as above What the 2021 Bill said: This sub-section was removed from the 2021 draft. Reasoning for the change: The JPC explained that even those who are not guardian data fiduciaries have to be compliant with the rules concerning the personal data of children and so an exclusionary clause cannot be given, Medianama reported . The JPC then said, there will be no advantage in creating this separate class of data fiduciary.
+
+What the 2018 Bill said : Guardian data fiduciaries were exempted from obtaining consent under certain conditions. “Where a guardian data fiduciary notified under sub-section (4)exclusively provides counseling or child protection services to a child, as under sub-section (6), then such guardian data fiduciary will not be required to obtain parental consent as set out under sub-section (2)”, the bill read.
+
+What the 2019 Bill said: The raised definition was more simplified without any major changes. “A guardian data fiduciary providing exclusive counselling or child protection services to a child shall not require to obtain the consent of parent or guardian of the child under sub-section ( 2 ).
+
+What the 2021 Bill said: As the JPC removed the term “guardian data beneficiaries”, this sub-section was no longer needed.
+
+The story was updated on 19th November (9:00 am) to add that a penalty of up to0 200 crores can be levied under this section of the bill. The link for submitting feedback on the bill has also been added.Â
+
+The story was updated on 28th November (10:20 am) to remove the line which said that according to the 2022 version of the bill “harm” can be caused in only four ways as more such ways have been mentioned in the bill.Â
+
+Read more:
+
+Note: The headline was updated to match the formatting of our event coverage.
+
+This post is released under aÂ CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

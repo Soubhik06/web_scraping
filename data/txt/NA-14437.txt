@@ -1,0 +1,39 @@
+The Parliamentary Standing Committee on Home Affairs has called for express legal provisions to tackle deepfakes and other AI-generated content, warning of rising risks from cybercrime, impersonation, and online abuse. In its 254th Report on Cyber Crime â Ramifications, Protection and Prevention , tabled in August 2025, the Committee urged the government to strengthen the legal framework to explicitly address synthetic content created with artificial intelligence.
+
+The Committee recognised that cybercrime is evolving rapidly with the rise of AI tools. It flagged deepfakes as a recurring weapon in sextortion, impersonation, fraud, and harassment of women.
+
+At the same time, it noted that existing law âdoes not differentiate between synthetically generated and user-created content.â To fix this gap, it recommended that âthe legal framework be further strengthened to include express provisions in the legislation for handling content generated using Artificial Intelligence (AI) and similar emerging technologies.â
+
+Notably, the Committee also turned its focus to technology. It urged the Ministry of Electronics and Information Technology (MeitY) to create a framework for tracking and labelling manipulated media. “To make the system work, it asked MeitY to set âuniform technical standards for media provenance.” This, it said, would make provenance easier to prove and fake or altered material harder to spread.
+
+To make the system work, it asked MeitY to set âuniform technical standards for media provenance.â It further recommended that Computer Emergency Response Team â India (CERT-In) act as the coordinator for monitoring and issuing detection alerts.
+
+The Committee also welcomed the Centre for Development of Advanced Computing (C-DAC)âs work on indigenous tools. It pointed to the Deepfake Detection Tool, currently in testing with â89% accuracy on global benchmarks,â and already shared with law enforcement for evaluation.
+
+Finally, it pushed C-DAC to go further. It asked the body to âexplore the development of an AI/ML-powered [system] that predicts cyber threats to critical sectors.â This system, it said, should integrate data from exisiting cybersecurity tools like Deepfake Detection, Vishleshak, CDACSIEM (Centre for Development of Advanced Computing â Security Information and Event Management), and Rakshak DNS with external threat intelligence.
+
+For now, India relies on the Information Technology Act, 2000, and the IT Rules, 2021.
+
+This framework gives the government some levers to act against deepfakes, but it doesnât create dedicated provisions for AI-generated media.
+
+The Delhi High Court pushed MeitY to act after multiple petitions flagged deepfake misuse. One case came from model Kanchan Nagar, who sought protection against commercial exploitation of artistsâ likeness. Another came from India TVâs Rajat Sharma, who raised concerns about misinformation and threats to democracy.
+
+In response, MeitY formed a subcommittee. It met stakeholders in December 2024 and January 2025, including Google, Meta, X, and civil society groups. Google pointed to its 2023 disclosure policy for AI content. Meta highlighted its 2024 labeling requirements. X argued that ânot all AI content is harmful,â and urged regulations to target malicious intent rather than creative applications.
+
+Consequently, in March 2025, MeitY submitted a status report to the Delhi High Court. It acknowledged the âsignificant risks associated with deepfake technology, particularly its potential use in misinformation, defamation, cybercrime, and violation of personal rights.â It also told the court the subcommittee would need three more months to complete consultations and planned to hear testimonies from people directly affected by deepfakes.
+
+The Committeeâs recommendations signal a shift from advisories to statutory regulation. By calling for âall photos, videos and similar contentâ to carry a watermark, and by asking MeitY to set standards while CERT-In monitors compliance, it envisions a state-driven provenance regime for digital media.
+
+This raises tough questions:
+
+The bigger issue is whether watermarking even works. Bad actors can still use tools outside regulated platforms to generate non-watermarked deepfakes. If platforms face liability for every missed watermark, will they over-block uploads or apply blanket filters that suppress lawful content?
+
+So far, MeitY has relied on advisories and consultations rather than binding rules. The IT Rules already require platforms to remove impersonation and misinformation, label manipulated content, and act on complaints within 72 hours. That leaves lawmakers with a choice: create a binding watermarking regime with heavy compliance costs, or strengthen enforcement of the current rules and invest in better detection.
+
+Whichever path they choose will decide whether India builds a rigid compliance architecture that risks chilling digital expression or a lighter system that targets misuse without overburdening platforms.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

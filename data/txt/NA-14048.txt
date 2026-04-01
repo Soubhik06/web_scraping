@@ -1,0 +1,55 @@
+The potential impact of introducing CBDC (Central Bank Digital Currency) on monetary policy is still unclear and is purely speculative, India’s central bank, Reserve Bank of India (RBI), concluded in its concept note published on October 7, 2022. The RBI observed that the CBDC project was being explored by a limited number of countries across the world, noting that it left them without a precedent.
+
+The note also highlighted the need to respect privacy and data protection in the CBDC system. Moreover, the central bank wrote that ensuring an “appropriate degree of anonymity” in CBDC is a “political and social question” rather than a “narrow technical question”.
+
+“Privacy and data protection is an issue that is of concern to policymakers in government and other authorities and should be considered carefully when designing CBDCs,” read the note which was reviewed by Medianama.
+
+The RBI ruled out “truly anonymous payments” citing the need to be compliant with money laundering regulations but it added that the system can still offer control to users over how their data is shared and protect their privacy.
+
+Why it matters: The concept note elaborates on the direction of RBI’s position on CBDC and how it plans to introduce CBDC in the country. It sheds light on aspects like potential design features, implications on various policy issues, and the possible requirements of a technology platform.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+The RBI took note of the discussions around CBDC which suggest that the digital rupee should offer the same degree of anonymity as cash because it is being touted as its equivalent. It clarified that an “in-person cash payment provides an anonymous means of payment” is the nature of that payment method.
+
+Defining privacy practices: The concept note stated that it is “essential” to have defined privacy principles and data subjects rights given that customer-related data is collected by the central bank when it issues CBDC. Furthermore, it said that it is imperative to prioritise the “best interests” of the citizens owing to which only personal identifiable data which is necessary must be collected. It also stressed the need to subject the data to purpose limitation.
+
+Preserving data security: The note said that the bank can refer to some of the “most-used risk and security frameworks, guidance, and standards” while conceiving its CBDC project. “RBI may refer to CPMI-IOSCO Principles for Financial Market Infrastructures particularly,” read the note, adding that it looks to seek guidance on managing operational risk, which includes information security risk.
+
+The note raised the issue of cyber-attacks given that current payment systems are also exposed to them. It added that digital-payment related frauds may spread to CBDCs in countries with low financial literacy levels.
+
+Here are some of the guidelines laid down in the note:
+
+“CBDC requires a legal framework that clarifies whether the central bank has the mandate to issue CBDC and what status it would have legally,” read the note, adding that potential amendments will need to be made to existing laws before CBDC goes mainstream.
+
+The RBI said that existing legal frameworks were enacted in a pre-digital age so it is important to ascertain whether law reform is necessary for the central bank to have legal backing for its actions. It also added that the monetary law of the country needs to be changed on issues such as the right of issuance of CBDC, legal tender status, and criminal law protection from counterfeits, etc.
+
+The note said that central banks will be expected to design CBDCs that “conform” to the AML/CFT requirements.
+
+Handled by banks: The note suggested that commercial banks can handle responsibilities of keeping an eye out for suspicious activity. It added that opening and maintenance of CBDC accounts with commercial banks will not require any change in the present guidelines. It will prevent banks from holding granular personal data on any user, thereby reducing privacy concerns without compromising on due diligence.
+
+“This means that the identity of CBDC users would need to be known to at least some authority or institution in the wider CBDC network who can validate the legitimacy of their transaction,” read the note.
+
+Risk of bank runs: The note stated that potential demand for CBDC is “highly uncertain”. It said that it could result in faster bank runs during financial crises. It also added that financial disintermediation — the process of cutting out middlemen— could lead banks to rely on expensive and less stable sources of funding.
+
+Preventive measures: The note said that a central bank can consider measures such as access criteria for permitted users, limits on individuals’ CBDC holdings or transactions, and particular choices around CBDC remuneration to address some of concerns.
+
+The concept note acknowledged that there may be times when users have little or no access to network connectivity especially in India. It is why a CBDC system will need offline capabilities.
+
+Guarding against double-spending: The note shed light on the risk of double-spending because it will be possible to use a CBDC unit more than once without updating the common ledger of the CBDC. However, it added that it can be addressed by technical solutions and appropriate business rules including a monetary limit on offline transactions.
+
+What can be done: The note recommended that the wallets should be able to verify the authenticity of any CBDC transaction without communicating with the server during the transactions independently.
+
+The note pointed out that CBDC’s digital nature is likely to give rise to consumer protection issues which will need to be mitigated.
+
+“The customer protection framework…must consider variations in the digital literacy of consumers and ways to increase consumer understanding and transparency so that an informed choice is made by them,” read the note.
+
+The note predicted that the adoption of CBDC is likely to raise several complaints due to which resolution of customer grievances will play a key role in facilitating adoption of CBDC by the public. It called for a “robust and efficient” grievance redressal mechanism.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,31 @@
+https://xn--i1b5bzbybhfo5c8b4bxh.xn--11b7cb3a6a.xn--h2brj9c/en
+
+This URL (Uniform Resource Locator) is not a link to a spam website. It is the official link to the Ministry of Home Affairs (MHA) of India. The Indian government recently began experimenting with URLs in the Hindi language under Universal Acceptance (UA), an internet ecosystem aimed at enabling the expansion of the Domain Name System (DNS) beyond the Latin-based alphanumerics of Unicode.
+
+Unicode is an internet standard developed around the 1990s to address languages in a universal manner. Everything we see and type on the internet is a result of this standard. However, recent movements like Universal Acceptance (UA) endorse the inclusion of various languages other than English/Latin. As a part of this initiative, the Indian government has modified the MHA’s URLs into Hindi. The English URL ( https://www.mha.gov.in/en ) also continues to remain live alongside the Hindi URL.
+
+âUA is a fundamental requirement for a truly multilingual and digitally inclusive Internet,â declares the Internet Corporation for Assigned Names and Numbers (ICANN), an international non-profit organization entrusted with Internet Protocol (IP) address and Domain Name System (DNS) management. The aim of UA is to remove linguistic barriers for the next billion internet users.
+
+The DNS translates numerical IP addresses into alphanumeric scripts, redirecting users to intended websites and ensuring emails are delivered to the correct address.
+
+There are two main functions of Universal Acceptance:
+
+âNIXI (National Internet Exchange of India) has already started offering Indian language domain names in all 22 scheduled languages/scripts,â reads the report “Universal Acceptance and Inclusive Internet”, published by the Ministry of Electronics and Information Technology in 2022 during Phase 1 of UA.
+
+NIXI was set up to facilitate peering among ISPs, routing domestic traffic within the country instead of sending it to the US or other countries. This reduces latency and saves bandwidth costs for ISPs by minimizing international data flow.
+
+NIXIâs subsidiary website, https://registry.in/ , was established to assign ccTLDs (Country Code Top-Level Domains). For instance, India uses â.inâ as its ccTLD. This site now welcomes domain names in Indian regional languages. The official UA Multilingual Report states that it supports all 22 scheduled Indian languages. However, Phase 2 of the UA report is yet to be published at the time of writing this article.
+
+The Bharatiya Janata Party (BJP) has long faced accusations of promoting Hindi imposition. Its recent National Education Policy , which mandates learning three Indian regional languages, has also been criticized for similar reasons.
+
+The Indianization of government-owned URLs coincides with ongoing debates around the promotion and resistance to the Hindi language. Skepticism arises particularly because Hindi is the only language adopted so far under Universal Acceptance by the Ministry of Home Affairs, led by Amit Shah. This raises the recurring political question: Is Hindi Indiaâs national or official language?
+
+The intention of UA to reduce the barriers of language by including non-English language is definitely a welcoming move. However, the implementation of the policy might raise a few security concerns that can potentially lead upto cyper-phishing A few of them are:
+
+Moreover, most devices (especially laptops) do not have Indic scripts hardwired into their keyboards. To address this, the UA Report suggests the government should encourage hardware manufacturers to produce devices with Indic characters inscribed on keyboards. This problem is relatively less significant with smartphones, which usually support multilingual typing.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

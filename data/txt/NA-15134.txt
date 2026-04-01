@@ -1,0 +1,17 @@
+Sensitive information, including bank account numbers, PAN numbers, PPO (pension payment order) IDs, tax-deductions and pension amounts of retired state government employees is being leaked on the Directorate of Treasuries and Accounts (DoTA) website, according to a New Indian Express report. Director of Treasuries and Accounts KSRC Murthy told NIE that the department was aware that displaying this data publicly was against the law, but that it would not rectify the situation until July 31 since “2.67 lakh pensioners are asking us for details to file IT returns”. MediaNama visited the website and found that the leak has indeed not been fixed and that the sensitive information of several people can still be accessed with ease.
+
+We tried to search for a common name — Ramesh — selected a district randomly (Hyderabad in this case), and found that every single person with ‘Ramesh’ in his/her name showed up in the search results. Apart from the names, people’s Pension Payment Order (PPO) ID, STO code and DOC were also visible. The PPO IDs are hyperlinked and can be used to download tax deduction documents with the person’s name, bank account number and PAN number. It’s also worth noting that the website’s search feature isn’t sophisticated enough to recognise a complete name. As a result, a search for ‘Ramesh’ included names like such as ‘Parameshwar’ as well.
+
+In April, 7.8 crore Aadhaar records from Andhra Pradesh and Telangana were found on the hard disks of IT Grids Pvt Ltd, the firm which operates the Telugu Desam Party’s Sevamitra app. Further, forensic investigation by the Telangana State Forensic Science Laboratory (TSFSL) found that IT Grids stored Aadhaar data of crores of people on the Amazon Web Services (AWS) cloud. The databases contained the following personal data: Aadhaar number, Aadhaar enrolment ID, name, name of father, husband or guardian, date of birth, village name, mandal name, district ID and name, and state.
+
+The same month, the Department of Medical, Health and Family Welfare of a north Indian state left a database connected to the internet without a password, exposing the medical records of more than 12.5 million pregnant women.
+
+In Andhra Pradesh alone, government agencies have leaked citizens’ data multiple times:
+
+In July 2018 the department of agriculture of the Jharkhand government leaked personal and legal documents of individuals in the state. About 9,000 documents from the government portal were leaked. These included assorted legal, personal and business papers, many of which contained personally identifiable information of proprietors, licences, lease agreements between the individuals and the state government, licences to sell agricultural products, etc.
+
+Note: MediaNama has not linked out to the original New Indian Express report or the website in question to protect the privacy of people whose data has been compromised. Any details which can potentially identify individuals have been blacked out.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

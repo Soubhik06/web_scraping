@@ -1,0 +1,33 @@
+We missed this earlier: In view of the rising financial frauds involving the Aadhaar-enabled Payment System (AePS), the Kolkata police has written to the West Bengal Finance department asking the officials to mask people’s biometric data such as fingerprints, Aadhaar numbers in the documents uploaded on the property registration website, according to a report by the Indian Express on September 29, 2023. Additionally, Tv9 Bangla has reported that the State Criminal Investigation Department has also written to the Indian Cyber Crime Coordination Centre (I4C), a nodal agency of the Union Home Ministry, to prevent AePS frauds by asking States to mask Aadhaar details on the land deeds available on their Land or Revenue department websites.
+
+What’s making it easier for people to access others’ biometrics in Kolkata?
+
+As per several media reports, the Kolkata police’s cyber-crime wing had initiated an investigation into the modus operandi of the fraudsters, and confirmed that the individuals were able to steal people’s biometric details by downloading multiple land deeds from State’s property registration website. Independent cyber security researcher Sourajeet Majumder, who examined the official website of the State government’s land registry office, informed MediaNama that an existing vulnerability on the site enabled people to extract land deeds with Aadhaar numbers and fingerprints easily.
+
+Majumder explains that the issue is related to Insecure Direct Object References (IDOR) vulnerability, which allows attackers to “bypass authorisation and access resources” such as database records or filed from the system in question. This can be done by modifying the value of a parameter that acts as an identifier of an object in the system. He added that in this case, it’s the 16-digit Application Identification Number or AIN, through which genuine applicants who have registered their property can download a digital copy of their land deed.
+
+Article continues below ⬇ , you might also want to read:
+
+According to Majumder, once hackers get access to at least one AIN number, they can use tools such Burp Site to create different combinations of the last four digits to produce multiple such numbers. This makes it easier for such individuals to obtain digital copies of deeds belonging to random people along with their Aadhaar number and fingerprints. Notably, in February 2023, according to a report by The Print , the I4C had also written to the state governments stating that Aadhaar biometric data uploaded on state websites that host sale deeds and other agreements are being cloned by individuals to carry out unauthorized withdrawals from bank accounts.
+
+The researcher also informed that he had reported the vulnerability to CERT-In and National Critical Information Infrastructure Protection Centre (NCIIPC) on September 16, and the State IT Department on September 18. He added that the issue with the website was fixed on September 27. MediaNama has reached out to the three authorities regarding confirmation of the details and other questions about steps taken to prevent such incidences.
+
+Where does AePS come into the picture?
+
+With the help of biometric details and Aadhaar number, fraudsters can use the AePS system to siphon off money from different bank accounts. In 2022, an investigation by the Uttar Pradesh police had revealed that a customer service agent was able to clone people’s Aadhaar fingerprints using butter paper, rubber or a polymer, and a fingerprint authorising machine. The cloned fingerprints were then used to withdraw money from the victim’s bank account using a fake AePS banking ID.
+
+Majumder referred to a circular by the cyber security department of the West Bengal Electronics Industry Development Corporation Limited, which states that, unlike a card-based transaction AePS doesn’t require a One Time Password or OTP to authenticate the identity of the account holder. According to the National Payments Corporation of India (NPCI), the only inputs required for a customer to do a transaction using AePS are bank name, Aadhaar number, and biometrics captured during enrolment.
+
+“If two-factor authentication can be followed for such transactions, that will increase the security and it would become difficult to bypass two-layer of security. According to a senior IT official in a leading bank, the AEPS is activated by default if a customers’ bank account is linked with Aadhaar,” the circular further added.
+
+Why it matters:
+
+Despite numerous incidents of AePS financial frauds being reported in the last couple of years, in August this year, the government stated in the Parliament that no incident of cloning of Aadhaar data has been reported by the Unique Identification Authority of India (UIDAI). In the light of a surge in AePS frauds in Haryana, Adhra Pradesh, and Telangana, member of Parliament John Brittas, Communist Party of India (Marxist), had also written to Prime Minister Narendra Modi urging the government to take cognisance of the cybercrimes and rising instances of financial frauds associated with the AePS system.
+
+In March MediaNama had filed an RTI with the Unique Identification Authority of India (UIDAI) asking whether the authority had set up a grievance registration system for complaints regarding AePS transactions and the number of complaints received from January 2022 to March 2023. The UIDAI conveniently chose to leave the questions unanswered. Further, the UIDAI or the NPCI is yet to issue a detailed official statement addressing concerns related to AePS transactions. As per the NPCI, the AePS was introduced to enhance financial inclusion in the country. According to the UIDAI, in April 2023, more than 200.6 million last mile banking transactions were recorded to be carried out through AePS. It is being used by millions of Indians to avail social welfare services, which are linked to Aadhaar. This means that any breach in the system will directly affect people who are already in a financially vulnerable position. Is financial inclusion then limited to opening bank accounts for people? Isn’t financial security an integral aspect of inclusion? It is worth questioning why is then the issue that has existed for years now, still remains unaddressed.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

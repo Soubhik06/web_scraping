@@ -1,0 +1,15 @@
+SUBREDDIT: r/india
+TITLE: [PSA][NP] Remit2India website is trying to get your personal information in a non-secure site
+DATE: 2018-03-20
+SCORE: 43
+URL: https://www.reddit.com/r/india/comments/85q18y/psanp_remit2india_website_is_trying_to_get_your/
+
+--- POST TEXT ---
+
+I've been using Remit2India for the longest time to send money to my parents in India. When I logged in today to send money, I noticed that it asked me for additional verification information, which I input, along with a scanned copy of my Drivers License (All pages until this step were secure)
+
+As soon as I hit "Continue", it said that the field - "Years of stay in remitting country" was blank but I could swear that this field was not in the original form. This is when I noticed that this page wasn't a secure page any more and it was even asking me for my SSN which it didn't ask me in the original form
+
+Now, I don't know if this is really a phishing or a scam page because I got redirected from within a secure page in Remit2India website but this whole experience has convined me to move my business away from them
+
+If you use this service, just a word of caution to ensure that you are not giving away private and personally identifiable information without checking the validity of of the security certificates on the website

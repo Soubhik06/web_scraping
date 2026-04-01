@@ -1,0 +1,23 @@
+It is now mandatory for mobile service providers to block certain robotext messages that are likely to be illegal, according to a slate of rules passed by America’s telecom regulator— Federal Communications Commission (FCC). It regulates interstate and international communications through cable, radio, television, satellite and wire in the US.
+
+The rules require blocking of text messages that appear to come from phone numbers that are unlikely to transmit text messages. It includes invalid, unallocated, or unused numbers, the press release added.
+
+Moreover, the FCC has also asked telcos to include numbers that have been identified by subscribers as never sending text messages, and the ones flagged by government agencies and other well-known entities.
+
+You can read the entire order here .
+
+Why it matters: This is the first time that the FCC has adopted regulations which address the problem of scam text messages sent to consumers. The US regulator noted that robotext complaints in the US rose from around 3,300 to 18,900 per year from 2015 to 2022. It is important to note these rules because the problem of scam texts remains pervasive across the world especially India. They may serve as a useful reference point for the Indian telecom regulator (TRAI) which is deliberating upon ways to address scam texts back home.
+
+What else did the rules stipulate: It is incumbent upon mobile wireless providers to establish a point of contact for text senders, or have providers require their aggregator partners or blocking contractors to establish such a point of contact, which senders can use to inquire about blocked texts. A statement by the FCC added that the regulator is seeking input on how it can curb the menace of scam robotexts through regulatory interventions.
+
+Combating robocalls: The regulator is also aiming to address the problem of illegal robocalls as per FCC’s statement in a separate announcement. It requires intermediate providers that receive unauthenticated IP calls directly from domestic originating providers to use STIR/SHAKEN to authenticate those calls.
+
+India’s own proposal to curb spam: The Indian telecom regulator, the Telecom Regulatory Authority of India (TRAI) is looking to deal with the problem of spam in its consultation paper which seeks to propose a way to identify callers in order to help users avoid spam calls from unregistered telemarketers. But the proposal has run into trouble for risks to data privacy of users in the absence of a data protection law. It also passed orders directing telcos to block all unverified headers and message templates within 30 and 60 days respectively. It was stated that telemarketers were ‘misusing’ headers and message templates of registered parties and asked telcos to reverify all registered headers & message templates on the DLT (Distributed Ledger Technology) platform.
+
+You can read the consultation paper here and our summary of it here .
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

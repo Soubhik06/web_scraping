@@ -1,0 +1,13 @@
+We missed this earlier
+
+Cybersecurity firm Symantec has found 152 fake Android apps masquerading as apps from Reliance Jio. The firm found out that these apps had 21 different package names and claimed to offer free daily data of 25 GB or 125 GB with a validity ranging from one day to a year. However, it noted that these exuberant claims were made only to generate advertising revenue for developers of these apps. Symantec also found that between January and June this year, these fake apps were installed on more than 39,000 mobile devices, with most of them being in India. While the offers available on these apps were found to vary, the firm said that there were a few commonalities in how these apps could potentially trick users:
+
+We reported in June that a two-year long cybersecurity study found out that there were at least 2,040 counterfeit apps on Google Play Store. Also:
+
+In February, Google had removed about 57 fake apps from the Play Store after security firm Quick Heal said that the apps did not have any legitimate functionality. Apps such as Credit Card Process and Home Loan Advisor appeared genuine on the basis of their description but did not function the way they were supposed to upon downloading. The security company claimed that the apps were mainly developed to earn money by showing ads.
+
+In January, malware researcher Lukas Stefanko spotted 15 GPS-based apps in the Google Play store which were duping Android users and earning money from them. Some apps including GPS Route Finder, GPS Live Street Maps and Maps GPS Navigation did not provide any service of their own to the users but used Google Maps or its API to display ads. Some of the apps also sought permission to access users’ contacts, messages and call logs.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

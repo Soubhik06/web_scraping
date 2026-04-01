@@ -1,0 +1,21 @@
+India’s primary cybersecurity agency, Computer Emergency Response Team (CERT-In), is investigating whether agencies linked to the Chinese government were involved in a potential breach of several Indian Opposition politicians and journalists’ iPhones, reports the Indian Express , citing unnamed sources. Interestingly, CERT-In is examining if the location of manufacturing and potential vulnerabilities in iPhones, most of which were made in China, could play a role in the threat.
+
+The probe began after several politicians, including Congress’s Shashi Tharoor and Aam Aadmi Party’s Raghav Chadha, and some journalists and people working with think tanks, received a “threat notification” from Apple warning of a “potential state-sponsored spyware attack”. The notification had led to opposition politicians accusing the government of India of spying on the opposition, which is relevant especially since India goes to elections in early 2024.
+
+A few points.
+
+1. The potential link between the place of iPhone production (China) and the cyber threats underscores the complexities of global supply chains in the tech sector. It suggests a need for more stringent security measures in the manufacturing process, along with more transparency from tech giants about potential vulnerabilities associated with certain products. At the same time, if there is such an issue, then the responsibility for such vulnerabilities lies squarely with Apple, since it is Apple’s responsibility to ensure the security of their products. The buck stops with them, even though global supply chains are complex and difficult to manage. Lastly, India is already a hub for production of iPhones, and the Indian government could be opportunistic here in terms of pushing Apple to supply locally manufactured/assembled iPhones.
+
+2. The China angle here could also be a red herring, with the government trying to deflect responsibility towards something it can never conclusively prove. Attributing such information is obviously tricky, given that attacks online are designed to prevent traceability of the source of the attack. That being said, CERT-In is hardly an independent agency/body, and the government of India stands accused of orchestrating these attacks. Investigating of these attacks should be done by an independent agency.
+
+3. The current investigation is not the first of its kind in India. Last year, the Supreme Court set up a committee of technical experts to investigate allegations of unauthorized surveillance utilizing the Pegasus software developed by Israeli firm NSO Group, which involved several activists, journalists, and politicians, but it’s worth pointing out that the committee report has still not been made public by the Supreme Court, and the government of India had declined then to either confirm or deny that it had deployed the Pegasus spyware.
+
+4. Apple’s response to the threat notifications has been ambiguous by design, probably because it doesn’t want to get embroiled in what can be sensitive political and geopolitical issues, with the company stating that it “does not attribute the threat notifications to any specific state-sponsored attacker.” It does not explain how it knows that an attack is state sponsored or not, given that it doesn’t want to disclose how it determined the source of the attack.
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

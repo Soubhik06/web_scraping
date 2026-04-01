@@ -1,0 +1,55 @@
+Payment gateway CCAvenue recently launched Social Networks In-stream Payments (SNIP), an in-stream payment collection service which allows merchants to sell products through social networks. In an interaction with MediaNama, Vishwas Patel, CEO at CCAvenue, speaks about the how the in-stream payments service works, pricing, analytics, competition, scaling, among other things.
+
+Medianama: What are the levels of customization available to merchants on SNIP?
+
+Patel: You need to understand the service for me to answer your question. Till now on a Snapdeal Facebook fan page, there have been posts on products. Typically, they are not able to collect money directly from the Facebook page. They only give a link to the product’s page on their website. The customer then needs to add the product to cart and then make the payment. So social media is only being used for lead generation. No social commerce happens on social media. Our service will be an instant payment service. This in-stream payment service will take the customers straight to the payment page.
+
+The payment page is customised for merchants look and feel. It is mapped to their campaign created in their CCAvenue MARS page. Merchants who want to use this service need to be registered with us. To create a campaign, they need to add the product name, price, photo and quantity. When you create this campaign, a link is created. You can use this on Facebook page and other social networks.
+
+When the specified quantity is over, a notification is sent stating that the campaign is over. When a customer clicks on the SNIP link on a fan page, it takes them directly to the payment page along with the product details. They then need to only choose the payment option, enter the card number and make the payment. In the back end, the customer data is posted to the merchant.
+
+In addition, we are also generating a QR code , which you can publish next to your product on offline media. If you scan it, it will take you directly to the payment page with product details and amount. You can then enter your card details and make the payment. Both the SNIP link and QR code are linked to the same inventory in the merchant’s account.
+
+Medianama: How would you charge for this service? What is the basis for the rates your charge? Will social media networks get a cut?
+
+Patel: There are no extra charges for this service. It is a part of their existing subscription package with CCAvenue. Also, social media networks will not get a cut. They will only be used as an advertising and traffic generator for the merchants. So there is no need to give them a cut.
+
+Medianama: How is competition impacting your business? Many other payment gateways have launched services in the recent past.
+
+Patel: We are the first to launch this service. In fact, we have also applied to patent this service. Competition has not been a reason for us to launch this service. We have always been innovating. We have a lot of firsts to our credit. We are soon going to launch a distribution and marketing platform for merchants.
+
+Medianama: What kind of analytics will this service offer to publishers/sellers? Patel: When you create a campaign, you can insert the Google analytics code of your website along with the campaign. With this, you can track everything, end to end.
+
+Medianama: Which are the category of merchants that you are targeting for this service? What do you think the customers are likely to pay for the most, on social media?
+
+Patel: We are only payment gateway providers. The merchants have to decide what kind of businesses can use it. The scope is huge. Someone in London can also pay using it. The platform is created for social media. It is up to the marketing guys to be creative in using this service. Our role is only to make payment easier for merchant with our product.
+
+Medianama: Why do you think customers will be ready to make payments within social networks? Patel: It is like any normal payment. We are just snipping through the process. We have eliminated 7-8 pages hops to complete the payment process. If you see something attractive, you skip the queue and buy it right there.
+
+Medianama: How do you see this service scaling in India? Patel: It will scale hugely. 3 out 4 people are on Facebook in India. Besides, most companies have fan pages on Facebook. So it will scale in a big way.
+
+Medianama: How will this service be enabled for purchases from international markets?
+
+Patel: Social ecommerce/internet is beyond boundaries. Anybody who has a valid Master/Visa/American Express card, can make payments. You can pay from anywhere. However, t his is an India specific service as of now. It is available to all our merchants in India.
+
+Medianama: How will the 3D secure for payments work via social networks? What is the technology being used for integration of the service?
+
+Patel: When you click on the link, you enter your details and the payment goes through like normal transaction with all the usual security checks. It goes through our proprietary tool – Fraud & Risk Identification System & Knowledge Base (FRISK). FRISK has a significant negative database collated over 11 years across merchants. If someone has previously done something fraudulent on a merchant website, then the data of the fraudster like phone number, name, address etc goes into the database. Even if he does it again with a different ID but the same IP address then the system flags it.
+
+Medianama: How is the service integrated on a site like Facebook? Does it use the Facebook API for integration? Will social networks capture card and purchasing data? Patel: It is not built on Facebook API. It is built onto our server. Typically, Facebook is only a lead generator. The transaction is generated on our payment pages and frisked by our FRISK engine. They will not be able to capture data because the transaction takes place outside Facebook.
+
+Medianama: Twitter has banned in-stream payment service by Ribbon . How will you manage around this ban? Patel: So far we have had no problem with Twitter. I can’t comment on Ribbon because I have not heard about it.
+
+Medianama: How is this service integrated on mobile? Patel: Our payment gateway is customised for all types of instruments including PC, mobile, tablet and operating systems including iOS, Android, windows, among others.
+
+Medianama: How have users been responding to payments on mobile in general so far in India? How will this affect your new service? Patel: Mobile is becoming the device for payments. Mobile is going to be the touch point for payments for vast number of Indians because of the introduction of cheap phones. The entire payment process through CCAvenue is compatible with any device because of its new fluid responsive design.
+
+Medianama: How will you deal with the issue of bank payment gateways going down? Patel: We can’t do anything about it. We are involved with banks through different forums to make changes in their system and they are also co-operating with us. None of the net banking pages are mobile friendly. Feedback has been given to RBI as well. We are expecting a lot of changes from banks in the coming days.
+
+Medianama: How will this service work for p2p payments and virtual goods?
+
+Patel: This service does not work for P2P payments. But it works for virtual goods like I mentioned before. It is a B2C or B2B collection service. People have to register on CCAvenue as a seller through KYC approved by RBI which is not an instant process. CCAvenue is a gateway for B2B or B2C collection service.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

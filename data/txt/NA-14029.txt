@@ -1,0 +1,83 @@
+Wallets were excluded from the unified payments interface (UPI) as banks wanted time to to catch up to them in terms of services, AP Hota, MD and CEO of the  National Payments Corporation of India ( NPCI ) told MediaNama in an interview. The NPCI is the umbrella organization which handles all retail payments systems in India, while UPI is a payments architecture that will allow users to make a transaction without divulging their account via aliases (such as shashidhar@hdfcbank) and will allow pull-based payments. More on that here .
+
+“Wallets already provide a great user experience,” Hota said. “The only limitation is that they can do it in their ecosystem. Paytm can sign up with a number of ecommerce sites and bill payment companies and the payments work there.
+
+“Bank applications do not have such a great user experience. So the banks asked give us time to catch up and leave the wallets out of it.  It is just a competitive position. “
+
+But wallets still have opportunities, according to Hota: “Wallets have a great user experience. They will start offering better things to customers say something like automatic redemption of loyalty points. The wallets are gearing up so that banks can’t catch up. The wallets can use the UPI to load money faster and they can even issue a command when the wallet’s balance is low, it will automatically pull money into the wallet”.
+
+Edited excerpts from the interview:
+
+On the UPI
+
+1. Why wallets aren’t inter-operable: Today users can’t transfer money from one wallet to another: they aren’t interoperable. Hota said that “In the draft paper it said it would be inter-operable over a period of time. As of now the overarching regulations for wallets is from the RBI.”
+
+“The RBI does  not allow interoperability of wallets. The RBI’s level of comfort of eKYC is not up to the mark in wallets. The bank grade eKYC and wallet grade eKYC  are little different. Although both banks and wallets are taking Aadhaar, it is not recognized.”
+
+“Wallets are also less regulated and banks are heavily regulated against money laundering. Terrorist financing through wallets is a concern. As it is, wallet companies are good in terms of services. If terrorists start using wallets for money to be distributed, no hand can reach them.”
+
+2. How payment gateways and wallets would get affected by UPI:  “ For card payment gateways, the UPI will not affect their business at all. Payment gateways may get affected if the UPI is used in a big way bypassing the payment gateway system altogether.  Wallets really know how to stay ahead and would develop new products.”
+
+Also read: How the Unified Payments Interface will (actually) affect digital wallets and How the Unified Payments Interface will affect payment gateways
+
+3. How the UPI’s Fee structure works: The UPI’s fee structure “is linked to the card payment system for merchants (MDR rates). As far as P2P payments is concerned, it is linked to the IMPS fee structure.
+
+Transfers to merchants account happen exactly like P2P payments. But the banks have the choice if a large number of payments are coming to an account they will charge differently to them and call them merchant accounts.
+
+Bulk of these payments will be linked to the pull mechanism and that is linked to the card payments. The MDR fees is distributed between the issuing bank, receiving bank and part of it will be given to the network as fees. Right now the UPI has capped the fees to merchants to the MDR. If the merchant has a good relationship with the bank it can be lowered and they may bear the cost itself.
+
+P2P, since it is linked to the IMPS, the cost is borne by the customer itself.”
+
+4. New pricing structure for UPI: Now we are discussing a new pricing structure and discussing with everyone and it can be much lower. Say 25 paisa or 50 paisa. NPCI charges 50 paisa for IMPS transactions and we have waived that right now for UPI. And for micropayments  we are trying to lower it to 25 paisa.
+
+4. Which banks are ready for UPI? “At the soft launch, 29 banks had expressed interest, out of which 19 banks have started building applications. The apps are undergoing testing. Once they have been audited, they will be allowed to release to their customers.
+
+We had told them to give it to their employee customers first, no more than hundred. So they are doing testing everyday where they transfer a Rupee or two.  We are going to have a meeting at the end of this month to determine when we can  go live.
+
+From the 19 banks, I understand 12 banks are ready with their products. By the middle of June , the processes will be in place and the app downloads can start. Some of the banks who are ready are Union Bank of India, Oriental Bank of Commerce, Andhra Bank, Catholic Syrian Bank, Karnataka Bank , DCB Bank, Punjab National Bank and Canara Bank
+
+Among bigger private banks, ICICI Bank will be ready in the middle of June.”
+
+5. Do we need Bank account portability? “What the UPI does is that it makes a distinction between the relationship between an app provider and the relationship in the bank where the liability or deposit account in maintained. I can continue to maintain my bank account in bank A and I can take the app of bank B and do all my transactions. So that way if bank A is not in a position to provide services I can get services from bank B. The need for account portability this way is diminished.”
+
+“If my bank provides all the services, I will not go to the other bank to get them. If I use another bank’s application, my bank does not get 100% of the fees on that transaction. Part of the fee gets divided. So banks will lose that revenue.”
+
+“In mobile portability, the number is retained and you were served by another operator and this will be almost like that.  In banking, the UPI addresses the need to provide portability. Account portability in the conventional sense, as in some countries, where a customer has to fill up a form saying he wants to transfer his account from bank A to Bank B is, not there.”
+
+Also read: RBI looking to cap customer liability in online frauds and bank account portability
+
+On RuPay card network
+
+1. RuPay on Ecommerce sites will move to one-time-password (OTP): “Currently any person who has to do ecommerce transactions on RuPay has to register and get a picture password. Now that OTP technology has been adopted by a good number of banks, we’re moving towards that. We have already migrated on 25 banks.
+
+Debit cards are issued by over 600 banks. And out of which only 350 banks are POS enabled. And only 110 banks are ecommerce enabled. So a card has to work on ATM, POS and ecommerce. In POS, the machines are ready, but the banks are not ready. POS has a different system of settlement and banks are not ready for that  yet.
+
+And for ecommerce, banks need to create the infrastructure. They need to create the OTP environment and the payment gateway linkages are required.
+
+There are only 112 banks which issue cards that can work on ATM, POS and ecommerce. Small banks investing in card infrastructure for ecommerce does not seem like a viable thing. They can however ride on the infrastructure set by other banks.”
+
+2. RuPay cards account for 35% debit cards, 25% of ATM transactions: RuPay has “crossed 267 million out of more than 600 million debit cards as of April end. This represents about 35% of the market share.  And in terms of transaction volume, in the ATM market we have close to 25% of the market.”
+
+3. Why is RuPay’s share in ecommerce and POS transactions so low?: On POS and ecommerce we have not grown our share significantly. The market share for them is still bout 5-6% because the bulk of our cards are  Jan Dhan Yojana cards. The mainstream cards are about 85 million and the Jan Dhan cards are about 180 million. And most of the ecommerce and POS transactions are from mainstream cards.
+
+4. Migrating to the chip based system: “…all the new cards issued from February are supposed to be EMV chip based cards. No magnetic stripe cards are to be issued, except in the case of financial inclusion, the cards issued under the Jan Dhan Yojana and those cards issued by the co-operative banks.”
+
+“The progress for the migration of chip based cards has been pretty good. In fact, in the US, hardly about 40% of the cards are chip-based cards. While in Europe and other markets it is 100%. In a few other South East Asian countries they are completely chip based cards.”
+
+5. Some problems with some POS terminals and Rupay: Terminals which use chip based cards also have to be propagated. There are some types of terminals that have issues:
+
+“Particularly in shopping malls, they have a POS terminal where on the side of the PC, they can swipe cards. Those kind of machines are not chip based yet. To migrate to the chip-based cards they’ve started putting a terminal at the side. These chip base that RuPay has issued are not working on those machines. We have a little bit of an acceptance problem there.”
+
+So those machines are close to about 5,000 terminals. And HSBC Bank has about 15,000 terminal which do not accept RuPay cards. That is a challenge for us as HSBC’s global  payment is not RuPay enabled. We have been following up with them, but they’ve been missing timelines.
+
+5. RuPay credit card launch deferred, will take five months more: We were going to launch the RuPay credit card in June. That is getting deferred by a few months. We are yet to give out a  new timeline, but it will take about five months more, but definitely in the calendar year.
+
+The credit cards launch is delayed as we are changing to a new switching platform . So if we launch the credit card on the current platform, they will have to change it again.
+
+The old switching platform is the Eurnonet platform and the new platform is the FIS platform. The difference in the two lies in the capacity of processing. Now can process only 40 million transactions a day. So on the whole RuPay’s network does about 25 million transactions. So now we are building capacity for 100 million now.
+
+In Part 2 tomorrow: AP Hota on the Bharat Bill Payment System
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

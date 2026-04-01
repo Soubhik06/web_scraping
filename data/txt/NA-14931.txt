@@ -1,0 +1,65 @@
+Underlining the importance of coordination between those developing, releasing, and adapting foundational models, the World Economic Forum’s (WEF) AI Governance Alliance has published a framework that incorporates AI risk mitigation strategies throughout the entire life cycle, encompassing creation, adaptation and eventual retirement of such models. The AI Governance Alliance, according to the WEF, comprises at least 250 members from over 200 organisations , who are mainly working on three different areas of research– Safe Systems and Technologies, Responsible Applications and Transformation, and Resilient Governance and Regulation.
+
+The ‘Presidio AI Framework’ , first of the three briefing papers published by the Alliance, identified key challenges that currently impact the development and deployment of generative AI models. These include:
+
+The Presidio AI Framework highlights the role of each of the primary actors in an AI model ecosystem and emphasises on a streamlined approach to risk regulation and transfer of information between “upstream development and downstream applications of foundation models”. The main actors involve:
+
+AI application users also include secondary groups like AI model validators and AI model auditors, who are responsible for testing and validating models against certain metrics, performing safety evaluations and certifying them before release.
+
+The Presidio AI framework consists of three main elements: Expanded AI Lifecycle, Expanded risk-guardrails, and Shift-left methodology.
+
+The expanded AI lifecycle involves four essential phases of an AI foundational model and highlights key processes under each phase, which take into account the potential risks and guardrails required to tackle them for responsible AI development and deployment.
+
+Data management phase: The data management phase outlines the data access gradient, which includes fully open or public data, data obtained with consent, copyrighted data, and private data. It also describes the catalogue of data source types such as user consent, web crawled data, sensor data, and public data. According to the paper, “The latter aids the AI model creator in navigating various legal implications and challenges, where multiple data source types are typically considered in model creation.”
+
+Foundation model building phase: The second phase or the model building phase includes various processes such as designing, data acquisition, data processing, model training, model fine-tuning, model performance validation, internal audits, and modal approval. The paper outlines a set of distinct guardrails for each of these stages.
+
+Foundation model release phase: This phase includes norms for responsible model dissemination and risk mitigation, while classifying foundation models on the basis of the level of access granted to downstream actors. The access gradient spans from fully-closed models to fully-open ones.
+
+The paper cautioned, “In all phases, unexpected model behaviour could harm users and bring reputational risks or legal consequences to the user and the model creator or adapter. However, the chances of misuse – such as plagiarism, intentional non-disclosure, violation of intellectual property (IP) rights, deepfakes, creation of biologically harmful compounds, generation of toxic content, and misinformation generation – may increase if vigilant oversight processes are not adequately implemented going from fully closed to fully open model access.”
+
+Model adaptation phase: This phase involves techniques and guardrails necessary in identifying a pre-trained foundational model suitable for specific generative AI tasks and use cases. Model adaptation is done prior to integrating the model with an application, including developing APIs to serve downstream AI application users.
+
+Model use phase: The model use phase or the final phase involves users who interact with the model using an interface provided by the model creators and also test for any vulnerabilities. The paper noted, “This phase highlights the importance of having necessary guardrails during the foundation model building and release phases as users directly interact with the model. In contrast, adapters can add additional guardrails based on the use case.”
+
+As explained in the paper, guardrails for AI systems refer to “guidelines, principles and practices” that ensure responsible “development, deployment and use of generative AI systems and technologies”. The framework emphasises on implementing guardrails—technical or procedural–from the model-building phase and throughout the expanded AI lifecycle.
+
+“Technical guardrails involve tools or automated systems and controls, while procedural guardrails rely on human adherence to established processes and guidelines. A combination of both types is often needed to ensure safe systems. Technical guardrails ensure technical quality and consistency, while procedural guardrails provide process consistency and control,” the paper noted.
+
+Red teaming and reinforcement learning from human feedback (RLHF): Red teaming refers to a structured process of testing AI systems to find “flaws and vulnerabilities” in order to discover and manage the risks posed by generative AI. According to Presidio AI Framework, performing red teaming, which may have its own limitations, during the model building phase is crucial for addressing vulnerabilities, preventing undesirable outcomes, and ensuring model safety. The paper suggests for foundation models, the tests should cover prompt injection, leaking, jailbreaking, hallucination, IP and personal information generation, as well as identifying toxic content.
+
+Secondly, the paper recommends that incorporating reinforcement learning from human feedback (RLHF) during early stages of model building enables “efficient learning, faster iterations and a strong foundation for subsequent phases, ultimately leading to improved model performance and alignment with human objectives”. The paper highlighted that while the method is effective for improving performance of the models, there exists a risk of introducing new biases, in addition to data privacy and security risks regarding the use of generated data.
+
+Transparent documentation and use restriction:
+
+These are guardrails to implemented during the release phase and must achieve the dual objective of empowering downstream actors through access to information and protecting them with use restrictions.
+
+The paper noted, “Transparent documentation is a collection of details (decisions, choices and processes) about the AI model, including the data. It mitigates the risk of lack of transparency, and therefore empowers downstream adapters and users to understand the model’s limitations, evaluate its impact and make decisions on model use. This guardrail increases the auditability of the model and helps advance policy initiatives.” One of the limitations of this measure includes identifying relevant facts and ambiguities in the process of balancing the disclosure of proprietary and required information.
+
+Restricting the use of foundation models to intended purposes only reduces the risk posed by misuse of models and other harms associated with generative AI models. Restrictions can be imposed through the means of restrictive licenses such as “responsible AI licences (RAIL), setting up model use and user tracking, and providing clear guidelines on allowed use while implementing feedback/incident reporting mechanisms”.
+
+The framework also recommends integrating moderation tools that will “filter or flag” undesirable content, disallow “harmful or sensitive” and block the model from responding to misaligned prompts. Establishing adequate standards for model licenses and tools for restricting model response will prove to be a limitation here, as per the paper.
+
+Model drift monitoring and watermarking:
+
+These are measures to be implemented during the model adaptation phase. According to the framework, “Model drift monitoring involves regularly comparing post-deployment metrics to maintain performance in the face of evolving data, adversarial inputs, noise and external factors. The goal is to mitigate the risk of model drift, where the model’s output deviates from expectations over time.” Some of the recommended practices include systematically using data, algorithms, tools to track data drift, defining response protocols, and adaptation techniques to sustain model performance.
+
+According to the WEF, watermarking may mitigate mass production of misleading content and assists in identifying AI-generated content for attribution and enforcing local policies. However, as is discussed widely, watermarking is not a fool-proof mechanism and it’s comparatively easier to defy such methods. The paper suggested that watermarking can be applied during model creation for ownership and during adaptation for controlling over visibility.
+
+The “shift-left” approach simply means pro-active implementation of guardrails during the earlier stages of model life cycle for risk mitigation and greater efficiency of models.
+
+The paper illustrated three shift-left instances that are important in the development of generative AI models:
+
+Release to build shift: According to the paper, in this case, the AI model creator proactively incorporates guardrails throughout the foundation model-building phase and collects necessary data, model facts and transparency surrounding these.
+
+Adaptation/use to release shift: This shift occurs during the release phase of the foundation model. “The AI model creator incorporates additional guardrails, establishes norms and standards for use, and creates comprehensive documentation to help downstream actors understand and make informed decisions regarding model use,” the paper explained.
+
+Application to adaptation shift : Here, the AI model adapter proactively incorporates guardrails considering the use case and on the basis of the documentation received from AI model creators about the foundation model. These would then be documented for the downstream application user.
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

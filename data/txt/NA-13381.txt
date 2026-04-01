@@ -1,0 +1,39 @@
+Google has announced new in-call scam protection features for Android devices, according to a blog post . The new protections will disable certain features and display alerts when a user is on a call with an unknown contact. On top of this, the US-based company will also roll out protections for banking apps and expand real-time scam detection for text messages.
+
+This comes months after the company started rolling out an artificial intelligence (AI)-based feature for Google Messages to protect Android users from text message scams.
+
+The US-based tech giant unveiled the security features during its event titled – The Android Show: I/O Edition .
+
+As per Googleâs own admission , a billion rich communication services ( RCS ) messages are sent per day in the US alone. Hence, the scale at which malicious actors are misusing messaging services for scamming people globally could be enormous.
+
+For context, RCS is a “modern industry standard” for sending messages that serves as an alternative to the Short Messaging Service (SMS) and Multimedia Messaging Service (MMS). It enables users to send texts, photos and videos over the internet or mobile data more securely than its predecessors.
+
+âOur research shows that phone scammers often try to trick people into performing specific actions to initiate a scam, like changing default device security settings or granting elevated permissions to an app,â Google said in its blog post . Hence, the tech giant has introduced multiple new in-call safety features for Android users.
+
+Android users will not be able to disable the Google Play Protect service while they are on a call with a caller whose number has not been saved on the phone. Google Play Protect is an in-built security feature that scans for âmalicious app behaviourâ regardless of the source. It is activated on the device by default, but can be disabled if a user wishes to. The company said that the feature will be available on devices running Android 6 or later versions.
+
+Google will not allow Android users, with its latest update, to sideload apps on their devices while on a call. Sideloading is when users download an app from a browser, a messaging app, or any other source that Google has not verified. This security measure will come with the Android 16 update.
+
+Now, Android users, or any bad actors remotely accessing the device, will not be able to grant accessibility permissions to malicious apps during a phone call. This can potentially prevent hackers from stealing sensitive information from a userâs device. Google will roll out the feature on devices running Android 16.
+
+Google stated that Android devices will display an alert in case a user decides to share their screen during a call. Specifically, the prompt will ask users to stop screen-sharing at the end of a call. The company claims that these features will help protect users from scammers who attempt to gain access to smartphones to dupe them.
+
+Android devices will display a warning when a user shares their screen with an unknown contact while using a banking app. The device will alert people about potential dangers and will also display a single-click option to end the call and stop screen sharing. The safety feature will be automatically enabled for “participating banking apps” on devices running Android 11 or later versions. The company has currently rolled out the feature as a pilot in the UK.
+
+Even the tech giant hinted at the rise of screen-sharing scams where fraudsters often impersonate banks and government agencies.
+
+In November 2024, the Government of India blocked about 600,000 mobile numbers that were related to the âdigital arrestâ scams, as per a report . This reflects a rising trend in fraud and scams that bad actors commit with the help of mobile phones and messages.
+
+In April 2025, the US Federal Trade Commission (FTC) published a report highlighting the instances of text-based scams in the US alone. As per the report, FTC’s Consumer Sentinel Network received 247,000 lakh reports of scams on messages. “Reported losses to text scams have skyrocketed even as the number of reports declined. In 2024, people reported $470 million in losses to these scams, more than five times the 2020 number. And since the vast majority of frauds are never reported, this number likely reflects only a fraction of the actual harm,” the report mentioned.
+
+Hence, it is evident that the menace of scams and frauds carried out through smartphones is a worldwide phenomenon. In this light, Google’s step to introduce multiple security measures might help in bringing down such instances and also protect vulnerable users.
+
+Google has announced the expansion of its AI-based scam detection feature for Google Messages, keeping in view the dynamic nature of new AI-enabled scams and fraud. Android devices will now be able to detect toll road and other billing fee scams, in addition to fraudulent activities related to crypto, financial impersonation, gift cards and prizes, and technical support.
+
+The tech giant has also unveiled Key Verifier, a tool that will help in identifying scammers who are impersonating someone the user knows. It uses public encryption keys and fortifies end-to-end encrypted Google Messages. For example, according to Google,  if a bad actor gains access to Person Aâs phone number and uses it on another device to send Person B a message, then it will display A’s verification status as not verified in the Google Contacts app. The company will launch the tool “later this summer” for devices running Android 10 or later versions.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

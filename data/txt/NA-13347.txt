@@ -1,0 +1,69 @@
+At the Global Fintech Fest in Mumbai, multiple sessions chose to focus on fraud in digital payments. The subject of fraud has been a major concern for those within the financial field. Sudhanshu Prasad, Chief General Manager, Department of Payments and Settlement Systems, Reserve Bank of India, while speaking at the session on ‘The Future of Fraud Prevention and Consumer Safety in Digital Payments’, said fraud was much less in India than any other jurisdiction, any other cross-border jurisdiction.
+
+“But in a vast country like India, with varied level of education and access to technology, it’s seemingly difficult for the general masses to really understand the technological advancements. And there comes the need for the policy-making institutions to really work hard, to take adequate steps to protect the citizens from the onslaught of technological advancements.” Many financial institutions have embraced latest technology like AI to detect frauds in digital payments, cross-border payments, card payments, etc. Here are some of the insights from experts within the field.
+
+One of the most common forms of digital fraud is the ‘card not present’ fraud, said Mayank Goyal, Founder & CEO, moneyHOP at the session ‘ AI Takes the Lead in Fraud Busting: Revolutionizing Cross-Border Payment Security’. In this type of fraud, the fraudster uses a cardholder’s credit card information to make purchases. Fraudsters also conduct identity theft. He said, “people use sophisticated mechanisms to steal your identity, or for that matter, synthesize an identity using a combination of real data and fake data.” Many also use social engineering and human psychology to conduct a type of fraud called ‘account takeover’, wherein a new user is able to take over the account and make transactions through that account.
+
+Prashant Shah, MD and Regional Head, Financial Institutions, South Asia, Standard Chartered Bank said during the same session that fraudsters are using AI to automate a part of their attack. He said, “ Generative AI is used to create extremely reliable and believable lures which gets unsuspecting customers to click on scam content” using text to voice conversion bots as an example.
+
+Frauds also take place on the cross-border level. Often, in an e-commerce transaction that takes place internationally, money is siphoned into a different account, noted Goyal. He also noted that mule accounts have become increasingly sophisticated. “We’ve seen a little bit more sophistication of the mule accounts whereby, especially in developing countries such as India, an unwitting people are given a small amount of money to use their identity to create an account, move money into that, and then take it from there.”, he said.
+
+Vaidyanathan Vembu, MD & CEO, IDFC FIRST Bank also said at the session on ‘Leveraging Artificial Intelligence to Combat Digital Financial Frauds’ that perpetrators use mule accounts that can lead to serious crimes like trafficking etc.
+
+Sumnesh Joshi, Deputy Director General ( Joint Secretary level), Ministry of Communications, Government of India said that most frauds take place through OTP verification, as most transactions today take place through mobile. He said fraudsters call users via Indian numbers from foreign countries such as Cambodia, Vietnam, Laos etc and mislead victims who are not well-versed with technology to share OTPs or click on links.
+
+At the session on ‘The Future of Fraud Prevention and Consumer Safety in Digital Payments’ session host G Padmanabhan, Former Executive Director, Reserve Bank of India, said there are two types of frauds: One where a customer is a victim and one where the customer compromises their own credentials.
+
+Sudhanshu Prasad, Chief General Manager, Department of Payments and Settlement Systems, Reserve Bank of India called the latter social engineering frauds, as customers are manipulated into disclosing their details.
+
+He said that the reason for these frauds taking place are threefold : money, fear and ignorance or unawareness. He said, often victims have a fear of their mobile SIM being blocked or threat of legal consequences. He added, “Because of ignorance or unawareness, some of the customers, they post their complaints or the disputes on the social media or on the internet. The fraudsters get those easily available information and target those customers”.
+
+Prashant Shah said that frauds also take place due to legacy systems being fragmented. He said, “You don’t have a modelistic system or solution that can take care of the entire process in a payment flow. Different forms of payment flows have different systems which often don’t talk to each other. So we need to keep evolving till you find that one-stop solution, connect all the dots.” He noted that cybercriminals did not have to worry about limitation of legacy system. “They have the latest technology to deal with. It’s easier for them to run a trial and error models and then scale up.”, he said.
+
+The RBI’s thought policy on fraud is governed by the Payment and Settlement System Act that allows it to issue directions to the authorized payment system operators, among others, in public interest, said Prasad.
+
+“India has adopted customer protection as one of its instruments of public interest. Consumer protection ensures that the user of the payment system continues to use various payment systems for its various transactions and is not alienated from it due to some bad experience”, he said.
+
+He also added that the RBI has adopted a framework towards a two-pronged approach to handle the customer protection: Prevention of fraud and protecting customers against the losses due to the frauds.
+
+He noted that RBI has introduced provisions like two factor of authentication and guidelines on issuance of and pin-based cards to protect customers from cases of fraud like card skimming. Similarly, the RBI released guidelines in 2017 describing the criteria for determining the customer liability in case of unauthorised transactions and framework for harmonising turnaround crime and the customer compensation for the failed transactions.
+
+It further mandated a dispute resolution mechanism for payment system operators and introduced an ombudsman scheme for customer complaints.
+
+The RBI Innovation Hub has also created Mulehunter.AI a system that leverages data from banks to spot trends in fraudulent activity.
+
+Given the prominence of telecommunication in frauds, the Department Of Telecommunications has also created a programme called the ‘Sanchar Saathi initiative’, that allows users to block their phone numbers through their IMEI number in case their device is stolen or used to conduct fraudulent activity. The portal also allows one to register complaints and check if there are multiple false numbers registered on one’s name. The portal can also analyse the location and number of the phone number making fraud calls.
+
+Further, the Telecom act has mandated Mandatory biometric authentication for customers and mandatory onbaidong for distributors of the point of sale device. It also imposes Rs. 50 lakhpenalty or three years imprisonment on those impersonating distributors. The Ministry of Communications also has a Digital intelligence platform thathas began onboarding banks, all state police department, Ministry of Home Affair, FIU, UIDI, NIA, GSTN, etc. to share information.
+
+Vembu said that banks today have a “very good picture of the customer. Even before the customer opened the account”, because they have the ability to access multiple databases and track information. Firstly, while opening a bank account, customers authenticate their phone number with their UIDAI and PAN number which gives a “three point check.” Additionally banks also have access to Bureau data and demographic data and transaction history through account aggregators. Banks also conduct validation checks. He cited an example stating that banks can validate if a customer is using multiple IP addresses or SIM cards to indicate fraud.
+
+Vembu also added that banks have systems encoded with FIU guidelines, that alert banks of fraudulent activity. Banks are then supposed to narrow down which of these alerts need to be reported to the FIU. He said that often these are false positives. Thus, “AI can do the job better than human beings can, and that is the process. While the rules may still be the same, alerts will still be a lot. Your selection of what you want to file, you know, suspect, suspicious reports that can become much more superior.”, he said.
+
+Motwani also said that fintech companies look at transactional history to map out a transaction behaviour and create “what would be considered a standard way of using a card”, as this helps them find anomalies that could indicate fraud.
+
+Prashant Shah noted that , “Biometrics verification is extended to likelihood test, where you could ensure or figure out that you’re not dealing with recording or replay attacks. It has made significant progress in identification of documentary frauds or modifications, which is very, very important in frauds, for the trade fraud detection. And finally, data consortium, large banks are now getting together to share data both good and bad within the premise of boundaries of customer privacy. This is helping us to generate models at industrial scale and enables better fraud surveillance.”
+
+He cited a project by the Monetary Authority of Singapore wherein multiple banks are involved to develop a prevention software which can help customers at inception to identify a fraud, as an example of data sharing to prevent fraud.
+
+Goyal said that large institutions, such as JPMorgan, Standard Chartered, Amazon and Google, and others, all can come together and create a database of transactions indicating suspicious activity.
+
+He said, “even if they don’t use that data to prevent a transaction. They can at least flag a transaction to say that there is some suspicious activity around it.” He also added that using quantum computing can be used to real-time crunch data to detect fraud with a high degree of and prevent it in real time. He also added, “I think part of why some of these fraud happens and other attacks happen is partly because others are able to take advantage of the complexity. So I think part of it is also simplification and what can we do together.”
+
+Shah further added that an AI bot can assist customers when they initiate a cros-border transaction, to warn them high risk countries, commodities, etc. He also added that regulators and companies must get together to decide data concession practices.
+
+John Munn, SVP, Predictive Fraud Intelligence at Visa said at the session on Future of Fraud Prevention and Consumer Safety in Digital Payment that “Many markets around the world, it gives us ability to see fraud trends as they happen. I think that we can be a valuable source of intelligence for you here in India …. Sometimes that new fraud will happen in Latin America or in Africa or some other part of the world. I think USAID and other networks and other multinationals can bring that intelligence here so that you are more prepared when this type of fraud hits your market….. It can be faster, we can bring innovations to market around the world faster and more efficiently.” He also called for collaboration among fintechs, banks, regulators to prevent fraud.
+
+While banks and fintech companies adopt AI to prevent financial fraud, Mayank Goyal noted that there can be risks to using AI. He observed there are two types of AI models: White Box Model and Black Box Model. Black Box Models have deep neural networks and higher accuracy but they do not have high transparency. It also has low extensibility i.e. its capabilities cannot be extended easily past its training.  White box models have higher transparency. Thus, financial companies are more likely to use White Box models as they provide them with the ability to explain decisions to the regulator.
+
+Goyal also noted that AI could have certain biases that could keep getting stronger due to feedback mechanisms. He also stated that AI could also “hallucinate” – that is present fabricated or contradictory statements as truth. Thus, he called for AI regulation to be introduced to monitor these risks and added that every organization using AI must have a framework and risk management checks to consistently audit those.
+
+Note: This post was edited on 23/09/24 at 2:35 PM to correct a quote that was attributed incorrectly. We apologise for the error.
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

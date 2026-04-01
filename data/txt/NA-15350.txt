@@ -1,0 +1,27 @@
+India’s cybersecurity watchdog, the Computer Emergency Response Team (CERT-In), in September published an advisory on recommended measures to take when an organization detects that it has suffered or is under a ransomware attack.
+
+Why does this matter: The cybersecurity agency shared a report that revealed there was a 51 percent increase in ransomware incidents reported in the first half of 2022 compared to 2021. The 2021 numbers were double that of 2020 . Currently, ransomware appears to be the most fast spreading cybersecurity threat across nations.
+
+“Ransomware incidents continue to grow in the year 2022 with attacks across multiple sectors including critical infrastructure. Threat actors are continuing to modernise their attack tool kits with high impact strategies. Ransomware As A Service (RAAS) eco system is evolving with sophisticated double and triple extortion tactics (Data exfiltration, DoS] and wide range of ransomware campaigns through affiliates. This is leading to higher probability of monetization and further rise in attack campaigns. Post covid (sic) accelerated digitalization and hybrid work culture are also aiding this threat emergence,” the agency stated.
+
+What is ransomware: “Ransomware is a category of malware that gains access to systems and makes them unusable to its legitimate users, either by encrypting different files on targeted systems or locking the system’s screen unless a ransom is paid,” CERT-In explained.
+
+The following recommendations are quoted verbatim from the advisory with minor changes to the headers.
+
+Identify and isolate affected systems
+
+Contain the malware
+
+Hardening
+
+Preserve artefacts and sanitise systems
+
+Securely recover systems and resume operations
+
+Monitor for abnormal behaviour
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

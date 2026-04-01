@@ -1,0 +1,31 @@
+We missed this earlier : The Mobile Number Validation (MNV) service should be implemented in collaboration with banks, non-banking financial companies (NBFCs), and fintech companies to limit the use of mobile numbers in fraudulent or mule accounts, the Parliamentary Standing Committee on Home Affairs has said. This comes as part of the committee’s report on cybercrime protection.
+
+As part of the section discussing the Department of Telecommunications’ (DoT) work in curbing cybercrime and financial fraud, the committee took note of the recently released draft Telecom Cybersecurity Amendment Rules, 2025. These rules state that all businesses that use telecom identifiers to verify their customers must use a government-operated MNV platform to check mobile numbers. The platform would send queries to telecom companies’ databases to validate businesses’ customers. The committee report suggests that the DoT is piloting this MNV platform to prevent the use of mobile connections in mule accounts.
+
+Note: MediaNama has extensively covered the committee’s report on cybercrime, its ramifications, protection, and prevention. You can access all the stories through our guide here .
+
+Mule accounts are bank accounts that criminals use to send and receive illicit funds, with or without the knowledge of the account holder. In some cases, innocent people get tricked into becoming money mules through job scams, phishing emails, or social media messages. In other cases, a person may voluntarily become a money mule for a financial incentive and lend their account for these fraudulent transactions.
+
+These mules are used to carry out rapid financial transactions, making it hard for authorities to follow the money trail. One of the noticeable signs of mule accounts is the presence of multiple accounts with the same address and contact information.
+
+As per the report, the DoT informed the standing committee that it currently has no way to identify whether a mobile number used for availing a service (such as opening a bank account) actually belongs to the person in whose name the account is opened. They explained that fraudsters and cybercriminals often exploit this gap. With the MNV platform, entities using telecom identifiers will be able to ensure that a mobile number corresponds to the person in their database.
+
+In terms of enforcement, the DoT told the committee that it would address any violation of Know Your Customer (KYC) or validation requirements by telecom operators in accordance with the Telecommunication Act, 2023.
+
+During MediaNama’s discussion on the draft MNV rules, Vikram Tiwathia, Deputy Director General of the Cellular Operators Association of India (COAI), explained that the most prevalent form of KYC mechanism today is the mobile number. “So, the intent of the government is, how can I squeeze more juice out of this national resource?” He theorised that the DoT’s proposed MNV platform could be coming from various government departments to curb fraud.
+
+In May this year, the DoT launched the Financial Fraud Risk Indicator (FRI), which uses multi-source analysis to classify mobile numbers into risk categories such as medium, high, or very high, enabling banks, NBFCs, and UPI providers to take timely preventive actions.
+
+During MediaNama’s discussion, Seema Jindal, the Head of Public Affairs at Truecaller, argued that if the FRI service exists, why does the DoT need yet another service to tackle the fraud problem? She suggested that the government should instead focus on combining the fraud signals it receives from various data points, rather than creating another platform. Jindal also questioned the effectiveness of validation as a means to curb fraud. “If I know which phone number belongs to which person, will that eradicate all the fraud which are happening? And are we saying that wherever there is a mobile number, there is a propensity to have fraudulent activity?” she asked.
+
+Jindal isn’t the only one to raise questions about the MNV platform. In its comments on the draft MNV rules, account aggregator industry body Sahamti mentioned that one of the issues with the MNV platform is that it relies on telecom companies’ databases to validate customers. “Considering known concerns pertaining to the authenticity of the customer verifications at the time of SIM issuance, the existing records of the authorised entities and licensees would not serve as a complete, accurate and reliable database to use for further downstream user/customer validation,” the industry body contended. It suggested that the government should first enforce strict KYC norms for SIM issuance; without this, the MNV platform could wrongfully block people from accessing their legitimate accounts.
+
+The standing committee’s report suggests cross-ministerial consensus about the MNV platform, indicating that this isn’t just a DoT initiative but has broader government support across departments. Despite this support, one has to question whether it will be an effective measure to tackle fraud. Based on what Sahamati said, as well as reports of people tricking telco KYC processes using fake IDs to acquire SIMs, the MNV platform may end up being a case of building sophisticated infrastructure on compromised foundations.
+
+If fraudsters can already obtain SIM cards using false identities, then validating those mobile numbers against telecom databases will simply confirm fraudulent information as legitimate. This creates a false sense of security while potentially blocking genuine users whose records contain errors from flawed initial KYC processes.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

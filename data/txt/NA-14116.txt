@@ -1,0 +1,27 @@
+The Reserve Bank of India on September 7 announced that it was allowing card-on-file tokenization for e-commerce companies. The changes “are expected to reinforce the safety and security of card data while continuing the convenience in card transactions,” RBI said in a press note. “Citing the convenience and comfort factor for users while undertaking card transactions online, many entities involved in the card payment transaction chain store actual card details [also known as Card-on-File (CoF)]. In fact, some merchants force their customers to store card details.
+
+“Availability of such details with a large number of merchants substantially increases the risk of card data being stolen. In the recent past, there were incidents where card data stored by some merchants have been compromised/leaked. Any leakage of CoF data can have serious repercussions because many jurisdictions do not require an Additional Factor of Authentication [like one-time passcodes] for card transactions. Stolen card data can also be used to perpetrate frauds within India through social engineering techniques,” the RBI added.
+
+Tokenization is the process of converting a fixed identifier, like a credit card number, into a use-case specific, merchant-specific, and/or device-specific ‘token’, a process which makes sure that card data is not stolen.
+
+Tokenized payments in the real world have already been happening for a while — chip and PIN transactions, and the NFC payments that came after them, always give point of sale (POS) terminals a scrambled one-time token instead of the card number, as magnetic stripes on cards had done before that. Samsung Pay launched in India by tokenizing cards on users’ phones and working with banks to make sure that this worked like a real card in the physical world — something the RBI authorised four years ago.
+
+The protections that tokenization offers have been slow to come online, which is a curious predicament, considering that the internet lends itself to tokenization a little more easily than physical cards. That is mostly because of what’s called PCI-DSS, the Payments Card Industry Data Security Standard. PCI-DSS is the brainchild of the financial services industry itself, but its existence lets merchants use standardised tools to store customers’ card information. Done properly, PCI-DSS stops card payment data from ever getting breached even if hackers somehow get a hold of the database in which the card information is stored.
+
+But that’s only likely if it’s done correctly. Juspay, the fintech firm best known for auto-filling one-time passcodes for financial transactions across a few major apps in India, was breached last year, and a database of millions of cardholders was out in the wild — it wasn’t completely decrypted, but enough numbers were unmasked so that the full card numbers were easier to find out than if the data had been secured properly. Similar data had been siphoned off from MobiKwik and BigBasket . These incidents didn’t escape the RBI’s notice.
+
+While India does not have a data protection law yet, the RBI exercised its supervision of financial institutions to tighten security rules. In March 2020, it issued guidelines whose end date was eventually extended to December 31, 2021, that banned merchants from storing payment card information at all. With the concession offered on Tuesday, merchants and fintech companies may be breathing a sigh of relief.
+
+This is far from RBI’s only move in the payments industry that has rattled companies: strict new rules for recurring transactions have crippled subscriptions across some banks, even as companies like Netflix are seeing their customers having to deal with the friction of manually renewing their subscription each month. Mastercard has been in limbo after falling afoul of a different regulation requiring that payment data of Indians be stored only in India; banks have been prohibited from issuing cards on its network.
+
+These unique regulations have always annoyed big tech companies used to uniform rules on card payments in other parts of the world. India is likely the only country that requires card companies to ask for a one-time passcode for each transaction (small transactions aren’t required to have this extra layer of security, but banks largely don’t take the risk, and require an OTP for all online transactions).
+
+These regulations caught Uber off-guard when it launched its services in the country, leading to a showdown between the ride-hailing company and the central bank. Uber complied, but wrote a fiery blog post saying that the requirement “is an antiquated solution that is cumbersome for consumers and stifling for businesses across India.” The company added a Paytm payment option around this time, and said that “Despite consumer preference and in the face of rapidly changing business expectations, India’s one-of-a-kind 2FA requirement persists, causing a major challenge for businesses trying to offer Indian consumers a better purchasing experience.”
+
+Also read
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

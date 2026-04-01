@@ -1,0 +1,59 @@
+In its comments to the Ministry of Health’s National Digital Health Blueprint , SFLC has submitted that the Blueprint proposes a framework that “severely infringes” upon the fundamental right to privacy; it doesn’t adhere to privacy principles recommended by the AP Shah committee or in the Justice Srikrishna Committee report, the draft Personal Data Protection Bill 2018; it falls short of the tests laid down in the Supreme Court’s privacy judgment, and ignores the SC’s Aadhaar judgment.
+
+Further, the consultation is premature as a data protection law is in the works. The entire process needs more thought and planning, says SFLC, adding that “people’s rights over their own data have to be re-thought, as economic interests cannot supersede fundamental rights”.
+
+(Read our coverage of the NDHB and other stakeholder comments here )
+
+Here are the key points SFLC makes on the Blueprint:
+
+The EHR Standards give only partial control to patients over their sensitive personal information, and the right of patients to control their own data is not acknowledged in the NDHB , even through the SC had said in its Privacy Judgment that control over information is a cornerstone of privacy.
+
+Key issues surrounding patient control over data:
+
+1. Quick access to medical data : The Blueprint’s aim is to enable quick access to medical records, but the EHR standards 2016 give a period of 30 days to providers to make a copy of medical records available; “this introduces ambiguity and can frustrate patient access and control over their own data.”
+
+2. Immutability : The Blueprint requires immutability of records, stating that “records once created cannot be deleted or modified without following due process”.
+
+3. Correction or deletion rights : Patients cannot amend their own records unless there’s need for correction of error in the recorded medical details, per the EHR Standards. This goes against the SC’s privacy judgment, also the right to correction in the Personal Data Protection Bill:
+
+For example, under the Bill, besides correction of data, the “data principal” has the right to complete incomplete personal data, update out-of-date data and correct misleading data. The NDHB and EHR Standards do not indicate many checks and balances included in the Bill and which are necessary for the fulfilment of this right. Under the Bill, a data fiduciary must provide a justification in writing if it does not agree with the necessity to correct the data.
+
+4. No opt-out mechanism : The Blueprint does not give an option for the patient to opt out of the system; once entered, medical records cannot be deleted, even after a person’s death. Even the EHR Standards say that medical records have to be compulsorily preserved and not destroyed during a person’s lifetime; after death, the status will be changed to an ‘inactive’, but will not be destroyed.
+
+5. Opportunity of hearing against the disclosure : The EHR standards do not specify when the patient will be informed when a disclosure is made, and do not provide the patient a chance to be heard and object to disclosures made by a care provider. The NDHB does not provide clarity about how much information each actor in the care ecosystem can access.
+
+Recommendations :
+
+The Blueprint recommends the use of Aadhaar based identification/authentication for schemes notified under Section 7 of the Aadhaar Act and through other specified types of identifiers or use of Aadhaar in “respect of the rest” to achieve uniqueness in PHI.
+
+The SC’s Aadhaar judgment held that Aadhaar can be used only when backed by law, even the amended Aadhaar Act 2019 allows Aadhaar only for telecom and banking. Use of Aadhaar “in respect of the rest” does not have legal sanction.
+
+NDHB’s framework proposes linking personal health data with Aadhaar, which will create a database of sensitive personal information linked to biometric and demographic information. Currently, there’s no law which provides safeguards against possible abuse of privacy violations with respect to SPI under the NDHB framework.
+
+No procedural safeguards in existing laws against misuse of EHRs
+
+The rules under the Clinical Establishments Act, 2010, make it mandatory for providers to implement EHRs but do not provide procedural guarantees against abuse of the data. The IT Act 2000, read with Sensitive Personal Data or Information Rules, 2011 (notified under Section 43A) imposes obligations for the protection of Sensitive Personal Information, including for medical records, but they are insufficient.
+
+The Blueprint recommends MeitY’s Electronic Consent Framework – which are not binding by law, but merely guidelines – for consent management. Its unclear to what extent these standards will be used in the Blueprint. It also recommends use of EHR Standards, which “do not include many important consent requirements” mentioned under the consent framework.
+
+Denial of service without consent?
+
+The EHR standards go on to state that the “authorization document” can provide that if the user does not provide an authorization (permission) for the use or disclosure of identifiable health information, she/he may not be able to receive the intended treatment.
+
+The NDHB report appears to make it compulsory for each citizen of India to be registered if they want to obtain medical services. If that is not the case, then it needs to be clarified that a citizen can refuse to be enrolled for a PHI and that no one must be refused to be provided a service for lack of a PHI
+
+It appears from the Blueprint that these apps can be built by anyone, these need to held to high standards since they will hold SPI. “At the bare minimum, they should be required to adhere to regular security and privacy audits.”
+
+1. Collection Limitation means that only information necessary for a certain purpose should be collected with consent, but the Blueprint does not adequately address this.
+
+2. Purpose Limitation : Rule 5(5) of the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 embodies this principle. The Blueprint recognises the importance of sharing data only with consent, however, as mentioned under the sub-heading on notice, choice and consent, the measures in place for consent are not sufficient.
+
+3. Disclosure of Information : The Blueprint does not satisfy this requirement as the possibility of denial of an essential service unless consent is provided runs contrary to freely given informed consent. The Blueprint must state in clear terms that denial of consent for sharing one’s data must not result in denial of medical services.
+
+4. Security : It’s unclear how the Blueprint suggests protecting the databases / health lockers and how to combat unauthorized access to personal health records.
+
+Recommendations:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

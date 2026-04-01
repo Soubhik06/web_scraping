@@ -1,0 +1,53 @@
+SUBREDDIT: r/india
+TITLE: Wannabe engineering undergraduates of r/india, here's some not-so-well-but-it-works kind of advice.
+DATE: 2021-05-25
+SCORE: 13
+URL: https://www.reddit.com/r/india/comments/nkkgx5/wannabe_engineering_undergraduates_of_rindia/
+
+--- POST TEXT ---
+
+I'm writing down my experiences and what I felt people should have told me, as a 6th sem student, and I regret wasting my time. Since I can't go back, and bring back what's lost, and I don't want you all to suffer like me, here's some FAQ-like guide.
+
+**This is for CS students only, but IS students can refer this as well.**
+
+&gt; - So there are some courses that I find interesting, I'll do it from second year
+
+Please don't. Start with a course, as soon as you can. Also remember, more courses != (not equals)"yeah, I'll get a job". Choose a specialization, and work only on that. If you have some interest in, let's say, ML and web, learn one of them as a hobby, but focus more on the one you want to do. Allot the first three months to find what interests you, and then, don't change your roadmap.
+
+&gt; - I am really confused about what to learn, should I go for web-dev or competitive programming, or android development?
+
+Learning to code competitively is a good practice, but be reminded by the fact that you can't use the same technique for real-life development. You need to work with other dev as well, and if the code is not readable, don't be surprised if you're been cursed by some sort of black magic. What I am saying is, learn to code competitively, but stop getting obsessed with techniques to write smaller and faster code.
+
+The first and foremost thing - in the first three years, try and explore all the fields briefly. Once you feel like, "yeah, machine learning is my thing", **START WITH THE FUCKING ROADMAP**. 
+
+&gt; - So there is this internship that I have to pay for, so should I...?
+
+Stop, and get some help. Internship should not be "pay and work", It can either be "free" or "get-paid". Stop enabling these people to exploit you for labour as well as money. I will also guarantee you that you won't even get an iota of experience. My friend has taken part in such shitty scam, and he didn't like anything about it (subject was machine learning, the "scammer" made smart students to teach others, while he had a good night's sleep. He (my friend) was really irritated when others kept calling him for silly doubt which should have been taught by the "scammer").
+
+If you want experience, work in **open source**. Open source is also a good way to meet new people and increase your connections.
+
+If you want an internship for namesake (let me guess, you're studying under VTU?), just get some random digital marketing internship, or volunteer intership on Internshala. If you want to try your luck with startups, Angel.co and YCombinator should work.
+
+&gt; - But open source is really hard...
+
+I agree partially, to be honest. And the reason is that i) if a community is small, or ii) if the maintainers of the project don't interact with you, you start feeling frustrated.
+Choose an easier project to work on. Let's be realistic, most of you probably don't even know anything about coding. Just because you've read a book does not make you any expert. Start with labels like "good first issue", "easy", "beginner", or "hacktober". Also remember, contribution is not necessarily coding. You may also contribute by improving the documentation, or helping other new users with their issues.
+
+&gt; - Okay, so I'll start learning all courses...
+
+Hol the fuck up. Don't EVER DO this. Learn only courses that matter to you. If I am not wrong, some people also promote Microsoft certified, Google certification and all such crap. Don't waste your money on that. They're crap. I've wasted my money on Microsoft's CPMA course, and it is garbage.
+
+&gt; - So yeah, I've done all that stuff. What now?
+
+Take part in extracurricular activities like hackathon, externships and fellowships. GSOC, MLH fellowship, Outreachy, Tweag, are some examples. They're all a great way to get real like experience, and also to earn some bucks (I think for 3 months, you're getting paid like 1.5 lacs for Google, and 3 lacs for Tweag)
+
+&gt; - You've said this and that wrong...
+
+If I've said so, I would agree with you. No one has ever said this to me, and since I am a first generation degree holder (meaning, I'll be the first one in my family to get a degree), I did not have many people to recommend and guide me. So basically, I am at a disadvantage, compared to my other peers. If you're just like me, this "misinformation" should suffice, and still help you.
+
+&gt; - Some good website to practice coding? Other "generic" tips?
+
+I don't like HackerRank, HackerEarth and Codechef, to be honest. I used to practice on Codewars, but then, I felt like the difficulty system was messed up, so I switched to Exercism. Geek for geeks is also good. You should subscribe to Kunal's youtube channel (Code for Cause), and Ishan Sharma. Since they're in the same year as I am, I can kind of relate with them. Also, master one language properly. If it's C++, master it. But don't forget to learn scripting languages like Python or Ruby. I would not recommend you to learn newer languages like Julia or Crystal, but as a hobby, sure, why not? Just remember to check their pros and cons. **Don't take interview and aptitude lightly**. I have, and it has costed me a lot.
+
+Also, **very IMPORTANT**: LEARN GIT, please.
+Let me stress this again, and again,if you don't know to use version control system, you're gonna get whopped. For real.

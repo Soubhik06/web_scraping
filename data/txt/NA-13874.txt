@@ -1,0 +1,21 @@
+In a bid to tackle financial fraud, the Reserve Bank of India (RBI) has issued directions to Regulated Entities (REs) to specifically use the ‘1600xx’ numbering series for transactional calls to customers, in its recent release dated January 17, 2025. The central bank also directed them to clean their customer database using the Mobile Number Revocation List (MNRL), the list where Telecom Service Providers update numbers that have been disconnected permanently.
+
+In its circular titled “Prevention of financial frauds perpetrated using voice calls and SMS – Regulatory prescriptions and Institutional Safeguards,” the central bank observed that while digital transactions offered both convenience and efficiency, they have also led to a surge in frauds. It noted that the customer’s registered mobile number had emerged as a “ubiquitous identifier” in account verification, but was at risk of being misused by scammers and cybercriminals for online frauds.
+
+The RBI advised REs to use the Mobile Number Revocation List (MNRL), accessible on the Digital Intelligence Platform developed by the Department of Telecommunications (DoT), to monitor and clean their databases. In this regard, it further sought the development of Standard Operating Procedures (SOPs) for required actions to be taken in emergent situations, such as updating registered mobile numbers after due verification, enhanced monitoring of accounts linked to revoked numbers to prevent said accounts from being used as money mules or being involved in fraud.
+
+The Central Bank also directed REs to use the ‘1600xx’ numbering series, when operationalised, for transactional or service calls, and the ‘1400xx’ series only through phone numbers for promotional voice calls, in accordance with the “Important Guidelines for sending commercial communication using telecom resources through Voice Calls or SMS” by Telecom Regulatory Authority of India (TRAI).
+
+It also directed entities to raise awareness about financial fraud using email, SMS and other modes, including in vernacular languages.
+
+The last date for REs to ensure compliance with the circular is March 31, 2025.
+
+This comes a little more than a month after RBI introduced MuleHunter AI , a tool by its Innovation Hub (RBIH) to detect and flag mule bank accounts involved in fraud. Reasoning that older static-rule-based detection systems had higher false-positive rates and longer turnaround times, RBIH stated that the newer AI/ML-based system operates based on a set of predetermined criteria or conditions.
+
+Taking into consideration metrics such as the number of cyber fraud incidents, that saw a substantial rise to 2,92,800 cases in FY24 from 78,800 cases in FY23, RBI’s current act appears to be a future-facing regulatory decision.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

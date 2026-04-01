@@ -1,0 +1,93 @@
+Artificial intelligence is rapidly reshaping cybersecurity, making both attacks and defences faster, cheaper, and more scalable. As AI tools lower the barrier to entry for cyber attackers and enable more sophisticated exploits, infrastructure providers like Cloudflare are seeing a sharp rise in both the volume and complexity of threats.
+
+In this part of the interview, Medianama Editor Nikhil Pahwa speaks with Cloudflareâs Chief Legal Officer Douglas Kramer about how AI is transforming cyberattacks, the growing risks from unsanctioned AI use within organisations, and why distinguishing between âgoodâ and âbadâ bot traffic is becoming increasingly difficult.
+
+The conversation points to a deeper shift: as automated agents begin to dominate internet traffic, traditional frameworks for identifying and regulating bots may no longer hold.
+
+This interview has been lightly edited for clarity and formatting. Additional parts of this conversation will be published soon.
+
+Read Part 1 of the interview: [ link ] Read Part 2 of the interview: [ link ] Read Part 3 of the interview: [ link ] Read Part 4 of the interview: [ link ]
+
+Nikhil Pahwa: Let’s talk about AI and cybersecurity . So cybersecurity is changing because of AI in two uncomfortable ways, right?
+
+On the defensive side, it can surface vulnerabilities a lot more easily. Somewhere, someone was able to find 500 vulnerabilities in a product that hadn’t been found previously in a matter of minutes . But the same capability also makes offense cheaper and more scalable . Attackers can discover more weaknesses, generate more exploits, and run highly targeted phishing and intrusion campaigns at a speed that we can’t even see what’s going on.
+
+And so this creates, like, it’s just the equilibrium, right, between finding something and it getting exposed and the discovery and the patching of it, that window is shrinking rapidly.
+
+I’m just curious that from Cloudflare’s vantage point, how are you seeing cybersecurity issues increase due to cyberattacks and is defensive capability keeping pace?
+
+Douglas Kramer: Yeah, it’s a fairly sobering thing. And as we provide this transition, this is one of the things, when we go in and talk to regulators about what Cloudflare does and how the Internet works, this is what we focus on. This is our bread and butter, as we would say. This is what we are out there every morning waking up trying to attack.
+
+The fact that there are bad people out in the world that might be using some of our services that we might be able to help regulate. A lot of people want to pull us into that, and we certainly cooperate on that. But I would just try to remind them: you need us in this space right now, because this is a pretty terrifying space.
+
+So let me give you a few before I jump into your two points, which I think are the exact right ones. Let me just share a few statistics.
+
+DDoS attacks, which is one of the core things we deal with this sort of attempt to assemble a lot of data from hijacked sources and throw it at web properties to shut them down. The number of those attacks has gone up 53% over the last year alone.
+
+What we call monster attacks, which is one terabyte per second or more of data, the frequency of those has gone up 20 times over the last year .
+
+And the one that I think we can all associate with, because we’re in that time of year of the Olympics and world records and all that, the largest DDoS attack on record that was mitigated was 31.4 terabytes per second of data . And at that scale, you’re not just taking down a website, you can take down entire networks, Internet networks . That we saw last October, that was seven times the largest that had ever been seen just 13 months before.
+
+So the attacks are just frightening. The number of malware and phishing attacks we’re seeing are now about 94%, if you have hijacked credentials , about 94% of the attacks we’re seeing through those are coming through bots now, not human beings fashioning them.
+
+And like you said, the deepfakes are getting better, the phishing is getting better, they can get past voice recognition now, they can do very personalised phishing campaigns. So all of that is terrifying.
+
+The other parts of this that you sort of got to is one we call a little bit of the shadow AI problem, that even the most well-meaning employees, we have found that 91% of employees who say that they’re using AI to help them do work better , because their workplaces are telling them, be more productive, be better, use AI, 91% of them are using AI products that haven’t been screened or approved by their employers . They sort of grab them and implement them.
+
+Itâs a very large percentage. And it means, again, these very well-intentioned employees are bringing these untested AI systems into their networks, where it’s not just going to have access to a little bit of personal data and their own network. They’re going to have operational control over internal systems, all of those sorts of things. So that risk.
+
+And the last thing on your point is, unsophisticated people can now move faster as cyber attackers and hackers than groups of the most sophisticated people could do a year ago because they’re using and leveraging AI.
+
+If you look at something like the Salesforce breach, I’m not sure if you’re familiar with that, from earlier this year, a plug-in to Salesforce was breached and a massive amount of data was taken. If you look at that, someone identified a zero-day exploit, as I understand it, and instead of it taking days or weeks by a group of very sophisticated coders to come up with an exploit, a single unskilled person was able to sort of exploit that within a single day.
+
+So it’s not just the speed with which they can operate, but the number of people who can now get in the game. Also, the ability to identify zero-day exploits scales exponentially.
+
+And just protections for the websites that use our services that help sort of register that the bot traffic that is coming in is validated and something you’re anticipating and expecting, making sure that you have insight into what is happening with the bot traffic and the AI assets that access your site. So if there is something there that shouldn’t be there, you can identify it.
+
+But it’s an alarming cybersecurity environment right now. And so everybody needs to be taking it seriously, and we’re cooperating, obviously with people across the industry as well to try and stay ahead of it. But it is not a foregone conclusion that we’ll be able to keep up with this challenge.
+
+I mean, we are confident we can be, otherwise we sort of all get out of the business, but I don’t know that I’ve quite seen the challenge in core cybersecurity, people just trying to bring down the Internet, in my 10 years as much as Iâve seen in the last year .
+
+Nikhil Pahwa: So let’s talk about bad traffic . One of the things we’ve seen over the last three weeks is the rise of OpenClaw amongst people who just want to try an AI that can act on their behalf. and take autonomous decisions, right?
+
+And so what that does is you’re seeing an increase in automated autonomous agents, including OpenClaw, but also different types of AI systems, headless browsers. And so has the classic definition of bot traffic broken? How do you distinguish between a user-initiated bot, an agentic browser that’s going through a website . How do you distinguish between that kind of bot traffic and something that’s just trying to scrape for copyright violation?
+
+Douglas Kramer: Well, I think the definition is broken depending on what our definition of bot traffic was. If we thought that all bot traffic was good, then yes, it’s definitely changed. If we thought that bot traffic was generally bad, then yes, it’s changed, because there is so much variation now. And bot traffic is such a significant portion of all the traffic we see that it is something that has to be dealt with.
+
+But as you’re sort of alluding to there, the purposes can be very different. Sometimes it is bots that are used in a very necessary way by the operator. They want that, they need that bot.
+
+Nikhil Pahwa: I’ll give you a small example. Let’s say I want to use OpenClaw to give me new summaries from four different sites just to know what I want to really read . And let’s say these are my favorite sites. It has a sense of what I read on a regular basis. It just goes and collects the headlines for you. Iâm not, itâs not necessarily denying anyone traffic, because Iâll just pick what I want to read and go there . Effectively functioning similar to what an RSS reader used to. So that’s not about traffic.
+
+Douglas Kramer: It’s just bots operating on sort of your behalf in a beneficial and useful way. Well, so I think, you know, again, and this kind of is becoming the running theme of this conversation, once you do certain fundamental understandings, It may not give you the solution, but at least makes the solution easier to identify.
+
+And so I think a couple of different things. Setting up smart systems, and I think this is something Cloudflare is trying to do, and I was sort of alluding to it before, that sort of works very hard to understand and differentiate between different types of bots.
+
+So sometimes that is going to be regulators moving in or standard setting bodies within industry and sort of saying that you need to mark bots in certain ways. And if they’re not marked in that way and validated in that way, then they’re going to be assumed to be bad. So thereâs an incentive to make sure that theyâre marked the right way.
+
+And then helping people control what it is that they allow through and don’t allow through, what they validate and maybe don’t validate. To do that right now, it is getting better, but it’s still such an open range of people just out that that creating those sorts of markers and those sorts of lanes so that we’re not just driving our cars all over an open field, but we’re creating roads, we’re creating traffic signs, weâre having people identify what they are, that is going to get us in that direction to figure out exactly how .
+
+And putting really the power probably in the hands of individual operators to say: I know my business. I know I either want to have a pretty permissive set of regulations to let bots in, or I want to have a pretty restrictive one, based on the nature of my business.
+
+How do I view those bots? But knowing what the bots are doing, having genuine ways to track that, and then tracking that effectively, is going to be at least half the battle here to sort of coming up with the actual solution, because right now we just don’t even have that baseline.
+
+Nikhil Pahwa: I think you’re going to see regulation with this pretty soon, because this last week an Indian police commissioner in the city of Hyderabad suggested that AI agents should have their own unique ID , and since yesterday the Indian government issued a regulation saying that all AI generated content needs to have a unique identifier for each piece of content .
+
+None of this seems workable to me , to be honest, but regulation often doesn’t necessarily understand how the Internet works.
+
+Douglas Kramer: I know you kind of pushed back before on my maritime example, but when you think about some of those areas, whether it’s trade or maritime, that there are these inherently international things, they usually have their own courts with specialised judges that really understand this stuff.
+
+And I think part of the problem you run into is even if you are going to say all AI bots, bots are going to do a lot of different functions, and almost all of them are going to be assisted in some way by AI before too long.
+
+But there’s a real question, not so much whether or not they have AI or not. That won’t be the distinguishing factor. It’s like, well, operationally, what is it that it is trying to do, and all those sorts of things.
+
+So hopefully getting to that level will give us some organizing principle around this.
+
+Nikhil Pahwa: Things are going to change as soon as bot traffic exceeds human traffic on the Internet . Because then, essentially, the web starts serving bots rather than serving humans .
+
+Douglas Kramer: Well, and the fact, again, and the fact that itâs a bot will no longer be particularly distinguishing or remarkable. But weâre going to have to find ways to talk about what exactly the bot is doing, what the bot has access to. Itâll have to be a more operational model, a functional model, than maybe a descriptive model, and the only descriptor being that itâs using AI.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

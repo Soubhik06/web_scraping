@@ -1,0 +1,107 @@
+SUBREDDIT: r/india
+TITLE: Lets talk about the new Aadhaar Bill. It can either prove to be immensely beneficial for the public or lead to a catastrophic disaster. Is it a risk we should take?
+DATE: 2016-03-05
+SCORE: 113
+URL: https://www.reddit.com/r/india/comments/492acw/lets_talk_about_the_new_aadhaar_bill_it_can/
+
+--- POST TEXT ---
+
+Hello /r/India,
+
+So I read the whole bill and I thought it's important for everyone to understand what the new Aadhaar bill, presented by the government last week, entails and what are the flaws. The bill is important because this might be the biggest experiment of social engineering we are embarking on as a country. I will try to concentrate on the policy part of it and not the privacy aspect of Aadhaar. That will be an ethical debate which you can have in the comments. I would love to hear your thoughts on it.
+
+I will try to make this as simple as possible. If you want to read the bill yourself, it can be found [here](http://www.prsindia.org/administrator/uploads/media/AADHAAR/Aadhaar%20Bill,%202016.pdf). I will not do a clause by clause analysis but highlight the clauses wherever necessary, in case you want to cross-check and find context.
+
+I request you to let me know if I make any mistakes, read too much into something or need to change my mind about stuff. I'm only human.
+
+___
+
+*First, I have to put the introduction of the bill in context. If you want to read about just the bill, skip this part and go to the Aadhaar part. I haz made lines!*
+
+**Is the proposed Aadhaar bill a Money Bill?**
+
+The [introduction of this bill in Lok Sabha](http://www.livemint.com/Politics/77djKIxnDrQ9HVz2mxBGMI/Aadhar-Bill-introduced-as-a-money-bill-in-Lok-Sabha.html) was a little unconventional from the norm. A bill itself cannot be presented as a money bill, but the speaker can give a certification to say if it's a money bill or not.
+
+**What is a money bill and why all this brouhaha?**
+
+[This.](http://www.parliamentofindia.nic.in/ls/intro/p5.htm) Pliss to scroll to the bottom.
+
+&gt; Bills which exclusively contain provisions for imposition and abolition of taxes, for appropriation of moneys out of the Consolidated Fund, etc., are certified as Money Bills. **Money Bills can be introduced only in Lok Sabha. Rajya Sabha cannot make amendments in a Money Bill passed by Lok Sabha and transmitted to it.**
+
+I have kept that portion bold because I have a feeling that the Government is in a hurry to pass this bill and doesn't want Rajya Sabha to stall it. The RS has proved to be an absolute *biatch* for the present government and has stalled a lot of their reforms. Most importantly, the GST bill. This might be a way for Jaitley to show them the finger and get it through in a hurry. Understandable. Sort of. Depending on which side you are on.
+
+**So is it a money bill then?**
+
+I would say no. What this bill is trying to do is create a system to *manage* subsidies. It has nothing to do with the subsidy moneys itself. If we see other legislation, a lot of them draw from the Consolidated fund of India. So why is this bill special? If this bill is indeed a money bill, it might also mean that a lot of bills in the future might also be certified so. Me thinks that is dangerous.
+
+___
+
+**Explain the process of how Aadhaar cards will be used. Briefly pliss.**
+
+This can get a little complicated but I'll try. There are three elements to this: 
+
+*1) Unique Identification Authority of India*
+
+The Government is going to create an independent authority called 'Unique Identification Authority of India' (UIAI). In the bill (Chapter 4), it is defined as an independent company with its own seal and identity. The peeps employed by this Authority will be deemed to be Government employees (Clause 49). So, erm... not really independent from Government control.
+
+*2) Central Identities Data Repository*
+
+UAIA in turn is going to be responsible for creating and managing a Central Identities Data Repository (CIDR). It's going to be a protected black box where sensitive biometric information of Aadhaar card holders will be stored. It will be well protected and there are heavy fines and penalties for anyone who tampers with the data inside (Chapters VI and VII). The penalties are quite heavy and seem effective.
+
+*3) Authentication*
+
+People who want subsidies will be authenticated by their Aadhaar Card before they get the money. If, say, a farmer wants subsidy money, he/she will present his card. The guy/gal responsible for disbursal of the amount will scan the barcode. This information will be relayed to the CIDR mainframe and verified. The person who is verifying it will get a simple Yes/No answer. So, basically, it would be like a credit card swiping system where only authentication is done and nothing else.
+
+**Right. So the CIDR is protected, the Aadhaar will be used for Authentication only and UIAI is an independent authority. Sounds like a good move to me!**
+
+Yes. The idea is good. But we need to differentiate between the intent and the implementation. It is indeed a well thought out process but the bill has flaws. 
+
+Read the bill itself and you will reach the point where they define "biometric data", put in a "national security" clause and basically leave it open for modification through simple notifications for a period of *three years* (Hint: We all know what is happening in 2019). There are other minute flaws too, but those would take less priority when compared to the three I pointed above.
+
+Allow me to explain each (in brief of course) of these:
+
+**Tell me about the 'Biometric Information' and how it's defined in the Bill**
+
+I urge you, just this once for the sake of full effect, go to [the bill](http://www.prsindia.org/administrator/uploads/media/AADHAAR/Aadhaar%20Bill,%202016.pdf). Page 2, Clause 2, sub clause (g). I am urging because you have to see it yourself to see how scary it is.
+
+&gt; (g) “biometric information” means photograph, finger print, Iris scan, **or
+other such biological attributes of an individual as may be specified by regulations**
+
+This definition is super vague. They have also said that they will be specified by regulations. Biometric Information, in the future, might even include DNA information. By leaving the definition so open ended, they have kept a provision to include other ethically unacceptable biometric information. Even medical information and organ scans can be included. 
+
+(Sidenote: The exact words that came out of my mouth after I read this clause were: "Holy shitballs!")
+
+**OK. Deep breath. Now tell me about the National Security clause.**
+
+Pretty much everywhere in the bill, you get the impression that the information in the CIDR is well protected and there are enough penalties in place to prevent mischief. Clause 28 talks about 'security and confidentiality' (good only). Clause 29 talks about 'restriction on sharing information' (again, good only). Then comes along Clause 33 (2) which pretty much negates both those clauses in case of situations of **National Security**.
+
+&gt; Nothing contained in sub-section (2) or sub-section (5) of section 28 and
+clause (b) of sub-section (1), sub-section (2) or sub-section (3) of section 29 shall apply in respect of **any disclosure of information, including identity information or authentication records, made in the interest of national security** in pursuance of a direction of an officer not below the rank of Joint Secretary to the Government of India specially authorised in this behalf by an order of the Central Government.
+
+I don't know about you, but I get really worried when I see the words "national security" these days. Just like our sedition laws, national security can be interpreted in a number of ways in any given situation. Leaving a clause like this lying around is dangerous IMHO.
+
+**Alright. Hyperventilating now. Third point about changing the bill through notification?**
+
+For that we take a wonderful journey all the way to Clause 58 on Page 17, to the very end of the oh-so-complicated-and-well-worded bill.
+
+&gt; (1) If any difficulty arises in giving effect to the provisions of this Act, **the Central
+Government may, by order, published in the Official Gazette, make such provisions not
+inconsistent with the provisions of this Act** as may appear to be necessary for removing the difficulty: **Provided that no such order shall be made under this section after the expiry of three years from the commencement of this Act.**
+
+I don't get it. This clause basically puts in a 'lockdown' provision. Before that comes into effect, they can make changes in the bill through notification in the Gazette. Basically, babus will have a free reign over what this bill will do *after* it is passed by Parliament.
+
+Koschans: If you are drafting a bill that is so important, why don't you make it watertight? Why is there this clause in the end which allows the Central Government to make changes through an order and, after they have done that, present it to the Parliament? It should be the other way round: First Parliament, then the Babus. 
+
+Also, why is there a lockdown of this provision after *three years*? Is there a rationale for keeping the year 2019 as a finish line to make changes and 'remove difficulties'?
+
+**Conclusion**
+
+The concept of Aadhaar itself is really good. It will reduce on ground corruption and bring transparency. But after going through this bill, I am a little worried about how this system can be misused by our dear politicians and bureaucrats. I just don't trust the people who will handle this system. They are [known to be incompetent](http://www.livemint.com/Politics/roausYEth9b0TvZv4r0whN/Govt-orders-blocking-of-IIPMrelated-URLs.html) in matters related to technology. 
+
+I don't want to end up in a state where I have to forcefully make an Aadhaar card, give my very sensitive biometric information to a government and then be used as a lab rat for some social engineering experiment.
+
+Please feel free to tell me my paranoia is over-exaggerated and for no good reason. But then, please do give me some reasons.
+
+Regards,
+
+Kumbhakaran

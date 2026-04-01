@@ -1,0 +1,25 @@
+India faced approximately 370 million malware attacks at a rate of 702 such detections per minute in 2024, disclosed a study by the Data Security Council of India (DSCI) and cybersecurity firm Seqrite. Among these, healthcare, hospitality, business, financial services, and insurance (BFSI) were the most targeted industries, contributing over 58% to the total attacks. Over 1 million ransomware attacks were also detected within the past year.
+
+The study, titled ‘India Cyber Threat Report 2025’ analysed data from 8.44 million endpoints. For context, an endpoint refers to any physical device that connects to a computer network, such as mobile phones, desktops, servers, and more.
+
+Telangana, comprising the Hyderabad IT corridor, and Tamil Nadu, with Chennai’s tech hub status, detected over 15% and 11.9% of the total malware attacks respectively. Delhi occupied the third position, contributing over 11.7% of the total attacks, averaging 43.9 detections per endpoint. The report highlighted that Madhya Pradesh and West Bengal, with high malware detections per endpoint of 30.8 and 31.1 respectively, reflect growing internet penetration and digital infrastructure adoption.
+
+Healthcare industries occupied the largest share of 21.8% in the malware attacks propagated by phishing, compromised third-party vendors, and unstructured remote access among other cyberattack techniques. Following this, hospitality experienced 19.6% of the total attacks targeting payment data and guest-facing infrastructure vulnerabilities. Attacks in the BFSI industry contributed to 17.4% of the total share.
+
+Further, 62% of malware attacks were detected in cloud-based environments, signalling the increased adaption of cloud services and the employment of advanced detection tools.
+
+Besides this, the report claimed that AI-driven attacks will dominate the cyber threat landscape in 2025. AI will be employed to develop “highly sophisticated” phishing campaigns utilising deepfake technology and personalised attack vectors making such threats significantly harder to detect, it noted.
+
+Groups like Anon Black Flag Indonesian (23%), The Anonymous Bangladesh (15%), the Ethersec Team Cyber (12%), Team Insane Pakistan (9%), etc., were the most prominent groups targeting Indian cyberspace.
+
+To combat the rise of such attacks, the report recommended integrating AI-ML for real-time threat monitoring and response. Besides this, it advocated for the adoption of a “zero trust security framework” to grant access requests only after authentication and authorization based on least privilege principles.
+
+In November 2023, a ransomware attack hit the All India Institute of Medical Sciences (AIIMS), New Delhi, causing the server to be down for more than 30 hours. Consequently, the personal health data of millions of patients was under threat of misuse. Additionally, India has faced several massive cyberattacks in 2024:
+
+As per a 2023 study by FTI Consulting, 47% of the top hundred Indian companies refrain from undertaking regular cybersecurity audits or training to prepare for a data breach. As such companies handle massive amounts of user data, any misuse could have adverse impacts on the country. Additionally, such attacks can also reduce operationality and temporarily paralyze essential systems as was evident in the case of the AIIMS attack. Due to the targeting of such critical patient-care systems, the hospital faced multiple challenges in the timely delivery of medical services to patients, compromising their well-being.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

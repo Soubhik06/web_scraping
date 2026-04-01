@@ -1,0 +1,13 @@
+SUBREDDIT: r/india
+TITLE: ELI5 How can somebody misuse my Aadhaar number?
+DATE: 2017-03-31
+SCORE: 98
+URL: https://www.reddit.com/r/india/comments/62lcx8/eli5_how_can_somebody_misuse_my_aadhaar_number/
+
+--- POST TEXT ---
+
+So apparently many databases maintained by private and government institutions containing personal data of individuals like Name, Bank account number, Aadhaar number etc. are publicly accessible. The inclusion of Aadhaar number among other data has freaked many people out. I want to understand how this number can misused by someone. As far as I understand, the purpose of Aadhaar is identification and using it for that purpose requires authentication with either biometric data like fingerprints or Iris scan, or online via a One Time Password sent to your mobile phone. So isn't Aadhaar number on it's own useless or am I missing something?
+
+Edit: Since all "Aadhaar data leaks" only contain the Aadhaar Number and not the biometric data, I want to know how this number only can be used by someone with malicious intent.
+
+Edit: So what I have gathered from the discussion so far is that the Aadhaar number by itself was supposed to be pretty useless from a scammer's perspective but the incompetence shown by private and government agencies has made Aadhaar number a weapon for targeted identity theft. A lot of government and private agencies are not using proper biometric/OTP based verification and are simply verifying names and DOB while accepting Aadhaar. So a scammer, if he has the victim's personal details, can create a fake Aadhaar card with his/her photo but the victim's personal details and then use the victim's identity for malicious purpose.

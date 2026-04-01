@@ -1,0 +1,86 @@
+SUBREDDIT: r/india
+TITLE: India Security News Weekly: Edition 6 - July 17
+DATE: 2017-07-17
+SCORE: 65
+URL: https://www.reddit.com/r/india/comments/6nu6kp/india_security_news_weekly_edition_6_july_17/
+
+--- POST TEXT ---
+
+First off, a thousand apologies :). Life caught up to me and the newsletter took a hiatus for past few weeks. Back with a mini edition this time and will try to keep it regular from now on.
+----
+
+Security Underflow (and this newsletter) is an attempt to break down barriers to knowledge about computer security among the general public. I wish to raise awareness about the risks around us and how to mitigate them or raise questions about them when we see them. Feedback/suggestions are welcome here or you can PM me as well.
+
+Last week's newsletter: [Edition 5](https://securityunderflow.com/learn/india-security-news-weekly-edition-5/)
+
+Subscribe at: [tinyletter.com/securityunderflow](https://tinyletter.com/securityunderflow)
+
+[Downloadable PDF for sharing](https://securityunderflow.com/files/newsletter/2017/india-security-news-weekly-6-17-july-2017.pdf)
+
+-------------------------------------------------------------------------------
+
+# The Ticker
+
+Ticker is a collection of interesting security news and happenings in Indian companies and startups.
+
+- Jio's customer data leak [[Factordaily](https://factordaily.com/news/reliance-jio-user-data-breach-magicapk/)]
+
+- Byju's internal development details, customer information, credentials leak [[Twitter](https://twitter.com/shantanugoel/status/885078091294539776)]
+
+*Ed Note:* Indian companies continue to take customers' (and in most cases, their own) data. In response of the above two reports, several users shared similar issues with many other companies ranging from other cellular operators leaking customer data or companies keeping their trello boards (and other tools) open to public unknowingly.
+
+Also to be noted is the fact that though Jio news got some coverage, the byju leak got through completely unreported in the media. Even for Jio leak, all publications missed the point that came out in the open later on that every Jio retailer has access to the Jio customer database and can perform searches on any of the customer. It is not long before there's an underground market to sell this information (maybe it already exists).
+
+- Indian firm explores secure quantum communications from Russia [[ET](http://economictimes.indiatimes.com/articleshow/59581966.cms)]
+
+-------------------------------------------------------------------------------
+
+# Policy Water cooler
+
+We cover the policies and other news that concerns the Indian government and citizens en masse here.
+
+- New telecom policy will have focus on data security and privacy as well [[FE](http://www.financialexpress.com/india-news/new-telecom-policy-likely-before-march-2018-manoj-sinha/763946/)]
+
+-------------------------------------------------------------------------------
+
+# World
+
+This section takes a look at the top security news around the world which impact most of us.
+
+**[Vulnerabilities found in Trend Micro apps](https://www.coresecurity.com/advisories/trend-micro-deep-discovery-director-multiple-vulnerabilities)**
+
+Funnily enough, security companies themselves make your systems insecure.
+
+**[Cloud Leak: How A Verizon Partner Exposed Millions of Customer Accounts](https://www.upguard.com/breaches/verizon-cloud-leak)**
+
+Not wanting to be left behind their Indian brethren, Verizon exposes a huge cache of customer accounts, again through their partners.
+
+-------------------------------------------------------------------------------
+
+# Events
+
+Details on upcoming security conferences and other events around India.
+
+ - [IFSEC India](http://www.ifsec.events/india): New Delhi, 16-18 Dec '17
+
+-------------------------------------------------------------------------------
+
+# Inquisitive mind
+
+Take the blue pill and save yourself. Or take the red pill and we'll show you how deep the security rabbit hole goes.
+
+&amp;nbsp;
+
+**References**
+
+*AWS:* Amazon Web Services
+
+&amp;nbsp;
+
+ **Recommended reading this week**
+
+[All about ATM/credit card skimmers](https://krebsonsecurity.com/all-about-skimmers/)
+
+-------------------------------------------------------------------------------
+
+-SecurityUnderflow

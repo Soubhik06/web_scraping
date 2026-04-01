@@ -1,0 +1,39 @@
+The Reserve Bank of India’s (RBI) card storage rules , which prevent online merchants (like Amazon and Swiggy) and payment aggregators and gateways (like Razorpay and BillDesk) from storing credit and debit card details of their customers, kick in today despite a lack of clarity on whether or not the payments ecosystem is ready for the change.
+
+The rules were announced in March 2020 and the initial deadline was December 31, 2021. This was then shifted to June 30, 2022, and finally to September 30, 2022, after a lot of pressure from the industry. But despite these extensions, it appears that the payments ecosystem is underprepared for the new system, which comprises two alternatives to storing card details:
+
+Why does this matter? Both these alternatives—guest checkouts and tokenisation—face various challenges (covered in-depth here ), and without them being ready, credit and debit card transactions will fail at a higher rate than normal.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+Card tokenisation involves two steps, 1) provisioning of tokens, which is a unique number issued by the card network (Visa, Mastercard) based on a combination of card details, merchant, and device, and 2) processing transactions using these tokens.
+
+Decent progress for one-time transactions: “There’s decent progress made on provisioning and processing for one-time transactions,” Mohit Kalawatia, Senior Associate at Koan Advisory Group, told MediaNama. As for provisioning, the success rate is around 90-95 percent, the Merchant Payments Alliance of India (MPAI), which represents companies like Microsoft, Netflix, Spotify, etc, said in a submission made to the RBI. And as for the processing of transactions using tokens, the success rate was around 60-65 percent as of early September, the alliance stated. “As opposed to where we were a couple of weeks ago, the ecosystem is now stabilising. Though still not at the same level as transactions using your card number, we do expect it to progress at a decent steady pace, and hopefully, we will be around the success rate as we have on normal card transactions in 15 to 20 days,” Kalawatia said.
+
+Not ready for recurring transactions: Recurring transactions, such as subscriptions, which now follow the e-mandate regulations pose a harder challenge, Kalawatia said.  As per this regulation, recurring transactions cannot take place automatically on a set date like they used to. Instead, customers will first need to set up something called an e-mandate for recurring payments. Then, for each recurring transaction above ₹15,000, users will receive a message from the bank 24 hours before processing the transaction. The user will have to approve the transaction through an annoying and cumbersome multi-step process. For transactions below Rs 15,000, users will still be asked each time if they wish to cancel the upcoming transaction or not.
+
+“It’s a bit more complex because we have three processes broadly: first is mandate creation, wherein you create a new mandate for a subscription using the token and without using any card data, second is the migration of existing mandates which are based on your card number to the token-based ecosystem, and third is ensuring that a mandate or a recurring payment happens using the tokens,” he explained. “Merchants have limited visibility on token processing solutions for recurring (auto-debit) payments,” MPAI stated.
+
+“On mandate creation, it’s not promising. Some card networks are better prepared to an extent than others, some are not prepared at all. And on migration, merchants are just starting to migrate or have just received the go-ahead from the upstream partners,” Kalawatia said.
+
+As for processing mandates based on tokens, Kalawatia divided the merchants into two groups, merchants who have some sort of competency to test things in-house and merchants who rely entirely on aggregators and gateways, which most Indian merchants fall under, explaining that:
+
+No clarity on readiness for EMI-based transactions: Another use case for tokens will be EMI-based transactions, where the customer can split their payment over multiple months. “On EMIs, again, there is no clarity on where the upstream partners like payment aggregators and gateways are. So it’s on the same boat as recurring mandates,” Kalawatia remarked.
+
+While the industry remains underprepared for token-based transactions, with guest checkouts it’s a different story because of relaxations announced by the RBI in July. For guest checkout transactions, the following are permitted as an interim measure:
+
+“Therefore, the challenge here is, to an extent, not immediate because of the relaxations ,” Kalawatia opined. “To be honest, I don’t think the January deadline is enough to come up with an alternative solution. But I guess we’ll cross that bridge when we come to that. Right now, the focus is on token-based transactions. (emphasis ours) ”
+
+Before these relaxations were announced, the acquirer bank, which is the bank used by the merchant, was not allowed to store the card data. But because of the way systems are built today, if the acquiring bank does not have the card information, the payment is bound to fail. Additionally, without the card information, acquiring banks would not have known who to return the money to in case of a failed transaction or refund.
+
+Worryingly, RBI has no idea of how ready the payment ecosystem is for its new card storage rules. In response to a Right to Information (RTI) request filed by The Quantum Hub (TQH), the central bank on June 17 said that it has no information available on how many tokens have been provisioned by card networks like Visa and Mastercard, how long do token-based transactions take to complete on average, what the expected transactions per second rates are when using tokens, how many payment aggregators/payment gateways have provided final Application Programming Interfaces (APIs) for integration to merchants, whether testing was conducted using tokens, whether testing has been done for special use-cases like refunds, chargebacks, EMIs and recurring mandates, whether testing has been done for the guest checkout use case, etc.
+
+“Currently, many entities, including merchants, involved in an online card transaction chain store card data like card number, expiry date, etc. [Card-on-File (CoF)] citing cardholder convenience and comfort for undertaking transactions in future. While this practice does render convenience, the availability of card details with multiple entities increases the risk of card data being stolen/misused. There have been instances where such data stored by merchants, etc., have been compromised. Given the fact that many jurisdictions do not mandate Additional Factor of Authentication (AFA) for authenticating card transactions, stolen data in the hands of fraudsters may result in unauthorised transactions and resultant monetary loss to cardholders. Within India as well, social engineering techniques can be employed to perpetrate frauds using such data,” RBI explained .
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

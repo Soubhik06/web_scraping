@@ -1,0 +1,81 @@
+SUBREDDIT: r/india
+TITLE: SEBI prefers investigating Hindenburg for insider trading instead of Adani for fraud
+DATE: 2024-07-12
+SCORE: 22
+URL: https://www.reddit.com/r/india/comments/1e1o74b/sebi_prefers_investigating_hindenburg_for_insider/
+
+--- POST TEXT ---
+
+*Original Source:* [https://boringmoney.in/p/sebi-prefers-investigating-hindenburg](https://boringmoney.in/p/sebi-prefers-investigating-hindenburg)
+
+*--*
+
+The basic idea of insider trading is that if you’re an employee at a publicly listed company and you know stuff about the company that can move its stock price up or down, you cannot trade the company’s shares with that information.
+
+It’s a straightforward idea but it gets complicated quickly. If you don’t trade the stock, but your wife does, it’s still insider trading. If your wife doesn’t, but her father does, hmm, it [might not be insider trading](https://boringmoney.in/p/mcdowells-insider-insider-trading). If none of you do, but a rando that overhears you at a restaurant does, don’t hold me to it, but I’d guess that it’s not insider trading either.
+
+This particular complication is about how separated the trader is from the insider. If the person trading the stock is reasonably separated from the company insider, it might not be insider trading. (Not legal advice!)
+
+But! The only reason being a company insider is relevant is because it comes with the assumption that you have non-public information. You could have non-public information anyway! Maybe you work at a regulator and you’re writing up some rules. Or you work at a company that’s a vendor to a listed company and figure that it isn’t buying as much from you anymore. If you’re in any of these positions and you trade the company’s shares, it’s probably \[1\] insider trading.
+
+Let’s extend this idea a little bit. You’re a short seller with a reputation. Any stock that you write about goes down, more so because you’ve written about it. Of course, you make sure to disclose that you’re short on a stock and that you’ll make money if it goes down. But you’re well aware that your research report will push the price down. Are you insider trading? SEBI seems to think so.
+
+&gt;The Hindenburg Report could reasonably be expected to have a significant impact on the price of the Adani Group securities upon publication, due to its overall nature and the reputation of Hindenburg as an activist short seller. The scheme of profiting from advance knowledge regarding release of the Hindenburg Report was further facilitated by making certain sensational or misleading statements in the Report to maximize its negative impact. Due to the global reach of a research report published online and disseminated to all investors at once, the impact was maximized by publishing the Report just before AEL's FPO.
+
+Last year Hindenburg Research published a report which accused Adani of fraud. Hindenburg is a short-seller, it’s in the business of figuring out which company is doing some fraud or is just overvalued, and shorting it. But also essential for the short-seller is to tell the world that it has shorted the stock. SEBI sent Hindenburg a show cause notice and Hindenburg made the entire notice public out of spite—that’s where I’ve quoted SEBI from.
+
+SEBI says that Hindenburg knew that when its report went out, Adani stock would go down. (Well, of course, that was the point.) But because Hindenburg knew that its reputation as a short-seller would have that effect on Adani companies, the knowledge of Hindenburg publishing a report itself was non-public information. No matter the facts of the report, Hindenburg knew that it possessed non-public information—the date and time of publishing its own report—so it couldn’t trade with that information.
+
+# Disclaimers, disclosures
+
+SEBI was supposed to be investigating Hindenburg’s accusations of fraud against Adani. It ended up investigating Hindenburg itself instead. Here are SEBI’s findings: \[2\]
+
+1. A couple of months before Hindenburg published its report, it shared a draft with an American hedge fund called Kingdon Capital.
+2. Kingdon would be the one shorting Adani stock, not Hindenburg. But Hindenburg would get 25% of the profit Kingdon made from the trade.
+3. Kingdom then went to Kotak Bank’s international arm and got itself a Mauritius-based foreign fund which was authorised to invest in the Indian markets.
+4. Hindenburg published its report! Kingdon make about $22 million in profit of which $5.5 million went to Hindenburg. \[3\]
+
+At the end of Hindenburg’s report last year was a disclosure:
+
+&gt;We Are Short Adani Group Through U.S.-Traded Bonds And Non-Indian-Traded Derivative Instruments.
+
+This disclosure threw people off! Adani companies were listed in India. Their stock prices were falling in India. How was Hindenburg shorting the companies outside India? One [Financial Times](https://www.ft.com/content/6a8a5548-0927-41e4-9818-1eb25c72d96f) report at the time suggested that Hindenburg could be using derivatives in Singapore, but was light on specifics.
+
+Yeah, we know now that all of that was BS. Hindenburg disclosed that it wasn’t itself trading any “Indian-traded derivative instruments”, but it had just partnered with a fund that was. If SEBI didn’t like that Hindenburg was making money trading on the back of its own report, it really did not like that Hindenburg traded Indian derivatives via a proxy. From SEBI’s notice:
+
+&gt;It was observed that the specific disclaimer that Hindenburg held positions only through non-Indian traded securities was misleading since it concealed the complete extent of its financial interest in companies which were the subject of its research report, due to Hindenburg's direct stake in profits from positions taken by the FPI in the futures of AEL on the Indian stock exchanges, as part of a scheme involving Hindenburg and Kingdon entities.
+
+SEBI sort of has a point, until you read this:
+
+&gt;With respect to the general disclaimer regarding assumption of short position, placed towards the middle of the legal disclaimer, it was observed that it was a standard format disclosure contained in most of Hindenburg's published short Reports. This general disclaimer contradicted the specific disclaimer made regarding Hindenburg holding short positions in Adani Group Companies through U.S.-traded bonds and non-Indian-traded derivatives, along with other non-Indian traded reference securities.
+
+Hindenburg had two disclosures in its report on Adani. The first one was the one I shared earlier, which said that it was not trading any India-listed derivatives. The second one was a general disclosure which said that Hindenburg, its partners, consultants, etc. could all be assumed to be short Adani and stood to make a lot of money if the stock price down.
+
+So Hindenburg did disclose that someone could be short Adani in India? It just specifically didn’t disclose Hindenburg itself was going to split profits. SEBI apparently didn’t like that this was a “general” disclaimer that Hindenburg used across reports and not written out specifically for the Adani report. Sure, that makes a lot of sense.
+
+The specifics of the disclosures aside, we’ve all known that Hindenburg was short Adani. That was always the point! SEBI has other plans. Here’s a snippet from SEBI’s [research analyst regulations](https://www.sebi.gov.in/legal/regulations/aug-2021/securities-and-exchange-board-of-india-research-analysts-regulations-2014-last-amended-on-august-03-2021-_34615.html) which it cites in its notice to Hindenburg: \[4\]
+
+&gt;Any person located outside India engaged in issuance of research report or research analysis in respect of securities listed or proposed to be listed on a stock exchange shall enter into an agreement with a research analyst or research entity registered under these regulations.
+
+Uff, so this is the reason SEBI is being so anal about disclaimers!
+
+1. Hindenburg is not India-based but published a report about an India-traded stock. Going by SEBI’s regulations, it had to partner with a registered research analyst.
+2. Hindenburg didn’t partner with anyone. Instead it said it wasn’t trading any Indian derivatives and the report was about Adani’s US-traded bonds.
+3. But the hedge fund Kingdon was very much trading Indian derivatives, and Hindenburg had sold its report to it with an agreement to split Kingdon’s profits.
+4. So SEBI says Hindenburg’s report was indeed about Indian derivatives and it lied in its disclosures.
+
+Why didn’t Hindenburg just partner with a research analyst? I don’t know. There are thousands of them, so it could have. Maybe it felt that it would be more trouble than it was worth. \[5\] But what would it have changed anyway? At best it’s a dumb technical violation, and even that’s not for certain.
+
+SEBI clearly just wants Hindenburg’s head.
+
+**Footnotes**
+
+\[1\] I say “probably” here but I really mean “almost certainly”. I leave some doubt because in the end this stuff is so subjective that everyone is constantly guessing.
+
+\[2\] SEBI’s investigation is based on information it sourced from the US securities regulator, the Securities and Exchange Commission, + an interview with Kingdon Capital.
+
+\[3\] Hindenburg has received only about [$4.1 million](https://hindenburgresearch.com/adani-update-sebi/#:~:text=~%244.1%20million%20in%20gross%20revenue) of this $5.5 million to-date. Kingdon apparently still has money in the Kotak fund which it has to get out.
+
+\[4\] I wonder what the rationale behind this regulation is. If there is a foreign entity publishing reports about Indian stocks, with zero presence in India, how is SEBI realistically going to stop them? I guess this is more so that Indian research analysts don’t think of registering abroad as a way around registering with SEBI.
+
+\[5\] Or maybe Hindenburg could foresee the harassment any Indian entity would’ve faced once the report was out.

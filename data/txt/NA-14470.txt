@@ -1,0 +1,51 @@
+OpenAI has upgraded its existing AI Agent, Operator, by integrating it with ChatGPTâs interface, now powered with Deep Research capabilities. The team announced that they will discontinue the standalone agent Operator in a few weeks, and users will only be able to access it through ChatGPTâs primary application. These features are currently available only to Pro, Plus, and Team users.
+
+âWe saw that many queries’ users attempted with Operator were actually better suited for deep research, so we brought the best of both together,â read the blog post.
+
+The post further states that ChatGPT can now “think and act proactively” using agentic skills to complete the tasks assigned by users. The system performs these functions on a separate virtual computer, including a terminal to run code analysis.
+
+The ChatGPT Agent has integrated tools that not only allow it to browse the internet but also engage with websites, enabling semi-autonomous decision-making.
+
+The tools are:
+
+The AI Agent can choose whether to use the text-based or visual browser. The former is used for general reasoning-based queries, while the latter enables interaction through a GUI. The agent can also download and scrape information from the internet and modify files using the command terminal. The visual browser transforms outputs into visual representations, allowing users to access information generated and curated by the agent.
+
+Similar to other agentic AIs, users can interrupt the ChatGPT Agentâs process and take control of tasks at any point. This flexibility allows users to steer the task as they prefer. Users must also authorize tasks before the agent can perform them.
+
+Some assignments may require users to share login credentials for specific websites. Users can also use built-in GPT connectors to link their accounts, such as Gmail, Outlook, GitHub, Canva, and cloud storage services like Google Drive and Dropbox.
+
+OpenAI presented several use cases for the AI Agent, including:
+
+OpenAI acknowledges the risks of granting access to personal data. It says it has implemented ârobust controls from Operatorâs research previewâ and safeguards against âadversarial manipulation through prompt injectionâ to reduce risks âsignificantly.â
+
+Despite these assurances, OpenAI flags that the agentâs expanded tools and broader reach may increase risks to user privacy. Malicious, invisible prompts embedded in websites or metadata could exploit vulnerabilities and gain unauthorized access to connected accounts like GitHub and Google Drive.
+
+âBecause ChatGPT agents can take direct actions, successful attacks can have greater impact and pose higher risks,â warns the company.
+
+“We donât know exactly what the impacts are going to be, but bad actors may try to âtrickâ usersâ AI agents into giving private information they shouldnât and take actions they shouldnât, in ways we canât predict,” said Sam Altman, CEO of OpenAI, in his announcement post on X (formerly Twitter). He also advised users to grant only the minimum access required for completing tasks.
+
+OpenAI says it has trained the agent to detect and respond to malicious prompt-injection attacks. Additional safety measuresâsuch as explicit user confirmation before actions and mechanisms for active supervisionâallow users to intervene and prevent unauthorized actions. ChatGPT is also trained to avoid high-risk tasks such as bank account transfers.
+
+The company claims that when users interact with the built-in web browser or use “takeover mode,” any information entered remains private. ChatGPT, according to OpenAI, does not collect or store data from such sessions.
+
+OpenAIâs Preparedness Framework tracks and prepares for frontier AI capabilities that could pose significant risks. The framework currently focuses on three major areas:
+
+For instance, biological and chemical capabilities can enable new discoveries and cures to diseases. At the same time it can also lower barriers to creating, and using, biological or chemical weapons. Similarly, AI cybersecurity capabilities can also protect vulnerable systems, but they can also cause new risks, including large-scale cyberattacks and exploit vulnerable systems. In the same vein, AI self-improvement capabilities focus on maintaining human control over AI systems.
+
+Under this framework, OpenAI treats biological and chemical capabilities as high-risk. While risks from AI agents cannot be ruled out entirely, OpenAI claims to have comprehensive, up-to-date safeguards in place. These include:
+
+Other safeguards include reasoning monitors and enforcement pipelines to ensure adherence to safety policies and ethical guidelines.Â
+
+The rise of AI agents is accelerating. Perplexityâs agentic browser Comet is already live for select users and expected to roll out soon for the public. Similarly, ChatGPT is reportedly working on its own AI agentic browser . Google has launched its AI coding agent Jules , while Visa and Mastercard have announced AI-powered agents for autonomous purchases.
+
+As AI agents become more accessible, itâs critical for platforms to assess and mitigate the implications of their widespread, and potentially unregulated, use. OpenAIâs integration of Operator with ChatGPT, enhanced by deep research functionalities, makes niche AI agents more accessible to the public. Comet browser also follows a similar path by trying to remove the barriers and to make AI agents as the new norm of accessing the web. For this particular reason, Therefore, it is important for these AI platforms to be vigilant against the potential misuse of their technologies.
+
+AI agents are often viewed as precursors to Artificial General Intelligence (AGI). OpenAI CEO Sam Altman believes AGI is approaching, with theoretical possibilities including curing all diseases and enabling people to fully realize their creative potential.
+
+In this context, OpenAIâs risk assessments under the Preparedness Framework, along with Microsoftâs warnings about vulnerabilities like phishing, social engineering, and misinformation, underscore a critical need for policy reform. As reliance on AI agents grows, so does the need to maintain human oversight and autonomy.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

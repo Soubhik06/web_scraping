@@ -1,0 +1,41 @@
+The Ministry of Electronics and Information Technology (MeitY) has now warned virtual private network (VPN) providers and other intermediaries that they must prevent access to websites that unlawfully disclose Indiansâ personal data.
+
+According to the advisory issued on December 11, these sites expose sensitive personal data such as names, mobile numbers, email IDs, and addresses, thereby posing a âsignificant riskâ to Indian users. Furthermore, MeitY cautions that such platforms may remain reachable through VPN services unless providers take active steps to block them.Â
+
+In addition, the Ministry has reminded intermediaries that they face liability if they fail to observe due-diligence obligations under the Information Technology Act and the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (IT Rules, 2021).
+
+As a result, they must ensure users do not host or transmit information belonging to others without authorisation, and they must act swiftly to restrict unlawful disclosures.Â
+
+Elsewhere, MeitY reiterates that intermediaries risk losing safe-harbour protections under Section 79 of the IT Act if they neglect these duties, potentially exposing them to action under the IT Act and the Bharatiya Nyaya Sanhita, 2023 (BNS).Â
+
+Finally, MeitY directs VPN providers to furnish information or assistance to authorised agencies for investigation, identity verification, and cybersecurity purposes within stipulated timelines.
+
+Websites such as ProxyEarth.org and LeakData.org have become notorious for turning personal information into instantly searchable public data, raising serious privacy concerns across India. In particular, ProxyEarth.org lets anyone enter an Indian mobile number and receive detailed personal information in return, including full name, address, alternate contact numbers, and email IDs, sometimes even placing a location on a map using one’s contact number. The site aggregates data from earlier breaches and leaked databases, repackaging them into a searchable interface.
+
+Moreover, an India Today fact-check investigation identified the creator behind ProxyEarth and confirmed that the site draws from multiple pre-existing breaches, making it possible for strangers to query personal identity information with minimal input. The creator also claimed that making replicas with domain names would not be difficult at all. Similarly, LeakData.org appears to operate on the same principle, exposing highly sensitive information linked to Indian mobile numbers without consent.
+
+As a result, MeitYâs advisory specifically names these platforms as examples of sites that publish personal information sans consent, and urges intermediaries to block access in line with Indian law.
+
+MeitYâs advisory makes clear that the real point of vulnerability for intermediaries lies in the circumstances under which they lose the legal insulation normally granted under Section 79 of the IT Act.
+
+Ordinarily, this provision shields platforms from liability for third-party information. However, the Ministry emphasises that this protection is conditional: it evaporates the moment an intermediary either fails to observe the due diligence requirements set out in the IT Act and the IT Rules, or engages in conduct that abets, aids, induces or conspires in the commission of unlawful acts.Â
+
+Once this shield is gone, the consequences are far more serious. The advisory states that such intermediaries become fully exposed to enforcement under the IT Act and may also face action under BNS, 2023.Â
+
+Furthermore, the advisory reiterates that intermediaries must ensure users do not host, display, publish, transmit, store, or share information that belongs to another person without authorisation, or any content that either invades privacy, threatens public order, state security, or Indiaâs integrity and sovereignty. Notably, intermediaries must also act immediately and effectively to restrict such content once identified.
+
+Notably, MeitY frames this not as a theoretical risk, but as an immediate compliance expectation. The advisory signals that intermediaries must demonstrate proactive governance, including mechanisms to detect and restrict unlawful data disclosures, or accept the possibility of direct legal action.
+
+This advisory signals a sharper regulatory posture toward platforms that enable the circulation of unlawfully obtained personal data. MeitY highlights that websites like ProxyEarth.org and LeakData.org allow anyone to extract sensitive details linked to an Indian mobile number, exposing citizens to identity theft, harassment, and targeted fraud. Moreover, the Ministry warns that such platforms remain accessible through VPN services unless intermediaries proactively intervene.Â
+
+Beyond immediate legal exposure, the guidance forces a rethink of business choices. For example, VPNs that promote unfettered access now confront a policy trade-off: preserve user anonymity or block domains that facilitate mass doxxing; importantly, neither option is simple.Â
+
+Moreover, MeitYâs emphasis on due diligence raises compliance costs, from monitoring systems to takedown workflows, and therefore shifts economic incentives away from passive carriage towards active moderation. Equally, intermediaries face a reputational calculus: failure to act can erode user trust and invite enforcement that reverberates across service contracts and hosting arrangements.
+
+Furthermore, MeitY frames these obligations as immediate, not aspirational. As such, intermediaries must now demonstrate active governance: from restricting unlawful disclosures to providing timely assistance to investigative agencies. Consequently, the advisory emphasises that platforms can no longer rely solely on dormant moderation models when large-scale privacy risks emerge.
+
+Also Read :
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

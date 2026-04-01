@@ -1,0 +1,22 @@
+SUBREDDIT: r/LegalAdviceIndia
+TITLE: Is Online ID Verification (Aadhar, etc.) Legal for registering on a website in India?
+DATE: 2025-01-30
+SCORE: 1
+URL: https://www.reddit.com/r/LegalAdviceIndia/comments/1idacl2/is_online_id_verification_aadhar_etc_legal_for/
+
+--- POST TEXT ---
+
+Hey r/legaladviceindia,
+
+I’m working on a making a housing board for India but safety is a huge concern due to scams. To minimize risk, we want to implement user verification before allowing people to post listings or contact others.
+
+However, I’m unsure about the legal limits on ID verification in India. Specifically:
+
+1. Is it legal for a private platform to ask users for Aadhar verification for housing listings?
+2. If not, what is the maximum level of verification we can enforce while staying within Indian data protection laws?
+3. What are the best legal practices for verifying users without risking personal data theft or leaks?
+4. Would collecting alternate IDs (voter ID, license) be more legally sound?
+
+We want to create a safe space for people seeking housing while complying with Indian privacy and data protection laws. Any legal insights would be really helpful!
+
+Thanks in advance!

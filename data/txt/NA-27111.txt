@@ -1,0 +1,49 @@
+SUBREDDIT: r/Scams
+TITLE: My first encounter with a tech-support scam and what I did (and a genuine scary surprise)
+DATE: 2022-06-06
+SCORE: 0
+URL: https://www.reddit.com/r/Scams/comments/v5qveb/my_first_encounter_with_a_techsupport_scam_and/
+
+--- POST TEXT ---
+
+If you don't wanna read far, the most critical part is this:
+
+The scammers are able to call people with a spoofed Microsoft number that bypasses the carrier filter and shows up as "Microsoft".
+
+(Also, the scammer phone number is in the popup photo and is still active since this just happened less than half an hour ago of the time this is posted, so have fun while it lasts!)
+
+Full story:
+
+I was looking at my DropBox and I found a very old game (circa 2008) that I used to play back when I was a teen. It said there was a new update available. I was quite surprised as I know the company went bankrupt over 10 years ago.
+
+Now, when I clicked on "Yes", it opened this glorious tech scam page, which was the stereotypical Microsoft tech support scam that KitBoga shows us all the time yet I never encountered before.
+
+https://imgur.com/a/wVkSM0I
+
+Now, I had to think what to do. Do I call the number? Do I try to waste their time?
+
+I opted to use my Google Voice number which I only use for online semi-sketchy things and never for personal or anything important.
+
+The call was picked but for some reason the person on the other line did not talk, but I could hear the breathing, so it seems they were waiting for me first to talk. I did my best imitation of a weak female voice and then it happened: The Indian-accented "Tech support how may I help you" came!
+
+I quickly came up with a short (4 words only) VERY explicit sentence (it might have been about some members of his family) and VERY loudly yelled it off the top of my lungs rapidly 5 or 6 times then hung up.
+
+Now, I was expecting them to end there but it seems what I said was rather quite offensive so they kept ringing me 3 times.
+
+https://imgur.com/a/qfKN67b
+
+The real surprise was that Google Voice showed those as "Microsoft", and upon Googling it turns out this issue has been ongoing for this exact number since 2016 and yet it remains unsolved and even a sophisticated high-tech carrier like Google!! still shows it as "Microsoft" making it far easier for the scammers to be believed.
+
+This February 2016 thread is about this exact "Microsoft" number and nothing happened since then.
+
+https://answers.microsoft.com/en-us/protect/forum/all/800-642-7676-a-legit-number-for-microsoft-support/783eba18-52f9-4f5e-b09a-6efb45cc2bc8
+
+And many websites like this one https://www.customerservicenumber.org/microsoft-customer-service-phone-number/
+
+Show it as a legit Microsoft number.
+
+If you're interested, this is the voicemail the scammer left when I didn't pick up:
+
+https://voca.ro/1dShGGr5g1ag
+
+That was all. If you know someone at Google or somewhere who can help fix the spoofing issue please let them know. I know T-Mobile is pretty good at detecting spoofed numbers and I was very surprised Google (and who knows who else) aren't doing something similar (I am not even sure if T-Mobile would have detected the spoof on this one).

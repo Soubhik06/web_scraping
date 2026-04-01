@@ -1,0 +1,93 @@
+LIC (Life Insurance Corporation) India’s online portal was vulnerable to potential exploits, exposing data of millions to security risks, Medianama recently learnt.
+
+The issue was spotted by Ankit Kumar, a 25-year-old engineer with an understanding of API (Application Programming Interface) backend processes and system vulnerabilities. Medianama has independently verified the accuracy of his claims.
+
+Subsequently, Kumar filed a complaint on the PG Portal , on 16th October 2024, after which the vulnerability in the API was addressed. The issue was resolved on 23rd October, 2024, 7 days later.
+
+MediaNama has reached out to LIC (Mithilesh Singh, CISO) IRDAI (Insurance Regulatory and Development Authority) (Meena Kumari, Executive Director, M.S. Jayakumar, General Manager, Spandana V, Manager), CERT-In (Indian Computer Emergency Response Team), and CSIRT-Fin (Computer Security Incident Response Team) on 18th December 2024. We will update this article as and when we receive a response from them.
+
+“Anyone can exploit even without any hacking training”, stated Kumar. By exploiting this flaw, anyone could download an individual’s complete insurance form details with ease.
+
+This vulnerability exposed countless policyholders to risks of identity theft, financial fraud, and privacy violations.
+
+The exploit involved accessing a specific URL where insurance form PDFs were stored. By simply modifying the document ID in the URL, anyone could retrieve personal data without encountering any security measures. For instance: esales.licindia.in/<redacted>.pdf
+
+The document ID followed a sequential numbering system, starting from 0 and incrementing by 1 for each new entry. This allowed anyone to write a simple script or manually iterate through the numbers to download every document ever stored, covering the entire operational history of LIC’s eSales platform.
+
+Moreover, there was an absence of any form of authentication or verification, such as OTP validation, before granting access to these PDFs.
+
+Kumar managed to access more than 40 documents containing personal information of strangers. “It’s concerning because almost every family in India has a LIC policy”, he stated while talking to MediaNama.
+
+Two redacted forms reviewed by MediaNama, obtained by Kumar, contain highly sensitive financial and personal information, which, if exposed due to a vulnerability, pose significant confidentiality risks. Key confidential details included:
+
+Kumar reported the issue to the legal and web teams of LIC via email. He also notified the IT portal team and escalated the matter to the vigilance department through their respective email channels. However, Kumar did not receive a prompt response or acknowledgement.
+
+The lack of precaution in securing the API is a significant oversight, as authentication is a fundamental security measure in software development, stated Kumar. Ensuring that only authorised users can access sensitive information or perform specific actions is one of the most basic and essential practices in developing secure applications.
+
+Authentication involves verifying the identity of a user or system, ensuring that only legitimate users can access certain resources. In this case, the absence of proper authentication allowed anyone to easily exploit the vulnerability by simply manipulating the URL to access sensitive documents without needing any authorisation.
+
+Moreover, this flaw directly relates to one of the OWASP (Open Worldwide Application Security Project) Top 10 security risks —Broken Authentication. The OWASP Top 10 is a list of the most critical web application security risks. Broken Authentication is ranked as a major threat because it allows attackers to bypass authentication controls and gain unauthorised access to sensitive data. The failure to implement even basic authentication is a glaring omission, making the API extremely vulnerable to exploitation.
+
+The fix LIC implemented, after the vulnerability was reported, uses a UUID4 instead of a number. Using a UUID4 instead of a simple number does offer some improvement in terms of security, but it may not fully address the underlying problem. Here’s why.
+
+UUID4 is a 128-bit value, which offers a massive number of possible unique identifiers (approximately 3.4×10^38 possibilities). This makes it far harder to guess or brute-force compared to a simple number. This increases the difficulty for attackers who might try to guess another user’s identifier in a system that leaks such information. While UUID4 is more complex, it is still not immune to certain attacks. For example, if there is any pattern or predictability in the generation of UUIDs due to a cryptographically non-secure random number generator, an attacker might still be able to guess or infer other UUIDs over time.
+
+The fix doesn’t address the broader underlying issue: lack of additional safeguards like requiring an OTP (One-Time Password) or implementing proper authentication measures. In a system that leaks UUIDs, attackers could still access sensitive data if they have valid UUIDs. Moreover, if an attacker already has access to some identifier (even a UUID), other vulnerabilities such as weak authentication, session hijacking, or lack of proper authorisation checks could still be exploited to gain unauthorised access to personal data.
+
+Kumar says that he switched to SBI Life Insurance, as it has an OTP based protection on every document. However, last month it was reported that SBI’s 2-factor authentication had failed as well, leading to cyber fraud.
+
+LIC’s privacy policy states that “LIC treats your personal information or your use of the service as private and confidential and does not check, edit or reveal it to any third parties except where it believes in good faith, such action is necessary to comply with the applicable legal and regulatory processes or to protect and defend the rights of other users or to enforce the terms of service which are binding on all the users of www.licindia.in.” However, LIC does not specifically mention a process for users to delete their own data if they decide not to purchase a policy or switch to an alternative option.
+
+The website’s privacy and data handling practices seem to focus more on how data is collected, used, and shared rather than providing users with explicit deletion rights.
+
+Under the Digital Personal Data Protection Act (DPDP Act), 2023 a data principal (consumer) can withdraw their consent to the processing of their personal data at any time:
+
+DPDP Act is expected to come into force in India in 2024 through a government notification and the rules are expected to be released sometime this year.
+
+Kumar also reported the incident to IRDAI to fix the vulnerability.
+
+The IRDAI Guidelines on Information and Cybersecurity, 2023 outline key provisions related to IT security, reporting and responding to incidents, and security assessments for insurers.
+
+2.20 – IT Security: Insurers are required to implement robust IT security measures to protect systems and data. This includes ensuring proper access controls, encryption, and safeguarding against cyber threats. Organizations must regularly update their IT security infrastructure to address emerging risks and comply with best practices in information security.
+
+However, LIC’s handling of cybersecurity breaches and lack of transparency regarding the deletion of sensitive user data, raises concerns about its compliance with these regulations.
+
+2.10 – Reporting and Responding: Insurers must establish protocols to report and respond to cyber incidents or data breaches promptly. Any significant breach must be reported to IRDAI within a defined period. The insurer should take necessary actions to mitigate the impact of the breach, assess the damage, and implement corrective measures. A clear communication plan with customers and regulatory bodies is essential in such cases.
+
+Despite this, LIC delayed the resolution of a reported issue for seven days after the complaint, which may not fully align with the regulatory requirement for timely response and mitigation.
+
+3.6.1 – Security Assessment: Insurers must conduct regular security assessments, including penetration testing and vulnerability assessments, to identify and fix potential vulnerabilities in their systems. Independent audits or reviews should be conducted to evaluate the effectiveness of the IT security measures. The results of these assessments must be submitted to the IRDAI, along with a corrective action plan to address any identified weaknesses.
+
+LIC’s failure to address data retention and deletion concerns in its privacy policy may indicate a lack of full alignment with the assessment and reporting guidelines, potentially exposing it to compliance risks.
+
+Listed entities such as LIC are required to disclose cybersecurity incidents, breaches, or loss of data or documents in accordance with SEBI’s Listing Obligations and Disclosure Requirements (LODR) Regulations, 2023 . Such incidents must be reported as part of the quarterly compliance report under Regulation 27(2).
+
+In the amendment under Regulation 27(2), after clause (b), a new clause (ba) is inserted:
+
+“Details of cyber security incidents or breaches or loss of data or documents shall be disclosed along with the report mentioned in clause (a) of sub-regulation (2), as may be specified.”
+
+Moreover, CERT-In, a government nodal agency that manages computer security incidents in India states that “Any service provider, intermediary, data centre, body corporate and Government organisation shall mandatorily report cyber incidents as mentioned in Annexure I to CERT-In within 6 hours of noticing such incidents or being brought to notice about such incidents.” (emphasis added by author)
+
+“I had to resort to LIC’s CSticket portal , which is not even indexed by Google and proved to be slow and ineffective. Despite my concerns, they referred me to the marketing team, indicating that internally, even the existence of a cybersecurity portal was not known. Frustrated, I filed a complaint through PGPortal on 16th October 2024 (reference DEAID/E/2024/0011888). After sending a reminder on 23rd October, LIC responded on 5th November 2024, claiming the issue had been fixed. The case was closed on the same day (23rd October), but I filed an appeal immediately, critiquing both their process and IRDAI’s handling of the situation. The appeal was closed on 5th November.” stated Kumar.
+
+Kumar further reported the incident to CERT-In and CSIRT-fin on November 18 and 26, 2024, respectively. “They responded promptly and requested a proof of concept. But, by the time I reported it, the issue had already been fixed. They then asked for proof that I had data from another individual. Additionally, they involved CSIRT-Fin, which is responsible for addressing financial cybersecurity concerns,” added Kumar.
+
+Kumar filed an RTI with LIC regarding their privacy policy and data rights. Subsequently, the RTI appeal was attended to and it mentioned an email to reach out. Kumar further filed another RTI regarding the breach of privacy details and redressal mechanisms.
+
+The RTI enquired about the following:
+
+To which the response stated that there is no such process defined with respect to the website.
+
+Furthermore, Kumar filed an RTI with LIC about the vendor, the vulnerability assessment conducted, and the public disclosure of the vulnerability. In response, LIC invoked the business secret exemption to withhold the information.
+
+Planet E-Com Solutions (PECS) maintains the LIC website. MediaNama has reached out to them (Puneet Gupta, Managing Director) on 18th December, 2024, and will update the article as and when we receive a response from them.
+
+Moreover, a similar vulnerability was discovered by Kumar in the New India Assurance system, which also exposed sensitive information, albeit to a lesser extent.
+
+Moreover, a similar vulnerability was found in IRDAI’s CIOINS portal, where the system performs OTP validation but fails to properly verify the token. As a result, it exposed sensitive information such as the complaints history, outcomes, and policy numbers associated with a user’s phone number, even without the OTP being validated.
+
+Note: This article was edited on 12th January, 2025, at 6:06 am for clarity.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

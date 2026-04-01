@@ -1,0 +1,47 @@
+by Vidyut
+
+French security researcher who goes by the persona ‘Elliot Alderson’ (Eliot Alderson is a character in the TV Show Mr Robot) revealed what appear to be serious flaws in the mAadhaar app recently. While Elliot described the risk of data theft due to the vulnerabilities, the alleged flaws actually are more dangerous than just leaking information and  put Aadhaar holders at risk of data, identity and monetary theft.
+
+According to Google Playstore, the mAadhaar app has between 1 and 5 million installs.
+
+Alderson demonstrated how having access to a phone containing the mAadhaar app could let an attacker retrieve the Aadhaar information due to poor coding practices being used while making the app.
+
+The #Aadhaar #android app is saving your biometric settings in a local database which is protected with a password. To generate the password they used a random number with 123456789 as seed and a hardcoded string db_password_123 🤦‍♂️ pic.twitter.com/Ty7cPmOjAb
+
+— Baptiste Robert (@fs0c131y) January 10, 2018
+
+The hard-coded string and lack of proper randomization lead to a predictable password being generated that can easily be hacked and used to access the data secured by the app. He published a proof of concept to demonstrate how that worked.
+
+A lot of people asking me how bad is the generation of the local database password in the #Aadhaar #android #app .
+
+I published a small POC here: https://t.co/m2LcIXVYu8
+
+If you start the application multiple times you will see that the generated password are always the same pic.twitter.com/U5TRTHiWen
+
+— Baptiste Robert (@fs0c131y) January 11, 2018
+
+And later published a short video showing how it would take less than a minute to access the Aadhaar details on the phone if a hacker knew what they were doing.
+
+Hi my #Indian friends 👋! Let me show you how to bypass the password protection set up by @UIDAI and @KhoslaLabs in the #Aadhaar #Android app. In less than 1 minute, an attacker can access your #Aadhaar informations without having your password #AadhaarFail pic.twitter.com/ONkrbfiNbK
+
+— Baptiste Robert (@fs0c131y) January 15, 2018
+
+Knowing the Aadhaar number provides information like the name of the bank where the Aadhaar holder has an account. An unauthorized person knowing your Aadhaar ID and having access to the SIM linked to it is extremely risky.
+
+If an attacker has access to the mobile phone, accessing the Aadhaar number allows the attacker to install one of several Aadhaar Pay apps that transfer funds between bank accounts linked with two Aadhaar numbers based on Aadhaar authentication alone.
+
+Authorizing the app would be a simple process given that the mAadhaar app can only be used from the phone that contains the SIM linked to the Aadhaar number being stored. mAadhaar being installed on the phone means that the Aadhaar Pay apps could be authenticated from that phone itself. Within a matter of minutes, a malicious attacker could transfer funds from the bank account connected to the Aadhaar ID to another bank account and Aadhaar ID controlled by them (and likely to be untraceable).
+
+As a consequence, for someone with physical access to the phone can not just access the authenticated Aadhaar data of the Aadhaar holder, a person with the kind of access to hack the phone could also steal the Aadhaar holder’s money if they have linked the Aadhaar to a bank account or they could use the SIM found on the phone to receive an OTP and change the phone number linked to the Aadhaar card in order to hijack access to it for further misuse.
+
+This is not so farfetched in a country with widespread lack of awareness about digital security. For example, someone may not have removed their SIM and SDcard while giving a phone to a mobile repair person. It would not be very hard for someone to access the Aadhaar information on any phone with mAadhaar app installed that comes in for repairs, giving them a ready supply of Aadhaar cards to exploit easily.
+
+It has been 5 days since Alderson first reported the vulnerabilities in the mAadhaar app, and so far, the app has not been updated since the 22nd of July 2017, even though the UIDAI’s playstore account has been actively uploading test apps, and deleting them as soon as Alderson commented on their amateurish work. Alderson suspects, that in spite of all the prompt activity, if the mAadhaar app has not been updated in spite of the vulnerabilities exposed, the UIDAI may be unable to update the mAadhaar app . This could happen if they had lost the release key, which would be required for updating the app.
+
+If what Alderson suspects is correct, the implications are far more serious, as there would not be an update for the mAadhaar app and thus the lakhs of installed apps on phones would never be updated and would remain a permanent security breach unless users independently uninstalled them. Even if UIDAI removed the mAadhaar app from the playstore altogether, the existing users would still have the app, and thus remain vulnerable in the absense of an update fixing the serious security flaws.
+
+This basically means that if the UIDAI is not able to update its app, it leaves up to 5 million users vulnerable to identity theft for as long as Aadhaar exists and financial fraud for as long as the Aadhaar bridge exists and allows money transfers on the basis of the information stored on the phone.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

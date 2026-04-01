@@ -1,0 +1,45 @@
+Google has released its Safety Charter for India, highlighting how artificial intelligence (AI) tools are helping to curb the issue of cyberattacks and scams, according to a blog post by the tech giant. It also noted how AI is eliminating vulnerabilities in company software, including various ways in which the new technology is “closing the gap between attackers and defenders.”
+
+The US-based tech company highlighted, under Content Responsibility, how its SynthID technology is helping in identifying AI-generated content on its platforms by embedding a digital watermark directly into the content. Ironically, YouTube, a Google-owned platform, recently started testing an AI-generated video overview feature, but the company was silent on the identification of these snippets.
+
+Additionally, the company revealed the number of web pages its Large Language Model (LLM) has blocked. It also said that its AI-powered scam detection feature is currently blocking about 500 million suspicious Google Messages on a monthly basis.
+
+In the blog post, Google called the charter a “blueprint for tackling the online world’s new challenges.” On responsible AI, the company said that it is investing in AI-powered tools like SynthID to make synthetic content easily identifiable. The tool has been able to watermark over 10 billion pieces of content already, the tech giant claimed.
+
+In August 2023, Google DeepMind launched SynthID, a tool for watermarking and identifying synthetic or AI-generated images. “This technology embeds a digital watermark directly into the pixels of an image, making it imperceptible to the human eye but detectable for identification,” the US-based tech company said.
+
+The tool adds a hidden watermark to AI-generated text similar to a digital signature that helps in identifying the source of the content without hindering the user experience. When an AI model creates a piece of content, Google’s SynthID embeds a unique pattern of code within it, which is designed to be invisible to the users. Hence, to a lay user, the text reads like any other piece of content.
+
+A user, if they wish to validate the originality of the text, can feed the same into another tool that can read this embedded code or watermark.
+
+While unveiling the safety charter for India, Google said that it also requires creators to disclose AI-generated content on YouTube and label synthetic images in Google Search. Its ‘double-check’ feature in Gemini helps users identify potentially inaccurate statements by quickly cross-referencing with Google Search.
+
+Although the tech giant is talking about responsible AI, its recent announcement partially contradicts this stance. In April 2025, YouTube started testing its AI-generated video overview tool, which creates a scrollable carousel of short video clips that show up in a user’s YouTube search results. This allows them to quickly browse AI-selected snippets that the system deems most relevant, rather than having them click into a full video. However, YouTube did not mention whether these synthetic videos will be watermarked as well or whether it will disclose the origin of such AI-generated video snippets.
+
+The feature also triggered a debate around copyright issues related to the same. India’s Copyright Act grants creators exclusive rights. But the fair-dealing exception only covers objectives such as research, review, private study, or news reporting. Hence, the same might not apply to commercial discovery snippets like these AI-generated previews.
+
+In the blog post, the tech giant also revealed the impact AI-powered tools have in curbing cyberfraud and scams. According to the company, the DigiKavach campaign, launched in 2023, reached 177 million users. On top of this, in 2024, Google removed 247 million ads and suspended 2.9 million accounts for violating Google ads policies, which the company claims has “dramatically reduced fraudulent financial ads.”
+
+The tech giant said that with the integration of “advanced AI, including LLMs,” it now catches 20 times more “scammy pages.”
+
+“Globally, targeted protections have slashed attacks like impersonating customer service or government sites by over 80% and 70% respectively,” as per the blog post.
+
+Globally, Google Play Protect , a tool that checks apps and devices for harmful behaviour, scans over 100 billion installed apps daily for malware, the tech company revealed.
+
+In India, since its Play Protect pilot rolled out in October 2024, the tool has blocked nearly 6 crore attempts to install high-risk apps and stopped more than 220,000 unique apps on over 13 million devices.
+
+The company displayed about 4.1 crore warnings against transactions suspected to be potential scams.
+
+Similarly, on its email service, the company claims to block more than 99.9% of spam, phishing, and malware globally.
+
+In April 2025, the Ministry of Electronics and Information Technology (MeitY) launched India’s first Digital Threat Report, 2024 . In the report, MeitY pointed out that cybercriminals are increasingly using AI-powered tools to exploit vulnerabilities in the cybersecurity systems of financial firms.
+
+According to the report, the average cost of a data breach reached an all-time high of $4.88 million globally in 2024, up 10% from 2023, while in India, it was $2.18 million. It said that AI-driven cyberattacks will become one of the most “scalable and adaptable threats” by 2025, challenging traditional defences and requiring innovative countermeasures.
+
+Hence, collaboration between private players and the government is important for curbing cyberattacks and scams as bad actors start adopting more sophisticated methods to lure the vulnerable people. Google’s Safety Charter for India might help pave the way for a more secure internet for Indian citizens.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

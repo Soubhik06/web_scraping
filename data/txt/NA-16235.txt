@@ -1,0 +1,65 @@
+SUBREDDIT: r/india
+TITLE: RBI is piloting an "eRupee". Here's a fun read about how this plays into the banking system
+DATE: 2022-12-11
+SCORE: 18
+URL: https://www.reddit.com/r/india/comments/zimslo/rbi_is_piloting_an_erupee_heres_a_fun_read_about/
+
+--- POST TEXT ---
+
+*First published this on my newsletter Boring Money. Do visit the original link and subscribe if you like read this! I write about finance in India in a way that's fun and enjoyable but doesn't dumb down the subject matter. Finance can be fun!*
+
+[*https://boringmoney.substack.com/p/rbi-cbdc-erupee*](https://boringmoney.substack.com/p/rbi-cbdc-erupee)
+
+\--
+
+A quirky aspect of modern financial systems is that it is incredibly difficult to hold cash as *cash*. Sure, you could withdraw ₹10,000 ($120) and keep it in your wallet. But make that ₹10 crores ($1.2 million) and the only acceptable way to store this cash is in shady suitcases. Possible, yes, but extremely inconvenient.
+
+The way modern financial systems work is that any money you deposit in your bank account is no longer *cash* but an obligation. From the bank to you. You’re really loaning money to your bank in return for which the bank pays you some interest. Your bank then uses your deposits to make loans to *its* customers and gets some interest from them. There is obviously a risk here, even if small. If the bank’s customers don’t pay back, your deposits could be at risk. Your bank *could* go bust. It’s the regulator’s, the RBI’s, job to ensure this doesn’t happen. And if it does happen, to figure a workaround—but it could definitely happen! \[1\]
+
+Which is why, in theory, money as deposits in your bank differs from cash in your hand. Physical cash is also an obligation—but from the RBI to you. Even if all banks went bust, RBI’s promise to you would still stand and you can get your money’s worth \[[2](https://boringmoney.substack.com/p/rbi-cbdc-erupee#footnote-2)\].
+
+All of this is fascinating but also pointless in any well-functioning financial system. Scheduled banks in India aren’t going bust overnight. And when they’ve done, the RBI has handled the situation [reasonably well](https://www.thehindu.com/business/Industry/yes-bank-in-rbi-bailout-sbi-to-pick-up-49-stake-for-2-450-crore/article61965997.ece) and customers [haven’t lost money](https://indianexpress.com/article/business/banking-and-finance/lakshmi-vilas-bank-depositors-money-safe-says-rbi-appointed-administrator-7056078/). For all practical purposes, having that digit show up in your bank account is as good as holding physical cash in your hand. Just a lot more convenient!
+
+If you’ve kept up with the news the last month and half, you’d know that the RBI is [now piloting ways to store ](https://economictimes.indiatimes.com/wealth/save/rbi-retail-digital-rupee-pilot-starts-on-december-1-can-you-use-e-rupee/articleshow/95906930.cms)[*cash* ](https://economictimes.indiatimes.com/wealth/save/rbi-retail-digital-rupee-pilot-starts-on-december-1-can-you-use-e-rupee/articleshow/95906930.cms)[digitally](https://economictimes.indiatimes.com/wealth/save/rbi-retail-digital-rupee-pilot-starts-on-december-1-can-you-use-e-rupee/articleshow/95906930.cms). It calls this the eRupee or e₹, a digital form of the rupee itself. This differs from money in your bank account in the manner that I described above. If you have ₹100 in your bank account and convert it to e₹100[3](https://boringmoney.substack.com/p/rbi-cbdc-erupee#footnote-3) this is what happens behind the scenes:
+
+1. Your bank opens its ledger and deletes its debt obligation to you (deposits are loans from you to the bank!)
+2. The bank digs out its stash of eRupees that it’s stored on a hard disk somewhere. The RBI has given the bank “eRupees” just as it gives the bank physical rupees
+3. Bank hands over the eRupees to you in your e-wallet! Just like it does with cash. The bank has nothing to do with your money now and your relationship is directly with the RBI, who has “printed” these eRupees
+
+Again, if you’re in a sound financial system, you don’t really care if you have cash or a debt obligation from a bank. The RBI is finding it difficult to answer why the eRupee is needed when nearly instantaneous digital payments already exist. From [Bloomberg Quint](https://www.bqprime.com/business/how-is-e-rupee-different-from-upi-rbi-explains):
+
+&gt;The e-rupee, India's CBDC, will distinguish itself from the UPI in the way transactions move between two parties, according to RBI Governor Shaktikanta Das. While the UPI involves the movement of funds between two bank accounts, the CBDC will instead move funds from one party's wallet—on their mobile phone—to the other's, he said. 
+"There is no routing, and there is no intermediation by the bank," Das said during the press conference after the monetary policy announcement. While banks will issue the CBDC to the users, they won't be involved in the transaction, as opposed to the UPI, which requires the transmission of messages between the payment platforms and banks. 
+**"E-rupee is money. UPI is a payment method**," said Reserve Bank of India Deputy Governor T. Rabi Sankar. It's possible for two private parties to provide wallets, and money can move between those, he said, adding that it wouldn't be possible using the UPI. "We'll set up the base system, and then the private sector can innovate."
+
+“E-rupee is money. UPI is a payment method,”… umm, okay. If I’m waiting in line waiting to buy apple juice, should I care?
+
+**Incentives, utility, or neither?**
+
+If you’re a bank, what you care about most is getting your customers to deposit money (that is, loan you money). You pay them a small interest and in turn lend out money for a much higher interest rate. That’s your entire business model. Ideally, your customers would just put tons of money and let it sit there untouched.
+
+But that’s far from what customers want from banks—they also want to transfer money around to pay for stuff. Which is fine! If you make it easy and seamless for your customers to make and receive payments, it’s a good thing. Your customers will be moving money across banks but the money will be *inside* the system. If one of your customer is paying someone from another bank, then there’s another receiving money. At the end of the day it doesn’t matter because it evens out. The money’s in the system!
+
+With the eRupee, that changes. Customers can make payments back-and-forth without banks coming into the picture. This isn’t good for banks—they need those deposits to be in the system!
+
+But also, what’s in it for the customer? If I can buy my apple juice without visiting an ATM… that’s good enough for me?
+
+Something that keeps coming up when the RBI speaks about the benefits of the eRupee is that it will help with financial inclusion. The story goes that holding money digitally is good and convenient. But no matter how hard everyone tries a large chunk of India’s population wants little to do with banks and continues using cash.
+
+It’s hard to imagine a scenario where people who’ve been averse to bank accounts suddenly decide to lose their inhibition to technology and financial systems because… the money in your bank account is a debt obligation while the eRupee comes directly from the RBI. People who like cash like it *because* it’s not digital. Cash is nice to touch, feel, and hold. You can stash it in your wallet or inside your mattress, if that’s your thing. It’s not a number on your screen that can disappear with an accidental press of a button.
+
+Of course, others like cash not because it’s nice to hold but because it’s difficult to trace[4](https://boringmoney.substack.com/p/rbi-cbdc-erupee#footnote-4). I don’t even mean like terrorists and stuff. Small businesses love cash because it lets them get away from paying tax. Would the eRupee allow people to commit tax fraud? I feel that this is an important use-case that the RBI needs to replicate with the eRupee if it wants adoption. “Commit tax fraud, just do it digitally!” sounds like a good pitch[5](https://boringmoney.substack.com/p/rbi-cbdc-erupee#footnote-5).
+
+*If you liked reading this do visit the original link and subscribe!* [*https://boringmoney.substack.com/p/rbi-cbdc-erupee*](https://boringmoney.substack.com/p/rbi-cbdc-erupee)
+
+Footnotes
+
+[1](https://boringmoney.substack.com/p/rbi-cbdc-erupee#footnote-anchor-1) The first couple of paragraphs here have been heavily inspired from Matt Levine. But then again, this whole newsletter is. He wrote about central banks’ interest in digital currencies [here](https://boringmoney.substack.com/publish/post/88990958#footnote-1).
+
+[2](https://boringmoney.substack.com/p/rbi-cbdc-erupee#footnote-anchor-2) I get a bit scared to say this after demonetisation.. so now even this comes with a caveat.
+
+[3](https://boringmoney.substack.com/p/rbi-cbdc-erupee#footnote-anchor-3) I *hated* myself for typing “e₹”. It brought back nightmares of studying physics back in the day. (“eV” or electronvolt is a measure of energy.) The first time I saw it on my screen I had to make sure it wasn’t a typo.
+
+[4](https://boringmoney.substack.com/p/rbi-cbdc-erupee#footnote-anchor-4) The RBI promises a degree of anonymity but there is no way any digital currency issued by a central bank can be as anonymous as cash. That’s the entire point of a central bank-issued digital currency! Cash has spent too long being used for unpleasant things and digital payments reduce these unpleasant things precisely because they’re not anonymous. Yeah, the RBI might bring *some* anonymity to it. Maybe banks and fintech startups won’t be able to use your data to figure how often you travel or which restaurants you visit, but that’s as far as it’s going to get.
+
+[5](https://boringmoney.substack.com/p/rbi-cbdc-erupee#footnote-anchor-5) Another way to increase adoption is, of course, by force. [Nigeria’s trying it](https://www.bloomberg.com/news/articles/2022-12-06/nigeria-limits-cash-transactions-to-push-enaira-and-other-payments). Wonder how this plays out.

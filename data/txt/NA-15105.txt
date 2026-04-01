@@ -1,0 +1,43 @@
+In response to unstarred question 4589 in the Rajya Sabha, by Derek O’Brien about “Incidents of breach of Aadhaar data”, Minister of State for Electronics and Information Technology, K. J. Alphons has denied any leaks and breaches of the Aadhaar database and provided information about how the database is secured.
+
+Derek O Brien had asked:
+
+Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:
+
+To this, K. J. Alphons has replied:
+
+(a): As on date, no incident of data breach has been reported from Central Identities Data Repository (CIDR) of Unique Identification Authority of India (UIDAI).
+
+(b) and (c): Do not arise in view of (a) above.
+
+(d): UIDAI has a well-designed, multi-layered robust security system in place and the same is being constantly upgraded to maintain the highest level of data security and integrity. UIDAI has adequate legal, organizational and technological measures in place for the security of the data stored with UIDAI. Data Protection measures have also been mandated for the requesting entities and ecosystem partners to ensure the security of data. Government is fully alive to the need to maintain highest level of data security, privacy and is deploying the necessary technology and infrastructure. The architecture of Aadhaar ecosystem has been designed to ensure non-duplication, data integrity and other related management aspects of security & privacy in Aadhaar database. Additionally, various policies and procedures have been defined clearly which are reviewed and updated periodically, thereby, appropriately controlling and monitoring security of data. Some of the security measures adopted by UIDAI are as under:
+
+• Information security policy has been established based on the ISO 27001:2013 standard. The policy covers all areas of Information Security such as Organization of Information Security, Asset management, Access control, Technical vulnerability management, Change management, Patch management, Encryption, Service continuity, Operations security, Communications security, Supplier security, Human resources security etc.
+
+• Chief Information Security officer has been appointed to drive Information security measures in UIDAI along with a dedicated security team to implement the various security processes and technology to ensure security of CIDR.
+
+• UIDAI-CIDR is ISO 27001:2013 certified since 2015 and since then undergoes through yearly surveillance audits from STQC.
+
+• GRCP-SP (Governance, Risk, Compliance, Performance service provider) has been appointed to perform periodic monitoring of the security of internal and external ecosystem.
+
+• The security audit of UIDAI is conducted by three separate entity viz. Internal, External (GRCP) and STQC on a periodic basis.
+
+• Periodic assessments are conducted for the ecosystem partners to ensure compliance on the Information Security policy.
+
+There are multiple layers of security at physical level in UIDAI Data Centres and is being managed by armed CISF personnel round the clock. Strengthening of security of data is an ongoing process and all possible steps are being taken in this regard. Further, Chapter VI (Protection of Information) of the Aadhaar (Targeted Delivery of Financial and other Subsidies, Benefits and Services) Act, 2016 (“The Aadhaar Act”) and the Aadhaar (Data Security) Regulations, 2016 framed there under, have been specifically drafted keeping in account the various security requirements in respect of data collected by UIDAI.
+
+(e): The Aadhaar Act, 2016 and subsequent regulations framed thereunder, have adequate safeguards. Sharing of information or seeding of Aadhaar information with the authorised agencies is governed as per the provisions of the Aadhaar Act 2016. Section 29 (1) of the Aadhaar Act 2016 read together with Regulation 3(1)of the Aadhaar (Sharing of information) Regulations, 2016 categorically states that no core biometric information, collected or created under the Aadhaar Act, shall be shared with anyone for any reason whatsoever; or used for any purpose other than generation of Aadhaar numbers and authentication under the Act. Also, Regulation 4(1) of the Aadhaar (Sharing of information) Regulations, 2016 provides that core biometric information collected or captured by a requesting entity from Aadhaar number holder at the time of authentication shall not be shared for any reason whatsoever.
+
+Regulation 4(2) of the Aadhaar (Sharing of information) Regulations, 2016 provides that identity information available with a requesting entity shall not be used for any purpose other than that specified to the Aadhaar number holder at the time of submitting identity information for authentication and shall not be disclosed further without the prior consent of the Aadhaar number holder. Further, Regulation (5) of the Aadhaar (Sharing of information) Regulations, 2016 ensures the responsibility of any agency or entity other than requesting entity with respect to Aadhaar number and subsequent Regulation (7) states that any contravention of the abovementioned regulations shall constitute a violation of sub-section (2) of Section 29 of the Act.
+
+Section 30 of the Aadhaar Act, 2016 applies the rigours of the IT Act, 2000 and the rules thereunder whereby ‘Biometric information’ is deemed to be ‘sensitive personal information’. Additionally, Chapter VII of the Act lays down monetary penalties and imprisonment for unauthorized sharing of residents’ identity information. Any violation to the provisions of the Aadhaar Act, 2016 is a criminal offence.
+
+While it is now routine for the government to deny leaks and breaches of data, it has become a matter of how a leak or breach is defined. For practical purposes of security, any data arising from the Aadhaar database and being accessible to unauthorized persons is a leak or a breach, depending on the manner in which it was accessible to unauthorized persons. However, the government appears to describe Aadhaar security strictly as a breach of the CIDR and while information on the CIDR is not directly accessed or leaked, it continues to deny breaches.
+
+This approach remains an irresponsible one on matters of security. If Aadhaar data is reliably accessed by unauthorized persons, it carries all the risks of the actual database being breached from the perspective of persons whose data has been rendered vulnerable. A secure system cannot simply depend on one of the elements of it being secure. Whether the unauthorized access is through an SRDH or a KUA or through other means, like stored cards on the laptops of Aadhaar operators or the use of duplicated biometrics and patched enrollment software allowing unauthorized persons the access to login using authorized accounts, the end result remains the same for the persons whose information has been leaked/breached.
+
+Repeated government failure to recognize this does not bode well for the security of the information of the citizens that it controls.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

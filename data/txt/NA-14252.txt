@@ -1,0 +1,33 @@
+A United States-based digital forensics firm has found that a malware was installed on prison rights’ activist Rona Wilson’s computer, two years before he was implicated for allegedly plotting to assassinate the Prime Minister and overthrow the government. Investigative authorities arrested several activists and academics based on incriminating letters that they found on Wilson’s computers. The activists were allegedly responsible for violence that took place three years in Pune in what has come to known as the Bhima Koreagaon case.
+
+The forensic investigation by Massachusetts-based firm Arsenal Consulting found that Wilson’s computer was compromised for 22 months, which meant that the attacker had “extensive resources (including time) and it is obvious that their primary goals were surveillance and incriminating document delivery. The malware used by the attacker was deployed over the court of four years to not only attack and compromise Wilson’s computer but to attack his c0-deffendants in the Bhima Koregaon case, the report said. Arsenal has not named the attacker.
+
+“It should be noted that this is one of the most serious cases involving evidence tampering that Arsenal has ever encountered, based on various metrics which include the vast timespan between the delivery of the first and the last incriminating documents,” —Arsenal Consulting.
+
+Arsenal’s findings was first reported by the Washington Post, and confirms an earlier report by The Caravan magazine in March last year which found that a malware on Wilson’s computer had delivered the incriminating documents detailing a plot to overthrow the government. A copy of the report was made public on Bar and Bench .
+
+The firm found that 10 incriminating letters, the “top” incriminating documents cited by investigative authorities, that detailed a conspiracy to wage violence against the government, had been planted in an hidden folder on Wilson’s computer. These documents would be used by investigative authorities to charge Wilson and fellow human rights activists with serious crimes against the state. WaPo, on its part, got Wilson’s hard drive analysed by three outside experts, all of whom concluded that Arsenal’s finding were valid.
+
+The Pune Police seized Wilson’s computer in 2018, when they arrested him and others. Wilson’s lawyers approached the America Bar Association (ABA) to help with a forensic analysis of his computer. Arsenal received an electronic copy of the computer at the request of the ABA and began its work from July 31, 2020 onward. The hard drive copy contained several forensic images and police work related to Wilson, it said.
+
+Three years ago, violence broke on Janaury 1, 2018 following the Elgar Parishad conclave which was held on the previous day at Shaniwar Wada in Pune to commemorate the 200th anniversary Bhima Koreagaon war. In response, the Pune Police arrested several prominent human rights activists including Wilson, Sudhir Dhawale, Surendra Gadling, Shoma Sen, Mahesh Raut in June 2018.
+
+By December that year, it filed a chargesheet against the activists for allegedly having “active links” with the banned Communist Party of India (Maoist) and plotting to assassinate the Prime Minister. In February 2019, the Pune Policy filed a supplementary chargesheet against several other activists like Sudha Bharadwaj, Varavara Rao, Arun Ferreira, Vernon Gonsalves and banned Communist Party of India (Maoist) leader Ganapathy, for allegedly spreading Maoist ideology and “waging war against the nation.”
+
+Following the state elections in Maharashtra in 2019, replacing the incumbent Bharatiya Janata Party with a coalition government led by the Shiv Sena, the central government led by the BJP transferred the case to the National Investigation Agency (NIA) in January 2020. The activists arrested in connection with the case have been in jail for two years without a trial under the Unlawful Activities (Prevention) Act. They have resolutely maintained that the charges against them are ‘baseless and fabricated’.
+
+The NIA said that electronic evidence recovered from Wilson’s devices were sent to the Forensic Science Laboratory (FSL) for analysis, based on which it found the “incriminating” documents were found on the devices.
+
+In June 2020 , Amnesty International and University of Toronto-based Citizen Lab found that at least 9 activists were targeted in a coordinated campaign using the NetWire Trojan. The emails sent to deploy the Trojan targeted specific human right activists related to the Bhima Koregaon case. Three of them were in addition to others’ involved in the case were previously also targeted through WhatsApp, with a spyware called Pegasus which was developed by the Israel-based NSO Group.
+
+Speaking to NDTV , Arsenals’ President Mark Spencer said that it did not take them very long to figure out something very bad had occurred. “It is not unusual for a computer to be compromised over a long period of time, but to have incriminating documents that are dropped over time onto a computer by the NetWire remote access Trojan that is unprecedented. It is not something we have heard of before,” he said.
+
+In the wake of the firms’ findings, Wilson has moved the Bombay High Court to quash the charges against him, Bar and Bench reported . He has sought the court’s direction to appoint a Special Investigation Team (SIT), consisting of experts in digital forensic analysis to independently verify Arsenals’ findings probe the alleged the planting of documents on his computer by using malware.
+
+Also Read
+
+***Correction (6:35 PM, February 11): Changing the word ‘comprised’ to ‘compromised’ in the headline. Originally published at 6:30 PM, February 11.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

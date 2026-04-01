@@ -1,0 +1,69 @@
+Yesterday, 20 NGOs participating in the ongoing United Nations talks on developing an international cybercrime prevention treaty issued a joint statement calling for the latest draft treaty to be rejected due to insufficient human rights safeguards. “We believe that if the text of the Convention is approved in its current form, the risk of abuses and human rights violations will increase exponentially and leave us with a less secure internet,” the statement signed by the likes of Access Now, Electronic Frontier Foundation, and Human Rights Watch claimed. Multiple civil society organisations also supported the statement.
+
+The development comes just days before the final session of the United Nations Ad Hoc Committee, which has been discussing the draft treaty since 2022. The final meeting will be held from January 29th to February 9th in New York.
+
+“As the UN Ad Hoc Committee convenes its concluding session, we call on state delegations to redouble their efforts to address these critical gaps in the current draft,” the statement added.Â “The final outcome of the treaty negotiation process should only be deemed acceptable if it effectively incorporates strong and meaningful safeguards to protect human rights, ensures legal clarity for fairness and due process, and fosters international cooperation under the rule of law. The proposed Convention must not serve as a validation of intrusion and surveillance practices harmful to human rights. Absent these minimum requirements, we call on state delegations to reject the draft treaty and not advance it to the UN General Assembly for adoption.”
+
+Why does this treaty matter? : The Internet has only exaggerated the scale of cybercrime across the world. However, international cybercrimes can often be difficult to prosecute for individual countriesâdata protection and criminal laws differ from state to state, making international cooperation between investigating agencies a long-drawn process.
+
+For example, India has participated in the United Nations Ad Hoc Committee proceedings too, proposing various ideas to help solve cybercrime-related investigation issues. Speaking at MediaNama’s PrivacyNama conference in 2022, researcher Sukanya Thapliyal explained how this works:
+
+âIndiaâs interest in jurisdiction issues and [cross-border data flows] is rooted in its inability to access data located elsewhere, as well as the inefficiencies with existing Mutual Legal Assistance Treaties…That is why India has, in its recent submission at the UN [Ad Hoc Committee], explored the idea of data-based jurisdiction, which is relatively new in this debate…This would allow a country to get hold of data located elsewhere, although it is unlikely that this proposal will be received well by other participating countries.â
+
+India’s submissions to the United Nations Ad Hoc Committee colourfully sum up the jurisdictional issues it faces when investigating cybercrimes:
+
+“In the current day scenario, the classical Westphalian model-based jurisdiction does not hold good in cyberspace especially involving cloud resources that result in jurisdictional nightmare. An example of a typical scenario may involve a cybercrime executed involving the processing power in the cloud originating from one country; the storage aggregation at another country; with the cloud service provider registered in a third country and the user (the victim and the attacker) whose data is being held by the service provider may be the resident of a fourth country. Clearly in such situation, it is extremely difficult to ascertain Jurisdiction based on the classical territorial models.”
+
+In that light, this treaty can help harmonise efforts to counter international cybercrimes amongst signatory states. Yet this optimism should be tempered with caution, as Chatham House explains Â citing concerns corroborated in the joint statement as well:
+
+“Once the UNGA adopts the convention, a new global treaty addressing cybercrime with universal adoption across the entire UN Membership will have a significant impact for users of information and communications technologies (ICT). It would therefore bring greater security at national, regional and international levels. In particular, the convention aims to harmonise national approaches in fighting cybercrime and enhance international cooperation between states through developing clearer frameworks for investigation and cross-border data exchange.Â At the same time, the convention will have far-reaching consequences for related fields such as cybersecurity research, data protection and privacy, and enforcement.”
+
+The issue :Â The civil society groups argued that the range of cyber-activities criminalised under the current draft remains “over-broad”.
+
+Articles 6 to 16 of the draft treaty cover international offences like: illegally accessing a computer device, illegally intercepting digital information, interfering with digital information and computer systems (like damaging or altering either types), misusing devices to commit offences, computer-related forgery, computer-related theft or fraud, transmitting child sexual abuse material and grooming children for this offence, non-consensual dissemination of intimate images, and laundering criminal proceeds.
+
+Various cyber-enabled and content-related offences under the draft also stand compromised by Article 17, which states that parties should adopt domestic legislative measures to ensure that offences under applicable international conventions and protocols are also applicable when committed using a computer device. The stakeholders flagged that this open-ended-ness could be used to criminalise legitimate speech online, with discriminatory effects down the line.
+
+The recommendation : The treaty’s scope should be narrowed to cyber-dependent crimes, which should be defined and included in the draft.
+
+The issue : The draft treaty doesn’t include explicit language that protects these stakeholders from excessive criminalisation, the civil society groups argued. From our reading of the treaty, we couldn’t identify specific references to these professions either, although there were larger generic promises to uphold human rights.
+
+The recommendation : Include provisions to ensure that these professions are not prosecuted for “legitimate activities”. Public interest activities should be protected too.
+
+The issue : The draft treaty places only a few explicit and weak obligations to respect and protect human rights on party states, and has insufficient references to states’ larger human rights obligations under international law.
+
+From our reading of the draft, human rights are only mentioned a handful of times in broad terms. For example, the preamble to the draft treaty affirms that states are “mindful of the need to achieve law enforcement objectives and to ensure respect for human rights and fundamental freedoms as enshrined in applicable international and regional instruments”. Article 5 adds that state signatories should “ensure that the implementation of their obligations under this Convention is consistent with their obligations under international human rights law”.
+
+A more explicit reference is found in the treaty’s provisions on prosecution and sanctions, where Article 21(4) holds that “each State Party shall ensure that any person prosecuted for offences established in accordance with this Convention enjoys all rights and guarantees in conformity with domestic law and consistent with the obligations of the State Party under international human rights law, including the right to a fair trial and the rights of defence”.
+
+Similarly, a provision on including safeguards and conditions under treaty-related prosecution processes adds that they should be “subject to conditions and safeguards provided for under its domestic law, which shall be consistent with its obligations under international human rights law, and which shall incorporate the principle of proportionality [emphasis added]”.
+
+The recommendation : The civil society groups argued that the draft text should include explicit data protection and human rights standards applicable to the entire treaty.Â These standards should include principles of non-discrimination, legality, legitimate purpose, necessity, and proportionality. Explicit safeguards should also be included, especially in the case of sharing and accessing data, and cross-border international investigations. These could include prior judicial authorisation (presumably to request and access the data in question).
+
+The issue : The civil society groups held that the draft text lacked “effective gender mainstreaming”, which is “critical to ensure the Convention is not used to undermine people’s human rights on the basis of gender”.
+
+Somewhat counterintuitively , the preamble to the Convention sees party states “affirming the importance of mainstreaming a gender perspective in all efforts to prevent and combat the offences covered by this Convention”.
+
+Despite this, from our reading of the text, explicit references to gender appear only twice afterwards. First, in a provision on assisting the victims of offences under the treaty, where state “shall take into account the age, gender and the particular circumstances and needs of victims, including the particular circumstances and needs of children”. Second, in a provision on preventive measures states can take to reduce cybercrimes, like “developing strategies and policies to prevent and eradicate gender-based violence that occurs through or is amplified by the use of information and communications technologies”.
+
+The recommendation : Unsurprisingly, the groups sought that gender be mainstreamed across the treaty, including each article.
+
+The issue : The civil society groups found that the treaty’s provisions on creating regimes for data storage and sharing “undermine trust in secure communications and infringe on international human rights standards, including the requirements for prior judicial authorization and the principles of legality, non discrimination, legitimate purpose, necessity, and proportionality”.
+
+From our reading of the bill, Article 25 may be an example of thisâwhile it lays out provisions on stored computer data and information, it lacks explicit references to the kinds of principles requested by the groups:
+
+“Each State Party shall adopt such legislative and other measures as may be necessary to enable its competent authorities to order or similarly obtain the expeditious preservation of specified…[information], including traffic data, content data and subscriber information…stored by means of [a computer system] [an information and communications technology device], in particular where there are grounds to believe that the [computer data are] [digital information is] particularly vulnerable to loss or modification.”
+
+The recommendation : The groups requested that the scope of international cooperation and procedural investigations be limited to the crimes explicitly mentioned in the treaty (and discussed earlier in the story).
+
+The issue : The civil society groups argued that overall, the treaty allows for “excessive information sharing” between law enforcement authorities. This sharing lies beyond the scope of investigating specific criminal issues, and lacks data protection and human rights safeguards too.
+
+The recommendation : “Avoid endorsing any surveillance provision that can be abused to undermine cybersecurity and encryption,” the groups concluded.
+
+Read more
+
+STAY ON TOP OF TECH NEWS:Â Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. ClickÂ here Â to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

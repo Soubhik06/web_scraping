@@ -1,0 +1,23 @@
+Swiggy suffered two incidents of data breach attacks in the last two years, as per the company’s Draft Red Herring Prospectus (DRHP) report. The company also said that its platform and back-end infrastructure may be vulnerable to cyberattacks and security breaches, including social engineering, denial of service, credential stuffing, ransomware, other malware, and third-party access to data.
+
+“Employee error, malfeasance, or other errors in the storage, use or transmission of any of these types of data could result in an actual or perceived privacy or security breach or other security incident,” said the report. What’s interesting is that the company asserts greater collection of personal data despite the cyberattacks listed below.
+
+In September 2022, Swiggy approached the Indian Computer Emergency Response Team (“CERT-In”) when a change in the company’s existing technical infrastructure resulted in few customers being able to see the last four digits of the card details and/or a portion of the UPI handle of other customers. As per the report, the company did not suffer adverse impacts on operations due to the incident.
+
+Earlier in 2018, data buckets from Swiggy containing personal information made their way to a third-party website grayhatwarfare. However, the company dismissed it, saying the documents were ‘dummy letters’.
+
+In the second data breach incident, a former Swiggy employee fraudulently gained unauthorised access to the company’s test systems in February 2023. The cyberattack was confined to the testing systems alone and the company filed an FIR against the ex-employee.
+
+“Any perception that our security measures are inadequate could lead to loss of user, restaurant partner, merchant partner, brand partner and delivery partner confidence in, or decreased use of, our platform, any of which could adversely affect our business, financial condition and results of operations. Further, any cyberattacks, or actual or perceived breaches or other incidents directed at, or suffered by, our competitors could reduce confidence in our industry as a whole and, as a result, reduce confidence in us,” said Swiggy.
+
+Swiggy reported how CERT-In reached out to the company in March 2024 regarding a potential data leak at one of the locations of a third-party service provider. However, the relevant third-party stated that Swiggy’s data was not maintained on the impacted server and as a result, no data pertaining to Swiggy was compromised.
+
+Despite past incidents, Swiggy stated that the collection of user’s personal data will continue to grow.
+
+“We will collect, store and process the personal data of more individuals. The more personal data we hold, the greater the likelihood that a significant failure in our internal controls or data security measures could result in a data breach affecting more individuals, which could expose us to greater potential liability through fines and compensation claims, significant reputational harm and a loss of trust that could deter users from using our platform,” said the company.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

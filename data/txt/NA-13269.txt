@@ -1,0 +1,27 @@
+On December 12, MediaNama organised a discussion on the Department of Telecommunications’ (DoT) recent directive mandating continuous SIM–device binding for app-based communication platforms, including WhatsApp and Telegram. The directive requires the physical presence of a SIM card for continued access to messaging services and seeks to address cyber fraud linked to the misuse of mobile numbers.
+
+The discussion examined how the mandate affects multi-device usage, automation workflows, and cross-border account access, and whether it effectively addresses prevalent fraud vectors such as phishing, OTP theft, caller ID spoofing, SIM swaps, and VoIP-based impersonation. Participants also assessed the implications of the directive for user experience, platform operations, and business communication workflows. The session further focused on the policy rationale behind the directive, its technical feasibility within existing operating system constraints, and its broader impact on social media and app-based communication services.
+
+Our objective was to:
+
+Download the report here .
+
+India’s Department of Telecommunications (DoT) has issued a directive mandating continuous SIM–device binding for app-based messaging platforms that use a mobile number as a user identifier. This requires the physical presence of a SIM card for continued access to certain services offered by these applications. The directive represents a significant shift in regulatory approach and has far-reaching implications for how internet-based communication platforms operate.
+
+During MediaNama’s discussion on the Impact of SIM Binding on Social Media, participants highlighted that the OS-level access required for continuous SIM verification is restricted under current iOS and Android privacy-oriented frameworks. As a result, OTP-based verification remains the only technically feasible and implementable option. However, several speakers noted that enforcing continuous OTP-based SIM binding would impose recurring costs on users, banks, and platforms, while disrupting user experience, multi-device access, automation, and enterprise messaging workflows.
+
+Speakers also questioned whether SIM binding would effectively reduce cybercrime. Many pointed out that prevalent cyber fraud mechanisms, such as phishing, OTP theft, caller ID spoofing, SIM swaps, virtual numbers, international SIMs, eSIMs, and email-based scams, would remain unaffected. In this context, participants cautioned that the directive risks displacing fraud rather than addressing its underlying causes.
+
+The discussion further raised concerns around regulatory scope and jurisdiction. Participants questioned the DoT’s use of telecom cybersecurity rules to regulate internet-based applications traditionally governed under the Information Technology Act. Speakers highlighted ambiguities around legislative competence, the expanding scope of the Telecommunication Identifier User Entities (TIUEs) framework, and the absence of a clear and intelligible criterion for platform selection and enforcement.
+
+Addressing these concerns, speakers outlined alternative approaches to fraud mitigation using telecom-based, risk-driven frameworks. These approaches emphasise probabilistic risk indicators, network-level signals, and targeted interventions in high-risk scenarios, rather than continuous, user-facing verification. Participants argued that such models would better align fraud-prevention objectives with privacy, proportionality, and operational feasibility, without the systemic costs and user friction associated with blanket SIM-binding mandates.
+
+Watch the full event video below:
+
+Note: This discussion was organised with support from Meta and Snap. Our community partners for the event were the Internet Freedom Foundation (IFF), Software Freedom Law Centre (SFLC.in) and the Centre for Internet and Society.
+
+Click here to read MediaNama’s coverage on SIM Binding.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

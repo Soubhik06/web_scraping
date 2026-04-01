@@ -1,0 +1,59 @@
+“At least the people that I’ve been speaking with are in the process of evaluating it and deploying it. So they have a lot of processes within the bank before they can actually deploy it. And one of the first challenges that I’ve heard from the financial institutions is the ability to pull data from the several data stores that they have, to collate it and to put it together before they can even deploy AI,” remarked Kiran Gopinath, the Chief Innovation Officer at Sahamati. Gopinath was discussing the state of deployment of AI in the financial services industry at MediaNama’s panel discussion event, “AI in Fintech,” held on April 24 in Bangalore.
+
+Sahamati is the industry representative body for the account aggregator industry in India. The account aggregator framework facilitates the secure and digital sharing of financial data between a customer and different financial institutions. Towards this, Gopinath explained that Sahamati is setting up a new division for AI development.
+
+“So, we’ve set up a new division called Sahamati Labs where one of our first projects is AI. And being a market alliance, being a consortium of financial institutions, everything we look at is from an ecosystem level. So the first program that we have is called Aikya , which means oneness in Sanskrit. And the whole idea is to explore and research problems that the ecosystem faces and how we could solve these at an ecosystem level. So we have about 700 entities in the ecosystem currently…. And one of the first problems that we’re looking at is fraud. And the ecosystem players have suggested that we look at identity theft as a use case to start with,” Sahamati’s Gopinath explained.
+
+Fraud detection as a use case for AI deployment ranks high even with the Reserve Bank of India (RBI) which has launched a tool called MuleHunterAI to detect and flag mule bank accounts involved in financial frauds in India.
+
+“Primary use of AI in finance is for customer relations, process automation, fraud detection, prevention, risk management, data and text analysis, and anti-money laundering,” said MediaNama Founder Nikhil Pahwa while referencing an OECD paper . The panel discussion used this as a starting point to explore how Indian financial institutions are deploying AI and what regulatory challenges may follow.
+
+Source: OECD Paper on Generative AI in Finance
+
+Prashant Singh, Head of Product at Jar, shared that the app uses AI to personalise notifications and time nudges based on behavioural patterns like small, routine transactions as part of its recommendation systems.
+
+“We are doing a lot of data crunching using algorithms and all. Essentially [analysing patterns] things like, ‘What is the best time for you to send a notification to buy gold to somebody who has bought gold worth Rs. 50 eight days back?’ And should we send [a notification for] Rs. 50 rupees or Rs. 55 or Rs. 45?” Singh explained.
+
+He then went on to explain that Jar’s algorithm is also used to crunch demographic and psychographic data which will be used to make personalised nudges. “In the same way, what is the copy which is most effective, based on the demographic and psychographic of the user? What works, what doesn’t work? We mine a lot of SMS data and we look at it and we find out, ‘Okay, you know, like this person tends to spend a lot of Rs. 18 (transactions) scattered across the 24-hour timeline of the day,’ Probably Rs 18 is his concentration threshold. Each one of us has this concentration threshold where we spend money without thinking twice. So we tend to set that as a parameter for auto-pay. We use that to trigger micro-saving nudges,” he added.
+
+In a similar vein, Kiran Nambiar, Co-founder of MyFi, described how his platform blends generative AI to power a conversational interface to its recommendation engine that tailors investment suggestions to a user’s actual portfolio.
+
+“So when you’re, let’s say you say, ‘find me tech funds,’ right? We’re not just giving you an answer on here are the tech funds, but we’re also saying, ‘Oh, your portfolio has X percentage of tech, would you like to explore this more or you’re already concentrated in this sector?’ So as you’re asking these queries, our generative AI engine is also deciding what are the other things I can call to kind of personalise the answer for the user. So we have a combination of both mutual fund stock data that we get on daily feeds and also the user’s portfolio, which is connected either through MF Central or some of these account aggregators as well. So it’s really pulling all that data and being able to give the user a more personalised answer to that question,” Nambiar explained.
+
+Speakers at the panel discussion, however, said that fintech companies are not using AI systems for credit scoring and making lending decisions at the moment. Confidence levels need to be high when real money decisions are made with AI-based lending as compared to push notifications and nudges for investing, Jar’s Singh said. He elaborated that there needs to be buy-in from the non-banking financial company (NBFC) side on the signals that fintech’s algorithms collect. “Essentially the thing with lending is you can always identify some signals based on which you can say this person is slightly more worthy of a loan. But at the end of the day, this signal should have an acceptance on the NBFC side. And they have their own parameters to go for. So unless you are willing to underwrite the risk, there is very little in this thing (algorithmic-lending),” Singh added.
+
+“For example, if you are a bill payment platform, let’s say, hypothetically, and you know somebody has been paying a bill for the past three years – Rs. 2,000 telephone bill every month – it would be a no-brainer for you to kind of give him a Rs. 50,000 loan. But the problem is you are not the one who is writing the loan. The loan book entry is maintained by an NBFC, and these NBFCs usually don’t respect this billing history …. They will say that, ‘Okay, I need this score, that score,’ you know, and then unless you [fintech] want to underwrite the risk, so that’s where the trouble comes into the paradise,” Jar’s Singh stated.
+
+Speakers also expressed concern that AI-based lending could deepen inequalities with biased data sets rather than help with financial inclusion.
+
+Sahamati’s Gopinath explained that AI models can bake in historical patterns like repeated rejections of people with certain surnames into their decision-making.
+
+“That’s actually one of the things that we were trying to explore, right? One is, in order to increase access to loan, how do we address inherent bias that exists in human decision-makers, but also if you look at the data sets, that bias gets ingrained in the data, right? So let’s say if someone with the surname ‘Pawar’ has been rejected, and there might be, let’s say a few hundred thousand of us in this country and we’ve all been rejected for loans by different bank managers…You take that data, aggregate it with Sahamati, then in the data set, that bias gets ingrained. So the question is, if you want to improve financial inclusion, how do you then address that bias in the data sets?” Gopinath explained.
+
+Vishwas Mysore, Director of Solutioning at Bureau, raised concerns that dynamic AI pricing models might exploit vulnerable borrowers by charging more not on the basis of objective creditworthiness, but based on perceived desperation or intent to pay. “Are you overcharging on the back of assessment of ability to pay? Or are you also overcharging on the back of, let’s say, intent to pay or some degree of desperation to pay, for example?” asked Vishwas Mysore.
+
+He noted that current regulations are silent on how lenders should interpret or act on credit scores, especially in pricing decisions. As a result, decisions about pricing models often fall on individual lenders, raising the risk of unregulated and potentially exploitative practices.
+
+Speakers explored how generative AI can improve inclusion by making financial content accessible in multiple languages. Singh said that there is a real use case for educating the user. “[With respect to] AI right now, we tend to kind of think in terms of recommendation engine and all. But the real problem, the real bottleneck is in education. And I think you will see a lot of use cases coming out of the education side of the user,” he added.
+
+Nambiar also explained how generative AI can improve inclusion by making financial content accessible in multiple languages. “I think with AI today, you can actually have it in whatever form (or language) that the user is comfortable with. So I just saw a post on LinkedIn where somebody went and said, it was some politician talking in English. Some guy’s gone and said, ‘Perplexity, explain this in Bengali,’ or something, and instantly, they suddenly understand everything that that person was talking about. And I really think that generative AI, with the fact that we can deploy this in multiple languages, can actually lead to a lot more inclusion, not just in finance, [but] in other aspects as well,” he said. “So I do think that there is one communication barrier and understanding barrier, and everything’s in English, most things are in English. And yes, there is regionalisation to an extent, but it’s not to the extent that it should be,” Nambiar added.
+
+As the panel discussion moved forward, there was consensus that the RBI needed to map out AI use cases in financial services to design proportional regulations. Amrita Sengupta, Research and Program Lead at the Centre for Internet and Society, pointed out that there is an information lacunae on what kind of AI use cases there are in the financial services industry.
+
+“So, I think we don’t have enough information at this point. I think what the RBI should start doing is gathering information. What we had also suggested for the health sector (in the study that CIS did) is to actually look at what are the regulations that exist. What are the use cases and how are they applicable? I don’t think there’s enough clarity within the fintech sector and across different stakeholders as to how those regulations actually apply to AI when it’s used in fintech,” Sengupta opined.
+
+Nehaa Chaudhari, Equity Partner at Ikigai Law, agreed with Sengupta and stated that the RBI should first identify what the harms are in the fintech sector.
+
+“First identify what are the harms, map them again, what are you worried about, right? Is it a use case specific risk? Do you want to come up with frameworks that apply across the board? What is it? What is it that you’re trying to solve for?” she asked other participants at the event.
+
+Watch the full event video here:
+
+This discussion was organised with support from CRED, PhonePe, RazorPay and in partnership with HasGeek, Sahamati Labs, Aapti Institute and IT For Change.
+
+Also Read:
+
+Note: This article has been written with inputs from Aakriti Bansal
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

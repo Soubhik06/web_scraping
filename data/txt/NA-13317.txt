@@ -1,0 +1,43 @@
+The Delhi High Court (HC), in a significant ruling , has held that e-KYC (electronic Know Your Customer) is mandatory for all domain name registrations in India, thereby signalling a new legal requirement for domain name registrars (DNRs) to verify the identity of online domain name registrants at the point of registration, and also periodically after that.
+
+Notably, the court issued these directions in the context of widespread misuse of internet domain names to perpetrate fraud and consumer deception. In particular, the single-judge Bench of Justice Prathiba M. Singh held that anonymous domain ownership is a key enabler of such scams. Pertinently, the court identified more than 1,100 infringing domain names during the proceedings.
+
+For context, the present case arose from a civil suit filed by Dabur India Ltd., which involved the misuse of infringing domain names to host websites impersonating well-known brands. In its 248-page judgment, the HC noted that lax identity verification by domain name registrars had enabled fraudulent operators to register and use domains for activities such as phishing, fake franchise offers, and bogus job listings. Consequently, these practices have harmed both businesses and consumers.
+
+The Delhi HC issued a comprehensive set of directions aimed at tightening accountability across the online domain name ecosystem, while also warning of legal consequences for non-compliance. To begin with, the court directed DNRs to disallow anonymous and proxy registrations, and to ensure that all registrants undergo mandatory e-KYC verification.
+
+Registrars must collect accurate, authentic, and verifiable identity information, retain IP logs, timestamps, and activity records, and must maintain this data securely. Crucially, the court held that these records must be furnished to law enforcement agencies, courts, and legitimate entities within 72 hours whenever formally sought.
+
+In parallel, the court restrained registrars from offering privacy protection by default, allowing such services only when explicitly requested by a registrant. It further prohibited the use of temporary or disposable email addresses at the time of registration and during the lifecycle of a domain name. At the registry level, the court directed operators to deploy technical safeguards, like status codes to prevent infringing domain names from being recycled or re-registered.
+
+Significantly, the court also warned that DNRs that fail to implement these due-diligence measures or comply with court orders may lose safe harbour protection under Section 79 of the Information Technology Act (IT Act).
+
+Additionally, the court suggested that the National Internet Exchange of India (NIXI) could function as a data repository for domain registration information, with domain name registrars required to maintain verified registrant details and furnish such data to NIXI within three working days whenever requested.
+
+Finally, the court granted domain-specific reliefs in the Dabur matter and extended protection to future infringing domains through a dynamic+ injunction. To explain, this type of injunction blocks not only currently infringing websites, but also any such websites that surface afterwards.
+
+In its findings, the Delhi HC bench recorded that misuse of domain names had evolved into a systemic problem, driven by gaps in verification, enforcement, and accountability across the online domain names ecosystem.
+
+The court observed that fraudulent registrants repeatedly exploited well-known trademarks to create deceptive websites offering fake distributorships, franchises, jobs, and services: thereby extracting money from unsuspecting members of the general public. Crucially, it found that these operations relied on false or unverifiable registration details, masked identities, and recycling of domain names.
+
+The court further noted that 1,132 infringing domain names had been identified across cases. Notably, no bona fide registrant came forward to claim legitimate rights over these domains, barring one or two instances.
+
+Elsewhere, in analysing the role of DNRs, the court held that many registrars did not function as passive intermediaries. Instead, it found that several registrars actively promoted alternative domain names, offered infringing domains at premium prices, and provided ancillary services such as hosting, marketing, and search engine optimisation (SEO) to illegal websites. As a result, the court concluded that such conduct materially facilitated infringement and fraud.
+
+Indiaâs internet infrastructure now includes around 4.1 million .in domain names, reflecting the scale at which businesses, creators, and individuals establish an online presence. Therefore, even small regulatory changes at the registration stage can have outsized effects, influencing costs, timelines, and behaviour across the ecosystem.
+
+The Delhi HCâs mandate for mandatory e-KYC injects some friction into a previously low-barrier process, requiring registrars to verify and retain authentic identity information before issuing a domain name, including foreign nationals who apply for Indian domain names. This is likely to raise the cost and effort of registering domains, especially in bulk, and therefore create a higher barrier for domain squatters and fraudsters who rely on anonymity and rapid automated registrations. However, integrating the e-KYC process will also increase the business costs of DNRs operating in India.
+
+Moreover, high-profile instances of cybersquatting, such as the JioHotstar.com dispute , where an unrelated individual registered a domain combining two major brands to extract value or resale leverage, underscore the persistent risk of opportunistic domain registrations.
+
+By adding identity verification and data retention, the courtâs directions could deter speculative registrations tied to trademarks and reduce legal frictions for rights holders enforcing their brands.
+
+Essentially, the new e-KYC regime is likely to slow and deter anonymous domain abuse, raise compliance costs for registrars and bad actors alike, and make enforcement smoother for rights holders and investigators navigating the domain ecosystem.
+
+Also Read:
+
+Note: This article’s headline was changed around 6 pm on December 29 to offer better clarity .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

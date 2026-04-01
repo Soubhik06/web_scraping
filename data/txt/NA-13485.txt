@@ -1,0 +1,23 @@
+A major international law enforcement operation led by the U.S. Justice Department disrupted a vast botnet known as 911 S5 that was used to facilitate a wide range of cybercrimes including fraud, harassment, child exploitation, and export violations. The alleged administrator of the botnet, YunHe Wang, 35, a Chinese national and citizen of St. Kitts and Nevis, was arrested on May 24 on criminal charges related to deploying malware to create and operate the 911 S5 network. Wang is accused of amassing a network of millions of compromised residential computers across the globe by propagating malware through virtual private network (VPN) programs and pay-per-install services that bundled his malware with other program files. The operation involved cooperation from agencies in Singapore, Thailand, and Germany.
+
+A botnet is a network of private computers that have been infected with malware and are controlled remotely by a cybercriminal or group without the owners’ knowledge or consent.
+
+According to the indictment, from 2014 through July 2022, Wang commanded approximately 150 dedicated servers worldwide, including 76 leased from U.S.-based providers, to control the infected devices. He then generated around $99 million by selling access to the hijacked IP addresses to cybercriminals, enabling them to conceal their true locations and identities while engaging in a vast array of illegal activities.
+
+Cybercriminals then used proxied IP addresses purchased from 911 S5 to conceal their true originating IP addresses and locations, and anonymously commit a wide array of offences including financial crimes, stalking, transmitting bomb threats and threats of harm, illegal exportation of goods, and receiving and sending child exploitation materials. An estimated 560,000 fraudulent pandemic unemployment claims worth over $5.9 billion originated from compromised IP addresses linked to 911 S5.
+
+FBI Director Christopher Wray said that the botnet was likely the world’s largest ever.  “We arrested its administrator, Yunhe Wang, seized infrastructure and assets, and levied sanctions against Wang and his co-conspirators. The 911 S5 Botnet infected computers in nearly 200 countries and facilitated a whole host of computer-enabled crimes, including financial frauds, identity theft, and child exploitation” he said.
+
+Wang allegedly used his illicit profits to purchase luxury assets like real estate, exotic cars, and watches across multiple countries. Dozens of assets valued at over $30 million have been seized by law enforcement. 23 domains and over 70 servers powering 911 S5 were also seized, terminating Wang’s attempt to relaunch the botnet under a new name.
+
+He is charged with conspiracy to commit computer fraud and wire fraud, plus substantive computer fraud and money laundering conspiracy counts. If convicted on all charges, he faces a maximum 65-year prison sentence. The Treasury Department has also issued financial sanctions against Wang and two associates for their 911 S5 activities, plus three entities owned or controlled by Wang.
+
+Earlier in 2020, Microsoft and its partners took down a botnet called Necurs , that affected over 9 million computers in 35 countries including India. The network operated out of Russia and was used to attack other computers on the internet, steal credentials for online accounts, and steal people’s personal information and confidential data.
+
+Google Threat Analysis reported another Russian botnet called Glupteba targeting India and other Southeast Asian countries in 2021, where threat actors stole user credentials, credit card details and mined cryptocurrencies on compromised systems.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

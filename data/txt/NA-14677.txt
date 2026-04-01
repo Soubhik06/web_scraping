@@ -1,0 +1,17 @@
+Even after the implementation of the SMS Spam Regulations, subscribers registered under DND continued to receive spam messages from International numbers or routed through international internet gateways with an alphanumeric header.Â The Telecom Regulatory Authority of India – TRAI, after receiving complaints related to the issue has now issued directives toÂ all Access Providers and International Long Distance Operators for blocking spam SMS coming from International numbers, and has asked them to implement these in the next thirty days. It has said:
+
+– All international SMS containing alphabet header or alphanumeric header or +91 as originating country code should not be delivered through the network.
+
+– If any source or number from outside the country generates more than two hundred SMS per hour with similar âsignatureâ, the same should not beÂ delivered through the network. However, such restriction shall not be applicableÂ on blackout days.
+
+– Only valid codes associated with the network of those entities with whom agreements have been signed by the Access Providers shall be allowed in the network.
+
+The authority in the directive said that it had observed that generally such SMSs were getting originated from locations within Germany, Sweden, Nauru, Fiji, Cambodia, Bosnia, Albania, Grenada, UK, Jersey, Sint Maarten, Tonga, Vanuatu, Namibia, Panama, Antigua and Barbuda and others. These SMSs contain the headers which are alphanumeric or starting with +91 or numbers with international codes.
+
+We still do not know if the solution will be accepted by telcos and whether it will be viable since they’ll need to figure out a way to distinguish spam from genuine Â SMS communication, but it’s a welcome move.
+
+What about the menace of international fraudulent calls from Pakistan, Belarus and others, about which telcos have already issued warnings? We hope the authority finds a way to tackle it soon.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

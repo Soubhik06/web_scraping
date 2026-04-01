@@ -1,0 +1,61 @@
+A consistent year on year increase in ransomware usage and the exploitation of the human element during cyber breaches have emerged as two key findings of the American communications giant Verizon’s Data Breach Investigations Report (DBIR) 2022 .
+
+The newest edition of the study has analysed 5,212 confirmed data breaches from a total of 23,896 security incidents from an array of sectors, industries and regions to conclude that not only was ransomware activity detected 25% of all documented breaches in 2021, but also 82% of these breaches exploited human errors.
+
+Human errors, particularly the misconfiguration of cloud storage networks, is another prominent reason observed last year, though Verizon notes that the pattern has leveled out in the past couple of years.
+
+It has also emerged that about 61% of the 23,000 documented incidents targeted supply chain networks. Although only 9% of all confirmed breaches successfully broke into a supply chain, the report notes that domino effects of a compromised pipeline can rake up to millions in losses.
+
+The finance, information and professional services sectors in Asia, Europe and North America have seen the most number of confirmed breaches, the report adds, while noting that the findings may not be completely accurate considering that their researchers had unequal access to regional data.
+
+Why it matters: The frequency of cyberattacks on both public and private sectors has risen exponentially in the last few years, especially during the pandemic . Cyber breaches across the globe in 2021 resulted in victim entities and individuals incurring huge financial losses, not to mention the severe violations of confidential data and privacy. To gauge the attack patterns and methods of threat actors is the key to improve existing cybersecurity measures.
+
+Never miss out on important developments in tech policy, whether in India or across the world. Sign up for our morning newsletter to experience MediaNama in a whole new way.
+
+The DBIR puts forth four key paths to an enterprise’s cyber estate in the past year: stolen credentials , phishing , exploiting vulnerabilities and malicious botnets . In order to exploit these four paths, threat actors used eight main attack patterns in 2021.
+
+Although there are some attacks which use automatic malware to seek system vulnerabilities, most of the patterns listed below have remained constant over the years and target individual employees.
+
+The report also expressed that utilising tools against the four access paths, such as deploying two-factor authentication and providing tools with password managers, can stop hackers from breaching. It concluded that the most important defense against hackers is efficiency.
+
+What is ransomware? It is a type of malicious software in which the attacker encrypts the victim’s data and key files and demands a ransom to decrypt it. This kind of attack takes advantage of human, system, network, and software vulnerabilities to infect target devices.
+
+“Ransomware alone is simply a model of monetisation of a compromised organisation’s access that has become quite popular,” the DBIR reveals, adding that ransomware was present in almost 70% of the breaches involving malware in 2021. The paper also notes that ransomware activity has seen a 13% increase from 2020.
+
+How does it operate? Ransomware operations are simple in the terms that the operator does not need to look for any specific data or credentials (eg: credit card, social security number), instead, they need to just shut down or throttle the victim’s functions or services long enough for them to come to a ransom.
+
+Verizon has identified emails (in 40% of the incidents) and desktop sharing softwares (in 35% of the incidents) as the two major routes that ransomware operators use to enter a system. The paper suggests that locking down an enterprise’s third party facing infrastructure such as remote desktop protocols (RDPs may give remote access to a PC) and emails can better safeguard these routes. RDPs and remote desktop sharing softwares were also flagged as a major concern in the previous year’s report .
+
+What is a supply chain? A supply chain is the network between a company and its suppliers to produce and distribute a specific product to the final buyer.
+
+Supply chains were the most frequently attacked domain in 2021, featuring as the target in 61% of the breaches last year and despite being a victim in 9% of confirmed breaches, there may be far wider implications of a supply chain attack.
+
+What makes a supply chain attack dangerous? In a normal hack, cyber criminals pick one company to target and find a unique way to break into that particular victim’s computer network. But during a supply chain attack, hackers infiltrate a trusted company that supplies software or IT services to many other firms. Their goal is to slip malware into the “supply chain” of software updates the company installs on its customers’ computers.
+
+Why are supply chains attacked so frequently? The singularly large scope of harm makes supply chains such an attractive target for threat actor groups.
+
+The victims of supply chain attacks have been classified into three types: primary, secondary and tertiary.
+
+The primary victims are the vendor that has been breached, the secondary victims are the users of the vendor’s supply chain and the tertiary victims are the customers of the secondary entity.
+
+For example, in the May 2021 DoS attack on Colonial Pipelines , which streams jet fuel to southwestern United States, the primary victim was the pipeline company, the secondary victims were the gas companies using its services and the tertiary victims were the airlines dependent on the fuel and their customers.
+
+State interest: Supply chains are also a preferred target for nation-state actors, the report notes. However, these actors prefer to breach and stay hidden for as long as they can, siphoning all the data that comes their way till they are detected by security.
+
+The report cites the French government’s 2021 discovery of a three-year-old ongoing Russian hack in an IT monitoring system as a prime example of a nation-motivated supply chain breach.
+
+In a finding that exposes the cost of human mismanagement, 25% of total breaches in the 2022 report were the result of social engineering attacks, proving that people remain the weakest link in an organisation’s cybersecurity defence by far.
+
+“When you add human errors and misuse of privilege, the human element accounts for 82% of analysed breaches over the past year,” the Verizon report adds.
+
+Be it weak passwords or the curiosity at seeing a message from a friend, threat actors will use all vulnerabilities to bring down a firewall. The human element is a constant vulnerability that has been repeatedly featured in the DBIR ever since the first edition came out in 2008.
+
+Since the Verizon report deals mostly with primary victims, it classifies three main ways in which the human element is fooled into getting access to their organisation:
+
+Verizon has also aligned the DBIR 2022 findings with the Center for Internet Security’s Critical Security Controls to come up with a list of security measures (or “controls”) to help organisations create safer cyber environments.
+
+Read also:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

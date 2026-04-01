@@ -1,0 +1,33 @@
+New research has found that Google has been collecting data about calls and text messages through its Android operating system.Â Google has used Android apps to export data to its servers but without informing users or obtaining their consent,Â claimed the research paper authored by ProfessorÂ Douglas J Leith, a researcher at the Trinity College of Dublin.
+
+When an SMS message is sent/received, the Google Messages app sends a message to Google servers recording this event with the time when the message was sent/received and a truncated SHA256 hash of the message text. âThe latter hash acts to uniquely identify the text message. The message senderâs phone number is also sent to Google, so by combining data from handsets exchanging messages the phone numbers of both are revealed,â the research paper read.
+
+It also said that when a phone call is made/received through the Google Dialer app, the app logs this event to Google servers together with the time and the duration of the call.
+
+It would be interesting to examine these practices through the lens of existing laws such as the European Unionâs GDPR or even Indiaâs impending data protection law.
+
+When the data is sent to Google, it is tagged with the handset Android ID which is linked to the handsetâs Google user account, which again is linked to a personâs real identity, the paper revealed.
+
+âFor example, a working phone number is required to create a Google account, and if the person has paid for an app on the Google Play store or uses Google Pay then their Google account is also linked to their credit card/bank details. In this way real-world identities of the pair of people communicating may be revealed to Google,â it said.
+
+Apart from that, the Google Messages and Dialer apps send messages to Google recording user interactions with the app, the paper said. For instance, when the user views an app screen, an SMS conversation, or searches their contacts, the nature and timing of this interaction are sent to Google allowing a detailed picture of app usage over time to be reconstructed , it added.
+
+The âSee caller and spam IDâ option is always enabled by default in the Google Dialer app. So, the paper said, when someone gets a call, the app sends the phone number of each incoming call to Google together with the time of the call.
+
+âBy combining data from handsets exchanging phone calls the phone numbers of both are therefore revealed. We note that sending of incoming phone numbers to Google is not necessary for call screening,â it said.
+
+The research said that Google Messages and Dialer apps send data to Google via two channels â Google Play Services Clearcut logger service and the Google/Firebase Analytics service. The paper noted that the data transmission is âlargely opaque, being binary encoded with little public documentationâ.
+
+With these findings, the researcher reached out to Google, who said that it â
+
+Do you want to keep track of data governance in India but donât have the time? Relying on scattered content from across the web makes it feel harder than it needs to be.
+
+Subscribe to MediaNama and get crisp, timely updates on tech policy developments in India and across the world.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.Â
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

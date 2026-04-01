@@ -1,0 +1,34 @@
+SUBREDDIT: r/india
+TITLE: VPN Regulations : Updates
+DATE: 2022-06-11
+SCORE: 197
+URL: https://www.reddit.com/r/india/comments/v9p81v/vpn_regulations_updates/
+
+--- POST TEXT ---
+
+[India says VPN firms unwilling to comply with new rules ‘will have to pull out’](https://techcrunch.com/2022/05/18/india-reiterates-its-strict-vpn-rules-breach-disclosures-despite-concerns/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAIdBid0F5B01PULGcbS9dy4Zd7LUYMk9IiHcrbxkpwxaLuYZMlW45kfmawHMA82cc67jVgbMMCdHUi3fhshnnSe9tG20IGHWe2nJSJcb1-ecaKTkFXXVivd4qD5NLMv613aeGdfvoYyHP4cc4c--P9sD4aeathtRGYz66myVjpPH)
+
+```
+Rajeev Chandrasekhar, the junior IT minister of India, said that VPN providers who wish to conceal who uses their services “will have to pull out.” He also said that there won’t be any public consultation on these rules.
+
+New Delhi is also not relaxing a new rule that mandates firms to report incidents of security lapses such as data breaches within six hours of noticing such cases.
+
+```
+
+[Surfshark VPN shuts down India servers](https://indianexpress.com/article/technology/tech-news-technology/surfshark-shuts-down-india-servers-7957885/)
+
+```
+“In response to the new Indian data regulation laws, Surfshark is shutting down its servers in India. The new laws require VPN providers to record and keep customers’ logs for 180 days as well as collect and keep excessive customer data for five years,” the company said in a blog post on Tuesday. “Surfshark proudly operates under a strict ‘no logs’ policy, so such new requirements go against the core ethos of the company”.
+```
+
+[NordVPN to remove servers from India](https://www.fortuneindia.com/enterprise/nordvpn-to-remove-servers-from-india/108542)
+```
+“The directive will come into effect on June 27. If the current Indian government's position does not change in the next couple of weeks, we will remove our servers,” Laura Tyrylyte, head of public relations at Nord Security tells Fortune India in a mailed response. “That said, we don’t see any reason to remove our infrastructure earlier than necessary. We also aim to reach out to our customers and inform them about upcoming changes prior to removal,” Tyrylyte says.
+```
+
+[MeitY to discuss new cybersecurity rules with VPN firms on Friday](https://economictimes.indiatimes.com/tech/technology/meity-to-discuss-new-cybersecurity-rules-with-vpn-firms-on-friday/articleshow/92113180.cms)
+```
+The Ministry of Electronics and Information Technology (MeitY) has invited stakeholders including virtual private network (VPN) companies, tech policy groups, legal experts, and other cybersecurity experts for a consultation on Friday to discuss various aspects of the Indian Computer Emergency Response Team’s (Cert-In) latest guidelines on cybersecurity, sources told ET.
+
+The consultation is likely to be chaired by Minister of State for Electronics and Information Technology Rajeev Chandrasekhar. It has been planned by the IT ministry in response to a joint letter sent by tech policy groups such as The Dialogue, AccessNow, Internet Freedom Foundation, SFLC.in, BSA India and others.
+```

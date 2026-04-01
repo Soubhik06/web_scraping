@@ -1,0 +1,11 @@
+In only the last 7 days, Google saw over 18 million daily malware and phishing emails related to COVID-19. This is on top of more than 240 million COVID-related daily spam messages, the company said in a blog post today.
+
+Google said that the phishing attacks and scams “use both fear and financial incentives to create urgency to try to prompt users to respond”. These scams include impersonating government organisations like the World Health Organisation to try and seek fraudulent donations, or distribute malware; attempts to capitalise on government stimulus packages; and phishing attempts aimed at workers who are working remotely.
+
+The company claimed that it could block 99.9% of these phishing, spam and malware emails from reaching its users. In addition to blocking, Google said that it worked with the WHO to implement DMARC (Domain-based Message Authentication, Reporting, and Conformance), which makes it harder for bad actors to impersonate the who.int domain, thereby preventing malicious emails from reaching the recipient’s inbox, while making sure legitimate communication gets through.
+
+Google said that in many of these instances, these threats are not new, but are existing malware campaigns that have simply been “updated to exploit the heightened attention on COVID-19”.  Upon identifying a threat, Google claimed it adds it to the Safe Browsing API, which protects users in Chrome, Gmail, and other integrated products. It further claimed that in G Suite, phishing and malware controls are turned on by default, which ensures that all G Suite users automatically have these proactive protections in place.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

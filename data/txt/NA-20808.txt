@@ -1,0 +1,107 @@
+SUBREDDIT: r/india
+TITLE: Hi, I'm a Cybersec Enthusiast. If you're a Journalist / Activist / Citizen with privacy concerns, here's a Privacy 101 for you
+DATE: 2020-10-04
+SCORE: 129
+URL: https://www.reddit.com/r/india/comments/j4woa7/hi_im_a_cybersec_enthusiast_if_youre_a_journalist/
+
+--- POST TEXT ---
+
+Hi,
+I recently went through Indian news and media. I was concerned regarding the privacy violations that are happening in India as well as the recent case in UP. I express my heartily condolences to the families and prayers for them.
+
+Getting to the topic, here's a Privacy 101 for you if you're a Journalist /	Activist / Citizen of India who doesn't want her/his private chats on live TV.
+
+**Privacy Violations and How to Evade:**
+
+**1. WhatsApp Chats:** Regardless of claims, WhatsApp is end-to-end encrypted and it cannot be Intercepted and decrypted without the encryption key from the user's device. The encryption key is stored in the app data folder which is only accessible to the app itself and the root user and a few other methods due to android's app sandboxing. The privacy flaw lies in the Google drive backups and the owning company Facebook. Facebook is known to violate user privacy and it's not once. The WhatsApp chat databases (msgstore) are uploaded unencrypted into Google drive. Google drive has a special feature for storing app data in a hidden folder in the drive (App Data Storage), anyone with Google credentials or a login session from Google services can access all your chat backups and read it without a key. 
+
+**[?] How to Prevent:** Disable Google Drive Backups. The local backups are always available from Internal Storage /WhatsApp folder. The backups are encrypted so you can just copy it over to a safe location (a hardrive / pendrive / cold storage). You can also use any of the below cloud storage apps and configure automatic sync for the folder. 
+
+**2. Call and Message Tapping:** This is usually the telecom company handing over their logs to the government on orders. Your telecom company may also monitor your internet activity by monitoring your dns queries or using DPI (Deep Packet Inspection).
+
+**[?] How to Prevent:** Use a different number. Ask a trusted friend to get you a Sim card, and use it for account verifications and then don't keep it. You can also purchase temporary numbers online. Just change your number altogether, or use online privacy focused messaging and calling services. Do not visit HTTP websites as they'd be plain text. Use a tunneling tool like TOR with Encrypted DNS. If you dislike TOR for it's slow network, use a trusted VPN like ProtonVPN.
+
+**3. Using a VPN make me undetectable:** NO. A VPN only tunnels your internet through their servers, preventing you from DPI and interception threats in your network (Lan, Wan, and from your ISP). Many VPN providers are known to have "Zero Logs" policy, but it's not known how much of it is true as their servers are private. They could hand over your internet logs to your government any time on orders, or just sell it. 
+
+**[?] How to Prevent:** If you're into a sensitive activity I'd recommend using TOR for it. It's decentralized and no organization owns it. It routes your traffic in layers (circuits) through different self hosted servers (TOR nodes). No one on the Onion Network knows each other. (you might have just heard of it as deep web in fancy articles. It's called onion router in particular, nothing just a bunch of ip addresses. People just like fiction a lot).
+
+**4. These apps make me a ninja online:** NO. It's you who make yourself a ninja. Keep in mind these are just tools. Your Privacy is no one's, just yours. How you handle it is your responsibility. Using real names, aliases, common passwords, typing practices, phone number, pictures, it's all you who control it. If you can make good practices, you can become a 21 century ninja. 
+
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+
+**Using privacy focused applications and services always come with a little separation from comfort. You would have to walk that extra mile yourself for that little megabyte of data. Read u/demo_crazy's comment for more overview**
+
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+
+**Keep in mind, using an iOS or a Mac is always great, you wouldn't require most of the apps in such case. In case you're still sus, you can find these apps for both iOS and Android.**
+
+**Quick List:**
+
+**1. Messaging:** Ditch WhatsApp (it's not really trustworthy). Use Signal. Its completely open-source. For more privacy use burner number. (you can also use wire and telegram).
+
+&gt;Instead of using burners(which surely isn't easily available in India) and then using Signal, try **Threema**. It is open source messaging app which requires no phone number to sign up.
+
+**2. Email Client:** Use K9 Mail App, FairMail, and ProtonMail App for writing emails. K9 Mail and FairMail are email clients that support gmail and Outlook and other email providers.
+
+&gt; K9 Mail with OpenKeyChain is to be used to be more secure(even if you use K9 Mail with Gmail Google can scan it). Also use something like Disroot or Dismail instead of Gmail. Better to go with Protonmail or Tutanota all in all to be most secure and they have there own apps. 
+
+**3. Email Provider:** For emails I wouldn't recommend Gmail, Outlook or Yandex. It's better to use ProtonMail and Temporary Emails. For more privacy you can use TorMail and other onion mail services.
+
+&gt; You can use Protonmail or Tututanota via there onion addresses instead.
+&gt;Do not use Gmail or Outlook. If it is confidential, use **Protonmail**, **Tutanota**, **Disroot** as email providers. Also, using Gmail with an open source mail app is pointless.
+
+**4. Twitter Client App:** Talon and Twitalatte for twitter. They are open-source with no adverts.
+
+**5. Cloud Storage:** It's not recommended to use Google Drive for things that may be sensitive. Use Tresorit and Mega Cloud for your private suff. They also have android apps and have automated folder sync.
+
+&gt; You can use any cloud storage (better to go for mega as said) but make sure you encrypt the content using something like cryptomator before uploading.
+
+**6. Contacts:** Open Contacts is an awesome tool to manage your contacts that are sensitive. You can import export them as well. You can then use cloud storage apps to sync it. 
+
+**7. Messaging:** Use Silence. It will encrypt the content of message if both parties are using Silence. But SMS is the least secure of any communication modes and it's vulnerable to all kinds of attack. QKSMS is also open-source and a good alternative if you don't need encryption. 
+
+**8. Browser:** Firefox or Tor Browser, with duck duck go search engine and UBlock Origin, NoScripts, Https Everywhere Adblock Plus plug-ins. Ditch Chrome and UC please.
+
+**9. Internet:** Do not use a VPN. Use Tor instead. It's decentralized, open-source and nearly untraceable. If you really need a good VPN use ProtonVPN or PIA. Use Orbot App to tunnel all your traffic through Tor. You can use Invizible app for overall private tunnel.
+
+&gt;Also, use a VPN for important stuff. Use **ProtonVPN**, it is free, based in Switzerland and does not keep logs. 
+&gt;Use **DuckDuckGo** or **SearX** for search engines. 
+
+**10. Be Cautious:** These apps won't make your data private, they will help you, it's you who needs to be cautious.
+
+&gt;Use **Openboard**, **AnysoftKeyboard**, **Simple Keyboard** for keyboard apps. Open source and do not track your key taps.
+
+&gt;If you're using any of Facebook owned apps (FB, Whatsapp, Instagram) use Greenify, Hibernator to force stop them which won't allow them to run in the background.
+
+&gt; Ditch anything from Google. If you using Android, install a custom rom, like Lineage OS, AOSP, or Graphene without Google Apps. Use MicroG. 
+
+Just use iOS, it's great at privacy. A de-Googled android is kind of equal if used right. 
+.
+.
+.
+
+&gt; Another suggestion which applies to journalists, Make use of securedrop for any kind of whistleblowing or sharing your jouranlism data to others. Securedrop is a really active project and it helps journalists all over the world in sharing files securely.
+
+_If you're privacy concerned check out r/Privacy and r/PrivacyToolsIO_
+
+**Thanks to u/digdigidigidong u/serial_binger07 u/DanSylverstere for suggestions. Suggestions are welcome :)**
+
+Edit: I'm sorry for the word "Trojan" it may have looked concerning. WhatsApp isn't a Trojan.
+
+Edit: Thanks u/cutiecalm for the reddit silver :) I hope the post is helpful to you and everyone else on the sub. That's all I wanted from this post, thanks everyone :)

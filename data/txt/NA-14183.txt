@@ -1,0 +1,31 @@
+MediaNama’s take: Through these draft rules, the Department of Telecommunications (DoT) has introduced stringent regulations for user verification before obtaining telecom services. The severity of these new requirements becomes evident when examining specific restrictions: for a user (let’s call them A) to transfer their SIM connection to another person (let’s call them B), the regulations mandate that A and B must be blood relatives.
+
+This emphasis on only allowing SIM transfers between blood relatives ignores how telecom users currently informally share their SIM cards. For instance, in a previous MediaNama event , a speaker had pointed out that there are situations where a single family member purchases a SIM card that others in the family are using. This transfer requirement, along with a restriction on leasing your telecom connection to another user, could potentially restrict such usage.
+
+We missed this earlier: The Department of Telecommunications (DoT) has proposed a new biometric identity verification system (BIVS) for the verification of telecom users. This comes as part of the draft rules for telecom user identification the DoT released on September 19. Under these rules, authorised telecom service providers must operate a BIVS either individually or collectively. This system will provide biometric-based identification of users using live photographs or any other biological attributes that the government specifies. The news was first reported by The Tech Trace .
+
+Whenever a user enrols in a telecom service or updates the services they have subscribed to, they will be assigned a unique user ID. This unique ID will be used for identification purposes. and updating the number of connections under the user’s name. The government can direct authorised service providers to assign user IDs in the BIVS in a form and manner it may prescribe later. Besides enrolling new subscribers using the BIVS, the government can also ask authorised service providers to assign the new unique user IDs (under the BIVS) to all their existing customers. Companies will have to comply with these directions within the government-specified timeline.
+
+Authorised telecom service providers have to:
+
+The BIVS will provide real-time user information to authorised entities for biometric identification, while ensuring compliance with privacy and data integrity. The central government will conduct audits of the system to ensure compliance. Authorised service providers will have to provide the government with any data or records pertaining to the BIVS from time to time.
+
+The rules apply to companies that provide authorised telecommunication services and users of such services. Telecom service providers have to take up the following process when enrolling users:
+
+For users who have an Aadhaar number, companies must comply with applicable provisions of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016, for e-KYC services. They also have to obtain user consent under the required data protection regulations for clicking their live photograph/collecting other biological attributes.
+
+Further, they also need user consent to store the live photo and other information (such as the complete Aadhaar number in unmasked form). Companies cannot store core biometric information in customer acquisition forms (CAFs) and subscriber data records (SDRs). Authorised entities may offer self-KYC processes through their websites or mobile apps, subject to Central Government directions
+
+This applies to users who do not have an Aadhaar number or are unable to undergo the e-KYC process. Telecom companies have to document the reasons why a user underwent the D-KYC process in their CAFs and SDRs. Similar to the e-KYC process, here as well, the authorised service provider will have to take a user’s consent before clicking a live photo or collecting other biological attributes and storing this information in the CAFs and SDRs. Besides this, authorised service providers will also have to collect an identity proof and address proof for D-KYC as specified by the government.
+
+Whenever a telecom service provider enrols a business user, it will need to undertake biometric-based identification of the authorised representative of the business as well as each end user of the business connection. The government can exempt end users of a business connection from biometric-based identification on a case-by-case basis. However, for this exemption, the business’s representative has to submit a request to the government for the same with the necessary justification.
+
+Authorised service providers will have to re-verify users under the following circumstances:
+
+The rules allow companies to change user information for a telecom service only between blood relatives. A request for changing the user must be accompanied by a no-objection certificate from the original user, whose identity will be re-verified in such a situation. In case the original user has passed away, the new user will need to provide a death certificate and other additional documents that the government may specify. When such a change takes place, the new user will need to go through biometric verification.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

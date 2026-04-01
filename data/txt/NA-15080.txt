@@ -1,0 +1,31 @@
+MobiKwik, which allegedly suffered a data breach earlier this year, is still under the Reserve Bank of India’s scanner. The payment startup has submitted its third-party forensic audit report to the financial regulator and is being currently examined by the RBI, an RTI response revealed.
+
+In the RTI filed by independent security researcher Srinivas Kodali and seen by MediaNama, RBI was asked regarding the action that has been taken in regards to the cyber security incident. RBI replied,”The forensic audit report submitted by the entity is under examination.”
+
+Meanwhile, RBI also declined to disclose information regarding the number of security incident reports that it received in 2021. “As the disclosure of the requested information would impact customer confidence on payment systems thereby affecting the economic interests of the State, the same is exempt from disclosure under Sec 8(1)(a) of the RTI Act, 2005.”
+
+Instances of data breaches leading to personal data being sold on the dark web are increasing year-on-year even as India’s Data Protection Bill is still in the works . Without a data protection authority, there is regulatory ambiguity in terms of who should respond to and investigate such breaches.
+
+In February, cybersecurity researcher Rajshekhar Rajaharia alleged that sensitive data belonging to millions of cardholders and users stored on MobiKwik’s servers was compromised and that it was put up for sale online. In April, PTI reported that RBI had ordered a third-party forensic audit into allegations of the data breach.
+
+Again!! 11 Crore Indian Cardholder's Cards Data Including personal details & KYC soft copy(PAN, Aadhar etc) allegedly leaked from a company's Server in India. 6 TB KYC Data and 350GB compressed mysql dump. @RBI @IndianCERT #InfoSec #dataprotection #Finance pic.twitter.com/yjc7davH3k
+
+— Rajshekhar Rajaharia (@rajaharia) February 26, 2021
+
+The data dump, around 8.2 terabytes , allegedly included sensitive financial information of MobiKwik users and more:
+
+In July, MobiKwik in its draft red herring prospectus (DRHP) , said it had taken cognisance of reports of a data breach.
+
+Following such media reports, we engaged an independent digital forensic audit expert to conduct an audit relating to these allegations. The forensic audit expert subsequently reported that based on the analysis of logs/ data provided to them, there was no unauthorised access from outside of our Company’s infrastructure or internally to the database server wherein customer data is stored, during the review period — MobiKwik in its DRHP
+
+However, there were some caveats. MobiKwik said that the forensic audit expert’s report was limited to —
+
+“In addition to the recent incident, in 2010, when we were operating at a relatively smaller scale, a hacker had gained unauthorized access to our operating systems, which resulted in certain disruption in our operations,” the payments startup said.
+
+Also read
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

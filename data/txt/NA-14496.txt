@@ -1,0 +1,67 @@
+These are some of the questions that the Telecom Regulatory Authority of India (TRAI) is looking to deal with in its new consultation paper which seeks to understand how artificial intelligence and big data can be used in the telecom sector.
+
+The paper is open for consultation till September 16, 2022 and one can send their counter comments till September 30, 2022. The feedback can be sent to Asit Kadayan, Advisor (QoS) TRAI, on the following email— [email protected] . The comments and counter-comments will be posted on TRAI’s website.
+
+Why it matters: The paper is important as several industrial sectors around the world have invested heavily into AI and big data to augment their business. The rapid adoption of these technologies necessitates a cogent policy on how they can be used to drive growth in the telecom sector.
+
+TRAI noted in the paper that there was no globally accepted definition of AI. It offered multiple definitions provided by different agencies such as ETSI which defined it as “a computerised system that uses cognition to understand information and solve problems”.
+
+“Governments, regulatory agencies, international agencies, and other forums have adopted varying definitions depending on the context before them,” read the paper.
+
+How does it work: “Traditional programming methodology compelled programmers to use their own intelligence to write algorithms and create programs. These programs were then fed with data to generate desired outputs whereas AI enabled machines to write their own programs with given data and desired outcomes,” the paper explained.
+
+The paper acknowledged that AI models utilise large datasets to train, evaluate, and optimise the models. It is why the paper deems it important to understand Big Data (BD).
+
+What does it mean: “BD generally refers to technological developments related to data collection, storage, analysis and applications,” the paper said. Most of the organisations and companies characterised BD by the volume, velocity and variety of data being produced, the paper added. However, it noted that a report by the ITU also includes veracity which can be understood as “biases, noise and abnormality in data”. The paper noted that the telecommunications industry “generates and stores tremendous amount of data”.
+
+Here are some of the examples of BD offered in the paper:
+
+The paper seeks to invite feedback on ways for efficient and effective handling of big data and if there is a need for adoption of special programming models or software frameworks.
+
+The paper explained that AI advancement “will work towards improving 5G systems performance and efficiency while expansion of 5G will drive distributed intelligence through connected devices”. Furthermore, 5G is expected to “generate massive amounts of data from multitude of new services, and billions of IoT devices, which will enhance AI learning and model training” the paper said.
+
+The paper is seeking to invite feedback on whether deployment of 5G and beyond technologies will help to accelerate adoption of AI in all the sectors.
+
+The paper has identified following opportunities of AI and BD in telecom:
+
+The paper also noted that the use of AI can help with managing spectrum and improving network security.
+
+“…AI can play the role of critical technologies in analysis of millions of events and identify possible threats, from malware exploiting zero-day vulnerabilities to identifying risky behaviour which may lead to a phishing attack or download of malicious code,” the paper said.
+
+Questions for consultation: Which are the applications of AI and BD already being used by the TSPs in their networks to improve Quality of Service, Traffic Management, Spectrum Management and for Security purposes?
+
+The paper is also inviting comments on possible risks and challenges associated with AI. Some of the risks identified by the paper include data biases, data poisoning, model biases, privacy, data exploitation, risk of identification and tracking, and individual profiling.
+
+The paper laid down certain ideas coined by various organisations to build AI systems in a principled manner. Some of them as follows:
+
+The question up for consultation: Do you think that a number of terminologies such as Trustworthy AI, Responsible AI, Explainable AI etc. have evolved to describe various aspects of AI but they overlap and do not have any standardised meanings?
+
+The telecom body has laid down risks such as unethical use cases, insufficient learning from feedback loop, implementation errors, biased or discriminatory model outcomes, model instability or performance degradation, insufficient training, regulatory non-compliance, in the consultation paper.
+
+Questions for consultation: What measures do you suggest to instil trust and confidence regarding a robust and safe AI system among customers, TSPs and other related entities/stakeholders? What may be such principles and who should formulate these and how compliance can be ensured?
+
+“Data is the basic requirement for an AI system. However, practically data accessibility is one of the major constraints,” TRAI said in the paper.They said that most of the data may be either available with a few big organisations or with the government agencies.
+
+“The organisations holding a major portion of data may not be interested in sharing the same due to privacy, security concerns of their customers/organisations and also due to strategic business decisions,” TRAI elaborated. The customers may be reluctant to share their data due to the concern of privacy, as per the paper.
+
+The telecom body noted that AI should be able to handle large data sets, both real-time and post-processed data for successful adoption. “There is a requirement of high computing technologies such as GPUs, TPUs to handle these large datasets,” TRAI observed.
+
+TRAI highlighted the need for research to develop AI-based solutions but said that there were various concerns in the field of research which need to be addressed to boost the research and development.
+
+It listed the following concerns noted in a NITI Aayog report:
+
+Questions for consultation: Whether telecom/ICT industry is facing constraints such as access to data, lack of computing infrastructure, lack of standards, and R&D in the adoption of AI and BD technologies?
+
+“In addition to setting up data hubs, it is required that people, industry, big corporate and the government share the data available with them,” TRAI said.
+
+It also identified a requirement to establish an authority or a body or an institution whose role should also be to act as manager and gatekeeper for data stored along with managing the privacy and security of data.
+
+The TRAI offered ways in which privacy can be protected without hampering rights of people:
+
+The paper has also touched upon several other aspects like infrastructure and legal frameworks. The paper can be read here .
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

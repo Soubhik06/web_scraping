@@ -1,0 +1,255 @@
+SUBREDDIT: r/india
+TITLE: From a Real Software Engineer's view of point about WhatHatjr Unethical teachings to the kids
+DATE: 2020-10-08
+SCORE: 21
+URL: https://www.reddit.com/r/india/comments/j783eu/from_a_real_software_engineers_view_of_point/
+
+--- POST TEXT ---
+
+[**Abhishek Satam**](https://www.youtube.com/channel/UCTD_7D54l7WbvauIku_Q4jQ) **(not me, the real software engineer guy)**
+
+To any parents getting swayed by negative comments here, I am a software engineer. Please sit for WHJ's free trial and see what is being taught. If they are teaching drag-and-drop and calling it programming and application building, then you should know its a scam. It is okay if you want to pay them to keep your kids occupied but in terms of value, there is nothing that your kid is learning and is better off playing video games.
+
+&amp;#x200B;
+
+The reason I am here wasting my time to type all this is that a few years back I was also a student and we also had such extra coaching like ALOHA and Vedic Math, which in the long run did not add much to my skills(though they were way better than whjr, byju's, etc.) and I wish I had someone to guide me at that point.
+
+&amp;#x200B;
+
+If you want your child to become a computer engineer in future, the only thing you need is a cheap computer and free internet. You DO NOT NEED TO PAY ANYMORE THAN THIS. Please read on if interested.
+
+&amp;#x200B;
+
+(Note before proceeding: 
+
+To all:
+
+I have no ill will against WhiteHat Jr, Byjus and other edutech people. They are probably providing employment to many during a pandemic. But it is my duty to call out anything that I see wrong in. I am doing my part in informing others.
+
+To fellow software engineers:
+
+If you see any mistakes/improvements, please feel free to point out.
+
+To parents:
+
+Coding is not everything. Teach them programming but also let them play outside every day. And please do not force your child into programming if they are not interested. 
+
+)
+
+ 
+
+1. What is the right age to start?
+
+Age 10 and above:
+
+Perfect time to start. If you start here and follow programming with interest, you will be a fantastic programmer by the time you finish graduation.
+
+Age 6-10:
+
+I believe that at such a young age, children should not be exposed to the internet. So they will require more supervision. I suggest they can finish the math part without a laptop. After that, you can introduce them to Python's turtle library. It teaches programming by drawing. (For more info, see this: [https://www.youtube.com/watch?v=pxKu2pQ7ILo&amp;ab\_channel=KeithGalli](https://www.youtube.com/watch?v=pxKu2pQ7ILo&amp;ab_channel=KeithGalli))
+
+&amp;#x200B;
+
+Age less than 6:
+
+Let them have their childhood. There is a life outside programming also.
+
+&amp;#x200B;
+
+2. How to guide your child if you are not in technology?
+
+If you can use google search and youtube, that is good enough. Everything is just a google search away. If you don't know something, just google it or search on youtube.
+
+&amp;#x200B;
+
+3. Why not just pay money to professionals to teach my child?
+
+If the teacher is actually teaching your child programming and you trust them, by all means, go ahead. The aim is for your child to develop an interest in coding and technology and at some point, he should be able to carry on on his own with just the internet to help. If that is happening, you have achieved your goal. 
+
+&amp;#x200B;
+
+4. How much time should the child spend?
+
+1 hour every day is more than enough. Below 10 yrs age, spend 1 hr of their playtime in learning programming. For children above 10 yrs, if you find 1 hour everyday to code, there is nothing as good as that. Learning programming is a lifelong journey and we are all learners. Programming is supposed to be enjoyed as a hobby, in the same way, we enjoy playing games, reading, watching movies, etc.
+
+&amp;#x200B;
+
+5. How much money will you be spending?
+
+Apart from laptop and internet, NO NEED TO PAY FOR ANYTHING ELSE. If there is anything that requires money, there is definitely a free alternative available on youtube.
+
+&amp;#x200B;
+
+6. What laptop/computer to buy?
+
+&amp;#x200B;
+
+No need to buy expensive MacBooks, etc. But the computer should be at least at the level of any laptop on Amazon/Flipkart around 30K INR. If you are tight on budget, you can go for a decent second-hand laptop. Such laptops can come around 10-15K. Assembled desktops can also be relatively cheaper for the same configurations but I am not sure.
+
+&amp;#x200B;
+
+Specs:
+
+Processor: preferably i5 or above, but i3 is also fine if on a tight budget,
+
+RAM: preferably at least 8GB, 4GB is also fine if on budget,
+
+Hard disk: prefer SSD over normal hard drives if not on a budget. the capacity of 128GB is also enough, no need to go for 1TB if on budget
+
+OS: preferably windows 10, windows 7 is also fine and you can upgrade to win 10 in a year or two
+
+Graphics card: NOT REQUIRED AT THIS POINT, I ALSO DONT HAVE ONE
+
+&amp;#x200B;
+
+If you have money, go for anything HP/Lenovo/Dell with above specs around the 40-45K price range. I myself use a Dell Inspiron from 2018 which cost me around 50K at that time.
+
+&amp;#x200B;
+
+7. What to teach and from where?
+
+&amp;#x200B;
+
+The aim here is not building apps/websites but building a problem-solving ability and giving the child an attitude to be curious and dive deep.
+
+&amp;#x200B;
+
+Go in the following order:
+
+&amp;#x200B;
+
+1. Basic math:
+
+&amp;#x200B;
+
+This DOES NOT include calculus and trigonometry. Anything that is taught in schools till Class 10 is fine. Topics they should learn are addition, subtraction, multiplication, division, remainders, factorials, even/odd numbers, prime numbers, LCM/GCD and combinatorics. They should gradually learn more math as they go along coding. 
+
+Khan academy is a great resource for this.
+
+&amp;#x200B;
+
+2. Learn a programming language:
+
+&amp;#x200B;
+
+They should learn any ONE programming language. Emphasis is on ONE. If they learn any 1 language well, picking up any new language is a matter of a few days or at most weeks.
+
+I suggest learning Javascript or Python. (Do not go for both. This step is like choosing a starter pokemon. Start with one and train well, you can catch others later :P)
+
+&amp;#x200B;
+
+Resources:
+
+Python:
+
+1. [https://www.youtube.com/watch?v=kqtD5dpn9C8](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+
+No need to finish the whole thing in 1 day. Maybe finish in chunks of 20 minutes each day. BUT MAKE SURE TO CODE ALONG WITH HIM THAT IS THE ONLY WAY YOU WILL LEARN.
+
+Javascript:
+
+1. [https://www.youtube.com/watch?v=W6NZfCO5SIk&amp;ab\_channel=ProgrammingwithMosh](https://www.youtube.com/watch?v=W6NZfCO5SIk&amp;ab_channel=ProgrammingwithMosh)
+
+No need to finish the whole thing in 1 day. Maybe finish in chunks of 20 minutes each day. BUT MAKE SURE TO CODE ALONG WITH HIM THAT IS THE ONLY WAY YOU WILL LEARN.
+
+Basis of all programming languages is the same. Spend 1-2 months in learning the language. At the end, you should have an understanding of the following concepts:
+
+variables, data types, constants, if statements, for and while loops, functions, arrays, strings. And by understanding, I mean knowing how to use these while coding and NOT JUST LEARNING THE DEFINITIONS. IF AT ANY POINT IN CODING&lt; YOU FIND YOURSELF ROTE LEARNING, YOU ARE DOING IT WRONG.
+
+&amp;#x200B;
+
+Some exercises that you should know how to implement before proceeding forward:
+
+&amp;#x200B;
+
+1. Printing to the console
+
+2. Swap values in two variables
+
+3. Check if a number is odd or even
+
+4. Implement basic calculator operations in the console
+
+5. Calculate simple interest and compound interest for a given principal, rate of interest and period
+
+6. Getting good at loops:
+
+This can be done by implementing "print pattern" type of problems which you can google easily
+
+Example:
+
+\*
+
+\* \*
+
+\* \* \*
+
+\* \* \* \*
+
+If your child can reach this point and is comfortably able to print patterns with nested for loops, he IS ALREADY A PROGRAMMER.
+
+&amp;#x200B;
+
+(IMPORTANT NOTE: IF AT ANY POINT, YOU ARE STUCK, REMEMBER THAT EVERYTHING IS JUST A GOOGLE SEARCH AWAY. For example, if I don't know strings in javascript, just google "string in javascript" and read through the numerous blogs. That is how we all learned.) 
+
+&amp;#x200B;
+
+Give your child a good few months to spend on this step. For reference, I started programming at the age of 17 and finishing until this point took me about 6 months.
+
+&amp;#x200B;
+
+From this point onwards, the order is not important, You can start with any step based on your interest. And you can also start multiple steps parallelly if you want. Also, doing everything from here is not mandatory and is based on interest levels of your child. REMEMBER THAT THEY ARE SUPPOSED TO ENJOY THIS JOURNEY.
+
+&amp;#x200B;
+
+3. Algorithms, data structures, competitive programming:
+
+&amp;#x200B;
+
+You can explore competitive programming. In simple language, you will need to code for imaginary problem statements given to you and submit your solutions. There will be an online judge(a software and not a person) which will evaluate your solution for correctness, speed, and memory utilisation and mark your solution as success or failure.
+
+&amp;#x200B;
+
+Some websites where you can do this:
+
+1. Codechef
+
+2. Codeforces
+
+3. Leetcode
+
+4. Hackerrank
+
+5. HackerEarth
+
+6. SPOJ
+
+&amp;#x200B;
+
+For any problem, spend like an hour or two to think on your own. If you are not able to come up with a solution, google it, and implement the solution given by other people(not by copy-paste. FIrst understand their solution and then try to implement their approach on your own). DO NOT GOOGLE FOR SOLUTIONS DURING COMPETITIONS, YOU WILL GET YOURSELF BANNED.
+
+&amp;#x200B;
+
+Learning resources:
+
+1. geeks for geeks
+
+2. RachitJain and GauravSen on youtube
+
+&amp;#x200B;
+
+4. Web development:
+
+Here, they will learn how to build websites. You can explore numerous free tutorials on youtube for this.
+
+&amp;#x200B;
+
+5. Machine learning and AI:
+
+&amp;#x200B;
+
+I don't have expertise in this. But in my opinion, this will require math of Class 12 level at least. If anyone has more knowledge on this, please correct me here.
+
+&amp;#x200B;
+
+32

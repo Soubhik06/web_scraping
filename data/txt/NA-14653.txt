@@ -1,0 +1,67 @@
+Fintech firm Razorpay has rolled out Agent Studio, an AI-driven platform that helps merchants automate payment-related operations such as recovering failed transactions, responding to disputes and managing subscriptions.
+
+How does Razorpay’s Agent Studio work?
+
+During a live demonstration of Agent Studio, CEO Harshil Mathur said merchants and retailers often lose users at the checkout page, missing out on potential revenue. Agent Studio acts as a marketplace for such businesses, allowing them to customise prebuilt AI agents or build their own agent from scratch.
+
+The fintech company claims that its AI agents can analyse failed subscription payments, initiate retries , trigger targeted customer interactions, identify abandoned shopping carts, and re-engage customers via WhatsApp or email with “personalised nudges” and “offers”.
+
+Currently, the platform integrates with tools such as Shopify, Shiprocket, WhatsApp, Slack, Tally and QuickBooks, allowing agents to access data across systems and automate workflows.
+
+What are the concerns around Agent Studio?
+
+Razorpay says that Agent Studio is critical to its expansion beyond payments infrastructure, but the move also leaves several questions unanswered about how merchant integration would work across the platform, AI-driven dark patterns and potential risks of price discrimination .
+
+1. High commission may drive away merchants: It is unclear whether Agent Studio is currently free for merchants. If Razorpay introduces a commission for completed purchases through Agent Studio, it may lose merchants to free alternatives . This problem, or at least a version of it, is currently unfolding at OpenAI.
+
+Earlier this month, OpenAI scaled back its plan to introduce shopping directly within ChatGPT, according to The Information . The reason behind the retreat? Only a small number of merchants were selling through checkout; while customers researched products on ChatGPT, they did not make purchases.
+
+OpenAI reportedly planned to charge merchants up to 4% on completed purchases via Instant Checkout (roughly 7% including card fees and taxes). But …
+
+âWhy will merchants sign up for an expensive sale when free alternatives exist?â questions Nikhil Pahwa, Founder and Editor of MediaNama, in his Reasoned newsletter dated January 26.
+
+2. Risk of inaccuracy: Razorpay claims that its new Dispute Responder AI agent is designed to automatically detect, gather evidence and file rebuttals for “chargebacks” to maximise dispute win rates . A chargeback is a reversal of funds following a credit or debit card purchase, almost always initiated by customers to dispute, among other things, fraudulent or unauthorised charges.
+
+What if AI agents gather information incorrectly? While a user can demand a chargeback, the merchant can fight it. For an agent to handle chargeback disputes, it must know when a transaction is complete and determine who is responsible if something is wrong.
+
+If Razorpay’s AI agent is geared toward “maximising dispute win rates” for merchants, there is a risk that it may hallucinate and produce false outputs.
+
+Earlier this month, the Supreme Court addressed AI hallucinations in a court order yet again, stating that judges who cite AI-generated fake case laws are committing “misconduct” and could face “legal consequences”.
+
+3. AI-driven dark patterns: As per Razorpay, AI agents responsible for subscription recovery and abandoned cart conversion can use “personalised nudges” and “offers” to re-engage customers via WhatsApp or email. However, this could r esult in the proliferation of AI-driven dark patterns within the payments infrastructure .
+
+During the unveiling of Agent Studio, an AI agent appeared to pressure Razorpay’s CEO into making an impulsive purchase. It lured Mathur with steep discounts and asked him to complete the purchase within 24 hours, claiming the deal would expire after that. This is akin to a dark pattern called “false urgency” , where users are tricked into buying by creating a fake, artificial sense of scarcity or time pressure.
+
+The issue of dark patterns is particularly pressing in India’s digital landscape. According to a recent LocalCircles survey , 7 or more dark patterns are found on edtech, online banking, e-commerce, OTT, app taxis, inventory e-commerce, food delivery, quick commerce and online payments.
+
+Agentic AI can supercharge dark patterns , misleading users into taking unwanted actions, such as buying subscriptions or sharing personal data, through deceptive tactics like confusing language and non-transparent policies. Such manipulative tactics fall within the âunfair trade practicesâ category under the Consumer Protection Act, 2019 .
+
+4. Discriminatory pricing: During the live AI demo of Agent Studio, an agent offered Razorpay’s CEO a Rs 500 discount as bait, nudging him to buy a product that he abandoned at checkout. When that did not work, the agent doubled the discount, and the buyer took the bait.
+
+If AI agents offer steep discounts to select customers, while the same product is sold at a higher price to others, this creates a price discrimination problem on the Agent Studio platform.
+
+Imposition of unfair or discriminatory prices (including predatory pricing) by a dominant enterprise or group is prohibited under provisions of Section 4 of the Competition Act, 2002.
+
+5. What are the legal gaps? Indiaâs Digital Personal Data Protection (DPDP) Rules, 2025 , which operationalised the DPDP Act, 2023, lay out broad rights for usersâsuch as the right to consent, to request data erasure, and to file complaints. However, they do not clearly state what happens when an AI agent steps in to make financial decisions for a user. Further, there is also ambiguity around how delegated consent, agent-controlled data use, or token-based transactions powered by AI should work.
+
+The Reserve Bank of India’s tokenisation guidelines also fail to address this issue as they cover only user-initiated payments via mobile phones, wearables or IoT devices, but not when an AI assistant makes the purchase.
+
+In the absence of dedicated regulation of agentic AI, platforms get to define their own terms, raising concerns about user autonomy, consumer protection, and unfair trade practices.
+
+Questions sent to Razorpay :
+
+a) How much commission will Razorpay charge merchants for completed purchases on the Agent Studio platform? âWhy will merchants sign up for an expensive sale when free alternatives exist?â
+
+b) If AI agents offer steep discounts to select customers while selling the same product at a higher price to others, does this not create a price discrimination problem on the Agent Studio platform? How does Razorpay plan to address this issue?
+
+c) How does Razorpay ensure that its AI Agent Studio correctly interprets information like pricing and âin-stockâ availability? When offering discounts, does it verify whether the listed product’s price includes taxes and shipping charges?
+
+d) OpenAI has scaled back its plan to introduce shopping directly inside ChatGPT, reports The Information . It found that only a small number of merchants were selling through checkout. If AI agents canât help businesses sell and scale, why will they integrate with platforms such as Agent Studio or ChatGPT?
+
+Update | March 20, 2:55 PM MediaNama had sought comments from Razorpay on the aforementioned queries. We will share the company’s responses in another story today.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

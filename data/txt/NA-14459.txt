@@ -1,0 +1,45 @@
+Access the full RTI reply here .
+
+In January earlier this year, a Reuters report said that the Indian government was seeking source code access from smartphone manufacturers, along with other sweeping technical security requirements. However, an RTI filed by Medianama reveals that the institution responsible for checking compliance with telecom security requirements has not yet formulated procedures to test the recommended security mandates. The RTI reply was from the Ministry of Electronics and Information Technology (MeitY) and included the minutes of a consultation held on December 8, 2025.
+
+“ National Centre for Communication Security (NCCS) has not formulated the test procedures for carrying out the security testing ,” Saurabh Ranjan, Scientist at MeitY, said in the RTI reply.
+
+MeitY held a stakeholder consultation with smartphone makers, where it discussed security requirements, including recommendations on source code-sharing with government authorities. This consultation primarily focused on the Department of Telecommunications’ (DoT) Essential Requirements and the Indian Telecom Security Assurance Requirements (ITSARs), a document titled “ Mobile User Equipment ” published by NCCS, a Bengaluru-based body under DoT, set up in 2018 to develop and implement a framework for telecom equipment security testing and certification in India. “Industry raised concerns that globally, security requirement have not been mandated by any country, the ITSARs are a mix and match of various standards, including the requirements from RBI, NIST of USA, etc., testing requires a deep dive into the codes, some of the proposed requirements do not fall under the purview of mobile manufacturers,” the RTI reply noted.
+
+ITSAR, proposed by NCCS, defines two broad testing levels for smartphones and mobile phones:
+
+What is covered under Level 1 Mobile User Equipment:
+
+The 2023 ITSAR’s Mobile User Equipment section on “Security Requirements for Level 2 Testing” is empty and states “will be notified subsequently.” However, the ITSAR includes the source code-sharing mandate , first reported by Reuters in January 2026. It reads: “ The Original Equipment Manufacturer (OEM) shall provide documentary evidence (Including Test Reports) as well as required inputs including source code to review the full Security Development Lifecycle (security architecture reviews, threat modelling, source code reviews, penetration testing and fuzzing) specific to the mobile platform.”
+
+The Reuters report stated that the government asked smartphone manufacturers to adhere to 83 security standards. Some important security standards from the ITSAR document include:
+
+(A brief list of other recommendations from the ITSAR document is provided at the end of the article.)
+
+Furthermore, the RTI reply stated that there were no responses received when the ministry circulated the ITSAR and requested feedback by October 8, 2025.
+
+However, during the December 8, 2025 consultation, MeitY asked smartphone makers to submit “itemised and structured comments for Level 1 security requirements” by December 31, 2025. It specified that their comments should include:
+
+Who attended the December 2025 stakeholder discussion:
+
+The RTI reply also stated that MeitY has been delegated as the Appropriate Authority under the TEC Act to notify standards and conformity assessment measures for six products:
+
+Reporter’s observation: On the NCCS website, there is only one document related to Mobile User Equipment, which was released on April 6, 2023. MediaNama called the Chief Public Information Officer’s office at MeitY to check if an updated version exists. They responded that updated versions are shared only in response to RTI queries.
+
+Other key recommendations from the ITSAR document and the RTI discussion include:
+
+IPv6 and IPv6 Dual Stack requirements: The industry agreed to submit test reports from the International Laboratory Accreditation Cooperation (I-LAC) or an accredited third-party lab, or undergo testing as per prescribed methodologies. WHY IPv6 : IPv4 is running out of capacity due to limited 32-bit address space. IPv6 introduces 128-bit addresses, allowing trillions of unique IP addresses.
+
+Privacy Protection:
+
+User Consent and Choice:
+
+Security:
+
+Have any thoughts on this issue? Please send me an email at [email protected] . Or, tag @medianama on X or LinkedIn. We’d be glad to hear your views.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

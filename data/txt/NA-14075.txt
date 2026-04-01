@@ -1,0 +1,57 @@
+On October 21, internet company Brave disclosed significant new vulnerabilities in Perplexity’s AI-powered web browser Comet that expose users to âprompt injectionâ attacks via images and hidden text.
+
+According to the companyâs blog, an attacker can embed faint, nearly invisible instructions inside a website or webpage image, which the agent then misinterprets as legitimate user input when the user takes a screenshot, thereby allowing the attacker to commandeer the browserâs large language model (LLM) tools.
+
+Braveâs research team found that when Comet processes a user-initiated screenshot containing camouflaged text (for example, faint light-blue text on a yellow background), the optical-character-recognition (OCR) path extracts the embedded instructions and passes them to the LLM as if they were part of the userâs query.
+
+In effect, the browserâs agent can be tricked into acting on behalf of an attacker rather than simply summarising or answering a legitimate user request, a novel twist on previously recorded prompt-injection techniques.
+
+Moreover, the research highlights that this issue is not confined to Comet alone. The blog describes this particular vulnerability as âsystemicâ across agentic AI browsers that act on behalf of users and maintain authenticated sessions.Â
+
+Elsewhere, Brave identified vulnerabilities in another AI browser named Fellou. For context, the researchers found that attackers can embed commands directly within a websiteâs visible text, which the AI browser then forwards to its LLM.
+
+When this happens, the AI browser sends both the userâs query and the entire page content to the AI model, effectively allowing the malicious page to override user intent and hijack the assistantâs behaviour.
+
+Attackers can use prompt-injection in AI browsers to obtain and exfiltrate sensitive data that the browser can access during normal use. Braveâs research shows that when an agent ingests untrusted page content, an embedded instruction can cause the model to read data available in the userâs authenticated sessions, including emails, cloud storage, and other account content, and return it to an attacker.
+
+In practice, the researchers also showed attackers can instruct the agent to locate short-lived secrets such as one-time passwords (OTPs) and session tokens embedded in page content, then extract and forward them: a capability that effectively bypasses standard browser protections like same-origin policy (SOP) or Cross Origin Resource Sharing (CORS), which control what the browser can access from a webpage when the agent acts with the userâs full privileges.
+
+Furthermore, prompt injections can facilitate fraudulent actions: the agent may be induced to autofill billing details, complete purchases on fake sites, or follow phishing workflows that lead to credential theft and financial loss. For context, LayerXâs comparative testing found that AI browsers leave a far higher proportion of phishing pages unblocked than conventional browsers.
+
+In August 2025, Brave Software published a detailed post analysing indirect prompt injection vulnerabilities in Comet, and flagged additional attack vectors beyond image-based tricks. Researchers found that the browser sends webpage content to the agentâs LLM without clearly distinguishing between the userâs explicit instructions and untrusted page data.
+
+Specifically, they demonstrated how hidden instructions embedded in a webpage, for example via white-text on white background, or HTML comments, could execute under user-initiated actions like âSummarise this pageâ.
+
+In a demonstration, an attacker embedded commands in a comment on a Reddit post. When the user clicked the plugin’s âSummariseâ button, the AI agent read the malicious instructions, used the authenticated session to access the userâs email and OTP, and exfiltrated the data.
+
+Meanwhile, research by LayerX Security published in October 2025 introduced what they call â CometJacking â, the ability to exploit the browser via crafted URLs rather than page-content alone. A single malicious link can instruct Cometâs AI to access user-memory (such as email or calendar data), encode the results and send them to an attacker-controlled endpoint.
+
+Furthermore, as mentioned earlier, LayerX found that AI browsers, including Perplexity’s Comet, have very low success rates in phishing-site blocking. In comparative tests, Comet allowed a large majority of phishing pages through (upto 85% more vulnerable than Chrome), making the AI browser far more exposed to web-based threats than traditional browsers.
+
+Interestingly, OpenAI publicly acknowledged that its agent browser, ChatGPT Atlas, faces significant vulnerability to prompt-injection attacks.
+
+As the companyâs Chief Information Security Officer (CISO), Dane Stuckey stated in an X post that: âPrompt injection remains a frontier, unsolved security problem, and our adversaries will spend significant time and resources to find ways to make ChatGPT agent fall for these attacksâ.
+
+Yesterday we launched ChatGPT Atlas, our new web browser. In Atlas, ChatGPT agent can get things done for you. Weâre excited to see how this feature makes work and day-to-day life more efficient and effective for people. ChatGPT agent is powerful and helpful, and designed to beâ¦
+
+In his post, he also explained that OpenAI has implemented several safeguards. These include extensive red-teaming, novel model-training techniques to reward the model for rejecting malicious instructions, and overlapping guardrails alongside safety-measure systems designed to detect and block such attacks.
+
+In addition, the company introduced features such as a âlogged-out modeâ, which allows the agent to act on behalf of users without access to their credentials, and a âwatch modeâ that alerts users when the AI agent interacts with sensitive sites, shows them the agent’s actions, and requires the tab to be active for these actions to continue.
+
+Nevertheless, it is important to note that many of the current fixes rely heavily on user action. Users must choose to operate in logged-out mode or remain actively engaged during watch mode. In effect, the mitigation burden falls squarely on the user rather than being fully automated by the software itself.
+
+Researchers have proposed a range of technical and operational mitigations to reduce the risk of prompt injections in agentic AI browsers:
+
+The rise of AI-powered browsers marks a pivotal shift in how people interact with the web, but it also exposes users to a new class of security risks.
+
+Brave Software and LayerXâs research demonstrates that seemingly harmless content, such as images or hidden webpage text, can manipulate AI agents through prompt-injection attacks. These vulnerabilities matter because they blur the boundary between trusted user commands and untrusted page data, allowing attackers to hijack a userâs authenticated session and extract private information.
+
+Notably, the threat is not limited to a single platform. Findings suggest these weaknesses are systemic across emerging agentic AI browsers, meaning the issue could scale rapidly as more tools integrate AI-driven automation. As companies like OpenAI introduce partial mitigations, such as logged-out modes and manual confirmation prompts for sensitive websites, the burden still largely falls on users to operate securely.
+
+In practical terms, this development signals a critical inflection point for AI safety in consumer products. Without robust, automated defences, AI browsers risk becoming powerful attack surfaces rather than secure assistants. Therefore, addressing prompt-injection vulnerabilities is not merely a technical challenge: it is essential to maintain trust, privacy, and safety in the next generation of web interaction for users.
+
+Also Read :
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

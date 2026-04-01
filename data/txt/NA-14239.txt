@@ -1,0 +1,35 @@
+The Telangana Cyber Security Bureau (TBCSB) on June 8, 2024, arrested a Delhi-based hacker involved in breaching the data of the Hawk Eye application, a crime reporting app launched by the Telangana police department.
+
+According to a press note (reviewed by MediaNama) by Ravi Gupta, Director General Police, Telangana, the hacker had posted details of the breach on databreachforum.st, offering the compromised data for sale at $150 USD. He also provided Telegram IDs that he used to contact potential buyers for the data.
+
+The Hawk Eye app featured an SOS button for reporting crimes and accessing help from the police. The database allegedly contains 130,000 SOS records, 70,000 incident reports, and 20,000 travel detail records, some as recent as May 2024. The breach also led to leaks concerning the TSCOP app, used by the Telangana police to collect fingerprint and facial data of criminals.
+
+While it’s been reported that personally identifiable information (PIIs) of users including their names, email addresses, phone numbers, physical addresses, IMEI numbers, and even location coordinates were uploaded on BreachForums, a black-hat hacking forum, the police have stated that “no sensitive/financial data of any user has been compromised”.
+
+In his press note, the DGP stated that the TSCOP app is “solely utilised for in-house tasks, guaranteeing no collection of confidential/financial user data.” He further claimed that neither the TSCOP collect any visitor or hotel management data, nor does it share such data with any third party.
+
+The clarification comes in response to recent allegations regarding Telangana cops collecting details of people checking in at Hyderabad hotels and sharing the data with an American blockchain firm Zebichain. On June 7, technology researcher Srinivas Kodali first revealed on X that the TSCOP database was hacked, compromising data from connected State government databases. The TSCOP app is a part of the Telangana police department’s surveillance network for policing, which is finally connected to the Centre’s Crime and Criminal Tracking Network & Systems (CCTNS) database.
+
+Someone hacked entire @TelanganaCOPs network including TSCOP, their facial recognition setup. This is very very easy because the company which built this software, WINC IT Services has harcoded (embedded passwords as plaint text) inside TSCOP. The TSCOP connects to CCTNS. pic.twitter.com/aLtmY09le1
+
+Analysing the source code of the TSCOP website, Kodali also alleged that a data breach concerning the TSCOP jeopardises citizens’ personal data collected by the State for creating 360-degree profiles of every Telangana resident under various governance and policing projects.
+
+Writing for the News Minute, he further explained , “Beyond standard police services, the TS-COP application has access to all the databases of the Telangana government, including voter data, Aadhaar, driver’s licence, ration card, and phone numbers. The police also used third-party services to access data from hotel check-ins using the third-party vendor Zebi Chain. This was a pilot project, the status of which is unknown.”
+
+According to Kodali, these systems are not built with adequate security safeguards, making them vulnerable to such breaches.
+
+He further explained in The News Minute article , “An analysis of the source code of TS-COP indicates that the developer of the application, WinC IT Services, has embedded all the passwords of various application programming interfaces (API) directly into the Android app. This means that they used plain text passwords over basic HTTP with no security at any stage. It also shows it is likely that the developers are not trained in this aspect.” Earlier, Kodali revealed that a hard-coded password in the app makes it easier for a hacker to directly access the app’s APIs leading to the breach.
+
+Moreover, another X user, Mahesh Murthy, revealed that in a 2018 interview with Entrepreneur , the founder of Zebichain, Babu Munagala, claimed that the company “caters to the hospitality industry which has the mandate to submit guests’ information and brings both privacy and security while automating the whole data transfer activity for hotels”. The company hosted a huge amount of data, including private and sensitive data of individual hotel guests on the blockchain. Additionally, the startup also claimed to host live-running land records for the Andhra Pradesh government on the blockchain.
+
+So who is this crypto firm Zebichain? Turns out it's a near-defunct crypto company based in California, founded by 2 Bay Area gents @BabuMunagala and Pruthvi Rao @PointsOfFew . Munagala apparently spent 18 years at @Oracle and then started doing some #crypto stuff…
+
+The Telangana police have stated that they have initiated comprehensive monitoring, vulnerability assessment and other required testing across all internal and external police networks and applications to identify security risks.
+
+Speaking to The New Indian Express, police sources agreed that the company collects hotel management details shared by the police in certain parts of the country and that a similar test was initiated in Telangana in 2019. However, as per the police, the idea never materialised, and the screenshots of the guest data from the Android Application Package are from the initial tests.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

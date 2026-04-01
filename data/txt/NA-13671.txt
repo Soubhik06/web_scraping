@@ -1,0 +1,35 @@
+You are reading it here first: A bank in India is looking to acquire a ‘deception’ infrastructure that will act as a fail-safe in case hackers try to access its valuable information. Telecommunication Consultants of India (TCIL) has floated the tender for an unnamed bank and the solution will be installed in its data centre. TCIL, in the tender, said that the deception solution should be able to provide decoy firewalls, decoy web application firewalls (WAF), decoy demilitarised zone (DMZ), and so on. According to SearchSecurity , computer networks, a DMZ, or demilitarized zone, is a physical or logical subnet that separates a local area network (LAN) from other untrusted networks.
+
+The tender said that the deception solution should support 4 stages of attack:
+
+How would it work?
+
+The decoys should be scientifically placed in multiple subnets, so the hackers will encounter them in the process of trying to find valuable information . When the hackers try to access the decoys, a silent alert should be raised, and full forensics related to the attack should be collected . Decoy should be able to capture details such as attack vector used, attack methodology, tools used for attack, source of the attack, etc — TCIL tender (emphasis ours)
+
+There has been an increase in bank-specific cyber attacks recently. According to a Financial Express report, Kaspersky Antivirus discovered that increased online payments have paralleled the rise of banking Trojans in the Asia Pacific region. In fact, recently the National Bank of Pakistan reported a cyber security-related incident but informed that no financial loss or data breach has been observed.
+
+TCIL has given a wide range of requirements that the bidder has to comply with. The solution should create software that acts as a decoy for various banking components such as —
+
+When cyber attackers target these above-mentioned components of the banking infrastructure, the solution should be able to identify —
+
+Apart from that, the solution should also create “file decoys”  which when accessed, would trigger alerts silently. “The solution should have ability to trigger alarm if unknown/suspicious/malicious type of files are created/dropped/loaded on the decoys by the attacker,” it said. All these activities have to take place in a sandboxed environment setup virtually so that the real infrastructure does not get affected.
+
+The solution should cover and identify the entire Cyber kill chain stages / MITRE ATTACK framework mapping from recon – lateral movement – exfiltration. Also it should replay attacks as they happen to check what is working and what is not (sic) — TCIL tender
+
+Mitre Att&k , is a set of techniques used by adversaries to accomplish a specific objective, according to a blog by McAfee . Those objectives are categorised as tactics in the ATT&CK Matrix, the blog read. The objectives are presented linearly from the point of reconnaissance to the final goal of exfiltration or “impact”, it added.
+
+Additionally, the tender made mention of specific cybersecurity threats that target the banking sector, which include —
+
+TCIL said that the bank which has floated the requirement for the tender has said that the base operating system of the solution should not be free open-source software. “But should be hardened enterprise edition (be it Windows or Unix). The bidder has to ensure patches/updates are timely installed and no end of support is there,” it said.
+
+Apart from that, the bidder is required to —
+
+Deception solutions also known as Honeypot services find a mention in the Reserve Bank of India’s Cyber Security Framework in Banks . RBI said that Honeypot is among the many other features that banks need to put in place as part of the Cyber Security Operations Center. Others include —
+
+Also read
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

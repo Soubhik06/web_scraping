@@ -1,0 +1,29 @@
+Three Republican senators have proposed the Lawful Access to Encrypted Data Act which will require service providers to break end-to-end encryption and to provide backdoors to encrypted devices (like Apple’s iPhones). Senate Judiciary Committee Lindsey Graham (South Carolina), and Senators Tom Cotton (Arkansas) and Marsha Blackburn (Tennessee) introduced the Bill on June 23. The text of the Bill has is available here .
+
+The aim of the Bill is to end the use of “warrant-proof” encrypted technology that is used by terrorists and other bad actors. On obtaining a warrant, device manufacturers and service providers would have to assist law enforcement with accessing encrypted data. The Attorney General would be able to issue directives to them to report on their ability to comply with court orders, including timelines for implementation, but the Attorney General cannot dictate platform architecture and any directive can be appealed in a federal court. The government would bear the cost of the recipient of the directive for compliance with the directive.
+
+This is an interesting part of the Bill because in the WhatsApp traceability case in India, Facebook has repeatedly argued that “decryption assistance” under the IT (Procedure and Safeguards for Interception, Monitoring, and Decryption of Information) Rules, 2009 can only be carried out “to the extent possible”, that is, as much as the technology allows. The state of Tamil Nadu, on the other hand, argued that the Information Technology Act allows the state to decrypt the communication. At another hearing in Madras High Court, WhatsApp had argued that the state cannot dictate platform architecture. WhatsApp had also argued that even on a matter as serious as child pornography, WhatsApp’s hands were tied because of end-to-end encryption.
+
+As per the Bill, the Attorney General will also create a prize competition to award participants to create “a lawful access solution in an encrypted environment”.
+
+In the press release, the senators cited five instances where encrypted technologies had foiled law enforcement agencies’ attempts to get access to data:
+
+“My position is clear: After law enforcement obtains the necessary court authorizations, they should be able to retrieve information to assist in their investigations,” Graham said. Cotton cited protection from child predators and terrorists as the reason for proposing the Bill that would “help put an end to the Wild West of crime on the Internet”. “What we have learned is that in the absence of a lawful warrant application process, terrorists, drug traffickers and child predators will exploit encrypted communications to run their operations,” Blackburn said.
+
+US Attorney General William Barr lauded the Bill and said, “Encryption should keep us safe and secure, not provide an impenetrable safe haven for predators, terrorists, and criminals.”
+
+This is not Graham’s first attempt at breaking encryption. In January, he had proposed the Eliminating Abusive and Rampant Neglect of Interactive Technologies Act of 2019, or EARN IT Act which was moved to Congress in March. Proposed under the garb of protecting children online, it sought to ban end-to-end encrypted platforms. It offered safe harbour to intermediaries only if they complied with certain guidelines to detect CSAM. Most critics interpreted it as a veiled attempt to target end-to-end encryption as such technology doesn’t allow service providers to scan the content for CSAM.
+
+The governments of USA, UK and Australia had written an open letter to Facebook to not introduce end-to-end encryption, at least not without backdoors for law enforcement. Terrorism and online child sexual exploitation were the governments’ reasons for asking Facebook not to implement it. In response, Facebook and WhatsApp had absolutely refused to build backdoors and was supported by 58 civil society organisations around the world.
+
+In India, the ad hoc Rajya Sabha committee, led by Jairam Ramesh, had recommended that law enforcement agencies be allowed to break end-to-end encryption to trace distributors of child pornography. The committee had been constituted to find out ways to prevent sexual abuse of children and prohibit access and circulation of child pornography on social media.
+
+In 2018, Australia had passed a controversial Assistance and Access Act 2018 which allowed the police to force companies to create backdoors to encrypted communications. The law was reviewed by a parliamentary joint committee on intelligence and security in 2019. Under the Act now, the government is forbidden from building backdoors or building decryption, interception or data retention capabilities.
+
+Also read: Encryption and issues related to terrorism and communications | Encryption and issues related to child protection online | WhatsApp Traceability Case
+
+***Update (June 26, 2020 11:25 am): Updated with link to the text of the bill.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

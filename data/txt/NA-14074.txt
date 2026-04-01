@@ -1,0 +1,53 @@
+Amazon has filed a lawsuit against Perplexity AI, accusing the startup of using its Comet browser and associated AI agent to make purchases on the Amazon Store without authorisation according to a report by Reuters.
+
+According to the complaint, Comet accessed Amazon’s e-commerce platform while disguising itself as a normal web browser, allegedly violating Amazon’s Terms of Service and US federal computer access laws.
+
+However, Perplexity has rejected the claims, calling Amazon’s action an act of corporate bullying. Notably, this clash marks one of the first major legal showdowns between a Big Tech company and an AI startup over how autonomous “agentic” software should operate online.
+
+In a blog post titled “Bullying is Not Innovation” published on November 4, 2025, Perplexity called Amazon’s lawsuit an “aggressive legal threat” and accused the company of trying to block people from employing their AI assistants for online shopping.
+
+“This is Amazon’s first legal salvo against an AI company, and it is a threat to all internet users,” Perplexity said. For context, the company argues that people have the right to use their own digital assistants to perform online tasks.
+
+“Amazon announced it does not believe in your right to hire labour, to have an assistant or an employee acting on your behalf,” the blog stated. “This isn’t a reasonable legal position, it’s a bully tactic to scare disruptive companies like Perplexity out of making life better for people.”
+
+Furthermore, Perplexity described Comet as a “user agent” that operates only with user permissions, claiming it is no different from an actual personal assistant acting on behalf of the user.
+
+It also outlined three core principles for such AI assistants, namely privacy, personalisation, and power, arguing that corporations should not restrict users based on which AI tools they choose.
+
+In a public response, Amazon has said that its position is consistent with standard business practices.
+
+“We think it’s fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions whether or not to participate,” the company stated.
+
+Further, Amazon compared Comet to delivery or booking apps, saying that: “This (operating openly) helps ensure a positive customer experience and it is how others operate, including food delivery apps and the restaurants they take orders for, delivery service apps and the stores they shop from, and online travel agencies and the airlines they book tickets with for customers.”
+
+The e-commerce company reiterated that it had “repeatedly requested that Perplexity remove Amazon from the Comet experience, particularly in light of the significantly degraded shopping and customer service experience it provides”.
+
+In a cease-and-desist letter dated October 31, 2025, Amazon’s counsel Moez M. Kaba accused Perplexity of persistently refusing to “operate transparently” and using its AI assistant to “covertly intrude into Amazon’s e-commerce websites” in violation of US’ Computer Fraud and Abuse Act, and the Comprehensive Computer Data Access and Fraud Act.
+
+Amazon alleged that Comet, Perplexity’s AI assistant, was disguising itself as a Google Chrome browser to interact with its platform. According to Amazon, Perplexity’s AI agents accessed user accounts, retrieved account details, and performed transactions without authorisation.
+
+The letter further stated that these actions posed security risks to Amazon’s customers’ private data. “Perplexity’s Terms of Use and Privacy Notice grant it broad rights to collect passwords, security keys, payment methods, shopping histories, and other sensitive data… while disclaiming any responsibility for data security,” the letter remarked.
+
+Amazon also claimed that Perplexity’s conduct degraded the shopping experience for customers, as Comet could select products or delivery methods that were suboptimal compared to Amazon’s native system.
+
+Notably, the e-commerce giant said it that had earlier flagged similar conduct in November 2024, when Perplexity allegedly used a “Buy with Pro” feature to place orders through Perplexity-managed Amazon accounts. At that time, Amazon said Perplexity agreed to stop the activity unless both sides reached mutually agreed terms.
+
+However, Amazon claims that Perplexity has resumed deploying AI agents in the store. It also accused the AI company of knowingly circumventing its security measures after restrictions were placed on Comet AI’s access in August 2025.
+
+The cease-and-desist letter demanded that Perplexity immediately cease all undisclosed agentic activity on Amazon’s platform. The e-commerce giant said it would “seek all available legal and equitable remedies” to prevent further violations.
+
+The dispute underscores the growing tension between major e-commerce platforms and emerging “agentic” AI tools: applications capable of acting autonomously on behalf of users. Notably, Amazon has its own AI shopping assistant, Rufus, which it began testing in early February 2024 , but such platforms face new challenges as other automated agents begin performing user tasks such as searching, comparing, and purchasing products directly.
+
+Earlier this year, Perplexity was also accused by Cloudflare of using questionable methods to scrape data from websites that had blocked AI crawlers. Importantly, this episode foreshadowed potential conflicts between large web platforms and AI agents, as such technologies become more integrated into daily online activity.
+
+The current lawsuit marks one of the first major legal challenges between a major e-commerce platform and an AI company developing autonomous digital shopping agents, a case that could shape future debates on AI autonomy, platform rights, and digital access boundaries.
+
+Notably, just a day before the Perplexity dispute went to court, Amazon Web Services (AWS) and OpenAI announced a multi-year, $38 billion strategic partnership. The deal enables OpenAI to run and scale its advanced AI workloads on AWS’s infrastructure.
+
+The move highlights how Amazon is deepening its role in the global AI ecosystem, even as it enforces stricter rules on how independent AI tools like Perplexity’s Comet interact with its services.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

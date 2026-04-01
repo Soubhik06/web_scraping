@@ -1,0 +1,109 @@
+In 2020, when a 24-year-old woman was found dead, her body hanging from a tree along the Mumbai-Nashik Highway, cops in Maharashtra were in a fix. Was it a suicide? What was the motive? There were no eyewitnesses, no CCTV footage of the area that could have thrown some light on what had transpired. However, the police did recover one key piece of evidence — the victim’s cell phone.
+
+With that cell phone, the Maharashtra Police’s Cyber Unit’s former Superintendent of Police Dr. Balsing Rajput and a team of digital intelligence experts were able to unearth that the incident was not a suicide but a murder by her 31-year-old boyfriend . How? The cops used Israeli firm Cellebrite’s UFED, a powerful cyber forensic tool capable of breaking into most smartphones and devices including that of Apple, to unlock the victim’s phone. Cellebrite had once famously offered to crack open an iPhone which belonged to an accused in the San Bernandino blast case for the US Federal Bureau of Investigation.
+
+Once the device was unlocked, Maharashtra Police used UFED Cloud Analyzer, another Cellebrite product that allows one to extract social media data as well as instant messaging, file storage, web pages, and other cloud-based content. Through this tool, investigators were able to discover “intimate” photos of the victim and the accused, call records of their conversations, chats that the two shared on social media platforms and the areas that they visited including the last location i.e. murder scene.
+
+“After analysis of his call records, images [on the phone], and the log data, the accused was prosecuted and convicted to more than seven years of jail time…And that evidence was extracted from the mobile devices using Cellebrite [solutions]” — Dr. Balsing Rajput, former Superintendent of Police, Maharashtra Cyber Unit was quoted as saying in a case study by Cellebrite.
+
+This is just an example of how cyber forensic tools are being used in the country, and neither their usage nor their acquisition by police across India is a one-off case. Police officials from Telangana, Karnataka, Punjab, and Uttar Pradesh told MediaNama that these tools are used in all investigative cases , and evidence collected via such tools is given more importance than traditional forms of evidence .
+
+“Because of the increase in use of technology and the increase in awareness in legal procedures or criminal investigation, people know their rights . So the old methods of interrogation are not working . Now, people use smartphones and gadgets everyday in their daily lives. These digital traces are crucial evidence which are useful in investigation. Earlier, we used to be dependent on eye witnesses and forensic evidence, but now we have electronic evidence (retrieved through cyber forensic tools) which is more trustworthy. “ — Anoop A Shetty, Deputy Commissioner of Police, Bengaluru City Police told MediaNama
+
+Cybersecurity expert Anand Venkatanarayanan said that the over-reliance on cyber forensic tools may be a result of poor cyber awareness and practices among police. “It is possible to solve cases involving platforms such as WhatsApp, without going for a cyber forensic tool,” he said.
+
+Despite their growing importance, these tools come with their own set of issues including the collection and potential re-usage of data that is non-essential, as well as privacy concerns.
+
+Punjab Police's Additional Inspector General (AIG) in Cyber Crime, Nilambari Jagdale Vijay told MediaNama that they use 25 cyber forensic tools (listed above). While cops may use a variety of them, a few key tools are predominant across multiple states . For instance, Hyderabad Police's Assistant Commissioner of Police in the Cyber Crime Wing, KVM Prasad told MediaNama that they use Forensic Toolkit (FTK) and Cellebrite’s UFED. In 2021, Hyderabad Police floated a tender for acquiring these cyber forensic tools and many others. [ Read more ]
+
+"While FTK is used for hardware and UFED for smartphones, they will make an image of the hard-disk and mobile. By image, it means that it will also retrieve deleted information. " — KVM Prasad, the Assistant Commissioner of Police in the Cyber Crime Wing of Hyderabad City Police
+
+"We are not just using Cellebrite products but many other products. Cellebrite is one of the most trusted products. Others include FTK, Encase, etc.," —  Prof Triveni Singh, the Superintendent of Police in Uttar Pradesh Police’s Cyber Crime wing
+
+A tender floated in February by Kerala Police for acquiring cyber forensic tools for its District Forensic Laboratory in Alappuzha stated the need for Cellebrite products and forensic imagers such as TX1 (a device that can capture drives on iMac and Mac Mini) which is also used by Punjab Police.
+
+We also found tenders for acquiring similar tools, floated by police in West Bengal and Jammu and Kashmir.
+
+Delhi Police has tools including Cellebrite's UFED, Swedish firm MicroSystemation AB's (MSAB) XRY tool (also used by Punjab Police), Russian firm OXygen Forensics' Detective, and Czech firm Compelson Lab's' MOBILedit (both also used by Hyderabad Police). We reached out to Delhi Police for comments but are yet to receive a response.
+
+In 2019, Kerala was rocked by a sensational case wherein a 30-year-old woman, Rekha Mol, was strangled by at least two men, and her salt-covered body was buried in a half-dug grave that even had saplings planted over it to ward off suspicion, according to this NDTV report. Initial evidence pointed towards the victim's boyfriend Arun Nair and his brother Rohit Nair. However, upon interrogation, police found that Nair and his brother had destroyed Mol's phone, a Xiaomi Mi Max 2, and scattered the pieces in a forest to destroy evidence.
+
+After a painstaking search, police found the phone parts but they had to be re-assembled in order for the phone to function again. "We don't have a technical person on staff or extra accessories to put together a broken phone," AS Deepa, Assistant Director at Kerala Police Forensics Laboratory was quoted as saying in a case study by Cellebrite. Then, Deepa found that the mobile's motherboard was working. She purchased a new display unit for Xiaomi Mi Max 2, attached the motherboard, and booted the phone. "The power switch was partially broken, but still attached to the phone. And the phone came on," Deepa said in the case study.
+
+However, the police's trouble was far from over as they learned that the victim's phone had a long and complicated password. It was then that she and her team used Cellebrite Digital Intelligence Solutions, to crack the password, the case study said.
+
+"Using Cellebrite Digital Intelligence solutions, Deepa and her team were able to collect critical evidence. Deepa found WhatsApp chats between Mol and Nair, as well as recorded conversations, photos, and videos between the two. From this evidence, it was clear that Nair had asked Mol to meet him at his new home, which was under construction, just next to the site where Mol’s body was later found." — Cellebrite case study
+
+As substantiated by these case studies, in the last few years, cyber forensic tools are increasingly being used for investigating traditional criminal cases. "The ambit of forensics tools is not just limited to Cyber Crimes. Nowadays, forensics tools help the Investigation Officer to trace the conventional crimes like murder, rape, dacoity, etc.," Vijay said.
+
+Apart from that, she added that cyber forensic tools have helped to solve cases in Punjab pertaining to —
+
+Hyderabad Police's KVM Prasad also explained how they go about investigating crimes and when they use these tools. "First we study call details. Based on the call detail, which come from the phone companies, we triangulate the area from where the call was made. Then we go to the area and inquire locally, and the accused is caught,” said . It is then that the cyber forensic tools are used by the police to crack open an accused’s phone. “ In every case, we take an image of the device and go forward accordingly ,” he added.
+
+Prasad also said that the accused has to be given a copy of what the police has extracted (forensic image) from the device as evidence (punchnama). "What we have seized, should be intimated to the accused also," he added.
+
+A punchnama is made up of file and folder names, date attributes (modified, created) and MD5/SHA1 checksums. The checksum helps verify the integrity of a file. say, if one sends you an email with a ZIP archive. As long as you don’t make any changes to that archive, the checksum will not change -- Karan Saini, security researcher
+
+While stressing their importance, Saini said, "Punchnamas are essential because, files can be hidden from the user’s view but still be present on a system. In the Bhima Koregaon/Surendra Gadling case, files are alleged to have been planted by an attacker using malware . Though the punchnama wasn’t useful there for uncovering the planted evidence, it could be useful in certain cases, like finding malware."
+
+However, cybersecurity expert Anand Venkatanarayanan was skeptical about when the punchnama is supplied by the police to the accused. "What is the time frame for giving the checksum? The punchnama cannot come after 3 months (after seizing the device)."
+
+"During the court trials, scientific/forensic evidence lends credence to prosecution case resulting in better conviction rates. Proper processing of crime scene, preservation of evidence and forensic analysis play a vital role in fortifying prosecution’s case and lead to certainty of punishment," Punjab Police's Vijay said.
+
+Similarly, UP Police's Triveni Singh stressed that without using such tools, one cannot produce electronic evidence in court.
+
+"For the purpose of sending the evidence to the court, the devices are sent to a forensic laboratory (in Red Hills, Hyderabad). Forensic officials analyse the devices and provide their inputs in the form of a report." — KVM Prasad, ACP in Cyber Crime Wing of Hyderabad City Police
+
+However, cybersecurity expert Anand Venkataranayanan disagreed . He said that if an investigator knew what to look for in a phone, then using cyber forensic tools can be avoided. For instance, he said, if an investigator wanted someone’s WhatsApp data, they can easily approach WhatsApp which will give you the metadata. “You can figure out so much from metadata.”
+
+Since Cellebrite had once offered to crack an iPhone for the FBI, we asked Hyderabad Police's Prasad if they have been successful in cracking such devices. “While we are able to crack a few models of iPhones, we are also not able to crack others. However, we have other tools for that,” he responded. Prasad declined to name those tools, claiming that it would hamper future investigations.
+
+"Success rate of forensic tools available in State Cyber Crime Cell, SAS Nagar (in Mohali district of Punjab) is on the higher side. As the technology gets upgraded every moment, encryption is a challenge in achieving success rate." — Nilambari Jagdale Vijay, Punjab Police's Additional Inspector General (AIG) in Cyber Crime
+
+“We are not actually aware of what all capabilities that [the software tools] have but for us, it is a big challenge to actually get data from devices,” Delhi Police's former Cyber Cell DCP Anyesh Roy had once said earlier during an interaction with MediaNama. Rahul Mehra, the standing counsel for Delhi Police had also said, “[T]here are tools in the FSL which can actually unlock a particular device. Probably the only one where [they] are facing difficulty is Apple. Other than those, I think all other devices can be easily opened up.”
+
+Police officials told MediaNama that when a forensic image of a smartphone or a hard disk is created, data from the entire device is extracted. This means that the police will have data that is not just important for the case in question but also that which is non-essential. "And they remain as part of the evidence," police officials said.
+
+Why?
+
+“The process of copying data from a device is called imaging. It is the image of the original device. We can not separate it into useful data or otherwise. It has to be intact and no tampering is done…Any unnecessary change in the state of the device may make evidence inadmissible,” Anoop Shetty of Bengaluru Police said.
+
+Punjab Police’s Vijay reiterated the same point and said, “Data retrieved from the hard drive or a smartphone, by using cyber forensic tools, are fully preserved by making forensic images of the hard drive or a smartphone. Whole copy of data is preserved as evidence and kept as a copy of original digital evidence of the device seized during investigation. Data which is not necessary for investigation is also preserved along with the data which is useful in the investigation .”
+
+Providing further insight on this, Apar Gupta, Executive Director at Internet Freedom Foundation, said that Section 65B of the Information Technology Act states that a mirror copy of the original device has to be created. Gupta explained that, according to the law, the usage of cyber forensic tools should be as per the statement given in the first information report. “And then it’s only used for the purposes of investigation, which is then filed in the court within a charge sheet. ,” he added.
+
+"If a person only takes selective data, then it opens a very wide range of potential outcomes in which an accurate description of that activity will not come through. Hence, at the stage of collection by itself, sometimes you can reasonably foresee what may be relevant, what may not be relevant. However, later on, you may discover things which were not originally there or things which you had taken which are not essential for the purposes of investigation. And finally, what I'll also say is that the mirror image copy also provides the basis to the defence to state that please look at my larger conduct by the evidence provided to the police." — Apar Gupta, Executive Director, IFF
+
+UP Police’s Prof Triveni Singh admitted that there may be privacy concerns that one may have with this practice.
+
+"When we create an image of the entire phone, we use the evidence that is related to the case. The rest of the evidence is not of much use. What is the privacy here? That is the issue. So the responsibility lies with the police and the agency to keep it a secret. " – Prof Triveni Singh, Uttar Pradesh Police
+
+Apar Gupta found it ‘troubling’ that there can be avenues of using the existing information accrued from a device for a particular case in activities such as profiling or registration of subsequent FIRs . “I would say that registration of subsequent FIRs may be unethical. There may not be a legal bar to that.”
+
+Mishi Choudhury, tech lawyer and founder of Software Freedom Law Center (SFLC.in) said, “Such invasive forensic search of the entire contents of a phone when police only has cause to search some of the data on the phone. The warrants in such cases should be strictly limited . The police have no business in looking at personal photos or banking information if they are looking for some  unrelated evidence.”
+
+Venkatanarayanan explained that if someone is suspected or booked in a case under the Prevention of Money Laundering Act, then it makes sense for the police to find the person’s financial details. “Why is the person’s personal matter interesting to you?” he asked.
+
+Gupta called for reforms in India’s surveillance and criminal justice system. He also said that a data protection law would help in a way, although Indian law enforcement would be largely exempted from its provisions. He explained, “Data protection would plug in certain gaps. A private contractor will need to implement security practices, data integrity practices, etcetera, which come through the development of data protection laws.”
+
+While calling for more limits on digital evidence gathering, Choudhury said, “Today, smartphones have become an extension of our brains and bodies, resulting in phones containing vast troves of our personal information, making the requirement of strict limits on such invasive evidence gathering necessary to preserve privacy. Any kind of justification for technological and administrative convenience purposes is no real justification and is not based in law especially after the Puttaswamy judgement by the SC.”
+
+She also said, “India as a democracy is long due for an overhaul of the surveillance framework and infrastructure that has been in operation unbridled. There is no judicial or parliamentary oversight, courts are always hesitant to intervene to reign in Executive machinery. The lack of regulation and protections against unrestricted use of surveillance tech affects us all but disproportionately impacts victims when a  criminal case is involved.  Such technology if used unbridled are not only unjust, they’re dangerous."
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Do you want to keep track of privacy legislation in India but don’t have the time? Relying on scattered content from across the web makes it feel harder than it needs to be.
+
+Subscribe to MediaNama and get crisp, timely updates on tech policy developments in India and across the world.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+Update, March 16, 7.57  pm, : Added additional inputs by Hyderabad City Police ACP KVM Prasad, security researcher Karan Saini and cybersecurity expert Anand Venkataranayanan regarding checksum/punchnama of electronic evidence
+
+Update, March 16, 9.41 pm: The designation of Nilambari Jagdale Vijay, Additional Inspector General (AIG) of Punjab Police's Cyber Crime wing was wrongly put as Additional Director General (ADG). Error is regretted.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,18 @@
+SUBREDDIT: r/india
+TITLE: Aadhar linking questions [NP]
+DATE: 2017-09-08
+SCORE: 23
+URL: https://www.reddit.com/r/india/comments/6ysyh7/aadhar_linking_questions_np/
+
+--- POST TEXT ---
+
+Hello experts, please clarify these: 
+
+1. When I applied for Aadhar, I gave my mobile number. I receive Aadhaar related sms in this number. Do I still need to goto Telco to link Aadhaar with this mobile number? 
+* When I applied for Aadhar, I gave my SBI bank account number. Do I still need to goto SBI to link Aadhaar with this account number? 
+* What happens when we "link" Aadhaar number with mobile number? I see they do an authentication (fingerprint, sms, etc). Once this approves, does the Telco update "Aadhaar linked = true" in their database, or do they store entire Aadhaar number (&amp; what more details?). 
+IMO, The former is reasonable &amp; would suffice for " security verification of mobile numbers /users. 
+If latter: what info-sec guidelines are in place for telcos to follow? In case of data breach, can they pass the buck saying " _we've outsourced the db admin to xyz company_ " ?
+* Telcos are unable to do the linking when phone number and Aadhaar number are from different states. Why so? 
+* Are telcos using this opportunity to gather additional demographic data from the users? 
+* My grandfather has a mobile number in his name, since 2007. Now he's very old and cannot go out of home. How to do Aadhaar linking for his number?

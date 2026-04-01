@@ -1,0 +1,33 @@
+It’s a shame that Facebook is not notifying users that their data has been breached. This is personal information that has been breached, impacting over 500 million users worldwide and, from what I’ve read, an estimated 6.1 million users in India. At the same time, in India you have Mobikwik denying that their data has been leaked, when many users, including me, were able to validate data on the website put up by the hackers. What indicated to me that the data is mine was the fact that it had the accurate date of the creation of my Mobikwik account in 2013, when, in order to inflate its user base, the company had created wallet accounts for users without their content , based on transactions being made via its payment gateway Zaakpay. How could they deny the validity of the leak/breach?
+
+A fundamental question around data today is about its ownership: who owns a user’s data? Is it the user, on whom the data is based, or the company which collects this data? Do we transfer ownership of our data when we subscribe to a service? What about data that is co-created, based on our usage of services?
+
+India’s Personal Data Protection Bill has attempted to address some of these issues by treating companies as “data fiduciaries” instead of owners of data. Fiduciary means trustee. This means that we do not trade our data when we subscribe to a service: we entrust a company with our data.
+
+Trust is at the core of this relationship.
+
+In both these cases, of Facebook and Mobikwik, our trust is being violated. It shouldn’t be optional for these companies to inform us of the data breach. They shouldn’t have the right to choose not to inform users. Nor should it be their right to claim that it hasn’t been leaked, or that data hasn’t been compromised, when it is evident that it has.
+
+Why? Because we deserve to know when our data has been compromised, in order to protect ourselves. You and I, as evolved Internet users, might have the ability to set up security mechanisms to protect ourselves. We might know of websites like Troy Hunt’s Have I Been Pwned where we can check where our data has been compromised, so we may take adequate precautions. A majority of the Internet users are not in a position to do this. They deserve to know. The responsibility to inform them lies with the platforms that collect their data, and store it as trustees.
+
+To not inform us about a leak or a hack is a breach of trust.
+
+If India’s Personal Data Protection Bill, 2019 were to become law in its current form, one area where it fails us as users is that it still doesn’t incorporate our right to know that our data has been breached. The Data Protection Authority needs to be informed by the company, upon data being breached, but it is the Authority that has the final say regarding whether users will be informed, and when users will be informed.
+
+This approach is also problematic. There are only two rational reasons for not informing users about a data breach immediately: the first is that the vulnerability may still be there, and the data can still be accessed, in which case it makes sense to not make the information public until the hole in the bucket has been plugged.
+
+The second is to protect the reputation of the company or the government department involved. We saw this with the UIDAI, which repeatedly denied the fact that user data had been compromised, whether it was the publishing of Aadhaar related data online by various government departments (which we covered extensively on MediaNama), or the access to database that was being sold over WhatsApp using admin credentials, reported by Rachna Khaira for the Tribune. The government repeatedly said that biometric data has not been compromised, but declined to acknowledge that other data had. This kind of irresponsible behaviour cannot be allowed when privacy is a fundamental right.
+
+As Bruce Schneir famously said, data is a toxic asset . The cost of the loss of personal data is far greater for a user than the benefit of it being collected by a company or a government.
+
+To deny the user the right to know that their data has been compromised is to deny them the awareness that they are at risk, and the right to protect themselves and their assets.
+
+The UPI scams that are commonplace in India today can partly be attributed to this lack of awareness. Denying leaks and breaches and not informing users of leaks should not be permitted.
+
+We bear the risk.
+
+We need to know.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

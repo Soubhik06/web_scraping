@@ -1,0 +1,31 @@
+The Cyber Crime Wing of the Tamil Nadu police has issued an advisory cautioning the public against fraudsters who are using artificial intelligence-based voice cloning techniques to scam people over phone calls, according to a report by The Hindu.
+
+What is the modus operandi of the scammers?
+
+According to a press note shared with MediaNama by the TN police Cyber department, scammers are now employing AI-based techniques to impersonate a victim’s family member or acquaintance on call and deceive them into transferring money claiming an emergency. Importantly, according to the police, the fraudsters source a voice sample of an individual from their social media posts and videos or by talking to them using the ‘wrong number’ method. The voice sample is then used to clone the voice of that person using an AI software and target the individual’s family members.
+
+“This technology allows them to mimic the voice, intonation, and emotional nuances of the victim’s trusted contact convincingly. In a nutshell it utilizes AI generated clone of voice for committing cybercrimes,” the advisory added.
+
+Additionally, as per the observations of the police, the scamsters usually request the victim to use fast payment methods like the Unified Payments Interface (UPI) system for quick transactions. Given the sense of urgency and fear that the criminals develop, the victim ends up transferring the money without conducting a background check to verify if is really someone they know on the other side.
+
+“The scammer uses various tactics to evoke a sense of urgency and emotional distress in the victim. They may employ sobbing or pleading tones, claiming to be in dire situations that require immediate help. Behind the scenes, the scammer utilizes sophisticated Artificial Intelligence (AI) software to clone the voice of the person they are impersonating,” the police explained.
+
+The advisory urges citizens the following:
+
+What is AI voice cloning?
+
+Voice cloning is essentially replication of a person’s voice, which can be done via two methods, Text-To-Speech (TTS) and Voice Conversion. According to Romit Barua, Machine Learning Engineer and Researcher from UC Berkeley, “Voice cloning involves using technology to analyze a short recording of someone’s voice and then using that analysis to generate new speech that sounds like the original speaker. This process leverages computer algorithms to capture the unique characteristics of the voice, such as tone, pitch, and rhythm. Once the system understands these elements, it can replicate them to create new speech content, making it sound as though the original person is saying something entirely new. It’s akin to creating a digital voice twin that can speak on behalf of the original person.” This means that once a scammer finds a sample voice of the person, there are technologies available to clone the voice with a considerable level of accuracy. Read journalist Zoya Hussain’s detailed explainer on use of voice cloning technology by cybercriminals on MediaNama .
+
+‘AI audio fakes are cheaper to create’
+
+In an earlier report on voice cloning, speaking to MediaNama, Rakshit Tandon, a cybersecurity expert and consultant for the Internet and Mobile Association of India (IAMAI) had highlighted that AI-based voice clones are “easier and cheaper” to create compared to deepfake videos and that audio fakes there are fewer contextual clues to detect with the naked eye. He added that these voice clones have a greater potential to spread misinformation during an election year. The report explains that voice cloning is being used to carry out several “personalised scams” to extract money or sensitive information, and there’s a rise in such scams especially in India.
+
+In another MediaNama report, journalist Zoya Hussain informed that a McAfee survey revealed that 66% of respondents from India would likely react to voice or phone calls seeking urgent financial help, particularly if the caller seemed to be a close relative like a parent (46%), spouse (34%), or child (12%), making them susceptible to scams involving AI voice cloning. The report also highlighted that 86% of Indians tend to share their voice data online or through voice messages at least once a week, enhancing the effectiveness of these tools. Read the full report here .
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

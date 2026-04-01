@@ -1,0 +1,25 @@
+The Joint Committee of Regulators (JCoR) reviewed the progress of the digital consent acquisition (DCA) platform pilot project, which is expected to finish in February 2026, as per a government press release .
+
+Discussing the progress of this pilot, the committee mentioned that so far the service has been implemented at 11 banks, through a joint effort by the Telecom Regulatory Authority of India (TRAI) and the Reserve Bank of India (RBI).
+
+For context, the DCA Platform allows service providers and principal entities like banks, business entities, and real estate companies to seek customer consent for promotional calls and messages.
+
+While the directive instructing telecom companies to create this platform came out in 2023 , TRAI had announced the beginning of this pilot project back in June this year .
+
+The current consent management system requires principal entities (the companies sending the promotional content) to obtain and maintain consent. As such, telecom companies have no way of knowing whether a user truly consented to the messages being shared with them.
+
+Under the DCA system, users’ consent data will be shared on the Distributed Ledger Technology (DLT) Platform, established under Telecom Commercial Communications Customer Preference Regulations (TCCCPR) 2018, for scrubbing by all telcos.
+
+Once the DCA is in place, users will set consent-seeking messages through a common short code (127xxx). This message will also include the purpose and scope of consent, as well as information related to the revocation of such consent.
+
+While TRAI is looking to implement the DCA platform, it is important to note that under the draft rules that operationalise the Digital Personal Data Protection Act (DPDPA, 2023), consent managers have to avoid conflict of interest with data fiduciaries including with respect to their promoters and key managerial personnel holding a directorship, financial interest, employment, or beneficial ownership in data fiduciaries.
+
+They must also not have a “material pecuniary relationship with them”, which essentially means a significant financial connection between an individual and a company that could compromise the individual’s independence. One has to wonder whether this need to avoid conflict of interest may create problems for DCA implementation, given that TRAI had directed telcos to create the platform.
+
+Under the DPDPA, a telecom company may fall within the scope of a data fiduciary. For context, data fiduciaries are people who either by themselves or or in conjunction with other persons determines the purpose and means of processing of personal data.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

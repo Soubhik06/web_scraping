@@ -1,0 +1,37 @@
+After Italy , the European Commission (EC) has also objected to Meta’s recent decision to disallow third-party AI chatbots from WhatsApp. Meta thereby violated the European Union’s antitrust rules, the EC said in a press release. As a result, the Commission plans to impose temporary measures on Meta to prevent irreparable harm to the markets, particularly in the AI-related sector.
+
+In its preliminary investigation, the EC concluded:
+
+“AI markets are developing at a rapid pace, so we also need to be swift in our action. That is why we are considering quickly imposing interim measures on Meta, to preserve access for competitors to WhatsApp while the investigation is ongoing, and avoid Metaâs new policy irreparably harming competition in Europe,” said Teresa Ribera, Executive Vice-President for Clean, Just and Competitive Transition.
+
+When WhatsApp announced changes to its Business Application Programming Interface (API) policy to block AI providers from using the WhatsApp Business Solution, MediaNama noted that this move would likely impact other AI companies, such as ChatGPT and Perplexity, that previously offered their services through WhatsApp too.
+
+As a result, AI companies that used to offer their services via WhatsApp stopped doing so on Metaâs platform. For example, when Italyâs watchdog also opposed Metaâs amendments, MediaNama tried to initiate a conversation with ChatGPT on WhatsApp, but it received a notice saying it wouldnât be offering its services on the messaging platform after January 15, 2026, the same date when Meta chose to implement their changes to API policy. When prompted now, it nudges to download its standalone app. However, Perplexity doesnât solicit any response at the moment.
+
+When WhatsApp announced this move in October, a Meta spokesperson told TechCrunch that the distribution of AI chatbots was an unexpected use of the Business API, which was designed for customer support and timely updates. Apparently, the large message volumes from third-party AI bots were straining its platform, and Meta reportedly said it had no mechanism to determine appropriate pricing for AI providers, potentially resulting in a loss of revenue when AI providers use its Business API in large volumes.
+
+WhatsAppâs dominant market position, almost like a monopoly , can create network effects that AI companies can leverage, or sometimes need, to reach the massive user base, which WhatsApp already has. Due to a shift in Metaâs API policy, AI providers that previously offered chatbot services on WhatsApp can no longer distribute their chatbots or services on the messaging platform.
+
+To illustrate its use case, Perplexity is one of the AI providers that relied on WhatsApp’s network effects. CEO Aravind Srinivas posted on X that “Perplexity on WhatsApp is a super convenient way to use AI when on a flight. Flight WiFi supports messaging apps the best,” highlighting that WhatsApp is optimised for low-connectivity areas, making it ideal for accessing AI chatbots.
+
+Perplexity is now live on WhatsApp! We hired our favorite doctor @ParikPatelCFA to test it out Message +1 (833) 436-3285 to get started pic.twitter.com/VGw6sYK4Ff
+
+Not only global big tech giants like ChatGPT and Perplexity, but also Indian firms such as PuchAI relied on WhatsAppâs platform-level distribution capabilities.
+
+ð https://t.co/Gko8h0OWI6
+
+If Meta bans competing AI chatbots from using WhatsApp as a distribution platform, wouldnât it be inadvertently forcing or nudging its users toward its in-built Meta AI chatbot? If so, this could constitute anti-competitive behaviour that market regulators should address, as the EC and Italian regulators did.
+
+It is important to note that Meta blocked only API-based access to third-party AI chatbots; AI agents can still access WhatsApp or other messaging services if installed and prompted. This could potentially create new cybersecurity risks , as cautioned by Signal’s President Meredith Whittaker.
+
+Meredith Whittaker says AI agents make encryption irrelevant. To be useful digital employees, they need system-level access to your messages, browser, files, and clicks. That collapses the blood-brain barrier between applications and the operating system. âOur encryption noâ¦ pic.twitter.com/07aG62oubm
+
+Referring to AI agents that can act autonomously and complete tasks on desktops, Whittaker warned that they could break end-to-end encryption (E2EE) in messaging apps, potentially leading to privacy breaches and data leaks. She said , âThe implementations of AI agents, especially in the OS, with pervasive permissions, insecure MCP architectures, and a requirement for data access, undermine Signalâs (and othersâ) ability to provide privacy via E2EE at the application layer. This is a big problem.”
+
+She further recommended that users avoid installing AI agents such as OpenClaw on devices that contain sensitive information they do not want hacked or leaked.
+
+Also Read:Â
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

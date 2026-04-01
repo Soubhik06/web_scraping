@@ -1,0 +1,19 @@
+In response to use of its file-sharing service, Firefox Send , by malware operators, Mozilla has suspended the service as it adds an abuse reporting mechanism to its feedback form, Mozilla Foundation confirmed to MediaNama. Once the service is relaunched (at as yet undetermined date), users will be required to sign into their Firefox accounts to use Firefox Send. All files that were in the process of being shared have been wiped from Mozilla servers; this does not affect files that had been downloaded already.
+
+ZDNet had first reported the issue. Attempts to use the service yield the following error message (other Firefox Send links that we had tried were also not working):
+
+Mozilla Foundation sent the following statement in response to our query:
+
+“These reports are deeply concerning on multiple levels, and our organization is taking action to address them. We have temporarily taken Firefox Send offline while we make improvements to the product. Before relaunching, we will be adding an abuse reporting mechanism to augment the existing Feedback form, and we will require all users wishing to share content using Firefox Send to sign in with a Firefox Account. We are carefully monitoring these developments and looking critically at any additional next steps.” — Mozilla spokesperson
+
+In June this year, Amnesty International and Citizen Lab had reported that files hosted on Firefox Send were used to target at least nine Indian human rights activists in a coordinated spyware campaign. The file that downloaded the malicious spyware, NetWire, on clicking was hosted on  Firefox Send and the link to it was sent via spear-phishing emails. NetWire is a commercially manufactured Windows spyware that gives intruders remote access to victims’ devices. Amnesty’s Etienne Maynier, who was part of the investigation into this campaign, had told MediaNama that since “these were not attached files [and hosted elsewhere], the spam filters could not do anything”, and thus the program bypassed email spam and malware filters.
+
+Firefox Send was introduced in March 2019 and uses end-to-end encryption to share files. Thus, the files themselves cannot be scanned for malware, spam, or abusive content. Since neither the sender of the file (at least up to 1GB) nor the recipient of the file need a separate account to send or access files, the process is pretty seamless, and thus more prone to abuse. Moreover, the sender can choose to set a time of expiry for the link and password, making it harder to respond to an incident of cybercrime. On other cloud services such as Dropbox, the content of files saved on the cloud is scanned for abusive content, especially child sexual abuse material.
+
+Read more: Interview: How Amnesty investigated the spying campaign against Bhima Koregaon activists | Another coordinated spyware attack on Bhima Koregaon activists uncovered
+
+***Update (July 8, 2020 9:25 pm): Updated with response from Mozilla. Originally published on July 8, 2020 at 12:39 pm.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

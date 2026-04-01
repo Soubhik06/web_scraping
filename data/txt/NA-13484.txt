@@ -1,0 +1,13 @@
+Messaging service Whatsapp has signed an agreement with Tanla Platforms to identify fraudulent phone numbers and curb scams on its platforms. According to a report by the Economic Times, Tanla’s AI-based anti-phishing solution Wisely ATP will share information about 10-digit numbers and malicious URLs to WhatsApp in real time. The Meta-owned messaging company will then perform its own due diligence and act upon the data.
+
+The move became important since India ranked third highest worldwide for the number of phishing attempts encountered in 2023, stated a report by Zscaler ThreatLabz.
+
+“Given that WhatsApp is an end-to-end encrypted channel, external signals are crucial for the platform to proactively identify a scam account and take it down before any user falls in the trap of fraud messages or suspicious web links,” stated a top executive close to the companies, reported ET . According to Wisely’s brochure , the application uses AI-ML (Artificial Intelligence Machine Learning) algorithms to evaluate components of SMS traffic (sender, message pattern, CTA, etc.) and “identify phishing intent.” The system also allows for the real-time dropping of messages identified as phishing from being delivered, flagging of sender IDs and warning alerts to users.
+
+In a similar move in June last year, the Telecom Regulatory Authority of India (TRAI) had directed all access providers to deploy AI-ML-based systems to identify spam messages, specifically unregistered senders of commercial communication. The directives dictated that access providers must ensure that the system is capable of reputation-based analysis of the message sender and factor in the age of subscription (of the sender), authentication at the time of subscription, address verification method and SMS sending/ calling pattern.
+
+However, experts have previously criticised the use of AI-ML-based systems to counter spam messages. They have expressed that while such systems can help identify spammers, it does not take any action against them or prevent them from becoming repeat offenders. “Our problem now is that we are looking for tech solutions to problems of implementation or governance. One cannot replace the other,” stated Saikat Datta, CEO of DeepStrat, in an interview with Medianama .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

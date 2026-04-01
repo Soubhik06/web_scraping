@@ -1,0 +1,65 @@
+By Mitaksh Jain, Sarvesh Mathi, Nishant Kauntia, and Anushka Jain
+
+India’s Ministry of Electronics and Information Technology (MeitY) attempted to clear the air on its controversial Information Technology (IT) Rules, 2021, by releasing a set of frequently asked questions (FAQs) on November 1. MeitY is expected to release another document on the Standard Operating Procedures for the Rules, Minister of State (MoS) for IT Rajeev Chandrashekhar said at a press conference on the same day.
+
+Since it took effect on May 26, the IT Rules have faced pushback and court challenges as it stands to fundamentally alter the digital regulation landscape in India.
+
+While the FAQ document goes through various questions on the applicability, due diligence provisions, penalties, etc. of the IT Rules related to social media intermediaries; here’s a roundup of what was not clarified by MeitY.
+
+Inclusion of juridical persons: The IT Rules define a user as any person who accesses or avails computer resource of an intermediary or a publisher for the purpose of hosting, publishing, sharing, transacting, viewing, displaying, downloading or uploading information and includes other persons jointly participating in using such computer resource and addressee and originator;
+
+Interaction undertaken by entities: The set of rules do not establish what constitutes an online interaction except that it is one when two users are involved. The nature of users has not been examined by the Rules.
+
+Timeline for preserving information and records: The IT Rules mandate that the intermediary must preserve information and associated records for 180 days for investigation purposes, or for a longer period if required by the court or “by government agencies who are lawfully authorised” without tampering with the evidence.
+
+Grounds for nature of impersonation: The Rules dictate that an intermediary must “take all reasonable and practicable measures to remove or disable access to content” which exposes the private area of an individual, shows the concerned individual in full or partial nudity or in any sexual act or conduct, or is in the nature of impersonation in an electronic form, including artificially morphed images of such individual, hosted, stored, published or transmitted by the intermediary within 24 hours from the receipt of a complaint made by an individual or any person on his behalf.
+
+Scope of artificially morphed images: As mentioned above, the Rules direct intermediaries to remove content which includes artificially morphed images of an individual who has raised a grievance with the intermediary within 24 hours of the receipt of the complaint under Rule 3(2)(b).
+
+Alignment with the Supreme Court’s judgement in Shreya Singhal case : The apex court directed that intermediaries are required to disable access to content only upon receiving a court order or a notification from an appropriate government agency. Intermediaries were not to act upon complaints by users to avoid adjudication upon such complaints involving questions of freedom of expression.
+
+But the IT Rules require intermediaries to deploy tools to proactively identify and remove certain types of content that depict rape, child sexual abuse, or any information which is exactly identical in content to information that has previously been removed by the intermediary.
+
+Determining intentionality of users: As per the IT Rules, a social media intermediary should inform its users “not to host, display, upload, modify, publish, transmit, store, update or share any information that deceives or misleads the addressee about the origin of the message or knowingly and intentionally communicates any information which is patently false or misleading in nature but may reasonably be perceived as a fact.”
+
+Safeguards around government take-down requests: As per the IT Rules, social media intermediaries, upon receiving a court order or notification from the Appropriate Government or its agency, must remove content that is deemed unlawful within 36 hours.
+
+Stop-the-clock provisions for complaints and take-down requests: As per the IT Rules, there are various time frames prescribed for action to be taken by an intermediary in the event of receiving a complaint from a user or a takedown request by a government agency.
+
+Informing users of nonmaterial changes to policies: As per the IT Rules, the intermediary shall periodically, and at least once in a year, inform its users of its rules and regulations, privacy policy or user agreement or any changes to these.
+
+Which government agency can demand information? As per the IT Rules, the intermediary is required to “provide information under its control or possession, or assistance to the Government agency which is lawfully authorised for investigative or protective or cyber security activities, for the purposes of verification of identity, or for the prevention, detection, investigation, or prosecution, of offences under any law for the time being in force, or for cyber security incidents.
+
+Personal liability of Chief Compliance Officer: As per the IT Rules, intermediaries must “appoint a Chief Compliance Officer who shall be responsible for ensuring compliance with the Act and rules made thereunder and shall be liable in any proceedings relating to any relevant third-party information, data or communication link made available or hosted by that intermediary where he fails to ensure that such intermediary observes due diligence while discharging its duties under the Act and rules made thereunder.”
+
+Can independent contractors fill required positions? As per the IT Rules, intermediaries are required to appoint a Chief Compliance Officer, a nodal contact person, and a resident grievance officer.
+
+Determining authenticity of a government request: As per the IT Rules, authorized government agencies can issue notification for content take down or demand information and assistance from an intermediary.
+
+Reporting offences detected by automated removal: As per the IT Rules, intermediaries are required to “endeavour to deploy technology-based measures, including automated tools or other mechanisms to proactively identify information that depicts any act or simulation in any form depicting rape, child sexual abuse or conduct, whether explicit or implicit, or any information which is exactly identical in content to information that has previously been removed” and “display a notice to any user attempting to access such information.”
+
+Holding automated systems accountable: As per the IT Rules, any automated systems or tools used by an intermediary for removing offensive content such as rape or child sexual abuse material must have appropriate human oversight and undergo a periodic review. Furthermore, this review must “evaluate the automated tools having regard to the accuracy and fairness of such tools, the propensity of bias and discrimination in such tools and the impact on privacy and security of such tools.”
+
+User verification mechanisms: As per the IT Rules, social media intermediaries must “enable users who register for their services from India, or use their services in India, to voluntarily verify their accounts by using any appropriate mechanism, including the active Indian mobile number of such users, and where any user voluntarily verifies their account, such user shall be provided with a demonstrable and visible mark of verification, which shall be visible to all users of the service.”
+
+Tracing the first originator of a message: As per the IT Rules 2021, significant social media intermediaries (SSMI) providing “services primarily in the nature of messaging” must be able to identify the ‘first originator’ of a specific message on their platform.
+
+What hasn’t been clarified:
+
+Determining the first originator without breaking encryption: The rules say that no SSMI will need to disclose message content, any other information related to the first originator or other users. In the FAQ, MeitY has also said that “the intent of this rule is not to break or weaken the encryption in any way.”
+
+What hasn’t been clarified:
+
+Less intrusive means: Such traceability will not be required if less intrusive means are effective in identifying the originator, the IT Rules say.
+
+Issuing a traceability order: In order to request information regarding the first originator under the rules, a court or competent authority will need to send an official order to the platform with a copy of the information to be traced.
+
+The location of the first originator: As per the IT Rules, the first originator for the purpose of the traceability clause will be “the first originator of that information within the territory of India.”
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

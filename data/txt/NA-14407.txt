@@ -1,0 +1,37 @@
+Meta will now require advertisers promoting investment and securities-related products to Indian users to submit their Securities and Exchange Board of India (SEBI) registration number or, if exempt, complete alternate identity verification. “All advertisers running securities and investments ads in India (including global campaigns) must verify the person or organisation benefiting from and paying for the ad by providing their SEBI registration information,” Meta said in a blog post .
+
+The platform began rolling out this verification process on June 26. By July 28, it expects the option to be available to all eligible advertisers. Starting July 31, Meta will begin enforcing compliance, although advertisers will get at least a month from the date they’re notified to complete the process.
+
+This policy applies to all ads targeted at Indian users, including global campaigns. Meta will display the verified beneficiary and SEBI registration number as a disclaimer on the ad. That information will also stay accessible in Meta’s Ad Library for up to seven years.
+
+The verification process unfolds in two steps:
+
+Advertisers must also include regional regulation metadata such as ‘regional_regulated_categories’ and ‘regional_regulation_identities’ in new ad sets starting July 31. However, ads published before that date won’t require retroactive changes, provided the advertiser account is already verified.
+
+For SEBI-registered advertisers , Meta requires the submission of the SEBI registration number, along with the email ID and phone number linked to that registration. A confirmation code is then sent to one of these contact points to complete the verification, which is processed immediately once confirmed.
+
+Those who are exempt from SEBI registration can verify their identity in other ways. Individuals must upload a government-issued ID, while organisations are asked to submit business verification documents. Meta typically reviews these submissions within two working days, after which the ad will carry a disclaimer stating, “SEBI registration number: not registered.”
+
+To ensure transparency, Meta also displays the name and location of both the beneficiary and payer, along with the SEBI registration number, where applicable. This information appears in the Ad Info section and remains accessible in Meta’s Ad Library.
+
+Meta’s move might have been prompted by a March 2025 advisory from SEBI , which flagged rising investor scams across platforms like YouTube, Instagram, Telegram, and X. The regulator asked all intermediaries to register their contact information with major platforms and required verification of SEBI-registered entities before allowing them to run investment ads.
+
+Several other platforms have taken their own approaches to curb unregulated financial advertising:
+
+Each of these platforms has addressed financial ad risks to some extent, but enforcement and verification practices may vary significantly.
+
+Meta’s new policy is a step toward better oversight, but it doesn’t cover everything.
+
+India’s financial advertising space is evolving rapidly, especially as more users turn to social media for investment advice. Meta’s new policy brings some structure to how paid financial promotions reach Indian audiences. By making SEBI verification mandatory for investment-related ads, Meta aims to reduce the risk of scams and false claims reaching users through sponsored content.
+
+Given SEBI’s increasing scrutiny of unregistered financial advisors and its push for better platform accountability, Meta’s policy can help formalise how financial services appear on its platform. But enforcement is not always straightforward.
+
+Deepak Shenoy, Founder and CEO of Capitalmind, told MediaNama previously that holding regulated entities responsible for finfluencer activity may not be realistic. “This might be like saying that when someone else in your neighbourhood is behaving in an ill-mannered fashion, you have to pay a penalty because, on a certain level, you may have control over other people’s actions, despite them being registered as a distributor or such,” he said. Shenoy added that if finfluencers embed broker or mutual fund ads in their videos while offering advice, it could still count as a regulatory violation.
+
+However, much of India’s financial content still circulates through unpaid posts or indirect promotions that fall outside this policy’s scope. Without consistent checks across formats, advertisers may continue to find workarounds. While Meta’s verification adds a layer of transparency, the effectiveness of this system will depend on how the platform enforces it and how it evolves with SEBI guidelines.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

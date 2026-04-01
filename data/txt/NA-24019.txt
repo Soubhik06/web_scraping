@@ -1,0 +1,27 @@
+SUBREDDIT: r/bangalore
+TITLE: No, your account has not been hacked, you gave away the control!
+DATE: 2022-08-20
+SCORE: 13
+URL: https://www.reddit.com/r/bangalore/comments/wtcheq/no_your_account_has_not_been_hacked_you_gave_away/
+
+--- POST TEXT ---
+
+Recently I’m seeing lot of Instagram stories saying their account has been hacked, but let me clear it. No it’s not. You think if there was a back door to one of the largest social media platform things would be silent? Would have been on front page of every news if it was the case.
+
+Unless we gave them something to login they cannot take control over your account.
+
+So thought to share some very basic steps we can take to secure our account 
+
+1. Turn on dual factor authentication, now this will save you 100% of time unless they have your operational SIM card/ mobile with them
+
+2. Choose strong password, other reason would be your password was too easy and what we call brute force attack would have taken hours to bypass it, if it’s alphanumeric and special character consisted password, it would take years to bypass them
+
+3. Never share otp! Again, this is related to dual factor authentication, never share an otp, not to your closest friends, dost, zip nada!
+
+4. Don’t enter your creds in any website claiming it’s from Instagram or any sus looking webpages or click on any links(No, you haven’t won $24,00,000). One way to confirm is looking at url if it’s https and not http. And this also doesn’t guarantee the safety some times, so better to avoid it. This is called phishing.
+
+5. Don’t keep same password across many logins, now if any other not so secure web page or apps database get hacked, they have your password because it’s the same across!
+
+These are not just specific to Instagram, but basic security guidelines.
+
+Feel free to add comments, if there are any points I missed.

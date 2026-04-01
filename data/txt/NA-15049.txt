@@ -1,0 +1,25 @@
+A day after Bharti Airtel released its artificial intelligence (AI) based spam detection system, BSNL announced that it plans to do the same. The company mentioned that its AI/ML (machine learning) powered solution to spam is in the final stages and that it has designed the solution to “neutralize & eliminate scams” before they reach the user.
+
+Good news! We’ve cracked it. A breakthrough AI/ML-powered solution is in its final stage, designed to identify, neutralize & eliminate scams before they reach you. The future of digital security is #ComingSoon . Big reveal at India Mobile Congress 2024. #BSNL #BSNLAntiSpamNetwork pic.twitter.com/XBZCn25kzS
+
+With two out of four telecom companies announcing their spam solutions, one is inclined to believe that the other two — Reliance Jio and Vodafone Idea (Vi) — will also follow suit. This is highly likely considering the fact that in June last year , the Telecom Regulatory Authority of India (TRAI) had instructed telecom companies to deploy AI/ML-based systems to detect unauthorised commercial communication (spam calls and messages).
+
+These systems would also ensure that telcos comply with the amendments to the Telecom Commercial Communication Customer Preference Regulations, 2018 (TCCCPR-2018) that the regulator recently proposed in its consultation paper . This paper suggests that telcos must have a proactive mechanism where they track users if they are sending more than a prescribed number of calls/messages in a day.
+
+TRAI’s directive stated that the AI/ML-based spam detection system must identify those business entities that did not register for commercial communication under TCCPR 2018. As per TRAI’s directives, this system must be capable of reputation-based analysis of message senders.
+
+The system must also factor in the age of a user’s subscription,  authentication at the time of subscription, address verification method, and SMS sending/ calling pattern. The regulator argued that while spammers are typically quick to change tactics, an AI/ML-based spam detection system would be able to evolve and deal with the new patterns and new spam techniques.
+
+Even prior to TRAI’s directive, telecom companies were already working on AI/ML-based spam detection measures. According to a MediaNama report , Vi had proposed a system that uses AI/ML to detect patterns of fraudulent messages in March last year. The regulator had even given Vi permission to conduct a trial based on its proposed system, stating that TRAI would draft its spam regulations factoring in AI/ML solutions.
+
+In its press conference announcing the spam solution, Airtel said that it is currently limiting the scope of its AI to detection, even though it can block callers. “The reason we’re not blocking right now is because there are some false positives, for example, a call coming from a Swiggy, could show up as spam but its not necessarily spam,” Gopal Vittal, Airtel’s Managing Director explained. He said that he has written to telco CEOs to cross-share data of business-to-business (B2B) users. “Because I would much rather say Swiggy calling,” he added.
+
+Without this cross-sharing, the average user might ignore calls marked as suspected spam even if they actually needed to communicate with the business, which currently emerges as a drawback for Airtel’s spam detection measure. For instance, let’s say you ordered a watch from a company, and the company is giving you a call to update you about the status of your purchase or its delivery. If a user sees this call marked as spam they might not answer the phone, thereby missing crucial information. Similarly, for businesses, it could become much harder to reach their customers.
+
+Vittal also spoke about TRAI’s recommendation for caller IDs in the telecom ecosystem. He argued that instead of identifying all callers, this system would be more effective if telcos could just implement it for B2B callers. “If I [the user] know which company is calling, then it a straight benefit to the user, and for the P2P [person to person] messaging, CNAP will not help, you need a solution,” he argued.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

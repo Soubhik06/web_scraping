@@ -1,0 +1,27 @@
+Around 5 million people have had their personal information stolen and sold on “bot markets,” of which 600,000 are from India, according to a press release by VPN provider NordVPN. The average price for the digital identity of one person is 490 INR,” as per the document referred to above.
+
+What are bot markets? “The word ‘bot’ in this situation does not mean an autonomous program – in this case, it refers to data-harvesting malware. Bot markets are online marketplaces hackers use to sell data they have stolen  from their victims’ devices with bot malware. The data is sold in packets, which include logins, cookies, digital fingerprints, and other information — the full digital identity of a compromised person,” the press release explained.
+
+“What makes bot markets different from other dark web markets is that they are able to get large amounts of data about one person in one place. And after the bot is sold, they guarantee the buyer that the victim’s information will be updated as long as their device is infected by the bot. A simple password is no longer worth money to criminals, when they can buy logins, cookies, and digital fingerprints in one click for just 490 rupees.” — Marijus Briedis, CTO at NordVPN
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+Why does this matter? The report cited in NordVPN’s press release is yet another reminder of why India needs better cybersecurity policies and practices, not just at an institutional level but also at the user level. According to the press release, India was the most affected country in the world, with 12% of all the data on bot markets being Indian. Separately, the press release interestingly claims that the average price of a digital identity is ₹490, which indicates how valuable the market for stolen data is.
+
+What information do hackers sell on bot markets? According to the report, the following types of stolen data are sold on bot markets:
+
+Which bot markets were analysed? “Researchers analyzed three major bot markets: the Genesis Market, the Russian Market, and 2Easy. All of the markets were active and accessible on the surface web at the time of analysis. The data on bot markets was compiled in partnership with independent third-party researchers specializing in cybersecurity incident research,” the press release stated. NordVPN has tracked data for the past four years.
+
+Common types of bot malware: “The most popular types of malware that steal and gather data include RedLine, Vidar, Racoon, Taurus, and AZORult. RedLine is the most prevalent of them all. For example, in the Russian market, it takes more than 60% of the whole marketplace,” the report stated.
+
+Why is this data harmful in the wrong hands?
+
+How to protect yourself? NordVPN listed the following measures users can take to protect themselves:
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

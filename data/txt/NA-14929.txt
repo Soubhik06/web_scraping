@@ -1,0 +1,27 @@
+Microsoft has introduced a new framework called PyRIT (Python Risk Identification Toolkit for generative AI) for the automation of red teaming processes or finding risks in generative AI systems, according to a blogpost by the company on February 22, 2024. Red teaming refers to a structured process of testing AI systems to find “flaws and vulnerabilities” in order to discover and manage the risks posed by generative AI.
+
+While PyRIT will not replace manual red teaming of GenAI systems, Microsoft says the toolkit will assist an AI red teamer by automating tedious tasks and help expand the engineer’s domain expertise.
+
+“PyRIT shines light on the hot spots of where the risk could be, which the security professional can then incisively explore. The security professional is always in control of the strategy and execution of the AI red team operation, and PyRIT provides the automation code to take the initial dataset of harmful prompts provided by the security professional, then uses the LLM endpoint to generate more harmful prompts,” the blog stated.
+
+Why is Microsoft automating its AI red teaming process?
+
+1. Identifying security and responsible AI risks: Unlike traditional or classical AI systems, generative AI systems present both security as well as responsible AI risks, Microsoft informed. Responsible AI risks vary widely and mainly relate to biased output, inaccurate content, or misinformation.
+
+2. Generative AI systems have layers of non-determinism: This means generative AI can generate different outputs for same input for varied technical reasons. The company has learned that such systems require red teaming strategies that consider the “probabilistic nature of their underlying elements”.
+
+3. Generative AI systems architecture is different from classical AI systems: There exists a wide difference in the architecture of generative systems—from standalone applications to integrations in existing applications to the input and output modalities, such as text, audio, images, and videos, the blog noted. Microsoft stated that identifying one type of risk, for example, generating violent content, in one type of application such as a chat interface or a browser, requires red teams to try out different strategies for collecting evidence. The manual process, hence, can be slow and tedious.
+
+The blogpost explains the components of PyRIT in terms of its ability to adapt with multiple modes of generative AI systems to identify risks and to provide the system with memory of these interactions. Here are the key components of the process:
+
+1. Targets: According to Microsoft, PyRIT supports a variety of generative AI “target formulations” such as a web service of an application, can respond to various types of inputs and acts “as an adaptable bot for AI red team exercises on designated targets, supporting both single and multi-turn interactions”.
+
+2. Datasets: This data includes different prompts encoded by security professionals, which essentially act like commands for what the system needs to be probed for. “Prompt templates allow the security professionals to automatically encode multiple harm categories—security and responsible AI failures—and leverage automation to pursue harm exploration in all categories simultaneously,” Microsoft explained.
+
+3. Extensible attack strategy: PyRIT enables engineers to deploy a multiturn strategy for red teaming. This means, the system sends a combination of jailbreak and harmful prompts to the AI system, scores the response and responds to the AI system based on the score. The company stated that this method allows for more realistic and advanced attack strategies.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

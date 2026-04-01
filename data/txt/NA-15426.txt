@@ -1,0 +1,29 @@
+WhatsApp is now offering AI-generated summaries of unread private messages to users in the United States, according to a blog post from the company on June 25. The feature uses Meta’s Private Processing technology, which it claims can generate a response without Meta or WhatsApp ever seeing your messages or the private summaries. The message summaries are optional and turned off by default. Additionally, users can use the Advanced Chat Privacy feature to turn off AI functionalities for group chats.
+
+According to Meta, Private Processing creates a secure cloud environment where AI models can process data without exposing it to unauthorized parties. First, the system checks the authenticity of the device using anonymous credentials. It then sets up a secure connection that hides the device’s identity from Meta and WhatsApp. The device sends encrypted requests—like summarizing messages—which only the device and the system can decrypt. The AI processes the data without storing any of it, and the results are sent back encrypted, ensuring only the device and the server can access them.
+
+Meta claims that the process employs strict system software security measures, such as prohibiting remote shell access and using code isolation, while defending against supply chain and source control attacks through established best practices. The system uses confidential virtualization technologies and attestation to guarantee the security of each session. It operates statelessly, storing no user data after processing, and ensures non-targetability by using the Oblivious HTTP (OHTTP) for anonymous user authentication.
+
+The company had first unveiled the technology last month, when MediaNama pointed out that while Meta offered privacy protection for AI-based features for private chats, its WhatsApp-based public services in India did not receive the same level of protection.
+
+Meta has been launching a host of AI features across its products in the past few years. In January this year, Instagram started testing a feature where Meta’s AI automatically created images of users and added them to their feed.
+
+“The trajectory for this is that this is just the beginning. I mean, these guys want to get AI deployed everywhere,” said Varshul CW, founder of AI startup Dubverse.ai. He added that Meta could increase user engagement by integrating various AI agents into WhatsApp.
+
+Meta emphasized the privacy and security protections that come with this feature, stating that their AI model does not store or retain any data while processing and summarizing messages. However, that has not stopped governments from asking questions about WhatsApp’s security practices. Just last week, the United States House of Representatives banned representatives and staffers from using WhatsApp on any of their devices. The House’s Office of Cybersecurity deemed WhatsApp to be a threat to its users due to “lack of transparency in how it protects user data, the absence of stored data encryption, and the potential security risks involved with its use.”
+
+Furthermore, Meta also updated its privacy policy last year to allow the company to use information from Meta-related services (like Facebook, WhatsApp, Threads, and Instagram) to train its AI models.
+
+“The incentive for them to sit on this data is very high,” said Varshul, referring to AI companies need for vast quantities of data. However, he stated that it was very difficult to prove if Meta, in fact, used private messages as AI training datasets.
+
+AI-generated summaries of messages are currently available only in the US, but Meta may choose to roll out the feature worldwide.
+
+“It will be interesting to see how accurate this feature proves to be in the Indian context, where people commonly use multiple languages beyond English on platforms like WhatsApp,” said Omir Kumar, a Policy Analyst at the Centre for Responsible AI at IIT Madras.
+
+“Unlike English, we still lack rich and representative datasets for many Indian languages, which can affect the accuracy of such AI solutions. However, efforts are underway to bridge this gap through initiatives like AI4Bharat and the AIKosh platform under the IndiaAI Mission,” he explained.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

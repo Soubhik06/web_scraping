@@ -1,0 +1,113 @@
+SUBREDDIT: r/india
+TITLE: [NP] India Security News Weekly: Edition 1
+DATE: 2017-05-13
+SCORE: 206
+URL: https://www.reddit.com/r/india/comments/6atnwu/np_india_security_news_weekly_edition_1/
+
+--- POST TEXT ---
+
+Security Underflow (and this newsletter) is an attempt to break down barriers to knowledge about computer security among the general public. I wish to raise awareness about the risks around us and how to mitigate them or raise questions about them when we see them. Feedback/suggestions are welcome here or you can PM me as well.
+
+-------------------------------------------------------------------------------
+# The Ticker
+Ticker is a collection of interesting security news and happenings in Indian companies and startups.
+
+ - Mumbai based cyber security startup Sequretek raises Series A funding from GVFL and Unicorn India ventures [[e27](https://e27.co/cyber-security-startup-sequretek-raises-series-a-gvfl-unicorn-india-20170509/)]
+ 
+ - Cyber Security Firm Lucideus Raises Funding From Rajan Anandan, Sunil Kalra, And A Bevy Of Marquee Investors [[Inc42](https://inc42.com/buzz/lucideus-tech-raises-funding/)]
+ 
+ _Ed Note:_ It is good to see security firms getting importance and much needed infusion of capital to tackle the great divide India is facing in teh world of cyber warfare. However, it remains to be seen whether these startups will follow the path less trodden towards a holistic progress or fizzle out much like the din of food-tech and ecommerce startups of India.
+ 
+ - UK is probing Indian hackers' role in illegal email hacking of UK political and environmental personalities at behest of Scotland Yard [[HindustanTimes](http://www.hindustantimes.com/world-news/uk-police-watchdog-probes-serious-hacking-from-india/story-BIYENFMeDNv3FSJF8OqkhO.html)]
+ 
+ - IBM to harden cyber security of BSE [[ToI](http://timesofindia.indiatimes.com/business/india-business/tech-giant-ibm-to-enhance-bses-cyber-security/articleshow/58617795.cms)]
+ 
+ - PwC is ramping up hiring in cyber security departments by 1000s [[LiveMint](http://www.livemint.com/Industry/AY4ItTKRo3Xl8UzLuCbbTL/PwC-India-to-hire-4000-people-in-FY18.html)]
+
+-------------------------------------------------------------------------------
+# Policy Water cooler
+We cover the policies and other news that concerns the Indian government and citizens en masse here.
+
+ - Government departments are leaking &gt;130million Indians' personal data including bank accounts and Aadhar numbers [[TheWire](https://thewire.in/118250/government-expose-personal-data-thousands-indians/)]
+ 
+ _Ed Note:_ The fight among AADHAR detractors and supporters is heating up and for the right reasons as we see here. What we need is a combination of policy, technology and execution to take the middle road. The most important law of security is that nothing is secure. All it needs to be hacked is sufficient enough reward to outweigh the cost and the reward is pretty huge enough here.
+ 
+ - AAP demoes a lookalike EVM machine to sway popular opinion against EVM usage in elections [[EconomicTimes](http://economictimes.indiatimes.com/news/politics-and-nation/election-commission-aap-hacked-look-alike-gadget-not-our-evm/articleshow/58598619.cms)]
+ 
+ - Election Commission of India postpones open hack challenge for EVMs post all party meet [[TimesNow](http://www.timesnow.tv/india/article/ec-postpones-evm-hackathon-after-all-party-meet-vvpat-to-be-used-in-future-polls/60940)]
+ 
+ - Pakistani hackers defaced AIFF website to send a message about Kulbhushan Jadhav death sentence [[IndiaToday](http://indiatoday.intoday.in/story/kulbhushan-jadhav-aiff-website-hack/1/950121.html)]
+ 
+ _Ed Note:_ I debated with myself whether to even add this here or not. Such defacing acts are generally work of script kiddies and calling them hackers is a misnomer spread by media. In the end it was put here just as a bit of news and for this message and will most probably be avoided in future editions.
+
+-------------------------------------------------------------------------------
+# World
+This section takes a look at the top security news around the world which impact most of us.
+
+This week saw a triple whammy of major vulnerabilities from the top tier Software/Hardware/OEM developers. All having major implications for the end users leaving them completely open to all sorts of attacks without them even knowing.
+
+&amp;nbsp;
+
+*[Remote exploit in most recent Windows products](https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&amp;desc=5)*
+
+Most windows products (if you are not on an ancient device, you are impacted) have a Microsoft "Malware Protection Service". Ironically, this service allows attackers to remotely execute almost anything on your system through a missing input sanity check. This bug can be exploited by just downloading a file/email onto your system, the user doesn't even need to open/read it. Unfortunately, the attack payload can't be detected by any malware scanner. 
+
+_What you should do:_ 
+
+ - Microsoft has released a [patch](https://technet.microsoft.com/en-us/library/security/4022344) to fix the issue. Update asap. Turn off windows malware protection (or exclude all your drives from automatic scanning) in the meanwhile.
+
+&amp;nbsp;
+
+*[Remote Exploit in all Intel processors since 2010](https://www.eff.org/deeplinks/2017/05/intels-management-engine-security-hazard-and-users-need-way-disable-it)*
+
+All intel processors produced since 2010 have this vulnerability and you are impacted if a feature called AMT is enabled on your PC. It allows the attacker to control your device completely, sometimes even if the device is switched off. Apple devices are not impacted since they ship with this disabled but for others, you need to check.
+
+_What you should do:_ 
+
+ - Check your device vendor's website to see if they've released a BIOS update with a fix
+ - If not, then you should turn off the AMT feature through BIOS if possible. (For some devices though, it may cause other issues and you are unfortunately stuck. So push your device vendor to release a fix)
+
+&amp;nbsp;
+
+ *[KeyLogger in HP laptops](https://www.modzero.ch/modlog/archives/2017/05/11/en_keylogger_in_hewlett-packard_audio_driver/index.html)*
+ 
+ Many HP laptops are shipping with an audio driver which logs all your keystrokes (including usernames/passwords etc, basically anything you type). These are saved on your machine itself but accessible to any trivial program running as an unprivileged user so the bar of attack is very low and can easily lead to losing your personal information. If you are not using HP's provided audio driver on your system, you are safe.
+ 
+ _What you should do:_
+ 
+ - Delete or rename C:\Windows\System32\MicTray64.exe or C:\Windows\System32\MicTray.exe if they exist on your system
+ - Delete C:\Users\Public\MicTray.log file if it exists on your system
+ - Also delete the above log file from any backups that may have been taken through your backup systems.
+ 
+-------------------------------------------------------------------------------
+# Events
+
+Details on upcoming security conferences and other events around India.
+
+ - [17th International Supply Chain Risk and Security Conference](http://www.tapaapacconference.com/india/): Mumbai, 24-25 May '17
+
+-------------------------------------------------------------------------------
+# Inquisitive mind
+Take the blue pill and save yourself. Or take the red pill and we'll show you how deep the security rabbit hole goes.
+
+&amp;nbsp;
+
+**References**
+
+ Attack payload: Data/file that has the malicious code or properties to trigger a bug and take advantage of the same.
+
+ Remote Exploit: A bug that can be exploited without gaining physical access to your machine
+ 
+ Script Kiddies / Skiddies: Technology savvy persons who are just good enough to run attack payloads/scripts developed by others to exploit known bugs rather than find/exploit a real bug themselves. They like to deface websites or do other mischief to earn internet brownie points.
+ 
+&amp;nbsp;
+
+ **Recommended Reading this week**
+
+ [What and why of Two Factor Authentication to secure your accounts](https://heimdalsecurity.com/blog/start-using-two-factor-authentication/)
+
+-------------------------------------------------------------------------------
+
+Subscribe at: [tinyletter.com/securityunderflow](https://tinyletter.com/securityunderflow)
+
+-SecurityUnderflow

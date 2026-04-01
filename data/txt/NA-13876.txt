@@ -1,0 +1,45 @@
+The National Council of Educational Research and Training (NCERT) is initiating a third-party security audit of DIKSHA—the Indian government-run online education platform, the organisation has said in response to Right to Information (RTI) queries filed by MediaNama, regarding the alleged exposure of students’ personal data through DIKSHA app. The DIKSHA platform is an NCERT initiative that was launched in 2017, under the aegis of the Education Ministry.
+
+The response, dated February 24, 2023, also states that the NCERT has suggested EkStep Foundation, a Bengaluru-based organisation taking care of the technical operations of DIKSHA, to “ensure that all the data collected in DIKSHA should be stored in a secured way with access only to the approved users”. However, according to a report by Economic Times, EkStep Foundation has refused to make comments on the reports of data exposure stating that it is not operating DIKSHA. There is no clarity from either of the organisations on this front.
+
+What was the RTI about?
+
+A report by WIRED in January this year revealed that a security lapse on DIKSHA, which was identified by a UK-based security researcher, had exposed the personally-identifying information of millions of students and teachers to the risks of data breaches and scams among others. The researcher informed that all of this data was stored on an “unprotected server”.
+
+MediaNama filed an RTI with the NCERT asking whether the body has taken note of these reports and what measures they would take to address the concerns . We also asked for details of grievances and complaints by users and cybersecurity researchers about DIKSHA in the last year.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with top stories from MediaNama and around the world, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Why it matters:
+
+DIKSHA has over 16 Crore enrolments for its courses across India and it has been projected as the government’s premier online education platform during and after the pandemic. Multiple reports of children’s privacy being risked due to security lapses in the platform’s servers are a cause of concern, especially in the absence of a data protection law. This is the first time the government has publicly initiated a step toward addressing questions about the security of the DIKSHA platform.
+
+Caution by Human Rights Watch and others:
+
+Before the disclosure by the WIRED, in 2022 the Human Rights Watch group had raised concerns in its report that DIKSHA collects children’s precise location data, including the date and time of their current and their last known location. It also cautioned that students’ data is being shared with Google for advertising purposes.
+
+Taking note of HRW’s allegations, the NCERT in the RTI response has denied allegations that DIKSHA collects precise location data and time of current or last known location .
+
+“DIKSHA only gets approximate state and district information (based on device IP). The state & district of the user is stored in the system only after confirmation from the user and is used to show the user-curated content specific to the user’s board/state. The IP address is also not stored,” the reply reads.
+
+The NCERT informed that they responded to three complaints regarding DIKSHA between January 2022 and January 2023. These were raised by:
+
+These complaints were addressed by the Central Institute of Educational Technology (CIET), the technical wing of NCERT. The NCERT has attached annexures of these replies in their RTI reply.
+
+It also highlighted that CERT-IN had informed the NCERT on January 23, 2023, about the possibly compromised credentials of six DIKSHA users.  The cybersecurity agency was informed to take “necessary precautions” as per IT Ministry’s suggestions.
+
+Additional key points from CIET’s response to issues raised:
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+India’s Govt-Run Ed-Tech App ‘DIKSHA’ Exposes Data Of Students, Teachers: Report
+
+Indian Government’s DIKSHA App Under Scrutiny For Alleged Breach Of Children’s Data
+
+Personal And Academic Data Of Millions Of Indian Students Is Up For Sale Online
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

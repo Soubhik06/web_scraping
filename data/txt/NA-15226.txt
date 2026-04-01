@@ -1,0 +1,39 @@
+The Telecommunication Engineering Centre (TEC) is conducting a fairness assessment study of Artificial Intelligence/ Machine Learning systems, according to a document released by the agency working under the Department of Telecommunications (DoT).
+
+TEC said that AI/ML systems mark a presence in all aspects of our lives today and there is a need to build public trust in them. Researchers worldwide have found unintended biases in these systems which goes against the expectations of users, it added.
+
+“Bias in AI/ML Systems raises various ethical, social and legal issues. When AI/ML Systems are used for e-governance or by the judiciary, checking for their fairness would become a legal requirement. Therefore, one important requirement of responsible AI is that the AI/ML systems should be unbiased or fair.” — TEC
+
+The agency wrote that their assessment will act as a benchmark for fairness which will help researchers, college students, and government organisations. It added that start-ups, MSMEs, and large enterprises will also benefit from this exercise as their products will be more credible and acceptable if they are assessed and certified by a neutral government agency.
+
+AI/ML applications have become ubiquitous in recent years as the technology gets adopted across various domains such as healthcare, smart homes, finance, and defence, among others. A benchmark will go a long way in helping people make an informed decision. It will also bring parity in an industry which remains unregulated in India.
+
+TEC is inviting suggestions from stakeholders for framing procedures for assessing fairness of different types of AI/ML Systems. The feedback can be sent at [email protected] and [email protected] till March 8, 2022.
+
+Types of AI/ML Systems: TEC wrote that there can be different ways to classify AI/ML systems based on ML algorithms used by companies. The body is asking stakeholders if classification based on machine learning algorithms used is suitable for the assessment. The classification can range from:
+
+Supervised learning systems: “Supervised learning systems learn from labelled datasets and are used to classify data or predict outcomes of unforeseen data accurately,” the document read. They are deployed for various purposes like predictions and forecasting, face detection, handwriting/ signature recognition, etc. They can also be applied to identify fraudulent benefits claims, CCTV surveillance, social media sentiment analysis, spam detection, weather forecasting, and stock price predictions. TEC wants to ascertain whether a single assessment procedure is sufficient for assessing fairness of various supervised learning systems.
+
+Establishing fairness parameters: TEC wrote that the metrics provide a mathematical definition of fairness. Some of the metrics detailed are:
+
+Stakeholders have been asked to provide parameters appropriate for measuring bias of supervised learning AI/ ML systems.
+
+Standardised procedure for fairness assessment: TEC was of the opinion that there was a need to standardise the assessment process. “The standardised process could be used by the developers for sell-assessment as well as by third- party auditors for assessment and certification,” the document read. TEC wants to know what should be included in the procedure for a fairness rating.
+
+White-box vs Black-box testing: White-box testing entails the assessing agency accessing the training datasets and the implementation details of the AI/ML system. Black-box testing will cover situations when training datasets and implementation details are not available with the assessing agency. The stakeholders should prescribe if any separate procedure is required for black-box testing.
+
+Procedures for handling code by the assessing agency: It is important that standard procedures are in place for safe handling of sensitive material such as code, datasets, etc. when the assessment is to be carried out by a third-party,” the document stated. It has called for the best practices for handling code, training datasets, etc. from stakeholders.
+
+The unsupervised learning systems use unlabelled data to identify patterns whereas semi- supervised learning systems are a mix of the supervised and the unsupervised learning systems.
+
+“Reinforcement learning generally learns from new situations using a trial-and-error method,” the document explained.
+
+The opinion of the stakeholders has been sought whether the fairness assessment procedure framed for supervised learning systems will work for assessing other types of AI/ML systems or if there is a requirement for different procedures.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

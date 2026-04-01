@@ -1,0 +1,125 @@
+The India AI Impact Summit has come to a close. Much of the coverage elsewhere has focused on mismanagement, mishappenings, the Galgotias University fiasco, and the political narratives that followed. That framing has dominated headlines.
+
+Yet beyond the disruption, the summit generated several substantive policy signals. Across keynote speeches and sector sessions, the government outlined clearer positions on age verification, synthetic media regulation, sector-specific governance, and accountability in high-risk AI applications.
+
+Here are the policy signals that deserve more attention than they received.
+
+At the summit’s opening, Union Minister Ashwini Vaishnaw announced the New Delhi Frontier AI Commitments, a voluntary framework bringing together global frontier AI firms and Indian companies to advance inclusive and responsible AI.
+
+He framed India’s AI strategy across five layers of the stack: applications, models, compute, talent, and energy, positioning it as a democratisation and sovereignty effort.
+
+The commitments focus on:
+
+While voluntary, the framework signals India’s effort to shape global AI governance, particularly for multilingual and Global South contexts.
+
+Prime Minister Narendra Modi emphasised that the AI ecosystem must be “child-safe and family-guided,” placing child protection at the centre of the governance conversation.
+
+“Just as school syllabi are curated, the AI space must also be child-safe and family-guided,” he said.
+
+When read alongside ongoing government consultations, this signals movement toward:
+
+Union IT Minister Ashwini Vaishnaw confirmed that the government is in discussions with social media platforms on age-based restrictions and deepfakes.
+
+“Right now, we are in conversation regarding deepfakes, regarding age-based restrictions with the various social media platforms on what is the right way to go forward on this,” Vaishnaw said.
+
+He also stressed that platforms must operate within India’s constitutional framework.
+
+“Any company which operates must operate within the constitutional framework of the country in which it is operating,” he said.
+
+Taken together, these remarks place age gating within a compliance architecture rather than voluntary self-regulation.
+
+Read: Indian Govt in Talks With Social Media Platforms on Age Restrictions
+
+In parallel, the Prime Minister called for global standards to address deepfakes and misinformation, arguing that digital content should carry clear authenticity markers.
+
+He proposed authenticity labels for digital content, comparable to nutrition labels on food, so that users can distinguish between real and AI-generated material.
+
+As he framed it, AI governance must be built on trust from the outset. “AI represents a transformation of the same magnitude as historic turning points in human civilization,” he said, warning that such transformation requires safeguards alongside innovation.
+
+He also reiterated that AI must be based on ethical guidelines and accountable governance, tying content authenticity to broader institutional responsibility.
+
+One of the summit’s most concrete policy developments emerged from the health ministry.
+
+The Ministry of Health and Family Welfare launched SAHI, the Strategy for Artificial Intelligence in Healthcare for India.
+
+Key features include:
+
+Rather than proposing a standalone AI law, SAHI embeds AI governance within health-sector regulation.
+
+Alongside SAHI, the ministry introduced BODH, a benchmarking platform developed by the Indian Institute of Technology Kanpur and the National Health Authority.
+
+BODH is designed to:
+
+Read: Explained: How SAHI And BODH Shape AI Use In India’s Healthcare
+
+Sarvam AI is building sovereign foundational language models and AI-powered products tailored for Indian languages, enterprise use, and device-level deployment. Alongside the policy announcements, Sarvam introduced several product launches that demonstrate how the sovereign AI strategy is moving from articulation to execution.
+
+First, Sarvam launched two large language models:
+
+Notably, reports indicate that Sarvam trained the 105B model on domestic compute infrastructure under the IndiaAI Mission, reinforcing the government’s emphasis on sovereign capability.
+
+In addition to model launches, Sarvam unveiled Sarvam Kaze, its first AI-powered smart glasses. With this, the company moves beyond model development into hardware, embedding AI into wearable devices rather than limiting deployment to chat interfaces.
+
+Further, Sarvam announced a collaboration with HMD Global to integrate its AI chatbot into feature phones. This signals an effort to extend AI access beyond smartphones and into lower-cost devices, aligning with the broader accessibility narrative highlighted at the summit.
+
+Across defence, healthcare, and financial infrastructure sessions, a consistent theme emerged during discussions: autonomy may expand, but accountability remains human.
+
+Senior military officials were explicit that AI can enhance speed and precision, but cannot replace command authority.
+
+“AI can inform decisions. Only humans can make the judgment and take responsibility,” said Lt. Gen. Vipul Singhal.
+
+Speakers stressed that:
+
+Maj. Gen. Harsh Chhibber warned against cognitive offloading to machines, stating, “Command responsibility is absolute in the military. You cannot do cognitive offloading to a machine.”
+
+The emphasis was clear: operational acceleration does not dilute legal and moral accountability.
+
+Read: Why Military Leaders Say AI Cannot Replace Human Command
+
+In healthcare sessions, the accountability question surfaced differently. If AI systems are entering primary care and research environments, are institutions preparing professionals to use them responsibly?
+
+“Are we still teaching people to think?” asked Dr. Smisha Agarwal, capturing the anxiety around workforce readiness.
+
+Experts highlighted structural risks including:
+
+Professor Anurag Agrawal reinforced the human backstop principle in clinical contexts: “In mission critical applications like health, where if AI were to fail, would you still be able to do the task?”
+
+The message across speakers was consistent: AI may augment healthcare, but professionals must retain the capacity to act independently of it.
+
+Read: “Are We Still Teaching People to Think?” Experts Question AI Readiness in Healthcare
+
+In finance and infrastructure, the accountability question takes on new urgency because systems are beginning to act autonomously.
+
+“We are moving from AI systems that recommend to AI systems that act,” said Caroline Louveaux of Mastercard.
+
+Agentic systems are already:
+
+Yet autonomy, speakers cautioned, must be bounded. “Autonomy can only scale if there is trust,” Louveaux said.
+
+She further emphasised that users must remain in control of delegation. “The consumer must always be able to define what the agent can and cannot do,” she said.
+
+Prag Sharma, Director of Emerging Technologies at Citibank, argued that execution-level AI will require a new identity architecture. “From passwords, we are moving on to machine-grade trust frameworks. You can no longer have a password to log in when you have many agents running on your behalf. The agents need to have their own identity,” he said, referring to the need for cryptographically verifiable digital IDs for AI agents.
+
+Speakers across various sessions emphasised the need for:
+
+Syam Nair of NetApp framed the liability boundary directly: “Agents cannot take accountability. Humans and businesses do.”
+
+As AI agents move from recommendation to execution, governance frameworks will need to address not just performance and bias, but also liability, consent architecture, and dispute resolution.
+
+Read: “We Are Moving From AI Systems That Recommend to That Act”: Mastercard on Agentic AI
+
+Overall, the summit’s substantive discussions point to three developing trajectories:
+
+Rather than advancing a single comprehensive AI law, India appears to be developing a layered governance approach that integrates AI oversight into existing regulatory systems while introducing targeted sector strategies.
+
+The summit may be over, but the policy questions it raised are only beginning to unfold.
+
+We will continue publishing detailed coverage from the India AI Impact Summit, along with interviews with policymakers, industry leaders, and experts on how these signals translate into implementation.
+
+As attention shifts from announcements to enforcement, we will track how these frameworks evolve in practice. Stay tuned for more. Meanwhile, here’s all that we’ve covered during the week .
+
+Thank you for reading this special edition newsletter compiling MediaNama’s coverage from the India AI Impact Summit.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,75 @@
+Age verification technology is much more accurate for age bands than for a specific age, the Chief Technology Officer (CTO) of Bureau , Sandesh GS, explained in an interview with MediaNama.
+
+For context, Bureau provides unified risk decisioning services in a range of industries, including financial services, e-commerce, online gaming and online dating.
+
+“I think it’s [the accuracy of age verification services] largely driven by the confidence of machine learning models. While the accuracy is reasonably good or constantly gets improved back by LLMs (large language models), but still it’s not to the point where it can be a decimal-level accuracy. That’s why if you want a band, it works reasonably well, but when we want a point in time, it does not work as well,” he pointed out.
+
+His comment came in the context of a question about Australia’s age verification technology trial earlier this year, which pointed out the presence of “buffer zones” (two to three-year periods) around age gates where the age assurance methods may have false positives/negatives.
+
+Notably, buffer zones, and the efficacy of age verification systems have gained significance since the government notified the Digital Personal Data Protection Rules (DPDP Rules) in November this year.
+
+Both the rules and the overarching data protection law, mandate that platforms must seek verifiable parental consent before processing the data of anyone under the age of 18. To do so, platforms may first need to identify who is 18 and who is not, which is where age verification technologies may take centre stage.
+
+Note: The interview transcript has been edited for brevity and clarity, you can watch the complete interview via the attached video below.
+
+MediaNama: Could you give us a sense of what is going on in the realm of age verification today? What is working and what is not working?
+
+Sandesh GS, Bureau: I think in age verification, there are majorly two, three techniques that everybody follows. One is looking at biometrics. Second is tying them back to a device. Then third is looking at your documentation, whether it is Aadhaar or any other form of government documentation, to make sure you are allowed to access the content that you’re looking at.
+
+What is not working? There is a significant form of identity theft going on, whether it is using deepfakes or AI-generated tools or using traditional methods. That means people will forge the document, upload someone else’s documents, or put their photo on the documentation and then inject someone else’s image or likeness. So a lot of compromise in the way of documentation. As you all know, devices get shared, and it’s hard to map a biometric constantly to a device. So this forces a lot of our merchants to constantly bring back friction in every step of the customer journey if the balance is not figured out. So this is where the current pain point is.
+
+MediaNama: What happens to those who fall in the ‘buffer zone’ (two to three-year periods) around age gates where the age assurance methods may have false positives/negatives? Are there mechanisms in place to address the buffer zone?
+
+Sandesh GS, Bureau: I think it’s largely driven by the confidence of machine learning models. While the accuracy is reasonably good or constantly gets improved backed by LLMs, it’s still not to the point where it can be a decimal-level accuracy. That’s why if you want a band, it works reasonably well, but when we want a point in time, it does not work well.
+
+One thing that we constantly do, and this goes for every use case, is that we fine tune specifically for the use case to say, Okay, you want a wider range before Step A, and before Step B, you can be a little more conservative. Fine-tuning the model based on use case, that’s one.
+
+Then we also have a lot more confidence intervals where you’re predicting an age, age span, which is extremely close to where the cutoff is. Then coming up with various confidence intervals. That’s how different products work. Based on that confidence interval, though you’re confident the person is probably 17 to 19 or 18 to 20, but if the content is for 18+, then you could add additional measures to do liveness verification or ask for additional documentation.
+
+So to summarise, we do two things. One, work with customers to fine tune based on the risk, fine-tuning the solutions. Then second also is whenever the band is narrow, coming up with confidence intervals with different interventions as needed. These are the two things that we generally see are working. But true, the models are still not so accurate to the point of decimal level.
+
+MediaNama: Is there room for deep-fake-based bypass of age verification services?
+
+Sandesh GS, Bureau: Yeah for sure, deepfake is a concern, especially now with the Gemini 3.0 launch you will see this skyrocket, but it’s been skyrocketing. It’s extremely easy to create a deepfake image.
+
+There are two things. One is that identification of deepfakes is important, of course, but second is prevention, which means are you working with a safe device? Are you working with a non-compromised device? Do you know if the image that you as a merchant are validating is actually coming from live camera feed or live gallery instead of a deepfake source? That’s equally important.
+
+We see deepfakes happening, not only in age verification, in all sorts of KYC, all sorts of verification where image is involved significantly. Audio is picking up as well. But the solution is to check for the patterns of image, but more importantly, prevent the source of it. Make sure the device, the source of where you’re getting from image is not compromised.
+
+MediaNama: For businesses, say in social media or e-commerce sectors, where any sort of friction in the onboarding process causes drop-offs, how can age verification tech be implemented without such issues? How do platforms avoid this friction that will come into onboarding from age verification technology and processes?
+
+Sandesh GS, Bureau: Well regarding frictionless onboarding, age verification is important to make sure the content or the e-commerce journey is appropriate for one’s age. But if you’re a business where it’s not regulated and a license becomes a must to operate. Say, if you’re a bank, then you need to introduce some friction.
+
+However if it’s not a regulated business in that sense, you still need to comply. How do you conduct business without introducing friction becomes extremely critical. That’s where the behavioural patterns of shopping are really picking up well. Once you verify an age band, let’s assume from a device of my Google Pixel, I verified the device and that it’s a person of a certain age, and I constantly see there are two or three customers who are are using my app from this device in different patterns. It could be that these customers are using it from a different location. [And] it could be that the way these customers shop, these customers look for products is different.
+
+[Based on] the behavioural patterns, combination of location and how a person interacts with your app, you will have to identify a persona and make sure that based on the shopping pattern you can say with reliable confidence that this is a customer who is not less than 18, so it is okay for them to go through different parts of the shopping journey. Whereas if these steps clearly indicate that the customer is less than 18 years of age, then introducing more friction becomes very, very important.
+
+There’s so much drop off whenever you introduce a friction. It’s important to combine device, behavioural pattern, and then put gates and frictions as needed or bring down as needed. This is what we recommend with our customers, where whenever device sharing happens and there are multiple customers, look at behavioural patterns, look at location patterns. Looking at that, you will still be able to identify which customer within this device is the real user. Then instead of putting all three people on the same friction, you can bring it down to probably one. That’s a 60% reduction.
+
+MediaNama: At what level do you think age assurance tools should be implemented? Because you’ve talked about behavioural patterns, and those would be platform-specific, right? What do you recommend? Do you recommend a platform-level age assurance approach or an app store-level approach? Or is there a third way to think? What’s your view about this issue?
+
+Sandesh GS, Bureau: A lot of the the merchants we interact with are all becoming multi-use case applications. They’re becoming super apps. The same application as financials, the same as e-commerce, the same as ed-tech. It’s probably very hard to do it at an application level. It applies to even standard KYC, and applies to all fraud checks. Now that you become a super app, how do you modularise your product experience so that you can put an age restriction compliance or any compliance checks at the right phase of the customer journey?
+
+We always work with our customers, and our learning has been to say whenever they’re launching a new business which does need additional compliance check, like this age verification, we work with them to say: How do you design your technical and product architecture to keep it modular so that it can become compliant and then introduce friction only in that part of the journey? This applies to both architecture and experience because it is critical to introduce frictions only when needed. Else, as we were talking previously, it will be a significant drop off. [Thus], the ideal path is to have frictions within critical parts of the application journey.
+
+MediaNama: So with DPDP rules, parts of them will come into place and parts of them will actually be implemented 18 months from now. Children are onboarding the platform every day. They must have been doing that since the draft rules first came out and even before that. How do we solve for situations where a child may have already onboarded a platform before the rules come into effect? [And] is there a scope for something called retroactive age gating? Can you verify people now as opposed to having done that during the onboarding stage?
+
+Sandesh GS, Bureau: I think the DPDP Act and Rules do not restrict themselves to newly onboarded users. They will also apply to a lot of the customers who our merchants have already onboarded. So one, go take a look at applying DPDP Guidelines for fresh verification, and that’s one. Second, look at behavioural patterns and look at what was done before. Start taking a look at what have you stored, what is additionally stored which is not required for the use case of age verification, because DPDP also talks about keeping data as minimal as possible.
+
+So, start applying fresh verification methods probably. Go back and look at your confidence to say which were successfully verified. And, bring in all the best practices of data purging, wherever you have biometrics or points which are beyond that what is required. For example, if you had Aadhaar, date of birth and face data, then you need to come back and say, for age verification, can I just put an age band? Based on the use case, can I just say yes or no against this Customer ID?
+
+Doing that to be compliant with DPDP and then also going back and asking users if this was not introduced or verified successfully, just going back and letting them know that in the part of the journey, [that the previous verification method was not successful and you need more information] whether it is by taking a lot more specific consent that the DPDP mandates or giving them an option to purge the data, etc.That becomes more important in the journey. But going back and taking a look at what you have done and then seeing the gap with respect to the DPDP guidelines is the first natural step.
+
+MediaNama: Because you talked about data minimisation, I just wanted to understand how do we handle data retention for sensitive information that a platform may capture or an age assurance technology may capture during the process of verifying age?
+
+Sandesh GS, Bureau: See, for any personally identified information that includes biometrics, a spectrum of privacy preserving methods could be employed. One is simple encryption, which is to say, can we just encrypt the data and keep it? And then you have a much more sophisticated method called hashing, where you do one-way hashing, which is not usable for any purpose other than just validating whether a customer is verified. And then third is zero knowledge proof. There are various methods within the spectrum of privacy.
+
+This is what we do at Bureau. Anything that we collect [in terms of] personally identifiable information gets one-way hashed, even when we have a consent from our customers to keep it. Then [such information is] only looked up to say: Is this the same user or not? Can the same fraud score be leveraged for this customer or not? That limits its use for A: any other use case. Then B: even in cases of data compromises, data breaches, the data exposure of the customers that you deal with becomes extremely minimal.
+
+[Thus,] I would always recommend going one-way hashing, keeping it in a way which cannot be used for other purposes, and then just doing a lookup. That’s what we do at Bureau, and that’s what I have seen work as the balance between privacy and giving a friction-free user experience.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

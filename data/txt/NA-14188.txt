@@ -1,0 +1,21 @@
+The Department of Telecommunications (DoT) has used facial recognition tech to block 6.76 lakh SIM cards and 10, 296 mobile phones in Gujarat for their involvement in cybercrime. This technology, the Artificial Intelligence and Facial Recognition Powered Solution for Telecom SIM Subscriber Verification (ASTR), is a system that uses subscriber images provided by Telecom Service Providers (TSPs) to detect duplication of SIM card registrations under different names, guardian names, date of birth or any other KYC parameter.
+
+While investigating, the DoT initially focused on several types of SIM card fraud including cards purchased using falsified documents, mass registrations under a single name and photo, and those linked to cybercrime, according to a report by Ahmedabad Mirror. The authority also received additional data from state law enforcement, and financial institutions, and through analysis conducted by ASTR. The devices blocked in Gujarat were reportedly part of a larger country-wide effort to crack down on cybercrime with 1.92 crore SIM cards being blocked across India.
+
+The lack of information on data handling practices, privacy safeguards, and consent mechanisms for ASTR raises serious concerns about potential privacy violations and data misuse.
+
+ASTR, like other facial recognition technologies, is not foolproof and may fail to recognize individuals due to natural aging, as we reported last year . This throws a wrench into its effectiveness as a system to prevent/detect fraud. There are also unanswered questions about the privacy and personal data safeguards in place for ASTR. MediaNama had filed an RTI asking for ASTR’s tender document and other details like data storage location, retention, and user consent policy to no avail.
+
+Besides blocking SIM cards and mobile devices, the government is also relying on ASTR to block the fraudsters’ social media accounts. In a recent conference, the CEO of the Center for Development of Telematics (C-DOT) mentioned that as soon as fraudulent SIM cards are identified, the government notifies police, banks and social media companies like Meta regarding such individuals and their accounts are suspended, while the police file an FIR.
+
+MediaNama had reached out to Meta seeking confirmation. While there was no confirmation provided, IT Minister Ashwini Vaishnaw confirmed in 2023 that Whatsapp cooperated with the government in blocking accounts linked to fraudulent phone numbers identified through AI.
+
+Also read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+CATEGORIES
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,61 @@
+There are no details in the public domain about the rationale that the regulator, or the content template registrar, may use to restrict businesses/entities like the INC from sending certain types of content under the promotional SMS category. There is also no information, either under the TCCCPR or the content template guidelines, about what constitutes protest-related content and whether the inclusion of such content is grounds for template rejection.
+
+TRAI’s mandate under the 2018 regulations is primarily focused on controlling spam and ensuring user consent for commercial communications. The rejection of political or protest-related content appears to extend beyond this core anti-spam function into content moderation territory. While TRAI seems to have denied this rejection, the situation highlights the opacity surrounding content template rejections.
+
+It is also important to note that while TCCCPR and telecom operators both list mechanisms for customers to complain about commercial communications, businesses appear to have no recourse to raise grievances regarding content template registration requests.
+
+The Telecom Regulatory Authority of India (TRAI) can reject promotional content templates for protest-related content, Indian National Congress (INC) member Praveen Chakravarthy pointed out in a recent post on X . Chakravarthy mentioned that the INC wanted to send a link to its documentary about alleged vote theft in Maharashtra to members of its cadre in the state via SMS. The regulator rejected this request because the content was protest-related. He argued that this is a sign that the government is trying to suppress information about the Maharashtra election fraud.
+
+This situation raises questions about the promotional content message template and header approval processes, the guidelines for such approvals, and whether the telecom regulator is engaging in speech restriction, and if so, under what laws.
+
+Under the 2018 spam regulations , the Telecom Commercial Communication Customer Preference Regulation (TCCCPR), TRAI instructed telecom companies to establish a distributed ledger technology (DLT) platform to manage user consent for commercial communication and to register companies/telemarketers that send commercial messages. The DLT platform registers headers and content templates for commercial messages. Telecom companies also have to verify these companies and prescribe processes for sending commercial messages.
+
+Businesses must register the headers for commercial SMS either on their own or through their agents. Telecom companies verify their documents and credentials and bind headers to specific mobile devices and mobile numbers. Telecom companies also have to put Securities and Exchange Board of India (SEBI)-registered entities or other entities that TRAI may specifically prescribe through additional verification steps.
+
+Additionally, telcos carry out further verification for government entities, corporates, and well-known brands. They check for header look-alikes that might mislead recipients, including running proximity checks and similarity analysis, while paying special attention to whether the header includes government entities, well-known brands, etc.
+
+The header can only be 11 characters long and may consist of alphanumeric combinations. If a business registers its SMS header with one telco, it does not have to register across other operators.
+
+Within the DLT platform, the business or its telemarketers can register content template types: promotional, transactional, and service messages. They have to select a category of content and a registered SMS header and then demarcate the fixed and variable parts of the content template.
+
+The fixed part of the content template remains the same across all commercial communications sent to various recipients for the same/similar subject. The variable part is specific to a particular transaction, recipient, or may vary on account of date, time, place, or unique reference number.
+
+Under TCCCPR, the scope of content template validation is restricted to:
+
+Additionally, the content template guidelines specify that promotional templates can only be created under numeric headers. These templates cannot exclusively have variable content and must contain fixed content between variable elements. There can be 2–3 variable elements in promotional messages.
+
+For example, if ICICI wants to offer a service promotion to credit card holders, the message could look like this: “Lifetime Free ICICI Bank Credit Card with Vouchers from LensKart, Pepperfry, Grabon worth Rs [variable]SMS [variable] to 5676 766. TnC apply”
+
+The content template registrar will validate and verify details provided by the telemarketer/principal entity within 60 minutes. The total turnaround time for approval or rejection of message templates is two working days.
+
+In a conversation with MediaNama, tech lawyer and policy advisor Pranesh Prakash argued that regulating message content beyond spam does not fall within TRAI’s purview under TCCCPR, 2018. “I can’t see any restrictions other than those relating to consent and content classification [under TCCCPR],” he explained. Prakash further mentioned that TRAI’s powers do not extend to the content of communications, as per the TRAI Act, 1997.
+
+“During elections, the ECI [Election Commission of India] issues guidelines that regulate the content of SMSes. But TRAI itself doesn’t have such powers, nor has the Department of Telecommunication (DoT) asked telecom operators to reject ‘protest’ messages under the Unified Licence,” he added.
+
+For context, in 2015 , the ECI began monitoring the content of bulk SMSes, bringing them under pre-certification of election advertisements, similar to TV channels, cable networks, radio, audio-visual displays in public places, and social media. However, ECI’s directives are only applicable during the election period. In this case, if INC was sending the documentary to its cadre in Maharashtra, it should ideally be outside the scope of ECI regulations, as there are no state elections this year.
+
+Interestingly, in a press release addressing INC’s claim of information suppression, TRAI denied any role in the acceptance or rejection of such individual SMS campaigns . It stated that telecom service providers are responsible for approving or rejecting SMS templates under the TCCCPR.
+
+Discussing TRAI’s response, the founder of Software Freedom Law Center, India (SFLC.in), Mishi Choudhary, mentioned that TCCCPR does not empower telecom companies to judge political content. “This situation is related to bulk messaging template, which is used to avoid spam. Telecom service providers [TSPs] are responsible for this, TRAI has no control over the content of messages, instead only laying out the Framework and rules. Now a TSP labeling something based on contents that’s objectionable,” she explained.
+
+Prakash explained that under the Indian Constitution, not just laws but executive actions also have to abide by fundamental rights provided in Part 3 of the Constitution, including freedom of speech and expression under Article 19(1)(a) . “Public order is the only exception under Article 19(2) where trying to prevent protest could possibly fall,” he said, citing the cases of Ram Manohar Lohia and S. Rangarajan, which emphasize that there must be a proximate and direct nexus between public disorder and speech. Based on these cases, Prakash argued that unless this condition is established, speech cannot be prohibited under Article 19(2).
+
+Further, in the Shreya Singhal case , the Supreme Court noted the clear distinction between criticism, advocacy, and incitement. “It notes that unless there is any kind of wrongdoing or violation, the question of something falling within Article 19(2) does not even arise, so mere advocacy of even unpopular causes, this question of restriction under Article 19(2) does not arise,” Prakash pointed out. He said that given these court precedents, it is not permissible for the government to restrict any message merely because it is linked to protest.
+
+Prakash argued that the question of commercial speech restriction does arise in this case. “It might arise within the context of the regulations themselves, but it does not arise from a constitutional law perspective,” he said. Prakash also suggested that TRAI should find out who rejected this SMS template and should overrule that decision.
+
+Prakash added that questions of commercial speech restriction might arise within the context of the regulations themselves, but not from a constitutional law perspective. He suggested that TRAI should identify who rejected this SMS template and overrule the decision.
+
+While Chakravarthy’s report of promotional content template blocking is new, there have been previous instances of content regulation on SMS. In 2022 , MediaNama found that Airtel was restricting messages containing the words TikTok, ShareIt, and Discord, while people could send the same words via other telcos’ networks. This followed the Indian government blocking 400 China-linked apps due to privacy concerns, including ShareIt and TikTok. A company official cited a technical error, but Airtel never confirmed this with MediaNama.
+
+MediaNama has reached out to the Cellular Operators Association of India (COAI) for comments about how telecom companies approve and reject content templates. We asked them the following questions:
+
+We will update our story with their response.
+
+Note: The story was updated on September 10, 2025, at 10:20 AM to add comments from SFLC.in
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

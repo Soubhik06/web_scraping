@@ -1,0 +1,31 @@
+SUBREDDIT: r/Scams
+TITLE: AT&amp;T/Yahoo Scam
+DATE: 2020-06-24
+SCORE: 5
+URL: https://www.reddit.com/r/Scams/comments/heyv64/attyahoo_scam/
+
+--- POST TEXT ---
+
+Hi guys, just wanted to share a recent scam I unfortunately fell for and wanted to share.
+
+TLDR: 
+Fell for a scam that an official rep from AT&amp;T pointed me towards (not someone posing as an AT&amp;T rep) resulting in money wired to a foreign country (thankfully they didn't get a cent), possible malware installed on my desktop, and possible personal information leak. I am asking for advice on further action to take.
+
+\-----------------------------------------------------------------
+
+My Uncle had been having issues with his old AT&amp;T email account that he could not get resolved over the phone or online. So we decided to head to an AT&amp;T office to speak with a rep in-person about solving the issue. The rep told us they could not solve it at the office but should instead call Yahoo (since they have since taken over the email my Uncle uses). The rep then provided a contact number for Yahoo that we could call. Once we were home we called in for help.
+
+The person that responded said they can see the issue by typing the problematic email into this website: [http://checkemailstatus.com/yahoo/](http://checkemailstatus.com/yahoo/) 
+It's a totally bogus website - any email will yield the exact same "report". I wasn't aware it was fake and went along with it (these guys were referred to me by an official AT&amp;T rep - it's gotta be legit right?). 
+
+They then proceeded to say they can help resolve the issue for a "$1 service fee". Another red flag - what a small service fee! But again, AT&amp;T recommended this number to me; it's gotta be legit right? I provided my Uncle's credit card info and they began the process of "fixing the email in 40 - 60 minutes."
+
+Their first step was to have me download a remote desktop viewer called "Screen Connect" (another red flag!!! That I ignored!!!). I watched them doing their thing for a bit and my screen went black with a single word in the middle of the screen: "help". I thought to myself, "That's pretty ominous..." (another. red. flag. I. ignored.) "Well, these are the experts AT&amp;T recommended to me, so they must know what they're doing. I guess it said 'help' as in I am getting helped" (hahahahaha).
+
+I'm finally at the stage that any sane person would have immediately ended the call and cut their internet connection to stop the remote desktop view. I get a text on my phone that had the verification code for my Paypal. The person helping me then asked me for it. I immediately thought this was highly suspicious, since what the hell does Paypal and fixing an email have to do with each other? But then I thought again... "they're the experts. They probably know something I don't." And I reluctantly gave them the verification code (hey AT&amp;T recommended them!). 
+
+Nearly 2 hours later, I get 2 more verification code texts for Paypal again, and my cryptocurrency account. That's where I drew the damn line - there is no way in hell cryptocurrency is involved with Yahoo trying to fix my email. I called them out on it, shut down my computer and pulled the ethernet plug, and booted up my PC to see what the hell they were doing.
+
+I open Chrome and open up recently closed tabs, and to my horror, they've been wiring enormous amounts of money out to India. They were doing it with my Uncle's card info, and my personal bank info that they accessed by using the password auto-fill feature of Chrome. I later Googled the number the AT&amp;T rep gave me and found out that the number was for a fake Yahoo support page: [https://www.contactyahoousa.com/contact-yahoo/](https://www.contactyahoousa.com/contact-yahoo/) 
+
+I went through all the files downloaded/made in the 2 hours they had access to my desktop and deleted any file in that time frame. I ran a Malwarebyte and ESET scan and then called my Uncle's bank and my bank to cancel all transactions, cards, and to get new account numbers. I then changed the passwords on all the websites the scammers visited in that time frame. What else should I do? Should I call for a credit freeze? Call FTC? File a police report? Sue? I only know they messed with my Chrome websites, but I have no idea if they accessed any other sensitive data on my desktop. Is there anything else I haven't done?

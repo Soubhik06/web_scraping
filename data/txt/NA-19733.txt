@@ -1,0 +1,91 @@
+SUBREDDIT: r/india
+TITLE: India Security News Weekly: Edition 5 - June 09
+DATE: 2017-06-09
+SCORE: 7
+URL: https://www.reddit.com/r/india/comments/6g9ni3/india_security_news_weekly_edition_5_june_09/
+
+--- POST TEXT ---
+
+Security Underflow (and this newsletter) is an attempt to break down barriers to knowledge about computer security among the general public. I wish to raise awareness about the risks around us and how to mitigate them or raise questions about them when we see them. Feedback/suggestions are welcome here or you can PM me as well.
+
+Last week's newsletter: [Edition 4](https://securityunderflow.com/learn/india-security-news-weekly-edition-4/)
+
+Subscribe at: [tinyletter.com/securityunderflow](https://tinyletter.com/securityunderflow)
+
+[Downloadable PDF for sharing](https://securityunderflow.com/files/newsletter/2017/india-security-news-weekly-5-09-june-2017.pdf)
+
+-------------------------------------------------------------------------------
+
+# The Ticker
+
+Ticker is a collection of interesting security news and happenings in Indian companies and startups.
+
+ - India’s sluggish response to cyberattack that infected 3.2 million cards exposes its vulnerabilities [[Scroll](https://scroll.in/article/839892/india-has-quietly-buried-the-cyberattack-that-infected-3-2-million-debit-cards-and-remains-at-risk)]
+ 
+ *Ed Note:* Although the article touches upon some important points, there are glaring unsubstantiated explanations of the attack provided in the article. It says that the breach proliferated by 'infecting' the debit cards themselves which further infected other ATMs and so on. This is quite hard to believe unless it is backed by evidence. Breaking of the chip based cards' security is unlikely given current sceanrio otherwise we'd be looking at a major India wide recall of most debit/credit cards in circulation, not just few banks'. If the 'infection' was through the mag stripe, it would still require the original ATMs to have capability to write to the mag stripes and also the mag stripes would need to hold much more than a few bytes of data that they have the capacity for to be able to propagate the infection further.
+ 
+ - Fireball: This Chinese malware has infected 250 mn PCs, India 'worst hit' [[IE](http://indianexpress.com/article/technology/tech-news-technology/fireball-chinese-malware-infected-250-million-computers-india-worst-hit-how-to-check-4689461/)]
+ 
+ - Indian CEOs high on breaching information security protocols [[BS](http://www.business-standard.com/article/companies/indian-ceos-high-on-breaching-information-security-protocols-117060700917_1.html)]
+
+ - Indian-led cloud security startup breaks into Silicon Valley’s unicorn club [[VCC](https://www.vccircle.com/indian-led-cloud-security-startup-breaks-into-silicon-valleys-unicorn-club/)]
+ 
+ - 91% of businesses in India feel at cyber attack risk: Citrix [[BS](http://www.business-standard.com/article/current-affairs/91-of-businesses-in-india-feel-at-cyber-attack-risk-study-117060701138_1.html)]
+ 
+ - India needs 1 million cybersecurity professionals by 2020 [[CSOO](http://www.csoonline.com/article/3200024/security/cybersecurity-labor-crunch-to-hit-35-million-unfilled-jobs-by-2021.html)]
+ 
+-------------------------------------------------------------------------------
+
+# Policy Water cooler
+
+We cover the policies and other news that concerns the Indian government and citizens en masse here.
+
+ - AAP invites public to try &amp; hack EVM machines [[DNA](http://www.dnaindia.com/delhi/report-now-aap-invites-public-to-try-hack-evm-machines-2460801)]
+ 
+ *Ed Note:* Although, it's good to have but I'm not sure about the legality of such a move. Like a bug bounty, unless the owner (EC here) provides an express permission, such attempts to hack may be deemed illegal. Being a public instrument though, the mechanics of how this pans out will be trickier.
+ 
+ - India, Pakistan to enter China-led security bloc which will cooperate with each other on cybersecurity as well among other things security. [[ToI](http://timesofindia.indiatimes.com/india/india-pakistan-become-full-members-of-sco/articleshow/59070103.cms)]
+ 
+ - NIA ropes in govt cyber security arm to check terror funding [[IndiaToday](http://indiatoday.intoday.in/story/nia-ropes-in-govt-cyber-security-arm-to-check-terror-funding/1/973256.html)]
+ 
+-------------------------------------------------------------------------------
+
+# World
+
+This section takes a look at the top security news around the world which impact most of us.
+
+**[Britney Spears' Instagram was used by Russian hackers as control servers](https://arstechnica.com/security/2017/06/russian-hackers-turn-to-britney-spears-for-help-concealing-espionage-malware/)**
+
+Security researchers sat ESET found out two important things past week. First was a more known method of a firefox extension masquerading as a security feature actually spreading malware capable of giving complete control of the computer to attackers. The second finding was more amusing. Instead of using a traditional control server somewhere on the TOR network or some hidden IP in Russia, they were hiding the commands in the comments on Britney Spears' Instagram posts. The comments were made to look like benign but the extension took out specific characters based on a regex and joined them together to form the commands to do the attackers' bidding.
+
+-------------------------------------------------------------------------------
+
+# Events
+
+Details on upcoming security conferences and other events around India.
+
+ - [Cyber Security Summit INdia](http://www.cybersecuritysummitindia.com/): Mumbai, 15th Jun '17
+
+ - [IFSEC India](http://www.ifsec.events/india): New Delhi, 16-18 Dec '17
+
+-------------------------------------------------------------------------------
+
+# Inquisitive mind
+
+Take the blue pill and save yourself. Or take the red pill and we'll show you how deep the security rabbit hole goes.
+
+&amp;nbsp;
+
+**References**
+
+*TOR:* TOR is derived from the original project name "The Onion Router". It's built to provide anonymity to its users over the internet by directing the traffic securely over a series of relays across the world which are hard to track for anyone. They provide the tor software or a simpler tor browser for anyone to use. It's used by benign and malicious entitiess alike and several dark web entities thrive on it too. For more details/downloads, go to [The Tor Project](https://www.torproject.org/)
+
+&amp;nbsp;
+
+ **Recommended reading this week**
+
+[What is Tor &amp; How to use the Tor browser](http://www.pcworld.com/article/2686467/how-to-use-the-tor-browser-to-surf-the-web-anonymously.html)
+
+-------------------------------------------------------------------------------
+
+-SecurityUnderflow

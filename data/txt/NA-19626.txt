@@ -1,0 +1,25 @@
+SUBREDDIT: r/india
+TITLE: The UIDAI chairman is constantly lying to the Supreme Court. He keeps getting a free pass
+DATE: 2018-03-29
+SCORE: 232
+URL: https://www.reddit.com/r/india/comments/87yv1y/the_uidai_chairman_is_constantly_lying_to_the/
+
+--- POST TEXT ---
+
+This incompetent buffoon keeps repeating the same nonsense which has been debunked a hundred times over by both national and international security experts 
+
+https://economictimes.indiatimes.com/news/politics-and-nation/no-data-breach-at-uidai-ceo-to-supreme-court/articleshow/63496956.cms
+
+&gt; "There has never been any data breach at the Unique Identification Authority of India, the chief executive of the agency that manages the Aadhaar identification system told the Supreme Court on Tuesday. Ajay Bhushan Pandey said any leaks that could happen from user agencies or verifying entities could be plugged through the data protection law that would come into effect soon."
+
+What a freaking joke. 
+
+ZDNet has confirmed a leak here: https://twitter.com/zackwhittaker/status/977635556665561088 
+
+This is another story were some Bangalore dude hacked aadhar: https://timesofindia.indiatimes.com/city/bengaluru/hacker-shows-cops-how-he-got-aadhaar-data/articleshow/59936606.cms
+
+The problem seems to be that these SC judges and lawyers are unaware of the technology implications. one can hardly expect a 60 year old judge to grasp how someone from France can hack a server "behind a 13 ft wall"
+
+This troll should be charged for lying and misleading the court
+
+Edit: He keeps comparing Aadhar to Social Security but again misleads the whole nation because Aadhar is nothing like SSN. SSN at best can be compared to PAN Card and does not have biometrics or any personally identifiable information that can be used to steal a person's complete identity online. SSN does not even have a photograph. And another fatal flaw is the Aadhar data is being used as a primary key on several government databases (banks, tax, communications), thus potentially exposing your whole life to hackers.

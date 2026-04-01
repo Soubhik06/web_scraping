@@ -1,0 +1,53 @@
+Almost every other major Android app on Google Play Store is successfully bypassing Google’s privacy policies to access the private data of a list of applications installed on your Android device, revealed Prashant Baid, Internet Researcher, in his report .
+
+Swiggy, Zepto, KreditBee, MoneyView, Axis Bank, JioHotstar, CRED, BookMyShow, HDFC, Meesho, Instamart, and LUDO King are just a few among many applications that are secretly peeping into your app drawer. There is a possibility that these applications need to know the list of apps installed on your Android phone for their “core functionality.” If not, it is a pure violation of Google’s privacy protection policy, leading to “either suspension of the app and/or termination of the developer account,” according to Google’s privacy policies.
+
+However, a deeper look into the list of apps that are being surveilled reveals something different: the possible case of fingerprinting & user profiling.
+
+Prashant, who goes by his pseudonym Pea Bee on Substack, examined the AndroidManifest.xml files of major Indian Android apps and found major privacy violations. “The Android Manifest file is common for all Android apps—every app needs to have this configuration file. You can just connect your phone to your laptop and download all the apps installed on your phone. If you unzip the file, you’ll see this AndroidManifest.xml file, which contains the list of apps that a certain application is checking for,” said Prashant to MediaNama over a phone call.
+
+There are three ways an app developer can get the list of installed apps.
+
+In short, Yes. But, Do they need the entire list?
+
+“For banking and financial apps, I think they are doing this primarily for fraud detection and security. You can clone apps or have multiple accounts, so they check for those apps installed on your system. You may have noticed that your banking apps sometimes warn you if developer mode is enabled or if your phone is rooted, preventing you from proceeding without deleting certain apps,” said Prashant in an interview with MediaNama.
+
+Google allows apps to check if specific apps are installed, but only when the app’s core functionality is hindered by the lack of access to a (limited) list of installed apps. For example, an antivirus app might need access to the entire list of installed applications to detect malicious software. So, such apps are entitled to view the whole list of installed apps. However, Prashant’s research found that even apps whose core functionality has nothing to do with the apps listed in their Manifest files are extracting this data without user consent, bypassing Google’s policy.
+
+“I’m surprised KreditBee and Moneyview apps passed the Play Store’s review. Play Store policy explicitly restricts personal loan apps from using the QUERY_ALL_PACKAGES permission. But these apps are bypassing this restriction by individually listing every app they want to detect in their manifest file instead,” he wrote.
+
+App developers seem to have found a trickier way to access installed applications beyond just package queries. If developers use the “ACTION_MAIN” filter in the manifest configuration, they can detect every app that has a ‘screen.’ Since almost all apps run in the foreground and have a user interface, developers can now access a list of all installed applications without even using package queries.
+
+To verify this, Prashant created a demo app using basic coding and included the “ACTION_MAIN” filter in its manifest. “When I queried for installed packages, just as expected, this little hack returned a list of all the apps on my phone!!!” he claimed in his blog post.
+
+Out of 47 randomly analyzed Indian apps, 31 were using this ‘hack’ to access the entire list of installed applications. These include widely used apps such as:
+
+Astrotalk, Axis Mobile, Bajaj Finserv, BookMyShow, Cars24, Cure.fit, Fibe, Groww, Housing, Instamart, Ixigo, JioHotstar, KreditBee, KukuTV, LazyPay, Ludo King, Meesho, MoneyTap, Moneyview, Navi, NoBroker, Nykaa, Ola, PhonePe, PhysicsWallah, Slice, Spinny, Swiggy, Swiggy Delivery, Tata Neu, and Zomato.
+
+In May 2021 , Google changed its privacy policy. As part of this, access to all  installed applications was curtailed by Google. Prior to this, “any app you installed on an Android device could see all other apps on your phone without your permission,” Prashant pointed out in his post.
+
+A decade ago, Twitter (now X) explicitly admitted to extracting data about installed applications to improve ad targeting. Just before Google revised its policies in 2021, MobiKwik’s massive data breach also revealed that it was collecting installed app data. Although it is not clear why MobiKwik extracted this particular data, it is clear that Twitter (now X) used it for fingerprinting other installed apps and for user profiling.
+
+The list of apps installed on your smartphone can reveal a lot about you.
+
+The ‘consumer stack’ data from Blume Ventures’ Indus Valley Report (2025) categorises the economic class of the user, based on the list of apps installed on their smartphones. For example:
+
+Indus Valley Report coming up! @sajithpai @llnachull @anurag_pagaria Some highlights: People are getting deeper pockets but the volume of India 1 is not getting bigger India 1 charges the economy India 1 is helping spark a fast-growing equity market and the experience… pic.twitter.com/V3nFVSfKoj
+
+“A good way to understand the above is that all apps in India 3 can be used by India 2 and India 1. Similarly India 2 apps can be used by India 1. The reverse isn’t true. India 1 apps are not used by India 2 or India 3,” reads Blume’s report .
+
+“The wide range of categories of apps in this list strongly suggests Swiggy is collecting installed apps data for user profiling and to build a behavioural profile of their customers. This seems to be against Play Store’s policies which considers the list of installed apps to be personal and sensitive user data ,” wrote Prashant in his report.
+
+KreditBee, the personal loan app, is checking if you have 860 apps on your phone. The list includes the checks for apps like PrinterShare, Where is My Train, Secure VPN, Pyaar Chat, along with numerous UPI and fintech apps.
+
+Beyond the usual categories, Prashant found that KreditBee checks for apps like Tamil Calendar, Odia Calendar, Qibla Direction Finder, mandir apps, and astrology apps. “They know what they’re doing,” he wrote. “This list of apps is a window into how a large part of India uses their phones—their daily lives, habits, and priorities.”
+
+We have sent a detailed questionnaire to KreditBee to understand why they need to know about these applications to fulfil their “core functionality.” And, we have sent an email to Google as well to understand how the developers bypassed their policy. We will update the article once we hear back from them.
+
+Note: The first paragraph was edited for clarity based on editorial inputs on 05/04/2025 at 11:49 a.m.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

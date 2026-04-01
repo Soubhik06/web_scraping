@@ -1,0 +1,47 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Survived a Credit Card fraud today. Sharing my experience for an educational purpose.
+DATE: 2021-08-19
+SCORE: 972
+URL: https://www.reddit.com/r/IndiaInvestments/comments/p7cc6r/survived_a_credit_card_fraud_today_sharing_my/
+
+--- POST TEXT ---
+
+I hold an RBL Bank Credit Card along with a couple of others. 
+
+Today, I got a call from a mobile number 6391504865. The person was speaking fluent English and claimed to be from the RBL Bank. He asked me - at the time of getting the card whether I was told if this card is lifetime free or there will be a joining fee. Then he asked if I was actually given the credit limit which I was told. Till this point, I answered the questions.
+
+Then he told me that the bank is offering me a credit limit increase of 1 lakh if I want. And then asked - "Please confirm if the PAN number I am telling is correct." Then he told me my correct PAN number. He further proceeded saying that he was sending an OTP which should be shared with him for authorisation of this limit increase. Here comes the scary part. I received an OTP from the legit RBL messaging service (VK-RBLBNK) from which I usually receive the transaction messages. The content of this SMS was as following:
+
+“234567 is OTP (one time password) for updating your RBL Bank Credit Card settings.”
+
+Just to ensure that this is indeed a fraud, I asked him to tell me my existing card limit before I share the OTP. He couldn't answer it well and started beating around the bush. I told him unless the SMS mentions that this OTP is for credit card limit increase, I will not share the OTP. I asked him to send me an email from his RBL email id about this. He said yes and hung up the phone.
+***
+From my personal experience of credit cards in the past, whenever there is credit limit increase offer, the banks usually let you know this by 
+
+1) SMS - Then they ask us to send YES/NO in some format to a specified number to accept/reject the offer.
+
+2) The net banking/mobile banking account displays the alert about the offer. Then you yourself accept or reject the offer.
+
+3) If you yourself call the customer support helpline for some issue and you get to know that there is an offer for credit limit increase. Even on the phone if they have never asked for an OTP. 
+
+Till date, I have never needed to share an OTP for a credit card limit increase.
+
+To further confirm that it was a fraud, I called the RBL Customer Support and connected with the fraud department. They told me that there is no offer on your card and the call which I received was definitely a fraud call. 
+
+So this caller was a sophisticated caller/hacker who had access to my RBL Bank Credit Card data by which he was able to tell me the correct PAN and able to generate the OTP -possibly for a fraudulent withdrawal transaction from my card. Truecaller showed the number’s location as Uttar Pradesh.
+
+On extensive googling around this, I was able to locate this article which elaborates the exact same fraud which I experienced. The victim was also an RBL card holder.
+
+[Chandigarh cyber cell arrests 2 hackers for stealing credit card details](https://nationnews.in/chandigarh-cyber-cell-arrests-2-hackers-from-delhi-ncr-for-stealing-credit-card-details-credit-card-and-payment-gateway-recovered-from-their-possession/)
+***
+Please beware of the calls you receive from people claiming from banks. Reverse check with the caller by asking them if they know your additional details. If they are unable to answer it, then it’s definitely a fraud.
+
+The best safety is to never share any kind of OTP with anyone.
+
+P.S. 
+
+1) There is a series called [Jamtara](https://www.youtube.com/watch?v=GoXd_sESBBI) on Netflix which explored such scamming and phishing which takes place in India.
+
+Jamtara is a city from Jharhand. It is nicknamed the phishing capital of India. It got this title because there were numerous incidents of phishing across country whose centre point was this small town.
+
+2) **Just to ensure full safety and peace of mind, when I was talking to the fraud department of the customer support, with their help, I immediately blocked the credit card and requested a replacement.**

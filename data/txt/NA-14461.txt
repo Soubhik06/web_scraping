@@ -1,0 +1,45 @@
+Analyst firm Gartner warned that AI-powered web browsers pose serious security risks and advised most organisations to block them until they develop proper safeguards. In a new advisory titled â Cybersecurity Must Block AI Browsers for Now ,â the firm argued that these browsers could expose sensitive data, cause automated mistakes, and allow attackers to manipulate them, according to a report by The Register.
+
+According to the advisory, AI browsers, such as Perplexityâs Comet and OpenAIâs ChatGPT Atlas, combine an AI sidebar with autonomous âagenticâ capabilities. These features allow a browser to summarise or translate web pages, and in some cases, automatically perform tasks like filling forms, navigating websites, or making purchases while logged into private accounts.
+
+Gartner analysts Dennis Xu, Evgeny Mirolyubov, and John Watts warned in the report that âprioritise user experience over security.â
+
+The advisory says that AI sidebars routinely send active browser content, such as open tabs, page data, and browsing history, to cloud-based AI systems operated by browser developers. This, Gartner notes, can result in unintentional exposure of corporate information if security settings are not configured properly.
+
+The document explains that organisations can theoretically reduce the risk by evaluating how securely each AI service handles user data. Even when organisations clear an AI browserâs back-end for use, the analysts advise that employees should assume the browser could transmit anything displayed on their screen to an external AI system.
+
+A larger concern, according to Gartner, is the possibility of autonomous browser actions going wrong. The report flags multiple risks:
+
+The analysts also said employees could misuse AI browsers to avoid completing required tasks, adding that some workers might instruct the browser to finish mandatory cybersecurity training on their behalf.
+
+The report imagines that autonomous systems inside corporate environments might even make procurement errors. It warns that âA form could be filled out with incorrect information, a wrong office supply item might be orderedâ¦ or a wrong flight might be booked.â
+
+While Gartner lists some partial protections, such as disabling email access for AI agents, restricting what they can store, and applying strict settings, the advisory concludes that these steps may not be enough.
+
+The analysts recommend that organisations block AI browsers unless they complete a detailed risk assessment. Even when a company approves a browser, the analysts expect it will have to enforce usage policies and monitor AI browser activity.
+
+Gartnerâs warning comes amid increasing questions about the safety of agentic AI systems, which can take independent actions on the internet. Some technology companies argue these systems increase productivity, but critics say they also introduce unpredictable behaviour and new attack surfaces.
+
+For now, Gartner clearly urges organisations to act cautiously, review the risks thoroughly, and block AI browsers until they better understand their security implications.
+
+In India, regulators have also started assessing the broader risks posed by AI and agentic systems. The Competition Commission of India (CCI) recently told a Parliamentary panel that it is studying how AI could enable âalgorithmic collusion, data monopolisation, and anti-competitive market dynamics.â The Ministry of Corporate Affairs informed the committee that âAgentic AI is an evolving conceptâ and said the CCIâs ongoing market study on AI and competition is in its âadvanced stageâ.
+
+Indiaâs proposed Digital Competition Bill (DCB) focuses on nine core digital services but currently does not cover AI agents or virtual assistants, an omission the Parliamentary Standing Committee has flagged. The Committee recommended expanding the billâs scope to align it with global practices and bring advanced AI systems, including agentic tools, under regulatory oversight.
+
+The warnings come at a time when major AI companies are launching their own browsers to gain more control over usersâ online activity. OpenAI recently introduced Atlas , while Perplexity launched Comet . These browsers integrate AI at the system level, allowing tasks like summarising emails, generating responses, and analysing pages directly inside the browser.
+
+The move is driven by distribution, data access, and competition. Browsers are the most-used apps on phones and give AI companies direct visibility into what people read, click, or search.
+
+According to MediaNama Editor Nikhil Pahwa , controlling the browser helps AI firms become the userâs default AI assistant and reduces dependence on Googleâs Chrome ecosystem.
+
+The report also notes that Google is shifting its search interface towards âAI Modeâ, limiting traditional search results. AI companies fear losing visibility in Chrome, and building their own browsers helps them hedge against this shift. These AI-native browsers also double as workspaces, performing actions across email, calendars, and websites, blurring the line between browser and operating system.
+
+However, users may hesitate to trust AI browsers with such deep access to personal data, especially when these tools track behaviour across the web for model improvement.
+
+With AI browsers positioning themselves as alternatives to Chrome, Safari, and Edge, Gartnerâs warning adds a layer of security concern to what has already become a highly competitive and fast-changing browser market.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

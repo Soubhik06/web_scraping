@@ -1,0 +1,19 @@
+A “sophisticated state-based cyber actor” is targeting Australian organisations across a range of sectors, “including all levels of government, industry, political organisation, education, health, essential service providers and operators of other critical infrastructure”, Australian Prime Minister Scott Morrison announced in a press conference on June 19. Both government agencies and private sector were targeted. The scale and nature of the targeting and “tradecraft” used, prove that a “state-based cyber actor” is at work, he said. While such attacks are not new, their frequency, scale, sophistication and impact have been increasing, Morrison and Defence Minister Linda Reynolds said. Thus far, investigations have not revealed any “large-scale” personal data breaches, Morrison said. News.com.au first reported this.
+
+Morrison had also spoken to UK Prime Minister Boris Johnson about this attack on June 18. UK and Australia are both part of the Five Eyes intelligence alliance that also includes the USA, Canada and New Zealand. Australia will conduct further technical briefings with states and territories throughout June 19. The Australian Cyber Security Centre (ACSC), the country’s nodal agency on cyber matters, has released a technical advisory as well as per which the attackers did not “carry out any disruptive or destructive activities within victim environments”.
+
+Morrison did not attribute the attack to any particular nation since “the threshold for public attribution on a technical level is extremely high”. If the attack is ever publicly attributed, it will be done in the country’s “strategic national interest”. Despite that, he made it clear that the state-based actor involved in these attacks has “very, very significant capabilities”, the kind that not many state-based actors can engage in. He refused to say if these were actions of a friendly nation. However, multiple media reports suggest that China is behind these attacks, a suggestion that Morrison neither confirmed nor denied during the press conference.
+
+This is not the first time China has been suspected. In 2019, a “sophisticated state actor” had carried out a “malicious intrusion” into Australia’s main political parties and parliament. Reuters had later reported that Australian intelligence concluded China was responsible for the attack but the report itself was never made public and none of the five people Reuters spoke to was attributed. In 2015, when computers at Australia’s Bureau of Meteorology were attacked — in an attack that compromised sensitive systems across the government —, China was again attributed , but never officially or on the record. China had, of course, denied carrying out the attack.
+
+As per the technical advisory released by the ACSC, the attackers used proof-of-concept exploit codes, web shells and other tools that were almost identically copied from open source.
+
+Methods used:
+
+The actors gained access to networks through open source and custom tools and then migrated to legitimate remote access using stolen credentials. Thus, to deal with a compromised system, all accesses will have to be identified and removed.
+
+Steps to take:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

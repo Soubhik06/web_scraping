@@ -1,0 +1,27 @@
+What’s the scoop:
+
+Starting May 1, 2023, the Telecom Regulatory Authority of India (TRAI) has put in place new regulations that mandate the use of artificial intelligence (AI) spam filters for incoming calls and short messaging services (SMS), according to a report by Business Times. This is an implementation of the AI system proposed by Vi (Vodafone Idea) in March of this year and is meant to detect patterns in fraudulent messages. The regulations instruct telecom operators to disallow ten-digit numbers from making promotional calls, according to a report by Business Today. So far, Bharti Airtel and Reliance have confirmed that they intend to apply an AI filter service.
+
+Why it matters:
+
+While intended to help telecom consumers, the regulation leaves some questions unanswered. The information currently available about this AI system lacks details on how the filter would work. It also doesn’t really shed light on how much control individual telecom operators would have on what is censored and what isn’t. Besides, there isn’t any law forbidding telecom operators from filtering calls and messages which means if they misuse it, it is completely legal to do so.
+
+The backdrop of this regulation:
+
+The implementation of these regulations comes in as the logical next step to the e fforts TRAI has been putting in to control unsolicited commercial communications (UCC) . The first step in this direction was the release of the Telecom Commercial Communication Customer Preference Regulation (TCCCPR) , 2018. This co-regulation was created by telecom service providers and legally backed by TRAI. It called for the adoption of distributed ledger technology (DLT) wherein businesses could store their personal message headers and assert their identities. It also required subscribers to confirm their consent before they receive any telemarketing calls or messages. Subscribers are even allowed to revoke consent if they no longer find the messaging relevant.
+
+Would this system even work?
+
+Reports have shown that telecom operators have already been filtering calls and messages, even before TRAI’s consideration of permitting the same. For instance, Airtel was blocking messages using the words “Discord” and “TikTok” in 2022. These rules simply give this censorship an official stamp of approval. While Vi claimed that its AI system could detect patterns in spam messages during its original presentation, the internet is flooded with instances of AI content moderation systems being bypassed. Even with Airtel’s censorship practice that we mentioned earlier, simply changing the way letters are spaced out in a word was enough to send the message. All of this goes to show that for someone clever enough to try it, there are ways to bypass the AI filter or even exploit it.
+
+Also read:
+
+How Many Spam Calls Does An Average Indian Receive Daily?
+
+Exclusive: The Curious Case Of Words Like “Discord” And “Tiktok” Being Blocked On Airtel SMS
+
+India’s Telecom Regulator Doubles Down On Its Efforts To Curb Spam
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

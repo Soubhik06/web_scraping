@@ -1,0 +1,69 @@
+Some of India’s most exciting tech policy debates are happening in India’s grand old courtrooms. We round up twelve cases—some old and some new—you should keep an eye out for this February.
+
+Got a case you think we should cover? Did a recent tech policy judgment impact your business? What more can we do to make our legal coverage less Delhi-centric? Send in your inputs to [email protected] .
+
+The United States Supreme Court is set to begin hearing arguments in Gonzalez v Google this month. The parents of Nohemi Gonzalez sued Google a few years ago accusing the platform of aiding the murder of their daughter. Google’s alleged crime: its algorithms “affirmatively” recommended ISIS recruitment videos to the terrorist who eventually murdered Gonzalez in Paris.
+
+The principles behind the case : Platforms are typically not held responsible for unlawful third-party content that they host—this is often called the ‘safe harbour’ principle. Safe harbour is believed to be a good thing for the Internet, because if platforms were liable for every questionable thing their users posted or did, they’d be buried under lawsuits. So, the United States (and India too) have safe-harbour clauses baked into their IT laws to protect platforms from this liability. But, the Gonzalez family thinks this case is different—Google wasn’t simply hosting third-party ISIS videos, it was actively recommending them to the terrorist in question. It’s much more culpable then, in fact, it’s responsible for these actions—and so, it shouldn’t be protected by safe harbour laws.
+
+Why it matters : Most platforms nowadays utilise algorithms to recommend new content to users. If the Court rules in favour of the Gonzalez family, then they could potentially be held liable for recommending different kinds of third-party content. It makes platforms risk-averse about what they host online—and marks a fundamental shift in how the Internet currently works (and has worked for decades now). It’s also why people think this is one of the most important tech policy cases of the year. After all, what happens in the US has a curious way of influencing other countries’ policies too.
+
+Docket number : 21-1333
+
+Hearing date : 21/2/2023
+
+Reading material : Here’s our summary of the Gonzalez petition. ProPublica looks at why United States safe harbour regimes “gave us the internet we have today”. The New Yorker rounds up why this case (along with a tagged case) “could break the internet” while MIT Tech Review adds that it “could end Reddit as we know it”. Here’s an archive of all the third-party submissions people have made in the case. Here’s a tech policy scholar on India’s safe harbour regimes and where they can improve.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with top stories from MediaNama and around the world, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Twitter suspended Abhijit Iyer-Mitra’s account last year after he tweeted about the Supreme Court granting Alt News co-founder Mohammed Zubair bail. Mitra went to the Delhi High Court to challenge the decision.
+
+What happened? : A research fellow at the Delhi-based Institute of Peace and Conflict Studies, Mitra alleged that a Supreme Court judge’s son participated in debates on the issue on the news channel NDTV. An NDTV editor also “furnished the bail bond for Zubair’s release”, Mitra added. His tweet included the phone numbers and addresses of the people he’d accused. Mitra went on to remove these details saying that the microblogging platform would protect its “resident in-house jihadist aiders abettors”. Twitter slapped Mitra with a “show-cause notice” and “unilaterally” suspended Mitra’s account. His lawyer added that the ban didn’t follow India’s platform governance regulations—the IT Rules, 2021. Twitter responded saying that the account would be restored if the tweet was deleted. From what we can make out, not too much has happened in this case since the Delhi High Court first summoned Twitter in the case last November.
+
+Why it matters : Like the Sanjay Hegde case mentioned below, this is another instance of Indians of all political stripes critiquing Twitter’s blocking policies. What we’re trying to figure out—how can platforms ensure that patently ‘illegal’ content is taken down without inadvertently stepping on free speech rights? More importantly, who decides what’s illegal in the first place? When does something cross the line?
+
+Case number : CS(OS) 671/2022
+
+Listing date : 16/03/2023 for case management.
+
+Reading material : Scroll rounds up all the legal reporting on the case. We profiled Zubair’s arrest—and what it has to do with tech policy—last summer. Bar and Bench reports on a googly in this case: Mitra found himself having to explain his critical tweets on the judiciary to the High Court last December.
+
+The BBC made a documentary on Prime Minister Narendra Modi’s involvement in the 2002 Gujarat riots. It was suddenly taken down from YouTube a few weeks ago. The BBC said this was a standard copyright issue. The Indian government later admitted that it was involved in broader censoring of the documentary online too. “The Ministry of Information and Broadcasting (MIB) had issued directions to block multiple videos of the documentary uploaded on YouTube by third parties,” we reported. “Such blocking directions were also issued for over 50 tweets which had links to videos about the documentary as well”.
+
+In comes the court case : Journalist N. Ram, politician Mahua Moitra, and lawyer Prashant Bhushan filed a suit at the Supreme Court to restrain government censorship of the documentary a few days ago. They also want all orders that directly and indirectly blocked online access to the documentary to be quashed.
+
+Why it matters : The government’s actions were “manifestly arbitrary” and “unconstitutional”, the petitioners argued. They also violated citizens’ fundamental rights to receive and disseminate information, held under the fundamental right to free speech and expression. Criticising the government isn’t tantamount to violating India’s sovereignty and integrity, they added. The blocking orders were not published either, reducing transparency over the entire censorship process.
+
+Case number : WP(C) 116/2023
+
+Hearing date : Yet to be admitted.
+
+Reading material : Our journalists were some of the first to report on the BBC’s response to the takedown. LiveLaw has an excellent summary of the petition. An RTI specialist sums up the growing opacity of blocking orders issued by the Indian government. Here’s a quick take from our Editor Nikhil Pahwa on whether the documentary should have been blocked at all.
+
+Some of the cases we mentioned in last month’s case tracker are up for hearing this month too. Here are some dates to keep an eye on:
+
+February 6th : The Delhi High Court’s monthly run with copyright suits opens with DB Corp’s case against WhatsApp. This is the group that owns the Dainik Bhaskar trademarks, among others. (Case number: CS (COMM) 652/2021)
+
+February 7th* : The Karnataka High Court will hear arguments in Twitter’s writ petition challenging 39 of the Indian government’s orders to block tweets and accounts. Hearings have been adjourned (and adjourned again) for a while now—here’s what happened when it actually was heard last year. (Case number: WP 13710/2022)
+
+February 7th* : Academic publishers weren’t happy about how the government used its search and seize powers to capture electronics during investigations. So, they challenged it at the Supreme Court, asking for better ringfencing of investigative privileges. Here’s our coverage of the petition ‘s journey at the top court. (Case number: WP (Crl) 138/2021)
+
+February 7th *: The Supreme Court will also figure out whether the Indian government actually used Pegasus spyware in a (Pega)suspicious way against its own citizens. Here’s how the allegations have been received by courts and parliament so far. (Case number: WP (Crl) 314/2021)
+
+February 9th : Academic publisher Elsevier will continue its crusade against Alexandra Elbakyan, founder of the pirate website Sci-Hub at the Delhi High Court. Click here for a rundown of everything that’s happened so far in this classic tale of copyright infringement v free access to knowledge. (Case number: CS(COMM) 572/2020)
+
+February 9th : The Delhi High Court will hear a copyright case of a different hue—this is the one where educationist Neetu Singh took on Telegram over her learning materials circulating illegally on the platform. We’ve reported all about why this case matters here—and here’s a round-up of four other similar cases Telegram is facing at the Court (ouch). (Case number: CS (COMM) 282/2020)
+
+February 10th : The Delhi High Court will also re-notify media group Bennet Coleman’s copyright suit against WhatsApp. Bennett Coleman publishes lots of popular newspapers, including Times of India and The Economic Times . (Case number: CS (COMM) 232/2021)
+
+February 16th : Sanjay Hegde’s case at the Delhi High Court urging the Indian government to frame guidelines that prevent platforms from arbitrarily censoring content online continues. Here’s why Hegde is particularly miffed about the issue. (WP (C) 13275/2019)
+
+* This date has been auto-generated by the respective court’s website, or mentioned on the case page, without an accompanying order. It may be subject to revision.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Read More
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

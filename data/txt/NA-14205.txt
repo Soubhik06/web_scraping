@@ -1,0 +1,41 @@
+The Department of Telecommunications (DoT) wants caller IDs to be available by default for all customers, as per a back-reference it sent to the Telecom Regulatory Authority of India (TRAI) in September this year.
+
+In its push for default CNAP implementation, DoT suggests that any user who does not want the service can ask telcos to disable it for them as per the procedure.
+
+This comes after TRAI recommended the introduction of the Calling Name Presentation supplementary service (CNAP) service on the Indian telecommunication network in February last year .
+
+For context, CNAP is a service offered to the called party that provides the name information associated with the calling party. Essentially, if you get a call from an unknown number, CNAP will show you the name attached to that number based on the information given by the caller in their application for a SIM card. Importantly, TRAI had recommended that telecom companies should provide CNAP services to customers when they request it (as a supplementary service) . And instead of pushing back against DoT’s demand for default service, TRAI has simply noted the reference.
+
+Since the recommendations, there were reports of Airtel, Jio and Vodafone Idea (Vi) conducting trials for the caller IDs in Haryana and Mumbai for 4G/5G users. Most recently, soon after TRAI released the details of the back reference, Vi and Jio are piloting the caller ID service again in Haryana, according to an Economic Times report .
+
+Pertinently, DoT notes in the reference that telecom companies have successfully conducted trials and assessments of CNAP for 4G and above.
+
+The government raised an issue about CNAP being a supplementary service, to which TRAI emphasised that authorities like the International Telecommunication Union (ITU) and European Telecommunication Standards Institute (ETSI) have both defined the service as such.
+
+Further, TRAI highlights the definition of what constitutes as a supplementary service. As per the ITU’s 1988 recommendation, a supplementary service “modifies or supplements a basic telecommunication service”. It adds that: “It must be offered together with or in association with a basic telecommunication service.”
+
+Based on this, and the ITU and ETSI’s definitions of CNAP-like services, TRAI reiterates that CNAP is a supplementary service.
+
+Accepting TRAI’s model for CNAP implementation, DoT says that telcos should implement CNAP for 4G and higher technology cellular mobile subscribers immediately.
+
+For other mobile users, DoT says that the service may be carried out after circuit switched technical feasibility in networks is achieved. For context, CS is used to provide services to 2G and 3G mobile users.
+
+In its recommendations, TRAI had mentioned that the government should issue instructions to make the feature available on all devices sold in India after a particular cut-off date. The regulator had mentioned that this cut-off date can be six months after the government notifies CNAP implementation.
+
+While DoT accepted the recommendation, it suggested that the handset-related matters can be taken up with the Ministry of Electronics and Information Technology (MeitY).
+
+Through CNAP, TRAI wanted to solve the spam/scam problem in India. It argued that users have missed genuine calls in the absence of caller IDs because they prefer not to attend calls from unknown numbers.
+
+However, MediaNama has previously mentioned that it is unclear whether CNAP would be able to solve the spam problem. There are a myriad of reasons why this solution would not work, be it the fact that the person who owns a SIM may not be the one making the call or the fact that a spammer may dupe the know your customer (KYC) process necessary for obtaining a SIM card.
+
+And even if you somehow learn that the person calling you is a spammer/scammer and block them, they could just pick up a new SIM and keep calling and bugging you, rendering CNAP ineffective. Spammers could also shift to other methods of spamming, be it through voice over IP calls, or robocalls with spoofed caller IDs.
+
+Besides not solving the spam problem adequately, CNAP could end up giving spammers more ammunition. For context, a spammer could use callback spams, where your phone rings just once, only for the spammer to immediately disconnect it so that the victim calls the spammer back.
+
+Notably, with CNAP, if you fall for this spam/scam, the spammer would now have your name. They could use this to look you up on Facebook, LinkedIn, and Instagram, learning where you have studied, where you work, and who is in your family. All these details would allow spammers/scammers to make their scams more curated towards you, making you more susceptible to falling prey to such scams.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

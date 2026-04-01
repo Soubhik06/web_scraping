@@ -1,0 +1,95 @@
+“It was around 11:35 pm last night. I was texting someone on Discord and the site just went down. I checked WhatsApp and I checked other messaging platforms and they were working fine. So I went on SMS to continue talking to the person I was talking to. And I was going to tell them that my Discord stopped working, but I couldn’t send the word Discord. I sent other messages and it worked fine. But any message with the word Discord would fail to send. It was the same on her end,” 19-year old Dhruv Anandh from Chennai told MediaNama on March 9.
+
+“I texted my dad, too, and he couldn’t send me the word. I am an active discord user, it’s the platform I use to communicate. The only servers I talk in are personal servers with friends,” Dhruv continued.
+
+“I just got curious. I wondered if they banned the app or something. They banned Garena recently and that had nothing to do with China.Â So it wouldn’t be unreasonable to think they banned Discord.Â So I tried messaging names of other apps they banned here. It was weird because things like PUBG and stuffâthat still worked. But I tried to send TikTok and that didn’t send as a message. If you break up the message a little bit, it works. It’s filtering for that specific word.”
+
+Curious about what’s happening, Dhruv’s father Anand Ramachandran asked MediaNama if telecom operators can block messages with specific words. Unaware of any precedent to this kind of behaviour, we decided to get to the bottom of this.
+
+To understand what was happening with Dhruv, we ran a test Wednesday morning by sending out multiple messages containing the words “TikTok” and “Discord” using various telecom operators. Examples of messages we sent include “check this video out on TikTok” or “let’s chat on discord.”
+
+Text messages containing either the word “tiktok” or “discord” failed to send from an Airtel number, showing an error message and asking the sender to try again. Messages with these words sent from other networks like Jio or Vi to Airtel showed as sent on the sender’s mobile but did not arrive in the recipient’s Airtel number. From this, it appeared that Airtel was blocking both incoming and outgoing messages containing the words “tiktok” or “discord.”
+
+While we were testing out different words, we found that “shareit” also appears to be blocked on Airtel, but not the same way as “tiktok” and “discord.” While messages outgoing from an Airtel number containing the word “shareit” were blocked, incoming messages from other networks displayed fine.
+
+MediaNama was able to verify thatÂ messages with the words “tiktok” and “discord” from Jio and Vi numbers worked as they should without any censorship.
+
+We reached out Wednesday morning to Airtel pointing out the issue at hand and asked if they are censoring messages. Airtel did not provide any official response, but since this intimation, messages containing the words “tiktok” and “discord” have started going through sporadically. A company official told us that it appears to be a technical issue and they’re not sure why it’s happening, but we are yet to receive a formal response from the company explaining what exactly is going on.
+
+Why were very specific words like TikTok and Discord banned, while others were not? Why does a “technical” issue apply to these specific words and not others? These remain unanswered.
+
+There is no legal basis for censorship of text messages ,Â Nikhil Narendran, who is a Partner at Trilegal and specialises in telecom law, told MediaNama.
+
+According to Nikhil, under the telecom regulations, telecom operators are not supposed to :
+
+Pranesh Prakash, the co-founder of the Centre for Internet and Society, explained that the Unified License, under which Bharti Airtel operates, specifies:
+
+Noting the above provisions, Prakash said:
+
+“It is clear the licensee doesn’t have the powerÂ to unilaterally determine what kinds of SMSes are unauthorized as per established laws of the country. Given the clear stipulations under the telecom licence, the Department of Telecommunications should investigate this as a breach of the terms and conditions of license under which Airtel operates, and take stringent action against it for the intrusion into its customers’ privacy and unauthorized blocking of communications.”
+
+Another lawyer,Â on condition of anonymity, said that there is no legal basis except under the provisions for interception under the Indian Telegraph Act:
+
+“I think what Airtel is doing probably will fall in the category of interception and monitoring because they might be using a device, which is interfering with the messages. And the rules are very clear with respect to interception and monitoring. And these rules flows from two different sources. One is Section 5 of Indian Telegraph Act 1885 and there are rules framed under this called Indian Telegraph Rules. The Act and the rules together prescribe a very comprehensive process and procedure for interception. It defines the grounds, it defines the process, it defines periodic review and duration. And it’s pretty tough, actually in terms of the way it needs to be done.”
+
+One theory on what could be happening is that Airtel is maintaining a list of words to filter for spam and scam messages and “tiktok” and “discord” are on it. We have asked Airtel if this is the case and are awaiting a response.
+
+But this still leaves room for plenty of questions because words like “tiktok” and “discord” by themselves cannot be spam. And there is no legal basisÂ even for spam filteringÂ based on the contents of a message, Nikhil said. “The only thing they can do to reduce spam is to look at the header such as the sender information,” he explained.Â Another lawyer added that spam filtering is not one of the grounds for lawful interception under the Indian Telegraph Act.
+
+It’s worth noting that phishing and scamming are rife in India, most of which happens on SMS: users often receive messages with mobile numbers that ask them to call to verify their account, lest it is blocked, or they ask them to use specific links. Telecom operators have so far failed to address these scams. Of late, scammers have begun using techniques leetspeak ,Â where text characters are replaced with numbers to avoid spam detection. For example, Discord could become “D1scord” and TikTok could become “Tikt0k.”
+
+Interestingly, MediaNama was able to verify that leetspeak messages were not blocked, which means, if Airtel is monitoring certain words to block messages for spam filtering, then it is not really an effective solution. But we really don’t know if this was meant to block spam.
+
+Since 2020, the Indian government has banned over 400 apps linked to China stating that they pose a threat to the privacy and security of Indians.Â TikTok, WeChat, Shareit, UCBrowser, Clash of Kings, PUBG, and Garena Free Fire are popular names among the banned apps.
+
+Two of the banned apps, TikTok and Shareit, are also among the words that were blocked in our testing of Airtel text messages.
+
+This might suggest some sort of connection, but when we tried other banned apps such as Applock, WeChat, Camcard, and Equalizer, there were no restrictions, suggesting that there is no clear connection between the Chinese app ban and the censoring of text messages on Airtel.
+
+In addition, Section 69A of the Information Technology Act, 2000, allows the government to issue directions for blocking public access of any information through any computer resource for reasons like national security or public order. This is the primary legal provision used by the government when asking platforms to take down content. Section 69AÂ can be used to technically do the blocking in this case because it can be read as interception, Â Nikhil said.Â But Section 69 requires a government order, he added. And if this was an order under section 69A, we still have the big question of why other operators are not required to follow it.
+
+Also, the government’s ban of the TikTok app under Section 69A does not carry over to messages , but that might explain the “technical issue,” Nikhil said. “For instance, the government said ban TikTok. So they would have used some sort of a filter that is also filtering this from the messages. Whereas, that’s not allowed. You cannot ban a message like TikTok. You can only ban TikTok from the app stores or the TikTok IP addresses or the TikTok APIs,” he explained.
+
+“If Airtel is imposing such screening on words like TikTok and Discord, it is a clear case of private censorship by the telecom provider. This affects the right to free speech of citizens as text messages are even now a popular means of communication. The telecom provider should issue a statement regarding this and also make it clear whether they employ any screening software for text messages and the kind of messages that are censored,” Prasanth Sugathan, Legal Director, Sflc.in told MediaNama. (emphasis ours)
+
+This instance also sets a precedent for what is possible . If Airtel has the technical capability to filter and block texts based on certain words, this can be misused by the government to order proactive filtering of words not just for national security reasons but for vague and broad reasons like “public order.” The Information Technology Rules, 2021, already have provisions for proactive content filtering for social media platforms and the same could be extended to all intermediaries if the technical capability for it exists.
+
+This issue also points out privacy concerns because the interception essentially means that Airtel is monitoring the contents of text messages. And whatever automated system is used to filter the words “tiktok” and “discord” now can just as easily be expanded to include words that are anti-establishment, which then makes SMS an unsafe communication tool for journalists and social activists among others.
+
+“This is certainly against the principles that a telecom provider should be following. They shouldn’t be having a private blacklist of words that they censor. Let’s be clear, these are private messages, not public broadcast messages. They definitely shouldn’t be reading those in order to censor. So there’s both a privacy concern as well as freedom of expression concern here. Now, obviously, Airtel doesn’t fall within article 19 of the Constitution. It’s not the state. So, they might have the liberty, in theory, to do so, but they would be prohibited under the telecom licenseÂ from doing so, unless directed to do so by the government.” â Pranesh Prakash, CIS
+
+Update (10 March, 7:50 pm):Â Karan Saini on Twitter pointed out that the phrases “verification code” and “your otp” are not going through. MediaNama was able to verify the same (screenshot below). Neither are these phrases going from an Airtel number to any network, nor are they receivable on an Airtel number. Meanwhile the words “tiktok” and “discord” now appear to go through from an Airtel number to another network. However, strangely, sending a message with “tiktok” from Jio to Airtel does not get received on the Airtel number.
+
+MediaNama found the issue to affect messages containing the words “tiktok,” “discord,” and “shareit,” but this is not an exhaustive list. As for what words might be blocked, the response our editor Nikhil Pahwa gave as far back in 2015 to questions on censorship of the internet remains true to date: I don’t know .
+
+“I donât know what has been blocked â which site, which URL. I donât know why. I donât know who asked for it to be blocked. I donât know when it was ordered to be blocked. My ISPâs customer care rep cannot explain it. Iâm not able to access the site. Itâs frustrating.
+
+Sometimes theyâre blocked in one particular city for an ISP, and it works with the same ISP in another city. I donât know why. Sometimes itâs blocked on 2G and works on landline, sometimes itâs blocked on landline and works on mobile. I donât know why. When people complain on Twitter, miraculously, the block is removed. I donât know why, and if the block was done incorrectly, shouldnât someone be held responsible?
+
+I donât know why an ISP canât tell me exactly why a site has been blocked. Why it canât publish a court order or a DoT notice telling me why itâs blocked. If Iâm not being allowed to access something, donât I deserve to know why? If I want the block removed, shouldnât I be told how it can be removed? If a block is in error, how can we hold someone accountable? Why donât I get to see a list of all the sites that have been blocked?
+
+Why the secrecy? Why the randomness? Is there anything that I can do to stop this? I donât know. ” â Nikhil Pahwa
+
+“Censorship has basically never turned out well (unless you’re the ones censoring). It allows singular parties to control what the public sees and at a deeper level what they think. And there have been so many examples of it ending badly. No one wants another dictatorship apart from the dictators, and we really shouldn’t be giving two shits about what a dictator wants.Â Honestly, seeing censorship even in small amounts like what we saw is a really terrifying thing, because it sets a precedent saying that at some level, we’re okay with censorship, which we really shouldn’t be,” Dhruv opined.
+
+Dhruv was also not in favour of the government’s recent app bans. “I always thought the app bans were complete nonsense, but it really hit when they banned Garena that their reasoning had nothing to do with banning apps from China. I haven’t paid much attention to them, since these are none of the apps I use, but it’s still miserable to see,” he said.
+
+While this incident is not going to really change how Dhruv uses SMS going forward or what he thinks about Airtel, he said that Airtel should make any list of banned terms public if it exists.
+
+And like us, many of you readers might be curious as to why Dhruv was using SMS in this day and age when we have WhatsApp, Messenger and so many other messaging platforms, so we asked him. “I mainly use Discord as my platform [but that went down]. And my friend got a new number, so she wasn’t on WhatsApp yet. So I used SMS,” he said, satisfying our curiosity.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Updated (10 March, 7:50 pm):Â Added additional words that appear to be blocked as pointed out by a Twitter user.
+
+Do you want to keep track of telecom regulation in India but donât have the time? Relying on scattered content from across the web makes it feel harder than it needs to be.
+
+Subscribe to MediaNama and get crisp, timely updates on tech policy developments in India and across the world.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

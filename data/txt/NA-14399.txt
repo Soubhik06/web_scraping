@@ -1,0 +1,23 @@
+Raghuram Rajan, former Governor of the Reserve Bank of India (RBI), on June 24, 2024, flagged fake videos of him circulating on social media reportedly advising on investment in individual stocks. The news comes weeks after the National Stock Exchange (NSE) cautioned against fabricated videos of NSE CEO Ashivinikumar Chauhan’s face and voice.
+
+Regarding the recent videos, Rajan said in a LinkedIn post, “These [videos] are fake and the perpetrators should be reported to the relevant authorities. I do not give investment advice to the public and have never touted individual stocks. Each individual has their own financial needs and risk appetite. Furthermore, investors are typically better off holding diversified portfolios of bank deposits, bonds, and stocks (through mutual funds and ETFs) rather than buying individual stocks or stock options. You may be extremely lucky and strike it rich, but more likely, you will be a lot poorer following the latter strategy. Please disregard all videos where I tout specific investments.”
+
+Rajan’s post sparked many comments from concerned users, some of whom said that platforms hosting misleading content should take greater accountability. User Akshay Kadilal stated that platforms should allow viewers to report fake content and promptly remove it.
+
+“I have been repeatedly asking YouTube to implement a system for reporting malicious advertisements. My requests have fallen on deaf ears,” Kadilal said.
+
+Another user Satyam Dwivedi talked about the importance of watermarking in speech and computer vision generative models, especially for those with capabilities to copy individual identities.
+
+“Without implementing such safeguards and updating HIPAA and EULA policies to require these measures, we risk a significant financial crisis or scam… Additionally, all major media platforms should have systems to identify and flag generative content, providing warnings to help mitigate potential misinformation early,” said Dwivedi.
+
+Some platforms like YouTube and X (formerly Twitter) have come up with mechanisms like Community Notes or watermarking to address the issue of fake content. However, as explained by Gautham Koorma , a machine learning engineer and researcher from UC Berkeley, even techniques like watermarking do not work for deepfakes. During Medianama’s Democracy and Deep Fakes event, Koorma spoke about how researchers at the University of Maryland managed to break every watermarking technique out there, making it a useful tool only against a “non-sophisticated actor.”
+
+Even measures like Community Notes that work by letting users comment on the authenticity of the content or provide additional information can go awry. One reason is that currently, the feature works on a rating basis where a note’s visibility depends on its “helpfulness” or popularity. This allows coordinated groups in India to misuse Notes by boosting their messages.
+
+To discuss more viable measures against deepfakes and similar content spreading misinformation, MediaNama is organizing a virtual event ‘Fact-checking and Combating Misinformation in Elections’ on July 3. The event will primarily look at observations gathered by fact-checkers and experts about the nature of misinformation on social media during the Lok Sabha elections as well as possible future action against this issue.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

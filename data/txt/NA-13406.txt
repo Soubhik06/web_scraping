@@ -1,0 +1,21 @@
+The Federal Bureau of Investigation (FBI) has issued an advisory saying that consumers should consider the cyber security risks before “introducing smart, interactive, Internet-connected toys into their homes.” It goes on to say that:
+
+Smart toys and entertainment devices for children are increasingly incorporating technologies that learn and tailor their behaviors based on user interactions. These toys typically contain sensors, microphones, cameras, data storage components, and other multimedia capabilities â including speech recognition and GPS options. These features could put the privacy and safety of children at risk due to the large amount of personal information that may be unwittingly disclosed.
+
+According to the FBI, the kinds of personal data these Internet-connected toys could capture include “the childâs name, school, likes and dislikes, and activities disclosed through normal conversation,” and could be recorded by the microphone embedded in the toy, if it is in close proximity. It also says that “companies collect large amounts of additional data, such as voice messages, conversation recordings, past and real-time physical locations, Internet use history, and Internet addresses/IPs,” which could potentially provide “opportunities for child identity fraud.”
+
+FBI warns parents to ensure that they:
+
+Consumers should examine toy company user agreement disclosures and privacy practices, and should know where their familyâs personal data is sent and stored, including if itâs sent to third-party services.
+
+Toy manufacturers are known to collect and store “interactions or conversations between children and toys”, while third-party companies such as the developer of a voice recognition software also collect data. Besides voice recording, the app’s passwords, WiFi information, etc., is also collected and stored. If this data is not stored securely it could be exploited by cyber criminals.
+
+What the FBI doesn’t mention is names of toy manufacturers or app developers that consumers need to be careful about. This is because an advisory of this nature doesn’t come up in isolation. The FBI must have been made aware of or found out instance where personal data collected through Internet-connected toys was being misused or exploited. Also, not everyone is well-versed with the technical terms routinely used in user agreements and privacy policies to be able to independently decide if a particular manufacturer can be trusted or not. Another question that arises is should products similar to the Amazon Echo be considered an Internet-connected toy?
+
+The security risks of Internet of Things (IoT) devices was highlighted by theÂ multiple cyber-attacks on the Internet infrastructure company Dyn that resulted in shutdown of web browsingÂ across America and Europe for hours, in October last year. Read up more about ‘ What the Internet of Things is, its security and privacy concerns ‘.
+
+The Telecom Regulatory Authority of India’s (TRAI) consultation paper on IoT Â had also pointed out the cyber security related issues,Â including vulnerability in networks in which IoT devices are connected to. âA hacker may be able to penetrate into important establishments and pose a threat to national security triggered due to online systems,â the regulator said. TRAI’s plans of regulating IoT communications included data security measures, ensuring user privacy, and mandating user consent before collecting data among others.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

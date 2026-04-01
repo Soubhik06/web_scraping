@@ -1,0 +1,25 @@
+SUBREDDIT: r/india
+TITLE: India's tech companies are trash
+DATE: 2023-08-02
+SCORE: 11
+URL: https://www.reddit.com/r/india/comments/15gd0r7/indias_tech_companies_are_trash/
+
+--- POST TEXT ---
+
+*As an extension to* u/eventonly's [post on OTPs](https://imgur.com/a/oLJDGU2)*, here's my extension.*
+
+**Security, Ethics &amp; Good Design don't exist in Indian tech.**
+
+No one gives an option to permanently delete the account &amp; data. No easy option to update mobile number or email. Passwords don't exist, only OTPs. TOTP based 2 Factor Authentication seems like rocket science for Indian companies to implement. Consent? What's that. We'll spam your email &amp; inbox without giving an option to easily opt out. No! Our website doesn't work, download the app because it requires 10 unnecessary permissions &amp; gives us more of your data.
+
+Accounts aren't allowed to be deleted or easily updated. The moment you stop using any of your mobile numbers, it'll be deactivated &amp; transferred to a random stranger by the telecom company. Now with a single OTP, the stranger can access your accounts, addresses, phone numbers, email IDs saved in shopping apps &amp; so much of your life's history that's saved everywhere. Any sane person knows how risky this is.
+
+Now your data is with that person &amp; that person (if innocent) can't delete the account to give themselves a fresh account to start with. You are at risk because your data is in the open, the innocent new subscriber is stuck with your old account &amp; history.
+
+The surprising thing? The average consumer doesn't give a s\*\*t, then cries about fraud happening with them because 50K could be deducted with a single OTP.
+
+This isn't to say that I hate all of them, but it's a user's constructive feedback who expects their data to be secured.
+
+Just like a crime doesn't have to be a crime only when the law declares it as such, good principles &amp; user's rights in products don't have to be implemented only when a law like GDPR comes to India which is near impossible.
+
+Kudos to the rare companies like Zerodha, Zoho &amp; a handful others who have implemented these well.

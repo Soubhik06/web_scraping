@@ -1,0 +1,21 @@
+SUBREDDIT: r/Scams
+TITLE: OK, here's a fun one (computer tech support scam)
+DATE: 2017-05-14
+SCORE: 37
+URL: https://www.reddit.com/r/Scams/comments/6azk7m/ok_heres_a_fun_one_computer_tech_support_scam/
+
+--- POST TEXT ---
+
+I got a call today from a guy with an Indian accent who said that he was with "Microsoft" and that he was calling me about problems with my computer. So I fired up my virtual machine, and I let him connect and show me all of the "problems" with my computer (Oh those nasty hackers and all that). Anyway, when it came time to pay he took me to a web site for me to put in my credit card information. But the web site was in New Zealand, so I told him that I would not do business with a company that wasn't in the USA. 
+
+The above is all well and good, but here's the fun part...
+
+Before we closed out our call, I disconnected my HOST computer from the internet (which meant that my virtual machine was also disconnected from the internet connection, so he couldn't do anything on my computer, but he didn't know why not). I told him that I had closed our computer sharing connection, and that I had closed the web site that he had opened. But I quickly bookmarked the web site, and I had my web browser save the password that he used to log in. 
+
+So now I can log into his account on this web site any time that I want. 
+
+It turns out that the web site is actually the fucking Bank of New Zealand, and it's some kind of merchant account login portal. I can browse through all of this guy's transactions (about 50% of the transactions are in the USA, and about 50% are in New Zealand). I can see the names of all the transaction customers and their credit card numbers (the middle digits are all X'd out). Apparently I could process refunds if I wanted to. Unfortunately, although my web browser knows the password, I can't seem to copy and paste it, so I can't use the "change password" feature (because I have to know the current password).
+
+From the account information I know the names of the people who own this account and their street address and their e-mail address. Based on his Facebook page, they are a married couple living in New Zealand and he is originally from India.
+
+The only thing that I can think of to do at this point is to e-mail them and tell them that I have informed the New Zealand police about how they are involved in this type of computer tech support scam. It's possible that they don't really know that the business they are generating is coming from this type of scam (they might think that their partners who are generating the sales are doing so because the advertise on TV or whatever and people call them for help) - and what I tell them MIGHT get them to stop using scamming "partners" in India.

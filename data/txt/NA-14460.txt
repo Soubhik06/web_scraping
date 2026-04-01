@@ -1,0 +1,43 @@
+OpenAI has announced new layers of cybersecurity controls after internal tests showed that its upcoming frontier AI models have reached âhighâ levels of cyber-capability. The company said the models are now capable of performing advanced tasks such as vulnerability discovery, exploit development and malware generation, raising the risk of misuse if the systems fall into the wrong hands.
+
+In a detailed update published on December 10, 2025, OpenAI said it is intensifying its cybersecurity efforts to keep pace with the rising technical abilities of its models. âWeâre investing in strengthening them, layering in safeguards, and partnering with global security experts,â the company said.
+
+According to the company, internal testing showed that performance on cybersecurity tasks, measured through capture-the-flag (CTF) challenges, jumped from 27% in GPT-5 (August 2025) to 76% in GPT-5.1-Codex-Max (November 2025).
+
+These gains mean future models may soon reach what OpenAI classifies as high levels of cybersecurity capability. Under the companyâs Preparedness Framework, this includes the ability to develop working zero-day exploits or assist in stealthy, real-world intrusion operations. In response, OpenAI says it is building multiple layers of safeguards to ensure such capabilities help defenders more than attackers.
+
+The rising concern around AI-enabled cyberattacks is not theoretical. Security firms have reported that hackers are already using tools like ChatGPT to write and refine malicious code. A November 2024 analysis by DOT Security noted that threat actors were using AI to generate obfuscated malware, craft more convincing phishing emails, and automate large volumes of attack code. Their researchers found that AI could also tailor malware to specific systems by analysing logs and configuration files, making traditional antivirus tools less effective.
+
+This earlier wave of AI misuse shows why frontier-level models with stronger cyber capabilities require strict safeguards, controlled access, and constant monitoring.
+
+Last month, researchers at Googleâs Threat Intelligence Group reported that threat actors were already using AI tools, including Gemini and open-source models, to build malware that rewrites its own code during execution to evade detection. Their investigation documented malware families like PROMPTFLUX and PROMPTSTEAL using LLMs for obfuscation, reconnaissance, data theft, and phishing.Â
+
+The report also showed state-backed groups from China, Iran, and North Korea manipulating AI systems with social-engineering prompts to bypass safeguards. These incidents demonstrated how AI can become an active component inside malware, underscoring why frontier models with rising cyber capabilities require tighter oversight and controlled access.
+
+OpenAI is rolling out a âdefense-in-depthâ safety stack that includes access controls, tightened infrastructure security, output monitoring, and threat-intelligence systems. The company said it expects threats to evolve and is designing systems that can adapt quickly.
+
+A core part of this strategy is training AI models to identify and refuse harmful cyber requests while remaining useful for legitimate work, such as security audits and vulnerability analysis. When its monitoring systems detect suspicious behaviour, OpenAI says it may block outputs, downgrade a user to a safer model, or escalate the case for further review. Enforcement involves automated tools as well as human oversight.
+
+The company has also begun end-to-end red teaming with external cybersecurity specialists, experts tasked with imitating real attackers to find weaknesses in OpenAIâs protections.
+
+OpenAI says it wants advanced AI to meaningfully strengthen defenders, who often operate with fewer resources than attackers. This includes improving model performance in routine defensive tasks such as code auditing, bug detection, and patch development.
+
+One of its key initiatives is Aardvark, an âagentic security researcherâ now in private beta. The system can scan entire codebases, detect vulnerabilities, and propose patches. OpenAI says Aardvark has already discovered new CVEs in open-source software. The company plans to offer the tool free to select non-commercial open-source projects to help improve supply-chain security.
+
+To manage who gets access to the most advanced cybersecurity-related functionalities, OpenAI plans to launch a trusted access program. The initiative will provide âqualifying users and customers working on cyberdefenseâ with tiered access to enhanced model capabilities.
+
+OpenAI says it is still determining where the boundaries will lie, deciding which features can be widely available and which require restrictions due to potential misuse.
+
+OpenAI is also creating a Frontier Risk Council, an advisory group of experienced defenders and security practitioners. The council will guide the company on how to differentiate between genuinely useful capabilities and those that could be weaponised. Insights from the group will influence future safeguards and evaluation methods.
+
+Beyond internal efforts, OpenAI is working with other AI labs through the Frontier Model Forum to develop shared threat models and best practices for handling AI-driven cyber risks. The company says such collaboration is important because any frontier-level model could potentially be misused for cyberattacks.
+
+OpenAI describes this work as a long-term commitment aimed at giving defenders an advantage as AI becomes more capable. The company says its approach will continue to evolve as it learns what safeguards and tools work best in real-world environments. It also plans to support the broader ecosystem with cybersecurity grants and community-driven initiatives.
+
+The overall goal of OpenAI is to ensure that the growing power of frontier AI models reinforces cybersecurity rather than making it easier for attackers to exploit digital systems.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

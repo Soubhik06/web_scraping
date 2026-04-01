@@ -1,0 +1,83 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Yes, MBAs are indeed dumber than a monkey and you don't even need a monkey to prove it.
+DATE: 2021-07-28
+SCORE: 254
+URL: https://www.reddit.com/r/IndiaInvestments/comments/osv97x/yes_mbas_are_indeed_dumber_than_a_monkey_and_you/
+
+--- POST TEXT ---
+
+There was a post sometime back comparing MBAs to monkeys and I felt that someone truly needs to elaborate on the same. Equity research is an absolute scam guys, I'm not even kidding. It truly is. The folks who prepare those elaborate models know nothing than can actually be of value in 99.99% of the cases. I can give that to you in writing but again if you were truly searching for an answer, you would have already found the same in the constantly dwindling alpha or the negative alpha that most mutual funds in India filled with the brightest minds (at least academically) generate. This will be a lengthy post, so feel free to ignore it and just to tl;dr if you don't want to read a mini book.
+
+**Firstly**, let me elaborate on how the whole equity research process works in most cases -
+
+The equity research analyst will attend the post earnings conference call and ask a bunch of questions to the management like
+
+Why is there so much cash on your balance sheet?
+
+Your margins seem stressed, will XYZ product have a better margin going ahead?
+
+After the conference call is over, depending on what kind of financial statements the company has put out and the company's answers to the analyst questions, the analyst will prepare an elaborate financial model. The model is elaborate for sure but the math behind it is actually very simple.
+
+Lets assume that the analyst is covering a company that makes toys. The analyst has just attended the second quarter conference call and the company has just started operating this financial year. So the analyst has two quarters of financial data (Q1 and Q2) and some answers to his questions from the management.
+
+The analyst will open an excel in his laptop and start chugging away with all the data he has gleamed. He will make a lot of assumptions but how good those are assumptions are is any one's guess. In most cases, these assumptions are just garbage assumptions.
+
+So the analyst has received guidance from management that for 2021, overall revenues will be around 100 crores. Apart from that, after regressing GDP growth against toy sales, analyst feels that for every 2% increase in GDP, toy sales increase by 1%. The analyst also presumes that cost of manufacturing a toy is 50% of selling price, other expenses are 20% and tax is 15%.
+
+This is what the analyst's excel will look like for 2021
+
+Revenue - 100 cr
+
+Cost of goods - 50 cr
+
+Other expenses - 20 cr
+
+Tax - 4.5 cr
+
+Net profit - 25.5 cr
+
+Now the analyst cannot just value a stock depending on what the 2021 figures are since the stock is not gonna close after 2021, so he'll try to include 2022, 2023, 2024 and 2025 in his model. He assumes that GDP will grow by 2% in all these upcoming years. Hence, toy sales in increase by 1% in all these years i.e., 2022, 2023, 2024 and 2025
+
+So using the same basic model outlined for 2021, the analyst calculates that net income in 2022, 2023, 2024 and 2025 will be 25.75, 26.01, 26.27 and 26.53 respectively.
+
+So far, so good, except the analyst realizes that the company will continue in perpetuity and will not wind down any time soon. Now he needs to figure out how to compute what the company would earn in perpetuity. He could theoretically keep extending the model for countless years or just assume what they in the industry call "**a terminal rate of growth**"
+
+So, after having analyzed the 2025 net income at 26.53 cr, the analyst feels that this 26.53 cr will increase at 2% in perpetuity.
+
+So the model for net income now looks like this
+
+2021 2022 2023 2024 2025 2026
+
+25.5 25.75 26.01 26.27 26.53 26.53\*1.02
+
+The final 26.53 will now grow at 2% forever as per the analyst's assumption.
+
+Since 20Rs worth today is not the same as 20rs worth tomorrow, the analyst will now apply a "**discount rate**" to these values to determine what the company's future earnings today are. The analyst comes up 7%. This discount rate again is extremely subjective in nature. There is no universal discount rate in the globe.
+
+After the application of some time value of money formulas, the analyst figures that the present value of the toy company's future earnings till perpetuity is 618 cr. Now the company has 61.8 cr shares outstanding, so every share is worth 10Rs. The current stock price is 9Rs, 10% upside, BUY BUY BUY !!!!
+
+Now lets just assume that the terminal growth rate is 1.7% instead of 2% and discount rate is 8% instead of 7%, the company's present value of earnings under these assumptions would be 508.8 crores. Divide this by the 61.8 cr outstanding shares and every share is worth 8.23. Current stock price is 9Rs. SELL SELL SELL !!!
+
+Do you see what just happened over here? A change in terminal growth rate from 2% to 1.7% and discount rate from 7% to 8%, made a stock with a 10% upside, a stock with 9.35% downside. Mind you that this is the simplest possible model that I have made. Most analysts love to add even more bells and whistles to their models but the more assumptions they add, the more likely it is that their model will spit out almost any signal with just a little bit of tweaking here and there.
+
+Fact is things like terminal growth rate and discount rate are so subjective that no analyst, not even god can accurately predict it. Most of these models work well only if the company were to shut down in say the next 2 years and even that would not work well if something like corona struck in between. And I can guarantee you that no analyst in 2018 made his models assuming corona would strike in 2020, hence you can safely assume that all models in 2018 and 2019 were absolute garbage and most still are.
+
+**Secondly**, Sell side equity research firms are an absolute scam of a business model -
+
+Lets assume for a second that you know with a lot of certainty, like " I went in a time traveling machine and came back" level of certainty that our toy manufacturing company's stock would rise to 100 Rs in the next 10 years. What would you do? Would you go about highlighting the same to everyone or you would just accumulate that toy manufacturing stock as much as possible?
+
+If you're a small retail guy, you'll probably tell everyone. But if you're an institution, would you tell everyone? Most institutions that would know something with such certainty would most probably zip their mouths completely and here's why. When you know something is truly undervalued, you would want to accumulate that thing as much as possible as long as the world doesn't know its undervalued.
+
+Institutions especially have the kind of financial muscle to lever up and take concentrated bets. Some institution can easily 10x its bet on the toy manufacturing company for a cumulative 10x leverage multiplied by 10x returns resulting in 100x returns assuming the current stock price is 10Rs.
+
+What an institution wouldn't do if it knew with certainty that the toy company was gonna 10x is to print glossy sheets of "equity research" and tell the whole world about it.
+
+**Thirdly** (yes, I wrote thirdly), the ones who make money for sure never disclose it
+
+There is a new (newer compared to your equity research guys) breed of traders in the finance market which are known as arbitrage traders. What these guys do is use algorithms detect different pricing of the same security in different markets and buy from the lower priced market and sell to the higher priced market. For example, lets assume for a very brief period, Vodafone was selling for 3Rs in NSE and 3.5 in BSE. Transaction costs are 0.4Rs. Your realize that if you bough Vodafone at 3 from BSE and sold at 3.5 in NSE, you would incur a net profit of 0.1Rs after the 0.4Rs of transaction costs. So what do you do? Tell everyone about it? Or just get at it before it goes away? Most institutions just jump at such opportunities before these go away. The algorithms these institutions use to spot such opportunities are as heavily guarded as Coca-Cola's formula. These algorithms are not made by some MBA but by some coder who's probably working out of his trunks right now.
+
+Tl;dr Goldman Sachs will never publish a report detailing its arbitrage trading or high frequency trading activities. They'll closely guard it and not let anyone even a millimeter near it. They will however, ask you to pay $1000 for their glossy equity research report prepared by some fancy MBA intern with assumptions drawn out of somewhere where there's no light :)
+
+Edit 1 (the guy who drafted this) - Yes, I know what margin of safety is. I also know that this is a very simple model. It doesn't include depreciation, interest payments, intangible amortization, deferred tax assets, captive finance and a whole lot of other assumptions. Again, my whole point is that if there is so much uncertainty in such a simple model then adding those other things only adds to the model's uncertainty and makes it garbage. If you're offended at me calling MBAs dumb then let me disclose that I'm an MBA too, a CFA, a FRM and I do work as an equity research analyst. I have the entire roster of fancy acronyms that can make you trust me with your money.
+
+Edit 2 (the guy who owns this account) - This post is by my friend and not by me. I was just discussing with him and he kept ranting as to how it was all a hoax, so I asked him if he would want to voice his opinion on social media. He said he can't do it with an account of his own. He drafted this over an email and sent and I have copy pasted the same. I'm an IT guys. Just clearing things up.

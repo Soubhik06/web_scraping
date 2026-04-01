@@ -1,0 +1,25 @@
+(By Vikas SN and Nikhil Pahwa)
+
+User reviews portal MouthShut.com has inked a multi-year partnership with the life insurance company AEGON Religare to launch a new feature called Verified Reviews, which now allows only verified customers of AEGON Religare to write reviews on the platform.
+
+How this seems to work is, when a user makes an online purchase with a specific brand (in this case AEGON Religare), they receive an invitation from MouthShut to share their reviews and complaints on the portal, and that the brand can address the problem within 14 days. However without these invites, users cannot submit reviews on the specific product. When we tried submitting a review, we got a popup message stating – “You can not write a review on this product until and unless you will get an invitation from the brand”. Although, the company notes that existing reviews will still remain, just that it will not feature a verified badge.
+
+Speaking with MediaNama, a MouthShut spokesperson told us that the company has opened up its API for the first time, and there is a connection created a transaction and the review. “We’ve opened up our API for the first time. There’s a connection between a transaction and our review. The moment there is a transaction, an email goes to the customer with a link. We don’t have access to the customer database. Via their servers, the email goes from our end. We get only an alert that a code is generated,” he said.
+
+A few things to consider regarding this approach:
+
+It offers MouthShut the opportunity to convert its platform into a help desk, between brands and customers in a freemium model: customers can view and submit reviews for free while brands can pay MouthShut to engage with their consumers and address their issues, which can then been seen by other consumers as well. Remember that MouthShut had started offering paid registrations to brands last December and claims to currently have more than 50 brands on board which includes the likes of Aramex, Cafe Coffee Day, Times Internet, HDFC Bank, Yatra.com, among others. In December 2012, MouthShut CEO Faisal Farooqui had told Medianama that they had deleted around 4,100 fake profiles from its website since they were posting overtly positive reviews for promoting certain brands while writing negative reviews for its rivals, which lead to several brands filing cases against the company.
+
+The verified review approach is an appropriate way of ensuring that reviews on MouthShut are those of actual customers: brands owners we’ve spoken with have been concerned about the reliability of online reviews, and have voiced concerns about fake reviews. Verifiable reviews address this problem. This is an approach that is similar to that adopted by mobile app stores, wherein you can review apps only after downloading them. Why should you be allowed to review a product if you haven’t used it?
+
+However, this does come at a cost for the brand, and we have seen comments on MediaNama critical of MouthShut’s approach of only allowing those brands who have registered with them to respond to critical reviews. MouthShut could just allow brands to register with their official email address, and respond to complaints, but its business model is to charge brands to get a presence on its website.  This introduction of verified reviews is a step towards increasing MouthShut’s integration with brands, but it also creates a situation wherein if you don’t have a verified account with MouthShut, unverified reviews will continue. On the flip-side, it’s also not possible for MouthShut to have only verified reviews from customers without tying up with brands.
+
+MouthShut claims to currently have more than 50 brands on board which includes the likes of Aramex, Cafe Coffee Day, Times Internet, HDFC Bank, Yatra.com, among others and also claims to have a registered user base of 4.5 million as of December 2012.
+
+Also Read :
+
+– MouthShut.com’s Tally: Over 790 Takedown Notices, 240 Legal Notices, 11 Court Cases – MouthShut Challenges IT Rules In The Supreme Court Of India – Faisal Farooqui On MouthShut.com’s Deletion Of 4100 Fake Profiles & Paid Accounts For Brands
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,57 @@
+SUBREDDIT: r/india
+TITLE: PSA - About devices running MiUi . Think before buying if you care about opensource/privacy/unfair advantage/data Breach
+DATE: 2017-09-13
+SCORE: 37
+URL: https://www.reddit.com/r/india/comments/6zv313/psa_about_devices_running_miui_think_before/
+
+--- POST TEXT ---
+
+1 - It is not possible to disable system apps from MiUi without having a mi cloud account. 
+
+_Try any method possible on the internet_ 
+
+This is not same unlocking bootloader or rooting the device. 
+
+1.1 One of the system apps is Xiaomi services framework. 
+
+1.2 A google search on xiaomi services framework backdoor will let you know what this does and what it can POTENTIALLY DO. 
+
+Specifically, https://thelibreguy.wordpress.com/2016/10/16/xiaomi-trackers-and-backdoors-update/
+
+1.2 It is not possible to delete a mi cloud account. 
+
+Try deleting your mi cloud, see i.mi or write emails to xiaomi. 
+
+What 1.1 and 1.2 mean together?
+
+You cannot prevent malware running in your phone. 
+
+Yes, google might do it too. But Sony or Panasonic or Samsung may not. 
+
+Question is, who is xiaomi selling your data to or what do they want to achieve by having the capability to basically explode your device at their will?
+
+2 . OpenSource Abuse 
+
+2.1 A google search on xiaomi GPL licence will reveal that they constantly abuse it.
+
+2.2 Nobody in China has taken them to court, which means Chinese govt heavily favors them. 
+
+What 2.1 and 2.2 mean together?
+
+If you care about opensource stop using MiUi phones.
+
+3 - So called custom ROM support. 
+
+They do not on time, or at all, release the camera or fingerprint drivers, which means you cannot achieve the same quality on any custom ROM. 
+
+ 
+4 - Encryption 
+
+A google search on Mi3 encryption
+will let you know that for years the phones running MiUi could not be encrypted upon!
+
+Combine this with the fact that cheetah mobile comes pre installed as system app on MiUi phones.
+
+Where was your data being send to for all those years?
+
+**tl;dr** - Care about open source/encryption/Codeabuse ? Stop phone running MiUi.

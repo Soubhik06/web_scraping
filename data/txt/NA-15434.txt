@@ -1,0 +1,27 @@
+Google and Apple have removed at least 20 apps from their respective web app stores after security researchers alerted that the applications included malware that carried out data theft, as per a blog post released by Kaspersky.
+
+This development came after a study by researchers at Kaspersky found that the malware, called SparkCat, has been active since March 2024. Initially, it was discovered in a food delivery app named âComeCome,â used in the United Arab Emirates and Indonesia. Later, researchers found the malware in 19 other applications. The app has marked more than 2.42 lakh downloads on the Google Play Store.
+
+How did the malware function?
+
+The apps in question were embedded with a malicious SDK (Software Development Kit) /framework for locating and stealing recovery phrases for usersâ crypto wallets.
+
+A recovery phrase, also known as a seed phrase, consists of 12 to 24 random words that act as the master key to access a crypto wallet.
+
+The malware âscanned usersâ image galleries in search of crypto wallet access recovery phrases. The search employed an OCR (Optical Character Recognition) model which selected images on the victimâs device to exfiltrate and send to the C2 server,â the release noted.
+
+Once attackers were in control of a userâs recovery phrase, they could gain full access to their wallet and steal funds. The malware could also facilitate the extraction of personal information from screenshots, like messages and passwords.
+
+Action from Google and Apple
+
+After receiving information from the report, Apple removed the infected apps from the App Store last week, as per a TechCrunch report . Shortly after, Google followed suit.
+
+âAll of the identified apps have been removed from Google Play, and the developers have been banned,â said a Google spokesperson as per the report.
+
+Malware Mayhem Malware attacks have been on the rise in India. The country faced 370 millio n attacks at a rate of 702 detections per minute throughout 2024, as per a report by Data Security Council of India (DSCI) and Seqrite, a cybersecurity firm. The report further suggests that the healthcare industry saw the largest share of malware attacks, at 21.8%, followed by the hospitality and Banking, Financial Services, and Insurance (BFSI) sectors respectively.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

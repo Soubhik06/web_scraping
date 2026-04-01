@@ -1,0 +1,41 @@
+The Internet Freedom Foundation (IFF), a non-profit organisation, has flagged censorship risks associated with Airtelâs new artificial intelligence (AI)-powered internet filter, according to a blog post . The telecom giantâs network-level system blocks malicious links across WhatsApp, Telegram, Instagram, email, browsers, and SMS messages. Apart from censorship concerns, the IFF also alleges that the company has failed to provide a way for its customers to turn this feature off.
+
+While Airtelâs new feature helps counter the problem of scams and malicious links, the non-profit organisation said users should be concerned because the telecom company is decidingâusing AIâwhat websites a user can and cannot visit, without asking, informing, or allowing them to opt out.
+
+“Airtelâs plan to use AI filters may curb fraud and cybercrime, but without strong legal safeguards and public oversight, it invites abuse. An opaque system can favour some sites and block others, leading to hidden censorship, anti-competitive conduct, and suppression of lawful speech. These risks grow when no one knows the rules that guide the algorithm, there is no independent review, and users have no clear way to seek redress,” IFF said in the blog.
+
+The IFF says that Airtel’s actions stand in conflict with the principles of net neutrality. According to the blog, telecom companies do not have unilateral authority to restrict access to online content.
+
+Net neutrality mandates that all internet service providers (ISPs) treat all data on the internet equally, without discrimination or interference. Moreover, under Section 69A of the Information Technology Act, 2000, only the Central or State Government has the authority to pass content-blocking orders. The IFF said even this power “must be exercised following strict legal procedures.”
+
+The principle of net neutrality is also a mandate for the company under the Unified License Agreement that the Department of Telecommunications (DoT) issues to the ISPs. This license allows ISPs to offer internet, telephony, and mobile services under a single framework. As per the blog, “Clause 2.1 of this license guarantees subscribers unrestricted access to all content available on the Internet, except for content restricted by the Licensor or designated authority under law.”
+
+In September 2018, the DoT amended internet service licensing agreements to state that a licensee providing Internet Access Service shall not engage in any discriminatory treatment of content, including discrimination based on the sender or receiver.
+
+“Any deviation from equal treatment of data, such as discriminatory blocking or throttling, is permissible solely under narrowly defined exceptions, such as reasonable traffic management or other legitimate grounds,” the non-profit organisation said in the blog. “This means any attempt by an ISP to block or discriminate against content, not backed by [a] legal directive, is not just improper, but a direct breach of its license agreement.”
+
+The IFF claims that there is also a “lack of user autonomy.” According to the blog, Airtel does not offer its customers the option to disable the service or the blocking mechanism.
+
+“The erosion of user autonomy is further compounded by the absence of a robust and transparent grievance redressal mechanism,” it said. Earlier, Airtel had informed MediaNama that a grievance mechanism exists for users to report incorrect blocks. However, the company failed to disclose details about the procedure or how the mechanism works.
+
+“There is no information on how complaints are evaluated, the timeframes for resolution, or the criteria for reinstating access. In effect, users are left without procedural safeguards or clarity on outcomes,” IFF said in the blog post. “This creates a black-box environment where private entities, without oversight, can restrict fundamental digital rights.”
+
+The tool has also raised concerns about mass surveillance, the IFF alleged. As per the blog, the AI tool scans emails, SMS communications, OTT platforms, and web traffic, without informing the users about what data it is analysing, the duration for which it is retaining the data, or whether it is sharing the said data with a third-party.
+
+“The absence of public oversight or an independent regulatory mechanism amplifies these worries, as users have no way to verify the tool’s behavior or challenge wrongful censorship,” according to the blog.
+
+Earlier, the company informed MediaNama that Airtel’s new tool operates entirely on AI and does not log or store any user-level data.
+
+In May 2025, Airtel rolled out the AI-powered detection system that can block malicious links for its customers. During the announcement, the company said that the new system scans internet traffic in real time. When a user taps on a suspected link, it takes them to a screen that displays why the link is inaccessible.
+
+Responding to an earlier request for comments by MediaNama, the telecom giant said that the tool uses an advanced platform to detect and block malicious links. The system assigns a spam score to each website based on internal signals and threat intelligence from sources such as global repositories and banks. If the threat score is high, Airtelâs AI-powered filter blocks the website even before it loads.
+
+MediaNama has reached out to Airtel with the following questions:
+
+At the time of publishing this article, the telecom giant has not responded to the request for comments.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

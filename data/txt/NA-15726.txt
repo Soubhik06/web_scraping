@@ -1,0 +1,178 @@
+SUBREDDIT: r/india
+TITLE: 2024 Budget &amp; Digital Rights: Data Protection Board &amp; IndiaAI Mission get fresh allocation; funds for long-established schemes see reductions | Internet Freedom Foundation
+DATE: 2024-07-25
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/1ebmc2w/2024_budget_digital_rights_data_protection_board/
+
+--- POST TEXT ---
+
+https://preview.redd.it/kmbirrr7hled1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=8a597e0357b77b646f52be192717d42b43559ddf
+
+# tl;dr
+
+The Union Budget for 2024-2025 reveals an overall increase in funds allocation for MeitY, MHA, MIB, and DoT as compared to 2023-2024. The Budget allocated to MeitY has witnessed the highest increase among these ministries – 32.56% over last year's – yet-to-be-formed Data Protection Board and the IndiaAI Mission gets funding for the first time however, rural digital literacy scheme PMGDISHA gets no funding (for the second year in a row). Although DoT cut funding for USOF by \~80% as compared to 2023-2024 Budget, it increased funding for BharatNet by 70%. While the overall increase in budgetary allocations compared to last year may paint a positive picture, on deeper analysis we realise that the decline in fund allocation towards long-established schemes and projects as well as underutilisation of funds continue to be unaddressed issues and thus a cause of contention.
+
+# Important documents
+
+1. IFF’s post on Union Budget for 2023-2024 ([~Link~](https://internetfreedom.in/budget-2023-2024/?ref=static.internetfreedom.in))
+2. IFF’s posts on the Interim Union Budget for 2024-2025 ([~Link~](https://internetfreedom.in/tag/budget-2024/?ref=static.internetfreedom.in))
+3. Consolidated budgetary data for selected items ([~Link~](https://docs.google.com/spreadsheets/d/1kHychfaB3VoidvMVLGICMCRwn_45KVBKK7JNYEqK_fE/edit?gid=1091729720&amp;ref=static.internetfreedom.in#gid=1091729720))
+
+# Introduction
+
+In the final session of the 17th LS term, Union Finance Minister, Shrimati Nirmala Sitharaman, presented the Union Interim Budget for the Financial Year (“**FY**”) 2024-2025. In the ongoing Monsoon Session, the Union Finance Minister placed a new Budget for the FY2024-2024 in both houses on July 23, 2024. The Budgeted Estimates (“**BE**”) for the Ministry of Electronics and Information Technology (“**MeitY**”), Ministry of Home Affairs (“**MHA**”), Ministry of Information and Broadcasting (“**MIB**”), and Department of Telecommunications (“**DoT**”) witnessed an overall increase of 15.98% in the 2024-25 Union Budget compared to 2023-2024 BE. 
+
+The budget allocated to MeitY has witnessed the highest increase (32.56%) among these Ministries in comparison to the previous Budget (2023-2024) and DoT witnessed the second highest (14.7%). The Budget for MHA and MIB got a 9.44% and 7.45% increase respectively. The increase in the BE for this fiscal year from the Revised Estimates (“**RE**”) of the previous year was also the highest for MeitY (52.11%). While DoT and MHA saw an increase of 13.79% and 9.44% respectively, MIB witnessed a decrease of 2.41% since the RE of 2023-2024.
+
+||
+||
+||**2019-2020**|**2020-2021**|**2021-2022**|**2022-2023**|**BE 2023-24**|**RE 2023-24**|**BE 2024-25**|
+|**MeitY**|5651.97|5523.2|8256.27|9220.28|16549.04|14421.25|21936.9|
+|**MIB**|4028.82|3380.44|3728.99|4024.13|4692.00|4449.76|4342.55|
+|**DoT**|28395.43|53510.82|43169.58|122509.06|97579.05|98359.41	|111915.43|
+|**MHA**|16936.83|3860.68|4365.67|4287.64|5901.31|5120.78|6458.24|
+|**Total**|**55013.05**|**66275.14**|**59520.51**|**140041.11**|**124721.4**|**122351.2**|**144653.1**|
+
+Table 1: Total Expenditure for MeitY, MIB, DoT, and MHA (In Rs. Crores)
+
+Digital Public Infrastructure (“**DPI**”) was an area of focus for the government during the presentation of the Union Budget including the varying schemes aimed at farmers with the digital crop survey, agri-stack, and also the service sector with a proposal for the development of more DPI apps for businesses. However, it appears that DPI(s) found limited specific budgetary allocation even after being a point of focus in the Economic Survey released a day before the Budget 2024-25. DPIs have been attributed for the rise in technological engagement of Indian citizens with more Ministries introducing population-scale interactive technological platforms which are being clubbed under the common banner of DPI. We will soon release a detailed analysis of the Economic Survey 2023-2024 and the over-reliance on technology-centred tools such as AI and DPI within it.
+
+# The Ministry of Electronics and Information Technology
+
+The total budgetary allocation for MeitY in the Budget for 2024-2025 is ₹21936.9 Cr, which is a 32.57% increase from the previous financial year’s Budget (BE 2023-2024). The increase is even higher when compared to the RE of 2023-2024, i.e., a year-on-year change of 52.11%. This is in contrast to the budgetary trends we witnessed in 2021, 2022 and 2023, where there was underutilisation of the budget. We appreciate the large overall increase in budgetary allocation to MeitY in FY 2024-2025 and hope to see these funds be directed towards infrastructure development aimed at increasing telecom and broadband connectivity, research and deep deliberation into emerging technologies, strengthening of citizen-centric fora and systems, and closing the digital divide.
+
+||
+||
+|**Item (Rs. cr)**|**Actual 2022-23**|**Budget 2023-24**|**Revised 2023-24**|**Budget 2024-25**|
+|**Establishment Expenditure of the Centre**|||||
+|Cyber Security (CERT-In)|176.49|225|208|238|
+|Data Protection Board|0|0|0|2|
+|**Total-Establishment Expenditure**|1815.9|2040.76|2074.5|2352.64|
+|**Central Sector Schemes/Projects**|||||
+|DIGITAL INDIA Program|5518.1|4795.2|4428|4216.51|
+|Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA)|250|0|0|0|
+|PLI for Large Scale Electronics and IT Hardware|1654.96|0|0|0|
+|Cyber Security Projects|30.11|400|400|759|
+|Promotion of Digital payment|1989.6|1500|584|0|
+|IndiaAI Mission|0|0|0|551.75|
+|**Total - Central Sector Schemes/ Projects**|5531.09|12440.28|12440.28|17871.26|
+|**Other Central Sector Expenditure**|||||
+|Centre for Development of Advanced Computing (C-DAC)|250|270|270|270|
+|Unique Identification Authority of India (UIDAI)|1219.7|940|800|600|
+|Society for Applied Microwave Electronics Engineering and Research (SAMEER)|131.39|160|150|160|
+|**Total- Autonomous Bodies**|1867.21|2057|1842.5|1700|
+|**Total - Other Central Sector Expenditure**|852.3|2068|1855.5|1713|
+|**Grand Total**|**8199.3**|**16549**|**14421.3**|**21936.9**|
+
+Table 2: Budgetary allocations for specific items for MeitY
+
+The most notable change in the Budget for 2024-2025, which has direct implications for digital rights, has to be the allocation of ₹2 Cr for the Data Protection Board (“**DPB**”). After a long and arduous journey for data protection legislation, it is disappointing to see funding of a mere ₹2 Cr for a regulatory body whose functioning will have a direct impact on the implementation of the Digital Personal Data Protection Act (“**DPDPA**”), 2023, successful or otherwise. Of this ₹2 crore, only ₹4 lahks is [~reportedly~](https://www.hindustantimes.com/india-news/union-budget-2024-25-health-ministry-allocated-rs-90-958-crore-full-details-101721738915694.html?ref=static.internetfreedom.in) allocated for capital expenditure, which includes fixed assets such as the digital portal, and the rest (₹ 1.96 Cr) is allocated for revenue expenditure (salaries, etc). Since it is unclear when the DPB will become functional, it is difficult to ascertain whether the allocated budget is meant to  be utilised for the entire financial year or a part of it. Either way, a minuscule amount of ₹4 lakhs for capital expenditure on DPB may prove to be insufficient for upskilling and training of the DPB members. In the following Budgets, we hope MeitY ensures that it is adequately resourced for the institutional preparation of the DPB. Adequate funding for key regulatory bodies such as the DPB will contribute to its independent functioning which is necessary to keep checks and balances on the executive. 
+
+Allocation towards a prominent regulatory body essential for the cybersecurity health of the country, the Indian Computer Emergency Response Team (“**CERT-In**”) also increased by 5.78% from the previous year’s Budget. On another positive note, funding allocated to ‘Cyber Security Projects’ has seen a massive increase of 89.75% since last year. This substantial increase in allocation was much needed in the backdrop of increasing incidents of data breaches and vulnerabilities and the absence of an operational, robust, and rights-advancing data protection legislation. [~Recent~](https://internetfreedom.in/cybersecurity-report-for-q2-2024/?ref=static.internetfreedom.in) grave cybersecurity incidents, like the Tamil Nadu Police Facial Recognition Portal breach and the Telangana Police Network data leak, have raised concerns about the detection and response capabilities of India’s cybersecurity authorities. It is worth noting that MeitY utilised only ₹30.11 Cr out of the allocated ₹300 Cr in 2022-2023, despite persisting challenges of insufficient resources, outdated infrastructure, and a shortage of skilled professionals. We hope that the same trend of under-utilisation is not followed by the Ministry this fiscal year and ahead.
+
+Another introduction this year was the addition of ‘IndiaAI Mission’ as a Central Sector Scheme, with a notable allocation of ₹551.75 Cr. This is on top of the infusion of ₹10,371.92 Cr [~approved~](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2012355&amp;ref=static.internetfreedom.in) by the previous National Democratic Alliance (“**NDA**”) cabinet in March 2024 which is to be disbursed over a period of five years to establish the scheme including its Compute Capacity program. The program [~aims~](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2012355&amp;ref=static.internetfreedom.in) to establish a 10,000 Graphics Processing Unit infrastructure to be built with public-private partnerships. The working group appointed by the government on IndiaAI in its October 2023 [~report~](https://www.meity.gov.in/writereaddata/files/IndiaAI-Expert-Group-Report-First-Edition.pdf?ref=static.internetfreedom.in) had recommended at least 24,500 Graphics Processing Units for infrastructural requirements. Moreover, the increased focus on AI and massive budgetary allowances form cause for concern owing to the massive effects of the technology on the climate – with a single ChatGPT search taking 10 times as much energy as a regular Google search, according to the [~Economic Survey 2023-24~](https://www.indiabudget.gov.in/economicsurvey/index.php?ref=static.internetfreedom.in). The Survey cautioned against Artificial Intelligence’s impact not only on climate but also on employment opportunities amidst rising automation in industries making employees redundant. With increasing trends of techno-solutionism plaguing governance in India, increased budgetary focus on bolstering AI capabilities may result in more unnecessary technological interventions – but now with AI.
+
+Disappointingly, the Budget for 2023-2024 and the Interim Budget for 2024-2025 for MeitY did not allocate any funds to Pradhan Mantri Gramin Digital Saksharta Abhiyan (“**PMGDISHA**”), breaking the trend of continuous budgetary support for the rural digital literacy scheme since its inception in 2017. PMGDISHA was key to increased connectivity, telecom penetration, and digital literacy across India. Allocations to the scheme touched an all-time low in 2022 since 2017, and then last year in the FY 2023-24 budget, no funds were allocated towards it. The last impact assessment study of PMGDISHA was carried out by the Indian Institute of Public Administration in 2020-21. The report [~concluded~](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1843061&amp;ref=static.internetfreedom.in) that the scheme, as a digital literacy programme, “*plays an indispensable part in not only bridging the digital gap in the country but also transforming it into a knowledge economy and society*.” The allocations made to this scheme must increase, and more importantly exist, to ensure its effective progress and robust digital literacy in the country. 
+
+https://preview.redd.it/5t84souchled1.png?width=1022&amp;format=png&amp;auto=webp&amp;s=2a2993a978cb28fe40f0b6dbef21f14229d23422
+
+Figure 1: Budget Allocation to PMGDISHA (MeitY)
+
+The other interesting trend is the complete discontinuation of budgetary allocation towards ‘Promotion of Digital Payments’ under MeitY’s budget for this year. Last year, we noted that the allocation to this domain plummeted to ₹1500 Cr as compared to ₹2137 Cr allocated to it in the 2022-2023 RE, reflecting a decline of 29.8%. In the RE of 2023-2024, the allocation was further reduced to ₹584 Cr and finally to 0 in the Budget for 2024-2025. It is also interesting to note that revised allocations increased sharply in 2022-2023 (₹2137 Cr), witnessing a jump of 968.5% as compared to the 2022-2023 BE which stood at ₹200 crores. Even though the allocation in 2023-2024 is higher than the 2022 BE, it stood lower than the RE. 
+
+https://preview.redd.it/ybiiuvbehled1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=01176f7ed7571b9e35b7c3e17cf81973bfa19e95
+
+ 
+Figure 2: Budgetary Allocation to ‘Promotion of Digital Payments’ (MeitY)
+
+MeitY has introduced an item titled ‘Promotion of Digital Transactions (excluding Digital Payments)’ under the DIGITAL INDIA Program, for which it has allocated ₹1.5 Cr. As per MeitY, the objective of this scheme is to promote overall digitisation for the efficient delivery of citizen-centric services and empowerment of citizens. Through this newly introduced item, MeitY hopes to grow the volume of digital transactions in the country. It also believes that this expenditure may have a cascading effect on the promotion of digital payments scheme including estimating and measuring digital economy of India, suggesting a measurement framework for such estimation, and providing suitable policy recommendations for boosting the size and growth of the digital economy in India by leveraging the digital technologies. Interestingly, despite this new addition, the total expenditure towards the DIGITAL INDIA Program has reduced significantly and consistently since the BE for 2022-2023.
+
+https://preview.redd.it/rf6zq1mfhled1.png?width=830&amp;format=png&amp;auto=webp&amp;s=7a3c38c34794b9e1251ad96dc2b24efcaa105278
+
+Figure 3: Share of the Digital India Programme in the Total Budgetary Allocation (MeitY)
+
+# The Ministry of Home Affairs
+
+The total budgetary allocation for MHA is 9.44% higher than what was allocated in the BE for 2023-24 and 9.44% higher than the 2023-2024 revised Budget. The allocation in the budget estimates, net of receipts and recoveries, for MHA is ₹6458.24 Cr. The allocation for planned capital expenditure has marginally dipped as compared to both 2023-2024 BE (by 10.16%) and RE (by 29.39%), which is disappointing.  
+
+||
+||
+|**Item (Rs. cr)**|**Actual 2022-2023**|**Budget 2023-2024**|**Revised 2023-2024**|**Budget 2024-2025**|
+|**Total- Establishment Expenditure of the Centre**|2111.7|2491.53|2622.86|2456.5|
+|**Central Sector Schemes/Projects**|||||
+|Helicopter Services|105.61|126|103|115|
+|Disaster Management|186.61|393.65|326.41|288.63|
+|**Total - Central Sector Schemes/Projects**|1330.5|1504.34|1667.58|1709.41|
+|**Total- Other Central Sector Expenditure**|623.82|1728.13|761.75|1613.45|
+|**Total- Other Grants/ Loans/ Transfers**|70.6|67.31|66.3|668.01|
+|**Grand Total**|**4235.69**|**5901.31**|**5120.78**|**6458.24**|
+
+Table 3: Budgetary allocations for specific items for MHA
+
+Additionally, we notice an interesting trend in allocations to the item ‘Census, Survey and Statistics/ Registrar General of India’. For the past few years, the estimated budget for surveys and census has been large, but the actual utilisation remains minuscule. The biggest dip was seen in 2022-23, where the budget allocated was ₹3676 Cr, but only ₹513.18 Cr was utilised. For BE 2024-25, the allocation remains large, but it is likely to fall into the same pattern of remaining underutilised 
+
+https://preview.redd.it/9k7es0glhled1.png?width=1128&amp;format=png&amp;auto=webp&amp;s=ee095f22bd9450b54e675010741be0f25e8204a2
+
+Figure 4: Budgetary Allocation to Census, Survey and Statistics/Registrar General of India (MHA)
+
+On a disappointing note, MHA did not allocate any funds towards its [~Cyber and Information Security~](https://www.mha.gov.in/en/divisionofmha/cyber-and-information-security-cis-division?ref=static.internetfreedom.in) (“**C&amp;IS**”) Division, which includes key schemes such as the Cybercrime Prevention against Women and Children Scheme and the Indian Cybercrime Coordination Centre (“**I4C**”) Scheme. [~Reportedly~](https://theprint.in/economy/budget-2024-mha-gets-rs-2-19-lakh-crore-focus-on-training-and-research-big-boost-for-ib-cisf/2187805/?ref=static.internetfreedom.in), I4C didn’t get fresh funding this year because it “*ceased to exist as a Union government scheme starting 1 July and began working as part of the MHA*”. Interestingly, other Divisions of the MHA such as the Freedom Fighters and Rehabilitation Division and the Police Division still got funding allocated to them. From a reading of the Budget, it is unclear under which item, if at all, is MHA allocating funds for cyber security and awareness efforts. Earlier this year, I4C was [~notified~](https://economictimes.indiatimes.com/news/india/govt-designates-i4c-as-agency-of-mha-to-notify-unlawful-activities-in-cyber-world/articleshow/108501675.cms?from=mdr&amp;ref=static.internetfreedom.in) as the official agency by MHA to notify law enforcement authorities, under the Information Technology Act, 2000, about unlawful activities in the cyberspace. Additionally, funding for a special wing of "cyber commandos", reportedly an MHA project meant to tackle cyber threats along with local administration, is also missing from this year’s Budget for MHA, despite [~expectations~](https://www.business-standard.com/budget/news/budget-special-unit-of-cyber-commandos-on-home-ministry-s-100-day-agenda-124062100754_1.html?ref=static.internetfreedom.in).
+
+# The Ministry of Information and Broadcasting
+
+The total budgetary allocation for MIB in 2024-25 is ₹4342.55 Cr, which is a 7.45% decrease from the 2023-2024 Budget and a 2.41% decrease from the 2023-2024 Revised Budget. This cut comes after MIB seemingly was able to utilise a higher budget allocation last year, which seems incongruent. Interestingly, the total budgetary allocation for FY 2024-2025 is the same as the allocation under the Interim Budget for 2024-2025, a trend uncommon for several other Ministries.  
+
+||
+||
+|**Item (Rs. crore)**|**Actual 2022-23**|**Budget 2023-24**|**Revised 2023-24**|**Budget 2024-25**|
+|**Total- Establishment Expenditure**|566.73|535.5|551|566.41|
+|**Total-Central Sector Schemes/ Projects**|596.66|1105|1027.28|1004.31|
+|**Total- Support to Autonomous Bodies**|2875.57|3031.12|2848.1|2748.83|
+|**Grand Total**|**4020.18**|**4692**|**4449.76**|**4342.55**|
+
+Table 4: Budgetary allocations for specific items for MHA
+
+MIB’s total AE since 2014-2015 has been relatively stable, as compared to the AE of MeitY, MHA, and DoT. Notably, DoT has introduced funding for the establishment of the ‘Bhartiya Bhasha Anubhag’ scheme, which is a platform meant to facilitate the translation of various languages into Hindi and vice versa. 
+
+# The Department of Telecommunications
+
+In 2024-25, DoT (which operates under the Ministry of Communications) has been allocated ₹111915.43 Cr, which is a 14.69% increase over the budget allocated in 2023-24 (₹97579.05 Cr) and 13.78% over the RE for 2023-24 (₹98359.41 Cr). 
+
+||
+||
+|**Item (Rs. cr)**|**Actual 2022-23**|**Budget 2023-24**|**Revised 2023-24**|**Budget 2024-25**|
+|**Total - Establishment Expenditure of the Centre**|16601.82|22042.91|18462.35|18656.22|
+|**Regulatory Bodies**|||||
+|Telecom Regulatory Authority of India General Fund|232.78|214.35|311.9|110|
+|Telecom Disputes Settlement and Appellate Tribunal (TDSAT)|17.02|24.18|26.18|23.7|
+|Artificial Intelligence and Face Recognition Powered Solution for Telecom SIM Subscriber Verification (ASTR)|0|0.5|0|0|
+|**Total- Regulatory Bodies**|249.8|238.53|338.08|133.7|
+|**Central Sector Schemes/Projects**|||||
+|**Universal Service Obligation Fund**|||||
+|Transfer to Universal Service Obligation (USO) Fund|53500|10400|2000|2000|
+|Compensation to Telecom Service Providers|2000|5000|10600|10100|
+|Bharatnet|1500|5000|5000|8500|
+|R&amp;D (Revenue)|0|400|100|400|
+|Amount met from Universal Service Obligation (USO) Fund|-3500|-10400|-15700|-19000|
+|**Total - Defence Spectrum**|1367.66|2158|2158|0|
+|**DoT Projects**|||||
+|Promotion of Innovation and Incubation of Future Technologies for Telecom Sector|55|0|0|0|
+|Digital Intelligence Unit Project|0|220|50|85|
+|Prevention of Spoofed Incoming International Calls System 'CIOR'|0|0|0|38.76|
+|**Total - DoT Projects**|315.55|2285.32|926.53|2353.19|
+|**Total- Central Sector Schemes/Projects**|55183.21|14843.32|6678.27|4353.19|
+|**Total - Other Central Sector Expenditure**|47175.51|60692.82|73218.79|88906.02|
+|**Grand Total**|**118960.54**|**97579.05**|**98359.41**|**111915.43**|
+
+Table 4: Budgetary allocations for specific items for DoT
+
+Surprisingly, the Universal Services Obligation Fund (“USOF”) took a hit in funds with only ₹2000 Cr allocated to it in the 2024-25 Budget (same as last year’s RE), an 80.77% fall from last year’s ₹10400 Cr. Telecom services providers have [~persistently~](https://www.business-standard.com/budget/news/budget-wish-list-telecom-industry-calls-for-junking-usof-slashing-duties-124011800938_1.html?ref=static.internetfreedom.in) urged the Ministry of Finance to suspend USOF till the existing corpus is exhausted, and in their Budget requests for 2024-25, pressed for an exemption from the service tax on “assignment of right to use natural resources” and the slashing of customs duty on telecom equipment to zero. Allocation to ‘Compensation to Telecom Service Providers’ saw a 102% increase in the 2024-2025 Budget (₹10100 Cr) as compared to the 2023-2024 budget (₹5000 Cr). This item is meant to provide for the “*creation and augmentation of telecom infrastructure and access to various telecom services to people in the rural and remote areas including operation and maintenance of Village Public Telephones*.”
+
+As far as allocations for BharatNet are concerned, there has been a significant increase of 70% in BE 2024-25 (₹8500 Cr) from BE 2023-24 (₹5000 Cr). The grant goes towards the creation of telecom infrastructure required for providing broadband connectivity to all the Gram Panchayats in the country and facilitating non-discriminatory access to service providers, for provisioning of broadband services in rural areas. The sharp increase in budget is appreciated.
+
+Total budgetary allocation for regulatory bodies such as the Telecom Regulatory Authority of India (“**TRAI**”) and Telecom Disputes Settlement and Appellate Tribunal has seen a significant dip this year (₹113 Cr) as compared to the previous year (₹238.53 Cr). The funding for TRAI has reduced by 48.68% over the past year, even though DoT utilised the entire revised amount allocated in 2022-2023 for the regulatory body, which was more than the BE for 2022-2023.
+
+Although DoT allocated ₹50,00,000 towards ‘Artificial Intelligence and Face Recognition Powered Solution for Telecom SIM Subscriber Verification (ASTR)’ in the 2023-2024 Budget, it has not allocated any funding in the 2024-2025 Budget. Funding for the Digital Intelligence Unit Project, which is meant to investigate fraudulent activity involving telecom resources, such as Unsolicited Commercial Communication, witnessed a drastic reduction of 61.36% in the 2024-2025 Budget (₹85 Cr) as compared to the previous Budget (₹220 Cr). DoT has also allocated ₹38.76 Cr for the first time for the ‘Prevention of Spoofed Incoming International Calls System – 'CIOR' (Centralized International Out Roamer)’.
+
+# Conclusion
+
+The 2024-25 Budget leaves us with a variety of feelings, some of hope and some of disappointment. While there are some budgetary allocations made for the first time, like the DPB, IndiaAi Mission, and ‘Promotion of Digital Transactions’, long-established budgetary items such as the ‘Promotion of Digital Payments’, PMGDISHA, the Census, I4C, and the USOF either witnessed a complete discontinuation of funds or took a significant hit in the allocated funds. Overall funding towards the DPB includes planned capital expenditure of only ₹4 lakhs which is inadequate to say the least. An additional cause for concern is the decrease in the AE as compared to the RE, and in the RE as compared to the BE, for the last few years. The RE indicates how much is possible for the government to extend to the concerned sector and the AE indicates how much was extended. While some variation among the three is inevitable, too much of a difference can [~reduce~](https://www.indiaspend.com/budget/be-re-or-actuals-what-do-you-need-to-look-at-in-the-upcoming-budget-800937?ref=static.internetfreedom.in) the credibility of the numbers and cause uncertainty. Cuts in and underutilisation of the RE may also negatively affect the implementation of government schemes and projects. In light of the increasing digitisation across sectors and the increasing demand for improved digital literacy as well as access to digital services, we hope that the fund allocation in these concerned sectors continues to witness a positive trend. Although we appreciate the overall increase in BE this year as compared to last year, we hope to see these funds be utilised efficiently and directed towards infrastructure development aimed at increasing tele-connectivity, broadband connectivity, cybersecurity, and overall digital literacy.

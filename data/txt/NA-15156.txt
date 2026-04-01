@@ -1,0 +1,23 @@
+So it turns out that all 3 billion user accounts on Yahoo had been breached during the August 2013 data theft, which is three times the initial 1 billion affected accounts figure the company had reported. Yahoo had first reported that a security breach had taken place over three years after the event, on December 14, 2016. Now the company has said that following the acquisition by Verizon and during the subsequent integration, it learnt that in fact all Yahoo user accounts had been impacted by the 2013 breach.
+
+Subsequent to Yahoo’s acquisition by Verizon, and during integration, the company recently obtained new intelligence and now believes, following an investigation with the assistance of outside forensic experts, that all Yahoo user accounts were affected by the August 2013 theft. While this is not a new security issue, Yahoo is sending email notifications to the additional affected user accounts. The investigation indicates that the user account information that was stolen did not include passwords in clear text, payment card data, or bank account information. The company is continuing to work closely with law enforcement.
+
+Interestingly, the Verizon deal had come under scrutiny after Yahoo revealed two data breaches ( here and here ) after the deal was confirmed. The two breaches together compromised the data of over 1.5 billion user accounts (not unique). During the first disclosed data breach, Verizon had said that it had a ‘reasonable basis’ to believe the incident represented a material impact that could allow it to withdraw from the $4.8 billion deal . Verizon was apparently looking to get a $1 billion discount on the Yahoo deal, and eventually in February this year it did cut the deal price by $350 million .
+
+Yahoo becomes latest tech giant summoned to the Hill, in this case over a massive hack that Yahoo now admits impacted every one of its users pic.twitter.com/Xjfzzw2GE1
+
+— Christina Wilkie (@christinawilkie) October 4, 2017
+
+? Secure your Yahoo account with 2FA, but do not delete it. Deleting it will recycle your account after 30 days — and anyone can hijack it.
+
+— Zack Whittaker (@zackwhittaker) October 4, 2017
+
+September 2016: Yahoo blames state sponsored hackers for stealing information of at least 500 million user accounts . At the time, the company said the breach was carried out in 2014, and included data like names, email addresses, dates of birth, telephone numbers and encrypted passwords of Yahoo customers. The company also mentioned that encrypted and unencrypted responses to security questions and answers were also leaked, which can be used by the hackers to obtain common data such as mother’s maiden name, pet names, etc. of users, to hack their other accounts.
+
+December 2016: Yahoo wrote to its email customers informing them that a breach in 2013 compromised the data of over 1 billion user accounts . According to Yahoo , law enforcement provided it with hacked data files that were claimed to be Yahoo user data in November, which was confirmed by the company. It mentioned that hackers created forged cookies, using Yahoo’s proprietary code, that would allow them access to accounts without a password.
+
+March 2017: Yahoo clarified that the two data breaches that took place in 2013 and 2014 happened using forged cookies. According to the company, some of the latest intrusions were likely caused by the “same state-sponsored actor believed to be responsible for the 2014 breach.” Additionally, the company mentioned that “based on the investigation, we believe an unauthorized third party accessed the company’s proprietary code to learn how to forge certain cookies .”
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

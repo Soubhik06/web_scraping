@@ -1,0 +1,13 @@
+On November 26, the Indian Computer Emergency Response Team (CERT-In) said (archived here ) that it had learnt that fewer than 3,000 Indians were affected by the OnePlus data breach which exposed the name, contact number, email and shipping address of certain users. CERT-In has given this breach a “Medium” rating, and has advised OnePlus users to change their account passwords, and not to open attachments and URLs in “unsolicited” emails. The Economic Times first reported this.
+
+The number of Indians affected from the breach isn’t mentioned in the references that CERT-In has given in the advisory, suggesting that OnePlus provided this information to CERT-In directly.
+
+OnePlus data breach: On November 22, the Chinese phone manufacturer had said that an “unauthorised party” had gained access to the order information of some of its users on its website. While it confirmed that names, contact numbers, email addresses and shipping addresses of its users “may have been” compromised, their “payment information, passwords and accounts are safe”.
+
+Did OnePlus downplay the breach? OnePlus took a week to disclose the breach, and it is still unclear when exactly it notified CERT-In. As per a November 26 ET report , the company did not reveal if and when it had notified CERT-In of the breach. It only said that it was in the process of shifting its data to Amazon Web Services (AWS) India servers from Singapore. Quoting a legal expert, ET said that not reporting such an issue to CERT-In was an offence for which the company’s top brass could face consequences. CERT-In’s advisory came later that day, which could potentially mean that OnePlus notified the agency of the vulnerability only after media reports related to its non-reporting started to surface. We have reached out to OnePlus for clarification.
+
+OnePlus has been here before:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,119 @@
+The Telecom Regulatory Authority of India (TRAI) has issued a consultation paper on Unsolicited Commercial Communication (UCC) because it says that the earlier Telecom Commercial Communication Customer Preference Regulation, 2010 has failed to definitively curb UCC. Stakeholders can send in their comments by October 12, 2017 and counter comments by October 26, 2017 to [email protected] . This consultation looks at three aspects:
+
+a) The current customer preference registration system and how that can be improved to provide customers with greater choices.
+
+b) The registration system for telemarketers and content providers and how that can be streamlined to keep a check on them.
+
+c) And finally how swift and definitive action can be taken against complaints of unsolicited commercial communication.
+
+To begin with, TRAI has identified several shortcomings with the current customer preference registration system, including:
+
+Note that the Customer Preference Registration Facility (CPRF) is provided by the Access Provider (AP) or network provider. Customers can access it via the short code 1909 which is toll-free. APs maintain the Provider Customer Preference Register (PCPR), which registers the customer or subscriber’s preference as fully blocked or partially blocked category, along with the subscriber’s name, telephone number, date and time of the request, details of the preference and the unique registration number (URN).
+
+TRAI has also outlined certain recent trends it has noticed, namely auto-dialers, robocalls and silent calls.
+
+Auto-dialers are used to deliver a pre-recorded message and these calls may also be interactive. While robocalls are often associated with telemarketing phone campaigns, but can also be used for public-service or emergency announcements. Some robocalls use personalized audio messages to simulate an actual personal phone call. Robocallers are exploiting advancements in technologies e.g. computerized auto-dialers, text-to-speech, speech-to-text, cloud-based call centre, etc. Large scale operations with lower costs and support of multi-lingual, interactive, personalized calls are also being exploited by scammers and spammers.
+
+Another trend in telemarketing calls is silent calls. In this case, one may find occurrence of a call in the missed calls log which had no ring or alert like other normal calls. When, one tries to call back on same number they hear an information message or promotional offer from the organization which was calling. In such cases, handling of complaints of UCC, may not find any evidence of call made by the organization to the person as it was silent call and was not picked up. In fact, from Call Detail Records (CDR), it will be seen as person contacted organization as CDR of calling back to the silent number is generated.
+
+Telemarketers also have a register called the National Telemarketer Register (NTR), which is maintained by TRAI. How the system is supposed to work is, Registered Telemarketers (RTMs) apply to access telecom resources from network providers to be able to make voice calls and send SMS. RTMs are also supposed to deal with Content Providers (CPs). However, in practice, TRAI has noticed that in many cases there are more than one RTMs in the delivery channel, and only one of them has tied-up with a network provider while the others piggyback. This makes it very difficult to take action against said RTMs in case of non-compliance. Then there are other players that are neither RTM nor CP and operate simply as aggregators. In most cases, these players are not registered with TRAI and hence out of the gambit of regulatory perspective. TRAI has proposed four specific measures to tackle these and other issues.
+
+Dealing with complaints effectively needs to be addressed along with upgrading the current system. At present customers can file a “complaint through various Customer Complaint Resource Functionality (CCRF) made available by access providers. CCRF includes various modes like customer care number, IVRS, Web portal, email. TRAI has also facilitated customers to file a complaint in a user-friendly manner. However, this mobile app of TRAI is not available on device operating systems. Complaints are submitted to the Terminating Access Provider (TAP) who is serving the customer. The customer can make complaints within three days from the date of receiving UCC. TAP carries out certain checks like registration status of the complainant, Call Detail records for verifying that communication has actually taken place. After due verification, which is required to be carried out within 72 hours, if it is found that complaint is valid then it is forwarded to Originating Access Provider (OAP) through NCPR portal. In case, a complaint is found to be invalid then complainant is informed.”
+
+Some of the measures proposed by TRAI include:
+
+Signature Solutions
+
+a) Pattern matching in the signature solutions may also be required to be applied on A2P (Application to Person) traffic coming from RTMs or TMSEs. It may be useful to detect messages sent by unauthorized entities e.g. investment tips sent by entities who are not registered with SEBI or header being used for sending traffic for which it was not intended at the time of assignment.
+
+b) Signature solution is also required to be evolved on a continuous basis as unscrupulous elements are regularly changing patterns and trying to bypass the defined key words and phrases by tweaking the content. Signature solutions may also take into account information from other sources like missed call alerts, call forwarding details etc. to analyze the patterns of calls from numbers which are not responded by many customers and numbers used by unregistered telemarketers to avoid disconnection of the original number.
+
+Honeypots
+
+a) Unscrupulous elements some times send messages or make voice calls to series of telephone numbers including numbers which may not be allocated to any subscriber or numbers meant for data connections. If honeypots are created by the Access Providers in their network which are dummy numbers but have characteristics of actual working numbers. Even voicemail box may be allocated to these numbers so that voice calls may be answered by these honeypots. There is a likelihood that messages or calls from unregistered telemarketers may land on honeypots and data collected by honeypots can be used for identifying unregistered telemarketers and taking appropriate actions.
+
+b) Numbers identified by honeypots may be input to signature solutions for further analysis of the characteristics of the usage of number. Call Detail Record (CDR) analysis of numbers identified by honey pots and signature solutions may be used to have deeper investigation and find out whether that particular number is being used for commercial communication purposes.
+
+a) For taking action immediately against the defaulters against whom a large number of complaints have been reported by different customers, received complaints may be combined and seen together. Aggregation of multiple complaints against such number or such entity may be helpful to detect defaulter at an early stage. It may also help to quickly conclude and avoid further misuse.
+
+b) For the purpose of taking action against consolidated complaints, there may be need to collect complaints at a centralized location or have mechanism to pull information from distributed databases located at different locations
+
+Some of the actions taken against non-compliant Telemarketers
+
+Additional Security Deposit: In order to ensure effective control, these regulations mandate all telemarketers to enter into an agreement with the Access Providers before any telecom resources are allocated to them. A security deposit will be collected from each telemarketer by Access Providers from which amount for default or contravention of regulations will be deducted. Telemarketers have to deposit additional security deposits as per the provisions in the regulations based on number of defaults or contraventions. The regulations also mandate that all telecom resources shall be disconnected at the sixth violation.
+
+Blacklisting Provision: After sixth violation apart from disconnection of telecom resources of defaulting telemarketers, provisions for blacklisting of telemarketers is also there to ensure that they do not get any telecom resources from any other access provider. The blacklisted Telemarketers will be identified through their PAN and/or TAN number. Further, access providers shall ensure that no telecom resources are allotted to such blacklisted telemarketers. Blacklisting shall be valid for a period of two years counted from the date of the disconnection of telecom resource and blacklisted companies, individuals and entities will not be provided any telecom resources across the country during this period. These measures are expected to inculcate a greater sense of responsibility among the telemarketers.
+
+******
+
+Here are the questions from the consultation posed by the TRAI.
+
+Customer preference registration system
+
+Q. 1. To what extent, time required for registration and enforcement can be reduced? For achieving reduced time lines, what changes in processes or in different entities e.g. PCPR, NCPR, CPDB may be required? Will providing scrubbing as a service for RTM reduces time? Please give your suggestions with reasons.
+
+Q. 2. How to ensure availability of Mobile Apps for registering preferences and complaints and for de-registration for all types of devices, operating systems and platforms? Whether white label TRAI Mobile App may be bundled along with other Apps or pre-installed with mobile devices for increasing penetration of app? For popularizing this app, what other initiatives can be taken? Please give your suggestions with reasons.
+
+Q. 3. In case of Mobile Number Portability (MNP), what process may be defined for retaining the status of customer for preference registration? Please give your suggestions with reasons.
+
+Q. 4. How bulk registration may be allowed and what may be the process and documents to register in bulk on behalf of an organization or family? Please give your suggestions with reasons.
+
+Q. 5. Is there a need to have more granularity in the choices to actually capture customers interest and additional dimensions of preferences like type of day, media type(s)? What will be impact of additional choices of preferences on various entities like CPRF, PCPR, NCPR, CPDB etc.? Please give your suggestions with reasons.
+
+Q. 6. Should the scope of UCC regulation be enhanced to include unwanted calls like silent, obnoxious, threatening calls etc. and unauthorized communications.? What role government or constitutional organizations may play in curbing such activities? Please give your suggestions with reasons.
+
+Q. 7. What steps may be taken to address the issues arising from robo-calls and silent calls? What are the technical solutions available to deal with the issue? How international co-operation and collaboration may be helpful to address the issue? Please give your suggestions with reasons.
+
+Registration system for related entities (telemarketers and third-party content providers)
+
+Q. 8. For robust verification and authentication of telemarketer getting registered, what changes in the process of registration, may be introduced? Please give your suggestions with reasons.
+
+Q. 9. Should registration of other entities such as content providers, TMSEs, Principal Entities, or any other intermediaries be initiated to bring more effectiveness? Whether standard agreements can be specified for different entities to be entered into for playing any role in the chain? Please give your suggestions with reasons.
+
+Q. 10. Whether new systems are required be established for the purpose of header registration, execution and management of contract agreements among entities, recording of consent taken by TMSEs, registration of content template and verification of content ? Should these systems be established, operated and maintained by an independent agency or TRAI? Whether agency should operate on exclusive basis ? What specific functions these systems should perform and if any charges for services then what will be the charges and from whom these will be charged? How the client database of TMSEs may be protected? Please give your suggestions with reasons.
+
+Q. 11. Whether implementation of new system should full fledged since beginning or it should be implemented in a phased manner? Whether an option can be given to participate on voluntary basis? Please give your suggestions with reasons.
+
+Q. 12. Whether scrubbing as a service model may be helpful for protection of NCPR data? Whether OTP based authentication for queries made by individuals on NCPR portal may be helpful to protect NCPR data? What other mechanisms may be adopted to protect the data? Please give your suggestions with reasons.
+
+Q. 13. What interface and functionality of NTR system may be made available to Principal entities for managing header assignments of their DSAs and authorized agents? How it may be helpful in providing better control and management of header life cycles assigned to DSAs and authorized entities? Please give your suggestions with reasons.
+
+Q. 14. What changes do you suggest in header format and its structure that may be done to deal with new requirements of preferences, entities, purpose? How principal entities may be assigned blocks of headers and what charges may be applied? What guidelines may be issued and mechanism adopted for avoiding proximity match of headers with well known entities? Please give your suggestions with reasons.
+
+Q. 15. Whether voice calls should be permitted to TMSEs and how these can be identified by the customers? How intelligent network (IN) or IP Multimedia subsystem (IMS) based solutions may be useful for this purpose and what flexibility it may provide to TMSEs in operating it and having control on its authorized entities? Please give your suggestions with reasons.
+
+Q. 16. What steps need to be initiated to restore the sanctity of transactional SMS? What framework need to be prescribed for those transactional SMS which are not critical in nature? Please give your suggestions with reasons?
+
+UCC complaint handling
+
+Q. 17. To what extent, present gap between time when UCC complaint was made and time when this was resolved can be reduced? What changes do you suggest to automate the process? Please give your suggestions with reasons.
+
+Q. 18. How the medium of Cutomer Complaint Resource Functionality (CCRF) with pre-validation of data e.g. Mobile App, Web Portal etc. may be helpful to achieve better success rate in complaint resolution process? Please give your suggestions with reasons.
+
+Q. 19. Whether access providers may be asked to entertain complaints from customers who have not registered with NCPR in certain cases like UCC from UTM, promotional commercial communication beyond specified timings, fraudulent type of messages or calls etc.? What mechanism may be adopted to avoid promotional commercial communication during roaming or call forwarding cases? Please give your suggestions with reasons.
+
+Q. 20. How the mobile App may be developed or enhanced for submitting complaints in an intelligent and intuitive manner? How to ensure that the required permissions from device operating systems or platforms are available to the mobile app to properly function? Please give your suggestions with reasons.
+
+Q. 21. Should the present structure of financial disincentive applicable for access providers be reviewed in case where timely and appropriate action was taken by OAP? What additional measures may be prescribed for Access Providers to mitigate UCC problem? Please give your suggestions with reasons.
+
+Q. 22. Whether strict financial disincentives should be levied for different types of techniques like robocall, auto-dialer calls for UCC? Please give your suggestions with reasons.
+
+Q. 23. What enhancements can be done in signature solutions ? What mechanism has to be established to share information among access providers for continuous evolution of signatures, rules, criteria?Please give your suggestions with reason.
+
+Q. 24. How Artificial Intelligence (AI) can be used to improve performance of signature solution and detect newer UCC messages created by tweaking the content? Please give your suggestions with reasons.
+
+Q. 25. How the honeypots can be helpful to detect and collect evidences for unsolicited communications? Who should deploy such honeypots? Please give your suggestions with reasons.
+
+Q. 26. Should the data from mobile app or from any other source for registering complaints be analyzed at central locations to develop intelligence through crowd sourcing? How actions against such defaulters be expedited?Please give your suggestions with reasons.
+
+Q. 27. How the increased complexity in scrubbing because of introduction of additional categories, sub-categories and dimensions in the preferences may be dealt with? Whether Scrubbing as a Service model may help in simplifying the process for RTMs? What type and size of list and details may be required to be uploaded by RTMs for scrubbing? Whether RTMs may be charged for this service and what charging model may be applicable? Please give your suggestions with reasons.
+
+Q. 28. How the cases of false complaints can be mitigated or eliminated? Whether complaints in cases when complainant is in business or commercial relationship with party against which complaint is being made or in case of family or friends may not be entertained? Whether there should be provision to issue notice before taking action and provision to put connection in suspend mode or to put capping on messages or calls till investigation is completed? Please give your suggestions with reasons.
+
+Q. 29. How the scoring system may be developed for UCC on the basis of various parameters using signature solutions of access providers? What other parameters can be considered to detect, investigate and mitigate the sources of UCC? How different access providers can collaborate? Please give your suggestions with reasons.
+
+Download the consultation paper
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

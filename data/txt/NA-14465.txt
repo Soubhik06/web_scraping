@@ -1,0 +1,23 @@
+The Indian Computer Emergency Response Team (CERT-In) has issued an advisory , noting the risk of a cyber threat campaign specifically targeting JavaScriptâs node package manager (npm) ecosystem. The countryâs cybersecurity watchdog warned that attackers are using a worm-like malware dubbed âShai-Huludâ to compromise software packages, posing a huge threat to startups, IT companies, fintech platforms and e-governance applications.
+
+In its advisory dated September 25, Indiaâs cybersecurity nodal agency stated that it has observed a widespread malware attack targeting JavaScriptâs Node Package Manager ecosystem â a network of open-source software packages and tools used by developers to create applications, websites, and digital services. Attackers are deploying malicious package versions containing the Shai Hulud malware, triggering a multi-stage spread across projects. The malware gets its moniker from an extraterrestrial creature that appears in Frank Herbertâs sci-fi novel series Dune .
+
+According to CERT-In, the malware attack began with phishing emails spoofing npm and tricking app developers into revealing their login details. Once the attackers get access, they inject malicious code into their software kits to harvest sensitive credentials, including:
+
+The cybersecurity watchdog further states that the compromised software packages contain a self-propagating worm (hence, the name Shai Hulud) that spreads across the entire developer network. According to CERT-In, 500 software packages have already been compromised due to this malware.
+
+âThis attack has the potential to impact start-ups, IT/ITES companies, fintech platforms and e-Governance applications that rely on npm-based software, resulting in exposure of credentials, unauthorised code execution and further supply chain compromise,â CERT-In warned.
+
+In the wake of the latest cyber threat posed by Shai Hulud, CERT-In has urged companies to follow some cybersecurity practices to prevent such attacks:
+
+The advisory comes at a time when the countryâs micro, small and medium enterprises (MSMEs) and startups are facing a relentless wave of cyberattacks. According to a recent report by cybersecurity firm Acronis, India has alarmingly emerged as the most-targeted nation in the world in terms of malware attacks in the first half of 2025 (H1 2025), with 12.4% of organisations affected, followed by Brazil at 11% and Spain at 10.2%.
+
+The report emphasised that the surge in ransomware attacks is being fuelled by artificial intelligence (AI). For instance, North Korea-based cybercriminal gang FunkSec, which uses generative AI to automate ransomware code, has quickly risen to fame after allegedly stealing sensitive data from about 150 tech companies across countries such as the US, India, Spain and Mongolia. Furthermore, malware attacks on startups and IT companies in India raise serious concerns due to their potentially devastating effects on business operations, finances and trust in the digital ecosystem. These attacks often led to significant monetary losses, sometimes running into crores of rupees per incident.
+
+A case in point is Star Health and Allied Insurance, the countryâs biggest health insurer, which suffered a cyber attack in September 2024. The hacker stole customer data, including medical reports of 31 million people from the company, and then sold it on Telegram. Earlier this month, Tata Group-owned hospitality player Indian Hotels Company Limited also came under a malware attack , which affected some of its IT systems. In the aftermath of the Pahalgam attack, a report by Maharashtra Cyber recorded over 1.5 million cyberattacks targeting government websites, 150 of which were reportedly successful.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

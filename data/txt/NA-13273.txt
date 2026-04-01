@@ -1,0 +1,47 @@
+MediaNamaâs Take : Indiaâs dark pattern enforcement framework has a clear blind spot: the airline sector. A new LocalCircles survey shows that airlines use some of the most harmful manipulative designs in the country, especially in cancellation, refund, and fare-disclosure flows. However, the Central Consumer Protection Authority (CCPA) has not required airlines to conduct or publish systematic dark pattern audits or disclosures, unlike other consumer-facing digital service.
+
+This gap becomes sharper when we look at how other sectors are treated. E-commerce, quick commerce, and online travel aggregators (OTAs) conducted self-audits, filed declarations, and now face clarification notices for continued violations. Airlines, meanwhile, remain completely outside this compliance cycle even though the financial impact on passengers is far greater. An opaque cancellation path or a misleading refund flow does not cost a user a few hundred rupees, it can cost tens of thousands.
+
+IndiGoâs December disruption shows why this oversight matters. When an operational crisis meets an unregulated interface, the harm multiplies. Passengers reported greyed-out cancellation options when they most needed them, inconsistent refunds despite public assurances, and fare changes that altered the terms of a transaction mid-process. The Directorate General of Civil Aviation (DGCA) is now examining IndiGoâs rostering and operations. However, no regulator has examined these interface design choices through a structured dark pattern audit or disclosure process, even though they significantly shaped how passengers experienced the crisis.
+
+Therefore, India faces a regulatory paradox: the country already has dark pattern guidelines, published audit declarations, and a consumer authority willing to question major platforms. Yet the sector with some of the strongest evidence of manipulation remains outside the audit-and-disclosure system. As long as airlines stay exempt, enforcement will remain uneven and unable to protect users in the digital environments where financial and practical consequences are most severe.
+
+A new LocalCircles survey based on over 124,000 responses from 302 districts finds that more than eight in ten airline passengers encountered dark patterns on airline websites and apps in the past year. Dark patterns refer to interface designs that steer users toward choices they may not have intended, often by hiding, delaying, or manipulating key information. IndiGo recorded the highest number of complaints, including forced action, confirm shaming, and bait and switch.
+
+The findings emerge amid heightened regulatory attention on IndiGoâs operations. The DGCA has stationed nine senior officials at the airlineâs headquarters to monitor fleet deployment, crew planning, refunds, and baggage handling following widespread cancellations and delays. IndiGo has cancelled nearly 5,700 flights between November 21 and December 9, affecting 12.5 lakh passengers. The airline says it has issued Rs 1,158 crore in refunds and will offer Rs 10,000 vouchers to severely impacted passengers.
+
+A tactic where a platform presents one outcome to the user but delivers a materially different one during or after the transaction. During IndiGoâs latest disruption, passengers reported that tickets continued to be sold for flights that were later cancelled or significantly delayed. In other cases, passengers experienced sharp discrepancies between promised and delivered refunds. One reported case involved a passenger who paid Rs 39,180 but received only Rs 1,788 despite public assurances of full refunds. Overall, 70% of respondents said they experienced bait-and-switch patterns in the past year.
+
+Flight search results display multiple IndiGo tickets as bookable for a specific route during the disruption period. Source: Local Circles
+
+A design that prevents users from completing the action they intend, pushing them toward an alternative the platform prefers. 64% of surveyed passengers encountered flows where intended actions were blocked or disabled. During the IndiGo disruption, the cancellation option appeared greyed out even after the airline announced unconditional cancellations and full refunds.
+
+Screenshot 1: Cancellation option appears disabled on the airline interface, limiting users to modifying their booking instead of cancelling. Source: Local Circles
+
+Screenshot 2: Opt-out screen for travel insurance uses guilt-inducing language when users decline the add-on. Source: Local Circles
+
+A tactic that uses guilt-inducing or fear-based language to push users into accepting an add-on or service. Insurance flows often require users to opt out by clicking statements such as âI will stay unsecured.â Notably, 35% of surveyed users reported this frequently.
+
+A pattern where platforms reveal additional charges only at the final payment step, distorting fare visibility. Hidden fees are widespread. 80% of passengers faced undisclosed convenience or platform fees that appeared only during the final payment stage. This was most common on Air India, SpiceJet, and Akasa.
+
+Additional fees appear at the final payment stage instead of being disclosed upfront during ticket selection. Source: Local Circles
+
+False urgency and nagging were also frequently reported, appearing as countdown timers, repetitive prompts, or persistent upsells that pressure users at key decision points.
+
+The December disruption demonstrated how interface design can aggravate operational failures. As flights were delayed or cancelled at scale, many passengers reported that they could not cancel their tickets because the cancellation option was disabled. Others received partial refunds despite public commitments to full refunds. At the same time, some users reported that tickets continued to be sold for flights that were later cancelled or significantly delayed.
+
+These design choices shaped how passengers experienced the crisis. Instead of enabling quick exits or clear refunds, booking and cancellation flows added friction at moments of peak disruption. The episode illustrates why interface-level practices require scrutiny in sectors where failures carry immediate and high financial consequences for users.
+
+The CCPAâs June advisory required e-commerce, quick commerce, and online travel aggregators to conduct internal audits on dark pattern compliance. The authority has published 18 declarations , and it has said that 26 companies filed reports, though disclosures vary widely in depth and quality.
+
+At the same time, the CCPA has stepped up enforcement in these sectors, issuing clarification notices to 15 platforms between November 24 and 28 over continued use of dark patterns.
+
+Airlines, however, remain outside this framework. This is notable because the Consumer Affairs Ministry has previously flagged manipulative airline booking interfaces and, in 2023, asked IndiGo to rectify its website following consumer complaints. Those interventions, however, focused on specific practices rather than systemic, audit-led scrutiny.
+
+Against that backdrop, the LocalCircles survey places airline platforms among the most frequently flagged for manipulative design. Yet aviation remains the only major digital consumer sector where interface-level risks have not been subjected to formal audit or disclosure, even though passenger losses can run into tens of thousands of rupees.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

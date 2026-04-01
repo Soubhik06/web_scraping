@@ -1,0 +1,53 @@
+Update on 06/09/2022 at 1:36 pm : The draft guidelines were taken down from the eGov standards website on September 6th. A PDF of the guidelines can be accessed here .
+
+Original story published on 01/09/2022 at 3:03 pm :
+
+A new set of draft data anonymisation guidelines for e-governance projects is open for public consultation until September 21st, 2022. The guidelines suggest various techniques and SOPs that e-governance projects can adopt to anonymise the data they gather (and then harness it for other projects). They also aim to support the implementation of data anonymisation provisions in policies and laws enacted by the government.
+
+Who prepared this? : The draft report was commissioned by the Ministry of Electronics & Information Technology (MeitY) and prepared by the Standardization Testing Quality Certification (STQC) Directorate and Centre for Development of Advanced Computing (C-DAC). A full list of policymakers involved in framing the guidelines is available in Annexure 2 of the uploaded PDF.
+
+How to participate? : Email your feedback to Shubhanshu Gupta, Principal Technical Officer at CDAC: shubhanshug[at]cdac[dot]in. Remember to copy the following email address when making your submission: headits[at]stqc[dot]gov[dot]in.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+Why anonymise e-governance-related data? : The draft guidelines are clear in their belief that data can play a role in empowering both e-governance and the nation. Emphasising that ‘data-tech’ is now considered a good and central to international dialogue and collaborations, the draft goes on to add that government entities are the ‘most extensive’ data fiduciaries in India. This makes them responsible for protecting the privacy of the reams of citizen data collected through large-scale, interconnected e-governance projects. Data anonymisation—or removing identifiable attributes from a data value to protect a person’s identity—is one such method, according to the guidelines. It both protects citizens while also allowing for the use of anonymised data for limited purposes in other e-governance projects.
+
+Does anonymisation work? : The draft guidelines add that data anonymisation is not a silver bullet solution to ensure privacy, arguing that it should be a component of a larger privacy-by-design approach to an e-governance project’s operations. However, it offers a muted response to arguments that data can never truly be anonymised (and privacy risks mitigated), musing that time and technological advancements will offer more robust solutions to these issues.
+
+When was this released? : In July 2022, according to the PDF uploaded online. However, brief news reports on the draft guidelines—and a similar set of recommendations for mobile security— prominently appeared around August 30th, 2022. As a result, some commentators have recently questioned MeitY’s muted marketing of the guidelines and the consultation period.
+
+One step further for non-personal data policy? : The draft guidelines appear to be the next step in India’s policy tryst with harnessing the ‘non-personal data’ (data not related to an individual, or anonymised personal data) of citizens. Since 2020, India has been flirting with the idea of managing and sharing non-personal data to tap its ‘social and public value’ and improve digital innovation and entrepreneurship. These plans then found their way into India’s now-withdrawn proposed data protection laws, although there are now rumours that it may be separately regulated from personal data. Then came the National Data Governance Framework Policy released by MeitY in May 2022, which seeks to build ‘a vast repository of anonymised, non-personal data obtained from government ministries, departments and organisations, alongside anonymised data voluntarily disclosed by private entities’.
+
+Why it matters: While the government purportedly seeks to improve the quality of business and governance through such non-personal data policy frameworks, they could harm hard-earned competitive edges in India’s tech sector, while still raising privacy concerns. Also, while the 2022 draft guidelines want to help the government build ‘ vibrant, diverse and large base of datasets for research and innovation whilst maintaining informational privacy’, whether the State is competent to do so, or whether datasets filled with questionable data can indeed improve governance, largely remains to be seen.
+
+Professional users : People who use the anonymised data captured or processed by an e-governance organisation (the application that captures this data is called the ‘owner application’). These can include citizens, call centres, third-party service providers, researchers, and data analysers. It can also include departments or applications that have to access the data produced by the source application (or where inter-system data sharing is necessary).
+
+Processors : Teams involved in processing the data captured by the owner application. They convert raw data into anonymised data. They include development and testing teams, production support, and system administrators.
+
+Auditors and reviewers : Responsible for ensuring the anonymity of processed data through rigorous testing. They can include compliance officers, legal staff, or external auditors.
+
+Data principals : The users, or citizens, whose personal data is processed by e-governance projects during service delivery.
+
+Types of organisational data processing can be classified as follows:
+
+There’s no one-size-fits-all approach : Determining what data to anonymise, at which stage of the data processing cycle, and how depends on an organisation’s objectives and emerging regulatory regimes and standards. There is a need to consolidate diverse practices and develop standards for data anonymisation.
+
+However, the report does clarify that keeping in mind the principle of ‘data minimisation’, anonymisation should ideally happen as soon as possible in the lifecycle of data collection.
+
+The 15-step SOP for organisations undertaking data anonymisation suggests:
+
+The Draft also recommends conducting a risk assessment post-release of the anonymised data. It broadly recommends putting systems in place to report data privacy incidents to concerned stakeholders within specified timeframes. To minimise these events, the Draft emphasises training e-governance officials in data anonymisation techniques across the life cycle of data processing (collection, processing/usage, archival, deletion/destruction).
+
+Through approaches like K-anonymity (and related ones like L-diversity and T-closeness ). In essence, these measures ensure that the risk threshold for an anonymised dataset has not been passed. Using these functions can help data processors evaluate how resistant their data anonymisation techniques are to re-identification attacks. They can’t guarantee privacy—but can help measure the likelihood of preserving it.
+
+Specialised data can include audio, video, and images, says the Draft. It can be anonymised and protected through cryptographic methods, such as:
+
+Non-cryptographic methods for anonymising specialised data include:
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Read More
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

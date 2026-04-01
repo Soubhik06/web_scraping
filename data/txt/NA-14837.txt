@@ -1,0 +1,29 @@
+North Korean State-sponsored advanced persistent threat (APT) groups such as Lazarus, APT38, BlueNoroff, and Stardust Chollima have been targeting a variety of organisations in the blockchain technology and cryptocurrency industry, according to a joint security advisory issued by the Federal Bureau of Investigation, Cybersecurity and Infrastructure Security Agency (CISA) and US Treasury Department.
+
+“The activity described in this advisory involves social engineering of victims using a variety of communication platforms to encourage individuals to download trojanized cryptocurrency applications on Windows or macOS operating systems . The cyber actors then use the applications to gain access to the victim’s computer, propagate malware across the victim’s network environment, and steal private keys or exploit other security gaps ,” the advisory said.
+
+Crypto-related frauds are also gaining prevalence in India such as the Morris Coin case where people were defrauded of Rs 1,200 crores.
+
+“The Lazarus Group used AppleJeus trojanized cryptocurrency applications targeting individuals and companies—including cryptocurrency exchanges and financial services companies—through the dissemination of cryptocurrency trading applications that were modified to include malware that facilitates theft of cryptocurrency,” said the advisory.
+
+Spear phishing tactics: “Intrusions begin with a large number of spearphishing messages sent to employees of cryptocurrency companies—often working in system administration or software development/IT operations (DevOps)—on a variety of communication platforms. The messages often mimic a recruitment effort and offer high-paying jobs to entice the recipients to download malware-laced cryptocurrency applications, which the U.S. government refers to as “TraderTraitor,” the advisory said.
+
+What is Trader Traitor? The advisory described TraderTraitor as a series of malicious applications written using cross-platform JavaScript code. It is derived from open-source projects and pretends to be cryptocurrency trading or price prediction tools.
+
+Code executes payload: “The JavaScript code providing the core functions of the software is bundled with Webpack. Within the code is a function that purports to be an “update,” with a name such as UpdateCheckSync(), that downloads and executes a malicious payload .
+
+Payload unleashes custom RAT: “Observed payloads include updated macOS and Windows variants of Manuscrypt, a custom remote access trojan (RAT), that collects system information and has the ability to execute arbitrary commands and download additional payloads,” the advisory read.
+
+The advisory recommended the following to protect critical infrastructure organisations:
+
+The US government had earlier published another advisory about North Korean state-sponsored threat actors using AppleJeus malware to steal cryptocurrency.
+
+“North Korea has used AppleJeus malware posing as cryptocurrency trading platforms since at least 2018. In most instances, the malicious application—seen on both Windows and Mac operating systems—appears to be from a legitimate cryptocurrency trading company, thus fooling individuals into downloading it as a third-party application from a website that seems legitimate. In addition to infecting victims through legitimate-looking websites, HIDDEN COBRA actors also use phishing, social networking, and social engineering techniques to lure users into downloading the malware,” the advisory had read.
+
+Also Read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,29 @@
+Abhinav Srivastav, the Ola employee and co-founder of Qarth Technologies, was arrested by the Bangalore City Police on the 1st of August 2017. The preliminary investigation of the Bangalore Police has revealed that Srivastava accessed and made available UIDAI data through the “Aadhaar e-KYC verification” application. More importantly, this was done through the “e-Hospital” application and its server.
+
+Here’s what we know from the Bangalore Police Press Release:
+
+1. The e-Hospital app accessed eKYC data of Aadhaar: The only eHospital app we could find on the Google Play store is run by the Government of India. It’s an Online Registration System (ORS).  The description of the app says that application was hosted on the cloud services of NIC, and used eKYC of Aadhaar to get patient data. Here’s the full description (Note: the highlights are ours):
+
+ORS is a framework to link various hospitals across the country for Aadhaar based online registration and appointment system, where counter based OPD registration and appointment system through Hospital Management Information System (HMIS) has been digitalized. The application has been hosted on the cloud services of NIC . Portal facilitates online appointments with various departments of different Hospitals using eKYC data of Aadhaar number, if patient’s mobile number is registered with UIDAI. And in case mobile number is not registered with UIDAI it uses patient’s name. New Patient will get appointment as well as Unique Health Identification (UHID) number . If Aadhaar number is already linked with UHID number, then appointment number will be given and UHID will remain same.
+
+2. NIC at fault but not being prosecuted? It appears that an initial New Indian Express report that NIC was at fault for allowing this unauthorised access may be correct. Biometric data may not have been accessed, but eKYC data available on the NIC server, was accessible by the app, as per the police’s preliminary findings.
+
+3. Ola may not be out of it yet: The Bangalore Police statement can suggest that there’s wriggle room out of this for Ola, which had acquired Qarth Technologies. In the sense that it can always be said that Srivastav was working on this on his own time, outside of his employment at Ola, as is being reported in the Indian Express , which cite unnamed sources saying:
+
+“according to people associated with the firm he had founded, his present employer, and those close to the alleged hacker. The app is not a property of either taxi hailing firm Ola (ANI Technologies Ltd), where he is now employed, or his own start-up Qarth Technologies, which Ola had acquired in March 2016, they said.”
+
+Ola had denied any involvement when the news of the FIR first surfaced, saying: “Ola has neither commissioned nor is involved in any such activity. No such complaint has been brought to our notice.”
+
+However, another Indian Express story also stated that the app was placed on the Google Play Store “with the claim that it was developed by an entity called myGov, linked to the start-up Qarth Technologies.”
+
+Whatever sources might say, in the end, it will boil down to whether the authorities want to prosecute Qarth (and thus Ola) or not, and whether there is evidence that the application was published by Qarth, or it could be proved that Srivastav linked the app to Qarth without the company’s knowledge or consent.
+
+4. The eHospital app is listed on the Google Play by Mobile Seva, a government of India initiative for mobile governance. Mobile Seva has around 250 (yes, two hundred and fifty) apps on the Google Play Store. Many of these are apps not related to services, but to information, like Delhi University education guides. Mobile Seva has its own app store, which lists the e-Hospital app. The developer of this app: “DeitY, Ministry of communication and IT”. According to the site. The number of downloads listed: 51,584 via the Google Play Store, and 1,659 via the Mobile Seva app store.
+
+We’re wondering about how many of these apps use eKYC data, and whether any leaks are happening there.
+
+More points in our previous story on the Qarth case .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

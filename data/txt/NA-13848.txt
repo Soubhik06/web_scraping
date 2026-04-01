@@ -1,0 +1,65 @@
+On September 15, 2025, the Reserve Bank of India (RBI) issued its final Master Direction on Regulation of Payment Aggregators (PAs) . The guidelines consolidate and replace earlier rules from 2020, 2021, and 2023, and apply to both bank and non-banking entities engaged in the aggregation of payments.
+
+The framework covers authorisation procedures, capital requirements, governance, risk management, security controls, KYC and due diligence, settlement of funds, escrow account operations, and reporting obligations.
+
+Furthermore, the RBI classified payment aggregators into three categories: PA–Physical (PA–P), which handle in-person transactions; PA–Online (PA–O), which process digital and remote payments; and PA–Cross Border (PA–CB), which facilitate inward and outward international transactions under FEMA regulations.
+
+Notably, banks do not require authorisation to carry out PA business. However,  non-banking PAs need to secure authorisation from the RBI, maintain a minimum net worth of Rs 15 crore at the time of application and Rs 25 crore for the next three years, and adhere to due diligence and escrow account norms.
+
+They also direct PAs to establish dispute resolution systems, implement strong information security frameworks, and comply with prescribed reporting timelines.
+
+The guidelines require PAs to put in place information and data security systems, adopt board-approved information security policies, and ensure that their merchants’ infrastructure complies with international standards such as the Payment Card Industry Data Security Standard (PCI-DSS) and Payment Application Data Security Standard (PA-DSS).
+
+In addition, PAs must maintain strong fraud detection and prevention systems to protect customers from misuse of digital payment channels.
+
+The RBI mandates that every PA must conduct an annual system and cybersecurity audit through CERT-In empanelled auditors, and submit reports to the central bank within timelines it prescribes.
+
+Furthermore, PAs must comply with the broader framework on cyber resilience and digital payment security controls issued in 2024. They are also required to report cybersecurity incidents to the RBI without delay.
+
+Additionally, in Annexure 1, the RBI outlines baseline technology-related recommendations that are mandatory for PAs. These include carrying out regular risk assessments, maintaining an enterprise-wide information security policy reviewed annually, and conducting vulnerability and penetration tests.
+
+The recommendations also cover vendor risk management, ensuring data sovereignty, preparing cyber crisis management plans, and implementing forensic readiness to detect and analyse security events.
+
+Additionally, PAs must ensure cardholder data is not stored on merchant servers, and that all refunds are processed in line with the original payment method.
+
+The central bank directed PAs to establish a mechanism for resolving payment-related disputes, including refunds, and to comply with the turnaround times already issued for failed transactions. Moreover, PAs must assign proper reason codes, respond to chargebacks, and address disputes raised against their onboarded merchants.
+
+In addition, agreements between PAs, their merchants, acquiring banks, and other stakeholders must clearly define roles and responsibilities, covering refunds, return policies, reconciliation, and grievance redressal.
+
+The RBI also required PAs to disclose detailed information on merchant policies, privacy practices, and terms of service on their websites or mobile applications.
+
+Furthermore, each PA must appoint an officer responsible for responding to merchant complaints, put in place an escalation matrix, and display the officer’s contact details prominently.
+
+The RBI mandates that non-banking PAs maintain funds collected on behalf of merchants in a separate escrow account with a Scheduled Commercial Bank (SCB). In case of cross-border activity, they must open Inward Collection Accounts (InCAs) for inward transactions and Outward Collection Accounts (OCAs) for outward transactions. Importantly, such accounts may only be used for authorised PA business, and not for any other purpose.
+
+Furthermore, the RBI allows one additional escrow account at a different bank, and requires that permitted credits include customer payments, transfers from other PAs, refunds, and pre-funding from merchants. Meanwhile, permitted debits include settlements to merchants, refunds to payers, and payments to other authorised PAs in the transaction flow.
+
+However, non-banking PAs cannot use escrow accounts for cash-on-delivery transactions, and no interest is payable on balances except on the “core portion” of domestic escrow accounts, as defined by the RBI. Additionally, PAs must ensure settlement timelines are transparently specified in agreements with merchants.
+
+Moreover, the RBI requires PAs to submit lists of onboarded merchants to their banks and to update them before initiating settlements. They must also obtain statutory auditor certificates on compliance with escrow rules, submit these to RBI on a quarterly and annual basis, and keep escrow accounts separate for domestic and cross-border activity.
+
+The guidelines directed PAs to carry out customer due diligence for all merchants. While onboarding, PAs must retrieve merchants’ KYC records from the Central KYC Records Registry (CKYCR) with their consent, and follow prescribed procedures if records are outdated or unavailable.
+
+Moreover, where a merchant’s turnover is below Rs 40 lakh or their export turnover is below Rs 5 lakh, PAs may adopt simplified checks, such as verifying PAN, conducting contact point verification, and obtaining officially valid documents.
+
+PAs must conduct background and antecedent checks on merchants, assign merchant category codes and terminal IDs, and credit funds only to merchants’ own accounts. The RBI also directs marketplaces onboarded by PAs to accept payments only for sellers registered on their platforms.
+
+Furthermore, PAs must monitor merchant transactions on an ongoing basis to confirm they match the merchant’s declared business profile. Non-banking PAs must also register with the Financial Intelligence Unit–India and comply with reporting obligations under the Prevention of Money Laundering Act, 2002.
+
+The RBI’s new framework for PAs matters because it sets uniform rules for a sector that handles large volumes of digital payments daily. By consolidating earlier circulars and expanding the scope to physical, online, and cross-border aggregators, the RBI has introduced clear compliance obligations across aspects related to governance, capital, security, and due diligence.
+
+Also, non-banking PAs must now seek authorisation, maintain minimum net worth levels, and operate escrow accounts under strict rules, thereby bringing greater accountability.
+
+The mandated security and fraud prevention measures, including annual cyber audits and prompt reporting of incidents, directly address risks in India’s fast-expanding digital economy.
+
+And, detailed KYC and merchant due diligence requirements, along with restrictions on marketplace payments, strengthen safeguards against fraud and money laundering.
+
+Notably, effective regulation of payment aggregators is important because these entities sit at the centre of the digital commerce landscape, handling payments between millions of customers and merchants.
+
+Without clear rules, gaps in due diligence, settlement practices, or cybersecurity could expose the financial system to fraud and operational risks.
+
+Also Read :
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

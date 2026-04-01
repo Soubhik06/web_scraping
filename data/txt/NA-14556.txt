@@ -1,0 +1,23 @@
+Cybersecurity research firm Bitdefender has revealed how cybercriminals are reportedly using Facebook’s advertising platform to promote fake versions of popular generative AI tools, including OpenAI’s Sora, DALL-E, ChatGPT 5, and Midjourney, according to an Indian Express article. These malicious Facebook ads aim to lure unsuspecting users into downloading malware-laden software, leading to the theft of sensitive information.
+
+According to the report, hackers are hijacking existing Facebook pages of popular generative AI tools like Midjourney to impersonate their AI services, making false claims about “limited-time access” to new features and offerings. The malicious Facebook ads then direct users to join the corresponding Facebook communities, where they are asked to download “desktop versions” of the AI tools.
+
+However, these downloads are Windows executables packed with viruses such as Rilide, Nova, Vidar, and IceRAT, which are known for their ability to steal sensitive users’ data, including stored credentials, cryptocurrency wallet information, and credit card details. This user data is then sold on the dark web or sometimes used by the hackers themselves to commit financial crimes.
+
+The extent of the cybercrime doesn’t stop at creating fake Facebook ads and hacking Facebook pages; it has extended to creating multiple websites to avoid using Dropbox and Google Drive, making the downloads seem legitimate, reports the Hindu . The hackers who used Facebook communities to ask people to download the AI tools are also promoting NFT art and monetizing their creations. They are using a GoFile link to do these scams through a fake Midjourney landing page.
+
+According to the analysis conducted by Bitdefender experts, hackers have attempted to create several fake Facebook pages to deliver these malicious ads, following the success of one particular fake Midjourney Facebook page, which had 1.2 million active followers until it was shut down on March 8, 2024.
+
+The report further underlined that the targets of these scams were Facebook users based in Sweden, Romania, Belgium, Germany, Italy, France, Poland, Spain, the Netherlands, and others. Tracking Meta’s Ad Library catalog, it was discovered that the Midjourney fake Facebook ads reached 500,000 people, with their initial target being male users from Europe aged 25-55.
+
+Bitdefender stated in the report that the hackers have established a distribution system for the malware software “through the Malware-as-a-Service (MaaS) business model that enables any malicious individual to conduct cost-efficient attacks,” such as stealing sensitive users’ data, compromising online accounts, demanding ransom after encrypting data, and committing fraud.
+
+In this context, it’s worth mentioning how Google sued scammers in 2023 who used fake bard ads to spread malware. In this case as well, the scammers impersonated official Google communication channels to lure people into downloading free AI products from the tech giant.
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

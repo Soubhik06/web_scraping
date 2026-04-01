@@ -1,0 +1,19 @@
+SUBREDDIT: r/Scams
+TITLE: Call from "Amazon" asking for One Time Passcode to "prevent" fraudulent charge
+DATE: 2024-06-29
+SCORE: 17
+URL: https://www.reddit.com/r/Scams/comments/1dqri4a/call_from_amazon_asking_for_one_time_passcode_to/
+
+--- POST TEXT ---
+
+So I get a call to saying "We have noticed a $713 charge for an IPhone 13 to your Amazon account - press 1 if this was not you".
+
+I press 1, and get directed to some Indian-accented call center. 
+
+Guy on the other end claims to be Amazon employee - but is "unable to access" any info about my account (email, username, etc). He says they need to verify me, and a couple seconds later I get a text from phone number 78000 saying "\*\*\*\*\*\* is your Amazon OTP. Do not share it with anyone". He's very adamant that this is not a scam, and he's just trying to save my hard earned money! When I hint that I might give him the code if he just tells me what my username/email is - he doesn't give that info - leading me to think he actually doesn't have it. 
+ 
+Anyway, obviously I don't give him the OTP, and I've changed my account password just in case, but I want to understand how this works.
+
+It looks like they don't need my password - you can just get Amazon to send me this OTP message to any phone number by just entering my phone number and "sign in with passcode". And if I enter it I just get logged in to my amazon account -- Which seems like horribly bad security but whatever...
+
+My question is - what happens next when they get the OTP ... they just order something to some address and then sell that thing somewhere else? Is there a way they can access my CC info just by being logged in to my amazon account? How do they not get shut down if they presumably have to send stuff to a physical access to make any money? I assume the scam involves someone operating within the country (Canada) and picking up the delivery, or can they just deliver to some address in India?

@@ -1,0 +1,51 @@
+“I think the current proportionality test in the [Supreme Court’s] Puttuswamy judgment is pretty helpful [in deciding what are reasonable state infringements on privacy],” noted advocate Vrinda Bhandari at our “ Exploring User Verification ” roundtable last Thursday. “I actually think that what we’re seeing is that courts are not applying the proportionality test. If they do, a lot of our answers [on privacy in India] will be solved without coming up with a new framework [to figure the extent of privacy violations].”
+
+Bhandari was responding to an innovative framework that helps decide when verification of users online for security reasons is necessary and proportionate, presented by Varun Sen Bahl, from NASSCOM. As Bahl and Bhandari suggested, limiting verification online to only when necessary could help protect fundamental rights to privacy and speech online.
+
+Read: Can We Map A Framework For Verification? Varun Bahl On A Model For Proportionality #NAMA
+
+The 2017 judgment —which reaffirmed privacy as a fundamental right—laid out tests to determine the legitimacy of state incursions of privacy. The intrusion could only happen if backed by a law justifying it. It would have to be in pursuit of a “legitimate state aim”. Finally, the privacy violation would have to be proportionate—there should be ”a rational nexus between the objects and the means adopted to achieve them”.
+
+“We’ve also added another prong to the proportionality test since 2021,” added advocate Prasanna S. “When the state comes up with a new policy that clearly engages a fundamental right, the policy should have inbuilt safeguards against the measure being abusive. The [accountability] burden on the state is theoretically much higher [now].”
+
+MediaNama hosted this discussion with support from Meta and Truecaller. The Internet Freedom Foundation, CUTS International, Centre for Internet and Society, and the Centre for Communication Governance at the National Law University, Delhi, were MediaNama’s community partners for this event.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with top stories from MediaNama and around the world, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Why are courts not picking up the proportionality test? : Lawyers are arguing with the proportionality test in courts, Bhandari noted. But, courts are yet to fully engage with it.
+
+For example, the Supreme Court didn’t use the test in 2020’s Anuradha Bhasin ruling, which challenged prolonged Internet shutdowns in Kashmir. “We went to Court and said this was disproportionate, our petitions had this detailed proportionality assessment,” said Bhandari. “The Court simply said that all [Internet suspension] orders should be published. Then, when the orders were challenged, it set up a Special Committee to look into the matter. Then we went [to Court] in contempt, saying the committee isn’t looking at the evidence.”
+
+Courts also avoid engaging with the test because they decide cases based on specific arguments, Bhandari suggested.
+
+“That’s actually why the live streaming [of proceedings] and putting up petitions online is good, because at least there is a factual record [of all the arguments that were made],” Bhandari explained. “But, if you see the Anuradha Bhasin case, the Court doesn’t hold any Internet shutdown order to be unconstitutional. That’s because it’s a huge decision that we are seeking, with huge political implications. Courts want to punt that decision down the road…it’s just easier for somebody else to take that responsibility, because these issues have serious legal repercussions. Our petitions are not being decided because nobody wants to decide these very difficult issues.”
+
+But, the proportionality test doesn’t always work well : “The problem that comes up in many of these tests that the courts devise is that the government sometimes is permitted to identify an object other than the one you think it should be,” noted Lalit Panda, Senior Resident Fellow at the Vidhi Centre for Legal Policy. “Proportionality can be bypassed by [the courts] simply weighing things wrong, or by identifying objectives the wrong way, in an exclusionary way or in too broad a way.”
+
+Panda recalled the Supreme Court’s 2018 judgment upholding the constitutionality of the Aadhaar Act and its “legislative passage as a Money Bill”. Petitioners had challenged the Aadhaar system’s privacy infringements. They also questioned whether “it was legal to mandate the use of Aadhaar to receive government subsidies given the possibilities of exclusion of beneficiaries”.
+
+“With Aadhaar, one of the problems that I understand has come in is that the object was identified by the Court as the creation of a unique identity,” Panda explained. “Once it had accepted this….and not any other kind of identification..it didn’t even conceive of the idea that uniqueness and identification run along the spectrum. It chose not to pick another objective, which is one that we normally understand, the objective of preventing pilferage and duplication. If they chose this as the objective, the necessity prong [on whether Aadhaar was needed to counter pilferage] could be activated better. My point is that the court should select objectives, not leave it to the government to select them.
+
+The Court also fell short in the Aadhaar judgment when discerning whether harm happened disproportionately, Panda added, “It can’t just be simple balancing—pre-existing rules exist to categorise the kinds of harms that could come in. One [case] is data sensitivity. Instead of treating biometrics as sensitive personal data, as it is considered universally, the Court said biometrics are available in other places too. So, biometrics [security and privacy-related issues] do not deserve as much weightage in the balancing.”
+
+Prasanna disagreed with Panda’s reading of the Aadhaar verdict, recalling that the Court had identified pilferage and leaking funds as objectives in the Aadhaar case. “That’s the reason that the Court upheld the Aadhaar bill as a Money Bill…It also went ahead and said that the alternatives [to Aadhaar] were not as equally efficacious because they don’t achieve uniqueness. I don’t think they took unique identification as a purpose.”
+
+Having said that, the judgment’s approach to whether there was a legitimate purpose for Aadhaar was disappointing, Prasanna concluded. “The legitimate state purpose itself cannot be creating a general purpose database [under Aadhaar],” Prasanna argued. “Data [being used] for a function is permissible under the Puttaswamy test. Data itself as a state function, or the databasing as a state function, is not permissible under the test, as we understood it. But obviously, we were not successful in persuading the court of that in 2018.”
+
+So, when have courts used the test then? : One example where proportionality was applied by the Supreme Court was in the 2020 cryptocurrency judgment . “The Court actually says that the Reserve Bank of India has not presented any empirical data to demonstrate why shutting down that entire banking system was necessary,” Bhandari recalled. “Another great example is the Aadhaar-bank linking issue , where the Supreme Court said [in 2018 that the government’s argument] that the government had to show that money laundering is such an issue that the answer to it can only be linking your bank account to your Aadhaar. The ‘ritualistic incantation’ of money laundering [by the government] wasn’t enough to justify linking, and we saw the Court struck down that.”
+
+“Also, you cannot start from the presumption that everyone is a money launderer,” Prasanna added. “So if you think about all the verification rules [in contrast], they have an inbuilt presumption that everybody is a potential criminal.”
+
+This verification mandate also differs from how other countries are approaching security online. “The approach taken with the United Kingdom’s Online Safety Bill is that service providers are obliged to do a risk assessment relating to the content,” argued Vijayant Singh, Principal Associate at Ikigai Law.  “They then develop proportionate measures on managing content and identity on the platforms…This is in contrast to what’s happening in India, where it’s more prescriptive, and service providers are being told to conduct verification.”
+
+Does the idea of proportionality itself need to change? : “Even though proportionality is a very rich idea, the first blush proportionality [test] is a very quantitative idea,” Prasanna noted. “Many judges may think they’re just doing a balancing act [using it]. So, that’s why some of us are rethinking whether we want this overdose of proportionality, or to harp back to earlier, richer, more creative expressions of reasonableness.”
+
+Note: this piece was updated at 4:40 pm on 31/03/2023 to correct typographical errors.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Read more
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

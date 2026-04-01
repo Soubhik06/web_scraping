@@ -1,0 +1,47 @@
+The Supreme Court ruling scrapping Section 57 of the Aadhaar Act has had downstream impacts on Aadhaar-based technology solutions. Recently, the National Payments Corporation of India (NPCI) in a circular to its National Automated Clearing House (NACH) member banks announced discontinuation of Aadhaar eSign-based Mandates, citing the Supreme Court judgement. Digital lenders are upset as this increases cost of collections, but is the Supreme Court ruling on Aadhaar the only reason?
+
+Here we look at eSigned Mandates in detail, their weaknesses, regulatory position, and impact on banks, to understand the bigger picture.
+
+NPCI, a private non-profit entity jointly owned by banks, operates NACH, an improved version of the Electronic Clearing System (ECS) which is operated by Reserve Bank of India (RBI) and commercial banks. NACH processes Mandates that enable automatic recurring inter-bank debit/credit transactions to enable standing instructions for payments. Traditionally, paper-based mandates, using cheques, were processed by both ECS and NACH. Being based on paper, they incur handling costs, take time to process, and suffer from problems such as signature mismatches that are only caught after costs are incurred.
+
+In May 2017, NPCI announced they were now processing the eSign variant of mandates . It allowed banks and corporates to obtain a mandate signed electronically using Aadhaar eSign. This is recognized as valid form of digital signature by CCA, and the 2015 amendments to Negotiable Instruments Act mean digital lenders will get the same protection against mandate bounces as cheque bounces due to insufficient funds.
+
+There were techno-legal issues with eSign independent of the legal challenge to Aadhaar, and technological weaknesses in Aadhaar that posed a severe risk to users and uncertainty to businesses.
+
+But NPCI’s launch of eSign-based mandates might have provided confidence for startups to use the technology, without bothering about palpable legal and technological risk.
+
+In March 2018, Moneycontrol reported an incident where a Delhi-based coaching centre, while ostensibly performing eKYC, in reality acquired an eSigned Mandate for a loan from a digital lender to the individual, disbursed directly to the coaching centre.
+
+The lack of perceptible difference between verification of identity (Aadhaar authentication), approval to share KYC data (Aadhaar eKYC), authorisation (Aadhaar eSign), and financial authorisation (Aadhaar eSign based Mandates) is how such a fraud can be pulled off. The individual is not notified of the context for Aadhaar authentication, and a single OTP can do any of the above, thereby putting every Aadhaar holder at deep risk.
+
+Despite the known risk and reports of misuse, regulatory silence continued, and so did the usage of eSigned Mandates.
+
+The mainstream narrative behind the shutdown of eSign based Mandates is that it has been determined necessary in order to maintain compliance with the Supreme Court ruling on Aadhaar. While there may be some connect, there are multiple other factors as well.
+
+If banks or even NPCI were so concerned about complying with Supreme Court judgement, why was there no change in the practice for using eKYC for account creation, or in continuing Aadhaar-enabled Payment System (AePS) for MicroATM and AadhaarPay? The reason for selective takedown of eSign based Mandates could be a combination of any of the reasons listed below.
+
+It is surprising that fintechs are crying foul when it was explicitly clear that there was no regulatory approval ever for use of eSign Mandates. It is common knowledge that RBI was silent because of ongoing cases on Aadhaar, and any regulation explicitly approving Aadhaar-based technologies exposes itself to a legal challenge.
+
+Promoters may say that RBI’s lack of prohibition makes it legal. But the failure of police in enforcing anti-smoking laws in public places does not make smoking in public places legal. The legal teams of fintech startups and venture capital funds ought to have performed their due diligence instead of taking the advice of think tanks that have their own agenda and interests.
+
+NPCI’s role in this space is often misunderstood and needs repeated clarification. NPCI is a state friendly, multi payment systems operator and retail payments organization (duly captured/disproportionately influenced by some lobbies) that is jointly owned by several banks and primarily tasked with settlements and with operating authorized (and unauthorized) payment systems and infrastructure, which are (supposed to be) regulated by (a friendly payments regulator) RBI under the Payments and Settlements Act, 2007 (PSS2007) and Payments and Settlement Systems Regulations, 2008 .
+
+It is important for startups to ensure that payment rails they use comply with PSS2007. A startup could sell an “NPCI-compliant eNACH solution”, but being NPCI-compliant does not mean it is legal. While NPCI could argue that eNACH is a feature on NACH and does not constitute a payment system, it is a fact that RBI has given no approval (not even an ‘in-principle’ approval) for operating eNACH. eNACH is also not consistent with RBI’s ECS debit procedural guidelines which is mute about digital signatures, alternate use cases of netbanking, and debit card-based authorization. NPCI might have eNACH guidelines, but those are not valid from regulatory perspective as per clause 10 of ECS Debit procedural guidelines issued by RBI.
+
+[embeddoc url=”https://www.medianama.com/wp-content/uploads/RBI-logic-crosspot.pdf” download=”none”]
+
+RBI has failed to protect the consumer and regulate the market even after a reported fraud. NPCI’s operation of eNACH without approval from RBI violates PSS 2007. The proposed alternatives of using netbanking and debit cards will also be a violation if RBI does not update procedural guidelines for ECS debit, and NPCI does not get authorization to operate eNACH from the payments regulator — which is currently the RBI.
+
+For reference, the author has added:
+
+**
+
+Cashless Consumer publishes PaymentsTransparency series based on RTI responses to queries to improve transparency in payments regulation and help consumers better understand, track regulation, policy making and their impact, both desired and actual.
+
+**
+
+Disclaimer: The views and opinions expressed in this guest post are those of the author and do not necessarily reflect the policy or position of MediaNama. Edit: This article has been crossposted with permission from the author. It was originally published on Kaarana.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

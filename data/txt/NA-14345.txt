@@ -1,0 +1,51 @@
+The phones of at least 30 Thai individuals were infected with the NSO Group’s Pegasus spyware, a new report by Citizen Lab, iLaw, and Digital Reach reveals. The attacks occurred between October 2020 to November 2021, according to the researchers. They largely targeted members of Thailand’s pro-democracy movement , which is currently rallying against the military and monarchy’s dual influence and control over governance.
+
+Why it matters : While the Thai government has previously denied state-sponsored invasions of its citizen’s privacy, after the Pegasus allegations broke this week, a Minister admitted to ‘using surveillance software to track individuals in cases involving national security or drugs.’ This points to a worrying narrowing of free speech online across Southeast and South Asia to monitor dissidents and curb dissent—not just through illicit spyware, but through sweeping legislation as well. India, whose government has allegedly used the spyware against civil society members, is no outlier in this regard. The report also highlights what it believes to be the NSO Group’s ‘failure to respect human rights abroad, despite the internationally- recognized responsibility of private sector actors not only “to respect and protect human rights,” but also to “provide remedy for rights violations, regardless of whether governments are able or willing to protect these rights”.’
+
+Those targeted, including protestors, lawyers, musicians, and actors, have often been repeatedly arrested for either criticising the government or monarchy. The investigation further revealed that the attacks also targeted individuals ‘not publicly involved in the protests’ too. Two ‘ zero-click exploits’ were used to infect the examined phones.
+
+The report speculates that the attacks may reveal a desire to understand ‘how opposition movements were organized’ in the country. While it does not claim that the Thai government was directly involved in the attacks, it asserts that there is reason to believe that some government ‘operators’ may have been behind them. For example, the victims were of ‘intense interest’ to the State, while the infections coincided with political churn in the country. Additionally, the report claims that there is long-standing evidence indicating the Thai government’s use of Pegasus, dating back to as early as 2014.
+
+The last few years have seen a wave of pro-democracy protests across Thailand challenging its ‘military-appointed’ government and pro-monarchy defamation laws. The country has seen two military coups in the last two decades while ‘democratic’ elections in 2019 only institutionalised military power in the government, the report argues.
+
+Arresting protestors has been the Thai government’s main strategy to curb the pro-democracy protests, suggests the report. Common charges include Section 112 of the Thailand Criminal Code —also known as a ‘lèse-majesté’ law, it criminalises ‘insults and defamation’ against the Thai monarchy. The use of Section 112 against those critical of the government has been critiqued by international observers. Article 215 of the Code, which criminalises ‘illegal assemblies’, is also a popular government tool to clamp dissent.
+
+“Fire is catching”
+
+Hundreds of Thai citizens in Bangkok hold up the three-finger salute as a sign of defiance and as reference to Katniss Everdeen from The Hunger Games.
+
+Thailand has declared a state of emergency following a massive anti-government protest. ?AFP pic.twitter.com/IQVCeHJAJp
+
+— Philstar.com (@PhilstarNews) October 16, 2020
+
+The report builds on alerts sent by Apple to civil society members in Thailand in November 2021, warning them that their iPhones may be the target of a ‘state-sponsored’ attack. To check if a Pegasus infection had taken place, Citizen Lab performed a ‘technical analysis’ of forensic evidence gathered from some of these phones, in conjunction with iLaw and Digital Reach. Its analysis was independently scrutinised by Amnesty International’s Security Lab, which reportedly concurred with the findings.
+
+Who Was Targeted by Pegasus?
+
+Members of pro-democracy collectives in Thailand were targeted by Pegasus, including:
+
+Individuals who supported the protests were also targeted, including:
+
+A list of the individuals targeted by Pegasus in Thailand as per the report can be found here .
+
+Has the Junta Impacted Internet, Privacy, and Surveillance in Thailand?
+
+The report argues that the 2006 and 2014 coups have ushered in ‘new laws and policies that transformed the Internet’s role as a platform for political exchanges and debates [in Thailand].’ What this means: military rule and influence have produced sweeping legislation that silences dissent online. Unsurprisingly, these laws appear to have minimal checks and balances in place to prevent their misuse.
+
+The first law passed by the ‘military-appointed legislature’ post the 2006 coup was 2007’s Computer-Related Crime Act B.E 2550 (CCA). The law was amended in 2017 to control ‘inappropriate’ content online that ‘defamed’ the monarchy—it now gave the government powers to prosecute ‘false’ information online. Amendments also required ISPs to retain user data so as ‘to identify the service user from the beginning of the service provision.’
+
+In 2017, Thailand’s new Constitution also ‘introduced new structures for the military to intervene in politics,’ according to the report. This included establishing a new Internal Security Operations Command (ISOC) with local divisions in each of Thailand’s provinces. In 2019, the ‘military-appointed parliament’ passed the Cybersecurity Act and National Intelligence Act . Through ‘broad and vague language’, these laws allegedly give the Thai government ‘unaccountable’ oversight over Thai users of the Internet and their data. While the Personal Data Protection Act was passed in 2019, echoing India’s iteration of a similar law, the report argues that it grants the State many exemptions to honouring data protection, especially in the case of ‘national security’.
+
+In 2015, the Thai government also announced a proposal to ‘merge all gateways to the global Internet from Thailand into a single entity’, to supposedly stem an influx of ‘inappropriate’ information. The proposal, which was junked after public criticism, saw renewed support from Thailand’s Digital Economy and Society Minister earlier this year, for its supposed ability to prevent cybercrimes and protect ‘national security’. Social media companies have also been ordered to take down content critical of the government, reports claim.
+
+Surveillance has also reared its head in the Southern Border Provinces , dominated by minority Malay Muslims. Mobile Service Providers require users here to provide biometric data while registering, while over 8,000 AI-enabled ‘surveillance cameras’ are set to be installed in the area.
+
+Previous research by Citizen Lab from 2020 suggests that around three government agencies purchased ‘Circles’, a phone interception software similar to Pegasus that is ‘affiliated with the NSO group’. The agencies identified were the Narcotics Suppression Bureau, the Military Intelligence Battalion, and the ISOC run by the Thai Army.
+
+Additionally, conservative or ‘royalist’ Thais, as well as collectives like the ‘Garbage Collecting Organization,’ often monitor the Internet for ‘potential lèse-majesté violations,’ says the report. Some of these ‘violations’ have been reported to the police.
+
+Read More
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

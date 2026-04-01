@@ -1,0 +1,29 @@
+The Indian government has issued a serious warning after 16 billion login credentials were found leaked on the internet. These include usernames, passwords, session cookies, and authentication tokens from popular platforms like Apple, Google, Facebook, Telegram, GitHub, and many Virtual Private Network (VPN) services. CERT-In (Indian Computer Emergency Response Team), the country’s top cybersecurity agency, issued the warning on June 23, 2025.
+
+The advisory highlights the risks users face from this massive data exposure. It aligns with findings reported by Forbes , where cybersecurity researchers confirmed that hackers compiled 30 massive datasets, many previously unknown, into a “super dump” of fresh, actionable credentials.
+
+According to CERT-In, the leaked data came from two main sources:
+
+Attackers collected the data from 30 different sources, making this breach a combination of multiple smaller leaks rather than a single incident. Together, they formed a massive list of sensitive information, which is now circulating on the internet, including parts of the dark web.
+
+This type of data leak poses a serious threat, as attackers can misuse the stolen information in multiple ways:
+
+CERT-In has suggested steps for both individual users and organisations to reduce the risk of harm:
+
+Following global trends, tech giants like Google and Facebook are urging users to adopt passkeys, a more secure alternative to passwords. This shift comes in response to the growing threat of credential-based attacks. Even the FBI has recently warned U.S. citizens of phishing campaigns and 2FA bypasses that mirror the risks highlighted in CERT-In’s advisory.
+
+Hackers have compiled and exposed 16 billion stolen credentials, making it one of the largest known login data leaks in recent years. This massive breach directly threatens millions of users worldwide, including in India, as attackers can use the leaked information to break into personal, financial, and business accounts, leading to privacy violations, identity theft, and financial fraud.
+
+Similar incidents have happened before. In 2019, the “ Collection #1–5″ dump exposed over 2.2 billion credentials from various breaches . In 2021, Facebook saw the personal data of 530 million users, including many Indians, published online. Closer to home, platforms like Unacademy and Air India have also suffered significant breaches, compromising the data of millions of Indian users.
+
+What makes this breach especially serious is the scale and method of collection. Hackers gathered the data from various malware attacks and unsecured databases, showing both malicious intent and careless data handling. In many cases, the fault lies with negligent platform operators who failed to protect user data or properly configure cloud services. At the same time, cybercriminals have become more sophisticated, using infostealers to quietly siphon data from millions of machines. George McGregor of Approov described it to Forbes as “the first domino, leading to a cascade of potential cyberattacks.”
+
+Even among experts, there’s disagreement on who bears responsibility. Paul Walsh , CEO of MetaCert, told Forbes, “That’s pure BS from security vendors who still don’t know how to protect their customers from phishing attacks and then blame people for not becoming security pros.” While security awareness helps, he argues, the burden should lie more on platforms to prevent breaches in the first place.
+
+In India, low awareness about digital hygiene and weak enforcement of cybersecurity norms worsen the situation. Many users still reuse passwords, ignore multi-factor authentication, or fall for phishing links. The lack of accountability among platforms handling sensitive data also makes recovery harder when leaks happen.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

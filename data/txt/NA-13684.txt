@@ -1,0 +1,27 @@
+The Securities and Exchange Board of India (SEBI) has directed registered intermediaries to adopt new UPI IDs that include the “@valid” handle to combat trading frauds. Investor-facing intermediaries, including brokers, research analysts, investment advisers, mutual funds, and others, must acquire these UPI addresses starting October 1, 2025.
+
+Alongside this, SEBI is mulling a tool termed ‘SEBI Check’ to provide an “additional layer of security.” Using this tool, investors will be able to verify the authenticity of UPI IDs either by scanning a QR code or by manually entering the ID. The service will also allow investors to confirm the intermediary’s bank details, including the account number and Indian Financial System Code (IFSC).
+
+SEBI’s mandate follows a draft circular on “Safe and Efficient Transfers on UPI” issued in January 2025. In a press release announcing the move, the market regulator stated that the mechanism would curb the growing issue of impersonation and enhance investor confidence. It noted that unregistered entities often mislead investors by collecting funds without authorization and siphoning money for personal gain. The new framework, SEBI claims, will improve the “safety and accessibility of financial transactions by providing a verified and secure payment channel.”
+
+For context , SEBI initially launched UPI in the securities market in 2019 for purchasing shares during Initial Public Offerings (IPOs).
+
+Using this mechanism, investors can transfer funds into the verified bank accounts of SEBI-registered intermediaries. However, intermediaries are not permitted to use these UPI addresses for any activities other than payment collection.
+
+Handle allocation: Self-certified syndicate banks must initiate requests for issuing new handles through the National Payments Corporation of India (NPCI), following the prevailing handle issuance policy at NPCI.
+
+Structure: The UPI address will consist of two components—a username (an alphanumeric ID with an abbreviation representing the intermediary segment, like ‘.brk’ for brokers) and the ‘@valid’ handle. For example, a broker might have a UPI address such as ‘abc.brk@validhdfc’.
+
+Authorised entities: Payments made to registered market intermediaries using the above UPI handle will display an icon of a “thumbs-up inside a green triangle” for additional visual verification.
+
+Transaction limits: Reiterating its draft circular, SEBI has set an upper limit of Rs 5 lakh per day for capital market transactions via UPI, aligning with the NPCI’s prescribed range of Rs 2 lakh to Rs 5 lakh.
+
+Banks should obtain API access and issue the UPI ID only after verifying intermediaries. They should also undertake due diligence while issuing IDs.
+
+MIIs should initiate necessary changes to allow intermediaries to access the SI portal via them. Accordingly, they should create investor awareness about the new processes via communication modes and on their websites. For context, MIIs comprise stock exchanges and depositories that allow trading and settlement of securities, while RTAs provide services like share registry maintenance and transfer activities.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

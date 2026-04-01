@@ -1,0 +1,59 @@
+The India AI Impact Summit 2026 has now produced its most concrete outcome: a multilateral declaration backed by 89 countries and international organisations, alongside sectoral frameworks and geopolitical signals from the event that will shape AI governance debates this year.
+
+From the seven-pillar AI Impact Summit Declaration to Frontier AI Commitments, healthcare frameworks in India, and sharp divergences between the US and Europe on global oversight, the summit functioned as a live testing ground for competing models of AI regulation, deployment, and sovereignty.
+
+Here is a comprehensive breakdown of the declaration and the major policy announcements that emerged.
+
+The declaration, which was released on February 21, 2026, laid out seven pillars for international AI cooperation:
+
+Alongside the declaration, Union Minister for Electronics and IT Ashwini Vaishnaw on 19 February announced the New Delhi Frontier AI Commitments , a voluntary framework designed to bring frontier AI companies and Indian firms onto a common cooperation platform. He located the initiative within Indiaâs five-layer AI strategy, spanning applications, models, compute, talent and energy, and framed it as part of a broader push for technological democratisation and strategic autonomy.
+
+The commitments focus on generating anonymised and aggregated insights on real-world AI deployment, to inform policymaking around employment, productivity, and broader economic impact. In parallel, the framework seeks to strengthen multilingual and contextual evaluation by supporting the development of datasets and benchmarks for under-represented languages, positioning India as a testbed for more inclusive model assessment.
+
+Prime Minister Narendra Modi also spoke about child safety and synthetic media during his inauguration speech at the summit, arguing that the AI ecosystem must be âchild-safe and family-guidedâ. Drawing a parallel with formal education, he said that just as school syllabi are curated, the AI space must also be structured in ways that protect young users rather than leave exposure unchecked.
+
+On synthetic media and deepfakes, the Prime Minister called for global standards that would allow users to clearly distinguish between authentic and AI-generated content. He proposed authenticity labels for digital material, comparable to nutrition labels on food, so that manipulated or synthetic content is transparently identified at the point of consumption.
+
+The Ministry of Health and Family Welfare (MoHFW) introduced SAHI (Strategy for Artificial Intelligence in Healthcare for India) as a structured framework to guide AI deployment across public and private health systems.
+
+According to the framework, SAHI:
+
+Rather than creating a new AI law, SAHI anchors oversight within existing health-sector regulation.
+
+And alongside SAHI, the government rolled out BODH (Benchmarking Open Data Platform for Health AI) developed by IIT Kanpur with the National Health Authority (NHA). The platform is intended to:
+
+Read: Explained: How SAHI And BODH Shape AI Use In Indiaâs Healthcare
+
+At the India AI Impact Summit, the Digital India BHASHINI Division (DIBD) announced the launch of VoicERA, an open-source, end-to-end voice AI stack deployed on the national language infrastructure. Alongside it, the division released a policy report outlining how India should build an open and responsible voice technology ecosystem.
+
+The report recommends treating foundational speech datasets as digital public goods, backed by sustained public funding and prioritising low-resource and tribal languages. It also calls for clearer copyright and data protection guidance, including research exemptions and consent standards, and suggests examining whether a distinct lawful ground for AI processing is needed under data protection law. The report further recommends that publicly funded datasets should default to open access, subject to privacy and IP safeguards.
+
+To strengthen model development, the report urges the creation of nationally coordinated evaluation datasets and transparent leaderboards reflecting real-world conditions such as dialect variation and noisy environments. It also proposes pooling public compute into shared national clusters with subsidised access, linking preferential access to open-source commitments, and expanding compute credits and residency programmes.
+
+On infrastructure, it argues dataset hosting must be treated as durable public digital infrastructure, with mandatory documentation norms, harmonised metadata standards, version control, and long-term funding.
+
+Finally, it recommends embedding value-sharing mechanisms for communities, tightening licensing compliance, and combining technical, legal and literacy safeguards to mitigate misuse risks such as voice cloning and fraud.
+
+The United States used the summit to reiterate its opposition regarding multilateral AI oversight. Michael Kratsios, Assistant to the President and Director of the White House Office of Science and Technology Policy, said : âWe totally reject global governance of AI,â arguing that AI adoption cannot lead to a brighter future if it is subject to âbureaucracies and centralised controlâ.
+
+He maintained that AI policy âmust be localâ, focused on the âparticular needs and interests of particular peopleâ, and warned that international forums risk creating centralised management under the guise of safety. He described adoption as the âcritical bottleneckâ and called for âreal AI sovereigntyâ through rapid uptake of leading technology stacks.
+
+Kratsios then outlined four initiatives by the US government:
+
+At the India AI Impact Summit, French President Emmanuel Macron defended Europeâs regulatory approach to AI against US criticism that it stifles innovation. He pushed back directly, stating that, âOpposite to what some misinformed friends have been saying, Europe is not blindly focused on regulation. Europe is a space for innovation and investment, but it is a safe space, and safe spaces win in the long run.â
+
+Macron argued that protecting children from the harms of AI and digital abuse should be central to global policy discussions, framing Europeâs safeguards as both responsible and competitive. He linked the EUâs AI regulatory efforts with broader concerns about harmful content online, particularly in light of recent controversies like the Grok undressing scandal . He also noted that France is moving to ban social media use for children under the age of 15.
+
+In the coming weeks, MediaNama will continue publishing detailed coverage from the India AI Impact Summit, including interviews with policymakers, industry leaders, and experts to examine how these commitments translate into implementation.
+
+As the focus shifts from announcements to execution, we will track how the declaration, sectoral frameworks, and international commitments evolve, and where gaps begin to emerge. The real test now lies in enforcement, coordination, and follow-through.
+
+In the meantime, you can revisit all our reporting from the summit here .
+
+Thank you for reading this special edition newsletter tracking the policy developments from the India AI Impact Summit.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

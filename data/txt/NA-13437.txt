@@ -1,0 +1,51 @@
+The Unique Identification Authority of India (UIDAI) launched an innovation contest on October 16, inviting startups and researchers to come up with technical solutions to reduce fraudulent Aadhaar cards.
+
+Notably, the Ministry of Electronics and Information Technology’s (MeitY) Startup Hub (MSH) and NASSCOM have signed a Memorandum of Understanding (MoU) with UIDAI, and will act as strategic partners for furtherance of this innovation contest.
+
+To explain, the MSH will provide technical mentoring, incubation, and accelerator support, while NASSCOM will offer industry connections, global outreach, and entrepreneurial support.
+
+This contest, officially called the Scheme for Innovation and Technology Association with Aadhaar (SITAA) has three separate categories, including face liveliness detection, presentation attack detection and contactless fingerprint authentication.
+
+Importantly, the SITAA programme is accepting applications till November 15 from startups which are registered with the Department for Promotion of Industry and Internal Trade (DPIIT), and have at least 51% Indian ownership.
+
+Face liveness detection is a security technique that uses computer vision to verify if a person is physically present during identity authentication, rather than a spoofed image or a video.
+
+The UIDAI states that while authentication currently rests on active liveness detection like blink prompts, such strategies introduce user friction, increases drop-offs and are still vulnerable to sophisticated spoofing.
+
+The SITAA initiative invites startups to create a Software Development Kit (SDK) for face-liveness detection using passive and active methods.
+
+“To safeguard Aadhaar’s ecosystem, UIDAI requires a comprehensive liveness detection framework combining active and passive methods. Such a solution should reliably detect spoofing both at the time of enrolment and during authentication, across India-representative demographics, device classes, and operational environments,” said the project brief.
+
+Notably, liveness detection as a technology has its own problems, as a Supreme Court (SC) judgement earlier this year observed. Common prompts used during authentication like blinking don’t necessarily work for people with disabilities (PwD) or visual impairments, creating an unreasonable barrier while accessing important services.
+
+The court directed regulators and government entities to ensure that all Regulated Entities engaging in e-Know Your Customer (KYC) verification follow relevant accessibility guidelines, and undergo periodical accessibility audits. It also observed that the right to digital access is an intrinsic component of a person’s right to life and liberty.
+
+A presentation attack is an attempt to deceive a biometric security system with a manipulated photo, video or fingerprint. These can range from simple printed photographs to highly sophisticated deepfakes and adversarial AI manipulations.
+
+The UIDAI has invited startups to assess its existing measures against such attacks, and fix vulnerabilities with AI/ML models and related techniques.
+
+“The solution should be capable of real-time or near-real-time detection, function in varied field conditions (low-light, low-connectivity, device variability), and maintain a balance between detection sensitivity and user convenience,” said the brief.
+
+Contactless fingerprint authentication is the technique of verifying fingerprints through high-resolution cameras, without the need for fingerprint scanners.
+
+The UIDAI states that existing contact-based fingerprint authentication has issues like hygiene concerns in shared devices, limited fingerprint scanners, and hardware dependencies in rural and mobile use cases.
+
+“Contactless fingerprint authentication, leveraging standard mobile cameras and AI-driven enhancement, offers a hygienic and scalable alternative. It can enable touch-free capture, improve user convenience, and extend Aadhaar’s reach to rural and mobile contexts with minimal infrastructure dependency,” says the project brief.
+
+In this context, the UIDAI has invited startups to:
+
+Emerging technologies like AI present new risks of fraud and cyberattacks for identity authentication systems like UIDAI. Recently, opposition leaders in Maharashtra claimed to be able to create a fraudulent Aadhaar card for US President Donald Trump. And in 2017,  journalist Debayan Roy demonstrated how one person can obtain two separate Aadhaar enrolment numbers using the same biometric information.
+
+Importantly, UIDAI has been experimenting with different techniques to reduce fraud in the system. Earlier this year, it conducted a test run on the use of face authentication for verifying the identity of candidates during the National Eligibility cum Entrance Test (NEET-UG) examination.
+
+And the present innovation contest is most likely part of UIDAI’s attempts to move away from traditional fingerprint reader or iris-scanning based verification, and towards more advanced contactless facial recognition initiatives.
+
+And while preventing fraudulent Aadhaar registrations and authentication is important, biometric authentication measures (both contact-based and contactless) can result in false negatives/positives, and consequently risk the exclusion of people. Furthermore, AI-dependent authentication measures can turn out to be even less reliable than existing measures, as it is a relatively new technology
+
+Also Read:
+
+.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

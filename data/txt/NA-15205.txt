@@ -1,0 +1,65 @@
+What are the first steps a data protection officer should take, how should a company determine purpose limitation, how to engage with different stakeholders of the company, why is it important to view privacy as part of the DNA of a company, what steps should a company’s board take to support their data protection officer (DPO), and how to comply with data protection laws of various countries: these are some of the questions answered by chief privacy officers of various companies at MediaNama’s PrivacyNama 2023 conference held on October 26-27.
+
+This year’s conference was focused on understanding how to comply with India’s Digital Personal Data Protection (DPDP) Act, 2023 . The Act requires companies to implement various measures such as seeking the consent of users before collecting personal data, processing this data only for specified purposes, deleting personal data once the purpose is served, implementing safeguards to prevent data breaches, etc. Larger companies will also have to appoint a Data Protection Officer and auditor and carry out impact assessments. You can read more about all these obligations here .
+
+Also Read: Summary: India’s Digital Personal Data Protection (DPDP) Act, 2023
+
+The speakers in the Chief Privacy Officers Roundtable were Jagannath PV, Chief Privacy Officer, LTIMindtree; Vasudha Gupta, Chief Privacy Officer, Unlimit; and Bharat Saraf, Director, Privacy, PhonePe. The session was moderated by Rahul Narayan, Partner, Chandhiok and Mahajan.
+
+This discussion was organised with support from Meta, PhonePe, Google, and Salesforce and in partnership with CUTS, and the Centre for Communication Governance.
+
+Bharat Saraf and Vasudha Gupta laid out the following steps that a data protection officer should take from the get-go:
+
+Also Read: Who Should Be Asked To Give Consent On Behalf Of A Child? Speakers Debate During #PrivacyNama2023
+
+Both Jagannath P.V. and Bharat Saraf spoke at length about how privacy should be a part of the DNA of the company and not just be incorporated for the sake of compliance.
+
+“The minute you start looking at it as compliance, it becomes a tick in the checkbox, right? And that should not be the approach. […] So if an organization adopts privacy by design, you are adhering to privacy laws as well as taking measures before something happens.” – Jagannath P.V.
+
+While it was initially seen just as a compliance issue, the way it has evolved in jurisdictions around the world like the EU and Australia, it is now becoming more than just a compliance requirement, Saraf said. “Especially from an Indian standpoint, I think it is slowly moving from compliance to being the DNA of an organization because it is going to be a differentiator for every business to be privacy compliant and say that we are the leaders in privacy,” he added.
+
+Jagannath explained two concepts: privacy by default and privacy by design. “ As an example, when you roll out an application, there are certain measures that should have been there by default. So it could be password protection. And a strong password protection, that should be by default. And certain aspects should come in by design. So what are those aspects? Granular consent management. And then from a technology perspective, you bring in the aspects of encryption, pseudonymization, anonymization,” Jagannath explained.
+
+Bharat Saraf opined that the way to avoid being seen as someone hindering initiatives being developed by a company is to collaborate with the different teams. “So, whether that be a sales and marketing team, an engineering team, a business team, a product team. So you need to have that collaboration with each of these particular team members.”
+
+“For example, if there’s a product manager who is thinking about building a particular product, giving him insights as to what sort of data is he trying to collect? How is he trying to protect that data? How is he trying to share that data either internally with the group entities or externally with third parties? What is the mechanism to retain that data or delete that data? So those insights are very much required in the collaborative process that you work back with every particular team with every particular manager,” Saraf elaborated.
+
+Jagannath P.V. talked about the importance of privacy heads playing a collaborative function rather than just a compliance function.
+
+“The minute you say it’s a compliance function, they’ll take two steps back and say you’re always trying to put roadblocks to what I’m trying to do. A classic case could be sales and marketing. They always want more and more and more data, but how they get their data, they’re not interested because they want to reach out to as many people as possible. […]  But you change that game, and then you tell them this is not the way to do it, you should probably approach this differently. ” — Jagannath P.V.
+
+An audience member asked the panellists how a company determines the purpose limitation of the data they collect. “Who does this assessment? How do you communicate this to your organization? Is it just a matter of having enough on the book to say that this is also necessary or is it an actual clinical exercise to determine that this data element is for this?”
+
+Bharat Saraf explained that the purpose limitation will be based on the governance framework that an organization will define internally. “So what does that mean is, say, for example, we are a payments app and we are processing payments of our consumers who are landing onto our application and creating accounts, etc. So we will, as an organization, have to define what are the purposes for which we will require the different data elements for processing payments. If there are additional purposes or additional data elements for which there are separate purposes, we will have to carve that out separately in the privacy notice with granular consent.”
+
+The governance framework itself should have certain principles, Saraf added. “So principally, as an organization, do you want to collect a certain amount of data for a particular purpose? And does it fit within your ethical and moral considerations as an organization? So those are the sorts of determinations that the governance framework will have to put in place.”
+
+According to Bharat Saraf, company boards should grant their data protection officers the following:
+
+Jagannath P.V. added the following to the list:
+
+Jagannath P.V. and Vasudha Gupta laid out the following wishes:
+
+Vasudha Gupta explained that companies need to adopt a certain framework as a starting point and then fine-tune or make adaptations according to local laws. In her company’s case, they adopted the GDPR as the baseline because the company is headquartered in the EU.
+
+“When I’m looking at 12 countries, I need a standardized framework. And that framework can either be GDPR or it could be something like ISO 27701. What I need to create is a base and then from there, we go on to map any local deviations. For example, let’s pick up India. India has this data localization circular from RBI. We look at it as a separate compliance that needs to be done,” Gupta elaborated.
+
+Jagannath P.V. spoke about the importance of getting external audits done in response to a question from the audience on how a user can know if a company is protecting their data according to the data protection law. “If I sign up for a website which says that my data will not be shared with anyone else. Now, how will I know that the company is actually following what it is saying,” the audience member asked.
+
+Under the DPDP Act, significant data fiduciaries are required to conduct periodic audits, but Jagannath opined that all data fiduciaries should do so. “It is a good option to audit themselves and to get audited from external parties. This is when you actually find out these nuances. Otherwise, internal audits only give you exposure to certain aspects.”
+
+Jagannath suggested that data of customers not interested in the company should be deleted. “If somebody has not interacted with you for three years, that means they’re not really interested in hearing from you. So delete all that old data. It will reduce so much of the data that you have.”
+
+Bharat Saraf sought more clarification from the government on how personal data already collected by a company should be dealt with. “How do we contact the data principals from whom we have collected the data previously? Can we go ahead and collect additional forms of data elements like email addresses or mobile numbers to contact them? Second, more importantly, if the data principal does not respond, can we continue to use and process that data unless they opt out?” Saraf asked.
+
+Jagannath, who was the only non-lawyer on the panel, spoke about the importance of lawyers understanding technology. He explained that the privacy head role is generally treated as a compliance role, but lawyers who serve as privacy heads need to also understand technology to perform their role effectively.
+
+“I would vouch that at least you should get a view of what technology is so that you will not unnecessarily get taken for a ride. […] When you go back to your ecosystem and tell them this is what you need to do. And then when they respond to you with an answer, you should be able to evaluate that answer. So, unless you understand technology, you will not be able to evaluate that answer.” — Jagannath P.V
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

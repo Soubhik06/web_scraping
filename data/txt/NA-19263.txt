@@ -1,0 +1,60 @@
+SUBREDDIT: r/india
+TITLE: Make up your darn mind UIDAI: Recounting a sequence of events since the Tribune breach story
+DATE: 2018-01-11
+SCORE: 323
+URL: https://www.reddit.com/r/india/comments/7pli8d/make_up_your_darn_mind_uidai_recounting_a/
+
+--- POST TEXT ---
+
+Here's a sequence of events since Tribune broke the Aadhaar server breach story where UIDAI itself proves that it's a shitty clueless whiny incompetent organization:
+
+**1) [Tribune reports](http://www.tribuneindia.com/news/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details/523361.html) that access to UIDAI central server is being sold for 500 bucks.** 
+
+So cheap, very awesome, much wow.
+
+**2) [UIDAI reacts](https://imgur.com/W49vTQI) to the story:**
+
+"Tribune has misreported the case. There has been NO BREACH!"
+
+"There has been misuse of a function we made. NOT A BREACH!"
+
+"Totally OK that demographic information, including Aadhaar numbers, is public. This information can't be misused. It's all good."
+
+**3) [UIDAI files an FIR](http://indianexpress.com/article/india/fir-against-tribune-reporter-over-aadhaar-data-breach-story-5014674/) against the Tribune &amp; journalist Rachna Khaira:**
+
+"Hey Tribune take an FIR as punishment for 'impersonation, cheating, forgery, using as genuine a forged document' and section 36/37 of the Aadhaar act which only WE can use against YOU. Shut up now m'kay?"
+
+**3.5) BJP enters the scene for no reason, [screams FAKE NEWS](https://imgur.com/ME7MsdG) and exits. [UIDAI RTs tweet by a dude](https://imgur.com/hCkBTqw) who screenshots tweets by BJP official handle, keeps them alive for a few hours and then deletes them.** 
+
+'#TrueStory #ThisReallyHappened
+
+**4) Public goes bonkers over FIR and asks UIDAI if it has lost its marbles. [UIDAI reacts](https://imgur.com/3OiZlfY):**
+
+"NO BREACH! But there was un-authorised access WHICH IS NOT A BREACH. Coz nomenclature FTW! Super respect for freedom of speech by the way. Ignore the FIR pleez."
+
+**5) Out of the blue, [UIDAI launches Virtual IDs](https://imgur.com/rE99WDK):**
+
+UIDAI: "People, you know how we said Aadhaar number &amp; demographic information cannot be misused?"
+
+Public: "Yeah?"
+
+UIDAI: "But just in case it DOES get misused, take this new temporary Virtual ID! For protecting your identity &amp; privacy &amp; all that."
+Public: "ANOTHER NUMBER? WHAT THE F IS GOING ON!?"
+
+**5.5) Nandan Nilekani enters the scene simultaneously and [screeches](https://imgur.com/5rnbvum):**
+
+"This is a 100% orchestrated campaign against Aadhaar! These people just want to malign Aadhaar before SC hearing!"
+
+Shekhar Gupta also pipes in: "All these protesting wine and cheese khan market Aadhaarophobes, I tell ya."
+
+**6) Coming soon (if Media picks it up):**
+
+"The m-Aadhaar App leaks data and allows un-authorised access for the data of a WHOLE LOCALITY because the passwords are absolute shit." (Check @fs0c131y on Twitter)
+
+"Nandan Nilekani leaked his own Aadhaar number and [it's still out there](https://www.buzzfeed.com/pranavdixit/nandan-nilekani-aadhaar-leaked-id-twitter?utm_term=.wtXPmRdM1#.uh3k9O8Jv) in multiple databases!"
+
+*(Seriously. WTF is even going on? And we are supposed to trust our frikkin personal identity with these incompetent bufoons?)*
+
+EDIT: I seem to have misunderstood the m-Aadhaar issue. It's actually this (thankyou /u/suddenly Goa):
+
+&gt; The #Aadhaar #android app is saving your biometric settings in a local database which is protected with a password. To generate the password they used a random number with 123456789 as seed and a hardcoded string db_password_123 🤦‍♂️

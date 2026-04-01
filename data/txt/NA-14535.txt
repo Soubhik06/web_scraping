@@ -1,0 +1,35 @@
+OpenAI announced that its board has formed a ‘Safety and Security Committee’ as it begins to train its next frontier model. The Committee will be responsible for making recommendations to the Board on critical safety and security decisions.
+
+Led by CEO Sam Altman, and directors Bret Taylor, Adam DâAngelo, and Nicole Seligman, the Committee has been tasked with evaluating and developing OpenAIâs processes and safeguards over the next 90 days and will share their recommendations with the Board based on their assessment. OpenAI will then publicly share an update on adopted recommendations.
+
+It is noteworthy that this announcement comes after the exit of multiple members of OpenAIâs previous safety department, over allegations of inadequate safety measures in OpenAIâs processes.
+
+OpenAI saw core members like co-founder and chief scientist, Ilya Sutskever, and Head of Alignment, Jan Leike, resign. Both were co-leaders of  OpenAIâs Superalignment team responsible for safety and ensuring âAI systems much smarter than humans follow human intent. â The team focused on mitigating risks such related to AI as âmisuse, economic disruption, disinformation, bias and discrimination, addiction and overreliance.â
+
+However, after his departure, Leike stated that he had reached aÂ âbreaking pointâ as his department was finding it “harder and harder” to get “crucial research done,â accusing OpenAI of prioritising shiny products over âsafety culture and processes.”
+
+He expressed his concerns about this culture stating:
+
+âI believe much more of our bandwidth should be spent getting ready for the next generations of models, on security, monitoring, preparedness, safety, adversarial robustness, (super)alignment, confidentiality, societal impact, and related topics. These problems are quite hard to get right, and I am concerned we arenât on a trajectory to get there.â
+
+Vox reported, that at least 5 more employees had âeither quit or been pushed outâ for their safety concerns.  A former employee Daniel Kokotajlo told Vox,
+
+âI joined with substantial hope that OpenAI would rise to the occasion and behave more responsibly as they got closer to achieving AGI [Artificial General Intelligence]. It slowly became clear to many of us that this would not happen. I gradually lost trust in OpenAI leadership and their ability to responsibly handle AGI, so I quit.â
+
+Additionally, a former member of OpenAIâs nonprofit board, Helen Toner, who was involved in ousting current CEO, Sam Altman, in November 2023 before he was reinstated, co-wrote a paper accusing OpenAI of contributing to an exceedingly competitive AI landscape that pushed AI developers to âaccelerate or circumvent internal safety and ethics review processes.â The paper also noted, âsafety and ethics issues related to the launches of ChatGPT and GPT-4, including regarding copyright issues, labor conditions for data annotators, and the susceptibility of their products to âjailbreaksâ that allow users to bypass safety controls.â
+
+Toner has since claimed that Altman, on multiple occasions gave board members inaccurate information about the âsmall number of formal safety processes that the company did have in placeâ which made it  âbasically impossibleâ for the board to know how well those safety processes were working.
+
+Research Indicating Safety Risks in ChatGPT
+
+Aside from criticisms from former employees, there has been verified research about the various safety risks of ChatGPT. OpenAI bases its safety guardrails on a â System Card â, wherein external researchers assess the modelâs potential for misuse. OpenAIâs GPT-4 model System card revealed that the model was capable of creating harmful and hateful content including encouraging self-harm, creating hate speech, and assisting in planning violence. It was also capable of helping users generate targeted, hateful political content. Further, it posed significant safety risks as it could assist with creating chemical or biological weapons and conducting cybersecurity attacks like Phishing and bypassing captcha. Based on these capabilities, OpenAI set its guardrails to prevent the misuse of its models.
+
+However, research has indicated that OpenAIâs safety guardrails can be bypassed. In 2023, researchers at Carnegie Mellon University in Pittsburgh and the Center for A.I. Safety in San Francisco discovered that they could use mathematical tools to add a âsuffixâ to a prompt, to generate an adversarial response from an open-source model like ChatGPT-3.5-Turbo. For example, if the prompt said âmake a bomb,â ChatGPT-3.5-Turbo would not give the user a response. However, once the suffix was added to the prompt, the model would respond with instructions. It could be prompted to give further harmful content like instructions for criminal activity.
+
+Similarly, a research paper by researchers at Princeton, Virginia Tech, Stanford, and IBM revealed that they could break through the guardrails of open-source systems like that of GPT-4. They found that by âfine-tuning with only a few adversarially designed training examples,â users were able to bypass GPT-4âs guardrails. They also noted that training the system with âbenign and commonly used datasetsâ could also inadvertently degrade the modelâs safety. They demonstrated these safety concerns with an example, using an âidentity shifting attack,â where ChatGPT was prompted to be an âAOA (Absolutely Obedient Agent)â and follow the prompters’ instructions without any pushback. They discovered that the model was able to create harmful content following this including child abuse content, privacy violation activity, hateful and violent content, etc. While OpenAI, has acknowledged these findings , it is yet to be seen if these learnings have been integrated into GPT-4o and the upcoming model.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

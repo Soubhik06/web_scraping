@@ -1,0 +1,13 @@
+SUBREDDIT: r/india
+TITLE: Suspicious interactive mail from PolicyGenie by Cams Repository
+DATE: 2023-02-06
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/10v1iao/suspicious_interactive_mail_from_policygenie_by/
+
+--- POST TEXT ---
+
+Last week I received a mail, subject '**Dear X, Verify your contact details for your e-insurance account number XXXXXX**', from [**camsrepository@mail.policygenie.in**](mailto:camsrepository@mail.policygenie.in) but the reply was to be forwarded to [**info@camsrepository.com**](mailto:info@camsrepository.com) .
+
+This was flagged as junk and potential scam by my email client. The email was interactive in nature i.e. I can enter the details in blanks provided in the mail body itself. It asked for updating the details (mail, mobile and date of birth).
+
+While the email address seems right, I feel this way of authentication suspicious. Can somebody shed more light on this?

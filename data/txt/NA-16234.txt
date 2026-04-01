@@ -1,0 +1,25 @@
+SUBREDDIT: r/india
+TITLE: Payment processing and taxation for selling software from India internationally
+DATE: 2023-01-04
+SCORE: 2
+URL: https://www.reddit.com/r/india/comments/102lieu/payment_processing_and_taxation_for_selling/
+
+--- POST TEXT ---
+
+Hi businessmen/startup founders of r/india! I'm setting up a software business which is generic in nature and will be sold internationally (think Africa, the EU, US, SE Asia, Australia, Latin America). 
+
+As someone doing this for the first time, I had some questions around which payment processing services you've used (could be fintechs/banks/payment gateways etc), and what are the pros and cons of each. Some services I've heard of are Razorpay and Stripe.
+
+ 
+Some of the metrics I thought I should consider are the following:
+
+* **Ease of payments** \- how easy is it to get money to my Indian bank account
+* **Fee and FX charges** \- since my average transaction size is smaller, the fees for international payments + the FX conversion charges should be reasonable
+* **Reliability** \- don't want potential customers abroad to face payment denied errors because of incorrect fraud detection
+* **Time to settlement** \- how fast the money gets credited to my account
+* **Legal, regulatory concerns** \- will the payment processing method handle legal and regulations of FEMA/other relevant laws concerning export of goods/services
+* **Taxation** \- what are the relevant taxation laws I should keep an eye on wrt filing taxes in India. Do I need some proof of export/proof of forex money being credited to my bank account for filing taxes? Also do I need to file taxes in the country where I'm selling to (I've heard the EU has a rule wherein if we sell digital services to their citizens, we also need to then collect VAT and deposit it to the respective EU countries, something called a "place of supply rule"???? Are there other such regions?) 
+
+Would be great to hear from people on here who export either goods or services abroad, and also would be amazing to hear a mix of responses which cover the different geographies such as Africa, South America, Europe, the US/Canada/Mexico, Asian countries, Australia etc. People providing a view of all these regions would help me (and other aspiring founders) understand the complexities of selling abroad and scaling. 
+
+Please do not hesitate to reply even if you export goods (and not services). I suppose your experience will still be relevant.

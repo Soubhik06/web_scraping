@@ -1,0 +1,31 @@
+SUBREDDIT: r/india
+TITLE: A possible temporary solution to URL based scams.
+DATE: 2023-01-05
+SCORE: 2
+URL: https://www.reddit.com/r/india/comments/103z90y/a_possible_temporary_solution_to_url_based_scams/
+
+--- POST TEXT ---
+
+I didn't want to release it this early, as the database is still being developed, but another HDFC scam I saw earlier, made me do it. It's a temporary solution as of now, but if there is demand, I'll work on it more. But I hope it'll help you and most importantly elderly people who may not be technologically savvy. Cheers 
+
+**Solution:**
+
+A Chrome and Firefox extension than when clicked will tell, you whether it is part of a company or not. There is a website too, for mobile users and for others, where users can submit the link, and it will show you the result. It's not a complete solution and hopefully someone will come up with a better solution in the future. 
+
+https://i.redd.it/yuyo4c55a8aa1.gif
+
+Here PayTM not verified because only banks are included at the present. Another page was a scam info link that was published earlier by u/GodOfArk.
+
+Firefox extension is available in their addon store. Chrome extension currently you'll have to download from GitHub. I'll upload it in chrome store in one or two days. Will add the links in the comment section.
+
+Hopefully, going forward I can work with these companies and whenever a customer facing website is added, I'll update the db. But I can go to them only if there is enough users so, it'll take some time.
+
+ It's a free and private extension, so naughty or nice, whatever you do, it's all and always private. Once you open the extension the extension get access to current tab, once closed it'll lose access, as simple as that.
+
+&amp;#x200B;
+
+**So how to trust a random stranger**?
+
+Yeah, I don't have an accurate answer for that, but my codes as well as database is publicly available on GitHub so anybody can verify it anytime, anywhere. 
+
+Right now only data of banks are available, I'll include more as I go forward.

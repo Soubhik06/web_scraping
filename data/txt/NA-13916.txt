@@ -1,0 +1,151 @@
+by Anand Venkatanarayanan
+
+This article was written as a rebuttal on the article that appeared in Business Line on April 1, 2017. It might be slightly technical but I will try to keep it within comprehensible limits for a person without Computer Science degree.
+
+( Editor’s note: Changes have been made to the response to Claim 1, following some points highlighted by Pranesh Prakash on Twitter )
+
+Response: This is useless at the scale in which Aadhaar is implemented. When a person wants their monthly quota of rations, they are usually asked to provide their UID and fingerprints, just the way you are asked to give your username and password on a bank portal.
+
+However, unlike a password, fingerprint comparison is not a binary Yes/No. There is always an element of uncertainty, which is a basic feature of biometric comparison. The backend returns a probability score between [0.0 – 1.0], which indicates the probability of the match, with 0 indicating no match, and 1 indicating a perfect match. But even a near- perfect match will not be equal to 1.0. Now to say that a fingerprint in the UID database is the same as that of the person, you have to configure a threshold value, say 0.80 above which the fingerprint is accepted as valid and below which it is deemed as invalid. If you keep the threshold as very high, only exact fingerprint matches are accepted, but if you keep it very low, even average matches from others could be accepted.
+
+So it is quite possible that for a single user, the system returns two different biometric matching scores within a minute or so as [0.79] and [0.81], with one being signaled as invalid and the other being signaled as valid, based on how you position the finger, cleanliness of the finger, sensitivity of the system and so on.
+
+This is the fundamental property of the biometric authentication, of not being deterministic like a password/pin comparison, and is referred as the error rate . The error rate does not change across attempts, where the same person scans his finger, multiple times. It is very similar to saying that the probability of head appearing is 50% (i.e. 0.5), irrespective of who tosses the coin. Now assume that the UIDAI system is well designed and is the best in the world and has an error rate of 0.0001%. If there are a billion (different) people trying to authenticate themselves over a period of say one week, the expected number of failed authentications is 0.0001 / 100 * 1 Billion = 1000, which would be a very impressive system and a technological marvel.
+
+However the error rate as Nandan Nilekani indicates, even in the ideal case, is close to 5%. That means the above number would be 5/100 * 1 Billion = 5 Crore incorrectly authentication attempts.
+
+What the error rate means is that almost everyone who tries to use the system, will at some point face an authentication failure over a period of time.
+
+However based on certain conditions (Worn out finger prints, Cracked fingers or just random luck), some of those denied transactions will cluster around a smaller set of people, who would be most impacted.
+
+The above error rate means that a PDS system which was (probably corrupt and leaking) serving X number of people in a state, will suddenly start denying rations to a random set of Y * X * 5/100 people because of the nature of fingerprint authentication. And it won’t be the same set of people month after month. So over a period of time (say 2 years), you would have almost heard stories from many, that they were denied rations, to which they were entitled.
+
+(An unavoidable technical explanation on new variable Y. It is a random variable, which can take any value between 0.0 – 1.0. Since the system will randomly fail 5% of authentication attempts, it might so happen that the same person will have multiple authentication failures, but will eventually get through after multiple attempts. But some will never get through and some will never face an issue. Some will get through in one month, but not in the next month. In short, getting the monthly PDS will feel like a lottery and also very arbitrary. I tried to simplify this behavior by removing Y in the original post, but as @pranesh pointed out over simplification is an error that should be avoided)
+
+Note that this assumes that no one in the new system that uses UID is actually corrupt.
+
+For the people who are impacted, the story looks very different. Assume that the earlier corrupt PDS system had a corruption coefficient of 5%, then the new system will look exactly the same as that of the old system (as Y approaches 1.0). The situation though changes dramatically if the error rate keeps increasing from 5% to 30% as it is observed in states like Telangana (Editor: on this page , choose MNREGA, and dates from 1st January 2017 to 31st March 2017, for three months of data. Screenshot below)
+
+At this stage, for a set of people, the older system of not using biometrics would feel like a far better system than the newer system , because of added factors like quantity corruption (The dealer will not give you 2Kg of rice and would instead give you 1.8Kg of rice).
+
+We can now add other external factors to understand the experience of people who are being served by the UID linked new PDS scheme such as:
+
+Every new factor thus added to the system, impacts the performance of the system in a negative way.
+
+In other words, the biometric authentication system is fragile. Variance in inputs only worsens it. Mathematically this is called as a concave curve . Statistically this is referred as a system that worsens as more uncertainty is added. In short, it is a very rigid system that only functions perfectly under known ideal conditions, but has worsening performance characteristics under known variable conditions and should be avoided (Point 11).
+
+*******
+
+Response: Let us say that this number is accurate (though it is contested by Government Of India itself [Point 7, Page 3]). Let us go back to the error rate argument outlined in the previous section. If 10% of the entitled persons before were denied their rations because of the authentication errors inherent in the system, would that count as savings in the new UID linked PDS System? That would be a yes, correct? So in short, the new PDS system actually converts inherent statistical uncertainty of biometric authentication with accrued savings and hence is a fantasy bubble.
+
+One way to puncture this fantasy bubble is with data that can show savings by eliminating ghost PDS cards without using UID. For instance some states were able to eliminate ghosts without resorting to UID as seen here .  Scrolling down to the last part of the above link, shows that up to 2014, states were able to eliminate 1.2 Crore bogus cards without having to resort to UID seeding. The natural question to ask then is ,“Was this UID pre-savings also added to the Rs 50,000 Crores number that is quoted by Nandan Nilekani?”  To be fair to Nilekani however, where conditions are overwhelmingly close to the ideal conditions, seeding UID prevents fair price shop owners diverting rations to non-existent beneficiaries, as noted by the Wire article , but that is miniscule compared to disruptions as the article indicates.
+
+If we were to do a very rough accounting of the impact of introducing UID in PDS system, the following equation would help:
+
+Total Savings = Denying genuine persons their entitlements (A) + Weeding out ghosts(B)
+
+= Error rate * Trials (as described above) + Savings by weeding out ghosts.
+
+For the new PDS linked UID system to work as expected in just form, ideally B should be far greater than A (Let us arbitrarily make up a number here) by 99X. That is for every rupee of savings generated by UID in PDS, 99 Paisa should be from weeding out ghosts and 1 Paisa from denying genuine entitlements. While we already know the error rates as reported by various media reports, what is unknown is number of ghosts as a percentage in PDS, detected by UID. The estimate of ghosts varies wildly, but in some cases like LPG savings, at the least there is consensus about the range [1% – 25%], the difference in the range being attributed to duplicates detected before UID was introduced being conflated with duplicates detected only via UID.
+
+Even if we take the Government Of India numbers as sacrosanct (25% savings via removing duplicates), converting this percentage to actual savings in rupees as the Chief Economic Advisor himself admits is at best a guess estimate and is only suggestive, as quoted below:
+
+“In other words, we made clear that the saving was potential not actual and was conditional on prices and subsidy levels. We did not — and did not intend to — assert that that absolute figure was in fact the actual saving in 2014-15.”
+
+So in summary (B) is debatable and potential, but (A) is real and actual and UID critics are justified in stating that almost all the savings are from exclusion.
+
+Also,
+
+Net Savings = Total Savings – Investment in UID
+
+and it should be significantly higher than zero to justify the return on investment. Being a fragile technology (as shown above), it requires constant updates and continuous investment and hence ongoing operational investments (Broken finger print/iris scanners, Biometric updates, Demographic updates are examples of updates required). In short the net savings is not a simple number that can be calculated using standard amortization techniques, but is instead a running number that needs to be updated constantly on a yearly/half-yearly basis. The net investment in UIDAI so far is about INR 8536 crore. If we apply a 10% return on investment and convert this to net present value, it would be about 11,134 Crore.
+
+If a public company’s earnings (Net Savings) were this uncertain, its stock value would be ZERO, as the business model of such company would be to deny its users (Exclusion), services they paid for (taxes).
+
+*******
+
+Response: The latest data from TRAI indicates that rural tele-density is at 52.43%. Note that this data does not indicate the quality of coverage. So when biometric fingerprint verification fails, it means even if the quality of coverage is good, there is a 47% probability that the person may be denied their entitlements. Given that quality of coverage is not good in rural areas, it is quite obvious why people are climbing trees to get their PDS entitlements.
+
+*******
+
+Response: The UIDAI system design is flawed.
+
+There is only one real reason for failures, a poorly designed technology which is not good enough for the use case in question. Consider all the things that are required for UID authentication to work very well on the ground level.
+
+Every one of the above adds uncertainty to the success rate and getting every one of the above to work, escalates the authentication cost. The problem is not new and every army in the world faces the same set of issues.
+
+The basic principles of system design which works on the field are:
+
+If you apply the above principles (which incidentally all armies use), it is obvious that UID technology and system design in the current form is not the correct solution as it is rigid, fragile and only works when there is a lot of certainty about the operational vectors involved. The only solution that will work on the ground, would be an authentication system that is decentralized and is robust (and probably) performs better, as the uncertainties mount. In short, the technology is broken and will not work except on ideal conditions, which will not exist most of the time.
+
+*******
+
+Response: If the point is about building a company which had 1 Billion users, the difference would not have been starker. Neither Google nor Facebook are champions of privacy concerns and are known to collect information about user behaviour with obtuse, hard to read end user agreements. They also try to sneakily collect more user data via dubious means like Facebook’s “Free Basics” program. But they simply don’t have coercive powers like Government of India does, when it practically ordered all its citizens to get enrolled into UID or forego their benefits.
+
+Comparing UID with Google/Facebook is a textbook example of false equivalence.
+
+As an individual I can choose not to use Google or Facebook and even if I use these tools, have an option of controlling the data they collect about me (to the extent it is obvious). But not having a UID means, it is no longer possible to be a law abiding citizen of india, after the mandatory PAN-UID linkage, notified by GOI. I can be raided, jailed and my employer may actually choose to not credit my salary, if I don’t have a UID, thus depriving me of the basic right to live, even if I am well off and don’t need any government subsidy.
+
+It is difficult to argue with a state that has life and death power over you and holds a (metaphorical) gun to your head and can ruin your life, if you don’t concede.
+
+I will also argue that such coercion is the reason why the technology fails on the ground as UIDAI is not accountable to anyone but itself.
+
+Google and Facebook would not exist if their authentication works only 95% of the time. And 5% of WhatsApp messages don’t vanish randomly or don’t get delivered.
+
+Our much maligned post office speed post has a better success (98.94%, Page 67, Table 6)  rate than UID authentication. After all when all your users have no choice but to come back irrespective of the service level, what is the incentive to improve things?
+
+*******
+
+Response: We have to ask a different question now:
+
+Is the Indian state so void of moral and ethical sensibilities that it has to ask Bhopal gas victims , AIDS patients , trafficking victims to produce a UID or get lost?
+
+Is the above really progressive? Is this really forward? Do we really have any data on how many fake/ghost Bhopal gas victims, AIDS patients and trafficking victims are there, who draw their meagre pensions/sustenance subsidies from Government Of India? Now assume that you were indeed successful in coercing them to get their UID, can anyone absolutely guarantee that they will still receive their entitlements ? After all, as if they have not suffered enough, the fingerprint scanner failure is one more suffering that they have to endure? Is providing them a small level of dignity by excluding them from this fallible technology, that big a savings for Government of India?
+
+Isn’t a system that cannot understand human dignity is not a demon itself?
+
+*******
+
+Response: What is Aadhaar? Is it the database that stores biometrics? Or is it the ecosystem around it? UIDAI’s strategy so far has to confuse everyone about the safety and security aspects of the two.
+
+While there is no information about security leaks in the database that stores the biometrics, there is now enough data to show that the ecosystem around it leaks like a fire hose.
+
+Most of the sensitive personal information about UID holders is still available by typing a google search . The primary design problem that the ecosystem enables by design choice is the caching of data, the moment e-KYC as a use case became an added application.
+
+Let us talk about threat models here. The threat model for stealing biometrics is not from the database because it is probably too hard with a whole set of unknowns. It is far easier to steal the biometric at source, not during enrollment, but during verification. Consider the (modified) attack vector as shown in the eMudhra replay attack :
+
+For this scheme to work, all you need is one compromised verification point, which uses biometrics.
+
+A biometric once compromised is compromised forever.
+
+Hence systems that use biometrics for authentication, usually are deployed in controlled environments which limit their usage to two/three factor authentication and not as a primary means of authentication. The pervasive use of biometrics exposes the ecosystem to these type of risks. The fact that the central DB is itself secure will be irrelevant over a period of time.
+
+It is now obvious that the central design principles on which the UIDAI project is built upon, by focusing on the security of the CIDR is irrelevant, because it has not taken into account the presence of a motivated adversary, who can work around the system by focusing on verification points and not on enrollment points.
+
+So how would a normal user know that their biometrics is being stolen by a fake STQC certified scanner ? The answer is probably never, until it’s too late. The authentication error rates that will happen often, will mask the user from ever knowing if they are indeed parting their biometric to a fake-labeled certified scanner.
+
+The design choice of using biometrics for day-to-day transactions is the choice that enabled this risk. It cannot be fixed by law, because the technology and the design choices used itself is broken.
+
+*******
+
+The really best data that we have here is from UIDAI itself . Out of 83.5 Crore UIDs, only 2.19 Lakhs were UIDs which did not have any existing ID proof, about 0.03%. So factually the claim is incorrect since only 10 lakhs and above qualify as a million.
+
+*******
+
+A quick google search and clicking the first search result would have invalidated this claim. The UK identity card project was actually sold as a means of checking entitlement claims, misusing public claims.
+
+However, rising concerns about identity theft and the misuse of public services led to a proposal in February 2002 for the introduction of entitlement cards to be used to obtain social security services ..
+
+and that they “did suggest, or at least implied, that they might well be a panacea for identity fraud, for benefit fraud, terrorism, entitlement and access to public services”. He suggested that they should be seen as “a gold standard in proving your identity.
+
+It is difficult to get a man to understand something when his legacy depends upon his not understanding it, and those who ignore history (Government of India) are condemned to repeat it.
+
+*
+
+Anand Venkatanarayanan is a Senior Engineer at Netapp . Views expressed here are personal and do not reflect the views of his employer
+
+Note: This post is published under CC-BY license. You may republish this post with credit to the author: Anand Venkatanarayanan
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

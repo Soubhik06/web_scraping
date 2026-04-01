@@ -1,0 +1,39 @@
+The Maharashtra government is using blockchain technology to issue caste certificates in the Gadchiroli district, according to a LinkedIn post by Indian Administrative Services (IAS) Officer Shubham Gupta who is supervising the implementation of the project. The caste certificates, which are critical to avail government benefits under various schemes, are being issued to the residents of the Etapalli and Bhamragad villages at first.
+
+This is one of the first instances of a state government using a Polygon-based platform—LegitDoc— for purposes of e-governance. Polygon is a secondary-scaling solution for the Ethereum blockchain. Such secondary solutions work on top of an existing blockchain network rather than using their own blockchain.
+
+E-governance on web3 is here! Brought to you by @LegitDocIndia built on @0xPolygon ! https://t.co/DklB4beI2H
+
+— Neil Martis (@MartisNeil) March 29, 2022
+
+The government’s collaboration with LegitDoc helps it to authenticate caste certificates, which are issued to residents of Gadchiroli district, instantly using data stored on the Polygon blockchain. The state will be running 65,000 caste certificates through the blockchain system in the initial phase, the post added.
+
+The project sets a precedent for India to explore synergies between blockchain technology and e-governance. A successful roll-out can also make a strong case for the Union government, which is deliberating upon the status of cryptocurrencies presently, to consider regulating the space instead of placing a ban.
+
+Gupta explained how the state government will store data of every caste certificate fetched from the ‘MahaOnline’ portal on the Polygon blockchain and generate a unique QR code consisting of “blockchain-proofs” which are embedded on each caste certificate.
+
+The system consists of an Issuance and Verification DApp (DApps are decentralised applications built on top of public blockchains such as Ethereum and Polygon). The system will also be able to verify physical documents as that is the form in which most villagers hold their documents.
+
+“Even printed form of blockchain certificates can be verified using this new system,” Gupta was quoted as saying by Cointelegraph
+
+The government departments, or external parties, will be able to use the government website to verify the authenticity of a certificate.
+
+Gupta revealed that the project takes a cue from Singapore and Malta. These countries are utilising Web3 to provide citizen services such as digital warrants, educational certificates, health certificates, etc., he added.
+
+Gupta, who co-authored the post with LegitDoc Co-Founder Neil Martis, laid down the following reasons:
+
+The Maharashtra government has experimented with an Ethereum-based credentialing system to provide tamper-proof diploma certificates to avert document forgery last year, as per Cointelegraph .
+
+The Maharashtra State Board of Skill Development (MSBSD) rolled out this project with LegitDoc.
+
+“In the last 10 years, there has been a rampant increase in forgery of government-issued documents which have caused huge financial and reputational losses to the stakeholders involved.” Anil Jadhav, chairman of MSBSD, was quoted as saying.
+
+LegitDoc CEO Neil Martis told Cointelegraph that MSBSD will start advocating for the digital verification method for all manual verification requests in 2022.
+
+Also Read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

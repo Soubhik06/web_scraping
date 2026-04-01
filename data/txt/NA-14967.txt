@@ -1,0 +1,27 @@
+Bluesky, social microblogging platform and X’s (formerly Twitter) competitor, has imposed stricter rules to crack down on accounts indulging in impersonation.Â
+
+Bluesky has seen a surge of new users, and recently crossed the 20 million user mark. However, the fast-growing social media service has reported issues with impersonation. Subsequently, the platform introduced updates to its policy guidelines, with a particular focus on identity protection.
+
+âWe’ve updated our impersonation policy to be more aggressive. Impersonation and handle-squatting accounts will be removed.â, the update states.Â Handle squatting is the practice of claiming or reserving online usernames or social media handles without using them, often to sell or trade later.
+
+The platform claims it has quadrupled the size of its moderation team. This move aims to tackle the backlog of reports fuelled by the recent surge in new users.
+
+While impersonation is prohibited, Bluesky states that it allows parody, satire, and fan accounts. However, these types of accounts must clearly identify themselves as such in their display name and bio. The platform states that if an account only includes one of these elements, it will be flagged with an impersonation label.
+
+The platform also announced that âidentity churningâ is not allowed. Identity churning is a practice where users change their account identity to mislead others or gain followers under false pretenses.
+
+Domain verification remains an important tool for verifying accounts. However, Bluesky states that it is âexploring additional options to enhance account verification.â
+
+Earlier, Bluesky CEO Jay Graber shared that the company aims to develop a verification system where it does not have sole control over determining who receives the “verified” status. She proposed a decentralized control over identity submission and authentication, reported Tech Crunch .
+
+Last month, Bluesky stated it would not use user-generated content to train generative AI models, setting it apart from other social media platforms. Bluesky explained in a post that it employs AI internally for tasks like content moderation, which helps prioritise posts and protect human moderators from harmful material. Moreover, AI is utilized in the Discover algorithmic feed to suggest posts users might enjoy. However, these are not generative AI systems trained on user data.
+
+Despite this policy, Bluesky does not restrict others from using its data for training AI models. Daniel van Strien, a machine learning librarian at Hugging Face, compiled a dataset of one million Bluesky posts for machine learning research purposes, reported 404Media.
+
+Blueskyâs terms of service do not specifically mention AI. However, it outlines that users permit the company to use their content for providing the platform, improving its offerings, and promoting Bluesky. Users also permit Bluesky to create derivative works, such as resizing posts for mobile apps, and distribute, perform, or display their content.
+
+Moreover, Bluesky may share users’ personal information with third-party service providers (e.g., for IT support, hosting, payment processing, and customer services) and business partners.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

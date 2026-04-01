@@ -1,0 +1,41 @@
+Wallets may be allowed access to interoperable payment systems provided that players will comply with the enhanced eligibility criteria and instructions on safety, security, risk mitigation, the Reserve Bank of India (RBI) said in a draft circular.
+
+Interoperability between payment systems is one the Unified Payments Interface (UPI)’s hallmark and wallets companies are not allowed on UPI currently. This has been a sore point for many players in the ecosystem. The Economic Times recently reported that wallets will now be allowed on the UPI after the RBI finalizes revised guidelines on wallets and wouldÂ decide on the interchange fees between the wallets.
+
+However, Â the RBI has not elaborated on specific directions for interoperability.
+
+“Entities meeting the revised eligibility criteria and adhering to other instructions on safety, security, risk mitigation etc. contained in these Directions shall be allowed to participate in other interoperable payment systems, as and when specific directions are issued in this regard,” the RBI added.
+
+Some of the new guidelines wallets will now have to adhere to:Â
+
+1. Net worth requirements:Â Wallet companies will have to have a minimum net worth of Rs 25 crore and will have to maintain the same at all times. The net worth will consist of: -Paid up equity capital -Preference shares which are compulsorily convertible into equity capital -Free reserves -Balance in share premium account – Capital reserves which will include surplus arising out of sale proceeds of assets. This will not include reserves created by revaluation of assets which are adjusted for accumulated loss balance, book value of intangible assets and deferred revenue.
+
+Earlier regulatory norms for wallets included a minimum paid-up capital needed of Rs 5 crore and a minimum net worth of Rs 1 crore. Existing walletÂ issuers will have to comply with the enhanced capital requirements by September 30, 2020 , for the financial position as on March 31, 2020, failing which they shall not be permitted to carry on this business beyond December 31, 2020.
+
+2. KYC norms: Â Â The RBI added that companies will have to convert existing wallets without complete KYC to full KYC compliant wallets within a period of 60 days from the date of issue. Failure to do so, no further credit will be allowed into these wallets. However, customers will be allowed to use the balance in other stores.
+
+Wallets without full KYC have a monthly limit of R 20,000 which can be loaded into the prepaid payment instrument (PPI) while fully compliant wallets have a monthly limit of Rs 1 lakh.
+
+The minimum details for KYC shall include OTP verified mobile number and self-declaration of name, address, gender, date of birth and unique identification number of any of the âofficially valid documentâ.
+
+3. Security and authentication requirements: Wallets will need to submit a yearly systems audit report carried out by a team of chartered accountants. This system audit should cover technology, hardware and compliance systems of systems.
+
+The RBI has also prescribed many of the measures theÂ ministry of electronics and information technology (MeitY) said in its consultation paper for developing a framework for security of digital wallets . These includeÂ mechanisms such as customer induced transaction caps on their wallets, restriction of multiple invalid attempts to sign-in, and a cooling period for funds transfer after opening a wallet to prevent fraudulent use of the account.
+
+– Interestingly, Wallet issuers will have to ensure that a separate login is provided for the the PPI account and ensure that access to PPI is not made part of access to other services offered by the issuer or its associate/parent/group company etc. Note that Vodafone has been violating this proposed norm by forcing customers to create an mPesa wallet to access the My Vodafone app . Technically, Vodafone should be separating the login to mPesa from the the My Vodafone app.
+
+– For mobile wallets, the RBI has further regulations on security. Some of the curios ones are: a) Â The mobile app should not be allowed to be installed on rooted devices i.e. system level access should not be allowed. b) Wallet companies have to perform source code audits by professionally competent personnel or service providers. Else they will have to have assurance from application providers and OEMs that the application is free from embedded malicious code. c) Issuers should subscribe to anti-phishing and anti-rouge app services from external service providers for identifying and taking down phishing websites and apps.
+
+4. TheÂ Validity of wallets and time period: Â  All wallets shall have a minimum validity period of one year from the date of activation or issuance to the customer. Issuers will have to caution customers at regular intervals 45 days prior to expiry of validity period. The caution advice shall be sent by SMS/e-mail/post. Even after the expiry of validity period, grace period of at least 60 days shall be given to the customer.
+
+But more importantly, the wallets with zero balance for a consecutive period of one year shall be closed automatically by the issuers, and a notice sent to the customers.Â This will have a significant impact on the number of wallets companies claim that they have on their platform. Many wallets lie dormant as people download the application once and don’t use them. At the time wallet companies create a PPI but many users would uninstall the application later.
+
+5. Merchant guidelines: Â Wallet issuers will have to submit the list of merchants acquired by it to the escrow bank and update the same from time to time. The RBI noted the growing acceptance of wallets in e-commerce payments, including in digital marketplaces. In such scenarios, the payment mechanism is facilitated by payment aggregators or payment gateways. The emerging practice observed is that a wallet company has the necessary agreements with the digital marketplace and the payment aggregator rather than the individual merchants who are accepting the wallets as aÂ form of payment.
+
+Wallets will have to obtain an undertaking along with the list of the merchants from the digital marketplace and payment aggregator. This undertaking and list shall be submitted to the escrow bank.
+
+6. Transfer to bank accounts: The RBI tightened norms on transferring money from wallets to bank accounts.Â Fund transfers from such wallets to bank accounts and also shall not exceed Rs 10,000 per month.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

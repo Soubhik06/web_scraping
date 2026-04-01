@@ -1,0 +1,163 @@
+An RBI-appointed panel set up to review the status of digital payments in January recently submitted its report (see a copy below), in which it said that theÂ Reserve Bank of India (RBI) and the government must target 10X growth in the volume of digital payments in the next three years. This growth will be driven by a shift from high-value, low-volume, high-cost transactions to low-value, high-volume, low-cost transactions, said the five-member panel, headed by Nandan Nilekani.Â Initiatives such as removing transaction charges on digital payments made to government, simplying KYC processes, and reducing KYC costs for banks are among the committee’s 73 recommendations, which are summarised below.
+
+Recommendation 1: Plan for 10X volume growth, 3x user growth in three years :
+
+Recommendation 2: Provide a consistent view on Digital Payments. The RBI must rationalize the definition of digital payments, and become the source of accurate and consistent and granular data for better tracking.
+
+Recommendation 3: Fix interchange fees on card networks. The regulator must intervene at regularly to fine-tune interchange fees and address other related issues to ensure a level playing field in the market for both the issuer and the acquirer. Market determination of MDR and interchange fees isn’t working. To correct this:
+
+Recommendation 4: Encourage non-banks to participate in payment systems. Payment schemes must be allowed to induct non-banks as associate members. Settlement will continue to be through the sponsor banks.
+
+Recommendation 5: Set up an Acceptance Development Fund . The RBI may consider setting up an acceptance development fund to improve infrastructure and develop new merchants in poorly served areas. In addition to the proposed 15 basis point reduction in interchange, issuers must deposit 5 basis points in the fund. This amount may be matched by the RBI.
+
+Recommendation 6: Promote acceptance of digital payments. Each merchant must support at least one digital mode, namely BharatQR, BHIM UPI QR, or cards. QR codes allow merchants to accept payments with very low fixed costs, and this can be the basis for a large growth in acceptance.
+
+Recommendation 7: Ensure no user charges for digital transactions. Customers must be allowed to initiate and accept a reasonable number of digital transactions with no charges.
+
+Recommendation 8: Incentivise users to make digital payments. Issuers should have campaigns to incentivise users to make merchant payments digitally.
+
+Recommendation 9: Build capacity for digital transformation in the banking industry. The IDRBT must take the lead on building training programs and capacity.
+
+Recommendation 10: Ensure fast dispute resolution. All payment systems operators, including NPCI, must implement a fast and fair online dispute resolution (ODR) system. The ODR should allow for the userâs bank to have two levels of dispute resolution (one automated and one human), with an appeal to the regulatorâs ombudsman. The ODR must publish participant-wise aggregate data on issues reported and resolution timelines so that the regulator can track the health of the payment system. RBI Ombudsman data may be used to improve the process.
+
+Recommendation 11: Ensure business continuity planning for digital transactions. During a crisis, availability of disaster recovery mechanisms should be monitored, and there should be sharing of infrastructure among all service providers during a crisis. Disaster recovery plans must also include preventive measures such as ensuring installation of robust infrastructure in sensitive areas and their upkeep. Similar backup plans for cash out should also be ensured to help the affected people.
+
+Recommendation 12: Monitor transaction failures. The regulator must monitor failed transactions, in particular, the technical decline rates and business decline rates. The regulator must also ensure that the operators present a plan to bring down these failure rates by 25% every year.
+
+Recommendation 13: POS machines should have inbuilt features to monitor network issues and minimise declined transactions on account of poor connectivity. The SLBC/DLCC may be used to coordinate with the state-level representative of the DoT to resolve these issues and ensure a reliable telecom infrastructure for payments. BharatNet must be made operational at the earliest.
+
+Recommendation 14: Activate the FIN-CERT. The proposed Computer Emergency Response Team for finance (FIN- CERT) must be operationalised to monitor the security of digital payment systems.
+
+Recommendation 15: Educate users. The RBI must publish aggregated fraud data periodically, and educate users on the emerging risks and ways to protect themselves.
+
+Recommendation 16: Prevent the use of insecure devices for payments. Payment applications must be prevented from running on insecure devices, including rooted phones.
+
+Recommendation 17: Identify obsolete phone numbers in financial databases. Telecom operators must publish a monthly list of inactive telephone numbers that may be issued to new customers. Financial system providers must mark obsolete numbers in their databases to protect customer accounts and sensitive information.
+
+Recommendation 18: Create a centralised fraud registry for real-time rating of transaction risk. The regulator must facilitate the creation of a central fraud registry that tracks all reported fraud, which is accessible to all payment system participants on a near real-time basis.
+
+Recommendation 19: Dispute resolution systems may be enhanced to keep track of fraud reports and coordinate with the fraud registry, and regulatory reporting.
+
+Recommendation 20: Enable a robust Cash In Cash Out (CICO) Network . Strengthening of Business Correspondent infrastructure and empowering small merchants to provide cash at POS to customers to meet their immediate requirements, especially in semi-urban and rural areas. The RBI must ensure a healthy Cash-In-Cash-Out network in which:
+
+The SLBC, and DLCC must monitor the health of the ecosystem through the data already collected, and pay attention to the income and viability of business correspondents.
+
+Recommendation 21: Spread best practices. For example, payment systems operators may make the necessary changes to allow for auto-reversal of failed transactions.
+
+Recommendation 22: Make B2B payments more software friendly . A common complaint is that when large customers pay their supplier against an invoice, the payment instructions do not have enough information to reconcile the payments with the corresponding invoices. Banks must enable software-driven transactions that carry invoice information. The relevant payment metadata schemas may be updated for this.
+
+Recommendation 23: Monitor progress with data. The RBI should develop a quantitative financial inclusion index to measure the level of implementation in various parts of the country and build in a competitive element. This data must be sufficient for stakeholders to monitor the supply of, and demand for, digital financial services, and to assess the impact of key programs and reforms.
+
+Recommendation 24: The RBI must conduct periodic user surveys to gauge attitudes to digital payments. This data must be used to enable location-specific decision making.
+
+Recommendation 25: Empower for the State-Level-Bankers-Committee/ District Level Consultative Committee through data. The RBI must publish aggregated data for all service areas with sufficient details on users, infrastructure and usage.
+
+Recommendation 26: Create a standing committee on digital payments at the SLBC. Each SLBC should set up a standing committee on Digital Payments to further improve digitisation, especially in semi-urban and rural centres. This committee may also investigate and provide quick solutions relating to Aadhaar seeding in customer accounts.
+
+Recommendation 27: Review limits on Basic Savings Bank Deposit accounts and small accounts. All limits for BSBD and small accounts must be modified so that the government, insurance and other statutory payments are not included. BSBDA accounts must be allowed a reasonable number of free digital payment transactions. A graded path must be made available to upgrade customers into more suitable accounts without them losing benefits. The RBI must also consider capping the fees to any BSBD or small accounts.
+
+Recommendation 28: Promote BHIM Aadhaar Pay to serve customers without phones. BHIM Aadhaar Pay may be promoted to allow users without a mobile phone to make digital payments from their Aadhaar-enabled bank accounts.
+
+Recommendation 29: interoperability among business correspondents: Support must be provided for offus transactions by all banks that receive DBT transfers so that users can use their accounts from the closest BC agent, and the agent can be compensated fairly. The interchange for these transactions may be set at 1%, with a maximum of Rs 15 per transaction.
+
+Recommendation 30:Revisit Micro ATM and APBS Architecture. IBA must revisit the technical architecture of Micro ATMs, and improve it to support other banking services beyond dispensing cash.
+
+Recommendation 31: The IDRBT, NPCI and the DBT cell must revisit the architecture of the APBS and DBT delivery to give beneficiaries control over funds flow and enable them to on-board themselves into various schemes.
+
+Recommendation 32:Â Promote digital transactions at rural farmers markets, and ensure that adequate digital infrastructure is available at all wholesale grain mandis, village haats, etc.
+
+Recommendation 33: Encourage innovation for use of feature phones in digital payments. Use the regulatory sandbox to enable users with feature phones to use digital payments in a way that is interoperable with the rest of the ecosystem (such as QR codes). Solutions are also required for situations where a single phone is shared by a family.
+
+Recommendation 34: Bring in RRBs into the digital payments ecosystem : To cover customers in villages and semi-urban centres who bank with regional rural banks (RRBs), all RRBs should be brought under the ambit of UPI at the earliest. IFTAS may be appointed as the implementing agency and may consider a cloud implementation for better security and management.
+
+Recommendation 35: Technology should be made available to people with special needs , and in Indian languages , to the extent possible.
+
+Recommendation 36: Convert business correspondents into digital assistants , and their operations must be monitored by IBA through respective banks and SLBCs.
+
+Recommendation 37: Promote financial literacy through frontline staff and agents. The National Center For Financial Education (NCFE) must create standard materials to educate customers on digital payments and their rights. These materials may also be used by frontline agents to help customers use digital payments.
+
+Recommendation 38: The regulator must conduct awareness programs to support the SLBC staff with their immediate requirements. The Financial Education Fund may be used for this.
+
+Recommendation 39: Enable Kisan Credit Cards for digital payments by converting them to RuPay cards on priority (say, within a year), with adequate infrastructure in place for KCC holders to make purchases digitally.
+
+Recommendation 40: Easier digital purchase of train tickets . Unreserved Ticketing System must be made interoperable with all other online payment systems and must be available at no additional cost.
+
+Recommendation 41: Enable recurring payments in all digital payment systems. The committee recommends that BHIM UPI be upgraded to allow recurring payments use cases, through e-Mandates. Users must have the option to cancel the mandate, with a notification to the other party.
+
+Recommendation 42: Promote interoperable standards for transit payments , by adopting common technical standards and a road map to migrate existing systems to a common new standardised platform such as the NCMC. Mobility cards should not have any KYC requirements. The RBI must provide guidelines on liabilities in case of lost and stolen cards.
+
+Recommendation 43: Enable wider use of NCMC . The NCMC card usage must be extended beyond mobility use cases and should be accepted by POS devices. A roadmap for this may be put in place.
+
+Recommendation 44: RTGS/NEFT. The RBI must review the usage patterns of RTGS/NEFT on a quarterly basis and adjust the hours of operation so that users have options to make high value digital payments at any time.
+
+Recommendation 45: Bharat Bill Payment System: The scope of BBPS may be liberalised to include all categories of recurring payments. More non-banks must be brought in as BBPOUs to increase the coverage of potential billers.
+
+Recommendation 46: Standardise toll collection so that traffic can flow smoothly on national highways. National Electronic Toll Collection (NETC) must also allow other vehicle-related use cases, such as parking and road congestion in smart cities, to be developed through APIs, and bring in more issuers and acquirers.
+
+Recommendation 47: To reduce the cost of ATM operations , the RBI and the Government must take a consultative approach to changes required from ATM networks, and also review the recent guidelines for swapping cassettes during the loading of cash in ATMs.
+
+Recommendation 48: ATMs should be complete digital facilitation points , not merely cash dispensers, and support cash deposit, bills payment, funds transfer, tax deposits, mobile recharge etc, and must also provide customer support and grievance reporting.
+
+Recommendation 49: Signing up proper Service Level Agreements with banks for National Automated Clearing House (NACH) registrations to improve efficiency and transparency in operations. Users must be given simple options to manage their active mandates.
+
+Recommendation 50: Review all high-volume payment systems every 6 months: The BPSS must conduct a half-yearly comprehensive review of all high-volume payment systems, including market dynamics, customer complaints, frauds, decline rates, and any other issues that may affect customers.
+
+Recommendation 51: Facilitate first level regulators/self-regulatory organizations. The regulator must facilitate the creation of a Self-Regulatory Organization for the recently licensed NBFC Account Aggregators. This can serve as a blueprint for more SROs that may be created later.
+
+Recommendation 52: Promote use of regulatory sandbox.
+
+Recommendation 53: Â Consider investment in digital payment infrastructure for priority sector lending.
+
+Recommendation 54: Create KYC data-sharing mechanisms with user consent . As PMLA rules provide for a reporting entity to rely on KYC checks done by another reporting entity, financial sector entities must come together with a data sharing proposal based on verifiable user consent to share minimum KYC data, with adequate oversight and safeguards, which the FSDC may consider for approval.
+
+Recommendation 55: Simplify KYC/CDD processes, for uses cases like:
+
+Recommendation 56: Consider re-activating dormant wallets and small accounts. Wallets and small accounts that may have become dormant due to KYC compliance deadlines may be considered for re-activation if loaded from KYC-compliant accounts.
+
+Recommendation 57: NPCI must put together an internationalisation plan for Indian payment systems such as RuPay and BHIM UPI to ease remittances into India and to help Indian travellers make payments abroad. The BHIM UPI protocol and RuPay must be considered for standardisation.
+
+Recommendation 58: Digitize citizen/business to government payments : by including card payments, UPI, etc for services like:
+
+In case of time-bound payments, the system should disincentivise using physical or paper-based payment options at the last minute, and force people to use only digital payments. Cost of transaction must not be passed on to consumers. Where a printed bill or e-bill is generated, mandate the use of a printed Bharat/BHIM UPI QR code.
+
+Recommendation 59: The government must continue the current scheme to refund the Merchant Discount Rate for small value transactions (under Rs 2,000) beyond December 2019 for another two years, to ensure that small merchants continue to accept digital payments.
+
+Recommendation 60: Businesses must be given tax incentives based on the proportion of digital payments in their receipts.
+
+Recommendation 61:Â Enable use of digital documents for KYC. The PMLA rules must be modified to recognise Officially Valid documents that are digitally signed by the issuer as original documents. Issuers of these documents (such as PAN, Passport) must be encouraged to provide these to users.
+
+Recommendation 62: Government processes must be modified so that they adhere to the payment systems rules and processes. This will enable complete participation, including in charge-back claims for fraudulent transactions, dispute resolution mechanisms, refunds, etc.
+
+Recommendation 63: The Accountant General’s office must be involved in the changes in processes of handling information and funds on account of digitisation of payments and receipts.
+
+RBI may consider permitting the PGs and aggregators to use separate accounts for routing Government receipts. This would help Governments access various online receipt mechanisms through Payment Gateways.
+
+Recommendation 64: All payments from the Government to citizens must be done digitally , includingÂ salaries, direct benefits transfer (DBT), and payments for goods and services. Additional DBT payments costs must now be borne by the userâs bank and agents, and the Government must ensure that it pays for any additional cost borne by the banks / agents due to these payments.
+
+Recommendation 65: The digitisation of all Government accounts and the workflows that involve payments to and from the Government, and also support effective customer grievance management.
+
+Delay in managing Direct Benefits Transfer returns issue through APBS needs to be addressed:
+
+Recommendation 66: The Government must reduce the taxes on the devices, accessories and services required for digital payments, including a GST waiver on transaction charges of IMPS & AePS for transactions up to Rs 5,000, and the simplifications of taxes for BC transactions to reduce the tax rate.
+
+Recommendation 67: The current import duty of 18% on POS machines should be reduced to zero for three years to facilitate expansion.
+
+Recommendation 68: Allow CSR spend on digital financial inclusion , for setting up payment facilities, education, camps, etc.
+
+Recommendation 69: Introduce a closed loop wallet for Government transactions for small value payments and refunds. A similar facility may be implemented for corporate taxpayers.
+
+Recommendation 70: Simplify mobility through NCMC Wallet , with no KYC and a limited use case: 1. Maximum value in the wallet: Rs 2,000 2. Maximum spending in a month: Rs 10,000 3. May be used only for proximity payments 4. May be loaded with cash or from a bank account. 5. May be used at merchant locations, into a merchant bank account.
+
+All new metro and transit payments must be made interoperable through NCMC. Legacy contracts for payment services in the various metros must be transitioned to include NCMC when renewed.
+
+Recommendation 71: The Government must disincentivise cash receipts in favour of digital receipts. The savings may be used to provide incentives to those use pay digitally.
+
+Recommendation 72: There is a need to relook at USSD SMS charges to reduce its price and increase adoption.
+
+Recommendation 73: Set up inter-regulatory cooperation for security . The RBI must set up a joint working group on payment systems security with TRAI and payment systems operators to work with mobile OS vendors and telecom providers to monitor risks to digital payments, and to improve payment system security. This effort may be coordinated with FIN-CERT when it becomes operational.
+
+[embeddoc url=”https://www.medianama.com/wp-content/uploads/RBI-ditigal-payments-report.pdf” download=”all”]
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

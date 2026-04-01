@@ -1,0 +1,82 @@
+SUBREDDIT: r/india
+TITLE: Alt News, Razor Pay and Section 91 | #Privacyofthepeople: 91 problems but this ain’t one
+DATE: 2022-07-16
+SCORE: 135
+URL: https://www.reddit.com/r/india/comments/w0a8h5/alt_news_razor_pay_and_section_91/
+
+--- POST TEXT ---
+
+&amp;#x200B;
+
+https://preview.redd.it/25kc8ec0mvb91.png?width=1600&amp;format=png&amp;auto=webp&amp;s=7db9f1bbf402a4035d6866341ff0649a0c58df17
+
+ 
+
+# tl;dr
+
+Delhi Police issued a [**notice**](https://www.newslaundry.com/2022/07/07/was-razorpay-legally-bound-to-share-alt-newss-data-yes-and-no) to Razorpay under [**Section 91 of the Criminal Procedure Code, 1973**](https://indiankanoon.org/doc/788840/#:~:text=(1)%20Whenever%20any%20Court%20or,issue%20a%20summons%2C%20or%20such) (“**Section 91**”) while it was investigating Mr Mohammad Zubair, a fact-checker and founder of [**Alt-News**](https://www.altnews.in/). In compliance with the notice, Razorpay shared the personal information of donors of Alt-News without informing Alt-News or the donors. In this #Privacyofthepeople post, we explain the scope of Section 91 notices, how they may impact your right to privacy and what remedies you have under law. Since IFF uses Razorpay to receive donations, we also explain the steps we are taking to protect donor privacy.
+
+## Why should you care?
+
+Most people make several payments using the internet every day. These include the payments we make for travelling or buying groceries or ordering lunch. These also include the donations we make to the causes we support. All these transactions, individually and in aggregate, reveal a trove of information about us such as our name, age, and address but could also indicate our political affiliation or sexual orientation or who we spend time with. We engage in these transactions because we trust that your personal information will remain with those whom we share it with. But Section 91 allows the police to access this information. They can ask Google for your search history, Uber about where you travelled, or Razorpay, whom you donated to. Concerned? Read on to find out what Section 91 is and if there are any limitations to it.
+
+### What is Section 91?
+
+Section 91 empowers any officer in charge of a police station to issue a written order to any person for the production of any document that is ‘*necessary or desirable’* for the purposes of any investigation, inquiry, trial or other proceedings. When a person receives an order under this provision, they can either choose to comply and provide the information they have or decide against complying by simply refusing or by challenging the order before the appropriate Court of Law. If they choose to not comply, they may be prosecuted under provisions of the Indian Penal Code ([**175**](https://indiankanoon.org/doc/54229/#:~:text=%E2%80%94Whoever%2C%20being%20legally%20bound%20to,extend%20to%20five%20hundred%20rupees%2C), [**186**](https://indiankanoon.org/doc/488479/#:~:text=%E2%80%94Whoever%20voluntarily%20obstructs%20any%20public,hundred%20rupees%2C%20or%20with%20both.) and [**187**](https://indiankanoon.org/doc/697568/#:~:text=187.,by%20law%20to%20give%20assistance.)) for obstructing the investigation.
+
+Mr. Abhinav Sekhri, a criminal trial lawyer and Of-Counsel at IFF, has [**explained**](https://theproofofguilt.blogspot.com/2022/07/on-section-91-notices-and-razorpay.html) that such prosecution may be ‘*far off in the future’* but the police, perhaps with a questionable basis, could take coercive measures against the person that has not complied with the Section 91 order. In his [**blog post**](https://theproofofguilt.blogspot.com/2022/07/on-section-91-notices-and-razorpay.html), he detailed the case of Alibaba Cloud Services which did not adequately respond to a Section 91 order because of which the police issued an order to a bank to freeze all their transactions.
+
+### Delhi Police’s notice to Razorpay under Section 91
+
+On June 27, 2022, the Delhi Police [**arrested**](https://www.outlookindia.com/national/arrest-of-journalist-mohammad-zubair-what-happened-and-how-media-and-opposition-reacted-news-205195) Mohmmad Zubair over a tweet from 2018. Later they [**claimed**](https://indianexpress.com/article/cities/delhi/mohammed-zubair-bail-denied-judicial-custody-8005566/) that he may have violated provisions of the Foreign Contribution (Regulation) Act, 2010. In response, Alt-News [**stated**](https://twitter.com/AltNews/status/1543851745842843648?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1543851745842843648%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.newslaundry.com%2F2022%2F07%2F04%2Falt-news-says-fcra-violation-claims-categorically-false-staff-only-gets-monthly-salary) that they only take donations from Indian bank accounts. This led to Delhi Police issuing a Section 91 order to Razorpay. According to public statements by [**Alt-News**](https://mobile.twitter.com/AltNews/status/1544280484154265601) and [**Razorpay**](https://www.thehindu.com/news/national/pan-address-of-alt-news-donors-not-shared-with-police-says-razorpay/article65617820.ece), the order asked Razorpay to provide ‘transaction data’ which would include personal details of the individuals who made donations to Alt-News through the Razorpay platform.
+
+Razorpay, after seeking legal advice, [**complied**](https://twitter.com/harshilmathur/status/1545420749246443520) with the request and shared the information which was sought. This understandably led to outrage amongst donors of Alt-News who were concerned about the breach of their privacy. To assuage the concerns, the CEO and Co-Founder of Razorpay issued a [**statement**](https://twitter.com/harshilmathur/status/1545420749246443520) claiming that Razorpay had not shared the PAN, address or pin code of users as the scope of the notice was limited to whether Alt-News received any foreign donation or not. The statement also mentioned that Alt-News was enabled to receive only domestic payments. Notably, the statement did not clarify the nature of the data which was shared.
+
+The decision of Razorpay was in conformity with their [**privacy policy**](https://razorpay.com/privacy/) which states that they may share personal information with third parties in a good faith belief that such disclosure is reasonably necessary to ‘*comply with legal process, such as a search warrant, subpoena, statute, or court order.*’ The privacy policy also states that Razorpay is ‘*not required to question or contest the validity of any search warrant, subpoena or other similar governmental request’.*
+
+At the same time, Razorpay’s privacy policy or the law did not prevent Razorpay from informing Alt-News and its donors (who are also customers of Razorpay) that they had received a Section 91 order and that they were sharing personal information in compliance with the same. Yet, Razorpay did not do so in its [**initial statements**](https://indianexpress.com/article/cities/delhi/razorpay-deactivates-then-restores-altnews-payment-link-8009163/) and stated they had deactivated Alt News’s account as a safety precaution, during a preliminary investigation by law enforcement authorities.
+
+### Can Section 91 orders be challenged?
+
+While Razorpay’s privacy policy correctly states that it is not required to contest the validity of government requests, that does not mean that Section 91 orders cannot be challenged. There are limitations over the power of the police to issue these orders:
+
+1. **Section 91 orders cannot unlawfully restrict the right to privacy:** The Supreme Court in [***District Registrar and Collector, Hyderabad*** **v.** ***Canara Bank and Ors.,*** **(2005) 1 SCC 496**](https://indiankanoon.org/doc/1068532/) has held that the ‘*right to privacy deals with persons and not places, the documents or copies of documents of the customer which are in Bank, must continue to remain confidential vis-à-vis the person, even if they are no longer at the customer's house and have been voluntarily sent to a Bank*.’ Thus, even when you have shared personal information with third parties, such as Razorpay, you have a right to ensure that the information remains confidential. The right to privacy can be restricted by the State only in accordance with the Supreme Court’s decision in[ ***K.S. Puttaswamy*** **v.** ***Union of India*****, (2017) 10 SCC 1**](https://indiankanoon.org/doc/91938676/) which requires that any restriction must be lawful, necessary, proportionate and least restrictive.
+2. **Cannot engage in roving and fishing inquiries:** **S**ection 91 requires that the information the police have sought is related to the investigation they are conducting. As we have pointed out [**before**](https://internetfreedom.in/iff-questions-the-legality-of-tripura-polices-direction-to-block-accounts-on-twitter/), these orders cannot be unduly broad and cannot definitely be used to censor speech.
+
+However, any decision to challenge Section 91 orders comes with its own difficulties.
+
+*First,* the provision is extremely broadly worded which limits the chances of success before the Court of Law. The police can direct the production of anything that is ‘desirable’ for investigations. As Mr. Sekhri [**puts it**](https://theproofofguilt.blogspot.com/2022/07/on-section-91-notices-and-razorpay.html), ‘*anything can be desirable for the investigation.’*
+
+*And second,* the limited circumstances where Courts have interfered with Section 91 orders are those [**situations**](https://highcourt.cg.gov.in/Afr/courtJudgementandAFR/2021/jun/WP(CR)678_20(07.06.21).pdf) in which there wasn’t even an ongoing investigation, proceeding, trial or inquiry and yet the order was issued by the police.
+
+It is also worth noting that in our research, we did not come across cases where third parties have challenged Section 91 orders. The orders are challenged by those who are issued the order.
+
+### Does the Data Protection Bill, 2021, protect your financial data from law enforcement agencies?
+
+The [**Data Protection Bill, 2021 (‘DPB, 2021’)**](https://internetfreedom.in/key-takeaways-the-jpc-report-and-the-data-protection-bill-2021-saveourprivacy-2/#:~:text=The%20Draft%20Data%20Protection%20Bill%2C%202021%2C%20following%20earlier%20versions%20of,be%20forgotten%20(Clause%2020).) defines financial data as sensitive personal data which is a subset of personal data. Clause 11 imposes an obligation on data fiduciaries which includes the law enforcement agencies (‘**LEAs**’), to not process any personal data except with the free, informed, and specific consent of the data principal. However, Clause 12 permits LEAs to process personal data without the consent of data principals if it is permitted by any law made by the Parliament or the State Legislature. Thus, even after the enactment of data protection legislation, LEAs can continue to issue Section 91 orders seeking personal data. But as stated above, the constitutional limitation of lawfulness, necessity and proportionality, as recognised by *Puttaswamy,* will continue to apply.
+
+Separately, Clause 8(3) of DPB, 2021 requires data fiduciaries such as Razorpay to notify individuals when they share their personal data with third parties including LEAs. The Joint Parliamentary Committee has recommended that this obligation to notify does not apply when such a notification can prejudice any function of the state authorised by law. In Razorpay’s case, in our opinion, such notification would not have caused prejudice to the ongoing investigation.
+
+In any case, the existing law also does not prevent data fiduciaries from notifying individuals when their personal data is shared with the Government or third parties. Such notification is necessary because it will enable data principals to take appropriate action and it should be made an industry practice.
+
+In addition to the above, it is also important to note that the Union Government is conducting a [**comprehensive review**](https://indianexpress.com/article/india/amit-shah-asks-cji-mps-judiciary-amend-criminal-laws-7718085/) of the Indian Penal Code, 1860 and Code of Criminal Procedure, 1973. We hope that the limitations upon the power of LEAs to issue a notice under Section 91, as recognised in *Puttaswamy,* are codified through the proposed amendments.
+
+### What is IFF doing to protect donor data?
+
+Delhi police’s Section 91 order to Razorpay has worried us. Maintaining the privacy of our donors is a priority. We are taking the following steps to protect your personal information:
+
+1. We started accepting donations as a publicly registered non-profit in 2019. Since then, we have used Razorpay for processing payments. Now, we are offering you a choice to give to us through either [**Cashfree**](https://www.cashfree.com/privacypolicy.html) or [**Razorpay**](https://razorpay.com/privacy/). This step diversifies the servers where the data of our donors is stored.
+2. All our donor data is stored with [**ERPNext** ](https://erpnext.com/)which is built on open-source software that stores data with the highest standards of security. We have two-factor authentication and access controls to the platform.
+3. We have a [**privacy policy**](https://internetfreedom.in/privacy-policy/#:~:text=The%20InternetFreedom.in%2C%20SaveTheInternet.,under%20the%20age%20of%2018.) in place which governs how we collect, store, and process data. We are currently updating it to ensure that it not just complies with applicable law (which it already does) but also meets international best practices. In any case, our current policy explicitly states that ‘*we will not transfer or share this information with other third parties unless compelled by law, and we will vigorously challenge any overbroad government request to access it*.’
+4. We have sent emails to Razorpay and Cashfee providing them details of a point of contact at IFF (Executive Director and Chief of Staff) and urging them to inform us and our donors in the event they are compelled to share data of our donors with law enforcement agencies. As stated above, existing law does not prevent them from informing us when they share data.
+
+The order to Razorpay highlights existing gaps in the law. Law enforcement agencies have been conferred extraordinary power without sufficient independent oversight. Ultimately, irrespective of the steps we take as an organisation, the privacy of Indians and our donors can only be guaranteed when there is a law regulating government collection of data.
+
+We believe that the current iteration of the Data Protection Bill is not sufficient to address these concerns. It does provide safeguards to prevent abuse by law enforcement agencies. That is why we will continue with the #Privacyofthepeople series which highlights our concerns with the Bill and advocates for legislation which protects the privacy of Indian citizens.
+
+### Important Documents
+
+1. IFF’s privacy policy ([**link**](https://internetfreedom.in/privacy-policy/#:~:text=The%20InternetFreedom.in%2C%20SaveTheInternet.,under%20the%20age%20of%2018.))
+2. Previous blog post titled ‘*IFF questions the legality of Tripura Police’s direction to block accounts on Twitter’* ([**link)**](https://internetfreedom.in/iff-questions-the-legality-of-tripura-polices-direction-to-block-accounts-on-twitter/)
+3. Notice to Twitter Inc under Section 91 of the Code of Criminal Procedure ([**link**](https://drive.google.com/file/d/1-1RRK8Xd9uYCDomgY-EPY7hSUWNrwi0J/view?usp=sharing))
+4. IFF’s representation to West Agartala Police dated November 8, 2021 ([**link**](https://drive.google.com/file/d/1xMTm8vZ_8WCOaHE80RiSGjtlVx4Fq_Uk/view?usp=sharing))

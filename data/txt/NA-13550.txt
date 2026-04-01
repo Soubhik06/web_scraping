@@ -1,0 +1,229 @@
+At the India AI Impact Summit 2026, companies and public institutions unveiled domain-specific AI systems embedded into telecom networks, payment rails, classrooms, healthcare platforms, agricultural supply chains and defence operations. The emphasis shifted away from abstract model benchmarks toward deployment inside high-scale, high-trust environments.
+
+While policy speeches outlined Indiaâs AI ambitions, the product announcements showed where integration is already taking place.
+
+Hereâs what our correspondents, Chaitanya and Prabhanu, observed at the summit expo, including the systems demonstrated on the ground and the products launched alongside formal announcements.
+
+Sarvam AI was among the most product-active companies during the summit period, announcing new foundation models while also expanding its deployment ecosystem across speech, vision, agents and infrastructure.
+
+Sarvam introduced two large language models, including a 105 billion parameter model trained and hosted on India-based data centre infrastructure. A model of this scale places it closer to frontier-sized systems rather than lightweight fine-tuned models.
+
+The company also unveiled Indus, a chat-based application powered by the 105B model. Access to Indus remains limited due to compute capacity constraints.
+
+Sarvam showcased AI dubbing, speech recognition and text-to-speech systems designed for multilingual Indian language use cases. These tools enable translation and voice generation across languages and are intended for media localisation, transcription and voice-based enterprise or public-sector interfaces.
+
+The company demonstrated document parsing and optical character recognition (OCR) systems capable of extracting text, tables and structured data from Indian language documents. It also presented an AI agent layer that reviews extracted text and corrects errors, allowing documents to be processed more accurately.
+
+Sarvam unveiled Kaze, AI-powered smartglasses designed to run conversational workflows in a wearable format. The device supports offline functionality, meaning it can operate without continuous internet connectivity.
+
+Sarvam introduced enterprise conversational agent platforms that can connect to backend systems to retrieve information or execute tasks. It also presented multi-agent coordination tools designed to allow several AI agents to work together on structured workflows.
+
+In addition, the company demonstrated on-device AI systems capable of operating in secure or air-gapped environments, meaning systems isolated from the public internet for security reasons.
+
+Separately, Sarvam announced partnerships with Odisha and Tamil Nadu to build AI-optimised data centre infrastructure, linking its model development efforts with planned domestic compute expansion.
+
+BharatGen, the government-backed AI initiative, introduced Param2, a multimodal foundation model designed as part of Indiaâs public digital AI infrastructure.
+
+Param2 supports 22 Indian languages and is built to process multiple types of input, including text and images. By positioning it as public infrastructure, the initiative signals an intent to make the model accessible for integration into government services, research institutions and public-sector applications rather than limiting it to proprietary commercial use.
+
+The launch reflects an effort to develop a shared, state-supported AI backbone alongside private-sector model development.
+
+Tech Mahindra announced a Hindi-first foundational large language model of approximately 8 billion parameters, tailored primarily for education-focused use cases.
+
+Unlike larger frontier-scale models, this system is positioned as a more targeted deployment model. It is designed to support classroom AI agents, conversational tutoring and structured local-language learning systems.
+
+The focus on Hindi and educational contexts suggests an attempt to build domain-specific AI tools rather than compete directly in general-purpose model development.
+
+Gnani.ai, an Indian speech technology startup focused on conversational and voice AI solutions, showcased its multilingual voice AI system at the summit. The companyâs technology combines speech recognition, synthesis and voice cloning to support a range of use cases across enterprise and public-sector applications.
+
+At the event, Gnani.ai demonstrated capabilities that include text-to-speech synthesis in multiple Indian languages and voice cloning from short audio samples. The system can generate natural-sounding speech and replicate a speakerâs voice with minimal data.
+
+Gnani.aiâs platform targets enterprise workflows such as customer support automation and language-inclusive voice services for government and public interfaces.
+
+In addition to product demonstrations, several companies announced institutional partnerships and long-term commitments at the India AI Impact Summit. These announcements focused on government collaboration, enterprise deployment and infrastructure expansion.
+
+Google announced multiple partnerships involving Indian government and public-sector institutions, spanning research access, civil service training and climate policy.
+
+Google DeepMind said it will collaborate with Indian government bodies and local institutions under its National Partnerships for AI initiative.
+
+The collaboration includes:
+
+This creates a formal channel for government-linked research and education institutions to use advanced AI models for scientific and public-sector applications.
+
+Google announced a partnership with Karmayogi Bharat, which implements Mission Karmayogi, Indiaâs civil service training programme.
+
+Google Cloud will provide infrastructure support for the iGOT Karmayogi platform, the Government of Indiaâs digital learning and capacity-building portal for civil servants that delivers structured online training and competency-based professional development across ministries and departments.
+
+The platform serves more than 20 million public servants across over 800 districts.
+
+The collaboration includes:
+
+This integrates Google Cloud into a national administrative training system.
+
+Google also announced the establishment of a Google Center for Climate Technology in collaboration with the Office of the Principal Scientific Advisor to the Government of India.
+
+The centre will focus on AI-enabled climate research and deployment in coordination with government stakeholders.
+
+OpenAI announced a series of enterprise and platform partnerships across IT services, streaming, travel, fintech and education. The company also confirmed plans to open offices in Mumbai and Bengaluru, expanding beyond its current presence in New Delhi.
+
+OpenAI announced that Tata Consultancy Services will integrate ChatGPT Enterprise and Codex into internal systems to build industry-specific AI solutions for enterprise clients.
+
+Separately, OpenAI said it will work with TCSâs data centre subsidiary, HyperVault, to build AI data centre infrastructure as part of its Stargate initiative. The project is expected to begin at 100 MW and scale toward 1 GW capacity, aligned with OpenAIâs broader global infrastructure expansion plans.
+
+JioHotstar will integrate ChatGPT-powered conversational search into its platform. Instead of keyword-based discovery, users will be able to describe what they want to watch in natural language. The feature is expected to work across both live and on-demand formats.
+
+Eternal, the parent company of Zomato, said it will deploy OpenAIâs Enterprise APIs across Blinkit, District and Hyperpure. The integration is expected to support operational workflows, search, discovery and decision-support systems.
+
+MakeMyTrip is integrating OpenAI APIs to power its AI travel assistant, Myra. The aim is to convert conversational queries directly into bookings for flights, hotels and other services. The company recently disclosed that its chatbot assistant handles more than 50,000 conversions per day, up from roughly 25,000 earlier.
+
+IXIGO announced it will integrate agentic AI across internal systems and consumer platforms, including ConfirmKit and AbhiBus, to support booking and customer workflows.
+
+Pine Labs will use OpenAIâs APIs to build what it describes as an agentic stack for financial transactions. The company said it intends to open parts of this stack to third-party developers, enabling AI-enabled fintech applications within regulated environments.
+
+OpenAI also noted prior partnerships with PhonePe, CRED, Razorpay and HCLTech.
+
+OpenAI announced more than 100,000 ChatGPT Education licenses across five institutions:
+
+Through its partnership with the Tata Group, OpenAI also said it will introduce AI-related professional certifications, with TCS participating as the first non-US organisation in its certification programme.
+
+Anthropic formally opened its Bengaluru office and announced partnerships spanning enterprise, public infrastructure, education and agriculture. The company said India is its second-largest market for Claude.ai, with nearly 50% of usage tied to building applications, modernising systems and shipping production software.
+
+A central announcement was Anthropicâs collaboration with Infosys to deploy AI agents across telecommunications, financial services, manufacturing and software development.
+
+The partnership integrates Claude models and Claude Code with Infosys Topaz, Infosysâ generative and agentic AI platform. Infosys will embed Claude into enterprise workflows in compliance-sensitive sectors, beginning with telecommunications through a dedicated Center of Excellence.
+
+The focus is on agentic AI systems that execute multi-step tasks rather than respond to single prompts. Use cases include:
+
+In telecommunications, the companies said agents will modernise network operations and customer lifecycle management. In financial services, the emphasis is compliance automation and risk assessment. In manufacturing, the focus is accelerating product design and simulation.
+
+The collaboration positions Anthropicâs India strategy around enterprise deployment in regulated sectors rather than consumer applications.
+
+Anthropic detailed efforts to improve model performance across major Indian languages. Over the past six months, the company curated higher-quality training data in 10 widely spoken languages, including Hindi, Bengali, Marathi, Tamil, Telugu, Gujarati and Urdu.
+
+It is working with Karya and the Collective Intelligence Project to build domain-specific evaluation benchmarks across agriculture and law, in partnership with organisations such as Digital Green and Adalat AI. These evaluations are expected to be made publicly available.
+
+Anthropic highlighted its Model Context Protocol (MCP), an open standard for connecting AI systems to external data sources, which has been donated to the Linux Foundation.
+
+Indiaâs Ministry of Statistics and Programme Implementation, with support from Bharat Digital, has launched an official government MCP server that allows AI systems to query national statistical datasets. Swiggy is also using MCP to enable ordering workflows through Claude.
+
+Anthropic is supporting Adalat AI in launching a WhatsApp-based judicial helpline that uses Claude to provide case updates, translation and document summarisation in Indian languages.
+
+Educational and instructional tasks account for 12% of Claude usage in India. Anthropic is partnering with Pratham on its Anytime Testing Machine, currently piloted across 20 schools and adapted for learners in the Second Chance programme.
+
+The company is also collaborating with Central Square Foundation to support AI-enabled tutoring and teacher tools aimed at underserved communities.
+
+In nonprofit and healthcare settings, Claude Code and Cowork are being deployed with organisations such as Noora Health and Intelehealth to support documentation and operational workflows.
+
+Microsoft said at the summit that it is on pace to invest $50 billion in AI across countries in the Global South by the end of the decade.
+
+The company described this as part of its broader strategy to expand AI infrastructure, skilling programmes and multilingual AI capabilities in emerging markets. Microsoft did not announce India-specific enterprise partnerships at the summit but framed its participation around long-term investment and diffusion across the Global South.
+
+Jio showcased a set of AI applications that it framed as components of a broader âAI stack,â combining sector-focused tools with planned investments in domestic compute and network infrastructure. Rather than announcing a single flagship model, the company presented AI as an embedded layer across multiple verticals.
+
+Jio Arogya AI is designed as a primary healthcare screening system that can assess symptoms in local languages and generate basic referral recommendations. The tool appears intended for integration into frontline or community health workflows, suggesting use cases in clinics or public health settings rather than as a direct-to-consumer medical application.
+
+Jio AI Homes operates as an AI orchestration layer for connected devices. It is meant to coordinate and automate smart home functions across IoT systems, positioning AI as a control interface within Jioâs broader connectivity ecosystem. The emphasis was on integration with existing digital infrastructure rather than launching a standalone hardware product.
+
+Jio Creator AI remains under development. The company described it as a tool to generate advertisements and content assets for creators and small businesses. Our reporters at the summit examined the system as part of Jioâs showcase. It was presented as a future-facing capability and has not yet been deployed.
+
+The Jio Shiksha Classroom Interface is also in development. It is designed to support structured classroom environments by assisting teachers with lesson delivery and enabling personalised student engagement. Jio positioned it as an institutional support tool for schools rather than a standalone AI tutoring app. It remains an early-stage initiative.
+
+Jio also showcased JioFrames , AI-enabled smart glasses powered by Jioâs Voice AI, positioning them as a hands-free consumer interface for its broader AI ecosystem. The device supports real-time Indian language translation, voice assistance, hands-free calls, music streaming, photo and video capture, and live streaming. With JioFrames, the company extends its AI stack from telecom networks and enterprise systems into wearable hardware, embedding AI directly into everyday user interaction.
+
+Alongside these applications, Jio outlined a âNation-First AI Stack,â signalling plans to couple sectoral AI systems with domestic cloud, network, and compute investments. The framing suggests an effort to integrate AI services with Jioâs telecom infrastructure rather than operate purely as a model provider.
+
+Airtel used the summit to showcase how it is embedding AI across its telecom networks, enterprise services and data centre infrastructure, rather than launching a standalone consumer AI product.
+
+Airtel demonstrated its AI-driven fraud detection system, which operates at the network layer. The system analyses traffic patterns and behavioural signals in real time to identify spam calls, scam attempts and malicious links. By integrating AI directly into telecom infrastructure, the company aims to filter suspicious activity before it reaches end users.
+
+Beyond consumer spam detection, Airtel highlighted AI-driven enterprise security tools. These include verified business name display features designed to reduce impersonation risks, telecom network APIs intended to support secure digital services and AI-based threat detection aligned with zero-trust security models. The focus was on using AI to strengthen trust within enterprise communication systems.
+
+Airtel also outlined investments in AI-ready cloud services and the expansion of its Nxtra data centre network. The company described its infrastructure as optimised to support AI workloads and real-time analytics, while maintaining domestic data residency. It further indicated that AI is being used internally to manage network efficiency and resilience across its distributed data centres.
+
+Overall, Airtel positioned AI as embedded digital infrastructure spanning telecom networks, enterprise security and cloud systems, rather than as a standalone application layer.
+
+The National Payments Corporation of India (NPCI)Â announced FiMI , the Finance Model for India.
+
+NPCI described FiMI as a domain-specific language model built for Indiaâs payments ecosystem.
+
+Unlike general-purpose LLMs, NPCI designed FiMI to operate within high-scale, high-trust environments such as Unified Payments Interface and other national payment rails.
+
+NPCI positioned FiMI as optimized for:
+
+FiMI reflects vertically integrated AI embedded within the national financial infrastructure rather than layered as an external chatbot interface.
+
+PhonePe launched an AI-powered natural language search feature built on Microsoft Foundry, Microsoftâs enterprise AI development platform that allows companies to build and deploy generative AI applications using large language models and related tools.
+
+Instead of navigating through menu-based options, users can type or speak instructions such as âPay Hemanth 20 rupeesâ or âRecharge FASTag.â The system interprets the intent behind the request and routes the user directly to the relevant transaction or service page.
+
+This replaces traditional menu navigation with intent-based routing, where an AI layer translates conversational commands into specific in-app actions.
+
+By integrating natural language understanding into transaction workflows, PhonePe is shifting from a purely transactional interface toward a conversational layer embedded within its payments infrastructure.
+
+Razorpay and the NPCI announced a partnership to enable âAgentic Paymentsâ on Claude. The system is currently in pilot with a closed user group.
+
+The initiative integrates secure payment capabilities directly into AI-led conversations, allowing users to complete transactions within the chat interface without switching to separate apps or checkout pages.
+
+Through the integration, users can place orders for food, groceries and quick commerce services from platforms such as Zomato, Swiggy and Zepto directly via Claude.
+
+Instead of redirecting users to external payment gateways, the AI agent can complete transactions within the conversational flow after confirming intent.
+
+The launch positions AI not only as a recommendation engine but as a transaction executor.
+
+The system operates on UPI Reserve Pay, which allows users to provide one-time, consent-based authorization with predefined spending limits for a merchant.
+
+Within those limits, the AI agent can initiate payments without repeated PIN or OTP prompts. Users retain the ability to revoke consent and monitor transactions.
+
+This model attempts to balance autonomy with regulatory compliance and user control within Indiaâs payments framework.
+
+The integration reflects a shift from AI-assisted discovery toward AI-executed commerce. Rather than stopping at product search or comparison, conversational AI platforms are moving toward end-to-end transaction completion within Indiaâs UPI-enabled ecosystem.
+
+Google demonstrated a Gemini-powered AI cricket coach that uses conversational prompts to guide batting, bowling and fielding techniques. Instead of offering static tutorials, the system allows users to ask questions and receive structured responses in a back-and-forth format, simulating an interactive coaching session.
+
+The demonstration aligns with Googleâs broader partnership with the International Cricket Council for the ICC Menâs T20 World Cup 2026. Under that arrangement, Gemini has been designated as the tournamentâs Official AI Fan Companion, and Google Pixel as the Official Smartphone.
+
+The Indian Army showcased a set of deployable indigenous AI systems designed for operational readiness, surveillance and decision support in mission environments. Unlike experimental demonstrations, the Army presented these as field-ready tools integrated into defence workflows.
+
+Prakshepan is described as an AI-based military climatology and disaster prediction system. It analyses environmental and atmospheric data to support operational planning, particularly in regions vulnerable to extreme weather or terrain disruptions.
+
+XFace functions as a facial recognition platform intended for rapid identity verification in controlled environments. It is positioned for use in security-sensitive deployments where quick authentication is required.
+
+Nabhdrishti is a telemetry and aerial monitoring system that processes real-time data feeds to support surveillance and situational tracking in mission zones.
+
+The Army also demonstrated AI-enabled fatigue monitoring tools designed to assess driver alertness levels, aiming to reduce accidents and operational risks during long deployments.
+
+AI-in-a-Box is presented as a portable AI toolkit that can be deployed in the field. It allows AI capabilities to operate in constrained or remote environments without reliance on continuous connectivity.
+
+SAM-UN is a situational awareness module built to integrate multiple data inputs into a unified operational view, assisting commanders in mission planning and execution.
+
+Together, these systems reflect a defence-focused AI stack aimed at embedding machine intelligence directly into field operations rather than treating AI as a standalone experimental layer.
+
+Wadhwani AI showcased an early tuberculosis detection system designed to assist frontline health workers in screening for pulmonary TB. The system analyses cough audio patterns along with symptom inputs through a smartphone-based interface to identify individuals who may require further clinical testing.
+
+Rather than functioning as a diagnostic replacement, the tool is positioned as a screening aid intended to support early-stage detection and referral decisions in resource-constrained settings.
+
+SATHEE, developed by the Indian Institute of Technology Kanpur, was presented in its upgraded AI-enabled form at the summit. The platform supports competitive exam preparation across national entrance tests such as JEE, NEET, CUET and CLAT.
+
+The system incorporates conversational tutoring, adaptive learning tools and multilingual resources, allowing students to interact with content and resolve doubts through AI-assisted interfaces. Unlike standalone chatbot experiments, SATHEE is positioned as a structured academic support platform integrated into exam preparation workflows.
+
+Amul launched Sarlaben, an artificial intelligence assistant designed for its network of 36 lakh milk producers managing nearly 3 crore cattle. The system is currently being rolled out within Amulâs cooperative network in Gujarat.
+
+Sarlaben is integrated with Amulâs Automatic Milk Collection System and Pashudhan applications, allowing it to draw on operational and livestock-level data across the cooperative database. It provides personalised guidance on cattle health, vaccination schedules, medical treatment, feeding practices and breeding management. The assistant also shares information on government schemes and subsidies available to dairy farmers.
+
+The tool runs on Amulâs existing digital infrastructure, which processes over 200 crore milk procurement transactions annually. Farmers can access it through the Amul Farmer Mobile Application or via phone calls, extending availability beyond smartphone-only users.
+
+The announcements mark only the first stage. The real test will lie in execution, interoperability and long-term integration across sectors.
+
+We will also publish interviews and deeper analyses drawn from our reporting at the summit. Stay tuned for continued coverage and sector-specific deep dives.
+
+Here is a consolidated look at everything we covered during the past week.
+
+Thank you for reading this special newsletter compiling MediaNamaâs reporting on the product launches from the India AI Impact Summit 2026.
+
+Update: This story has been updated on February 26h at 10:33AM to include additional announcements from Anthropic, Google and other companies made at the India AI Impact Summit 2026.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

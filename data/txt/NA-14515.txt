@@ -1,0 +1,31 @@
+The government is looking into the issue of unauthorized certificates issued by the National Informatics Centre Certifying Authority (NICCA) of India, reports Â PTI.
+
+Department of Electronics and Information Technology secretary RS Sharma told the publication thatÂ Certifying Authority (CA) is now taking appropriate steps, under the guidance of the CCA (Controller of Certifying Authorities). However, he hasn’t disclosed any specific details on this.
+
+Indian CCA had previously launched an internal investigationÂ into the issue of unauthorized certificates to Google domains by the National Informatics Centre Certifying Authority (NICCA) of India, after Google had raised this issue earlier this month.Â Microsoft also mentionedÂ it was aware of improperly issued SSL certificates.
+
+CCA issues licenses and regulates the working of subordinate Certifying Authorities, which in turn issues digital certificates for electronic authentication of users. These digital certificates allow a person, computer or organisation to securely exchange information over the internet.
+
+Digital certificates works like an e-ID, and is supposed to be forgery resistant. The information on these certificates can be verified. It contains certificate holder’s name, a serial number, expiration dates, a copy of certificate holder’s public key (used for encrypting messages and digital signatures) and digital signature of the CA.
+
+After this incident came to light, a note on the CCA website had saidÂ that three CA Certificates issued to NICCA have been suspended due to security reasons and the corresponding CRLs have been updated for this purpose.
+
+On July 9, India CCA had apparently informed GoogleÂ thatÂ NICâs issuance process was compromised and that only four certificates were misissued, of which the first one was on June 25. Of this, three of them were apparently issued to Google domains and one was issued to Yahoo domains. Google however noted it is also aware of misissued certificates not included in that set of four and hence theÂ scope of the breach is unknown.
+
+Google had claimed that this incident further highlights that their Certificate Transparency project is crucial in protecting the security of certificates in the future.
+
+NICâs digital certification unit hacked
+
+Earlier this week, a Deccan Herald report suggested thatÂ NICâs digital certification unit had in fact been hacked. An unknown agent had reportedly breached the system infrastructure at NICâs Hyderabad campus, thereby making 2.5 lakh digital certificates vulnerable.
+
+Whatâs more worrying is that the report cites sources to suggest that log books brought to Delhi from Hyderabad wereÂ poorly maintained which is apparently making it difficult for investigators to determine who had access to NIC’sÂ systems architecture.
+
+The Hindu Business Line had alsoÂ reports Â that Computer Emergency Response Team-India (CERT-In) is alerting Internet users in India against possible phishing attacks from suspect digital signatures wrongly issued by NIC. CERT-In is the nodal national agency to combat hacking, phishing and to fortify security-related defences of the Indian Internet domain.
+
+The reason for issuing this alert is because the annual Income Tax filing season is at its peak, and a large number of taxpayers opt for e-filing these days.
+
+For India CCA, it is of utmost importance that the source of the breach is identified and dealt with at the earliest. Or else it will lose its credibility. The volume of e-commerce and usage of cloud-based services is one the rise in India. At this juncture, apprehensions regarding security will not just dent the prospects of companies operating in this space, but also of India as a business destination.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,19 @@
+SUBREDDIT: r/india
+TITLE: PSA: People who haven't linked aadhar to their sim and bank account, use the following app to detect data(sensor serial numbers) leaking apps/services/widgets (App not made by me but by UC Berkeley Lab)
+DATE: 2017-09-30
+SCORE: 13
+URL: https://www.reddit.com/r/india/comments/73dijt/psa_people_who_havent_linked_aadhar_to_their_sim/
+
+--- POST TEXT ---
+
+https://play.google.com/store/apps/details?id=edu.berkeley.icsi.haystack
+
+See the screenshots of the app.
+
+This app will show all the apps which do something else in background while masquerading as something else.
+
+Especially, Run this on phones running miui, the trouble is many non debloatable parts of miui continuously leak your information in background.
+
+See for yourself.
+
+Some of these apps can upload your sensor information to the carrier ( apps from operators like idea or airtel money).

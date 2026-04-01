@@ -1,0 +1,31 @@
+The Free Software Movement of India has published an open letter addressed to Dr. AB Pandey, CEO of the UIDAI regarding “Security of the Aadhaar personal data and ECMP Software”. The letter describes the coverage of the ECMP Aadhaar Enrolment Software hack reported by Asia Times and draws the notice of the UIDAI to WhatsApp messages circulating about the patched version of the software.
+
+The letter also highlights YouTube videos “which claim to demonstrate how using a software patch to the ECMP software, geo-location and bio-metric security protection can be bypassed”, similar to the one below that allow new Aadhaar enrolments without verification and updating of personal information of existing Aadhaar numbers. Such as this one:
+
+https://www.youtube.com/watch?v=i3ttp72P_Ww
+
+The FSMI terms call this a very serious concern as it endangers the sanctity of the entire Aadhaar database and asks whether the UIDAI authority has carried out an examination of these claims and if there is any merit to these claims.
+
+The letter also draws attention to a PayTM account mentioned in the YouTube video that was tracked down to a Bharat B. Who claimed to work for the Computer Sciences Corporation e-governance division. The letter asks the UIDAI whether the patched software could be the case of rogue insiders misusing their access to the software to create an illegal patched version.
+
+The letter asks UIDAI the following questions regarding the reported hack:
+
+The letter concludes by saying that the ongoing silence of the UIDAI on the issue is “fuelling speculations and rumoursÂ regarding what is supposed to be Indiaâs key data service.”
+
+The UIDAI hasn’t actually been silent about the issue. It has promptly issued a canned denial that does not actually address the hack reported , as our article points out.
+
+The letter raises valid questions. Several credible organizations and individuals working with software and security have raised similar questions in the past as well. The Mozilla Foundation has expressed concern about this reported hack as well. Earlier this year, Troy Hunt had been sceptical about UIDAI’s unsubstantiated claims of security in a post on his blog .
+
+There are several videos that appear to demonstrate the bypassing of UIDAI’s security features in the ECMP software for Aadhaar Enrolment – most of them appear to provide a phone number to contact in order to get the patch for the software and payments through PayTM. The illegal access reported in the Tribune expose was offered on WhatsApp as well, and required the payment to be made via PayTM.
+
+So far, there are no reports of any of the people selling illegal hacks to access the UIDAI database being traced or arrested, even though a few people to purchase hacked software have been arrested. This also raises serious questions about UIDAI’s ability to not just prevent misuse, but also investigate it after it has happened. The role of PayTM in enabling criminal transactions too needs to be investigated, given that payments are made through the platform and yet no one has been traced or arrested.
+
+The letter refers to Bharat B as working for the Computer Sciences Corporation. Actually, Computer Sciences Corporation is a US Company and the CSC that Bharat B is likely to have worked for is likely to be the Common Service Centers that are physical facilities for delivering Government of India e-Services to rural and remote locations. Now familiar French Researcher Elliot Alderson / Baptiste Robert appears to have done a rudimentary investigation on the number provided for payment and says he worked for Common Service Centres as well.
+
+It is this CSC – Common Service Centres – that had a contract with the UIDAI for conducting enrolments and has, in fact enroled about a fifth of the Aadhaar numbers in the database. Earlier this year, the UIDAI refused to renew its contract with the CSC citing complaints of corruption and enrolment process violations.
+
+Ironically, the CSC website displays a newsletter containing a notification of an updated penalty structure where the UIDAI has imposed a penalty of a lakh rupees for bypassing biometrics during enrolment, even as it publicly denies that this is possible. The second point in the notification quoted by the CSC newsletter says “Due to various cases of bypassing the operator biometric capture being reported , UIDAI has decided to impose a penalty of Rs 100,000 per enrolment station found to be bypassing the operator biometric”.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

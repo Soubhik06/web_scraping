@@ -1,0 +1,31 @@
+On February 1, 2013, telecom operators launched a new service for consumers, allowing them to register complaints about wrongful activation of Mobile value added services (VAS) , reports PTI (via Timesofindia ). This was something which was mentioned in a recent conference call. Subscribers can now call 155223 to register a complaint about wrongful activation of VAS, albeit, within 24 hours of activation of the service. If they take more than 24 hours, they would not be entitled to a refund.
+
+Trying It Out
+
+We’re the number on telcos (that we’re subscribed to; share your experience in the comments please), to check if it has been implemented.
+
+– Airtel (Delhi): works – Vodafone (Delhi): works – LOOP Mobile (Mumbai): the number works. – Idea Cellular (Mumbai): hasn’t been implemented – Idea Cellular (Delhi): works
+
+Why This Has Been Launched
+
+This deployment follows a TDSAT Verdict, wherein i n November 2012, it had dismissed telecom operators’ petition against TRAI’s order which directed them to take explicit consent from subscribers before activating value added services (VAS) on their mobile numbers. The tribunal had provided three months to the operators to implement TRAI’s order on VAS, failing which the regulator TRAI will be allowed to take necessary action against these operators.
+
+TRAI Guidelines
+
+In July 2011, TRAI had issued directions that telcos must seek explicit permission from subscribers through SMS, email, FAX or in writing within 24 hours of the activation of any value added service and charge the consumer only if the confirmation is received from him for such value added service, else the telco should discontinue such value added service for the consumer if no such confirmation was received, in cases where the services were being activated through an Out Bound Dialer or a service provider initiated call or during pre-call ring-back announcements.
+
+TRAI had also directed telcos to inform the consumer through SMS, the due date for renewal of any subscribed value added service, the renewal charges and a toll free telephone number for unsubscribing from the service, three days before the date of renewal. In case the subscriber had insufficient balance in his account, TRAI had directed telcos to seek for subscriber’s explicit consent for renewal through SMS.
+
+The new guidelines were issued as TRAI received a significant amount of complaints from customers about wrongful deactivation of VAS. Since TRAI’s regulation for explicit consent, we have reported on how the mobile web is the new frontier for the billing scam for mobile Value Added Services .
+
+The Other Solution
+
+Apart from a single dial-in number, it is believed (as indicated by OnMobile MD & CEO Mouli Raman on the OnMobile conference call ) that the guidelines are being relaxed in the following manner:
+
+The user, on choosing to activate a service via a mobile VAS company, will be taken to a telecom operator landing page for confirmation, or (we guess) prodded a second time for a confirmation via USSD, which is from an internal telecom operator subscription manager. Thus this will amount to double confirmation of subscription, independently verified by the telecom operator. “When you say ‘buy’, it will take consumers to an operator pipe, where information will be given, and (the) confirmation will be from the operators pipe.”
+
+Read our take on this solution here .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,39 @@
+The National Payments Corporation of India (NPCI) is developing an Internet of Things (IoT)-ready Unified Payments Interface (UPI) framework that will allow IoT devices, such as smart TVs, refrigerators, washing machines, and cars, to initiate payments without user intervention, according to two anonymous sources who spoke to the Business Standard.
+
+For example, to illustrate a few possible use cases, if this feature is enabled, the parking fees could be paid directly from an IoT device in a car. Similarly, metro tickets can be processed through a wearable watch or a ring, or the subscriptions to multiple OTTs can be renewed through an IoT-enabled smart TV. This means that the IoT devices can initiate and complete the payments within the UPI framework with little or no human intervention.
+
+IoT payments are payment transactions initiated by IoT devices with some level of autonomy, based on the data they collect and analyze. If the mobile phone uses its knowledge of the person’s location to trigger a payment automatically, with little or zero user interaction, it can be qualified as an IoT payment.
+
+In 2023, NPCI announced a report titled “Conversational Payments on UPI”. that it was planning to introduce conversational payments for IoT devices such as Amazon Echo, Amazon Fire Stick, etc. “This will allow users to use voice commands to conduct payments through these devices,” said the report.
+
+In its Payments Vision 2025 , the Reserve Bank of India also acknowledged the potential increased usage of IoT-enabled payment systems that could help consumers pay for goods and services connected to devices beyond UPI-enabled smartphones. With an aim to promote growth in this segment, the RBI stated that it would facilitate a “framework on IoT-based payments covering aspects of data security, authentication, identity validation, etc.”
+
+With a compound annual growth rate (CAGR) of 66%, the IoT payments market is projected to reach $5.4 trillion by 2028, up from approximately $155.53 billion in 2021, according to a Persistent Systems report.
+
+Currently, all UPI transactions require a primary mobile phone to make a transaction, but this new system will allow devices to process payments using a separate virtual payment address (VPA) linked to a user’s primary UPI ID. This change will enable devices to execute payments autonomously through user-issued mandates, facilitated by NPCI’s UPI Circle, which allows for delegated payments within predefined limits.
+
+A UPI mandate allows users to automate recurring payments through the Unified Payments Interface (UPI). This pre-approved instruction enables automatic deductions from a user’s bank account for expenses such as monthly subscriptions, utility bills, or loan repayments.
+
+UPI Circle is a feature introduced by NPCI in 2024 to allow the secondary user to make payments without needing a UPI-linked bank account. It enables a secondary user to perform transactions with minimal intervention. The primary user is the UPI account holder who can authorise payments initiated by the secondary user.
+
+In 2021, MasterCard published a whitepaper, “How IoT will Shape the Future of Payments,” highlighting the benefits of IoT payments.
+
+Sahil Arora, partner at Saraf and Partners, recalled the concerns people had in the early days of UPI and digital wallets about their necessity and challenges in adoption. He said that despite the concerns, the adoption accelerated the growth of India’s digital economy . “As we explore the next frontier of UPI-powered autonomous payments via IoT devices, it is important to recognise that while this move is promising, it introduces a complex regulatory challenge, and regulating it will be an uphill task,” he said.
+
+“When digital wallets and UPI were introduced in India, there were limited stakeholders with banks and major tech companies, who could adapt to the regulatory environment. But with the introduction of IoT devices, the stakeholders would increase manifold with multiple categories of companies and vendors, which would need to comply with regulatory requirements,” he said.
+
+Arora also described IoT-enabled automated payments as a natural evolution of the current UPI mandate framework. However, he emphasised the necessity of developing a robust application that can easily integrate across diverse IoT vendors and ecosystems, with suitable mechanisms being developed to prevent unauthorised transactions and comply with data security and privacy requirements. “Our approach should be to welcome new technologies with open arms while remaining vigilant and thoughtful in how we regulate and deploy them. That balance will be key to unlocking the next wave of growth and inclusion,” he added.
+
+The exact timeframe for the rollout of IoT-enabled UPI automated payment technology remains uncertain, and the practical real-life use cases for the end-user for IoT payments are also not clear. Automating payments may seem convenient, as it reduces the burden of recurring manual payments for end users, and this may result in more consumer retention for the business outlets. Nonetheless, It is unclear whether consumers will adopt this technology. However, the growing adoption of UPI AutoPay suggests a possibility of potential for early adoption as customers shift from cards to digital.
+
+The pace of adoption will depend on the trustworthiness of IoT-enabled payment systems and the strength of regulations to protect user interests, particularly against unwarranted, almost indefinite deductions through the UPI AutoPay mandate.
+
+Additionally, in May 2025, MediaNama reported that Visa and Mastercard are planning to roll out autonomous AI agents that can do the shopping on behalf of users. Autonomous AI agents with shopping and payment abilities, combined with IoT-enabled auto payments, can be a financial disaster for the end user if these systems are not built and maintained properly.
+
+MediaNama has sent these questions to NPCI. We will update the copy once we receive a reply from them.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

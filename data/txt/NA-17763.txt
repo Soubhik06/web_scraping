@@ -1,0 +1,29 @@
+SUBREDDIT: r/india
+TITLE: PSA: Remove underscores from scam/spam messages when complaining to 1909 to avoid errors
+DATE: 2022-10-22
+SCORE: 70
+URL: https://www.reddit.com/r/india/comments/yai2or/psa_remove_underscores_from_scamspam_messages/
+
+--- POST TEXT ---
+
+Links added in 2nd &amp; 3rd images' captions
+
+1909 - TRAI's DND violation complaint number
+
+Process:
+1. Subscribe to DND (see TRAI website link) 
+2. Complain when telemarketers call or text you (see 1st image above)
+3. ??? (TRAI investigates complaint, not sure how)
+4. Profit (telemarketers get disconnected - granted, not always, sometimes the messages are not deemed promotional or they get a limit of 20 calls and messages per month, but still quite satisfying when they do)
+5. Enjoy a brief respite of a week or month until some other asshole gets your number and calls or texts out of the blue because they always do
+
+Since the complaint format is in CSV, you may need to enclose it in quotes if there are commas in the message itself. This time it only worked after removing the underscore - another limitation of the DND complaint system's implementation.
+
+If it's a call &amp; not a text message, you can type a brief description of who it was from, like 'Scam call about massage parlors from...' or 'Unsolicited sales call from &lt;company name&gt;' or 'Automated sales call IVR recording about personal loan' followed by a comma, the offending number with or without country code, another comma, and the date in DD/MM/YYYY format.
+
+The schadenfreude you feel when they let you know these scammers / spammers / cold callers are facing consequences, however small, may not be the most lofty feeling in the world - after all, they're trying to make a buck &amp; survive, too - but damn, it feels good! &gt;:D
+
+Happy complaining!
+
+[Achievement unlocked: Shashi Tharoor ka elitist cousin]
+(Use a big, hard to spell, hard to pronounce, hard to remember German word in a reddit post that lots of people will need Google to define)

@@ -1,0 +1,47 @@
+The government of India is considering tweaking the Aadhaar and mobile number linking process to address difficulties faced by customers, especially senior citizens, reports ET . It has held discussions with telecom operators and the Unique Identification Authority of India (UIDAI) to come up with a solution. Some of the options that are being considered include using an online OTP (one time password) in case of mobile numbers already registered with the UIDAI, iris scans (instead of fingerprint authentication) for people with unclear fingerprints, and home visits for senior citizens.
+
+Another option that is being evaluated is proxy authorization, whereby senior citizens will be allowed to nominate a person to carry out the Aadhaar-mobile number linking process on behalf of them.
+
+A heartbreaking response to my story on #Aadhaar from a senior citizen in Delhi. cc @roadscholarz @no2uid pic.twitter.com/FY4Xocv71f
+
+— Niha Masih (@NihaMasih) October 10, 2017
+
+It must be noted here that senior citizens are by no means the only ones facing such difficulties. Plus, certain groups of people are facing difficulties in enrolling for Aadhaar in the first place:
+
+People with disabilities: People with disabilities are facing issues while trying to enroll for Aadhaar, because in some cases their biometric information cannot be recorded. Not everyone is aware, because of lack of clear communication from UIDAI, that there are two kinds of enrollment available – with biometric and without biometric. In case, someone’s biometric data cannot be recorded accurately because of a valid reason, they can opt for the biometric exception options, in which a photo of both hands is linked with the other demographic data. Read about the experience of one such person in The Hindu .
+
+People engaged in manual labour: Those who are engaged in manual labour, or any other form of work that involves extensive use of their hands, have had to face difficulties while enrolling for Aadhaar, because over time their hands have become coarse thereby making it difficult to record fingerprints.
+
+There are other cases as well where either enrollment or identification through biometric data has failed, check here and here .
+
+In January this year, TRAI recommended DoT to implement Aadhaar-based verification for SIM cards. Following these recommendations, DoT made it mandatory for all telecom operators to ensure that their subscribers link mobile numbers to Aadhaar number within a year. The deadline currently is February 2018.
+
+Over the past few months, most major telecom operators have been bombarding customers with messages asking them to link their Aadhaar details to their mobile numbers, and in some cases even threatening disconnection of service if it is not done immediately.
+
+#Airlel is threatening me, it’s Priya Grahak, via a pre recorded message that it’ll cut off my connection unless I link it with my #Aadhaar
+
+— kaveri (@ikaveri) October 11, 2017
+
+Hi! As per the recent government directive, aadhaar number updation against the mobile number is mandatory for all the 1/5
+
+— Bharti Airtel India (@Airtel_Presence) October 1, 2017
+
+Note that in August, the Cellular Operators of India (COAI) said that telecom operators will continue to link mobile phones to Aadhaar for e-KYC for subscriber verification despite the Supreme Court’s judgment on the Right To Privacy case.
+
+That the government is keen to ensure senior citizens aren’t inconvenienced during the Aadhaar-mobile number linking process is great, but along with this, the government (and UIDAI) needs to address the real issue: the fallibility of Aadhaar and biometric data as a method of identification.
+
+We’ve pointed this out on several occasions earlier. So, instead of repeating the same let’s take a look at a recent incident where this fallibility became apparent (once again):
+
+Last month, a gang was arrested in UP for counterfeiting Aadhaar cards . This group had used biometric devices to get the fingerprint of authorized operators. They printed this scanned fingerprint on butter paper, and used UV rays on a photopolymer resin – first at 10 degrees temperature, then at 40 degrees – to create an artificial fingerprint similar to the original. They used this to log into the Aadhaar website. The UIDAI also mandates iris scan for login, but the group bypassed iris (retina) based authentication by using a tampered client application. Apparently, they were selling this application to others for Rs 5000.
+
+Biometrics can be faked and quite easily at that: there is ample evidence that Gummy fingers (2002) can defeat fingerprint scanners, and a high-resolution picture of IRIS (2017) can fool the iris scanner. So, isn’t that the first thing the government and UIDAI need to fix?
+
+Also Read:
+
+How trustworthy are the entries in the Aadhaar Database?
+
+Three tests for Aadhaar to establish an identity
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

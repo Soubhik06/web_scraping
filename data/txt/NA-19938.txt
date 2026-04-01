@@ -1,0 +1,68 @@
+SUBREDDIT: r/india
+TITLE: [UPDATE 2] Manipal Institute of Technology has ignored student concerns about online exam conduction while they have inconsistent internet access and no access to study materials at home due to being in lockdown.
+DATE: 2020-05-31
+SCORE: 49
+URL: https://www.reddit.com/r/india/comments/gu40ag/update_2_manipal_institute_of_technology_has/
+
+--- POST TEXT ---
+
+_read the first update [here](https://old.reddit.com/r/india/comments/gqu4n9/update_manipal_institute_of_technology_has/). It links to the original post as well._
+
+Sorry for the long wait between updates, but it was necessary as there have been several developments just today (Sunday, 31st May). Some details have been made irrelevant now, due to other events happening, so I will be skimming over a few things. As you'd have probably guessed by now, _it's a fucking mess_.
+
+So the [Twitter campaign](https://twitter.com/shhh53765868/status/1264572202814525445?s=20) managed to get the attention of TOI journalists, and there was an [article](https://timesofindia.indiatimes.com/city/mangaluru/manipal-institute-of-technology-students-have-reservations-over-online-exams/articleshow/76048170.cms?utm_campaign=andapp&amp;utm_medium=referral&amp;utm_source=native_share_tray) about it, finally, in the news. Another one published 2 days ago by The News Minute [here](https://www.thenewsminute.com/article/manipal-institute-technology-students-raise-concerns-college-go-ahead-online-exams-125537). The TOI article in particular was panned by most students as being very neutral and tone-deaf towards highlighting important concerns as it really did not do justice to what the students felt, insinuating that the screenshots shared by students of their conversations with staff members of MIT were being called fake and so on. I will come to the TOI article later on as there is a very glaring problem in it which I shall bring to light later.
+
+Most likely due to the news report, [MAHE finally issued a statement and posted it on Twitter](https://twitter.com/ManipalUni/status/1266270649506357248?s=20) as well (I mention this because had it been a circular issued for the students only, it would've been shared only via our college management software and the Student Council via WhatsApp, not Twitter). This statement also has the same glaring issue as the statement by MIT Director, Dr. D Shrikanth Rao had, in the TOI article. 
+
+After these reports, there was relative calm in the student body as one of the several issues students had with online exams was the general discomfort around live proctoring using webcams and microphones, as well as needing a constant internet connection for taking the exam itself, and it was addressed. A few students were indeed relieved that it's been made clear, that the college has budged, even if by a little bit. As this happened, the time-tables for the mid-semester tests that are to happen from the 8th to the 20th of June rolled in for each department, while some had already sent them out by the time my previous post was shared, as I mentioned there. 
+
+And simultaneously, almost all departments also had to conduct lab examinations, which were given a weightage of 20%, reduced from the normal 40% of the final score and grade. All departments had different sets of rules to conduct them, with computer-science branches asking students to design programs just using their computers and such, and others asking them to write experiments and perform the calculations they have to using a dataset that will be provided to the student during the test. The college had not stipulated an upper limit on the time that has to be alloted by the departments while taking these exams. This caused a problem in some departments as they decided to take much shorter duration tests (as less as one hour), while others gave their students up to 30 hours to submit. The Student Council asked the administration to set a fixed lower limit on the length of these tests to avoid students getting too little time as we need to upload our answer scripts on Microsoft Teams as well, a process that might take the already limited time students have. 
+
+That happened, and almost simulatenously, all departments got messages that their exams will be 2 hours long. The Student Council sent this statement to explain what went down:
+
+&gt;The suggestion from the Student Council to the Academic section was for time to be increased for deparments that were being given less time than 30min/1hour. It was clearly stated that this to be considered as a minimum time of submission and upper limit not to be given to departments. 
+
+&gt;**Our suggestion was completely overlooked which was meant only for such depts as mentioned in the email by the administration and on their discretion they instructed all departments to give 2 hours timing for lab examination.** 
+
+&gt;We have since then spoken with Academic section and they have assured us that with this change, pattern of the paper and the questions will be changed too, where previously, more time was being given for larger questions that required a lot of time solve. The same are being reformated to give smaller questions which can be solved within the stipulated time. 
+We have informed them and they have assured us that if a question cannot be completed in the stipulated time by students then the department will try to give considerations. We request you all to understand that the Council's suggestion was to help the students who were being given lesser time on receiving requests from them but our suggestions were completely overlooked and a decision was made on a completely different note by the Academic Section.
+
+&gt;-MIT Student Council
+
+In my personal opinion, they should have done this beforehand, but the attitude of the administration as seen by the Student Council of all people should be observed. "Completely overlooked" is something I would've never imagined the Student Council to type out for something the administration did. 
+
+Coming to what happened today now, as this is the worst bit so far. As I mentioned in the previous post, the app the college decided to use is PEXA Lite, from some developers based somehwere in India. This app has still not been demo'd to MIT, but it was demonstrated today to ICAS, another institute closely linked with MIT, and part of MAHE. In short, it was an utter shit-show. I will let the Imgur album speak for itself here: https://imgur.com/a/2ilq3am
+
+The software is being detected by anti-viruses of all kinds, being flagged by Windows SmartScreen itself, [and disabling Power Options of the laptops it's on](https://imgur.com/a/8jYg87x). Some reported Blue Screens of Death, total freezes (the Task Manager isn't able to kill the app). [Videographed proof of the fuckery.](https://twitter.com/SatraZalak/status/1267093943260340230?s=20)
+
+This led to obvious hue and cry from students of ICAS, and MIT as well because if not today, it will be our demonstration day in the coming week. The developers emailed this: https://imgur.com/a/VtbnSFT
+
+How the college thinks that we should buy this nonsense is simply baffling. No idea what made them pay for this pathetic service, that somehow managed to also leak these screenshots from WhatsApp taken likely by their own technicians working on the app. They were found in the downloadable files that came straight from the PEXA devs. These are unredacted, because I can't be bothered protecting the identities of morons who don't bother doing it themselves: https://imgur.com/a/U9IHY17
+
+A very effective summarisation of the whole drama is here as well:
+
+&gt;You may already be aware that recently the students of ICAS were instructed to download the PEXALite software for their exams.
+
+&gt;They have been facing a lot of issues with the software. Some of them are listed below, and many of them have been verified with ICAS students by my classmates.
+
+&gt;**To begin with, it is detected as malware by almost any antivirus**, even Windows Defender. In addition to login problems, **There have been multiple reports of black screens, hangs, and even soft bricks on computers the software is installed on.**
+
+&gt;**As the software essentially takes over the Power options, the user can't even shut down/restart the computer from the power menu, let alone closing the program from Task Manager or equivalent, which is also blocked by the software.** In many some cases, this is also true when there is no test ongoing.
+
+&gt;**The software does not even function when installed on a Virtual Machine on the system**, leaving absolutely no way to safeguard the device from not only potential but also imminent damage. In some cases, the software has even been reported to not run directly on systems as the software detects them as running on a VM even if they actually are not.
+
+&gt;Especially in a scenario where the college has asked to borrow laptops if needed, even if students are able to do that hypothetically, they cannot possibly install such a software that risks security and even basic functioning of the system on anyone else's device (not to mention that they won't willingly sacrifice their own devices either, of course).
+
+&gt;To top off the above mentioned problems, there are no proper replies or support provided to the affected students from their college administration or the PEXA team. Also, in the Terms of Use of the software, they explicitly waive off all liability of damages caused to property and data, as well as by data collection to, and I quote here, "the fullest extent as permitted by the law". This is of major concern for people who have personal, professional and even financial data, perhaps even of others, on the devices.
+ 
+&gt;In the event that this same software is to be used for our sessionals and other exams, some students of my class have categorically refused to install this software, at least until all of these issues are addressed completely. For this, they have cited the reasons of widespread skepticism regarding the safety and privacy protection of the software. Also, the damages it could potentially cause to the systems it is installed on and the data within them, and the sheer amount of control it takes over the device even outside of exam durations are cited as additional reasons.
+
+On top of all this, coming to the glaring discrepancy I was talking about before. We were told by the Director that an Internet connection will be required only to log in and submit answer scripts, but now from the ICAS PEXA demo it is being told that the exam will not be proctored online, but all video will be recorded to review by the PEXA team to review for any cases of malpractice. So both the problems they addressed before with that utterly false statement are still here: you're being recorded continously, and you have to have a consistently strong Internet connection to write the exam and not get kicked out of the platform. So the statement given to the media was _simply a lie_. We cannot confirm it before the demo for MIT is conducted, which is a problem on its own as the exams in which we're to use this platform come on the 8th, just a week down the road. The only relief that we got from the college was indeed a simple lie, and it's frankly unbelieveable. 
+
+Moving on from this, there is now another Twitter page set up by the faculty of the college, because even they have been treated unfairly in all this. [They have detailed their own issues here](https://twitter.com/FacultyMahe/status/1267109891983896576?s=20). TL;DR: College gave them no vacations over the lockdown as all staff had to work from home to prepare for online teaching and exams, they were given a ONE-DAY notice for the college to start again, while they were in all likelihood away from Manipal, and it was called valid because public transport opens on the 1st of May. They were also told that their pay will be docked if they do not comply. 
+
+There are more things to add here, but I must stop as I have been typing this for two and a half hours now, compiling evidence and links and so on, while I myself have an exam to take tomorrow. Microsoft Teams though, the only place where they should be taking these exams, in my opinion. 
+
+I'd want to ask everyone in need of further info to go to Instagram pages @manipal.against.end.sems and @manipalupdates. They have gained massive followings in the past few days and have been key aggregators of information and screenshots and the like in relation to all these events. Can't post their links here, so sorry about that. 
+
+With each update you can probably see OPs descent into insanity, I feel.

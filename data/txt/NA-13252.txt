@@ -1,0 +1,53 @@
+As geopolitical tensions reshape the internet, questions around fragmentation, state control, and digital sovereignty are becoming harder to ignore. From Russiaâs âRed Webâ to Chinaâs tightly controlled internet, governments are increasingly asserting control over digital infrastructure, often forcing companies to make difficult choices.
+
+In this part of the interview, Medianama Editor Nikhil Pahwa speaks with Cloudflareâs Chief Legal Officer Douglas Kramer about whether companies can remain neutral in a fragmented internet, the growing scrutiny of VPNs in India, and the enduring tension between privacy and law enforcement.
+
+The discussion highlights a broader challenge: how to preserve an open, global internet while navigating competing national laws and security concerns.
+
+This interview has been lightly edited for clarity and formatting. Additional parts of this conversation will be published soon.
+
+Read Part 1 of the interview: [ link ] Read Part 2 of the interview: [ link ] Read Part 3 of the interview: [ link ]
+
+Nikhil Pahwa: So there are instances and issues where you have to take sides. For example, Russia’s invasion of Ukraine, perhaps, is one where some companies took sides, some countries took sides. Russia has a Red Web, China has its own web. Are you seeing increasing fragmentation and how do you deal with those instances when you have to take sides?
+
+Douglas Kramer: Well, we have done everything that we can, for the very reason you state, not to take sides. I mean, we’ve fought the American government up to the U.S. Supreme Court with some of their orders asking us to do certain things. We’ve made clear that we serve a global audience.
+
+When it comes to China, it’s a very separate Internet that we think is a very limited one and doesn’t necessarily function as well. But we have found some ways to make sure that our users who want to reach people in China, through the obstacles that have been set up, can still do that through a China network that we’ve done with partners in China. But we very much work not to make those sorts of choices.
+
+Because again, we think you get down this road where it’s inherently, you know, we often have to talk to Western interests who sort of ask why we don’t do certain things and abuse, and we turn around and say to them, we don’t just have to solve for the narrow thing you’re trying to solve domestically in your country, we’re having to do it in a way that will also be something that we could do when we get disputes between Israel and Gaza, India and Pakistan, all sorts of other parts of the world.
+
+And I think that usually sobers people up, how this isn’t such an easy problem, because they may be looking at two political parties within their own country or something like that, and not realising how that principle plays in many different circumstances and many different subjects.
+
+Nikhil Pahwa: So just something a little more local to India, in early 2025, several VPN apps including Cloudflare’s 1.1.1.1, were taken down because of certain logging and retention directions, specifically related to compliance demands.
+
+So VPNs are essentially under threat of late across India, and they’re not banned yet technically in the sense under law , but they are under threat. And 1.1.1.1, it said, an unusual boundary of a DNS resolver and a privacy tool and VPN like, and it’s not exactly a VPN app. And you know it’s almost, so I’m just curious about how classification of VPNs should be? What should be termed as a VPN and what shouldn’t? Because it seems to boil down to classifications right now.
+
+Douglas Kramer: Yeah, no, as being a lawyer, it’s amazing how much of it is just in the definitions. Once you’ve defined your terms, the rest of it becomes a little bit easier.
+
+I do think, though, that when we get into these conversations, so many of our efforts on the Cloudflare policy team, I’ve sort of said since I first started at the company, it’s like we don’t need carve-outs. We don’t need governments to sort of do our bidding for us or give us massive amounts of money or things like that. We just need them to understand how the Internet works.
+
+So we spend a lot of our time talking to government officials, talking to regulatory bodies, just teaching them how the Internet works and going in that direction. Because there can be so much distrust or misunderstanding across these sorts of disputes. And this is maybe one of the prime examples.
+
+We figure that like 60, 70% of the solution in this space is for law enforcement to understand exactly the concerns people have that lead them to use VPNs. Itâs absolutely clear that some people are up to bad things are using VPNs to sort of hide what theyâre doing. Itâs also the case that a significant majority of people who are using VPNs are also concerned about things like personal privacy and not wanting everything they do in the course of the day being tracked by some large company or some large government or something like that.
+
+And I think the more that the government understands the legitimate interests of the well-using majority of people who want to do that, they start to understand. The same thing flows in the other direction, though, because there’s often significant distrust by people who use VPNs or other sorts of things about any sort of law enforcement.
+
+I worked in government for an extended period before coming to Cloudflare. I certainly understand the needs of government to be able to investigate matters, to chase people who are wrongdoers, but I think there’s just a lack of understanding and a simplification to the negative in both directions that is sort of getting in the way of a reasonable conversation about how we should deal with VPN.
+
+So I don’t know that I have the ultimate answer, but I think a lot of it starts with making sure that both sides are coming from an understanding of at least a legitimate set of base uses on either side of that.
+
+Nikhil Pahwa: I mean, I guess then you don’t have an answer to my next question, which is on what’s the model that you would advocate for a government that’s trying to investigate serious cybercrime or prevent serious cybercrime? What else can they do?
+
+Douglas Kramer: I think there are usually a lot of different ways to, I don’t know that I can get completely in the process of what law enforcement has available to them to do it. But, I mean, this is a question that predates the Internet.
+
+These questions about the extent to which law enforcement could follow people around, even in the real world, and track their movements, and force them to register everywhere they go. That tension between everything that law enforcement might want to know and what a well-run society thought it should have access to. There’s always been a little bit of a tension between sort of absolute eradication of crime and some sense of civil liberty, freedom, and privacy that people had a right to.
+
+And the Internet has certainly, in the same way that cameras and things like that, have certainly opened more opportunities, more readily accessible opportunities for law enforcement to turn that up.
+
+But I still think that a lot of societies are dealing with where they achieve that balance between people’s interest in having some civil liberty, having some sense of privacy, and what law enforcement might have access to.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

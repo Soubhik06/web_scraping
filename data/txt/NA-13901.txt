@@ -1,0 +1,41 @@
+The tender floated by the government agency provides several vendor requirements such as a hand-held facial recognition scanner for every 100 candidates.
+
+You are reading it here first : The National Testing Agency (NTA) which conducts the Joint Entrance Examinations (JEE), National Eligibility cum Entrance Test (NEET), UGC-NET, and other major examinations will be deploying facial recognition technology along with other biometrics for verification of candidates giving the tests online.
+
+To understand the scale of how many people it would affect, JEE (Main) 2021 (February session) alone saw 6.52 lakh registrations , NEET 2020 had over 15 lakh registrations , and UGC-NET had 5 lakh registrations for its September 2020 examinations . In fact, at one point in the tender – which the NTA floated for selecting a company to install and implement this technology – it said that “total number of candidates for all examinations in a year is likely to be 50 lakh (approx).”
+
+Why it matters? There has been a big push from the Indian government towards introducing facial recognition technology (FRT) in its various departments and institutions due to COVID-19. The reasoning provided for this is that FRT would help in maintaining social distancing norms and other COVID-19 guidelines; although, one is forced to wonder how, since FRT needs a subject to remove their mask for verification. Setting aside the procedural aspects, the introduction of these technologies also comes at a time when India does not have robust laws in place to regulate the usage of such technologies which deal with sensitive data. It is also important to highlight that by implementing FRT in examination centres of JEE and NEET, the NTA will be dealing with sensitive facial data of many minors.
+
+The main aim behind this proposal, according to a tender titled “ For Empanelment of Experienced Agencies/Firms to provide Live CCTV Surveillance, Biometric authentication and Frisking service on turnkey basis during CBT (computer-based test) examination being conducted by National Testing Agency in Centres all over India ” published by the NTA is to control impersonation with the aim of biometric authentication and attendance marking service. Impersonation in entrance tests such as JEE is not something new and it continues to this day. In 2020, Assam JEE Main 2020 topper was arrested for allegedly using an impersonator to sit for an exam . Additionally, the NTA had recently deployed an AI-algorithm to detect impersonation and had identified 56 such candidates from the February cycle of JEE Main 2021. Their images match with some of the 20,000 top-ranked candidates for the exams in 2019 and 2020, said a report by Times of India.
+
+This proposal coupled with the recent tender floated by the Ministry of Health and Family Welfare (MoHFW) for the introduction of FRT for online examinations conducted by the All India Institute of Medical Sciences (AIIMS) , brings a majority of the common entrance examinations under the ambit of facial recognition. At the risk of repetition, this author is forced to remark again that India still does not have a law that explicitly regulates the usage of personal data. India’s proposed Personal Data Protection Bill, 2019 which addresses such concerns might be introduced in the Parliament in its Winter Session.
+
+The NTA has provided various specifics in regards to how the facial recognition would work:
+
+Apart from verification through facial recognition before the commencement of the examination, candidates will also be subjected to CCTV surveillance. The tender said that the live footage will be relayed to a control room situated in the NTA office in New Delhi. It will also have to be set up by the company which gets the contract of the tender. At least 95 percent of the live camera feed will be available for viewing in the control room at all times during the examination. Apart from that, it also said that CCTVs will be installed at least two days prior to the examination. These are the prospective places where it will be installed —
+
+At a place that covers each and every candidate seated in the examination center without any allowance for blind spots.
+
+Apart from the biometric and CCTV surveillance, the NTA has also proposed frisking of candidates with the help of a hand-held metal detector (HHMD). As for the CCTV surveillance, the NTA said that the data will be retained for a period of 3 months. It has not made any mention of any such clauses for the facial or other biometric data that will be collected.
+
+Shreya Suri, Partner at IndusLaw said that under the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules 2011, biometric information such as ‘fingerprints’, ‘eye retinas and irises’, ‘facial patterns’, etc., for authentication purposes, is considered to be ‘Sensitive Personal Data’.
+
+“Accordingly, in order to avoid a conflict with the newly recognised right to privacy and existing laws, explicit prior consent (which is a crucial aspect associated with such information under the existing as well as the proposed law) must be obtained in a clear and express manner from the data subjects whose information is being collected and processed, and the NTA will also need to factor in the capacity to contract of the data subjects for this purpose (eg: in some cases where data subjects may be below the contracting age of 18 years) — Shreya Suri, Partner at IndusLAw
+
+Similarly, Shweta Mohandas, policy officer at Centre for Internet and Society pointed out that “the tender does not expressly prohibit processing of the data when the data is retained by the bidder for 3 months, hence this could give the bidder time to use this data to train their systems without seeking consent anew from the students.”
+
+Interestingly, the tender also bestows the responsibility of maintaining the security of the data on the firm that is selected for the projected. In this regard, Amay Jain, Associate at Victoriam Legalis said that “time will tell how effective these standards and best practices prove to be in maintenance of strict privacy and confidentiality of the data to which the successful bidder of this tender will gain access”.
+
+However, Siddharth Jain, co-founding partner of PSL Advocates and Solicitors opined that there were ample safeguards in place to prevent any mishap in terms of privacy infringement. “Since the tender document requires for the bidder to comply with statutory obligations and maintain strict confidentiality including, but not limited to, not divulging the information to any third party, I feel that the privacy of the individuals is sufficiently protected and this exercise would ease the process of the conduct of examinations,” Jain said.
+
+Long before COVID-19 led to an increase in the adoption of such technology, several educational establishments tested out facial recognition tools for purposes such as recording attendance and checking malpractices.
+
+Also read
+
+Update, August 3, 10.30pm: Update the copy to reflect that the facial recognition verification will be done for those giving the tests online. The title of the tender has also been added to the copy.
+
+Have something to add? Subscribe to MediaNama and post your comment
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

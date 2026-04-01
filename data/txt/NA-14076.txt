@@ -1,0 +1,75 @@
+The Ministry of Electronics and Information Technology (MeitY) selected six entities, including Jio and IDfy, for its “Code for Consent: The DPDP Innovation Challenge.” The initiative aims to build consent management systems under the Digital Personal Data Protection Act of 2023. In June 2025, the National e-Governance Division (NeGD) under MeitY released a Business Requirement Document (BRD) for building consent management systems under the Digital Personal Data Protection Act, 2023. The document supports the Act’s “Consent Manager” concept, which serves as a single point of contact between Data Principals and Data Fiduciaries.
+
+“The CMS aids data fiduciaries in addressing one aspect of the DPDPA, i.e., consent management,” said Nikhil Jhanji, senior product manager at IDfy. He further explained how the CMS could function, based on MeitY’s BRD.
+
+According to the Moneycontrol report, the shortlisted companies are:
+
+According to the DPDPA, the “Processing” of personal data refers to any wholly or partly automated operation or set of operations performed on digital personal data. It includes collecting, recording, organising, and structuring the user’s personal information.
+
+Data Processing, under DPDPA, refers to the following actions:
+
+The current competition to build a working Consent Management System (CMS) is part of the Business Requirement Document released by MeitY in June 2025. The government aims to use a functional CMS to operationalise the Digital Personal Data Protection Act. Nikhil Jhanji, senior product manager at IDfy, explained what a CMS would look like.
+
+“How do you ensure that businesses are able to adapt to the requirements of the DPDP Act? And therefore, this challenge comes from MeitY’s National E-Governance Division,” said Jhanji. He said that CMS is largely a software for data fiduciaries that enables the rights of data principals from the interaction perspective. He also said that fundamental rights of the users are operationalised through a CMS. “For example, you can ask an app, ‘Hey, XYZ app, can you show me what data you have on me and what you’re using it for?” he illustrated.
+
+Similarly, he explained that users can utilise the CMS dashboard to update the preferences and say “no more WhatsApp-based reach out,” while enabling only in-app notifications as a possible reach-out mechanism if they feel that WhatsApp-based communication is intrusive. “So this is what the CMS can empower,” he added.
+
+Under DPDPA, it is not mandatory for every company to have a CMS. But, it is compulsory for a data processing company to appoint a consent manager as a point of contact for the Data Principle to give, manage, review, and withdraw their consent. “CMS is not a mandatory channel. Nowhere in the law does it say that you need to have a consent management system. The companies can do it internally, in-house. Or, they can outsource it to a provider like us,” he clarified.
+
+The DPDP Act requires users to provide freely given, specific, informed, and unambiguous consent notices. It mandates Data Fiduciaries to process personal data only for a lawful purpose the user has consented and only for legitimate uses.
+
+He reminded that earlier, the companies used to take a single approach to capture the data with no control of the user over their data. “For example, if I collect your phone number to send OTPs and transactional SMSes, that constitutes one purpose. If I use the same number for WhatsApp marketing or promotional messages, that counts as a separate purpose and requires separate consent. Some consents are mandatory or required by regulation during customer onboarding; others depend on business decisions. Either way, the data principal must have the right to give or withhold consent,” he added.
+
+He assured that the system may not notify the user every time it processes their data. He said that they need to notify and take the user’s permission if the company changes the purpose of processing or collecting additional personally identifiable information (PII).
+
+Jhanji also added that the outcome of consent gone bad typically materialises into two scenarios, including fraud and spam. “That’s how we look at consent that has failed today, and therefore, it has to be fixed,” he said.
+
+Nikhil explained that the consent notice would look like an itemised list of personal information and the purpose for which the company is going to use the user information.
+
+MediaNama asked IDfy to generate a consent notice based on its privacy policy . IDfy’s Priview, a free consent notice generator built in collaboration with the Data Security Council of India, produced the notice.
+
+According to our privacy policy, MediaNama’s consent notice  might look like this:
+
+Source: IDfy’s Preview .
+
+“Fundamentally, the notice is a combination of PII elements that are being consumed and the purposes for which they are being sort of processed, linked to that interaction,” he concluded.
+
+According to the BRD document released by MeitY, the CMS can deliver notifications and alerts to users through their preferred communication channels, such as email, SMS, or in-app notifications.
+
+“The orchestration could involve one or more of these channels, depending on the strategy the company uses to ensure compliance,” he said.
+
+As per the DPDP Rules, 2025, the data retention period for the records maintained by a Consent Manager is seven years.
+
+But, for E-commerce entities, online gaming intermediaries, and social media intermediaries, which are classified as certain types of Data Fiduciaries, the data retention period of personal data can be up to three years from the date of the Data Principal’s last interaction. The consent manager also needs to notify the user 48 hours before deleting the user’s information.
+
+“For example, the PAN card, which is a PII element that a company may have collected, the company can retain the data for X period because a certain RBI regulation asks it to do it. But that phone number, which is for a slightly different purpose, the company may retain for a different period,” he said. The CMS enables users to know about this information.
+
+“The CMS we are building is completely data-blind,” Jhanji said while explaining the PII-blind approach that they have taken to ensure that a Consent Management System doesn’t become a data fiduciary. “CMS ideally acts as a data processor, handling consent metadata and ensuring it remains relevant and updated so downstream systems can access it and take appropriate action. The CMS does not need to store actual PII data,” he clarified.
+
+He assured that even if a data leak occurs from the CMS portal, the leaked data remains technically useless unless someone combines it with the original data from the company.
+
+He also pointed out that it is necessary to integrate CMS with data governance systems to detect probable data leaks and misuse, including illegal data cloning. “If the CMS-like system is linked to the data governance system, right, the user can understand that a new data source or a new data pipe going outwards has been identified, which is not included in the list of consents given,” he said.
+
+“For example, from the data governance side, organisations can use user data from both structured and unstructured sources to create a catalogue and understand the data lineage,” he said. “This reveals that the user data sits in three other systems, indicating multiple copies, which is also known as shadow data. Additionally, we can identify if the data is being passed on to three other systems, including third parties. That is when you can triangulate between the two worlds—the user data world and the consent world.” He said this approach enables better operationalisation of the DPDP Act.
+
+“So, the CMS system ideally should generate an audit trail that the data fiduciary and the data principal can use as proof, which, in my understanding, should pass the Indian Evidence Act, Section 65A , which allows for electronic records to be used as proof,” he said.
+
+The proof of the data trail will be stored in the consent artefact, he asserted.
+
+“Think of the consent artefact as a living, breathing sort of document against each person that is interacting with a company’s services, that gets updated once the user preferences are updated,” Jhanji said. He also said that the consent artefacts and audit trails are tamper-proof. It means that even the company can’t meddle with this data, and thus acts as proof for the companies and their compliance.
+
+The BRD document requires cookie consent management systems to inform Data Principals about the cookies and tracking technologies used on websites and applications. It states that users should have the right to grant, modify, or withdraw consent. Therefore, it also requires consent management systems to maintain consent logs and mandates websites to display a cookie notice banner.
+
+The data stored in cookies is different from other PII data like phone numbers, emails, health records, or other KYC documents. The data stored in cookies may not necessarily be personally identifiable information. Sometimes, the data can be stored in cookies based on the session IDs of the user.
+
+“The ideal expectation, as the BRD calls out, for any entity deploying a cookie banner solution would be, one, to list what cookies are active on the website, whether first-party or third-party, and to do this in a compliant manner,” he said.
+
+He also referred to some global standards on how to display the cookie banners on the websites. For example, the Interactive Advertising Bureau’s Transparency and Consent Framework serves as an industry-approved standard for displaying consent choices in compliance with the European Union’s General Data Protection Regulation.
+
+“For the owners of a cookie banner, as the BRD also describes, it’s going to be important to showcase that you have blocked a certain cookie based on the user’s preference. That is the real value of a compliant cookie banner versus just a pop-up that doesn’t mean anything,” he said, emphasising that the cookie banners serve a purpose beyond being an UI element on a website. Jhanji said that if it functions only as a UI widget and fails to meet standard cookie banner requirements, it would result in non-compliance.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

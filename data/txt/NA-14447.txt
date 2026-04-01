@@ -1,0 +1,19 @@
+India faced over 10 million intrusion attempts within days of the Pahalgam terrorist attack, according to the Computer Emergency Response Team-Maharashtra (MH-CERT). MH-CERT stated that these attacks consisted of a mix of DDoS (Distributed Denial of Service) floods, website defacements, phishing campaigns, and exploit attempts targeting the public, critical infrastructure, and defence portals.
+
+Late last month, MediaNama also reported that IOK Hackers, a group from Pakistan, had taken over at least two Army Public School (APS) websites. The hackers removed all content from the school websites and replaced it with a banner displaying Pakistan’s national flag. Similar attacks also took place on the Army College of Nursing in Punjab, carried out by a hacker group called Insane PK.
+
+MH-CERT and the Maharashtra Cyber Department identified multiple hacker groups behind the cyber onslaught, including Pakistan Cyber Force, Team Insane PK, Anonymous 71 (a Bangladeshi hacktivist group), and advanced persistent threat groups like APT 36 and Sidecopy. A Deccan Herald report noted that seven such APT groups were responsible for 1.5 million of the intrusion attempts, although only 150 of them were successful.
+
+The groups used malicious domain names that mimicked real ones like @gov.in, @nic.in, and jkpolice.gov.in in phishing campaigns. They also spoofed government content to present Pakistan in a favorable light and launched DDoS attacks on government portals to disrupt service availability. MH-CERT explained that the most common tactic used by these groups was to target educational institutions and other small-scale websites to spread propaganda and gain visibility. The authority also reported increasingly sophisticated intrusions focused on extracting personal and financial information from target databases.
+
+“The most common sort of attack is the DDoS attack and you have to always watch out for it because it can cripple critical systems because of the sheer volumes they generate in terms of traffic,” Saikat Datta, the co-founder of Deepstrat told MediaNama. Discussing MH-CERT’s report, Datta mentioned that depending on the sector targeted by a hacker group, attempts to infiltrate a system’s backend can have major consequences for a country.
+
+He gave the example of the banking, financial services, and insurance (BFSI) sector, which the authorities had specifically instructed to remain alert for attacks. “If there is a hack into the core banking system of any one bank, it can have major consequences,” he explained. Besides the BFSI sector, transport is another critical area that needs to be on high alert during such situations. Datta mentioned that if a hacker manages to take over air traffic control or airport management systems, they could cause significant havoc. “You have to be alert around air travel systems in a conflict situation because these are immediate levers that can have a major impact on the outcome of a conflict.”
+
+Datta also emphasized that a key concern during times of conflict is when cyberattacks are coupled with disinformation. “Let’s say I am on Twitter and I’m a well-known, recognized individual or official. If someone is able to compromise my social media account and put out false information, that can create havoc or panic,” he explained, adding that India witnessed several such incidents during the recent conflict with Pakistan.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

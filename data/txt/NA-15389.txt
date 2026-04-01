@@ -1,0 +1,47 @@
+MediaNama’s Take: Future-proofing technology to prevent data leaks and cyber-attacks is critical for any organisation handling sensitive or personal data. As Ministry of Electronics and Information Technology’s (MeitY) Computer Emergency Response Team (CERT-In) has called for the development of a safeguarding system around today’s strongest encryption, companies, institutions, and government agencies must start rethinking their approach to future technologies like quantum computing, which may soon become a reality and potentially threaten sensitive data.
+
+What’s the News : ‘Quantum risk is not a technical issue, but a strategic business threat,’ reads the white paper Transitioning to Quantum Cyber Readiness , published by the MietY’s CERT-In in collaboration with SISA, a forensic intelligence company.
+
+The paper highlights the ability of quantum computers to break existing encryption systems, which could potentially put current data at risk from cyber attackers. Cryptographic protocols like Rivest–Shamir–Adleman (RSA) , Transport Layer Security (TLS), and its predecessor Secure Sockets Layer (SSL) , which widely secure communications on the internet such as web browsing, encrypted messaging, financial transactions, e-commerce, emails, Virtual Private Networks (VPNs), Application Programming Interfaces (APIs), and cloud storage services, will face significant threats once quantum computing becomes a reality, the report says.
+
+Therefore, it suggests safeguarding existing data, including encrypted data, from hackers who might store it today with the intention of decrypting it in the future when quantum computers become available.
+
+CERT‑In urges businesses to develop strategic technological solutions to mitigate risks posed by quantum computing in the near future. These organisations estimate that cryptographically relevant quantum computers (CRQCs) could be available within the next three to five years.
+
+Google has said it aims to launch commercial quantum computing applications by 2030, the same year CERT-In expects quantum computing to arrive. Recent innovations in quantum computing and the AI-driven pace of technological advancement make 2030 seem increasingly realistic, as the principles of quantum mechanics evolve from theory to practicality.
+
+For instance, in December 2024, Google announced that its new quantum chip, Willow , exponentially reduced errors as it added more qubits — the quantum equivalent of binary bits. Google Quantum Lab claims that Willow completed a benchmark test using random circuit sampling (RCS) in under five minutes. Google claims even today’s fastest supercomputers, like Frontier, would take approximately 10 septillion years (10²⁵) to complete the same test.
+
+Reducing errors is essential in quantum computing because quantum systems are inherently more prone to errors than classical computers. The fragile nature of qubits causes them to be easily disrupted by changes in temperature and environmental noise, including electromagnetic signals from mobile phones and the Earth’s magnetic field.
+
+Similarly, in February 2025, Microsoft announced the world’s first quantum processor, Majorana 1, powered by a Topological Core architecture using a new material called a “topoconductor.” While the chip currently contains eight qubits, Microsoft claims it is designed to scale to one million qubits on a single chip—allowing it to solve complex industrial and scientific problems beyond the capabilities of today’s computers.
+
+IBM, too, has set a target of 2029 to build a “fault-tolerant quantum computer,” and Nokia is working to build quantum-safe networks. Even though the exact arrival of quantum computers is uncertain, the potential cyberthreats they pose can no longer be dismissed as merely “ hypothetical .” Technological advancement must be matched with technological vigilance.
+
+CERT-In suggests that organisations classify their data based on sensitivity and the confidentiality period required. Critical Risk data includes highly sensitive information that must remain confidential for at least 10 years.
+
+High-Risk data includes financial records, healthcare data, government secrets, intellectual property, and legal documents. These require robust and ongoing protection.
+
+Medium-Risk data covers information such as corporate communications, customer databases, and research data, which typically require shorter confidentiality periods compared to financial and health records.
+
+Using Mosca’s Theorem, the paper warns that if an organisation’s data-retention period and the time needed to develop a safe framework exceed the expected arrival of CRQCs, the organisation faces an immediate and urgent risk.
+
+The paper also warns against “Harvest Now, Decrypt Later” (HNDL) attacks, where hackers collect encrypted data today intending to decrypt it in the future using quantum computers. It suggests that any data requiring protection beyond 2030 should be considered at immediate risk.
+
+In response to such threats, in January 2025, the Biden administration in the U.S. issued an executive order directing the federal government to transition to cryptographic algorithms resistant to CRQCs. Within 180 days, the order required the Cybersecurity and Infrastructure Security Agency ( CISA ) to publish a list of product categories with widely available PQC (Post-Quantum Cryptography)-capable solutions. Agencies must then, within 90 days, make PQC support mandatory in new solicitations for those products.
+
+Companies like Apple have already taken steps to implement quantum-resistant protocols that do not compromise encryption.
+
+CERT-In recommends a comprehensive technical audit of all digital infrastructure to identify where and how encryption is deployed. This includes encryption algorithms, certificates, keys, protocols, and cryptographic libraries and modules.
+
+The white paper advises reviewing servers, endpoints, mobile devices, Internet of Things (IoT) systems, and Supervisory Control and Data Acquisition ( SCADA ) components for embedded encryption mechanisms and secure hardware modules such as Hardware Security Modules ( HSMs ).
+
+It also calls for scrutiny of the algorithmic strength and cipher suite settings of key communication protocols—including TLS, SSH, IPsec, and blockchain consensus algorithms, for their algorithmic strength, cipher suite settings, and certificate handling.
+
+The paper recommends prioritising high-risk, internet-facing systems like RSA, Elliptic Curve Digital Signature Algorithm (ECDSA), and Elliptic Curve Diffie–Hellman (ECDH), which are widely used in e-healthcare, e-banking, e-commerce, and e-governance. For instance, the banking sector uses RSA to generate digital signatures.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

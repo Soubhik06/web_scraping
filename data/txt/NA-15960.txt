@@ -1,0 +1,45 @@
+SUBREDDIT: r/india
+TITLE: Increasing level of frauds and scams on platforms like OLX
+DATE: 2021-01-15
+SCORE: 9
+URL: https://www.reddit.com/r/india/comments/kxpyhy/increasing_level_of_frauds_and_scams_on_platforms/
+
+--- POST TEXT ---
+
+Hello Guys, I'm new to reddit, and joined after seeing the kind of energy here.
+
+So recently while browsing through my feed i came across the OLX fraud thing where the scammer would show interest in buying something from you, won't negotiate much, and send you a QR code.
+
+As soon as you scan the QR code and enter UPI pin( UPI pin is anyways not required for receiving payments, but people still do that anyways in this case), booom! Your bank account debited.
+
+Heard about this from multiple sources.
+
+So I went ahead to investigate this myself. Put some old stuff on sale, and mind it, 4/5 calls that I received on day 1 were from fraudsters. Some were ladies too. From what info I have gathered till now, scammers are earning in lakhs per month, so the number of such people is also increasing everyday. This is going in the same direction as Jamtara fraud. Mid aged uncles would think they know enough about tech and lose their money.
+
+Olx in this matter is issuing notifications saying "Do not scan any kind of QR code" and they are also removing suspicious accounts. But this surely ain't enough.
+
+I need people to come along with me to fight this. Surely we can't just eliminate the fraudsters on our own, but believe me, identifying the shithhead scammers is easy, we surely can "frustrate the attacker"-as we say in information security. I was in Karnataka while doing my initial investigation, and could easily identify that fraudsters were calling from somewhere in northern India. 
+
+My point here being - Those good for nothing a-holes cheating honest people for lakhs is not what I can tolerate. I see people everyday that very easily fall prey to this even after multiple warnings. Please join me in forcing these people outta this fraud. Lots of people bombarding the fraudsters by only giving a few minutes of their day is surely gonna drive them crazy. Let's break their chain. 
+
+Here's a breif from Delhi Cyber Cell website - 
+
+&amp;#x200B;
+
+&gt;OLX/QR CODE FRAUDS 
+&gt; 
+&gt;In these frauds, a person (fraudster) usually posing as an Army/Paramilitary personnel, contacts the person who is trying to sell a product on websites or apps such as OLX, Quikr, etc. and agrees to pay the asked price for the said good. The fraudster claims that he is posted in some inaccessible area of the country and hence, can neither come to take the physical delivery, nor can he pay the money in cash and hence, needs to transfer the money online. After striking a deal, he then sends a fake screenshot (generated using PayTM Spoof App or similar Apps) to the seller purporting to show that the said amount has been transferred to the seller’s PayTM account. However, when the seller claims that the money has not been received, the fraudster claims that there is some technical issue and then sends a QR code to the victim. He guides the victim through the process and makes him/her upload the said screenshot using Google Pay. As soon as the victim uploads the screenshot and enters the UPI Pin on Google Pay, money, instead of being credited, gets debited from the account of the victim. 
+&gt; 
+&gt;When the victim brings this up with the fraudster, he claims that this was a mistake and that now he is sending a QR code for twice the amount (to account for the money that has been mistakenly debited from the victim’s account) and as soon as the victim scans the QR code, the amount again gets debited from his/her account. The fraudster repeats this exercise as many times as he can, with the victim and then cuts the connection. In this way, the victim ends up losing several thousand or even lakhs of rupees while trying to sell a product online on OLX/Quikr, etc.
+
+Which means they are exploiting the loophole where the target just scans the QR code which redirects them to giving a debit command from their own UPI. So this is not limited to OLX, but any platform that would use UPI. UPI interface is regulated by RBI, we need to inform them of the issue if they haven't heard already.
+
+India is in this phase of digitalization, if we could build a community that can act as "cyber vigilantes",
+
+there would be lot less mess and chaos in the process.
+
+Please feel free to join me or correct me if you feel I'm wrong somewhere.
+
+I hope we could do something that cyber cells with limited personnel are unable to on their own.
+
+Thank You, I'll be waiting for your responses.

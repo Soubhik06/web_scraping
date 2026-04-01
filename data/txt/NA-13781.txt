@@ -1,0 +1,35 @@
+Elibomi, an Android malware, has targetted Indian taxpayers by stealing their financial information in a phishing attack, according to a blog post by McAfee’s Mobile Research team. The antivirus company disclosed that the attackers lure in unsuspecting users by pretending to be a fake tax-filing application. The company picked out two campaigns in November 2020, and May 2021, which relied on phony tax-filing themes to target users.
+
+Cyber attacks have increased exponentially since the pandemic as lockdowns caused by COVID-19 triggered a rapid adoption of digital tech. The surge in digitisation has also invited the attention of hackers and scammers who see this as an opportunity ripe for the taking. Phishing is a cyber attack that uses disguised email as a weapon and is notoriously difficult to sniff out, given its sophistication.
+
+It is also the reason why it is one of the most common types of cyber attacks. Phishing constituted almost one-third of all cyber attacks in 2019 as per Security Intelligence . The attacks have increased by 600% during the pandemic. The consequences can be damaging in most cases as it results in severe financial losses.
+
+McAfee explained that the delivery of malware takes place through an SMS text.
+
+“The SMS message pretends to be from the Income Tax Department in India and uses the name of the targeted user to make the SMS phishing attack more credible and increase the chances of infecting the device. The fake app is designed to capture and steal the victim’s sensitive personal and financial information by tricking the user into believing that it is a legitimate tax-filing app,” the post read.
+
+Here’s how cybercriminals display the original logo to trick users into installing the fake ‘iMobile’ app:
+
+The stolen data includes e-mail addresses, phone numbers, SMS/MMS messages among other financial and personal identifiable information. McAfee added that the malware exposes stolen information to anyone on the Internet.
+
+McAfee advised users to follow these steps:
+
+“Elibomi has been able to gather sensitive information from affected users which could be used to perform identity and/or financial fraud. Even more worryingly, the information was not only in cybercriminals’ hands, but it was also unexpectedly exposed on the internet which could have a greater impact on the victims,” the company informed.
+
+February 2021: Hindustan Times reported that a number of senior government officials, including those from the ministries of defence and external affairs, were targetted in a phishing campaign with attackers using compromised government domain email accounts to launch their hacking attempts. The National Informatics Centre (NIC) issued an alert soon after the attack but there was no confirmation whether any targetted computers were compromised.
+
+March 2021: A response to a parliamentary question revealed that CERT-In, India’s nodal cyber security agency, was working with the Reserve Bank of India (RBI) and other banks to track and disable phishing websites in an effort to thwart online frauds.
+
+July 2021: Researchers at Seqrite , the cybersecurity arm of Quick Heal Technologies, claimed that they found sophisticated phishing attempts targetting Indian critical infrastructure PSUs across sectors of finance, power, and telecom by a Pakistan-linked group. The PSUs were targetted to get access to sensitive information “including screenshots, keystrokes, & files from the affected system”.
+
+July 2021: Kaspersky Internet Security found that India was among the top three countries facing phishing attacks primarily via instant mobile messaging apps like Facebook-owned WhatsApp and Telegram. Countries experiencing the highest number of phishing attacks were Russia (46 percent), Brazil (15 percent), and India (7 percent).
+
+August 2021: CERT-In warned that scammers were targetting banking customers in India with a new type of phishing attack to collect sensitive information such as internet banking credentials, mobile numbers, and OTP to carry out fraudulent transactions. It said that the malicious activity is carried out using the ngrok platform (cross-platform application).
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

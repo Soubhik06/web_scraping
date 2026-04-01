@@ -1,0 +1,31 @@
+YouTube is expanding the scope of its content moderation and taking on the role of an arbiter of identity rights with the rollout of its likeness detection technology for YouTube Creators. This service allows creators to monitor where their facial likeness appears and to request the removal of unauthorized likenesses and AI-altered videos. Whatâs important here is that YouTube is treating the usage of âlikenessâ as a privacy violation, covering both voice and video.
+
+At one level, this is much needed. Personalities are increasingly concerned about their likeness being used for deepfakes.
+
+However, the selectiveness of AI companies in protecting personality rights is a cause for concern. In an ideal world, it should be the norm, and Bryan Cranston shouldnât have to thank OpenAI for preventing Sora from creating his deepfakes . People shouldnât be able to generate deepfakes of Robin Williams to send them to his daughter . Celebrities shouldnât need to go to court to enforce their personality rights to prevent AI-based usage.
+
+While the generation side of the AI business remains largely irresponsible in preventing misuse of their services (protecting only the powerful), YouTube falls in the distribution side of this battle to prevent misuse.
+
+1. Itâs a start, but itâs not enough : YouTubeâs âlikeness detection technologyâ is for YouTube creators (channel owners only) to prevent misuse of likeness on its platform, not for a wide variety of personalities. This creates an unhealthy tension where people must become YouTube creators to protect themselves from misuse of their likeness. Weâve seen this play out before: YouTubeâs Content ID system requires that copyright owners upload their content to YouTube to protect themselves. Content owners donât have protection unless they join YouTubeâs content program, which essentially pressures people to upload their content on the platform.
+
+2. You need to give up your facial data to protect it: Itâs ironic that youâre being forced to give up your personal facial data in order to protect it. According to the terms, to complete the likeness detection, you have to provide Google with your data:
+
+Provide a government ID and a brief video of your face for verification. This helps us prevent fraudulent and abusive uses of likeness detection. We also use the brief video of your face, and images of your face from content on YouTube, to create face templates used to detect videos where your likeness may be altered or made with AI. Please use a clear picture of your official government ID when verifying.
+
+As if Google Photos and its use for fine-tuning facial recognition werenât enough, now likeness detection gives Google the opportunity to collect even more facial data and your government ID. If you donât need to upload your government ID for copyright protection, why should you need it for privacy protection?
+
+3. What if AI likeness is used in parody? For example, if I make a parody review of a Maruti 800 (an Indian car no longer manufactured by Maruti Suzuki) using an AI likeness of MKBHD, he canât take it down under copyright law because itâs a parody, but he can get it taken down because of likeness. YouTube, especially in India, has largely failed to protect fair usage. According to YouTubeâs policies , if the video is real, a copyright claim must be made (taking into account fair use and other copyright exceptions), but if it is AI-generated, one can make a privacy claim. Does this mean that human mimicry is kosher, but AI generated mimicry is not? Why the discrimination? While this arms creators and copyright owners with an additional tool, it harms fair usage and adds identity-based gatekeeping.
+
+4. Do dead people have privacy protection? One of my favorite questions in policy discussions is: who owns a deceased personâs voice? YouTubeâs likeness detection protects voices, but this might not apply to deceased creators. There is certainly no case for this under Indiaâs largely useless Digital Personal Data Protection Act. Unless personality rights have been bequeathed to an estate or heirs by a personality (who was also a YouTube creator), copyright may be claimed, but privacy rights cannot. This means there is no recourse for Zelda Williams on YouTube, because Robin Williams didnât submit his video to Google before he passed away a decade ago.
+
+5. Whereâs the recourse? The approach again positions YouTube as an arbiter of what is right and accurate, without any transparency. As weâve seen in India over the past few years, YouTube has effectively acted as an arbiter of copyright, taking down creator content even when used for derivative work, and going beyond Indiaâs Copyright Act, without accountability to its community of creators or adequate transparency regarding recourse. Its implementation of recourse is arbitrary. This expansion merely broadens YouTubeâs enforcement scope without accountability. What will it do about false takedowns, weaponized claims, or impersonation disputes? My guess is, judging by past record: nothing.Â (Note: If youâre from YouTube and there is a recourse and transparency mechanism, let me know, and Iâll update this post. Thereâs nothing here:Â https://support.google.com/youtube/answer/16440338?hl=en )
+
+Lastly, now that YouTube has launched this feature, what will Instagram do? My guess is that X will probably do nothing. Iâd be surprised if it does unless itâs sued.
+
+Ps.: More from Reasoned by Nikhil Pahwa
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

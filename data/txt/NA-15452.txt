@@ -1,0 +1,41 @@
+Recently, the National Payments Corporation of India (NPCI) unveiled its flagship payments architecture named Unified Payments Interface (UPI) which went live with 21 banks. UPI seeks to simplify how online payments are made in the country by removing the messy âtwo-factor authenticationâ and the need to recollect IFSC, bank a/c numbers every time you need to make a payment online. How this works is explained here .
+
+The UPI is touted as gateway to Indiaâs cashless switch, at a time when the government has initiated a massive demonetization move which has drawn both criticism and approval from many. MediaNama reviewed 20 different Android-based UPI apps developed by both banks and non-baking developers to examine if these apps are violating user privacy or collecting sensitive information. Although most apps seems safer, some of them have been found to request permissions to record audio, retrieve info about other apps running on your phone, and even make calls (we are not sure why).
+
+Also Read: – On Indian Mobile wallet apps and the sensitive user data they collect â Part 1 – On Indian mobile banking apps and the sensitive user data they collect â Part 2
+
+1) Read sensitive log data
+
+As we explained in the previous posts , every app generates logs details whenever it executes a command, connects to a network, completes an update. An app requesting to read log data can read sensitive info like MAC ID, IMEI no, saved WiFi networks info, and details about other apps installed on the device. In many cases, a user authenticates with an app using his/her Gmail or Facebook account, and the app can read info of these accounts from the logs generated.
+
+By collecting WiFi network information, including network name (SSID), an app developer can employ data analytics and identify a cluster of users connected to the same network. This allows a developer to determine that the cluster of users could be users in the same office/home/public location, security consultant Akash Mahajan told MediaNama in an interview when we asked him about the permission.
+
+Apps requesting access to sensitive log data : Â Trupay India (not a bank-owned app) P.S: MyJio , JioSecurity , JioSwitch also requests sensitive log permission. 2) Record audio
+
+This permission simply allows the requesting application to record audio via the phoneâs microphone. Android developer guide classifies the â protection level â for such a permission (for a user) as âdangerousâ , meaning the permission âwould give a requesting application access to private user data or control over the device that can negatively impact the user.â Itâs really not clear why a UPI money transfer app would want to gain access to a userâs microphone.
+
+Apps requesting the permission : YES PAY Wallet (YES Bank)
+
+3) Retrieve running apps
+
+This permission allows an app to find out what other applications are currently/recently running on your phone on real-time basis, and different sub-tasks (activities running in an app) on the phone. Android developer guide mentions that this permission was discontinued since roll out of Android Lolliop due to security risks . The permission can however be granted and work on phones with Android version below Lollipop. Note that a handful of UPI apps that MediaNama reviewed did not want access to background apps , which means that a UPI-based payment can obviously be completed without accessing your task list.
+
+Apps requesting the permission : Axis Pay UPI App , UCO UPI (UCO Bank) , Allahabad Bank UPI , CSB-UPI (Catholic Syrian Bank) , UPI Social Payments & Split (Non-bank owned) , Lotza UPI (Federal Bank), YES PAY Wallet (YES Bank)
+
+4) directly call phone numbers
+
+Some UPI apps requested permission to âdirectly call phone numbersâ, which is granted under Androidâs telephony permission allowing the app to directly call phone numbers (and at times without user knowledge). Although a bunch of UPI-based apps wanted permission to make calls, many did not request such a permission denoting that i) developers could have been careless while writing code ii) UPI-payments via apps can be done without access to make calls.
+
+Apps requesting to read call logs : PNB UPI , Trupay India (non-bank owned), United UPI (United Bank of India) , UCO UPI (UCO Bank) , VIJAYA UPI (Vijaya Bank) , SIB M-Pay (South Indian Bank) , UPI Bank Transfer with Friends (non-bank owned), Allahabad Bank UPI , CSB-UPI (Catholic Syrian Bank)
+
+5) Location tracking using GPS / telecom network
+
+What it means :Â  Apps requesting these permissions allow it track precise location of a user (down to coordontates) via GPS, or through the mobile network signals that the phone is picking up from a nearby tower.
+
+Apps requesting location tracking : 18 of the 19 UPI apps (all exceptÂ SBI Pay Â ) that MediaNama reviewed requested access to “ exact or precise location ” which requested for tracking via network:
+
+– PNB UPI , – Trupay India (not a bank-owned app), – YES PAY Wallet (YES Bank) – Axis Pay UPI App , – UCO UPI (UCO Bank) , – Allahabad Bank UPI , – CSB-UPI (Catholic Syrian Bank) , – UPI Social Payments & Split (Non-bank owned) , – Lotza UPI (Federal Bank), – United UPI (United Bank of India) , – VIJAYA UPI (Vijaya Bank) , – SIB M-Pay (South Indian Bank) – Eazypay (ICICI bank) , – Maha UPI (Maharashtra bank) , – Andhra Bank ONE (Andhra Bank) , – Canara Bank UPI- eMpower , – Union Bank UPI App , – KBL SMARTz (Karnataka Bank)
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

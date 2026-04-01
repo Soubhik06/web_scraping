@@ -1,0 +1,58 @@
+SUBREDDIT: r/Scams
+TITLE: This is a scam but I can't figure out the scammer's upside.
+DATE: 2020-07-28
+SCORE: 3
+URL: https://www.reddit.com/r/Scams/comments/hze7yn/this_is_a_scam_but_i_cant_figure_out_the_scammers/
+
+--- POST TEXT ---
+
+We're a niche company in a niche industry. We only sell services, not hardware/equipment. 
+
+Lately we've been getting a lot of messages via our website's "contact form" and a few via our "support" email address that fall into the same basic pattern of 
+
+* Listing a random collection of equipment relevant to our industry
+* Asking for a quote urgently
+* Signing the email with a name that appears to be "real" but with a website and contact information that seem close-ish to the real details but don't match. 
+
+* The user agent IP Address is also usually assigned and/or geolocated to somewhere very different than where the user claims to be (i.e. user clams to be in California but IP belongs to an Indian DSL account) 
+
+I'm trying to figure out what the scammer's goal is -- if we did actually provide a quote...they still wouldn't have anything. 
+
+For example (with some details masked -- noted in [] and italics: 
+
+&gt; Name: *[Actual Procurement Person at UC Davis]*
+
+&gt; Phone: *[Phone number in an NPA-NXX that is based in Tulsa, OK and belongs to Cricket Wireless]*
+
+&gt; Email: *[First Name]*.*[Last Name]*@ucdmc-ucdavis-edu.us
+
+&gt; Message: Hello Sales,
+We will like to make inquiries about the below items and kindly provide us with the price of the items at your earliest convenience so that i can get back to you with the quantities needed.
+
+&gt; BenQ MH733 Projector
+NEC ME402X Projector
+EIKI EK-302X Projector
+InFocus IN2128HDx Projector
+Hitachi CP-EU4501WN Projector
+Vivitek D963HD PLUS Projector
+EPSON Powerlite 2142 LCD Projector (V11H875020)
+
+&gt; Warm Regards
+
+&gt; *[Same name as above]* 
+
+&gt; Buyer V-S
+
+&gt; Purchasing Department
+
+&gt; University of California, Davis, Medical Center
+
+&gt; *[Actual UCD MC Street address]*
+
+&gt; Sacramento, CA 95817 
+
+&gt; Tel:(916) *[Same NXX-NNNN as above but different area code]*
+
+&gt; Fax:(916) *[NXX that shows as being assigned for Cellular to MAP Mobile Communications]* 
+
+Obviously we're just letting them fall into the bit bucket but I'm curious what the payoff is to be worth setting up a fake domain, getting fake phone numbers in place, in some of the other cases a fake address (UPS-store type PO box or virtual office) etc.

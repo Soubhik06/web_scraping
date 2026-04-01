@@ -1,0 +1,45 @@
+SUBREDDIT: r/india
+TITLE: [PSA] Kaspersky Anti-Virus &amp; Internet Security is available on Amazon India for upto 3 years license which is cheaper @ Rs. 626 for Anti-Virus and Rs. 1000 for Internet Security. (1 PC, 3 Years)
+DATE: 2017-06-12
+SCORE: 31
+URL: https://www.reddit.com/r/india/comments/6gqa08/psa_kaspersky_antivirus_internet_security_is/
+
+--- POST TEXT ---
+
+Needless to say you don't need a paid av for optimal protection but if you want to increase your safety then consider buying Kaspersky offline. Why? because it's the cheapest and the best (top awards by avtest.org and av comparatives).
+
+I was using Avast free with Malwarebytes anti malware, Hitman Pro as second opinion for years, still I was infected with some viruses from pen drive. My neighbor uncle visited my home with his infected drive for some documents, unfortunately I was at college. When I came back I saw avast detected some viruses. 
+
+Ran Malwarebytes to cleanup, it caught some more, then I ran avast full scan and malwarebytes full scan endlessly because I'm a security freak, I was more afraid because I do all of my banking work online. Well I don't use pc anymore most of the time but I need it sometimes. 
+
+also avast's new update of their av slowed down my pc. 
+
+Recently needed my pendrive and pc for some printing, I had to plug in my pendrive outside because I have no printer and got infected again.. what's scary was avast is not scanning removable media when connected. finally decided to try Kaspersky. It scanned my pc and found another malware. 
+
+Yes I could have reformatted my pc and roll back any damages but I had some documents and media which I don't have any backup elsewhere. I have a old pc, it's not worth formatting and installing windows update again and again. 
+
+Installed Kaspersky Internet Security trial, it didn't slowed down my aged Pentium Dual Core, with 3 GB ram and 500GB HDD. There is some good features such as safe money which creates safe process isolated from system for online banking and transaction. 
+
+If you want you can go with their AV which is good enough but you won't get firewall, safe money feature. Rs. 626 for 3 years is pretty cheap and manageable. 
+
+Now I'm sharing some tips if you don't wanna upgrade to a paid av. 
+
+* Use Avast free as main av and Malwarebytes, Hitman Pro as second opinion to scan on demand. Regularly update them and perform a scan once a month or week. 
+
+ You can use Microsoft Security Essentials (Windows Defender) but they don't have a online scanning module which scans for infected urls. 
+
+* Leave Windows User Account Control(UAC) to default settings don't turn it off. It notifies when a program is trying to get installed or making changes to your pc. It blocks malware programs and needs input from you whether you want that program to install or not. It's not foolproof and can be bypassed by many programs, that's why you need an antivirus. 
+
+* Keep two pendrives, one for storing media and one for using at friend's pc or cyber cafe. Always connect that second pendrive to your mobile after using at a cyber cafe. Since androids don't get infected by windows virus you can check if any unnecessary programs on the drive and delete it from there.
+
+* Consider using Linux, Ubuntu is very user friendly and can be installed alongside with windows. 
+
+ I don't use it mainly because my pc is a family pc and still LibreOffice is far behind than Microsoft Office. It's fine if your workplace uses LibreOffice, it has some compatibility issue with MS office. 
+
+ So use Ubuntu or any linux to perform any online tasks and use Windows for document editing, gaming. 
+
+* Lastly, keep your Windows pc updated with all latest versions of programs, browsers and security patches. Use Chrome or Firefox. 
+
+Hope this post helps you to achieve a much secured digital life. 
+
+**This post does't include any paid promotion by Kaspersky, Avast, Hitman Pro or Malwarebytes.**

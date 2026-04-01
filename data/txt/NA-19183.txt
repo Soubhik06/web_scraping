@@ -1,0 +1,131 @@
+SUBREDDIT: r/india
+TITLE: Just a list of permissions Hotstar requires on Android.
+DATE: 2017-09-19
+SCORE: 108
+URL: https://www.reddit.com/r/india/comments/70zb0k/just_a_list_of_permissions_hotstar_requires_on/
+
+--- POST TEXT ---
+
+Just a view of permissions requested by the apps. Remember, you're probably paying for this sweet set of data theft.
+
+There are several ways you can change these permissions, I just think users shouldn't have to.
+
+Hotstar Version 5.17.47 :
+
+**Device &amp; app history**
+
+* retrieve running apps
+
+**Identity**
+
+* find accounts on the device
+
+* read your own contact card
+
+* modify your own contact card
+
+**Contacts**
+
+* find accounts on the device
+
+**Location**
+
+* approximate location (network-based)
+
+* precise location (GPS and network-based)
+
+**Phone**
+
+* read call log
+
+* read phone status and identity
+
+* write call log
+
+* add voicemail
+
+**Photos/Media/Files**
+
+* read the contents of your USB storage
+
+* modify or delete the contents of your USB storage
+
+**Storage**
+
+* read the contents of your USB storage
+
+* modify or delete the contents of your USB storage
+
+**Wi-Fi connection information**
+
+* view Wi-Fi connections
+
+**Device ID &amp; call information**
+
+* read phone status and identity
+
+**Body sensors**
+
+* *body sensors (like heart rate monitors)*
+
+**Other**
+
+bind to an accessibility service
+
+bind to a dream service
+
+bind to NFC service
+
+bind to a TV input
+
+allow Bluetooth pairing by Application
+
+capture audio output
+
+capture secure video output
+
+capture video output
+
+*download files without notification*
+
+get current app info
+
+manage document storage
+
+control media playback and metadata access
+
+*read your social stream*
+
+send respond-via-message events
+
+*transmit infrared*
+
+*write to your social stream*
+
+*read voicemail*
+
+*write voicemails*
+
+receive data from Internet
+
+view network connections
+
+full network access
+
+control Near Field Communication
+
+*read terms you added to the dictionary*
+
+run at startup
+
+control vibration
+
+prevent device from sleeping
+
+*add words to user-defined dictionary*
+
+install shortcuts
+
+uninstall shortcuts
+
+Updates to Hotstar may automatically add additional capabilities within each group.

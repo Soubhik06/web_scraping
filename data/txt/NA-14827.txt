@@ -1,0 +1,185 @@
+The ongoing standoff between Asian News International (ANI) and YouTubers exposes a key failure of India’s Copyright Act, which the Indian government has failed to address: that the section of the Copyright Act and Copyright Rules of 2013 that allows content creators some level of protection against aggressive copyright enforcement remains unenforced, and may be inapplicable. For context, a fairly large number of YouTubers, over the past year and a half, have had their content blocked or taken down because of copyright strikes on YouTube, from entities such as India’s public broadcaster Prasar Bharati and news agency ANI.
+
+In particular, over the past month and a half, ANI has issued simultaneous copyright strikes against YouTubers, thereby triggering a YouTube process wherein accounts may be shut down following three copyright strikes. ANI, it is alleged, has followed up such strikes with demands for licensing of its content, along with the enforcement of a penalty on the YouTubers. In court as per documents reported by The Reporters Collective, ANI has asked up to Rs. 45 lakh from creators, sharing details of contracts it has signed with YouTubers, “one in May 2025 and another in October 2024”.
+
+One can argue that YouTube has a monopoly when it comes to video content in India, especially after TikTok was banned in the country. Neil Mohan, CEO of YouTube, had said last month that 100 million channels in India uploaded content in the past year , with more than 15,000 of these surpassing 1 million subscribers. YouTube has paid over Rs 21,000 crore to Indian creators, artists, and media companies in the last three years alone, according to Mohan.
+
+This means that the livelihood of millions of channel creators depends on how YouTube administers its copyright strikes: three quick complaints from a copyright owner could end up banning a user forever. This is the primary concern that YouTubers are faced with, with ANI’s simultaneous copyright strikes: will a channel they’ve spent time and effort building be lost to them forever, and will they be prevented from starting a new channel ever again?
+
+There are three separate laws that can be applicable for taking down content: the US Digital Millennium Copyright Act (DMCA), India’s Copyright Act, and, surprisingly, India’s Information Technology Act (IT Act). But which one does YouTube follow in India?
+
+Copyright is applied territorially , and hence US DMCA should not apply. In response to very specific queries from MediaNama, YouTube declined to explain which law exactly it abides by in India, saying vaguely that only that it abides by “applicable laws”.
+
+ANI, on the other hand, was very clear, not just about the law under which it files these notices, but, oddly enough, also what YouTube abides by.
+
+Ishaan Prakash, Director at ANI, told MediaNama via an emailed response that “ANI claims copyright infringement on YouTube based on its terms of use and copyright protection policy. Users agree to these policies as a contractual obligation.”
+
+He also said that “ YouTube’s policies are formulated according to Rule 3 of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (“Intermediary Guidelines”), which requires intermediaries to prevent the uploading of content that infringes copyright. The use of intermediary platforms such as YouTube is governed by these rules and regulations that are rooted in the Intermediary Guidelines.”
+
+“Fair dealing” of content is enabled in India by Section 52 of the Indian Copyright Act , importantly for “the reporting of current events and current affairs, including the reporting of a lecture delivered in public.” While the law doesn’t define fair dealing, this is normally left to courts. In the case of news, it typically refers to the idea that a limited or minuscule amount of someone’s copyrighted content can be used for derivative work. While there doesn’t appear to be a verdict for fair use and fair dealing under India’s Copyright Act, there is precedent in India in the case of educational content. More at SpicyIP here .
+
+ANI has been fairly combative about this issue. In response to queries from MediaNama, Ishaan Prakash, Director at ANI, said that “Fair use is not a free pass to copy original news content. Copyright doesn’t vanish just because a story is newsworthy. The law allows reporting and commentary — not wholesale lifting of content created through investment and effort. A free and effective press depends on news organisations being able to fund journalism. Copyright theft undermines that.”
+
+Platforms such as YouTube, Vimeo, X and Instagram play a critical role in the enforcement of copyright. They are intermediaries: they do not choose to upload the content (users do), but are expected to act upon complaints filed by Copyright Owners. The process they need to follow, because theirs is transient and incidental storage, is detailed by the Copyright Rules 2013. The following clauses are important when it comes to understanding the procedure related to how complaints are filed, enforced, and content may be taken down or put back on such platforms:
+
+To summarise, this means that every time a copyright owner issues a strike, the platform has to take the content down in 36 hours. The copyright owner is then required to get a court order within 21 days, else the platform may put the content back up and ignore any further notices from the same complainant about that same piece of work.
+
+It is clear that this process isn’t being followed by YouTube: we checked and also weren’t able to locate instances of copyright orders obtained by ANI across websites of the Delhi High Court or the Bombay High Court this year, except the recent case against Mohak Mangal. So, weren’t there any cases against YouTubers including, Thugesh Unfiltered, Abhisar Sharma, Ashok Kumar Pandey, Paurush Sharma, Rajat Pawar, Akassh Ashok Gupta, among others?
+
+YouTube’s response: YouTube did not respond to MediaNama’s query about whether they have received any injunction orders from courts regarding the alleged infringements from ANI within the stipulated 21 days. They also didn’t confirm (or deny) whether they have received copies of injunctions against any of the users mentioned above.
+
+They also didn’t comment on whether they’ve reversed copyright strikes in India on the basis of the lack of an injunction order from a court within the stipulated period in the last three months.
+
+They only said that “When we receive a valid copyright takedown notice, we’re compelled by the law to remove the video until further action is taken by the uploader through our dispute process.” We’ve posted their entire response below.
+
+ANI’s response: Prakash, on the other hand, pointed out that the offending user can dispute the request by issuing a counter notification, adding that “If disputed, ANI must file court proceedings to obtain necessary orders. This is strictly in accordance with the policies and terms of use set out by YouTube. These policies and terms of use govern the use of intermediary platforms in terms of Rule 3 of the Intermediary Guidelines. ANI has filed multiple court proceedings and obtained orders for content removal where counter notifications were issued as per the requirements under these policies.”
+
+He also said that:
+
+Prakash also says that he isn’t aware of any instances of YouTube reversing any copyright strikes in India filed by ANI, on the basis of the lack of an order from a court within the stipulated period in the last three months.
+
+Court orders or just diary numbers? Sources we spoke with also alleged that ANI wasn’t filing cases, but in fact, they would provide YouTube with a diary number issued by courts for a filing in progress, which YouTube accepts as proof of court process, even though it’s not an injunction. YouTube declined to comment on this.
+
+Prakash, on the other hand, largely dispelled this rumour by sending us an “illustrative compilation of orders where courts have granted injunctions in ANI’s favour against use of its original content”, which we will analyse separately.
+
+At the same time, it’s clear that nobody is operating as per the Copyright Act, which is meant to provide protection to creators in case of fair dealing. They’re all operating under the IT Act.
+
+“Whether you want to classify it as a silent agreement on the part of platforms and copyright owners,” lawyer Ameet Datta of ADP Law Office told MediaNama in an interview ( video , transcript ), “almost nobody relies on the Copyright Rules or Section 52.1 (ac) or (ab). So everybody goes under the (IT Act) Section 79 due diligence rules, that is the IT Rules.”
+
+Datta, who has worked extensively with copyright owners, especially music labels, says that typically copyright owners automate the takedown process and work with third-party copyright enforcers because they have to send “thousands if not tens and tens of thousands, hundreds of thousands, if not millions of takedowns every year.” Copyright infringement online is a major part of how copyright owners make money.
+
+Court orders are not a feasible solution: “And the reason they don’t do it is because if you look at Rule 75 (of the Copyright Rules), it follows to some extent the language of the DMCA, but puts the onerous obligation where the copyright owner has a 21 day in which they are required to then procure a court order.” Millions of court orders just won’t be feasible.
+
+Industry practice determines copyright enforcement, not the law: “…industry practice, often from a takedown perspective, operates largely not in news content, but in music and film content. In that ecosystem, I suspect that the odds are more likely that there’s virtually no fair-dealing defence used by anybody or employable by the law. An overwhelming part of the usage is non-licensed usage of music or film content, right? It’s the entertainment industry’s style of usage. So nobody really challenges it. They get demonetised. Copyright owner moves on, they move on unless the person who’s engaging in this is a large enough player where it makes sense for the copyright owner on the film or music side to actually now identify and then pursue an individual case against them, or the circumstances of use are so peculiar and typical, that it requires the user to then kind of do a defense action.”
+
+Copyright Act “safe harbour” is insufficient: One important concept to consider here is the “safe harbour” provision, which means that as long as platforms perform certain minimum “due diligence” activities, like taking down content upon notice, or not choosing which content is uploaded, or select which user receives the content, they’re protected from any legal issues if the content is illegal.
+
+Datta says that in the MySpace vs T-Series case , platforms pointed out that the “language of the safe harbour provision again in Section 52 is ineffective”, essentially because “it is a very limited provision that only applies to certain platforms.” The language of the clause refers to “transient or incidental storage, firstly is limiting in itself; for the purpose of providing electronic links, access or integration, where such links access integration not been expressly prohibited by the right owner, unless the person responsible, and then provided, if you’ve got a notice, etc, etc.” The Section 79 provision of the IT Act, he says, is broader and a more effective provision for safe harbour protections, so they rely on that, while the safe harbour provision in the Copyright Act is “akin to lip service”. “It is so graduated, stilted and convoluted in its language that courts, if you look at the MySpace judgement, this is 2016, this provision was there, but the entire judgement revolved on Section 79 of the IT Act,” Datta added.
+
+Datta says that since the IT Act (amendment) was passed after the Copyright Act, Section 79 of the IT Act, in effect, overrode the Copyright Act because of how it was worded. This is what the Division Bench of the Delhi High Court relied on when passing the judgment in the MySpace versus T-Series case. IT Rules were passed in 2021, and included a clause enabling takedown of content for copyright infringement, without any protections that the Copyright Act and the subsequent Copyright Rules (2013) provided for.
+
+In all of this, it is also important to remember that the Shreya Singhal judgement, which established procedures for takedown of content under Section 79 of the IT Act , required notices to be either a court order or a government order. That protection against just anyone being able to take down content by sending a notice also doesn’t appear to be applicable here.
+
+Datta says that the Shreya Singhal judgement never looked at copyright. The Division Bench of the Delhi High Court in the MySpace vs T-Series case, according to him, “held that a takedown notice which meets the criteria of a clear identification of where the alleged infringing content is, and the basis of the claim in terms of copyright owner, exclusive license, etc. identifying the claimant will be adequate and will require compliance in the form of a takedown.”
+
+It only held that in sending a takedown notice, according to Datta, “You have to identify the location of the alleged infringing content, give a basis, identify yourself as a copyright owner, that’s all criteria. Once that notice with these ingredients being fulfilled is delivered to the platform, then the platform is bound to take them down.”
+
+Thus, neither the protections provided by the Copyright Act, the Copyright Rules, nor those enabled by the Shreya Singhal judgment appear to apply to copyrighted content.
+
+Meanwhile, the IT Rules 2021 state:
+
+While this refers to merely informing users that they shouldn’t host copyrighted content, the IT Rules also have an extensive process for grievance redressal. It’s not clear from YouTube’s vague response which laws and clauses they abide by, and this is something that will probably only emerge in court.
+
+YouTube’s three-strike takedown policy, wherein it bans a user after three successful copyright strikes, is its own creation: there’s nothing on a three-strike policy in the DMCA, the IT Act, the IT Rules, or India’s Copyright Act or Rules.
+
+This issue of account blocking was also considered in courts, specifically in cases of copyright infringements, whether it should be just a URL that should be blocked or an entire website. As per law, takedowns have been largely about specific URLs, because blocking an entire website also restricts non-infringing content, as well as the potential for future speech. Blocking an entire website can appear to be a disproportionate action.
+
+According to Datta, jurisprudence developed in the Delhi High Court says that “it’s not efficient at all to block individual URLs, only in the case of what is known as a rogue website, or a website where the overwhelming majority of the content, as certified by an investigator’s affidavit, a proper technical investigator’s affidavit, attests to the fact that this is not a Vimeo or a Google groups where there’s an adequate mix of infringing content, non-infringing content, public domain content, private content, whatever it is.”
+
+Where entire websites can be blocked is specifically where there are “ships of infringement, or rogue websites, or pirate websites, which are detailed, and the court is satisfied that these websites should be blocked and satisfied that an overwhelming majority, massive percentage of content is infringing and pirating. So block the entire thing.”
+
+However, YouTube’s three-strike policy applies globally. YouTube, in its response to MediaNama, says that the “three-strikes system applies to both YouTube’s Community Guidelines and Copyright Policies, and is applied consistently to all creators globally.”
+
+It is meant to prevent “repeat offenders from abusing our systems and policies.” Still, YouTube didn’t explain what it does when someone sends, like ANI is alleged to, three strikes in quick succession, with an alleged intent to leverage account take-downs for extracting subscriptions and imposing penalties, which, to my mind, would be a weaponisation of YouTube’s process.
+
+Datta disagrees with this approach from YouTube, and I’m inclined to agree. He believes that YouTube’s policy, when Indian courts have “eschewed the blocking of entire portals, and has opted for individual URL blocking, excluding for circumstances when you can show that the entire portal is a pirate portal, to strike a channel on three strikes, and to remove a channel on three strikes seems to me to be contrary to what the established jurisprudence in India is. You are punishing somebody, assuming that there’s a lot of non-infringing content on a popular YouTube content creator’s channel, for three strikes, you are decreeing that the entire channel has to go, which seems completely opposed to what Courts in India have said.”
+
+“(If) I have 200 pieces of content videos on my YouTube, and assuming that the YouTube channel removal policy is not there, and it follows a simple Indian law perspective of URL takedowns, and somebody takes on three pieces of content, demonetises the content, that’s fine. Then the copyright owner has the option to sue me to recover damages. But my other content will continue. But when YouTube says you’re gone in entirety, then it’s not really the law that’s operating here, it’s YouTube’s policy,” he says.
+
+“I’ve been saying this for some time, that I don’t believe that the leverage for copyright owners is the law here. I believe the leverage of the copyright owners, witting or unwitting, is the YouTube policy and YouTube itself.”
+
+My sense is that YouTubers need to litigate to resolve this: they need to challenge the fact that the IT Act is in operation and the procedure laid out in the Copyright Rules is no longer being followed, apart from the fact that the Division Bench of the Delhi High Court in the T-Series vs MySpace appeared to override the Shreya Singhal judgment of the Supreme Court of India. The idea of Fair Dealing, under the Copyright Act, also doesn’t appear to be a consideration in these cases, and YouTube’s policy of three strikes and the account getting taken down appears to be a disproportionate restriction on free speech, especially given that it is a monopoly when it comes to video. There’s a potential case for the competition commission to also consider here, to ensure that YouTube, as a platform, is fair in its dealings with market participants, just like it was the case with the Play Store issue.
+
+Datta adds that the Supreme Court of India has also held that citizens can “assert a violation of fundamental right claim not only against the government, but against private parties as well.” I’m not sure I agree with this idea, except when it comes to dominant entities that are carriers of free speech.
+
+“The only option,” Datta says, “is for the content creator to go to court, and to take the copyright owner and the platform to court from two perspectives. One, from a declaration perspective, the individual instances cited are actually not infringement but constitute fair dealing for the purpose of criticism or review, or reporting on current affairs or current events, either of the two, which would be applicable here.
+
+Second, to get an injunction against the platform exercising its removal against the content creator on the grounds that this violates what the Indian law is, jurisprudence is, and will amount to throwing the baby out with the bathwater, which is not supposed to be the intention of the law.”
+
+Until courts get involved and the issue created by MySpace vs T-Series is resolved, for YouTubers, it appears, what YouTube decides is the law. In my opinion, as far as the three-strike policy is concerned, YouTube appears to be a law unto itself.
+
+***
+
+1. Does ANI file copyright-related complaints with YouTube against Indian users on YouTube for allegedly violating ANI’s copyright as per the Digital Millennium Copyright Act, or the Indian Copyright Act?
+
+Answer: ANI claims copyright infringement on YouTube based on its terms of use and copyright protection policy. Users agree to these policies as a contractual obligation. YouTube’s policies are formulated according to Rule 3 of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (“Intermediary Guidelines”), which requires intermediaries to prevent the uploading of content that infringes copyright. The use of intermediary platforms such as YouTube is governed by these rules and regulations that are rooted in the Intermediary Guidelines.
+
+2.Can ANI confirm that it has sent court-ordered injunctions, as required under the Indian Copyright Act, within the stipulated 21 days? I’m asking because I have been unable to find orders by the High Courts against some of the YouTubers that have confirmed receiving copyright strikes from ANI via YouTube.
+
+Answer: As stated in the answer to the previous question, a strike is issued by YouTube when it finds that the content removal request has some basis. The offending user can dispute the request by issuing a counter-notification.
+
+If disputed, ANI must file court proceedings to obtain necessary orders. This is strictly in accordance with the policies and terms of use set out by YouTube. These policies and terms of use govern the use of intermediary platforms in terms of Rule 3 of the Intermediary Guidelines. ANI has filed multiple court proceedings and obtained orders for content removal where counter-notifications were issued as per the requirements under these policies.
+
+In any event, content is removed by YouTube only where it is presumably satisfied that the request complies with the law and other applicable laws.
+
+3.We have learned from sources that ANI provides YouTube with a diary number issued by the court for a filing in progress. Can you confirm or deny whether you’ve merely sent diary numbers for filings to YouTube, and not court-ordered injunctions? In case you’ve received court orders, please provide us with copies of such orders against YouTubers, including Thugesh Unfiltered, Abhisar Sharma, Ashok Kumar Pandey, Paurush Sharma, Rajat Pawar, Akassh Ashok Gupta, among others.
+
+Answer: ANI has instituted multiple court proceedings before various courts, when required in terms of the copyright protection policy issued by YouTube. The evidence of filing these legal proceedings has been furnished to YouTube as required. In fact, YouTube is arrayed as a Defendant in each of these proceedings and is aware of all orders passed. We would not like to comment on any matters that are pending in court or likely to be heard in court imminently.
+
+4.If not, can you confirm or deny whether you’ve sent only diary numbers as proof of the court process to YouTube?
+
+Answer: YouTube copyright protection policy requires submission of evidence of legal action after a counter-notification. This requirement has been complied with in the time frame stipulated by YouTube. We have filed multiple proceedings in court in the past and obtained several orders from the High Court and the Commercial Court, New Delhi District in relation to copyright infringement on YouTube.
+
+5.Has YouTube reversed any copyright strikes in India filed by ANI on the basis of the lack of an order from a court within the stipulated period in the last three months?
+
+None that we are aware of.
+
+Questions we sent:
+
+1.Does YouTube follow the DMCA or the Indian Copyright Act for copyright strikes/takedowns for videos uploaded on YouTube by YouTubers in India, targeting Indian users?
+
+2.Can YouTube confirm whether it has received court-ordered injunctions (reference 75(5) above) regarding the alleged infringements from ANI within the stipulated 21 days? I’m asking because I have been unable to find orders by the High Courts against some of the YouTubers who have confirmed receiving copyright strikes via YouTube.
+
+3.We have learned from sources that ANI provides YouTube with a diary number issued by the court for a filing in progress, which YouTube accepts as proof of the court process, even though it’s not an injunction.
+
+Can you confirm (or deny) whether you have received copies of injunctions against users like Thugesh Unfiltered, Abhisar Sharma, Ashok Kumar Pandey, Paurush Sharma, Rajat Pawar, and Akassh Ashok Gupta?
+
+In case you’ve received court orders, please provide us with copies of such orders. Court orders are public information and can be shared, and there don’t seem to be any orders against these individuals on the court websites.
+
+4. If not, can you confirm or deny whether you’ve received only diary numbers as proof of the court process, and have acted upon it?
+
+5.Has YouTube reversed copyright strikes in India on the basis of the lack of an order from a court within the stipulated period in the last three months?
+
+YouTube’s response (Note that they haven’t responded to our questions):
+
+YouTube is not a court of law, and we don’t adjudicate copyright ownership disputes or make legal determinations on the merits of fair use or other exceptions.
+
+Our role is to process copyright takedown notices that comply with applicable laws, such as the DMCA or local equivalents, and provide a dispute pathway for uploaders who believe they have the rights to use this content.
+
+When we receive a valid copyright takedown notice, we’re compelled by the law to remove the video until further action is taken by the uploader through our dispute process.
+
+While we do not make final legal determinations about fair use or fair dealing, we do require that copyright claims meet legal requirements under the applicable laws, including whether the claimant has considered exceptions to copyright like fair use or fair dealing.
+
+Our review of a copyright takedown notice is to ensure it meets these legal and procedural requirements for such notices.
+
+We do not make legal determinations of copyright ownership; these are matters for resolution between the parties involved or to be determined by a court of law.
+
+When a copyright holder notifies us of a video that infringes on their copyright, we remove the content in accordance with applicable law and policies.
+
+Misuse of our processes, such as submitting fraudulent information or documentation, could result in the termination of the user’s account.
+
+We have a counter-notification process in place if a user believes a content owner has misidentified their video or if the user believes their use qualifies as a copyright exception, such as fair use.
+
+A copyright strike can be resolved, and we reinstate videos if the user submits a valid counter-notification or when we receive a retraction from the content owner that submitted the original notification.
+
+YouTube receives many copyright takedown notifications, and some of the allegedly infringing videos may fall into copyright exceptions such as fair use. In some cases, we ask rights holders to provide us with an adequate explanation as to why a video doesn’t qualify for a copyright exception. If none is provided, we may keep the video live.
+
+We have teams that monitor the use of our tools and work to prevent abuse of our Copyright system. YouTube’s teams investigate abuse, working to catch and prevent inaccurate claims before content is blocked, and remove bad reference files from Content ID when detected.
+
+YouTube will revoke access to certain copyright tools if a partner repeatedly abuses the system.
+
+Our three-strikes system applies to both YouTube’s Community Guidelines and Copyright Policies, and is applied consistently to all creators globally.
+
+The three-strikes system is meant to ensure that creators have the ability to learn from their mistakes and use our educational resources to better comply with YouTube’s policies in the future, while preventing repeat offenders from abusing our systems and policies.
+
+For example, the first time a creator gets a copyright strike, they need to go through Copyright School.
+
+Copyright School helps creators understand copyright principles and how they’re enforced on YouTube.
+
+The YouTube Help Centre provides comprehensive information on our long-standing and robust policies on copyright and rights management.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

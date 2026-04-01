@@ -1,0 +1,43 @@
+Password manager LastPass on December 22 informed that hackers were able to “copy a backup of customer vault data,” which contains “fully-encrypted sensitive fields such as website usernames and passwords, secure notes, and form-filled data.” Hackers can access these encrypted fields if they crack the master password set by the user.
+
+Why does this matter: The only thing worse than a data breach is a data breach of a password manager. Password managers are widely used for the convenience they offer of not having to remember the password for every service you’ve signed up with, but this also makes them a honeypot of sensitive information. But this doesn’t mean you stop using password managers. By simply setting a strong master password you can improve your security significantly (as you will read below).
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+In a gist:
+
+LastPass breach gets worse and worse.
+
+First: We were breached but no customer data was accessed Next: Okay some customer data was accessed, but not password vaults. Now: Customer password vaults were copied by the attacker but don't worry, it will be hard to crack your vault. https://t.co/V3kOfl7Xev pic.twitter.com/vbhL71R6ep
+
+— AJ Stuyvenberg (@astuyve) December 22, 2022
+
+1. Encrypted customer vault data:
+
+2. Unencrypted customer vault data:
+
+3. Account information and related metadata:
+
+1. Master Passwords: The encrypted fields (category 1 above) can only be unencrypted if the hackers figure out the master password of the respective user’s vault. “Encrypted fields remain secured with 256-bit AES encryption and can only be decrypted with a unique encryption key derived from each user’s master password using our Zero Knowledge architecture. As a reminder, the master password is never known to LastPass and is not stored or maintained by LastPass. The encryption and decryption of data is performed only on the local LastPass client,” the company explained.
+
+2 . Credit card data: “There is no evidence that any unencrypted credit card data was accessed. LastPass does not store complete credit card numbers and credit card information is not archived in this cloud storage environment,” the company informed.
+
+Hackers can attempt to use brute force (meaning they try using computers to guess various combinations of characters and get lucky) to guess the master password and decrypt vault data. How easy this is will depend on the strength of your password . For example, a 10-digit password with only numbers can be cracked almost instantly whereas a 13-digit password with numbers, upper and lowercase letters, and symbols will take 2 million years to crack. Of course, this is with the current standard of technology. As computers get faster, these numbers will reduce.
+
+The LastPass breach shows why it's so important to use long complex passwords, especially a master pw. The time to brute force a long pw is significantly more. A complex 8 character pw can be cracked in 1 day whereas 14 characters is up to 200M years. #cybersecurity #cyberattack pic.twitter.com/lVHCvEhAAE
+
+— Cyber Outlook (@CyberOutlook) December 23, 2022
+
+“It would be extremely difficult to attempt to brute force guess master passwords for those customers who follow our password best practices ,” LastPass reassured, but we don’t know how many users followed these best practices.
+
+Yes. Unless you can remember the username and password for every site you’re on, this incident should not put you off from using a password manager since this is still safer than other forms of storing a password such as on a Google Doc or simply choosing an easy password. As you can see in the tweet above, you can be protected even from a breach as long as you have a complex master password.
+
+It is safe to say that LastPass is going to require a lot to rebound from this incident and regain user trust, but here are the steps the company has taken so far:
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

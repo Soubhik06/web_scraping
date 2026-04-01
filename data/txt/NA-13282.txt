@@ -1,0 +1,41 @@
+The Indian government has issued a directive to all smartphone manufacturers and importers, mandating the pre-installation of the government-owned Sanchar Saathi app on all smartphones manufactured and imported into India.
+
+The directive also states that users can’t uninstall or disable the app that is forcibly installed on their smartphones, raising serious concerns about users’ agency and the choice, more importantly, user consent.
+
+Citing the  ”serious endangerment to telecom cyber security” because of duplicate or spoofed IMEIs, the directive issued by the Department of Telecommunications’ AI & Digital Intelligence Unit, mandates all mobile phone manufacturers and importers to pre-install the Sanchar Saathi app on every device manufactured or imported into Indian jurisdiction, starting 90 days from the date of the order, which is February 26, 2026.
+
+For context, an IMEI, or International Mobile Equipment Identity, is a unique 15-digit code that identifies every SIM-using device.
+
+Under the directive, the central government instructs all mobile phone manufacturers and importers supplying devices in India to take the following actions:
+
+The directive also says that the manufacturers and importers must submit their compliance reports to the DoT within 120 days of the directive’s issuance. If they fail to comply with these newly amended rules, they will face consequences under the Telecommunications Act, 2023, and the Telecom Cyber Security Rules, 2024, warns the directive order.
+
+Sanchar Saathi is a “citizen-centric initiative of India’s Department of Telecommunications” to help users protect their smartphone devices, verify their mobile connections and report suspicious activity, including spam. The app’s description on the Play Store claims that it consolidates several government-backed digital safety tools designed to curb cyber fraud, mobile theft, and illegal telecom operations.
+
+At the centre of the platform is Chakshu, a feature that allows users to report suspected fraud attempts, whether by call, SMS or WhatsApp, including impersonation, financial scams or other misuse of telecom services. Reports submitted through the tool enable authorities to track and respond to emerging cybercrime patterns, it claims. The app also supports the government’s lost and stolen phone blocking system, enabling users to request that their missing device be traced and disabled across all Indian telecom networks. Once a handset is blocked, any attempt to reactivate it triggers traceability alerts for law enforcement.
+
+Another key feature, “Know Mobile Connections in Your Name,” allows subscribers to view all mobile numbers issued in their name and flag any unauthorised or unnecessary connections. Users can also check the authenticity of their handset by entering or scanning its IMEI number. Sanchar Saathi includes a reporting tool for a growing category of telecom fraud: international calls that appear to originate from Indian (+91) caller IDs. Flagging these spoofed calls helps the DoT identify and dismantle illegal telecom routing setups.
+
+After installing the app, Sanchar Saathi requests several permissions, including call and SMS logs, phone management, SMS sending, camera and file access, to enable automated reporting and device verification. According to the DoT, these permissions allow the app to prefill details when reporting suspicious communications, send the required registration SMS, upload documentation for stolen-device reports, and scan IMEI barcodes.
+
+If the Department of Telecommunications’ aim is to monitor and prevent cybercrime, the Sanchar Saathi app falls short of being a comprehensive solution. Because it only allows users to report fraud or spam calls and messages, block lost devices, verify IMEIs, and flag spoofed international calls, but it cannot be used to file full cybercrime complaints. For that purpose, users still have to visit the government’s National Cyber Crime Reporting Portal (NCRP).
+
+This raises a fundamental question: if cybercrime prevention is the objective, why mandate a limited telecom-focused app instead of a full-fledged reporting tool under the Ministry of Home Affairs’ Indian Cyber Crime Coordination Centre? Because there isn’t one. If the government claims that preventing cybercrime is its priority, why should users or smartphone manufacturers believe the government when a basic mobile-first application-based cybercrime reporting system still doesn’t exist?
+
+More importantly, the directive reflects a disregard for user consent, mirroring a practice already common in the smartphone industry through the use of bloatware and periodic forced installations. But a government-mandated, non-removable, pre-installed application raises far more serious concerns about privacy, user agency, and the scope of (misuse of) ministerial powers to compel manufacturers to install state-owned software on every smartphone sold in India.
+
+The central issue in combating cybercrime is awareness, not forced adoption. A pre-installed app cannot achieve its stated purpose unless users understand how to recognise cyber threats and how to report them, as well as how cybercrime really works in practice.
+
+Finally, the directive applies to all mobile handsets with IMEI numbers, including feature phones, which make up a significant share of India’s market and often do not run Android or support side-loading of app installations. Then, how will manufacturers ensure compliance on feature phones when the DoT does not provide OS-specific versions of the Sanchar Saathi app and offer only Android and iOS versions? Because crime and fraud can happen even through feature phones. This gap raises practical and implementation-level concerns that the directive does not address.
+
+DIRECTION Subject: Direction under Telecom Cyber Security Rules, 2024 (as amended) regarding pre-installation of Sanchar Saathi App in the mobile handsets to check the genuineness of mobile handsets.
+
+WHEREAS, the Department of Telecommunications (DoT) has, vide Notification No. CG-DL-E-21112024-258808 dated 21st November, 2024, notified the Telecommunications (Telecom Cyber Security) Rules, 2024, and has subsequently amended the same vide Notification No. CG-DL-E-22102025-267074 dated 22nd October, 2025 (hereinafter collectively referred to as the “Rules”).
+
+This directive was digitally signed by Pranay Diwakar on November 28, 2025.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

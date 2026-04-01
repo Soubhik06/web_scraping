@@ -1,0 +1,27 @@
+India, apart from the United States of America and the United Kingdom, was one among the most affected countries that were allegedly targeted by a Russian government-backed APt28/Fancy Bear Gmail phishing campaign, according to a report by Google’s Cybersecurity Action Team.
+
+The report, a first of its kind, said that Google’s Cybersecurity Action Team observed a large-scale attack of a credential phishing campaign targeting more than 12,000 Gmail accounts by this threat actor. Fancy Bear earlier used to target Yahoo! and Microsoft users, the report said. Other countries that were targeted include Canada, Russia, Brazil, and members of the European Union.
+
+This is a sign that state-sponsored cyber-attacks are a reality today. Not just in the United States, but as this research shows, closer home in India; it was reported last year by India Today and Times of India that power substations in Maharashtra and Telangana were attacked by Chinese hackers. These attacks on critical infrastructure indicate a paradigm shift in modern warfare. It warrants a massive overhaul of a country’s cyber defense capabilities and a need for more transparency in the process.
+
+The attackers were using patterns similar to TAG’s (threat analysis group) government-backed attack alerts to lure users to change their credentials on the attacker’s controlled phishing page . The attackers kept changing the emails’ subject line but attackers used a variation of Critical security alert — Google report (emphasis ours)
+
+Phishing and spear phishing campaigns continue to use login pages that impersonate legitimate Google login pages to steal credentials — Google report
+
+Google’s cybersecurity team observed that the attacker-controlled credential phishing image looked similar to a Google login page.
+
+However, upon closer inspection, the report found that the fonts in the phishing page did not match the fonts on the legitimate Google-owned page. “This was because the attackers tried to reuse their Yahoo! toolkit and left various Yahoo! artifacts in the Gmail HTML login page…” the report added.
+
+After finding that the phishing messages were sent from compromised mail servers, the report said that this was a change from previous campaigns taken up by Fancy Bear on Yahoo!. There, the threat actor had used “some variant of spoofing to send emails”.
+
+Sending an email from an email account that one doesn’t control is called email spoofing, according to Fraudmarc , “Essentially, the attacker is claiming the sender’s identity and abusing their credibility to trick the victim into taking some action,” the website explains.
+
+In Gmail, a majority of the messages go through the sender policy framework (SPF). Techterms defines SPF as an email authentication system designed to prevent email spoofing . “One significant difference between legitimate emails from the compromised mail servers and phishing messages was the domain part of MessageId which is different and unique for every email address domain,” the report added.
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

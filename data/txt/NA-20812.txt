@@ -1,0 +1,61 @@
+SUBREDDIT: r/india
+TITLE: Not only govt actively snoops on entire internet traffic, it has made illegal for ISPs to employ bulk encryption
+DATE: 2016-03-13
+SCORE: 277
+URL: https://www.reddit.com/r/india/comments/4a84c0/not_only_govt_actively_snoops_on_entire_internet/
+
+--- POST TEXT ---
+
+A few days ago, while looking for something, I came across DoT's 2007 [GUIDELINES AND GENERAL INFORMATION FOR GRANT OF LICENCE FOR OPERATING INTERNET SERVICES NOTIFICATION](http://www.dot.gov.in/sites/default/files/Internet%20Service%20Guideline%2024-08-07.doc) 
+
+This notification basically dictates rules, regulations and terms on which internet service license is provided to ISPs.
+
+While this notification did not contain what I was looking for, a few clauses caught my eye:
+
+* Point 13(vii) says:
+
+&gt; The Licensee shall ensure that **Bulk Encryption is not deployed by ISPs** connecting to Landing Station. Further, Individuals/Groups/Organizations are permitted to use encryption upto 40 bit key length in the symmetric key algorithms or its equivalent in other algorithms without having to obtain permission from the Licensor. However, if encryption equipments higher than this limit are to be deployed, individuals/groups/organizations shall do so with the prior written permission of the Licensor and deposit the decryption key, split into two parts, with the Licensor.
+
+That means as an ISP I can not encrypt the traffic. And as a private coporation, if I want to encrypt the internet traffic, I will have to provide decryption key to DoT.
+
+* Point 42 has a lot of clauses which give power to govt agencies to monitor literally everything:
+
+&gt;(xiii)It should be possible to effectively monitor the traffic at the Landing Station from the national security point of view. The requirements would include, but not limited to: 
+
+&gt;(a) Monitoring from the security angle – **On-line and off-line (capture, store and retrieve) monitoring of all classes of traffic (data, video, audio etc.) specified by various attributes viz. destination, recipient, sender, key words etc**. 
+
+&gt;(b) Good quality intrusion detection system to ensure that the landing Station (link) does not become a launch pad for attacking sites within India.
+
+* 42(xiv) 
+
+&gt;Agencies authorized by the Government shall be entitled and enabled to **monitor all types of traffic passed through the landing Station**, including data, FAX, speech, video and Multi-media etc., both in interactive and non-interactive modes.
+
+* 42(xv)
+
+&gt;The monitoring should be possible on the basis of key words/key expressions/addresses (**IP address or e-mail address**) of initiating or terminating subscribers.
+
+* 42(xvii) 
+
+&gt;Each and every of the security agency shall be provided with adequate and **dedicated space, memory, directory and storage in the Monitoring system**.
+
+* 42(xxi)
+
+&gt;Office space of 20 feet x 20 feet with adequate uninterrupted power supply and air-conditioning which will be physically secured and accessible only to the personnel authorized by Telecom. Authority, shall be provided by the licensee at each location, free of cost.
+
+Not only dedicated resources, but air conditioned offices should also be provided to monitoring agencies
+
+* 42(xxiv)
+
+&gt;ISPs should provide the monitoring software, if specially, developed for monitoring traffic at cable landing terminal, to the security agencies free of cost.
+
+* 42(xxvi)
+
+&gt;The licensee shall provide all technical details of and access to various equipment, including hardware, software and communications equipment, when demanded by the Telecom. Authority.
+
+* 42(xxx)
+
+&gt;The Licensor shall have all rights to monitor the traffic that goes through the Landing Station. The licensee shall ensure that the bandwidth provider (eg: Submarine Cable company) gives the complete monitoring rights to the Licensor. Also the licensee has to get the assurance from the bandwidth provider that it shall co-operate with the Licensor and also provide any information requested by the Licensor including but not limited to the aforesaid issue of monitoring.
+
+I am not sure if this was already widely known. Govt snooping is not a new thing, but I didn't know it was done 24/7 continuously at such a large scale. This active 24/7 monitoring doesn't need any court orders, or any reason. Basically everything we do on internet is being, by default, monitored continuously by some govt dude in air conditioned office, he don't even need an excuse for it. 
+
+Edit: So I was watching a [video](https://youtu.be/xKihq1fClQg?t=7m55s) on cell phone spying technique and the speaker mentions how even GSM encryption is illegal in India. So not only govt discourages encryption in Internet traffic, but even mobile phones. If this doesn't make you uncomfortable, I am not sure if you really value privacy and liberty.

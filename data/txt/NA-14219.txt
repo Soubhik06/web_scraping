@@ -1,0 +1,61 @@
+“How is someone’s privacy violated if they call someone and the person comes to know who you are?” PD Vaghela, Chairman, TRAI, wondered aloud during a discussion on the Telecom Regulatory Authority of India’s (TRAI) proposal to identify callers to curb spam. “For example, if you are having a meeting with someone, can you choose to not declare your name but have a meeting? TRAI has been a vociferous supporter of privacy,” he clarified, adding that privacy is sacred and cannot be violated.
+
+Vaghela questioned whether it would be a valid argument from the point of privacy. He also highlighted how nobody had objected to the use of crowd-sourced data by private applications.
+
+Nikhil Pahwa, Founder and Editor, MediaNama, responded to Vaghela by explaining how the context of Puttaswamy judgement is relevant to the CNAP (Calling Name Presentation) proposal.
+
+Vaghela asked if this argument will apply to the display of the mobile number itself but Pahwa said that mobile number is not personal information according to privacy regulations in the EU as well as the data protection bill in India.
+
+The discussion dealt with the issue of CNAP which will allow people receiving a phone call to know the name of the person calling them. The telecom regulator had come out with a consultation paper highlighting issues with the CNAP’s roll-out, feasibility, and its implications.
+
+You can read the consultation paper here and our summary here .
+
+Why it matters: It is important to note the comments shared by various stakeholders at the discussion because the measure looks to address the problem of unsolicited commercial communication which remains a nuisance despite TRAI’s best efforts. The rapid proliferation of these calls necessitates a cogent policy on spam but the present measure may not be the answer given how it compromises privacy, among several other issues.
+
+Wait for data protection bill: “…we (Deepstrat) strongly recommend that the CNAP facility should come into effect only after a digital personal data protection bill and other privacy laws are enacted and enforced,” said Gauri Kumar, Consultant, Deepstrat, at the open house discussion organised by the Telecom Regulatory Authority of India (TRAI) on March 9, 2023.
+
+Classify between telemarketing and usual callers: A proportionate solution in terms of policy would be to make a reasonable classification between telemarketing callers and general callers, as per Deepstrat. “Telemarketers should have the requirement of providing information reflecting the principal entity that they are calling on behalf of as per the contractual agreement. A database has to be created of telemarketers with adequate privacy and security measures. The database must be accessed by TSPs to reflect the names of telemarketers accurately.
+
+Database for telemarketers: Gauri said that the regulator should explore creating a database of telemarketing numbers rather than a database of all users. “It is a much more appropriate solution given that the risk of compromising the privacy of an average user is at stake. We question the need to identify all callers when there’s only a small subset of callers that are fraudulent or spam in nature. We think that creating a database of only telemarketers will be much more useful to law enforcement agencies than an existing KYC framework which has itself been questionable.”
+
+Cannot rely on an opt-in mechanism: Kumar said that the objective of the measure may remain unfulfilled if an opt-in process is used to mitigate privacy issues because scammers can choose to remain anonymous.
+
+Collaboration with crowdsourced apps: Amol Kulkarni from CUTS said that the organisation believes that the crowdsourced information with respect to individual spam callers available with the existing solution providers might be useful to identify spam and fraud callers. The regulator can segregate them and take action against them, rather than creating a database of all individuals or creating an effective database of registered telemarketers.
+
+Concerns around Child Sexual Abuse Material: Amrita Chowdhury, Director, CCAOI, said that CNAP may not be the answer to the issue of spam. “CSAM is a major issue. It is very easy for people who want to do wrong to get numbers of a young boy or a girl when they are given a phone and their details are visible,” she said. She explained that it is a problem faced by women on a consistent basis where they get unfriendly calls.
+
+“..it is not that people do not want to identify them, but people also want to save themselves in this digital world,” Choudhury said.
+
+Articulate consent: Kumar recommended that acquiring consent must be clearly articulated if CNAP is considered once privacy laws are in place. “This includes what data will be processed, how it will be used, and the purpose for processing it,” she explained, adding that an opt-out mechanism must be made available with a mechanism for deleting personal information when consent is withdrawn.
+
+Akin to telephone directories: Jitendra Dixit, Head of Operations, MITS, supported the idea with an example of telephone directories published by BSNL and MTNL 30 years ago. “They were not only giving details for the number but also giving addresses. It is your right to know who is calling. It should be mandatory,” he said.
+
+Concerns with CAFs (Customer Acquisition Forms): When elaborating upon the legal issues with using CAFs— which collect personal information of all users— to create a database for CNAP, Kumar said that CAFs do not take explicit consent to disclose this information. “An individual may not want to use their names given in the CAFs due to various societal and personal reasons. The linkage of CAFs with CNAP will strip users of the right to decide and exercise free choice,” Kumar said.
+
+Failure of the KYC process: “It is worth noting that unlawful actors often have poor or incorrect KYC details since the CAF and KYC verification are the basis for acquiring SIM cards,” Kumar revealed, adding that law enforcement agencies also face issues due to discrepancies in the KYC data. “These discrepancies include a long chain of KYCs, multiple jurisdictions and conflicting KYC details,” she stated.
+
+Run a pilot first: There needs to be a detailed analysis, as per Choudhury which can be achieved in a small pilot. “It should be an opt-in, not a mandatory facility to begin with,” she said but only after a data protection law has been passed. “We would not be jumping the gun and trying to reinvent the wheel once the data protection regulation is there,” she concluded.
+
+MediaNama’s take: Pahwa said that the perception of privacy is very different now from 30 years ago, and everybody does not want to be identified all the time. “Forcing people to identify themselves to everyone on all occasions, especially if you might be dialling a wrong number, puts people, especially women, at risk because someone might start calling them back, might start harassing them,” he added, stating he does not see the problem that is being solved with CNAP.
+
+Ajay Mehta from Vi (Vodafone Idea) urged the telecom regulator to look at the issue in a holistic manner, and not just from the point of view of a consumer. Mehta suggested that certain elements of the network will not support CNAP and said that Vi does not want the service to be mandated. “This service has to be kept as optional,” he concluded.
+
+Building an app: Mehta said that a launch of a common app by telecom service providers will not involve technical issues and address the concern of unreliable data faced with the use of third-party apps because customer name information is coming from the CAF.
+
+Delay in setting up calls: Mehta said that the technical issues will persist even if CNAP is implemented in a phased manner. He added that the provision of a separate series of numbers for service and transaction calls, which is being considered as part of a plan to address unsolicited commercial communication (UCC), may render CNAP as unnecessary.
+
+Risk to privacy: The risk to privacy gets multiplied in the case of handsets as they provide native apps on their mobiles. Mehta said that there is a risk that these handset OS providers may record information under CNAP and create a pan-India database of all mobile numbers along with their names.
+
+Saurabh Malhotra of Bharti Airtel echoed Mehta’s assertion that all four models pose risks of latency, cost, and technological changes, among other things. But he added that the company will opt for the first model proposed by the TRAI in its consultation paper.
+
+Reconsider CNAP’s ambit: However, Malhotra said that Airtel has suggested that the TRAI should take another look at the definition or ambit of CNAP by identifying people using a 10-digit number with the help of tools that give predictive analysis, call pattern, etc. and blocking the ones that call beyond the normal threshold of an average user. They will remain blocked unless they move into the CNAP framework. “I should be under the CNAP framework if I want to do any activity which is commercial and I’m sending out a lot of messages or calling a lot,” Malhotra stated.
+
+Should not be mandatory: Mahipal Singh, Vice President, Regulatory Affairs, Reliance Jio Infocomm Limited, said that it is good to have CNAP as a supplementary service. He pointed out that it can be implemented only for the intra network with the customer’s consent because of data privacy issues. Singh quipped that criminals will not have special names so there is no point in displaying names mandatorily because people will not come to know that they are frauds through their names. He also said that there are many people with the same names.
+
+*Disclaimer: The post was edited on March 13, 2023, at 17:00 following editorial input.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

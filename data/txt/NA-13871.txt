@@ -1,0 +1,17 @@
+The State Bank of India does not know how many of its customers have signed up on UPI apps with SBI accounts, the bank revealed in response to an RTI application filed by MediaNama. The Unified Payments Interface’s API specifications mention (p. 31) that validating new users is the responsibility of the banks whose accounts users register on UPI apps. As such, it’s unclear why SBI doesn’t have information on how many of its users are on UPI. It’s quite odd that they don’t.
+
+The National Payments Corporation of India, which developed UPI, did not respond to a query from MediaNama on why a bank wouldn’t know how many of its account-holders are on UPI. While the NPCI releases bank-wise data for credit and debit card transactions, they don’t do this for UPI. MediaNama has now filed RTIs to 15 more public sector banks to find out if they are also in the dark about UPI penetration among their account-holders.
+
+Keep in mind that UPI is an unbundled interface — any eligible bank can create their own UPI app, and users can register on UPI apps created by any other bank; users can also simultaneously register on multiple UPI apps. SBI’s own UPI app, SBI Pay, had 2.29 lakh users as of this March, the bank said (see below). The NPCI’s own BHIM is the most widely used UPI app in India, with over 10 million downloads in India, which is more than 43 times the number of users registered on SBI Pay this March.
+
+The number of UPI transactions has been gradually increasing each month, even as the average value of each transaction has been tapering. This May, ₹2,765 crore was transacted over UPI.
+
+This comes as fraudsters — some working at banks — find innovative ways of gaming the UPI system using social engineering techniques. More and more established apps are also looking to integrate UPI, including Hike Messenger , Truecaller , Samsung Pay , and soon WhatsApp . Uber may also be considering adding UPI as a payment option.
+
+Paytm will soon integrate its payments bank into UPI, making it the first mobile wallet player to have a direct access to the UPI API (forgive the alliteration) for P2P payments. This integration is expected to happen by August.
+
+Here is SBI’s response to MediaNama’s RTI Application:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

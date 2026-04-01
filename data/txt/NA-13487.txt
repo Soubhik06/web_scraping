@@ -1,0 +1,25 @@
+A security vulnerability in the Ministry of Corporate Affairs (MCA) portal exposed the personal data of close to one crore company directors, cybersecurity researcher Sai Krishna Kothapalli claimed in a blog post published on January 17. The Indian Computer Emergency Response Team (CERT-In) took over eleven months to get this fixed, he added.
+
+The MCA portal is the primary interface for companies to register themselves, obtain incorporation certificates, submitÂ periodic reports on their finances, etc. It is also the portal to obtain a director identification number (DIN), which is required for directors of companies.
+
+According to Kothapalli, the MCA portal exposed the following personal data of directors:
+
+All of this above data and more could be obtained by merely having the DIN of a person, which is available publicly, Kothapalli claimed. For example, you could get the DIN of Mukesh Ambani by searching on Google. With the DIN, you could get all of the above personal data of Ambani from the MCA portal by exploiting the vulnerability, which Kothapalli did not elaborate on because it might still be active in other parts of the website.
+
+“Essentially, all the directors of Indian companies are affected. I couldnât find exactly how many directors are there. But if you look at DINs being issued the latest numbers are around 98,65,000+ (98 Lakh),” Kothapalli wrote, listing names of well-known persons like Ratan Tata, Adani, Virat Kohli, MS Dhoni, Shah Rukh Khan, Mahesh Babu, etc. as people who were affected.
+
+Kothapalli stumbled upon the vulnerability in January 2023 and reported it to CERT-In immediately. After multiple follow-ups, the agency in September responded that the issue was fixed by MCA, but it was not. Finally, in December, CERT-In once again informed Kothapalli that the issue had been fixed.
+
+“It took 11 months and 4 days for a critical vulnerability to be fixed that leaked personally identifiable information of approximately 98 lakh Indians, including many high net-worth individuals following proper government channels,” Kothapalli wrote in his blog.
+
+We are unable to confirm the authenticity of the above incidents with CERT-In as the organisation hasn’t listed a media contact on its website. We have emailed their information desk and will update this post if we receive a response. We are also no longer able to confirm this by filing a Right to Information (RTI) request with CERT-In as the agency was recently removed from the ambit of the RTI Act.
+
+Why does this matter:Â While the vulnerability has now been fixed, we are not sure about whether or not someone exploited it while it was active. All this data in the wrong hands can be misused to carry out various scams. “This kind of information is heaven for scammers. For example, in one incident , scammers duped banks for over Rs. 50 Lakhs just by getting PAN numbers of famous people,” Kothapalli points out.
+
+STAY ON TOP OF TECH NEWS:Â Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. ClickÂ here Â to sign up today!
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,75 @@
+SUBREDDIT: r/india
+TITLE: Amazon refuses to replace an incorrect variant of a GPU I ordered
+DATE: 2024-07-13
+SCORE: 85
+URL: https://www.reddit.com/r/india/comments/1e25uyf/amazon_refuses_to_replace_an_incorrect_variant_of/
+
+--- POST TEXT ---
+
+I'm pretty frustrated with Amazon support and wondering what recourse I have.
+
+I ordered a Zotac 3060 OC GPU a couple weeks ago. There are 2 variants to the Zotac 3060 - the base variant and the overclocked or 'OC' variant.
+
+The OC one was what I ordered. They sent me the base variant.
+
+Now I always take unboxing videos for expensive purcahses. Usually it goes okay. This time when I unboxed it, I notice it's the base variant.
+
+I contact support and they give me an email to contact a particular OFM team. I do so. After 5 days or so and a couple follow ups, they say that the investigation has been done and they determined that the correct product was sent.
+
+I wonder if they don't understand base version vs OC version, especially since the product box looks similar aside from the OC marking at the top right and on the label.
+
+So I send another email with edited images with arrows pointing at how to tell the difference between what I ordered and what they sent, and links the the 2 seperate Amazon listings of the base variant vs OC variant, and even a basic explanation that these are 2 seperate products. I also mention that the box serial number and the bill serial number match, and if they give me permission, I can open the box and show the same number that would be present on the actual hardware (I figure just in case they think I'm pulling some scam).
+
+I keep receiving either vague answers replying only to the part of my message asking to please call me, and vague refusals. They never address my primary issue about the incorrect product directly. 
+I get frustrated and do the bold text, caps text thing a couple times. Since I just don't understand if they comprehend the core issue or not.
+
+In the more recent emails they merely keep saying the team had completed the investigation and I am not eligible for a replacement/refund. Then they say no further replies will be given.
+
+In the final emails, I get some weird apology about how some there were automated responses (was I corresponding with an LLM in those most vague/frustrating replies?) and something about how they have checked and ensure that my account is definitely secure and I need not worry (???).
+
+There was an acknowledgement that I they are sorry that I received the wrong order. I replied with a thanks for acknowledgement and again explained how they reach an incorrect verdict without any explanation as to why they think I received the correct product.
+
+Then yesterday I receive an email hoping that the relevant team has resolved my issues (wtf) and if not, they gave me some 1800 number to call on. 
+
+I did so and it was a regular reail support number who understood the issue and connected me to the relevant team. The new guy says he understands my concern, but the team has reached the verdict that I received the correct product. I remain polite but stern and ask them how they reached that verdict when I gave them video evidence and how it's undeiable via serial number proof in their records vs what I received.
+
+The call goes silent. Still connected, but no answer from other end. I highly doubt it's a network issue. I remain on the line for 5 minutes. No answer. I hang up.
+
+I'm pretty exhausted.
+
+Additionally, a few days back I tried posting to Twitter about frustration with the OFM team, but didn't have this public description post up first which I should have. I received a quick response from the Amazon twitter account asking to DM the details. I did so and they replied with telling me to contact the OFM team - which is what my main tweet was complaining about. 
+I said so, then no response.
+[Link to tweet](https://x.com/aravinda__rao/status/1811100506854486501)
+
+I'm trying to think of motives besides general incompetence. On the day of the order, both the base variant and the OC variant got discounted a bit. And both were of the same price.
+One could theorize that this was a way for them to unload stock - attract towards the OC variant, then deliver base and then feign ignorance.
+
+One other reason I can think of is if my account was marked as 'suspicious' due to many problems with recent grocery orders. Items are often missing and I have to go through support to get it resolved, despite delivery boy promising to mark it undelivered, but never does. 
+My most recent Amazon Fresh order had 4 items mising and has been stuck on a refund for 45+ days and 11+ calls. Each time the support agent says they are happy to initiate a refund, but then see that the option is disabled on their screen. One mentioned it was due to this being handled by some 3rd party fulfilment in my area. They have to escalate, but call never connects to other team, or I never get a call back. And I remain stuck in the exact same loop of wilingness+realization+disconnection.
+
+I gave up on that since this 25k GPU order took over my attention the past 2 weeks.
+
+I'm pretty sour on Amazon now. The expected feelings of not wanting to order via them anymore, considering other retailers or local options, etc.
+
+Comparitively, it's not a disaster of a GPU mixup - not that much difference between the base variant and the OC variant. But it's remains that it's not right that I order X and they send Y and refuse to acknowledge it despite proof.
+
+Think I have any recourse? The box is still unopened and 2 weeks remain until time-limit for registration of free extended warranty gets over.
+
+Beyond that, I guess this is a PSA - beware of ordering expensive products on Amazon. I don't get why they can't do a live-unboxing in front of the customer the way Myntra does with branded shoes orders.
+
+**Edit:**
+
+While checking codes after what /u/inadarkplacesometime
+ hinted, I notice that while the bar codes embedded on the box defintely indicate the base variant, there is another manually applied sticker label on the box.
+
+This sticker has the serial code that is mentioned on the Amazon bill (but the bill also has the S/N directly embedded on the box). There is a description under the serial no, but it is truncated. I do notice it says "... 2.0 Cooling, 1807Mhz...". 
+
+The 1807Mhz is the specification of the OC variant. 
+
+I wonder if this could be the core issue - someone applied the OC variant's SKU sticker on the base variant product unit.
+
+Based on the experience so far, I don't trust the Amazon support comptency to care about this, but I've sent another email describing this anyway.
+
+**Edit 2:**
+
+If you're inclined to help draw attention, here is a new tweet linking to this thread: https://x.com/aravinda__rao/status/1812090482916315361

@@ -1,0 +1,47 @@
+On February 27, HR tech firm SpringRole India Pvt Ltd launched a WhatsApp-based tool that can authenticate any person’s government IDs — Aadhaar card, PAN card, voter ID and driver’s licence — by comparing them with data on government databases, using third-party APIs. API, or Application Programming Interface, is a software protocol that allow two programs to interact with each other. In this case, the APIs allow a service provider to pull data from government databases. SpringRole’s service returns data on the ID submitted to it from four government databases: UIDAI, NSDL, Electoral Roll, and Sarathi. It also does facial verification: comparing a photo on an ID with a photo submitted via WhatsApp.
+
+The tool was initially free for the first 1,000 users, and later for 2,500 due to demand, Anoop Suresh, the VP of Business and Operations at SpringWorks, the parent brand, told MediaNama. As of the evening of February 28th, 24 hours after the launch, 1,300 people had used it. After this trial run, the company will charge users ₹49/person, initially via Razorpay, and plans to move to WhatsApp Pay eventually.
+
+In light of the ambiguity around private access to Aadhaar data, and the suspension of licenses of AUA/KUA firms following the Supreme Court judgment on Aadhaar, the tool’s verification of Aadhaar information is concerning. In addition, the tool was initially launched without a privacy policy; it is only after concerns were raised on Twitter and after MediaNama spoke with the company’s marketing head Abhash Kumar that the privacy policy was released the next day. Suresh called it “a bit of an oversight on our end”.
+
+We’ve highlighted concerns, including its engagement with the draft Personal Data Protection Bill below .
+
+SpringVerify uses a WhatsApp business account — the account is unverified as of now — with automated responses to engage with users. We have reached out to WhatsApp to know if this service complies with their terms of use and will update when we hear from them.
+
+Users have to send a photo/scan of an ID to the SpringVerify number. The service then extracts information from the IDs using a third-party API to run optical character recognition (OCR) on the sent photo/scan to extract the information. It then verifies the data extracted against 4 government databases — UIDAI, NSDL, Electoral Roll, and Sarathi — using four third-party APIs. At least one of the APIs used to compare submitted data with government database is from Khosla Labs, Suresh told us. The service also asks for the submission of a photograph to run facial verification on the IDs using another API. A ‘Court Check’ service is also available to see if there are any court cases pending against users in India.
+
+MediaNama tested this tool using IDs available on the internet to verify a PAN card, Voter ID, and Aadhaar card (screenshots below). After the verification, a PDF report is sent to the user.
+
+Redacted reports for IDs we tested:
+
+Our observations:
+
+1. Access to Aadhaar data by private entities is a sore point between UIDAI and the larger Aadhaar ecosystem, and the judiciary. The Supreme Court had earlier struck down Section 57 of the original Aadhaar Act to prohibit private usage of Aadhaar data. But this was undone by the Aadhaar (Amendment) Act, 2019.
+
+Rahul Narayan, a Supreme Court advocate, disagreed with the entire premise of SpringVerify’s operations. “The bigger illegality is that private companies can use government APIs in this manner. What is the policy of allowing access to government APIs?” For him, harvesting publicly available data in this manner is a violation of the spirit of the Aadhaar judgement which said that all private use of Aadhaar is bad.
+
+Suresh, however, claims that SpringVerify’s use of Aadhaar data is legal because all the data that it gives in its Aadhaar verification report is already publicly available. This is why SpringVerify doesn’t need a license to authenticate Aadhaar, he said.
+
+2. Need to licence Aadhaar authenticating agency: Narayan said that this whole service “seems to be on the edge of legality” because the Aadhaar (Amendment) Act, 2019 , hasn’t yet released the regulations that would let users authenticate their own Aadhaar data [Section 4(3)]. Thus, even voluntary authentication of Aadhaar isn’t legal right now, Narayan pointed out. Moreover, if an external entity, such as SpringVerify, wants to authenticate Aadhaar, the UIDAI has to practically certify its standards of privacy and security [Section 4(4)]. But these standards have not been released yet. “The potential offence is in the hands of the app doing the verification. They are the ones authenticating the data,” Narayan said, disagreeing that private companies can legally scrape such data.
+
+Suresh, however, reiterated that since SpringVerify returns only partial information to the user, it does not need a licence. “Licensing is required when I have got the full gamut of information. Like how it works with NSDL,” he said. He told us that one of SpringVerify’s API vendors, Khosla Labs, had been been licensed as an AUA/KUA agent by UIDAI. As per Suresh, Khosla Labs still gets its information directly from the UIDAI. However, according to the Terms of Use of Veri5|Digital , Khosla Labs’ AUA product, their “license to operate as an Authentication User Agency (‘AUA’) has been suspended on account of Supreme Court Judgement which suspended license of several AUA’s on the ground of public policy”. Srikanth Nadhamuni, the co-founder and chairperson of Khosla Labs, was a part of the founding team of Aadhaar, and is a former CTO of the UIDAI. We have contacted Khosla Labs about the validity of their licence.
+
+In December 2018, the UIDAI had declined to provide the list of private agencies whose license to do eKYC has been cancelled.
+
+3. Data disclosed to SpringVerify and its third-party vendors: The RBI’s KYC Rules state that any authentication process can only verify correctness of Aadhaar data, not yield the data itself. However, even the UIDAI website returns more information than just Yes/No. The UIDAI website offers an Aadhaar verification service, where anybody can enter any Aadhaar number, and get the full Aadhaar number, the age range, gender, state and mobile number as a result (see screenshot below ).
+
+The SpringVerify report, however, includes all of this and the person’s full name. According to Suresh, this is all legal since this information is “banded” and “masked” and “the full gamut of information” associated with an Aadhaar number doesn’t come back, neither on the UIDAI website nor in the SpringVerify report.
+
+Data storage and data sharing:
+
+4. Potentially violative of the Personal Data Protection Bill, 2019: Even though the PDP Bill hasn’t been passed yet, and is still under consultation, if it were to be enforced in its current form, this service will be violative of some sections in the Bill, according to Narayan:
+
+“To the extent that people verify their own documents through the service, it is probably legal”, but for verification of others’ documents, SpringVerify’s “entire business model is flawed”, Narayan said.
+
+*
+
+Edited by Trisha Jalan and Nikhil Pahwa
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

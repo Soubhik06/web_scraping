@@ -1,0 +1,20 @@
+SUBREDDIT: r/india
+TITLE: Biggest Dataleak ever and the host company not accepting.
+DATE: 2021-03-29
+SCORE: 15
+URL: https://www.reddit.com/r/india/comments/mfs3ih/biggest_dataleak_ever_and_the_host_company_not/
+
+--- POST TEXT ---
+
+Yesterday evening happened the biggest dataleak ever in history when an independent pentester in ethical ways tested Mobikwiks security framework and found out that it was leaking all the data including KYC documents user submitted for other features.
+
+Dataleak in size: 8.2
+
+Tweets:
+
+⁭⁬
+https://twitter.com/XploitWizer/status/1376101628986630151
+
+https://twitter.com/indyan/status/1376487300578766852
+
+Since this was something one tested and found out, later on same data was found on dark web where the original threat actors who actually compromised the information are selling it.

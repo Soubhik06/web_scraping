@@ -1,0 +1,79 @@
+SUBREDDIT: r/india
+TITLE: India Security News Weekly: Edition 8 - August 05
+DATE: 2017-08-04
+SCORE: 52
+URL: https://www.reddit.com/r/india/comments/6rlse0/india_security_news_weekly_edition_8_august_05/
+
+--- POST TEXT ---
+
+Security Underflow (and this newsletter) is an attempt to break down barriers to knowledge about computer security among the general public. I wish to raise awareness about the risks around us and how to mitigate them or raise questions about them when we see them. Feedback/suggestions are welcome here or you can PM me as well.
+
+Last week's newsletter: [Edition 7](https://securityunderflow.com/learn/india-security-news-weekly-edition-7)
+
+Subscribe at: [tinyletter.com/securityunderflow](https://tinyletter.com/securityunderflow)
+
+[Downloadable PDF for sharing](https://securityunderflow.com/files/newsletter/2017/india-security-news-weekly-8-05-august-2017.pdf)
+
+-------------------------------------------------------------------------------
+
+# The Ticker
+
+Ticker is a collection of interesting security news and happenings in Indian companies and startups.
+
+- BSNL/MTNL modems hit by malware across the country [[Hindu](http://www.thehindu.com/news/national/karnataka/malware-affects-thousands-of-bsnl-broadband-modems/article19381410.ece)] (H/t /u/hispanic_dude)
+
+*Ed Note:* It appears that the attacker is leveraging the fact that many (most?) users of these modems haven't changed the default login credentials. It is reported that the attacker is simply changing the passwords of the modems but it seems to be untrue as that'd have gone pretty much unnoticed by most users who didn't change the passwords in the first go itself. A person on twitter also [claimed](https://twitter.com/theju/status/892636290239184896) that BSNL has blocked all ports on their network except 80 and 443. Some [instructions to recover the modems]( https://bpedia.co.in/avoid-bsnl-malware-attack/) seem to indicate the presence of more vulnerabilities due to unsanitized inputs in the web interface which may have been leveraged after entering the router.
+
+- OLA employee accused of hacking Aadhaar data built app on his own [[IE]](http://indianexpress.com/article/india/iit-graduate-accused-of-hacking-aadhaar-data-built-app-on-his-own-4773549/)
+
+- Cyber-security companies are hacking into their rivals to highlight shortcomings [[ET]](http://telecom.economictimes.indiatimes.com/news/cyber-security-companies-are-hacking-into-their-rivals-to-highlight-shortcomings/59817985)
+
+-------------------------------------------------------------------------------
+
+# Policy Water cooler
+
+We cover the policies and other news that concerns the Indian government and citizens en masse here.
+
+- Blocking of URLs shows an upward trend: Govt data [[ET]](http://telecom.economictimes.indiatimes.com/news/blocking-of-urls-shows-an-upward-trend-govt-data/59873365)
+
+- Govt forms panel to suggest data protection framework [[ToI]](http://timesofindia.indiatimes.com/business/india-business/govt-forms-panel-to-suggest-data-protection-framework/articleshow/59875306.cms)
+
+- RBI plans to extend cyber audit to all banks [[ET]](http://economictimes.indiatimes.com/articleshow/59856567.cms)
+
+-------------------------------------------------------------------------------
+
+# World
+
+This section takes a look at the top security news around the world which impact most of us.
+
+**[WannaCry Hero arrested for allegedly developing Kronos malware](https://www.theverge.com/2017/8/3/16090144/malware-tech-marcus-hutchins-arrested-kronos-fbi-wannacry-kill-switch)**
+
+Marcus, or MalwareTechBlog (as goes his twitter handle), became a sensation recently for stopping the WannaCry attack by registering the killswitch domain (albeit semi-accidentally). He has been arrested in the US, right after Defcon 25 and charged with developing and selling Kronos, a banking malware. The case's details are mostly hazy as trial is yet to begin but the community is split on not only whether he did it or not, but also whether the act of selling malware is publishable v/s actually using it maliciously. USA laws being stricter than his home country UK in this regards would make the matter worse for him.
+
+**[Tesla Model S Hackers Return for Encore Attack](http://in.pcmag.com/news/115980/tesla-model-s-hackers-return-for-encore-attack)**
+
+Not content with hacking into Tesla's famed Model S once last year, the same researchers provided another demonstration last week achieving similar feats with yet another vulnerability in the Tesla kernel. Granted Tesla is not the only one being hit with such issues as the same has been shown on many manufacturers' vehicles but this points to the scary vision where critical equipment like your car needs a much more thorough look before making them "smart" and "connected".
+
+-------------------------------------------------------------------------------
+
+# Events
+
+Details on upcoming security conferences and other events around India.
+
+ - [IFSEC India](http://www.ifsec.events/india): New Delhi, 16-18 Dec '17
+
+-------------------------------------------------------------------------------
+
+# Inquisitive mind
+
+Take the blue pill and save yourself. Or take the red pill and we'll show you how deep the security rabbit hole goes.
+
+&amp;nbsp;
+
+ **Recommended reading this week**
+
+[DEFCON 25 presentations](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/)
+
+-------------------------------------------------------------------------------
+
+-SecurityUnderflow

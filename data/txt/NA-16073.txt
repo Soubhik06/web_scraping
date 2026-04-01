@@ -1,0 +1,33 @@
+SUBREDDIT: r/india
+TITLE: A highly professional fraudulent call, please be aware yourself, family and friends
+DATE: 2021-10-12
+SCORE: 71
+URL: https://www.reddit.com/r/india/comments/q6lspm/a_highly_professional_fraudulent_call_please_be/
+
+--- POST TEXT ---
+
+So i received this call 2nd time in the last two weeks. This time the no is +918035066131, it's an automated call which says *"Your HDFC debit card is disabled for contactless, online and ATM usage, to enable follow these easy steps, we are sending you an sms with a link, follow the link and enable it"* and within secs you will receive an sms with link, here's the sms below:
+
+&gt;Dear \*\*\*\*\*! Know how you can enable your HDFC Bank Debit card for online, contactless and international usage here: hdfcbk.io/xyz
+
+As soon i received this sms, i doubted something fishy! I forwarded the same sms to my HDFC bank manager and then i called her, initially she was like yes some of HDFC services need be activated, i asked her if she has checked the website they sent, even she was confused a bit but confirmed me never share opt or personal info with anyone. First of all it's my new hdfc bank account, how the fuck did they get my no and my name to add to the sms! I hung up the call and dig further, i checked the no on Truecaller, it clearly says "HDFC fraud."
+
+Next i checked their website url:
+
+&amp;#x200B;
+
+https://preview.redd.it/0990l0vy95t71.png?width=1920&amp;format=png&amp;auto=webp&amp;s=a456b96e0ba59a633100c038c4d2325d315afd2f
+
+So the sub domain is hdfccard.ubona.com and main domain in ubona.com. I checked their [whois](https://lookup.icann.org/lookup) record and found this:
+
+https://preview.redd.it/j2si95d2o0t71.png?width=1966&amp;format=png&amp;auto=webp&amp;s=5caa7f5c7d65ad0210435e1671cd69aeee153bce
+
+And if you simply google "Ubona Technologies Private Limited" , here's the company:
+
+https://preview.redd.it/0uu8sa1ko0t71.png?width=1126&amp;format=png&amp;auto=webp&amp;s=885769e912f434b6881c5342ddddcf97d1622870
+
+Though i am not sure if they are scammers or if they are being used by the scammers, but their domain name matched with the link i received, you can check their website here: [https://www.ubona.com/](https://www.ubona.com/) Here are their services:
+
+https://preview.redd.it/ny46621zo0t71.png?width=3330&amp;format=png&amp;auto=webp&amp;s=a1d09e4dc74e8a290c48d4f7e05db062ff463cbb
+
+Not sure what's the matter, how the fuck someone could someone do a fraud having proper company registered and have physical address so openly. Or maybe this company is a victim, used by the scammers, but how can the fraud website has this site as a subdomain? Also i checked the google images on this company, there's not even a single person in the pictures, just pics of some diyas and empty office spaces. Something fishy? I think it's worth investigating!!!

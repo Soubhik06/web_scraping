@@ -1,0 +1,29 @@
+On February 7, 2025, MediaNama held a roundtable discussion on the draft Digital Personal Data Protection Rules. These rules bring India one step closer to operationalising the Digital Personal Data Protection Act, 2023. The DPDP rules provide a framework to safeguard personal data, upholding privacy rights, and have far-reaching operational consequences for businesses considering all companies process their customers’ personal data in some capacity.
+
+Our objective was to identify:
+
+MediaNama held the discussion under Chatham House Rules, which mandate keeping the identities of speakers and other participants confidential.
+
+Download the event report here
+
+In January this year, the IT Ministry released the draft Digital Personal Data Protection Rules. MediaNama conducted a discussion about the various concerns and operational challenges associated with implementing the rules.
+
+One of the points of debate was people’s right to access the data that a company is collecting about them. Participants debated whether there was a need for a standardised data summary template. While some argued for flexibility to accommodate different business models, others suggested voluntary norms based on the collaborative efforts of industry bodies. One of the chief concerns that participants raised was that when a user asks for information, platforms could end up overloading users with it to obscure the key details.
+
+On data erasure rights under the rules, participants pointed out that companies retain data even after an erasure request if required for compliance, governance or innovation. Data erasure can also be challenging in cases like AI model training where data cannot be removed from the dataset once imputed without requiring complete model retraining.
+
+Obtaining verifiable parental consent before processing the data of a user under 18 was another key issue. Some suggested that APAAR ID could be a solution for verifying both children and parents. However, it argued that there is a need for a lot more information about this solution since this ID would be pinged continuously for verification. Some suggested that platforms that already have information about parents and parent-child relationships would have a compliance advantage. Others disagreed stating that these databases are not accurate or complete and hence cannot be relied on.
+
+Participants criticized the government’s broad data access powers under the rules, highlighting the lack of formal scrutiny compared to the IT and Telecom Acts. They warned it could conflict with Mutual Legal Assistance Treaties (MLAT) agreements and violate the Supreme Court’s Puttaswamy ruling. Data breach reporting requirements were also debated, with concerns over vague definitions and redundancy in reporting to both Cert-In and the Data Protection Board. Some speakers suggested that immediate breach notifications to users could cause panic and tip off hackers, while others argued they ensure accountability.
+
+Participants highlighted the designation requirements for significant data fiduciaries (SDFs) are vague, particularly regarding the volume and sensitivity of data processed. Speakers suggested defining SDFs based on the proportion of sensitive data processed and the inferences made from it. A case-by-case approach may be used to assess risk, particularly for critical infrastructure sectors like finance and energy, which require stricter compliance. Different types of data, such as children’s or health data, may have different compliance thresholds.
+
+The data localisation requirements under the rules raised concerns with participants suggesting that they might create legal conflicts for US companies operating in India, as the US RISA Act mandates sharing foreign user data with the US government, while the DPDP Act restricts such transfers. Some viewed these requirements as a bargaining tool for India in bilateral negotiations, potentially allowing exemptions for companies that comply with government demands.
+
+With regard to consent managers, participants debated whether these were mere intermediaries or essential privacy enablers under the DPDP framework. Some participants raised concerns about consent aggregation, noting its potential for data monetization and privacy risks. Some argued that they lack a clear business case, unlike account aggregators, which democratize credit. However, while it is not mandatory, consent managers may become necessary as customer demand drives adoption.
+
+This discussion was organised with support from Meta, Google, Snapchat, and Walmart and in partnership with CUTS, the Centre for Communication Governance at NLU Delhi, the Centre For Internet and Society, and the Internet Freedom Foundation.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

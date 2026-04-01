@@ -1,0 +1,16 @@
+SUBREDDIT: r/india
+TITLE: Aadhaar Biometric lock problems?
+DATE: 2023-09-14
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/16ibhvq/aadhaar_biometric_lock_problems/
+
+--- POST TEXT ---
+
+Aadhaar Biometric lock problems?
+
+Recently there's been buzz around a fraud going on using the AEPS (Aadhar enabled payment system), to take money from people's Bank account using fake finger prints.
+
+A possible solution that has been proposed (still don't know if that actually works), is locking the biometric service itself from UIDAI website or mAadhaar app.
+
+My question is, if the lock is in place and my phone gets lost somehow, would I face problem in procuring a new or duplicate SIM card, because that would also require fingerprint authentication? 
+At that point, that lock cannot be reverted as well because loging on to UIDAI may require OTP(that goes to the lost SIM card). Any idea anyone?

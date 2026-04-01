@@ -1,0 +1,37 @@
+On 29th November 2022, the Telecom Regulatory Authority of India (TRAI) released a consultation paper on the introduction of Calling Name Presentation (CNAP) in telecommunication networks. This was in response to the Department of Telecommunication (DoT) seeking TRAI’s advice on the matter.
+
+In simple words, CNAP aims to bring a Truecaller-like feature for all telecom users – where a person receiving the call will automatically get to know the name of the person who is calling, and it will become hard (and maybe even impossible) to make anonymous calls.
+
+But why is this Truecaller-like system being introduced?
+
+In a written communication , the DoT told TRAI that introducing this caller-identification system will help protect subscribers from unknown and spam callers. Identification of the person who’s calling will “empower” the person receiving the call to make an informed decision on whether she should pick up the call or not.
+
+And yes, the CNAP is not expected to collect data like Truecaller, which scans all your contacts. Other ways of identification and data collection (like KYC) may be used.
+
+Is not allowing anonymous calls a violation of users’ privacy?
+
+If a blanket CNAP system is enforced, the caller (person making the call) will always have to give away her identification (her name). For instance, if someone calls an Amazon delivery agent for enquiry or a travel service for booking a holiday, the caller will have no option but to give up her identity even before the call is picked up. This will also make callers more vulnerable to scams and promotional messages as their identities will easily be outed. Their name and number can often be used to find social media profiles and these profiles can give away details about your private life to people you don’t want to connect with.
+
+In its comments on the CNAP consultation paper, the Internet Freedom Foundation (IFF) said, “The caller’s name is considered personal information, and the disclosure of this information without the caller’s consent could be considered a violation of their privacy.”
+
+IFF recommends an “opt-in”, “opt-out” approach
+
+The IFF said that CNAP should not be mandatorily activated for all telephone subscribers by default. A subscriber should only become a part of this service if she gives consent by ‘opting-in’, it added. The IFF also said that a subscriber should also have an option to “opt-out” of the service whenever she wants.
+
+If the CNAP service is mandatorily activated, it would also result in a lack of autonomy and control over the user’s informational privacy. It would not give them control over whether or not their name is displayed to the recipient when they make a call. Moreover, it can potentially lead to the caller’s name being used for malicious purposes, such as identity theft or spamming. – IFF
+
+The ongoing trend of ‘verification’ and ‘identification’
+
+Look at the past few bills in the tech and telecom space and you’ll see an increased reliance on ‘verification’ and ‘identification’. In a press conference on the draft telecom bill, Communications Minister Ashwini Vaishnaw went to the extent of suggesting verification of those using apps like Zoom and WhatsApp. The draft data protection bill calls for obtaining “verifiable parental consent” when children create an email or a social media account, which could lead to verification on a very large scale. Even the new IT rules on gaming call for verification of gamers who create an online gaming account: yes, even a gamer’s identity needs to be verified .
+
+The privacy trade-off: Give up anonymity for spam protection
+
+This obsession with verification and identification always comes with the reasoning of offering improved safety, security and benefits. But the more verification and identification there this, the easier it is to surveil, intercept and exploit the data of users, not only for the government but also for private players. If not implemented in the right way, “it can pose potential for privacy risks”, the IFF says.
+
+While providing better spam protection is important, the government should also ensure that people are not ‘forced’ to give away their personal identification data.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

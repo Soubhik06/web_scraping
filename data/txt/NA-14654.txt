@@ -1,0 +1,49 @@
+By Minakshi Das
+
+Autonomous AI systems are already negotiating contracts, executing payments, and making economic decisions on behalf of Indian citizens and businesses. The question is no longer whether machines will act for us. It is whether anyone will be accountable when they do, and whether India will write those rules or inherit them.
+
+At the India AI Impact Summit 2026 , Pine Labs announced a collaboration with OpenAI to embed AI reasoning into its payment infrastructure, enabling “agentic commerce” tools that can negotiate supplier terms, optimize workflows, and manage recurring payments autonomously. This shifts commercial systems from passive transaction recorders to active decision-making machines.
+
+Cashfree Payments launched Cashfree Here , embedding UPI and card checkout directly into conversational AI interfaces. Meanwhile, $200 billion in AI investment commitments were announced at the summit. Here, deployment is accelerating and governance is not.
+
+Sam Altman warned that early superintelligence may arrive within years. Meta’s Chief AI Officer Alexandr Wang described “personal superintelligence” that anticipates goals and acts autonomously. Mistral AI’s Arthur Mensch warned that the world is sleepwalking toward dangerous AI power concentration , describing a world where nations now deploy “armies of AI delegates” and those who do not own their infrastructure will have no control over who turns it off. French President Emmanuel Macron argued that algorithmic transparency is a democratic necessity , not a regulatory preference. A warning that applies even more urgently to autonomous economic systems now embedded in India’s commercial infrastructure.
+
+Every AI agent runs on an objective function, a set of rules deciding what it optimizes: profit, efficiency, or risk. These rules reflect designer priorities, biased data, and reward structures never examined by the public. When two agents negotiate a loan, contract, or price, the outcome reflects their competing goals at machine speed, creating a legitimacy crisis: major decisions made by systems with no accountability.
+
+Indian law hasn’t defined where human oversight is mandatory. Competitive pressures push it ever lower. Technically, outcomes are emergent; in practice, they can produce discriminatory pricing, tacit collusion, or market concentration. Mastercard confirmed that AI already detects fraud and executes payments in milliseconds. As these systems continuously adapt, their behaviour can shift in ways current laws aren’t equipped to manage.
+
+India’s Digital Personal Data Protection Act was designed for human-to-system interactions. Agentic AI breaks that model. Citizens’ data now powers systems that can negotiate on their behalf, often against other AI with different goals. Consent can no longer be a one-time checkbox.
+
+Zoho co-founder Sridhar Vembu framed the human stakes clearly : as long as customers are human, trust and accountability remain human responsibilities. But if the systems acting for those customers are opaque and ungoverned, that trust cannot last.
+
+If two autonomous agents unfairly deny a borrower a loan or shut a merchant out of a marketplace, responsibility splinters across developers, deployers, cloud providers, and integrators. Each may be compliant; the harm arises from their interaction. When agents can initiate transactions autonomously, the law is confronting machine-executed economic decisions without a framework for cascading liability, audit trails, or clear attribution.
+
+Globally, regulation is advancing: the EU AI Act , South Korea’s AI Basic Act , and emerging United States state frameworks. Yet none adequately address cross-border agent-to-agent interaction. India has issued guidelines and amendments , but they remain voluntary, platform-focused, or designed for human-system relationships. None define what happens when an Indian agent negotiates with a foreign counterpart under a different regime.
+
+First, require foreign autonomous agents operating commercially in India to register objective functions, training lineage, and operational parameters with a designated authority, extending the sovereign logic long applied by the Reserve Bank of India to foreign financial actors.
+
+Second, mandate legally recognised, machine-readable audit logs for significant agent-to-agent transactions so courts can reconstruct computational agreements.
+
+Third, require adversarial multi-agent stress testing in regulated sectors before deployment, drawing on the RBI’s FREE-AI framework .
+
+Fourth, impose statutory expiry on delegated authority, requiring periodic informed renewal as systems retrain and evolve.
+
+Fifth, create an Indian interoperability standard governing agent communication, disclosure, and cross-border dispute resolution, as India did with the Unified Payments Interface .
+
+Together, these steps embed visibility, accountability, resilience, and sovereignty into the architecture itself.
+
+India’s AI ambition is undeniable. But ambition without enforceable accountability is liability. Caroline Louveaux of Mastercard said it plainly at the summit : autonomy can only scale if there is trust. That trust cannot exist without rules. The rules must be written while the systems are still being designed, because once agentic infrastructure is embedded at scale, the first disputes will arrive with no legal framework to allocate liability, no audit trail to reconstruct what happened, and no defined standard against which to measure fault.
+
+AI regulation must therefore remain proportionate and adaptive, because the technology itself is still evolving. Overregulation risks freezing innovation at its earliest stage. However, innovation cannot mean operating without democratic oversight. As autonomy scales across India’s economy, accountability must scale with it or public trust will erode.
+
+The agent-to-agent era is only the beginning. The rules written now will decide how AI shapes India’s democratic and economic fabric.
+
+(The author is an independent AI strategist and policy lawyer specialising in technology and data governance)
+
+Disclaimer: These are the personal opinions of the author
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

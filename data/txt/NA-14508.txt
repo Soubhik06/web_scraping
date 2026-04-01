@@ -1,0 +1,31 @@
+Hyperlocal delivery platform Dunzo’s database with users’ phone numbers and email addresses was breached by an attacker, the company CTO Mukund Jha announced on Saturday. The attacker compromised the servers of a third party that the company works with through which the attacker unauthorised access to Dunzo’s database. The company said that this database had no payment information such as credit card numbers “as we do not store this data on our servers”. In its email sent to customers notifying them of the breach, the company has not recommended changing passwords. Those of us who use the service at MediaNama did not receive an email. In a statement to MediaNama, the company said that it has “addressed and resolved the issue” for all its users.
+
+Dunzo released this information after conducting an internal investigation. It said that it had engaged “leading cybersecurity firms” to strengthen its security efforts.
+
+Here are the Dunzo spokesperson’s responses to our questions:
+
+MediaNama: Have users’ passwords also been compromised? Dunzo: We have an OTP based login system on sign-up and hence we don’t use or store any user passwords.
+
+MediaNama: What is the scale of the breach, that is, how many Dunzo users’ email addresses and phone numbers were breached? Dunzo: We can confirm one database has been breached which had phone numbers and emails of our consumer base. However, we believe that all necessary steps have been taken to resolve the security breach and will keep you updated if we know more.
+
+MediaNama: Why haven’t all Dunzo users got an email notifying them about this breach? Does this mean that only affected users have been emailed? Dunzo: We have sent out an email communication to all our users, delivery partners, and merchants, and in the event that this email communication gets missed or doesn’t get delivered, we have also made it publicly available on our blog . [emphasis original]
+
+MediaNama: Do you know if this third party has notified all its other clients/customers of a compromised server? Dunzo: We believe they are in the process of or have reached out to all affected parties.
+
+We have asked the company to clarify if this “database” contained the phone numbers and email address of all users, or only some users. The company did not specify when and how they discovered the breach. We are awaiting a response to that. The spokesperson refused to comment on who the third party partner was and what services it provided to Dunzo.
+
+It’s not clear as to how was it that Dunzo giving access to data like emails and phone numbers to this vendor? Or that there was a vulnerability in Dunzo’s system that allowed the vendor access to this specific data.
+
+Lastly, it almost seems as if Dunzo is downplaying the incident, by saying that credit card information or passwords have not been compromised. That would have been worse, no doubt, but it is not that this data cannot be useful for hackers.
+
+Email addresses and phone numbers are data that users typically do not change. This data can be used for phishing attacks over voice, text and email.
+
+That said, this is a responsible disclosure from Dunzo, and should be acknowledged as a good practice. Many companies do not disclose breaches.
+
+***Updates: July 12 12:34 pm: Edited out a comment from Nikhil July 12 10:49 am: Added comments from Nikhil July 11 7:04 pm: Updated with responses from Dunzo.
+
+Originally published on July 11 at 1:12 pm.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

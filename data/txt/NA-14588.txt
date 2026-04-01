@@ -1,0 +1,37 @@
+The Indian Computer Emergency Response Team (CERT-In) has issued a high-risk cybersecurity warning for Google Chrome users on desktop, urging them to update their browsers immediately to protect against serious security flaws that can allow hackers to take control of their systems.
+
+CERT-In, which comes under the ambit of the Ministry of Electronics and Information Technology (MeitY), is the governmentâs nodal agency for cybersecurity. It routinely analyses software vulnerabilities and warns citizens about high-risk threats that could affect systems nationwide.
+
+In its latest advisory , the national cybersecurity agency detected multiple vulnerabilities in Chrome versions prior to 142.0.7444.59 for Linux, 142.0.7444.59/60 for Windows, and 142.0.7444.60 for macOS.
+
+As such, the agency has assessed the flaws as âHighâ in terms of risk severity, warning that exploitation could lead to system compromise, data theft, or complete service disruption.
+
+âSuccessful exploitation of these vulnerabilities could allow a remote attacker to execute arbitrary code, bypass security restrictions, perform spoofing attacks, or disclose sensitive information on the targeted system,â CERT-In has noted in its advisory.
+
+The national cybersecurity agency traced the vulnerabilities to multiple internal components of Google Chrome, including Type Confusion and race conditions in the V8 JavaScript engine (errors that can cause the browser to misread memory or execute unintended code), improper implementation within extensions and autofill features, and object lifecycle issues in media handling.
+
+It also identified weaknesses in Omnibox (the combined address and search bar), Fullscreen and Splitview (the display control feature), PageInfo (the site information panel), Ozone (Chromeâs graphics and input platform layer), and WebXR (the framework for virtual and augmented reality experiences).
+
+These technical flaws make it possible for attackers to inject and execute malicious code on a victimâs device if they visit a compromised or specially crafted web page. In simpler terms, this means a hacker can potentially hijack your browser session, steal stored passwords, and even install malware without your consent.
+
+CERT-In has urged all Chrome desktop users, whether on Windows, macOS, or Linux,  to update immediately to the latest stable version. Googleâs official patch is available through the browserâs auto-update feature, and is mentioned on the Chrome Releases website that the tech giant maintains.
+
+Notably, this is not the first high-risk alert for Chrome users this year. In June 2025 , CERT-In issued a similar advisory, warning that flaws in Chrome versions prior to 137.0.7151.119/.120 for Windows and Mac, and 137.0.7151.119 for Linux, could allow remote attackers to run harmful code or crash affected systems.
+
+The recurring alerts point to an ongoing struggle to secure Chromeâs V8 JavaScript engine (a key component that executes code across modern web applications). Such issues have also been reported by Microsoft Edge and Mozilla Firefox , which rely on similar underlying technologies.
+
+With Google Chrome commanding over 72% of the global desktop browser market, security lapses in its software pose a wide-reaching threat. Importantly, Chromeâs integration with Google accounts, saved passwords, and payment information increases the risk of large-scale data theft if vulnerabilities are left unpatched.
+
+The latest advisory comes amid a surge in global zero-day vulnerabilities being actively exploited by hackers. For context, this cybersecurity flaw is something that hackers can exploit before developers release a fix.
+
+Notably, agencies such as the US Cybersecurity and Infrastructure Security Agency (CISA) and the European Union Agency for Cybersecurity (ENISA) have also listed Chrome-related flaws among their monitored threats this year.
+
+While Google continues to patch vulnerabilities promptly, the real challenge lies in user adoption of updates. Many users ignore or delay browser updates, leaving systems exposed for weeks.
+
+As CERT-Inâs latest warning shows, the weakest link in cybersecurity is often not the software, but the user who forgets to update it.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

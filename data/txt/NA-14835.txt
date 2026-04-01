@@ -1,0 +1,61 @@
+With the Finance Minister’s latest statement regarding the RBI’s stance on banning crypto-assets in India, crypto-regulation in India is stuck firmly within the grey. On the one hand, a Crypto-Bill has been rumoured to be in the works and pending introduction to Parliament for a while, on the other hand there already exist a number of regulations that presently govern the crypto space.
+
+Of these existing regulations, the Consumer Protection (E-commerce) Rules, 2020 ( E-commerce Rules ) lay down specific obligations on crypto-exchanges and crypto-service providers to ensure that the rights of consumers are protected as they purchase and trade crypto-assets.
+
+In our previous article for Medianama, we examined the protections afforded to consumers under this legislation, and how the government can set up a practical consumer protection framework in the crypto-sphere. This article looks to build upon that and looks to answer two key questions: How are crypto-exchanges classified under the E-commerce rules and how does this affect their obligations towards consumers?
+
+Never miss out on important developments in tech policy, whether in India or across the world. Sign up for our morning newsletter , with a “Free Read of the Day”, to experience MediaNama in a whole new way.
+
+Since the definition of e-commerce under the Consumer Protection Act, 2019 is not limited only to physical goods but also includes services as well as digital products, the regulations laid down by the law are clearly applicable to crypto-exchanges as well as entities offering decentralised finance services.
+
+While the Consumer Protection Act, 2019 only defines the term e-commerce, the E-commerce Rules draw a significant distinction between two different types of E-commerce entities:
+
+This distinction brings with it different obligations for both inventory and marketplace e-commerce entities under the E-Commerce Rules. This difference in obligations is only logical as the issues relating to a marketplace e-commerce entity would be functionally different than those relating to an inventory e-commerce entity from a consumer standpoint. For example, a marketplace e-commerce entity may not have much control over information about the products sold but should be held accountable for transparency in the priority of listing products and sellers. On the other hand, there would be no issues around listing and prioritisation of sellers on an inventory e-commerce platform, but there would be a greater obligation to disclose accurate information about the products being sold.
+
+Whilst certain obligations imposed by the E-commerce Rules such as appointment of nodal officers, prohibition of unfair trade practices, etc. would be common to all crypto exchanges, others depend upon whether the platform falls under the definition of marketplace or inventory e-commerce.
+
+The obligations on inventory e-commerce platforms are fairly straightforward and include:
+
+(i) displaying various kinds of relevant information regarding returns, refunds, fees, etc.,
+
+(ii) prohibition on misrepresenting the quality or the features of any goods or services,
+
+(iii) ensuring accuracy of advertisements;
+
+(iv) prohibition on refusal to take back or withdraw defective goods or services including for reasons of late delivery, etc.
+
+The obligations for marketplace e-commerce entities on the other hand are divided between the e-commerce platform and the seller, to ensure that each obligation falls on the party that actually has control over the relevant issue. Obligations on the e-commerce platform include taking undertakings from sellers regarding accuracy of information about the goods being sold, displaying various kinds of information relating to details of sellers, returns, refunds, fees, charge-backs, etc., maintenance of records, etc. In addition, marketplace e-commerce entities are also required to display an explanation of the main parameters and their relative importance in determining the ranking of goods or sellers on the platform. Although this provision forces e-commerce platforms to disclose the parameters to determine the priority given to different sellers, it does not prohibit them from prioritising one seller or class of sellers over others.
+
+Complexities arise from the E-commerce rules for Crypto-exchanges
+
+With certain crypto-exchanges functioning on a system of P2P exchanges while also undertaking trades on their own platform, this presents two problems under the E-commerce Rules.
+
+Firstly, although the E-commerce Rules impose various obligations on sellers such as having prior written contracts, appointment of grievance officers, etc. such obligations would only be valid for those sellers who are selling items on the e-commerce platform as part of their business. Individuals who trade on P2P crypto exchanges as a hobby and not as a business may not have to abide by these conditions since the definition of the term seller or “product seller” in section 2(37) of the Consumer Protection Act, 2019 is qualified by the use of the phrases “in the course of business” and “is involved in placing such product for commercial purpose”.
+
+Secondly, interpreting the term seller only as per the definition in the Consumer Protection Act, 2019 raises another potential issue, viz. since the E-commerce Rules do not envisage any sellers other than those defined in the Act, one could argue that as per the E-commerce Rules, non-commercial sellers are not allowed on e-commerce platforms at all. Such an interpretation could force crypto exchanges to prevent their existing account holders from selling cryptocurrency on their P2P platforms.
+
+This would be an extremely conservative interpretation of the E-commerce Rules and not only affects the business model of P2P crypto exchanges but also affects e-commerce sites specialising in second hand goods such as OLX and Quikr. An alternative interpretation could be that such e-commerce platforms do not fall within the definition of a marketplace e-commerce entity but are considered simply as “e-commerce entities” as defined in Rule 3(b) of the E-commerce Rules. While such an interpretation may seem reasonable, it would mean that certain obligations of marketplace e-commerce entities such as ensuring that the sellers give appropriate information about the products, ranking of sellers, etc. would not be applicable to these platforms. It would therefore be preferable if a clarification is issued regarding the status and obligations of such e-commerce platforms as well as the sellers on such platforms.
+
+The grey zone that crypto-exchanges, especially P2P exchanges, find themselves in could create a situation wherein they are not subject to regulation that is applicable across the spectrum of the e-commerce market. Given the precarious nature of crypto-assets as being volatile financial instruments, and with the market prone to schemes and scams, it is imperative from a consumer protection standpoint that all crypto-exchanges are held to the highest possible ethical and regulatory standards.  It is therefore imperative that policymakers look to clarify the status of crypto-exchanges under the e-commerce rules and re-affirm their obligations to be fair, transparent and act in the best interest of consumers.
+
+Aman Nair is a researcher and project coordinator at Digital Futures Lab where he focuses on Big Tech, Gov Tech and Responsible AI. He was formerly a policy officer at the Centre for Internet and Society where he led the financial technologies agenda. Vipul Kharbanda is a non-resident fellow at CIS, focusing on the fintech research agenda of the organisation.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+US Looks To Provide Customer Protections To Crypto Investors In This New Bill
+
+Why Is IAMAI Dissolving Its Crypto Self-Regulator, BACC?
+
+India’s Central Bank Wants To Bring Back Ban On Cryptocurrencies
+
+Here’s Why Indian Crypto Exchanges Are Worried About Impact Of 1% TDS On Crypto Trading
+
+Financial Stability Board Will Unveil Regulatory Plan For Crypto Assets In October
+
+Note: The article was updated to reflect the accurate authors’ bio on August 8, 2022 at 5.10 PM
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

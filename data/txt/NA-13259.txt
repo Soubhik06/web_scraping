@@ -1,0 +1,77 @@
+With inputs from Chaitanya Kohli and Prabhanu Kumar Das
+
+“As of now, there is not a single AI model that can detect a really good deepfake-generated video and tell you this is fake,” said Tarun Wig, co-founder of Innefu Labs, during a session on AI-enabled cybercrime at the India AI Impact Summit, highlighting a widening gap between the scale of synthetic media threats and the tools available to detect them.
+
+Moreover, Wig warned that this gap extends well beyond individual fraud cases.
+
+“Deepfake is going to become a national security issue very soon, maybe as soon as the 2029 election,” he said, pointing to how easily synthetic audio and video can be weaponised and amplified at scale.
+
+As a result, experts at the summit cautioned that India’s legal, enforcement, and technical systems are struggling to keep pace as artificial intelligence reshapes fraud, impersonation, and misinformation.
+
+Against this backdrop, the session, titled AI for Secure India: Combating AI-Enabled Cybercrime, Deepfakes, Dark Web Threats and Data Breaches, brought together former government officials, law enforcement experts, technologists, and senior lawyers.
+
+Notably, speakers converged on one core concern: while AI has accelerated the scale and speed of cybercrime, mechanisms for detection, attribution, and accountability remain fragmented and largely reactive.
+
+Former Indian Police Service (IPS) officer and cybercrime expert Prof. Triveni Singh framed the problem in stark terms and outlined how AI has reshaped cybercrime in India:
+
+Furthermore, Singh warned that traditional policing structures remain poorly equipped to respond to crimes that unfold simultaneously across jurisdictions and digital infrastructure layers.
+
+Several speakers flagged AI-generated audio and video as a qualitatively different threat.
+
+Wig explained why deepfakes pose an outsized risk:
+
+Speakers acknowledged that AI increasingly assists cybercrime investigation and forensic analysis. However, they stressed that AI improves capacity without resolving deeper structural constraints.
+
+“Every crime, if it is not a lone wolf attack, it’s a network,” Wig said, explaining that fraud, money laundering, and identity theft typically involve interconnected actors.
+
+AI systems allow agencies to process vast volumes of seized digital data. “When agencies go on a raid, they deal with data to the tune of 80 terabytes,” Wig said. “That is where AI plays a huge role in forensic analysis by identifying patterns that humans cannot.”
+
+That said, speakers cautioned that detection alone does not automatically translate into admissible evidence or successful prosecution.
+
+From a legal standpoint, senior Supreme Court advocate Vivek Sood said attribution has emerged as the most serious challenge in AI-enabled cybercrime cases.
+
+“The law is not weak,” Sood said. “The entire law of criminal conspiracy has existed since the Indian Penal Code of 1860. The problem is attribution.”
+
+Sood outlined why attribution increasingly fails:
+
+As AI systems operate with increasing autonomy, courts and investigators struggle to reliably link digital actions to specific individuals.
+
+Several speakers pointed to serious capacity gaps within law enforcement. Singh criticised existing training models as inadequate.
+
+“So what we think by giving two or three days of training, we can make them cyber-smart? No, it’s complete science,” Singh said.
+
+He identified key weaknesses:
+
+Former Ministry of Electronics and Information Technology official Rakesh Maheshwari placed cybercrime risks within India’s data governance framework, particularly the Digital Personal Data Protection Act.
+
+“The whole aim is to collect only what is really required. Don’t over-collect. Be transparent. Store it only for the minimum period required,” Maheshwari said.
+
+He also highlighted user rights under the law, including the ability to know what data has been collected, who it has been shared with, and to seek erasure.
+
+“In case of a breach, it will be the liability of the organisation to report it not only to the data protection board but also to the individuals whose data has been impacted,” he said.
+
+Sood cautioned against allowing cybercrime enforcement to erode constitutional protections.
+
+“Right to privacy is a fundamental right recognised by the Supreme Court and flows from Article 21,” he said, adding that crime prevention and investigation operate only as exceptions.
+
+While AI can assist in prevention and investigation, Sood stressed the need to protect the rights of the accused and avoid wrongful implication.
+
+Dr. Sapna Bansal, professor at Shri Ram College of Commerce, argued that technology alone cannot counter AI-enabled crime.
+
+“We are teaching cybercrime in colleges and schools, but ethical AI is still lacking,” she said.
+
+She warned that routine behaviours such as sharing OTPs, using public Wi-Fi, and trusting urgent calls continue to expose users to fraud. “Stay alert, stay aware, stay secure,” Bansal said, calling awareness and education the first line of defence.
+
+Taken together, the session at the India AI Impact Summit exposed a widening gap between the growing sophistication of AI-enabled cybercrime and the readiness of India’s enforcement and governance systems.
+
+On paper, India has begun responding. Policymakers have introduced new legal frameworks, parliamentary committees have flagged deepfakes as a distinct risk, and agencies have started testing detection tools. For instance, the Parliamentary Standing Committee on Home Affairs has called for express legal provisions to address AI-generated content, while welcoming indigenous deepfake detection tools developed by the Centre for Development of Advanced Computing (C-DAC), which are currently under evaluation by law enforcement.
+
+However, detection tools still struggle in real-world conditions, attribution across borders remains difficult, and enforcement agencies face persistent capacity gaps.
+
+As multiple speakers noted, AI will inevitably be used by both criminals and the state. However, unless institutions adapt faster, AI risks becoming an asymmetric weapon deployed against citizens rather than a tool capable of protecting them.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

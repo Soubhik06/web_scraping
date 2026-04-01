@@ -1,0 +1,47 @@
+Update: There appears to be some disagreement on the nature of these restrictions, about whether they impact purchases only made in India, or they impact all purchases made using Indian cards in India (in which case, all transactions using Indian cards will have to be in INR). A different reading of the noticeÂ here, at Capital Mind . So, this either means that you’ll find it difficult to make international purchases (which is how we read it), or that purchases of Indian apps in India will have to have to be payment gateways.
+
+Updates: – Meru Cabs: usage of foreign payment gateways violated RBI guidelines, FEMA rules – Uber may still be able to use a foreign payment gateway in India â Arkay & Arkay
+
+Earlier: The Reserve Bank of India yesterday mandated that entities that route online billing internationally, for goods and services purchased online using Indian cards, need to include a second factor of authentication, and route transactions through a bank in India. Services such a Uber, Amazon, Google Play, Apple App Store, international e-commerce stores like Alibaba, among others, were side-steppingÂ norms applicable forÂ Indian payment gateways. This directive has come into place already, but existing services have till October 31st, 2014 to comply with these instructions.
+
+This is an issue which MediaNama had flagged in December 2012 , but was taken up by the only recently after Indian cab services such as Meru complained about a lack of parity to the RBI.
+
+The RBI has pointed towards a cash outflow to foreign banks, and while mandating that such transactions should be settled in Indian currency only, said that
+
+“Such camouflaging and flouting of extant instructions on card security, which has been made possible by merchant transactions (for underlying sale of goods / services within India) being acquired by banks located overseas resulting in an outflow of foreign exchange in the settlement of these transactions, is not acceptable as this is in violation of the directives issued under the Payment and Settlement Systems Act 2007 besides the requirements under the Foreign Exchange Management Act, 1999.”
+
+Our Take
+
+1.Â Negative for Indian buyers of foreign goods and services, and foreign merchants: Â If an international merchant that you want to purchase goods from online doesn’t tie up with an Indian payment gateway, it couldÂ mean that you willÂ not be able to make a purchase. These regulations are applicable to app stores as well. Â This means that paying for an app on the Apple App Store or Google Play will mean a redirection to a second factor of authentication through buggy Indian bank payment gateways, if the customer isÂ buying fromÂ India. Online purchases are often impulsive, and while a second factor of authentication means that more customers will drop off, a failure to close the transaction because of buggy payment gateways means that there will be an impact. Effectively:
+
+Foreign buyer : Indian Seller = No impact Indian buyer : Foreign Seller =Â Impact.Â Customers routed through Indian bank payment gateway.* Indian buyer : IndianÂ Seller = Impact. Customers routed through Indian bank payment gateway.
+
+2. More business for Indian payment gateways and banks*: Â To cater to the Indian market, all merchants will have to route transactions through Indian payment gateways. We hope bank gateways are able to handle the additional traffic, and don’t IRCTC on customers.
+
+I can live with #RBI #2FA as the default. BUT consumer shd have the prerogative 2 decide which companies he wants to trust with auto-pay
+
+â Tarun Davda (@tarun_davda) August 23, 2014
+
+3. Â Parity doesn’t necessarily mean you shackle everyone: Â Taking cue from IAMAI President Subho Ray’s great talkÂ at a TRAI seminar on Internet Services regulation ,Â while we agree there should be parity among different merchants, it doesn’t mean that everyone isÂ brought down to the same level of restrictions. Instead,Â the RBI shouldÂ liberalise payments processes, and make it easier for willing customers to make payments in card-not-present scenarios.Â Sadly, the RBI can’t do away with the 2 factor authentication, because, at least according to what one RBI representative said at a conference when I had asked him, it is mandated by law. (correct us if this isn’t true, please)
+
+4. Why only VBV, 3D Secure or OTP? One of the major problems regarding card not present transactions, at least, based on what payment gateways and merchants have told us, is the buggy implementation of 3D Secure and Verified By Visa gateways, and difficulty in using One Time Password. There are alternatives, frankly, and the RBI would help boost commerce transactionsÂ by pushing for other factors of authentication. One easy alternative is the missed call system, where a customer can call a particular number from a card-registered mobile to authenticate the transaction. Companies like Zipdial and Netcore are already in a position to provide this service , as do many others.
+
+*Update:Â In case of Â Indian Buyer: Foreign Seller:
+
+There appears to some valid disagreement ( see this ) about whether this will impact transactions on app stores and foreign goods. Our reading is that it will. Point 5 in the RBI notification states:
+
+It is further advised that where cards issued by banks in India are used for making card not present payments towards purchase of goods and services provided within the country , the acquisition of such transactions has to be through a bank in India and the transaction should necessarily settle only in Indian currency , in adherence to extant instructions on security of card payments.
+
+Our take is that aÂ purchase of goods online made from within India, is a situation where the goods and services are being provided within India. The Internet consumed in India is being providedÂ within India. Secondly, in terms of the wording, the phrase “It is further advised” indicates that this clause is over and above everything else, and relates to a settlement process, which, since is mandated in Indian currency,Â means that the 2 factor authentication and Indian banks will come into play.
+
+In addition, an earlier part of the notification states:
+
+A reference is also invited to ourÂ circular RBI / DPSS No.914/02.14.003/2010-2011 dated October 25, 2010 Â on the subject, clarifying the applicability of the above directives on the nature of card not present transactions. It was clarified that the mandate shall apply to all transactions using cards issued in India for payments on merchant sitesÂ where no outflow of foreign exchange is contemplated .Â
+
+This contradicts our assessment (explained above), wherein for foreign goods (and apps), there will be foreign exchange outgo contemplated.
+
+What do you think?
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

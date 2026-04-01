@@ -1,0 +1,47 @@
+Payment companies will need to comply with the government’s new Information Technology Rules 2021 , as they fit the definition of an internet intermediary, legal experts told MediaNama. However, compared to social media entities, streaming platforms and digital media entities, the burden of compliance is far lower since payment players are already regulated entities under the Reserve Bank of India.
+
+A bit of context: According to the IT Act, 2000 an intermediary is “any person who on behalf of another person receives, stores or transmits that record or provides any service with respect to that record.” It includes internet service providers, search engines, online payment sites and auction sites among others. Therefore, payment companies like Google Pay, Paytm, PhonePe and other pre-paid instrument or e-wallet players on the Unified Payments Interface, or Razorpay, PayU and CCAvenue, who provide payment gateway and aggregator services, qualify as internet intermediaries.
+
+Why it matters: Since payment companies fit the definition of an internet intermediary, they will need to comply with the IT Rules 2021. This includes: appointing a grievance officer and a compliance officer who respond to queries sent by the government and regulators, they need to conduct due-dilligence, proactively identify and take down content using automated tools, comply with government takedown orders and create a grievance redressal mechanism.
+
+According to a senior lawyer , since payment companies connect users and transmit data they fit the the definition of intermediary under the IT rules. “But these were created without a clear understanding on how it will affect payment companies, gateways/aggregators, pre-paid instruments and other payment providers and apps,” this person said, on the condition of anonymity.
+
+The lawyer said that since these rules have not defined a “proportionality” check, it remains to be seen how it will affect payment companies and the extent to which the Ministry of Electronics and IT (MEITY) will mandate compliance. “It is difficult to say the whole industry will be impacted, the definition needs to be tested against specific businesses in the courts. For super app companies, maybe each vertical needs to be separated,” the lawyer said.
+
+“There has to be some test of proportionality to check if a specific business vertical of a payment company falls under these definitions of social media company and significant social media intermediaries”— Senior Lawyer
+
+The government’s emphasis through the IT Rules is to bring digital news and current affairs, streaming platforms and social media companies under a legal framework. Since each of these industries operates in a regulatory ‘grey’ zone, the government has sought to create a common framework for regulations. However, given that the definitions under these rules are “vague”, they apply to companies in industries that are already regulated. The wide definitions under the rules effectively capture a large number of internet platforms, that are not seprately defined.
+
+So while the rules define digital news and curated content, streaming services and social media entities, it does not define Software-as-a-Service (SaaS), business messaging platforms and payment companies all of whom are also internet “intermediaries” as per the IT Act.
+
+According to Vivek Iyer, Partner ‎and National Leader Financial Services, Grant Thornton Bharat LLP said that the objective of these rules need to be articulated, or else it could stifle innovation. “Fintechs are all about sharing data and providing financial services. So if a payment company enables a chat feature or provides links to their users, it needs to be clarified if these services fall under the rules and if companies need to appoint specific grievance officers for these verticals,” he said.
+
+“The purpose of these rules is to regulate digital media, social media and streaming platforms, so the impact could be limited on payment companies. But as the landscape changes and as the products offered by payment companies evolve, even beyond financial services, the impact could be on fintech companies that are looking at cross-pollination of services”— Vivek Iyer, Partner, Grant Thornton Bharat LLP
+
+We will have to see if users take payment companies to courts for not addressing their grievances under the IT Rules and how the court interprets these rules, Iyer added.
+
+As per the rules, a social media intermediary “primarily or solely enables online interaction between two or more users and allows them to create, upload, share, disseminate, modify or access information using its services.” Further, social media companies with more than 5 million users in India would be deemed as “significant” social media intermediaries under the rules, with additional prescribed due diligence.
+
+While providing a payment service can fall under the definition of an internet “intermediary” as defined by the IT Act, many payments companies provide services over and above the payment service. For instance, some of them have enabled chat features between merchants and consumers, some have built a full-stack of e-commerce, business and accounting services, while others act as agents for sourcing fresh borrowers for banks and non-bank lenders. Each of these functions, by definition, “transmits” data between two entities on behalf of the user.
+
+Some of these verticals could be classified as social media services over time, the legal experts said.
+
+While the payment platforms are ‘intermediaries’, they may not strictly fall within the definition of a ‘social media intermediary’, said Tanu Banerjee, Partner, Khaitan and Co. “The IT Rules define ‘social media intermediary’ to be an intermediary that primarily or solely enables online interaction between users. Therefore, the analysis should be based on the function of the platform and not basis the entity that owns it,” she said .
+
+The threshold to qualify as a social media intermediary is reasonably high and given that the function of payment platforms is “primarily” to facilitate payments, they may not fall within the ambit of a social media intermediary, Banerjee said.
+
+“Having said that, the digital payments ecosystem is continuously growing and evolving, and there is increasing convergence of technology and online service offerings. While, today, payment platforms may not fall squarely under the definition of social media intermediary, it’s possible that over time certain platforms with hybrid models and functions, that offer different services of equal significance to users may eventually fit in this definition”— Tanu Banerjee, Partner, Khaitan and Co
+
+Since digital wallet players, payment gateways and aggregators are regulated by the RBI, the burden of compliance is limited. The central bank already has supervisory and enforcement powers over these players, and has instituted an Ombudsman Scheme for customers to raise complaints or grievances against regulated entities in the digital payments space. Further, as per the guidelines for payment gateways/aggregators, companies need to create a customer grievance redressal policy, a dispute resolution mechanism and appoint a Nodal Officer who will handle all regulatory and customer grievance functions.
+
+MediaNama spoke to three payment company executives, all of whom said that they have not studied the IT Rules 2021 in detail and therefore, could not comment on the applicability of the rules to their business. However, one executive said that the impact for payment companies will be minimal since they already are regulated either by the RBI or indirectly through the banks. This person spoke on the condition of anonymity.
+
+“We are already regulated and we follow the RBI’s rules on grievance redressal, which is the main emphasis of these rules. We may have add some more responsibilities on our existing grievance redressal and compliance teams, in case they need to respond to IT Ministry in addition to the RBI when it comes to frauds, technical outages, data breaches or other issues that may arise”— Payments Industry Executive
+
+MediaNama has created a guide on how the new IT Rules 2021 impacts different types of online intermediaries, the reactions from various industries, their legal challenges and a little bit of history on how we got here. Guide: All you need to know about the new IT Rules, 2021
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

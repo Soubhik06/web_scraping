@@ -1,0 +1,15 @@
+The SWIFT network (Society for Worldwide Interbank Financial Telecommunication) has warned banks across the globe to comply with security procedures instituted after this year’s $81 million online bank heist at Bangladesh Bank, as hackers have become more sophisticated in their tactics, reports Reuters .
+
+According to the agency, cyber-theft attempts have increased since the attack on the Bangladesh central bank, resulting in fraudulent payment instructions compromising customer accounts. Some of these thefts have been successful, although it did not specify how much money was stolen or from which banks. The agency mentions that the thieves exploited weaknesses in local security that compromised local networks to send fraudulent message and request transfers.
+
+SWIFT further stated that “the threat (of cyber-theft) is persistent, adaptive and sophisticated – and it is here to stay”. The agency’s warnings are not an overstatement – other than the Bangladeshi heist , a second attack occurred on a commercial bank in Vietnam – both attacks involved a malware, and both were similar to a 2013 heist of the Sonali Bank . Similarly, thieves send SWIFT messages as Banco del Austro, a bank in Ecuador, to get Wells Fargo to transfer $12 million fraudulently. More recently, just last week hackers stole 2 billion Rubles from Russia’s central bank. An anonymous Ukrainian bank was also apparently one of the banks to have lost money through compromised networks.
+
+Note that while some of the funds have been recovered, a large part of this money is lost and has to be compensated by banking networks. Most attacks also happen through direct access to a bank’s local network or access to important passwords of key members or lax ground level security, rather than being an exploit of the SWIFT network. As such, it is important that banks educate its employees on the importance of online security – for example not sticking a pen drive in work computers or using weak passwords or leaving them written around.
+
+Security lapses in India : In October, it was reported that over 3.2 million debit card details were stolen by hackers from ATMs and POS machines on YES Bank’s network. Apparently, over 90 YES Bank’s ATMs and POS machines were targeted by the malware which resulted in card details of State Bank of India (SBI), ICICI Bank and HDFC Bank customers stolen. In another instance in 2015, Kotak Mahindra Bank detected a credit card fraud to the tune of Rs 2.84 crore which involved 1730 transactions carried out on 580 cards.
+
+Image source : Flickr user Dev.Akra under CC BY-ND 2.0
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

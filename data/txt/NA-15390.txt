@@ -1,0 +1,49 @@
+âThe creation of an encryption backdoor creates vulnerabilities that would leave Sweden less safe against cyber threats and foreign adversaries,â the Global Encryption Coalition said in a joint letter published on April 8, 2025. The letter highlights concerns regarding the Swedish governmentâs proposed Data Storage and Access to Electronic Information legislation .
+
+The Global Encryption Coalition and 236 co-signatories of the joint letter opined that if enacted, the proposed legislation would significantly undermine the security and privacy of Swedish citizens, companies, and institutions. The organisations believe that although the proposed legislation aims to combat serious crime, it presents âa dangerous approach.â
+
+Compromising encryption can create vulnerabilities that criminals and other malicious actors could exploit to attack users in Sweden. âCompromising encryption would leave Swedenâs citizens and institutions less safe than before,â the joint letter stated.
+
+The proposed law would force internet-based messaging apps like WhatsApp and Signal, and other companies, to store usersâ communications and make them accessible to Swedish law enforcement agencies. âThe consensus among cybersecurity experts is that complying with this requirement for end-to-end encrypted communications services will be impossible without forcing providers to create an encryption backdoor, akin to a master key that unlocks every door in a building,â the letter added.
+
+This âmaster keyâ could create vulnerabilities that would leave Swedish people and organisations less safe against cyberattacks and foreign adversaries. In January 2025, the Swedish Armed Forces, FÃ¶rsvarsmakten, expressed similar concerns in a consultation response to the proposed legislation. According to FÃ¶rsvarsmakten, access requirements in end-to-end encrypted (E2EE) communications cannot be fulfilled without introducing vulnerabilities and backdoors that third parties could exploit.
+
+The joint letter further stated that the proposed legislation would place platforms offering E2EE services in a difficult position. These services would either have to complyâthus compromising E2EE protectionâor cease operations in the Swedish market. The Global Encryption Coalition believes either scenario would result in âless secureâ private communications for Swedish citizens, companies, and institutions. More than 40% of internet users in Sweden benefit directly from the security and privacy provided by E2EE communication services.
+
+Signal, the internet-based E2EE communication service, has reportedly threatened to leave Sweden if it passed the proposed Data Storage and Access to Electronic Information law.
+
+The proposed legislation could also put journalists, activists, and minorities at greater risk. The joint letter noted that journalists rely on E2EE messaging services to protect their sources. Similarly, activists use these services to safely organise protests and demonstrations. Minorities such as the LGBTQ+ community also depend on E2EE services for safety and community-building. The protection E2EE provides gives them a sense of security.
+
+Even the European Data Protection Board (EDPB) has highlighted the importance of E2EE. In 2022, the EDPB noted that encryption technologies fundamentally contribute to the right to private life, the confidentiality of communications, and freedom of expression.
+
+According to joint letter, the Global Encryption Coalition and other co-signatories want the Swedish government to invest in and utilise targeted âmodern investigative techniquesâ. These techniques should not compromise the security of the users of such services. Law enforcement agencies, they suggest, should rely on enhanced digital forensics, improved data analysis, and international cooperation instead of undermining encryption protections.
+
+The Global Encryption Coalition has âstronglyâ urged the Riksdag, Swedish Parliament, to reject the proposed Data Storage and Access to Electronic Information legislation.
+
+According to the draft of the proposed legislation , the electronic communication service providers will have to store âcertain informationâ for law enforcement as an obligation. The service providers will have to store such information âover timeâ, depending on âsocietal developmentsâ, âtechnological developmentsâ, and âchanging communication habitsâ. The draft also proposes that:
+
+The Swedish government has proposed that this legislation to come into effect on March 1, 2026.
+
+The Global Encryption Coalition is an organisation comprising over 400 members across 103 countries. It works to promote and defend encryption in âkey countries and multilateral foraâ where such technology is under threat.
+
+Its Steering Committee comprises of Center for Democracy and Technology, Global Partners Digital, Mozilla Corporation, the Internet Freedom Foundation, and the Internet Society.
+
+Several communication services use E2EE as a privacy measure. Messaging apps and other platforms rely on E2EE to ensure that communication between two users is not accessible to unauthorised parties. The apps encrypt and decrypt the messages (or any other form of communication) between a sender and a receiver. That is, the app will turn the messages into a code that only the sender’s or the receiver’s devices can understand.
+
+Hereâs how it works : Messaging services like WhatsApp and Signal encrypt messages sent by User A using an encryption key. These messages are transmitted in encrypted form and can only be decrypted by User Bâs device using a private decryption key. Finally, the decrypted message is authenticated using User Bâs digital credentials.
+
+In 2021, WhatsApp filed a lawsuit against the Indian government for asking messaging services to break privacy protections under the IT Rules, 2021 . In the lawsuit, WhatsApp specifically opposed Rule 4(2) of the IT Rules that required âa significant social media intermediary providing services primarily like messagingâ to enable the identification of the âfirst originatorâ of a piece of information. WhatsApp argued in the court that this would require it to break its E2EE privacy measure that prevents malicious actors from accessing private messages between users.
+
+The Indian government, in its response to WhatsApp , said that companies operating in India are subject to Indian laws. It also argued that the Right to Privacy, under Article 21 of the Indian Constitution, is not absolute. It cited âpublic interestâ as a reason that makes compliance with the rules necessary.
+
+In 2024, WhatsApp told the Delhi High Court that it would shut down operations in India if forced to break encryption. Advocate Tejas Karia, representing WhatsApp, stated, âAs a platform, we are saying, if we are told to break encryption, then WhatsApp goes.â
+
+Recently, the Indian government introduced the Income Tax Bill , 2025, in Parliament. Section 247 of the bill raised privacy concerns by expanding the search and seizure powers of tax authorities. The provision potentially allows officials to hack into suspectsâ electronic devices, including social media and email accounts.
+
+Asia Pacific Policy Counsel at Access Now, Shruti Narayan, told MediaNama that “this is an unacceptable provision which could allow the use of privacy-violating data extraction tools to break into locked devices or password-protected accounts without any safeguards, independent oversight, or even a statement of necessity.”
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

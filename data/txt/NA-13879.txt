@@ -1,0 +1,115 @@
+With the economic growth rate crashing to a 40 year low to -7.3% at the end of March 2021, the government would need to increase cash benefit transfers to the most vulnerable sections of our society.
+
+According to annual GDP data from the government, India’s GDP growth rate contracted in the last year due to the havoc caused by the COVID-19 virus. The data shows that while private consumption reduced by 1.1% of GDP in the last year, government consumption expenditure increased by a similar amount as a proportion of GDP. However, Indians have suffered a lot in the last year with the pain subsiding very slowly.
+
+Kotak Mahindra Banks’ chief executive Uday Kotak , and Nobel Prize Economist Abhijit Banerjee have called on the government to print money and had out cash to the poorest sections of our country.
+
+In the last year, the government has spent nearly Rs 1.50 lakh crore in additional cash benefit transfer measures, apart from existing schemes, announced as part of its Atmanirbhar Bharat fiscal rescue package.
+
+But due to its excessive reliance on Aadhaar, many households are excluded from receiving these benefits either because they are not counted in the list of beneficiaries or due to technical errors when withdrawing cash.
+
+If the government plans to step up is social sector expenditure this year as part of a second fiscal rescue package, in the wake of the second wave of COVID-19 virus, it needs to fix issues in how it identifies beneficiaries and reduce its reliance on the Aadhaar-based payments system.
+
+As part of its Rs 20 lakh crore fiscal package last year, the government announced the following schemes:
+
+The total scheme figures is based on a rough calculation of data provided by the government.
+
+“AEPS is a critical system for rural India. The way ATMs are for urban and semi-urban, AEPS is for rural India. Every payment system has its own value and based on the RBI’s policy design we need to develop systems for every type of user. We need multiple systems to cater to multiple strata for the as sized country as India, a one nation one platform will not work,” said Dilip Asbe, MD and CEO, NPCI.
+
+According to data from the National Payments Corporation of India (NPCI), nearly a bil1lion transactions worth Rs 2.28 lakh crore took place on AEPS last year. The total transactions that took place on AEPS last year is up by 192% from Rs 1.18 lakh crore in 2019-20. The NPCI operates the AEPS.
+
+It is important to note that NPCI data does not give us an indication on how much of Rs 1.50 lakh crore transferred by the government was withdrawn. These are aggregate transactions on AEPS, which is used by welfare beneficiaries to withdraw Direct Benefit Transfers (DBT) across numerous schemes, not just the three new ones announced last year.
+
+"There is an increased shift by users in semi-urban and rural to use AEPS/MicroATMs for cash withdrawals from bank accounts," said Sunil Kulkarni, CEO (Designate) – SRO and Head, Business Correspondent Federation of India. "The average month on month traditional ATM cash withdrawal is between Rs 2.7 to Rs2.9 lakh crore a month, whereas AEPS cash withdrawal is around Rs 20,000 crore to Rs  30,000 crores per month," he said.
+
+Kulkarni believes that the bulk of cash disbursements will move to AEPS and Micro-ATMs going forward, fueled by government programs.
+
+There are six levels to the AEPS system:
+
+Customer-BC Device/Scanner-3rd part BC/Fintech software-Banks-NPCI-UIDAI
+
+There can be multiple points of failure across this AEPS 'payment service-chain'. This can lead to exclusions at three levels:
+
+Technical declines are caused by internet connectivity issues, issues with the NPCI's link with the Unique Identity Authority of India's (UIDAI) database or due to invalid codes from the authentication agency on the ground. On the other hand, business declines occur due to bank account level issues, like
+
+Infrastructure level issues have to do with an inability to access bank branches and ATMs given the low penetration of this infrastructure across the hinterlands.
+
+According to survey conducted by the Rapid Community Response to COVID-19 (RCRC) coalition, around 45% of beneficiaries who received the Rs 1.15 lakh crore DBT transfer used e-Mitra/Bank-Mitras to withdraw cash.
+
+On the other hand, 33% of these beneficiaries visited a bank, while nearly 20% went to BCs and only 3% withdrew the money from ATMs, the report said.
+
+"While there are central government schemes being transferred to beneficiaries, even state government benefits are being withdrawn on AEPS," said Sanjeev Kumar, CEO, Spice Money said."AEPS is solving a fundamental problem and its adoption will only increase. I see the AEPS numbers going from around Rs 2.5 lakh crore a year today, to Rs 10 lakh crore a year over the next 4-5 years," he said.
+
+"The first wave of the pandemic was a catalyst for AEPS adoption, as the regular banking infrastructure became inaccessible due to certain limitations and that forced people to adopt this network quickly. AEPS is the UPI of rural India, but it has been under the radar," he said.
+
+According to four industry executives that spoke to MediaNama over the past few weeks, the technical decline rate stands at around 3% on average today compared to above 10% last year, while the the business decline rate stands around 10-15% on average.
+
+The four executives and Asbe told MediaNama that they have worked throughout the last year to improve service delivery and that they have found work around to account for the UIDAI-related authentication issues and other technical failures on AEPS.
+
+"We changed our business protocols after many customers could not withdraw their funds due to connection issues, authentication errors or account-level issues," said a senior executive at a Business Correspondent firm.
+
+"For instance, if the connection is lost or if the fingerprint did not scan properly, we have told our agents to wait a few minutes and try again. After 3 to 4 times, the transactions go through and we can ensure that the person gets the cash they require,"  they said on the condition of anonymity.
+
+Yet, at least 2% of AEPS transactions do not go through due to biometric mismatches and other authentication failures at the UIDAI's end.
+
+"Even though the business declines due to field level issues are high, the service delivery are near 95%. The technical failure on UIDAI's side is less than 2%," said the NPCI's Asbe.
+
+If the total number of transactions on AEPS stood at Rs 2.28 lakh crore in 2020-21, then at a technical decline rate of 3% around Rs 6,800 crore worth of cash benefits could have been denied to beneficiaries. On the other hand, just based on UIDAI level technical issues at 2%, around Rs 4,500 crore worth of cash benefits could have been denied to beneficiaries in the last year.
+
+If we were to just account for these three schemes, worth a close to Rs 1.5 lakh crore, on aggregate around Rs 4,500 crore was probably denied due to technical declines and around Rs 3,000 crore worth of benefits perhaps were not delivered due to UIDAI level issues on the AEPS platform.
+
+"Biometric mismatch is the biggest share of errors, either because of machine problems or the customer's awareness of how to use the biometrics. If UIDAI launches face authentication it will eliminate the need for scanners and the success rates are higher which will help to scale up the BC points to 10 million over a period," Asbe said.
+
+In October 2020, the NPCI and UIDAI began working on a f acial authentication software to be integrated within its payment systems, particularly with AEPS. The NPCI began conducting pilots with four banks, ICICI Bank, Yes Bank, RBL Bank, and Fino Payments Bank to this end.
+
+On May 20, the UIDAI issued draft regulations for Aadhaar Authentication and Offline Verification. The draft has proposed to expand the forms of biometric authentication from fingerprints to iris-based authentication, or “other biometric modalities based on biometric information stored in the CIDR”; and multifactor authentication, which combine two or more of the previous modes.
+
+While the industry executives quoted above believe that facial recognition technology has better success rates than fingerprints, it raises the issue of privacy and data security. The sheer mass of people, who depend on welfare schemes, that will be pushed to authenticate their identity with the UIDAI through a IRIS or facial scan could lead to many other issues.
+
+Without adequate protections and a privacy law, facial recognition technology is being rolled-out across the country across institutions and government departments, and now with welfare benefits.
+
+While the technical decline rate has reduced over the past year, the government's reliance on Aadhaar based authentication and identification for welfare beneficiaries also leads to exclusion.
+
+Take for instance, the Jan Dhan payments to women account holders. While the government itself says it has delivered Rs 30,900 crore to 206.4 million Jan Dhan accounts, there are over 234.9 million account holders according to the Jan Dhan website as of May 19. In April 2020, the Telangana Grameen Bank deposited Rs 500 in 850,000 Jan Dhan accounts totaling Rs 42.8 crore. Of this, it had to recall Rs 17 crore that was wrongfully deposited.
+
+Under the PM Kisan scheme, the government incorrectly disbursed Rs 2,300 crore to over 4 million ineligible beneficiaries including income tax payees. Of this, the government was able to recover around Rs 232 crore, Agriculture Minister Narendra Singh Tomar told the Parliament in February this year.
+
+In December last year, the Quint also reported that a number of scamsters registered as fake beneficiaries on the scheme's portal, using publicly available Aadhaar numbers
+
+A report by Dalberg, found that in April around 32% of 39,400 households across the country did not receive any cash transfer from the government. This figure reduced to 14% in the following month. In terms of the specific cash schemes, the report said:
+
+According to Anmol Somanchi, an independent researcher, around 60% of households received less than Rs 500 in their Jan Dhan accounts and therefore did not receive a cash transfer on average over between April and June last year.
+
+Somanchi looked at the number of respondents who reported a credit of more than Rs 500 in their bank accounts, based on data from the Centre for the Monitoring of the Indian Economy's Consumer Pyramids Household Survey.
+
+"In April, more than half (54%) of all households received less than Rs 500, rising to 59% and 68% respectively in May and June," he said in an unpublished paper. Somanchi contends that three DBT schemes reached only 30%-40% of households during the lockdown based on this survey.
+
+Going by this data, it could be possible that around Rs 10,000 crore worth of benefits to Women Jan Dhan account holders, were not received, he told MediaNama.
+
+"Cash transfers are very crucial during such a crisis and in-kind benefits like PDS grains only go so far. If the government plans to increase social sector expenditure this year, as part of a second fiscal rescue package, it must expand its criteria for eligibility and allow banks use alternative methods of identification," Somanchi said.
+
+"The AEPS was not meant to be used for so many transactions, that has changed now. The BC network and the banks were not prepared and they had not invested in AEPS before. But now with volumes growing significantly, banks are much better prepared," said Mandar Agashe, founder and managing director of Sarvatra Technologies, a payments operator that works with banks.
+
+"We never thought that AEPS would reach such high volumes, from 100,000 transactions a day to 4-5 million transactions a day." he said.
+
+Last year, just as the first payouts went out from the government, the NPCI noticed the rise in technical declines on AEPS immediately. In June 2020, the NPCI a circular , outlining best practices to be followed to reduce technical declines. In August, the NPCI issued a circular instructing banks to move to a multi-port integration model so that data and information flowing through the AEPS system is equally distributed across the banks' network and there is no load issue at any one point.
+
+From January this year onward, the NPCI has been rolling out a new infrastructure pipeline for all its payments systems like UPI, Bharat Bill Payments and FASTag for instance. In April, they began to transition to a new AEPS system which would take two months to complete, Asbe explained.
+
+Under the new architecture, NPCI has provided the BC and third-party fintech payments firms with a direct link to its servers. This allows BCs and fintechs to directly communicate with the NPCI's network, and verify the transaction and thereafter, disburse the the cash benefit.
+
+"Digitisation is helping and citizens are getting a lot of services through our Digital Pradhan Partners who serve as cash points for the AEPS. People who were tech-oblivious, are now adopting tech and they are seeing the benefits of our system," said Anand Kumar Bajaj, managing director and chief executive officer, PayNearby.
+
+Bajaj of PayNearby said that to solve transaction failures at their end, PayNearby has integrated dedicated switches at their partner banks to ensure there are latency issues.
+
+"We further went ahead and integrated with NPCI, through a Assisted Service Provider model so that we can save 2 hops. This allows us to have smooth flows with NPCI server. Imagine, for processing 2 million transactions a day we can save two steps and avoid concurrency," he explained.
+
+"There is a digital-savvy value seeking segment and there is a marginalised-subsidised segment. If we are able to provide them [the latter] cash and access to their welfare benefits, we can also enable them with true banking," Bajaj said.
+
+We are looking to re-bank rural India, with a physical neo-bank model through which our kirana shops and merchants will become the local bank branch, he added.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

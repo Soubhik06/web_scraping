@@ -1,0 +1,67 @@
+Recently, a video of a Bengaluru woman noting the price disparity for products sold on quick commerce platforms on Apple and Android devices made rounds on social media. The woman found that pricing for fruits and vegetables on Zepto on iPhones was significantly higher than the prices displayed on the Android version of the app.
+
+However, this incident isn’t an anomaly. Social media users have also pointed out similar differential pricing tactics on Instamart. As is evident from the images the user uploaded (find below), comparing the product carts for Instamart, the Android version of the platform applies a default discount on one of the products (the Baker’s Dozen Lavash bread). However, since the user denies either cart having coupon codes, it begs the question of what factors were used to provide this discount.
+
+This device-based price discrimination is especially concerning as quick commerce gains popularity. As per the NIQ Shopper Trends report 2024 , 31% of surveyed urban consumers depend on quick commerce platforms to satisfy their primary grocery needs.
+
+MediaNama decided to further investigate price disparities reported on quick commerce platforms. Over the past month, from December 2024 to January 2025, MediaNama tracked the prices of grocery products across the most popular quick commerce platforms: Zomato’s Blinkit, Swiggy’s Instamart, and Zepto and measured them based on five parameters. Through the analysis, MediaNama identified that product prices in iOS and Android devices vary for most quick commerce platforms. Further, concerning location differences, product prices at Zepto soared in Bengaluru with the prices of whole wheat flour being Rs 66 higher than in other cities.
+
+As stated above, India’s urban consumer base is now gravitating towards quick commerce to satisfy their grocery needs. As per a survey of 30,000 respondents conducted by consumer community platform LocalCircles, one in four households that shops for groceries online, uses fast delivery or quick commerce applications. Of these, one in ten families place over 10 orders per month using such applications. However, as users rely heavily on such avenues, any differential pricing strategies noted on such platforms are detrimental to consumer rights. To explain, price discrimination based on factors like location, platform frequency, and login state not only erode customer trust, but also raise questions about pricing transparency on quick commerce platforms. In addition to price gouging, consumers have called out Instamart for practices like supplying underweight groceries and an overall lack of quality control for products, while others have critiqued Blinkit for failing to adequately deliver products , among other issues.
+
+In this analysis, MediaNama focused on five parameters, namely, Location: Mumbai vs Delhi vs Bengaluru, Device: android vs iOS, Platform Usage: frequent (daily) vs infrequent, State of Account: logged in vs logged out, and Peak Times: weekends vs weekdays. The prices of 13 grocery items were tracked for the experiment with the product brands and quantities being kept uniform to avoid any discrepancies. Further, as a control, the offline prices of the products were also considered and are mentioned below.
+
+Inferences: Based on the images above, products listed across Delhi and Mumbai are equivalent in certain cases, while prices in Bengaluru are much higher/lower with a difference of Rs 27 (as in case of the whole wheat flour). However, specific products like cauliflower are priced higher in Delhi, which may occur owing to the difference in the offline prices of vegetables in each city.
+
+Inferences: Here, the price difference is somewhat uneven with products sold in Delhi having the greatest price in certain cases (as with the soft drink, eggs, and oil), while Bengaluru noting a higher price (in terms of wheat flour).
+
+Inferences: The price differences are not consistent across the three cities and vary drastically in certain cases. For instance, wheat flour in Bengaluru is priced Rs 66 higher than in Delhi, while oil in Delhi is priced Rs 14 higher than in Bengaluru.
+
+In essence, while the price for different products varies across the quick commerce platforms in all three cities, no specific trend of one city having higher prices can be established.
+
+Inferences: Fresh groceries like fruits and vegetables (except tomatoes) and whole wheat flour is priced higher on an iOS version of the application, while soft drinks are priced higher on the android version. However, in five out of the thirteen products analysed, the product prices across both devices remain the same.
+
+Inferences: Product prices across the application on the android device are lower in most products, but anamolies, like the pricing of bread being lower, do exist.
+
+Inferences: Similar to Blinkit, product prices on the android app are lower than iOS app prices in six products, lower in case of two items, and similar in the rest out of the thirteen products analysed.
+
+Overall, while Blinkit and Zepto more evidently lean toward pricing products on android device applications lower, the practice isn’t as apparent in Instamart. However, the Swiggy-led platform does indulge in higher pricing for products like fruits and vegetables on the iOS version of the application.
+
+Inferences: Product prices are invariably higher in case of infrequent usage of the platform, whereas consumers who use the application at least once daily find products at much lower prices, with the difference ranging from Rs 6 to Rs 18 in certain cases.
+
+Inferences: A similar pattern, as seen in the case of Instamart, repeats itself, where frequent usage enables significantly lower product prices across the application.
+
+Inferences: The trend of infrequent usage of the platform displaying higher product prices and regular usage denoting lower prices continue; albeit the price difference margin here is significantly higher than Instamart and Blinkit.
+
+In conclusion, product prices for those consumers who depend heavily on these platforms is much lower than for those customers who arbitrarily use such services. Users have previously highlighted this trend in a reverse fashion, reasoning that for infrequent users, platforms may offer one-time product discounts to attract them, resulting in lower prices.
+
+Inferences: Prices are generally lower on the weekdays, in comparison to weekends (when the volume of orders is greater). However, in certain cases, product prices remain unchanged or even higher during weekdays (for example: tomatoes).
+
+Inferences: In line with Instamart, product prices are typically lower on weekdays, with certain product prices remaining unaffected by a change in days.
+
+Inference: Very slight difference in product prices for weekends vs weekdays can be seen with prices being marginally higher for one or two items like oil, while the others remain the same.
+
+Typically, product prices are found higher on weekends than on weekdays on platforms like Instamart and Blinkit. While this trend is present in Zepto as well, the price difference isn’t as vast.
+
+Inferences: Prices for products when a user has not logged into their account (logged out state) are generally lower than when a user logs into their account. However, the price difference here is miniscule, except for products like onions.
+
+Inferences: Prices are generally lower during logged-out usage of the applications than when users log in their accounts, however inconsistencies (like that in the price of oil) do exist.
+
+Inferences: Prices for products on platforms viewed in a logged out state are mostly lower than the same during a logged in account. However, prices for specific products like bread, milk, eggs, tomato, etc, remain unaffected by the difference in state.
+
+For the most part, product prices are consistently lower when a user has not logged into their account and is only browsing through the platform.
+
+Based on the above analysis, one can note variable pricing across parameters like location change, difference in device, platform usage, and state, albeit according to varying levels. However, the least amount of price disparity is evident across the criterion of peak times or weekends vs weekdays.
+
+Notably, prices for certain packaged products like Amul’s vanilla ice cream, Marlboro advance cigarette, and Thumbs Up soft drink remained unchanged in most scenarios MediaNama examined, despite the identification of a few patterns. Further, it is important to note that this analysis is not exhaustive and subject to certain limitations like small sample size (of products analysed), and time constraints.
+
+As quick commerce giants Instamart , Blinkit , and Zepto constantly come up with new innovations and product expansions to outbid the others and gain more market share . Customer service and pricing transparency will remain key aspects to monitor.
+
+Drawing on MediaNama’s analysis, we reached out to Instamart, Zepto, and Blinkit with the following questions regarding their pricing strategies and are awaiting their response.
+
+We will update the post as soon as we hear from them.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

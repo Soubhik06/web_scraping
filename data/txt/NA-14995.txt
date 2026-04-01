@@ -1,0 +1,17 @@
+After the recent exposés by French security researcher Robert Baptiste who goes by the alias Elliot Alderson of Aadhaar related security issues and the UIDAI’s consistent denials trivializing them , Baptiste predictably appears to have done what he had suggested. While he has not made a Twitter bot for tweeting about Aadhaar cards in the public domain as initially claimed, he has released on github , the source code for a very basic url scraper based on scrapy that provides a list of urls to Aadhaar cards based on the query text provided.
+
+A quick look at the code shows that it can search google, bing and baidu for provided keywords and create a list of urls returned in the results that gets saved as urls.txt in the same directory.
+
+“I just reworked this crawler,” said Alderson. “This crawler has been made by someone else long time ago. It allow the user to search and parse the result of his search query. I just add some specificity to find Aadhaar cards. This code is easy to write and can be done by anyone, it just automates the google search query and the result parsing.”
+
+“Maybe it will help UIDAI to see how many websites are leaking Aadhaar cards” Alderson added.
+
+This, naturally raises concerns around privacy for the individuals whose Aadhaar cards have been put into the public domain by various irresponsible websites. However, given the UIDAI’s ongoing inability to take security issues raised seriously and limiting themselves to claiming security on the basis of the biometrics database controlled by them not being breached, a confrontation of this nature is unavoidable as people are increasingly outraged by the seeming lack of concern for data security.
+
+In a recent interview, Dr. Ajay Bhushan Pandey, CEO of UIDAI even shrugged off the gravity of an eventual breach of the biometrics database, saying “your biometrics are anyway in the public domain” – while biometrics of individuals may have always been in the public domain, before Aadhaar, they could not put individuals at risk for identity fraud, financial theft or denial of rights. The ongoing lack of gravity about the responsibility a project of this magnitude entails is a matter of concern.
+
+Considering that there are more people able to manually search google for sensitive documents than use scripts and command line tools, we don’t see this as an additional risk to the security of individuals. However, the fact that a tool can be created to reliably harvest data that should not be in the public domain is certainly a matter of embarrassment for those claiming to secure it.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

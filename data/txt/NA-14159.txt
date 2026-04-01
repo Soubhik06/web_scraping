@@ -1,0 +1,21 @@
+The Unique Identification Authority of India (UIDAI) has collaborated with the Indian Institute of Technology, Bombay (IIT-Bombay), to develop a touchless biometric capture system for fingerprint authentication, according to a press release issued on April 10, 2023.
+
+The UIDAI stated that the new system will allow fingerprint authentication from home, a process similar to face authentication. As per the press release, UIDAI and IIT Bombay will carry out joint research to build the mobile capture system and also to integrate the “liveness model” with the capture system. The liveness-check of fingerprints refers to a method of detection that checks if the fingerprint, or any other biometrics, is of a real person and not a spoofed one.
+
+The introduction of the mobile capture system has come in after the UIDAI rolled out an artificial intelligence-based mechanism for two-layer fingerprint authentication in February 2023. After a long silence over the issue of financial frauds carried out via the Aadhaar-Enabled Payment System (AePS), this is the second time the UIDAI has focused on restricting spoofing attempts.
+
+Why it matters:
+
+Whether or not the new mechanisms will tackle security lapses in the Aadhaar ecosystem is something to keep an eye on. In the last three years, recurring instances of AePS frauds, the latest of which was reported in Andhra Pradesh , have shown that gangs in different states are able to crack the system , steal fingerprints and siphon off money from people’s bank accounts. This indicates that the security mechanism is not robust enough for a long time now.
+
+It is important to note that even one instance of Aadhaar data leak exposes millions of Indians to risks of financial fraud. AePS is a significant component of the direct benefit transfer system used by people from socio-economically backward communities to avail government welfare facilities. In case of a data breach, people who are already in a financially vulnerable position will face the direct impact of the data theft with no immediate mechanism to seek remedy. The government’s denial of these cases of misuse and UIDAI’s reluctance to address the issue with urgency have further raised questions over the safety of people’s biometric data.
+
+AI-based mechanism: The AI-based security mechanism, introduced in February , employs two-layer of two-factor authentication of fingerprints for Aadhaar-based transactions. The technique uses both finger minutia and finger image to check the liveness of the fingerprint.
+
+In response to MediaNama’s RTI query on frauds related to the Aadhaar-Enabled Payment System (AePS), the UIDAI has stated, “The newly introduced AI-based fingerprint authentication mechanism for securing Aadhaar-based transactions by the Unique Identification Authority of India (UIDAI) is a measure to prevent cloning of Aadhaar-linked fingerprints.” The questions related to the nature of the frauds and complaints regarding the AePS were left unanswered by the UIDAI.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

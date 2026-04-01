@@ -1,0 +1,75 @@
+by Vrinda Bhandari and Renuka Sane and Bhargavi Zaveri .
+
+The public discourse on Aadhaar has largely focused on concerns about the privacy issues associated with the collection of personal information, and the constitutionality of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (“the Act”). Regardless of the outcome of the case at the Supreme Court, most residents will likely have to interact with the UIDAI, which is the body empowered to roll out an enrollment and authentication program for beneficiaries of welfare programs.
+
+The UIDAI is an Agent established by the Principal (Parliament), with three powers. The law allows the State to compel an individual seeking a state-sponsored subsidy to undergo the enrollment and authentication processes designed by the UIDAI (although Aadhaar has now been made mandatory for certain non-welfare schemes as well, which goes beyond the conception in the law). The UIDAI is empowered to license and regulate Registrars and enrolling agencies to collect the demographic and biometric information of individuals , and enroll them under the Act. Finally, the UIDAI has quasi-legislative powers , such as the power to suspend the licenses of such enrolling agencies and Registrars.
+
+In this article, we examine the foundations required to make UIDAI work properly: the performance and accountability standards. Under the present law, UIDAI is neither performance oriented nor is there accountability for failure. The problem of accountability at UIDAI is a little explored issue, other than occasional media reporting which expresses angst about data breaches and authentication failures (see here , here , and here ). There is considerable knowledge from the global and Indian literature on public administration on how to achieve performance of such an Agent. Drawing on this body of knowledge, we propose that the UIDAI should be held to appropriate accountability standards, so as to create an environment where it will perform well.
+
+Since the 1980s, governments have established specialised organisations which perform certain functions. These Agents have diverse mandates such as regulating a specific sector (SEBI and TRAI); administration of social welfare schemes (the erstwhile Benefits Agency in the UK); and running prisons (such as the HM Prison Service (HMPS) in the UK or the Dienst Justitiële Inrichtingen – National Agency for Correctional Institutions (DJI) in the Netherlands).
+
+The Agent performs its mandate through the exercise of three kinds of powers, namely, quasi-legislative powers, quasi-executive powers, and quasi-judicial powers (FSLRC, 2013). While some agencies have all three kinds of powers at their disposal, others have some of them. For instance, while SEBI has all three powers, agencies which are tasked with administrative functions such as the UK Benefits Agency or the HMPS have limited quasi-legislative powers and no quasi-judicial powers. Whatever may be the scope of powers of these agencies, two features cut across all such agencies: (a) they perform functions that the sovereign would have otherwise performed; and (b) they wield the power of the State in being able to coerce certain private persons in certain ways.
+
+Broadly speaking, agencification has worked well in improving State capacity. However, this has come from establishing an array of mechanisms to deal with a few important concerns:
+
+The power to coerce or the power to spend, that is conferred upon the Agent, must be associated with commensurate accountability mechanisms (Stone and Thatcher, 2002). Accountability mechanisms are ex-ante and ex-post . Examples of both are enumerated below:
+
+Ex-ante accountability mechanisms :
+
+Ex-post accountability mechanisms :
+
+Since the Aadhaar number is so often compared to the social security number issued by the Social Security Administration (SSA) in the United States, we can usefully draw a comparison with the annual performance and financial report published by the US SSA. The report sets out the strategic goals of the SSA that were determined at the beginning of the year. It divides the strategic goal into multiple objectives, specifies measurable performance metrics to ascertain the extent to which the objectives have been met, and the extent to which the goal was achieved. An example of how the performance reporting for the SSA works, is given below.
+
+The SSA’s performance report also shows the funds allocated to each objective and a statement of reasons where the performance metric is not met.
+
+A reading of the objectives and functions assigned to the UIDAI under the Act would suggest that the UIDAI must, at the very least, be held accountable for:
+
+The Act and the accompanying Regulations specify a limited accountability framework, which is not oriented towards performance or service delivery to the citizen. Three accountability measures are present under the Aadhaar Act and Regulations:
+
+Apart from an annual financial audit, the law lacks any performance accountability mechanisms for the UIDAI. For instance, there is nothing in the law requiring the UIDAI to set performance standards for itself or account for core responsibilities such as number of people enrolled and not enrolled, number of authentication failures or number of data and security breaches. The law is similarly completely silent on ex-post accountability mechanisms. It neither requires a performance audit nor demands a justification for failures on its part.
+
+The conduct of an agency is largely shaped by the law governing it. For instance, Burman and Zaveri (2016) find that there is a correlation between the laws which mandate transparency of a regulator and the responsiveness of such regulators to citizens’ preferences. Similarly, the detailed performance reporting by the SSA is underpinned by a law called the Government Performance and Results Act, 1993, a law that set up a performance-oriented framework of reporting for the US federal agencies to show the progress they make towards achieving their goals.
+
+In the absence of such statutorily mandated accountability standards, measuring the performance of the UIDAI is difficult. Stories of security breaches and authentication failures for availing benefits abound. For instance, Scroll.in queried the UIDAI about the authentication requests received between September 2010 (when the first Aadhaar number was issued) till October 2016, and how many failed or succeeded. The query was aimed at assessing the efficacy of biometric authentication. The UIDAI replied that it had not maintained any records between September 2010 and September 2012 and that it did not maintain authentication data state-wise. More importantly, the UIDAI revealed that data about the success or failure of the over 331 crore authentication requests was “not readily available”, nor was the breakup of the negative reply to the requesting authority on each of the five modes of authentication “readily available”.
+
+Similarly, cases of fake Aadhaar cards have also been reported. Pertinently, in response to an RTI filed by PTI, seeking details related to all cases of duplicate and fake Aadhaar cards and the action taken on them, the UIDAI refused the request on the grounds that the disclosure might affect national security, or lead to incitement of an offence. The UIDAI also informed PTI that its CIDR facilities, information assets, logistics and infrastructure and dependencies, are all classified as “protected system” under the IT Act, and are thus, exempt from RTI. It further stated that the format in which it held the information contained identity details, which may be prone to identity theft, if divulged. The practical reality thus is that cases of unauthorised leaks/disclosures of identity information are being dealt with on a case to case basis, with zero clarity in the law on who is to be held accountable for such lapses in the future.
+
+In previous decades, when we first set up state agencies in India, we were driven by concerns of efficiency and expertise that such agencies would bring to public administration. We now have sufficient experience about the endemic failure of State capacity in that approach. If one more new agency is built, on the lines of existing agencies, there is a high chance that it will reproduce the failures of existing agencies.
+
+The climate of thinking on these questions in India is shifting. The FSLRC report , which proposes a new financial regulatory architecture, made extensive recommendations on the accountability framework for financial sector regulators. These recommendations were codified in the Indian Financial Code (IFC), a draft law that accompanied the FSLRC report. For example, the IFC contains provisions that mandate (a) regulators to build a system of periodical internal audits and publish the reports of such audits, (b) performance audits by an external auditor, (c) building systems for measuring the performance and efficiency of regulators, and (d) public consultation and a cost benefit analysis before exercising quasi-legislative powers. Some of these provisions that do not require legislative amendments are being implemented by the Ministry of Finance through a Handbook on Governance enhancing recommendations of the FSLRC, adopted by the four financial sector regulators in October 2013.
+
+The report of the Bankruptcy Law Reforms Committee (2015), drew on the regulatory governance framework recommended by the FSLRC and recommended four elements for achieving accountability of the Insolvency and Bankruptcy Board of India, India’s new insolvency regulator. While some of these elements were codified in the Insolvency and Bankruptcy Code, others are sought to be implemented in the course of setting up the Insolvency and Bankruptcy Board of India. Recent events at TRAI are pushing the organisation towards sound processes.
+
+While the subject of regulatory governance seemed remote and a second order issue in setting up institutions in India, policy thinking today has increasingly started recognising that enhancing governance standards is as important as technical soundness, when designing new frameworks. Every government agency is an Agent, and the journey to building high performance agencies lies in setting up a sound principal-agent relationship, in the law. UIDAI is an important new organisation, and it should emerge as a high performance agency. We must harness our experience and our knowledge, to build appropriate accountability standards for the UIDAI in the law.
+
+Cochrane, J. (2015), The rule of law in the Regulatory State .
+
+Heidenheimer, A.J., Heclo, H. and Teich Adams, C. (1990), Comparative Public Policy: The Politics of Social Choice in America, Europe, and Japan, (3rd edition) New York: St. Martins.
+
+Maggetti, Martino (2010). Legitimacy and Accountability of Independent Regulatory Agencies: A Critical Review , Living Reviews in Democracy Vol 2.
+
+OECD (2014), The Governance of Regulators, OECD Best Practice Principles for Regulatory Policy , OECD Publishing.
+
+Pollitt, Christopher, Colin Tablot, Janice Caufield, and Amanda Smullen (2004), Agencies: how governments do things through semi-autonomous organizations, New York: Palgrave Macmillan.
+
+Young Han Chun, Hal G. Rainey (2005), Goal Ambiguity in U.S. Federal Agencies, J. Public Adm. Res. Theory 2005, 15 (1): 1-30.
+
+Majone, Giandomenico (1998), The Regulatory State and its Legitimacy Problems, Political Science Series No. 56, Department of Political Science of the Institute for Advanced Studies (IHS)
+
+Sweet, Alec Stone and Thatcher, Mark (2002), “Theory and Practice of Delegation to Non-Majoritarian Institutions”, Faculty Scholarship Series, Paper 74
+
+Report of the Financial Sector Legislative Reforms Commission, Volume 1 (2013)
+
+Burman, Anirudh and Zaveri, Bhargavi (2016), Regulatory responsiveness in India: A normative and empirical framework for assessment , IGIDR Working Paper WP-2016-025, October 2016.
+
+*
+
+Vrinda Bhandari is a practicing advocate in Delhi. Renuka Sane is a researcher at the National Institute of Public Finance and Policy, Delhi. Bhargavi Zaveri is a researcher at the IGIDR Finance Research Group, Mumbai.
+
+*
+
+Source: The accountability framework of UIDAI: Concerns and solutions by Vrinda Bhandari and Renuka Sane and Bhargavi Zaveri, Ajay Shah’s blog , August 20, 2017.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

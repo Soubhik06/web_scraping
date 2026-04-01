@@ -1,0 +1,53 @@
+When a user types “PMS” into Zepto’s search bar, the app doesn’t just show basic products but it now offers mood-specific categories like Crampy, Hangry, and Ragey, each filled with curated items such as pain relief patches, chocolates, and herbal teas, according to Zepto’s press release.
+
+But what if that search has nothing to do with the user’s own menstrual cycle? “Just because someone searches for premenstrual syndrome (PMS) products doesn’t mean they’re menstruating. What conclusions are platforms drawing, and what profiles are they building?” asks Anushka Jain from Digital Futures Lab, raising important questions about how companies interpret user behaviour.
+
+This isn’t the first time Zepto has linked search terms with emotional cues. In the past, a query like “Monday blues” would surface a comfort kit—coffee, chocolate, energy drinks turning casual searches into triggers for mood-based product bundles. The company has called it a move from trendspotting to feature-building, based on real-time search behaviour.
+
+What remains unclear is how much of this behaviour such as search frequency, order timing, or product combinations Zepto monitors over time. More importantly, does it build lasting user profiles from these patterns, and if so, is that made transparent to its users?
+
+Zepto’s privacy policy says the app collects health and lifestyle data, browsing behaviour, and purchase preferences. It also says the company uses this information to personalise services and run internal analysis. But the policy does not explain whether Zepto uses recurring PMS-related activity to make predictions, or whether it stores, shares, or links those inferences to pricing.
+
+The Software Freedom Law Center (SFLC.in) India flagged broader risks: “Zepto’s privacy policy permits the collection, storage, and processing of personal information including sensitive personal information and allows for this data to be shared with third parties, whether within India or abroad,” it said. “This raises significant red flags regarding the scope and intrusiveness of data practices.”
+
+SFLC also pointed out the lack of opt-out options: “Users are not given an option to opt out of such data collection or its subsequent use.” While users can search PMS-related products, “placing an order requires signing up, which forces users to consent to the app’s terms of service and privacy policy.”
+
+A recent MediaNama investigation revealed that Zepto is among the Indian apps requesting access to users’ app drawers, letting it view installed apps. If period-tracking apps show up, Zepto could infer health-related data from that, layered over user behaviour on the platform.
+
+This is not the first time companies have used behavioural data to predict health-related outcomes. In 2012, The New York Times reported that Target identified pregnant customers based on shopping patterns and mailed them baby product coupons. A teenager’s pregnancy was discovered by her family that way, before she had told them.
+
+Such cases show how companies can draw sensitive inferences without user awareness, something India’s data protection law does not yet clearly regulate.
+
+Under the Digital Personal Data Protection Act, 2023 , platforms can only process sensitive data such as reproductive health information with free, informed, and specific consent. They must explain what they are collecting and why. The law also gives users the right to access and erase their data.
+
+The draft DPDP Rules, 2025 , build on this. They require platforms to publish clear instructions for data access and erasure using customer IDs or similar identifiers. If a platform wants to delete inactive users’ data, it must notify them at least 48 hours in advance and give them a chance to keep it.
+
+But the law does not address inferred data. It does not clearly cover patterns drawn from user behaviour. Platforms that profile users based on searches or purchase timing don’t have to disclose it or give them a way to opt out.
+
+“These apps often ask for more information than necessary and rely on narrow ideas of how reproductive health should look,” said Dr. Paro Mishra from IIIT Delhi. She was speaking at a recent discussion hosted by the Software Freedom Law Center, India, which examined how menstruation and pregnancy tracking apps collect and use personal data.
+
+“All of your surplus data in many ways becomes a very valuable capitalist resource,” she said, pointing to how companies aggregate and monetise the information.
+
+She also shared that most apps don’t let users log miscarriages, which means some women keep getting foetus updates even after a pregnancy ends. “It was extremely damaging for the person,” she said.
+
+Mishra added that people often rely too much on these apps. “The reliability of the prediction algorithms would create a false sense of security,” she said.
+
+Her comments show why platforms need clearer rules not just for the data people give, but also for the insights platforms pull from how they act.
+
+Jain said most users do not realise how platforms interpret their behaviour or how much data they record and analyse.
+
+“People click on push notifications and unknowingly buy things. Most users are not thinking about data profiling when they interact with platforms. We can’t put the burden solely on them, especially given digital illiteracy,” she said.
+
+She added that while Zepto may present this as a seamless shopping feature, it builds on assumptions rather than informed choices.
+
+“This is a smart marketing tactic by Zepto. To many users, it may seem like a feature they’re looking for. But these design choices are based on assumptions about behaviour, not informed consent.”
+
+“A male user could be searching for PMS products for someone else. So how do we know the data is even correct? The only way to address this is through specific regulation, and right now we don’t have that.”
+
+This story will be updated if the company responds.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

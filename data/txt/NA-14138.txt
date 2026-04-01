@@ -1,0 +1,23 @@
+The US Federal Communications Commission (FCC) chairwoman Jessica Rosenworcel, has proposed to make AI-generated robocalls illegal. She said that the FCC must recognize that calls made with AI-generated voices are “artificial” voices under the Telephone Consumer Protection Act (TCPA), which would make voice-cloning technology (deep fakes) used in common robocall scams targeting consumers illegal. Rosenworcel argued that by making these calls illegal, the FCC would allow bad actors to be held accountable.
+
+Deep fakes have emerged as an important issue in the recent past. In the US, a surge of sexually explicit deep fakes of the singer on X prompted the White House to call for legislation to protect people from AI porn. Similarly in India, deepfakes of multiple public figures including Sachin Tendulkar and Rashmika Mandana brought regulatory attention to deepfakes. FCC’s proposal, if applied, could serve as a precedent for how different jurisdictions would tackle audio deep fakes.
+
+The challenge of deepfake detection:
+
+Speaking at a MediaNama event, Gautham Koorma, machine learning engineer and researcher from UC Berkeley, said that he and fellow researchers can detect deep fakes involving cloned voices with 90 percent accuracy using various techniques in a controlled, lab setting. This accuracy falls significantly when this audio content is in the wild i.e. shared on social media platforms.
+
+“For example, when you upload an audio clip to Facebook or when you send it on WhatsApp, each of these platforms do something called transcoding, essentially changing the bit rate, changing some properties of the media. And once that happens, we see that the accuracy of detection drops a lot, sometimes higher than 10 per cent. So, it’s really hard to detect these things once they’ve gone on social media,” Koorma explained during the event.
+
+A complete ban would hinder positive uses of audio deepfakes:
+
+While detection is a challenge, a complete ban might not be the best solution either. It would hinder positive use cases of deepfakes as well. For instance, deep fake technology could be used for seamless translation of content.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also read:
+
+DEFIANCE Act: New Bill Proposed In The US To Curb Non-Consensual AI Porn And Deepfakes
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

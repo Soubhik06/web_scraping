@@ -1,0 +1,29 @@
+Meta is testing the use of Facial Recognition Technology (FRT) to detect online scams and help users regain access to compromised accounts, the company revealed in a blog post on October 21. The tech would be used mostly against accounts and advertisements that impersonate public figures and to confirm the identity of users who wanted to log back into their accounts. Meta also made promises to delete any facial data generated during this process and not use it for any other purpose.
+
+The company describes the practice of ‘celeb-bait,’ where scammers use images of celebrities to bait people into engaging with ads that lead to scam websites, and ask them to share personal information or send money. To resolve this problem, Meta is experimenting with new systems that use facial recognition to compare a celebrity’s images in a suspected celeb-bait ad to their profile pictures on Facebook and Instagram. “If we confirm a match and determine the ad is a scam, we’ll block it,” said the post.
+
+Meta will be automatically including celebrities and public figures in their program, with an opt-out option available.
+
+The blog post also described a pattern of scammers impersonating public figures through fake accounts and duping people into sending them money. “For example, scammers may claim that a celebrity has endorsed a specific investment offering or ask for sensitive personal information in exchange for a free giveaway,” said the post. The company is planning to use FRT to detect similar fake accounts as well.
+
+Meta is also testing video selfies as a way for people to confirm their identity and regain access to compromised accounts. “The user will upload a video selfie and we’ll use facial recognition technology to compare the selfie to the profile pictures on the account they’re trying to access,” said the post.  Meta also assured users that it will encrypt and store the video selfie securely, and delete any facial data generated.
+
+This marks a return to FRT for Meta, albeit in a limited sense. The company (then Facebook) used to offer an opt-in “faceprint” program, which would scan a user’s face and search for other photos of them on the platform. It was also able to detect fake accounts that used somebody else’s photograph. Nearly a third of Facebook’s users, or around 1 billion people, had signed up for the program.
+
+However, Meta shut the service in 2021, and deleted the collected facial data of users. The company stated that there were many concerns about the use of FRT in society with a lack of a clear regulatory framework.
+
+Meta is already facing pressure from various public figures regarding deep fakes and impersonation scams. In June this year, Australian billionaire Andrew Forrest sued the platform over advertisements using his image to to promote fake cryptocurrency and other fraudulent investments.
+
+The Australian Competition and Consumer Commission (ACCC) has also taken Meta to court over misleading and deceptive ads that feature images of public figures.
+
+The blog post does raise a few eyebrows, however. When it comes to celeb-bait ads, FRT can very well tell when a person’s image is present in an ad, but it cannot actually determine whether an ad is a scam or not. While using somebody’s image without their permission is illegal, it does not make something a scam in itself.
+
+For accounts that impersonate celebrities to scam people, Meta’s new FRT tech is somewhat redundant. Most celebrity accounts already have the verified ‘blue tick,’ which means that any other account bearing images of the person are most likely fake. It could be argued whether facial recognition adds anything here.
+
+Furthermore, Meta’s video selfies, which are supposed to help people confirm their identity and regain access to compromised accounts, have their own set of loopholes. What happens when a hacker replaces a user’s profile picture with his own? What if you never had a profile picture, or if your face wasn’t clearly visible? FRT would be helpless here. The same applies to people who have not updated their pictures.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

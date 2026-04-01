@@ -1,0 +1,17 @@
+A new study conducted by IIT Delhi suggests that it may be effective to combat the phenomenon of fake news by building decentralized models to identify fake information and counter it with true information and facts, or as the paper calls it â anti-rumour.
+
+The study was conducted by the department of computer science and engineering at IIT Delhi. The authors studied several models to prevent the spread of fake information and news via social media and messaging applications.Â  It attempts to offer possible solutions for combatting rumours and fake news with three different models. The models are based on the intentional spread of counter-information to fight the specific false information, either by an authority, a regulatory body, a watchdog, and so on or by enlightened citizens who spread anti-rumour on a voluntary basis.
+
+Notably, the paper says that in all the models studied, once a rumour is detected (no matter in which ways) due to fast growth power of social networks, the spread of fake information can be controlled. The paper has concluded that decentralized models â the beacon model and the neighbourhood model â are more effective than a delayed model, which banks on the probability that a relevant authority might identify a rumour days/weeks after it has started spreading that than combat it with anti-rumour.
+
+A delayed model involves an authority possibly identifying rumours days or weeks after it beganÂ spreading. There may be a time-lag during which the misinformation has spread fast and wide. The other two models are decentralized models reducing the role of the authority. The second model, the Beacon model, suggests vigilante agents or nodes implanted within a platform to look out for the spread of such rumours. “Once a beacon receives a rumour, it immediately starts spreading anti-rumours to combat the rumour.” says the paper. The third model, the Neighborhood model, entails users of a platform voluntarily spreading anti-rumours after identifying a self-evident rumour.
+
+Such a message or counter-information is called an anti-rumour. “Anti-rumour is a message like any other in a social network, except it is sent with the express intent of debunking a rumour,â writes Amitabha Bagchi, one of the authors, in a blog post .
+
+The other two models are based on decentralized systems which bank on either agents capable of identifying false and dangerous information or two, on all users who can identify fake news commonsensically.
+
+In India, fake news is used extensively by political parties to influence voters and citizens. The primary platform for the spread of such information is WhatsApp. Fake news propaganda in India has varied from hate messages, misinformation the current administrationâs policies. The problem is aggravated as mainstream media organizations also report the unverified news.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

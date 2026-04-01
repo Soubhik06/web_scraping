@@ -1,0 +1,23 @@
+Update on July 24, 2024 at 3:53 PM: The Indian Computer Emergency Response Team (CERT-In) reported a possible intrusion and data breach at BSNL on 20 May, the Ministry of Communications confirmed in response to a Lok Sabha question. BSNL analyzed the potential breach and found that one file transfer protocol server (a type of file-sharing server) contained data similar to what CERT-In had flagged. However, no breach occurred in the home location registry of BSNL’s telecom network and as such there was no service outage.
+
+BSNL has taken precautionary measures to prevent such a breach by changing the passwords for similar file transfer protocols. An inter-ministerial committee has been constituted to conduct an audit of the telecom networks and suggest remedial measures for the prevention of data breaches in telecom networks.
+
+Original story:
+
+Bharat Sanchar Nigam Limited (BSNL) has faced a data breach with the threat actor involved claiming 278 GB of data from the companyâs operations were compromised. This includes sensitive information such as international mobile subscriber identity (IMSI) numbers, SIM card details, home location register data, and critical security keys, according to a report by the Economic Times.
+
+The data breach by threat actor kiberphant0m (who priced it at USD 5000) was first flagged by digital risk management firm Athenian Technology. The company states that the breached data includes server snapshots, which can be misused for SIM cloning. This is reportedly the second breach of BSNL data within the past six months. Prior to this, the telecom company underwent a major cybersecurity situation in 2017 when 60,000 BSNL modems were affected by the malware causing them to automatically switch off.
+
+Two data breaches in such a short span of time signal that BSNL needs to put in place stronger cybersecurity measures. The situation becomes particularly concerning because, in 2020, the Government of India mandated the use of BSNL and MTNL by all Ministries/Departments of the Government of India, including central autonomous bodies. As such, a breach in BSNLâs database could potentially compromise sensitive information related to government communications and infrastructure.
+
+Further as flagged by Athenian Technology, the data leaked as a result of this breach could be used for SIM cloning. This technique allows bad actors to use a personâs SIM card on another device. It means that if your SIM has been cloned any sensitive information you receive on your phone (like one-time passwords required when making a transaction) could be accessed by the bad actor.
+
+Under section 22 of the Telecommunication Act, 2023 the government can provide measures to protect and ensure the cybersecurity of telecommunication networks and telecommunication services. The measures introduced may include the collection, analysis, and dissemination of traffic data that is generated, transmitted, received or stored in telecommunication networks. With this section coming into operation as of June 26, it remains to be seen what kind of measures the government would prescribe to ensure network security, especially after this breach.
+
+Note: The headline and the first two lines were edited for clarity based on editorial inputs on 26/06/2024 at 9:30 pm.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

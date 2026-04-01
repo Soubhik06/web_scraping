@@ -1,0 +1,17 @@
+We missed this earlier: The Reserve Bank of India (RBI) has now mandated the additional factor of authentication (AFA) for online international “card not present” ( CNP ) transactions through a draft circular . By doing so, the central bank seeks to increase the safety of online international transactions, providing an “additional level of security” for cases where the overseas merchant enables AFA.
+
+The process includes three steps. First, card issuers must register their bank identification numbers (BINs) with card networks for AFA validation. Second, they must validate the AFA for non-recurring cross-border CNP transactions whenever such a request is raised by the overseas merchant. Third, card issuers must establish a “risk-based mechanism” for handling all such transactions. The directions will come into effect three months from the date on which the circular was issued and comments/feedback on the same can be submitted by March 10, 2025.
+
+MediaNama reached out to payment gateways like Razorpay, Cashfree, and PhonePe, alongside the Merchants Payment Alliance of India (MPAI) for a comment on this development and is awaiting their response.
+
+Till now, RBI mandated AFA solely for domestic card transactions. For context, AFA requires more than one factor for authenticating a payment instruction and categorizes them as PIN, dynamic one-time password (OTP), and static code, among others to safeguard against fraud.
+
+Further, in August 2024, the apex bank introduced a draft framework on alternative authentication mechanisms for digital payment transactions. Within this, the RBI mandated AFA for all transactions undertaken using cards, prepaid instruments, and mobile banking channels.
+
+With the surge in digital payments, the cases of online fraud have also surged. According to RBI’s data , digital frauds accounted for Rs 1,457 crore in the financial year (FY) 2023-24, marking a fivefold jump from Rs 277 crore in FY 2022-23. Taking note of these, RBI has undertaken awareness initiatives via SMS and radio, including the e-BAAT program on risk mitigation to curb financial fraud. Further, as the number of internet users grew by 7.3 million from 2023-24, it translates into the expansion of India’s e-commerce market, which in turn warrants greater consumer safety for online users.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

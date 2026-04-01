@@ -1,0 +1,41 @@
+The Telecom Regulatory Authority of India (TRAI) has launched a pilot project for the nationwide rollout of Digital Consent Management that would require telemarketing entities to take explicit digital consent from users, according to a press release . The authority will be coordinating with the Reserve Bank of India (RBI) for the rollout, and the banks and Telecom Service Providers (TSPs) will work together to implement it. This move would mandate financial institutions and TSPs to implement the framework to curb promotional spam calls that users receive.
+
+âGiven the sensitivity of banking transactions and cases of financial fraud through spam calls, the banking sector has been prioritised for the first phase of implementation,â the Ministry of Communications (MCA) said in the press release. âThis Pilot, running under a regulatory sandbox framework, will validate the operational, technical, and regulatory aspects of the enhanced Consent Registration Function (CRF) and lay the foundation for sector-wise scaling of the digital consent ecosystem.â
+
+The regulatory body has observed that consumers made a large number of spam complaints against business entities that had earlier sold goods or services to them. These entities claim that they have taken the consent of the users for receiving commercial or promotional calls and text messages.
+
+Under the Telecom Commercial Communications Customer Preference Regulations (TCCCPR), 2018 , an entity can send promotional messages after recording consent with the Consent Registration Function (CRF). The entities also need to:
+
+TCCCPR, 2018, also allows an entity to send commercial messages to a customer irrespective of their Do Not Disturb (DND) preference if the entity has taken explicit consent from the consumer, the ministry said.
+
+âHowever, in many cases, these consents were collected through offline or unverifiable means, making it extremely difficult to ascertain their validity and genuineness. In several instances, consumers report that their mobile numbers have been acquired by the entities for this purpose through misrepresentation, deception, or unauthorised data-sharing practices,â said the press release.
+
+In June 2023, the TRAI directed all access providers to develop a Digital Consent Acquisition (DCA) facility, a unified consent-seeking platform, which would allow service providers and principal entities like banks, business entities, and real estate companies to seek customer consent for promotional spam calls and messages.
+
+Additionally, later in September 2023, the authority requested entities such as banks, insurance companies, trading companies, and others that send commercial communications to consumers to begin onboarding the DCA system, as the initial deadline for onboarding the system was November 2023.Â
+
+The regulator believes that verifying consent for such spam calls and messages is a âformidable challengeâ as the entities refer to the consent they took from consumers offline.
+
+Hence, to address this issue, TRAI made it mandatory for companies sending promotional communications to acquire consent digitally. It also requires mandatory registration in a secure and interoperable digital consent registry maintained by the TSPs for verification of consents.
+
+For the consent registration framework to function successfully, the authority believes that the onboarding of entities sending commercial communications is a ânecessary requirement.â
+
+In June 2025, MeitY unveiled a Business Requirement Document for a Consent Management System (CMS) under the Digital Personal Data Protection (DPDP) Act, 2023. This document lays down a set of guidelines for a Consent Management System (CMS) that would allow Data Principals, whose data is being collected, to decide whether they wish to grant or withdraw consent for data protection and processing through a single platform while complying with the DPDPA and its rules.
+
+The Act mentions a Consent Manager, which is a single point of contact between Data Principals and Data Fiduciaries, the entity that determines the purpose and means of processing personal data. To put it in simpler terms, the Consent Manager is a business that operates platforms to allow users to give, manage, review, and withdraw consent for processing their personal, identifiable data by companies and other commercial entities.
+
+The system begins the process of collecting consent when a data principal sends a request for registration or service onboarding that would require an entity to collect personal data for processing.
+
+Once users grant their valid consent, the CMS starts the process of validation. It verifies whether the data principal has granted explicit and lawful consent for a given purpose before a data fiduciary processes the data.
+
+However, TRAI has not revealed further details about which banks are going to initially be part of this pilot project and how it will onboard these different financial institutions. The following question arises in this scenario:
+
+MediaNama has reached out to the State Bank of India, ICICI Bank, and HDFC Bank, seeking detailed answers to the following questions:
+
+We will update the article with the responses from the aforementioned banks.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

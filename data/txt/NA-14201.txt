@@ -1,0 +1,43 @@
+by Krishaank Jugiani
+
+Sitting in Jaipur, a city becoming a hub for emerging startups and online small businesses, I spoke with a few entrepreneur friends to understand how the Department of Telecommunications’ (DoT) push for continuous SIM linkage for messaging apps and mandatory auto-logout of web service every six hours would look on the ground.
+
+The answers from friends were practical and revealing. Messaging on the phone and on the laptop is not a nice-to-have for them, but rather important for day-to-day operations. One owner described the typical workflow–basic communications for all purposes including orders, vendor updates, and coordination.
+
+While another said, “We use two devices, my phone and a laptop. And web-linked messaging is crucial. If I have to log in again and again on my WhatsApp while the phone is charging or away, I miss messages and clients.” These short accounts show a pattern that repeats across many small firms and startups, and any minor disruption could ripple across the daily operations of many small businesses.
+
+While the stated intent of the DoT’s directions may be to strengthen security, the practical impact on daily communication and business continuity cannot be overstated. People who rely on more than one device or more than one SIM may face constant interruptions.
+
+The scale of harm becomes clear when we shift from a single shop to the larger economy. The latest figures from the Department for Promotion of Industry and Internal Trade (DPIIT) show more than 150,000 recognised startups in India, supporting over 2.1 million direct jobs .
+
+For these firms, messaging apps are important for orders, updates, customer queries, and coordination with vendors and delivery partners . And this work depends on continuity. Forced re-authentication breaks conversations mid-flow, leading to missed messages, delayed responses, failed transactions, and repeated effort.
+
+Even brief interruptions can take over 20 minutes to fully regain focus . If such a disruption happens just once a day for even half of the 2.1 million people employed by startups, it amounts to more than 350,000 lakh work hours lost every day. At scale, these repeated disruptions can erode productivity, trust, and revenue, turning a small technical rule into a systemic problem.
+
+The effects reach consumers too. India is one of the largest markets for messaging platforms and millions of people use multiple devices to stay connected. Surveys show that nearly 40 % regularly use messaging apps on devices without a SIM card , such as Wi‑Fi‑only tablets, laptops, and desktops. Meanwhile, another 32 % does so occasionally: indicating a sizeable user base whose workflows depend on SIM‑less access.
+
+International travellers including over 1.6 million blue collar migrant workers , more than 1.8 million Indian students studying abroad , government officials, professionals, journalists, and sportspersons on overseas tours often rely on mobile phones or international SIMs to communicate with family back home, coordinate remittances, and maintain vital social networks.
+
+For context, more than 30 million Indian nationals travelled abroad, while India received over 20 million international tourist arrivals in 2024. Mandatory SIM binding could restrict access to essential messaging platforms for these multi-device, globally mobile users, disrupting communication channels for them.
+
+Notably, India is also home to one of the fastest growing pools of social and creative users in the world. Snapchat recently reported 250 million monthly active users in India, forming part of the content creator ecosystem of 3.5–4.5 million creators . The industry, already valued at Rs. 12,500 crore in 2024, is projected to grow to Rs. 50,000 crore by 2030 .
+
+If messaging services must adjust session persistence and multi‑device authentication, daily workflows could face friction. Surveys illustrate that many users anticipate inconvenience from frequent re‑authentication, especially across multiple devices. And for creators, advertisers, and small agencies relying on smooth multi‑device access, even minor added friction could pose challenges, slowing productivity and complicating collaboration.
+
+A balanced approach is needed if we want both safety and ease of use. India’s digital progress has grown from low friction and ease of usage. Any friction at scale will weaken that progress. A strict rule could hit startups, micro businesses and anyone who does not fit the single-SIM-single-device pattern.
+
+The first step should be to pause the current implementation timeline and initiate a formal consultation on the regulatory goals, exploring ways to achieve them under the Telecom Cybersecurity Rules. A comprehensive regulatory impact assessment, including an analysis of user implications, must be a key part of this review. Importantly, the DoT’s directive needs to be reviewed with real world patterns in mind.
+
+Further, the DoT should create a technical working group with different stakeholders and independent security specialists to explore solutions that protect security without breaking how people actually use their devices. Any final rule should be neutral to device and service, and based on clear risk standards. Alongside this, India needs a wider anti-fraud plan. This should include fixing the SIM KYC at the root before introducing any new setup of SIM binding.
+
+Notably, any regulation or technical measure should be crafted with a clear principle: protect security without disrupting people’s everyday digital life. A professional might start the day in a café in Jaipur, checking WhatsApp Web for client updates, move to a different phone at the office to coordinate with vendors, use a SIM‑less tablet to track deliveries later on, and connect with family members via SIM-linked devices in the evening.
+
+At every step, rigid SIM binding and frequent re-authentication threaten to interrupt these routines, turning what should be seamless communication into a series of stops and starts. Such real-world patterns show that without flexibility and assessment, even well-intentioned rules can create friction for consumers and small businesses during both work and personal interactions.
+
+The author is a technology policy researcher at CUTS International.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

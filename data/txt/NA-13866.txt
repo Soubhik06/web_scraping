@@ -1,0 +1,67 @@
+The draft National E-Commerce policy, of which MediaNama has aÂ copy Â (pdf), includes debatable requirements like data localisation, an audit of foreign companies’ source code, mandating RuPay on every e-commerce website, using Jan Dhan account transactions to create a creditworthiness profile of individual users, amongst others.
+
+The 19-page policy is representative of the interests of the government-constituted ecommerce think tank.Â It prioritizes e-commerce brands which have already been set up in India, and has clauses that discourage the free inflow of foreign capital in e-commerce. This could end up complicating things for the entire Indian e-commerce ecosystem, including consumers.
+
+The membership to the think tank excludes foreign-based brands like Amazon, Uber, Visa, MasterCard and others while accommodating companies started in India (though not necessarily incorporated here) like Flipkart, Jio, Ola, MakeMyTrip, Infosys, WIPRO, Paytm, and so on.
+
+Like the National Education and the National Telecom Policies which guide the government’s approach for over 10 years, theÂ draft National Electronic Commerce Policy will steer the approach of the government towards e-retailers, digital service providers and anyone else who conducts e-commerce in India.
+
+Localisation mandated and duty waivers : The e-commerce policy mandates localisation of data in India, consistent with the Srikrishna Committee’s draft data protection bill. Localisation is an expensive exercise to undertake, especially in India, where data storage infrastructure is not very developed. In addition to that, there are civil rights objections to requiring the geographical residence of data that travels on the internet, which is a global network of networks. Mandating data residency makes it easier for the government to have access to data without dealing with privacy laws in other jurisdictions, even as the present data protection bill gives the government relative flexibility in accessing personal data.
+
+The policy provides incentives like waivers on import duties and other taxes that are needed to set up data storage centres. There’s a two-year sunset clause by which e-commerce entities would have to move personal data to India.
+
+Read :Â All roads of data sovereignty lead to a dystopia
+
+Access to locally stored data : The government would have access to personal data stored in India for ‘national security and public policy objectives’, per the policy. While this clause will be subject to privacy laws, the data protection bill itself has carve-outs for how the state can use data without consent. Other parts of the Srikrishna Bill â like access to personal data by users â are also implemented.
+
+National Encryption Policy : The Draft National Encryption Policy would have vested the government with a broad and problematic level of access to personal and institutional data held by corporates, with what were effectively vulnerable backdoors and copies of data stored in plaintext. That 2015 policy will be re-examined and ‘fast-tracked’, according to the document.
+
+Social credit database : The policy suggests the creation of a social creditworthiness database using data from bank accounts created under the Prime Minister’s Jan Dhan Yojana, from Aadhaar, and mobile phones (collectively called the “JAM Trinity”). This is being suggested to “promote the healthy development of digital lending (such as NBFC-P2P and crowd funding).” It’s unclear how crowdfunding will be assisted by creditworthiness scores, especially when services like GoFundMe are specifically used by people with low access to formal financial credit.
+
+Requirements on Indian e-commerce platforms : Indian e-commerce platforms that sell Indian-made products would have to be i) managed by Indian leadership , ii) founded/promoted by a resident Indian, and iii) not have foreign equity that exceeds 49% .
+
+This is precisely the kind of restriction that MediaNama had warned against in a regulatory submission on FDI in e-commerce in 2014, to the Department of Industrial Policy & Promotion:
+
+Investments made in e-commerce in India have been spent on building an entire ecosystem of businesses: money has been spent on advertising and marketing, on payment gateways and improving the consumer experience while making payments, on delivery and logistics businesses. Logistics businesses like Chhotu, Gharpay and Delhivery were created purely for supporting the growing demands of e-commerce. Book Publishers and producers of goods have found a much wider market online than offline and are able to cater to a larger base of customers than they would have been offline. Itâs important to note that businesses have already invested, expecting continued growth in the sector, and not allowing FDI in e-commerce will force them to scale down operations.
+
+E-commerce regulator : There will be a nationwide regulator for e-commerce platforms, who will register all e-commerce operators – domestic and foreign. This body would be called the Central Consumer Protection Authority, or the CCPA. It would help consumers register unresolved complaints, and provide a platform to register complaints on fraud.
+
+Preferential treatment towards Indian products, tariffs : The government is essentially reserving the right to give Indian digital services an advantage compared to others. That could be in the form of tax breaks or tariffs on imported products.
+
+Requiring RuPay : RuPay should be mandatory on all e-commerce websites, the policy recommends.Â RuPay is a Visa/MasterCard-like payment network that is created by the National Payments Corporation of India, a union of banks. Government support to NPCI’s products is not entirely unprecedented â the Unified Payments Interface (UPI) is supported by cashbacks financed by the government, as long as the bank has the name “BHIM” attached to its UPI app(s).
+
+2FA on foreign sites : The document says that foreign e-commerce sites should follow Indian 2-factor authentication norms on their payment gateway, when processing payments by Indian cards. According to the draft, this will create a ‘level playing field.’ It’s unclear how the government will implement this policy without raising jurisdictional questions. Also, this would disproportionately affect small e-commerce portals and payment companies which do not have the capability to comply with such country-specific requirements.
+
+Creating an e-commerce platform : Like the the Government e-Marketplace, the policy suggests a similar public-private retail platform only for micro, small and medium enterprises (MSMEs). This suggestion also includes implementing ‘pilot initiatives’ for MSMEs to sell online, like in Moradabad, Ludhiana, Aurangabad, and Meerut. The MSME Ministry will implement this particular suggestion.
+
+Domestic IoT manufacturing : There will be domestic standards for smart devices and the Internet of Things. It’s unclear if this will be limited to safety requirements or extend to technical specifications, which might complicate things for IoT manufacturers if it clashes with their designs in other jurisdictions. This particular suggestion is not very detailed, and TRAI has already, under direction from DOT, issued recommendations after consultation on IoT and Machine to Machine (M2M) communications.
+
+Raising funds domestically : The policy says that it will amend “the 36-month post-listing liquidity restriction on promoters compared to relatively shorter duration in some major jurisdictions”. This would also involve “incentivizing investment by large Indian companies in start-ups”. The policy also recommends raising the cap on how much pension funds can go into investing in venture capital, and recommends that e-commerce startups in ‘the growth stage’ can list themselves on bond markets. The policy does not go into specifics on how incentivising investment by large Indian companies will happen.
+
+Facilitating angel investors : The policy suggests that the Departments of Revenue and Economic Affairs amend tax laws to create a “facilitative environment” for angel investors. Angel investments above â¹10 crore are currently taxed as revenue.
+
+The policy also recommends that founders should have a greater say even if their shareholding percentage is low.
+
+Taxation of foreign-owned companies : Companies like Amazon could face more tax scrutiny, since the “significant economic presence” doctrine for determining what counts as a taxable “permanent establishment” would be used. This would mean that the geography of an e-commerce platform would be less important than the scale of economic activity it has in India. GST provisions that burden SMEs will also be re-examined, while a goods return policy for products sent over courier is proposed to be devised. “The non-inclusion of certain services in the definition of the Online Information Database Access and Retrieval (OIDAR) Services would be reviewed,” the policy says, hinting at greater enforcement of taxing digital products sold from abroad to Indian residents.
+
+Bulk electronics purchase prohibited : E-commerce players would be prohibited from buying phones and expensive large electronics in bulk, thereby distorting the market price of those products. It’s worth noting that last month, the European Union slapped a giant fine on four companies, including Asus and Philips, for doing something similar. The companies were finedÂ â¬111 million for fixing prices by mandating that retailers carry the price tag they dictate, resulting in inflated market prices.
+
+These restrictions will also apply to the ‘group companies’ that run these marketplaces. For instance, Home18 will have to apply the same pricing rules â without distortion â in both its online marketplace and its physical retail locations.
+
+More CCI oversight on mergers : Mergers & acquisitions below the ‘de minimis’ (i.e., the amount of money a deal is worth at which CCI actually starts paying attention) in e-commerce that might have anti-competitive outcomes would have more oversight.
+
+Disclosures : E-commerce entities would be required to disclose their data collection practices to consumers and share terms & conditions in a simplified format. The former requirement is consistent with the Srikrishna Committee’s Data Protection Bill.
+
+Spam : This part involves finalizing TRAI’s spam SMS recommendations, and also covers email, which TRAI’s consultation â and jurisdiction â does not cover. The government and regulators describe spam over SMS and email as “Unsolicited Commercial Communications.” TheÂ TRAI has a draft regulation of SMS and call spam that is being finalized.
+
+Source code disclosure : “The grounds for seeking disclosure of source code to government wouldÂ  be expanded to include situations of unfair trade practise, fraud and compliance with domestic regulatory requirements,” the policy recommends. This will surely unnerve civil rights activists â in fact, the US Congress just passed a law requiring tech companies to disclose if they have ever had their source code audited by a foreign government. “The policy space to seek disclosure of source code would be retained by not taking any commitments on this issue in international trade negotiations,” says the draft.
+
+Government processes through e-commerce : The policy aims to make government processes easier through e-commerce by i) setting up an electronic data interchange platform for the Department of Posts and customs authorities, among others, to exchange information; ii) including e-commerce in the National Integrated Logistics Plan; iii) increasing the limit of â¹25,000 under the Courier Imports and Exports (Clearance) Regulation, 1998; iv) permitting international airports and other export & manufacturing hubs to facilitate export shipments; and v) using RBI systems to improve transaction clearance data.
+
+Duties on large shippers : There will be KYC requirements and limits imposed on how much individual overseas shippers can send to India duty-free. This could impact sites that ship a large quantity of consumer goods to India from abroad, as their customers would now need to pay an import fee deposit for shipments to happen smoothly. This is how overseas-based products on Amazon are currently sold.
+
+The above recommendations are proposed to be implemented by a single legislation, which will also set up the CCPA.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

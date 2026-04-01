@@ -1,0 +1,37 @@
+with inputs from Vallari Sanzgiri
+
+On June 11, the Fourth broke the news that a Telegram bot was leaking information about people who had received COVID-19 vaccination. The bot allowed one to simply enter someone’s phone number and receive details like the person’s Aadhaar number, vaccination status, gender, and date of birth. B esides vaccination details, the bot was also revealing other private information such as Voter IDs, passport numbers, and details of family members. The leak is reported to be a result of the CoWIN portal where people’s vaccination details had been registered. The bot was reported to Telegram and has now been deactivated.
+
+Such a leak of private information reveals the presence of major vulnerabilities in India’s health data infrastructure – making a large population of the country (those who vaccinated themselves against COVID-19) susceptible to scams and identity theft.
+
+The bot allowed people to find information about many members of the parliament, including the chairperson of CoWIN (and also a key player in the development of Aadhaar), Ram Sewak Sharma. It is worth noting that Sharma didn’t use his Aadhaar card during the vaccination process. This was because his Aadhaar number had been used by someone else to get vaccinated, which creates doubts about the safety of Aadhaar numbers (Context: In 2021, Sharma had challenged Twitter user @kingslyj to show him how making his Aadhaar number public could be harmful).
+
+Ram Sewak Sarma, chairman of CoWin high power panel, didn’t give his pet Aadhaar ID for covid vaccination. He submitted his passport no to get vaccinated. This is among a sea of personal data of those who vaccinated availavailable on @telegram (1/6) pic.twitter.com/ql7GdVmFeu
+
+— B Sreejan (@b_sreejan) June 12, 2023
+
+If it is so easy for people to use another person’s Aadhaar number to get vaccinated, one might wonder if the claims of CoWIN – of administering over 200 crore vaccinations – are legitimate or not. Srikanth Lakshmanan, a member of CashlessConsumer (a consumer collective working on digital payments awareness), tested the bot against the Aadhaar numbers of Hanuman (yes, the mythological figure Hanuman) and Pakistani Spy Mehaboob (both these numbers were supposed to be deactivated since 2016) to find that both received five or more vaccinations, making one even more doubtful of the legitimacy of India’s vaccination drive.
+
+This data breach comes at the same time as the G20 Development Ministers’ Meeting, where Sharma discussed Aadhaar and CoWIN, saying how India’s digital public infrastructure is “replicable across the world”. But ironically, the breach makes it evident that even if it is replicable, it might not be in the best interests of other countries to copy it.
+
+Sharma discussed that India’s digital ID infrastructure was first discussed in 2009, “Privacy was not that important at that point in time, but privacy by design was inculcated into that project [The Aadhaar project].” This lack of importance towards privacy seems to reflect in CoWIN as well. He connected Aadhaar to CoWIN and said – “In CoWIN, this digital identity [Aadhaar], the OTP, the mobile, they all played an extremely important role.” He added that “we designed CoWIN to be a system of open APIs, open standards so that others could connect because we were aware that [a] single application will not be able to do the job. And today, you have 135 applications connected with CoWIN.” But while he discussed CoWIN and its structure, he didn’t make any statements about the data leak.
+
+According to a tweet by Rajeev Chandrasekhar, (the incumbent Minister of State for Skill Development and Entrepreneurship and Electronics and Information Technology), CERT-In (The Indian Computer Emergency Response Team) has assessed the data leak and found that the data being thrown up by the Telegram bot was from a threat actor database made up of breached/stolen data from the past. He said that it doesn’t look like the CoWIN app or database has been directly breached. He does not provide clarification on said data reached the threat actor and how the situation will be addressed.
+
+Medianama has reached out to NHA requesting further information on the leak and how the authority intends to address it. We will update the story once we receive a response from them.
+
+With ref to some Alleged Cowin data breaches reported on social media, @IndianCERT has immdtly responded n reviewed this
+
+✅A Telegram Bot was throwing up Cowin app details upon entry of phone numbers
+
+✅The data being accessed by bot from a threat actor database, which seems to…
+
+— Rajeev Chandrasekhar ?? (@Rajeev_GoI) June 12, 2023
+
+Note : This article’s headline was updated on June 12th, 2023, at 5:46 pm to correct a typographical error.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

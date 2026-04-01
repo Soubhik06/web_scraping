@@ -1,0 +1,57 @@
+The Reserve Bank of India’s (RBI) FREE-AI Committee has outlined several recommendations for responsible AI integration in the financial sector. These include the creation of an AI sandbox, development of indigenous sector-specific models, cybersecurity measures, and consumer protection, among others.
+
+The suggestions aim to develop a Framework for Responsible and Ethical Enablement of Artificial Intelligence (FREE-AI) in the financial sector, as stipulated during the Committee’s establishment in December 2024.
+
+This followed the RBI cognising that risks such as data privacy and algorithmic bias accompanied the potential of AI to automate complex processes. Accordingly, the Committee comprised members who have worked for industry bodies like NASSCOM, educational institutions like IIT Bombay and IIT Madras, companies like Microsoft, and financial bodies like HDFC Bank.
+
+The Committee adopted a four-pronged approach—stakeholder engagement, surveys & interactions, review of global developments, and analysis of extant regulatory guidelines to develop their findings.
+
+AI has been integrated into several business functions in the financial sector, like risk management, fraud detection, and customer service. Institutions can utilise AI for credit scoring, handling chatbot queries, forecasting early warning signals, and improving efficiency overall.
+
+Several India-specific use cases for AI include:
+
+RBI’s Department of Supervision (DoS) and the FinTech Department (FTD) conducted two surveys of 612 supervised entities and 76 entities between January and May 2025, respectively. These tests aimed to gauge the current state of AI adoption across the financial sector. The key findings were as follows:
+
+Risks engendered by AI may undermine market integrity, erode consumer trust, and amplify systemic vulnerabilities. These include:
+
+Noting the integration of AI into the financial services sector, several jurisdictions have explored different policy approaches.
+
+European Union (EU): The EU AI Act is a central omnibus law that requires all AI applications to adhere to a central framework regardless of the sector. The Act also categorises the impact of a model based on various parameters, tokens, amount of compute, modalities, etc. Notably, AI systems have been classified into unacceptable, high, limited, and minimal risk categories.
+
+United Kingdom: This jurisdiction has a pro-innovation approach to AI, as promoted by the Artificial Intelligence (Regulation) Private Members’ Bill . The UK allows sectoral regulators to decide the necessity for enacting subordinate legislation or being more proactive about how the new harms caused by AI should be covered.
+
+China: The East Asian country’s approach is defined as layered, regulating different kinds of AI, like fake news, generative AI, and algorithmic regulations under broad guiding principles and elaborate binding administrative regulations. It is embodied by the enactment of principles like the Interim Measures for the Management of Generative AI Services, 2023, and the AI Content Labelling Rules, 2025.
+
+Singapore: This jurisdiction follows the approach of co-regulation based on a multi-stakeholder approach, with a view to strengthen its public-private digital economy and ensure responsible innovation in the fintech ecosystem. It is exemplified by the Model AI Governance Framework for Generative AI, the Veritas Toolkit and the FEAT (Fairness, Ethics, Accountability and Transparency) principles.
+
+India’s position concerning AI aims to foster innovation while addressing ethical and governance concerns. Accordingly, the NITI Aayog’s National Strategy for Artificial Intelligence delves into leveraging AI across sectors like healthcare, education, and others. Additionally, the IndiaAI Mission, with a Rs 10,372 crore financial outlay and seven strategic pillars, aims to democratise access to compute infrastructure, among other objectives.
+
+Moving forward, in 2025, the Securities and Exchange Board of India (SEBI) released a consultation paper on responsible usage of AI/ML in the Indian securities market. The report made several recommendations on aspects like investor protection-disclosure, model governance, data privacy, and fairness & bias.
+
+Besides this, RBI has undertaken a regulatory approach which is technology agnostic and operates with the principles of fairness, transparency, accountability, etc. In that regard, existing RBI regulations address key aspects of AI governance across different tasks:
+
+Based on the analysis of global precedents, India’s regulations, and stakeholder surveys, the Committee has formulated seven ‘ Sutras ‘ or foundational principles for AI deployment in the financial sector:
+
+Accordingly, the Committee proposes two frameworks—the Innovation Enablement Framework and the Risk Mitigation Framework—with different pillars.
+
+This aspect focuses on enabling opportunities, removing barriers, and accelerating AI adoption. Its pillars are as follows:
+
+For AI in finance, infrastructure comprises data ecosystems, compute capacity, and public goods powering experimentation.
+
+Policies related to financial services should remain flexible, proactive, and future-ready.
+
+Individuals, teams, and institutions should be equipped with knowledge, skills, and the necessary mindset to encourage innovation.
+
+This aspect focuses on ensuring that AI is deployed safely and responsibly. Its pillars are as follows:
+
+RBI urges a transparent and accountable governance structure that ensures alignment with regulatory expectations, ethics, and business objectives.
+
+The protection of data, confidential information, and consumer interests is important to build trust.
+
+This pillar deals with oversight throughout the AI lifecycle, and focuses on monitoring emerging risks and feeding those insights into system-wide responses.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

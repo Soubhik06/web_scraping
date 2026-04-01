@@ -1,0 +1,23 @@
+SUBREDDIT: r/Scams
+TITLE: Chase credit card scam
+DATE: 2020-08-07
+SCORE: 3
+URL: https://www.reddit.com/r/Scams/comments/i50ycz/chase_credit_card_scam/
+
+--- POST TEXT ---
+
+I hope I'm posting this in the right spot. If it goes down, it goes down. I tried to login to Chase to pay down literally $8.08 on my account. It went somewhere different. This is what I just sent Chase fraud department:
+
+&amp;#x200B;
+
+ 
+
+I tried to login today to pay on my card and typed on chase on google. It showed the link I always click to pay this card. When I went to login, it had a weird pause which showed this URL,  [https://yocbs.s3.us-east-2.amazonaws.com/index.html?url=https%3A%2F%2Fwww.chase.com&amp;id=5](https://yocbs.s3.us-east-2.amazonaws.com/index.html?url=https%3A%2F%2Fwww.chase.com&amp;id=5)  and a couple seconds later it went to an almost believable login screen which has this URL  [http://168.62.162.255/?url=https%3A%2F%2Fwww.chase.com&amp;id=5](http://168.62.162.255/?url=https%3A%2F%2Fwww.chase.com&amp;id=5) . Nothing on this site can be clicked, only user name and password. Even if you don't enter anything but then click login, it sends you here, [http://168.62.162.255/error-page.html](http://168.62.162.255/error-page.html) and looks like this
+
+📷
+
+I called the number because I forgot my login info and got a gentleman with a light Indian accent. He then did NOT ask me any security info, he proceeded to TELL me where I lived, what my phone number was and said he would need to access my computer to find the suspicious activity on my computer. I told him there was no way that was happening and I hung up. So now I'm running all kinds of scans on my computer to find out what is going on. I wanted to let you know this and I would be happy to talk to anyone on your team that has any interest in this scam.
+
+&amp;#x200B;
+
+Has anyone else run into this issue? I've run scans on this pc and nothing has come up. Fuck these scamming assholes!!!

@@ -1,0 +1,53 @@
+“…it would be a fallacious assumption that low internet penetrations and speeds warrant that the OTT services should be kept out of the regulatory framework just to facilitate their growth.”
+
+Reliance Jio in its submission to the TRAI, has argued ( pdf ) for a free market approach for VoIP and communication services, but, from what it seems, with their own variation of the definition of a free market. Notes from their response to the TRAI paper that looks at Licensing and regulation of apps and Internet companies in India, as well as Net Neutrality:
+
+1. Registration of Internet communications apps to address security issues:
+
+Reliance Jio doesn’t want a licensing regime for Internet services, but wants some kind of a regulatory framework to address security concerns, with communication services like Whatsapp and Viber, to bring them on par with telecom operators.
+
+Oddly enough, there is no a need for license, according to Jio, but it also says there can be a nominal entry fee and a minimal license fee. The paper cites an app called Voxox, which allows subscribers to make voice calls by assuming the identity of another person.
+
+Jio want these services to adhere to the same set of security standards as telecom operators, which include:
+
+Our take: Licensing by another name remains licensing. Note that Jio has its own chat service Jio Chat, and is likely to have its own voice calling service. What it is doing here is increasing the burden on online communications apps to bring them on par with its own services, and also giving the government the right to refuse an app to be allowed in India, without saying that there should be licensing. Registration is a “light tough” form of licensing, and it does mean that Indian consumers may not get access to the latest global communications apps, if they don’t register with the government or host in India. Would whatsapp have grown if it had needed to take permission to operate in India?
+
+2. Regulation of other (non communication) Internet companies: To quote from the paper –
+
+“Other OTTs (who strictly do not offer any communication services) need not adhere to such security requirements, however there may be certain sector specific requirements that may be relevant for these OTTs and therefore it is only fair that there is a clear and transparent regulatory framework mechanism that addresses these requirements.”
+
+“All types of OTT services should be brought under minimal and simplistic regulatory framework…”
+
+“In fact India’s OTT landscape is still taking shape and we believe that for increasing the broadband penetration and growth of OTT services to ensure greater good to the common public, it is the right time to place an appropriate regulatory framework. Subsequent to enhancement of the ecosystem, it will be difficult to implement a new regulatory framework.”
+
+3. Zero rating, differential pricing of communications and other apps: Jio cites the TRAI position that telecom operators “shall not in the matter of applications of tariffs, discriminate between subscribers of the same class and such classification of subscribers shall not be arbitrary” and says that “as long as pricing is compliant with regulatory principles of inter-alia non discrimination and non-predation, it should be allowed.” It has also supported bilateral arrangements between stakeholders. Also:
+
+Some form of price prioritisation for India based OTT apps could also be considered within the contours of Net Neutrality (Editor: how exactly? Price discrimination is a part of Net Neutrality) as it is a fact that cost to make data available from India based OTT apps will be lesser than other apps, and this benefit could be attributed to India based OTT apps. However, this should be done responsibly without breaching any net neutrality principles or anti-trade practices.
+
+Our take: In our opinion: Jio doesn’t say whether there should be a discrimination between apps, only between subscribers, indicating that it isn’t opposed to discrimination between apps. It also says that pricing which is non discriminatory and non predatory should be allowed, and bilateral arrangements be allowed, thus supporting the Airtel Zero approach (or at least, what Airtel said it would be).
+
+4. No commercial charges on Internet communication services , since consumers are already paying.
+
+5. With evolution of technology, revenue streams (data vs traditional) will align accordingly:
+
+Jio has said that the data revenue is an integral part of traditional revenue stream of telecom operators. With the evolution of technology, revenue streams shall align itself accordingly. Today, the company says, data is kept at much lower tariffs in order to increase proliferation of data, however and if communication services start cannibalisng the voice revenue of telecom operators in a significant manner, the market forces will warrant a correction in data tariffs or other revenue streams may start.
+
+6. No regulation of subscription charges: Regulating subscription charges for communication services will interfere with the business model adopted by internet communication services.
+
+7. Content and application providers cannot be forced to bear telecom network upgradation costs.
+
+8. Net neutrality definition: Net Neutrality has no widely accepted definition, says Jio, but at the most basic level it implies that the service providers shall not discriminate in different data packets in any manner. It usually means that telecom operators can charge consumers only once for internet access without discriminating between content providers and content over the network.
+
+9. Data protection: Jio says that there are precedents in terms of data protection regulation, with European Commission with its current proposal on Data Protection Regulation, and Brazil with its Internet Civil Framework Act, both pushing for internet services to abide by the data protection rules of their customers‘ countries.
+
+Jio suggests that the TRAI may prescribe a list of “good to have” norms for consumer security, safety and privacy, including disclosure: – Of information on use of https protocol for financial transactions – Of information of fraud management policy and an information security policy – for the framework put in place for ensuring consumers security, safety and privacy
+
+[embeddoc url=”https://www.medianama.com/wp-content/uploads/Reliance-Jio-TRAI-OTT-April-2015.pdf” download=”all”]
+
+With inputs from Shashidhar KJ
+
+Disclosures: – I am a volunteer with the SaveTheInternet.in Coalition which is against licensing and net neutrality violations. – MediaNama has long supported Net Neutrality.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

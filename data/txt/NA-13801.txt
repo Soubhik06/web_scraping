@@ -1,0 +1,43 @@
+PhonePe launched a new e-commerce app called Pincode that works on ONDC. We’ve covered the key features of the app as well as why PhonePe is launching a separate app rather than integrating ONDC with its main app in detail here .
+
+In the press release and at the launch event, PhonePe repeatedly talked about how it wants to bring the digital revolution to local offline sellers, but the app launched by PhonePe does not directly contribute to bringing local sellers online because Pincode is a “buyer app” on ONDC and not a “seller app.”
+
+Here are some excerpts from the press release and launch event:
+
+“Pincode app will promote local shopkeepers and sellers and hopes to digitally connect each city’s consumers with all their neighborhood stores that they usually buy from offline.”
+
+“Pincode will invest significant effort in digitally enabling every Indian shopkeeper spread across every nook and corner , over the next few years. This will help our offline businesses to participate in the e-commerce revolution of the 21st century.” (emphasis ours)
+
+“At its core, ONDC has been created with a vision to allow every physical retail business in the country and service provider in the country to participate in this ongoing digital revolution, the e-commerce revolution.”
+
+“When you break down the problem statement from a national problem statement to a local problem statement, I think a couple of magical things happen. First of all, you start relating to that storekeeper because that shopkeeper, that service provider lives in those communities. There’s a face to them. There’s a relationship with them. There’s a brand preference with them.”
+
+“We should be able to connect digitally with our local businesses and support them and work with them starting local. That’s our first motto.”
+
+Jargon buster – buyer app vs seller app: A buyer app on ONDC allows consumers to browse and buy products from all sellers that are on ONDC. The app doesn’t directly onboard any sellers. Rather, it merely aggregates whatever information it receives from seller apps, which are apps that onboard businesses onto ONDC. For more on how the network works, check out our ONDC explainer here .
+
+PhonePe has many unique advantages if it launches a seller app: There are many seller apps out there on ONDC doing the work of onboarding merchants. Examples include Bizom, Digiit, EkSecond, Enstore, eSamudaay, eVitalrx, GoFrugal, Growth Falcons, ITC Store, nStore, Seller App, uEngage, UShop, etc. When we spoke to some of these apps, they talked about the challenges they face in onboarding new sellers, especially Kirana stores.
+
+PhonePe is in a unique position to do well with a seller app. The company already has a vast base of merchants who are on its UPI platform. The PhonePe QR codes at every nook and corner are an example of this. In December 2021, the company said that it has digitized over 2.5 crore merchants in India. This number will likely be far higher now considering the rate of digital growth the country has witnessed in the last 1.5 years.
+
+Given the vast on-ground presence and the company’s extensive experience in onboarding merchants onto its UPI platform, a seller app from PhonePe would make sense, but PhonePe has made no indication of any such app.
+
+More scope for innovation in seller apps: All buyer apps on ONDC are expected to show products from all seller apps. There are even policies on how these products and sellers must be ranked. Because of this, there doesn’t appear to be much scope for innovation with buyer apps. Any two buyer apps are not going to be entirely the same, but it will be hard for companies to really offer differentiating features that will make an impact. A seller app, on the other hand, can stand out in many ways such as the types of sellers it focuses on, the cities, the efficiency of onboarding, the number of sellers it has onboarded, etc.
+
+Lesser competition with sister companies Flipkart, Myntra, and Flipkart Health Plus with a seller app: Walmart owns both Flipkart and PhonePe. By launching an e-commerce buyer app, PhonePe directly competes with its sister company Flipkart, which not only has a namesake e-commerce platform that is currently one of the two largest e-commerce platforms along with Amazon, but also owns fashion retailer Myntra and online pharmacy Flipkart Health Plus. PhonePe would be competing with all these companies for the same buyers. How would this play out in the long run?
+
+But with a seller app, PhonePe would not be in as direct competition because it can focus on different types of sellers and categories. Competition with its sister companies is, however, not eliminated entirely because, after all, all these apps will be vying for a chunk of India’s vast e-commerce pie.
+
+Seller apps might be subject to fall-back liability: While the headline suggests PhonePe should launch a seller app, there is one important reason why a buyer app is a safer bet for PhonePe. One major compliance burden with being a seller app is that you may be subject to “fall-back liability.” We recently reported that the Indian government is considering a provision to subject e-commerce firms to fallback liability, which would make platforms liable for harm caused or fraud perpetrated by sellers. For example, if a third-party seller sends a defective home appliance that causes harm to consumers, the platform that enabled this sale will also be subject to liability. With ONDC, the seller app is likely subject to this fall-back liability because the buyer app doesn’t do any onboarding or vetting of merchants. Buyer apps merely aggregate sellers and products broadcasted on ONDC by seller apps.
+
+For example, PhonePe CEO Sameer Nigam commented on how Pincode will list all sellers “democratically” because of which Pincode will have little control over which sellers are listed on its app.
+
+“We don’t know what all the sellers want to sell, what all the sellers are selling today, what they’ll be selling tomorrow. Since we have no role to play in enabling the selection other than the discovery, it’s a vast ocean.” — PhonePe CEO Sameer Nigam
+
+The burden of fall-back liability could disincentive companies from building seller apps. It’s not clear if this was one of the factors why PhonePe decided to build a buyer app instead.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

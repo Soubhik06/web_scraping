@@ -1,0 +1,23 @@
+SUBREDDIT: r/india
+TITLE: Is there a way to report UPI scammers?
+DATE: 2022-04-29
+SCORE: 5
+URL: https://www.reddit.com/r/india/comments/uegfjt/is_there_a_way_to_report_upi_scammers/
+
+--- POST TEXT ---
+
+So I came across this interesting way of scamming people:
+
+1. These scammers created a fake page and run Facebook ads(the page was “LadieKurti.com)
+
+2. After the UPI payment(Google Pay), the order never came.
+
+3. Upon calling for refund they mentioned, you’ll get an SMS now, please forward it to a phone number. SMS was UPIREG—- message and the number was IDBI Paywiz phone number
+
+4. And once done, they’d ask your OTP. Presumably, to register UPI from their phone. (Not sure how this is possible. Wouldn’t UPI check if the code received is actually from the phone number ? )
+
+The mistake with a family member was she did step 3, but didn’t do step 4. I asked her to change UPI PIN asap. 
+
+I can name and shame these scammers by sharing their phone numbers here, but not sure what r/India rules are about that. 
+
+Is there a better way to inform authorities about this scam? We’ve already raised “Fraud transaction” in Google pay and raised Facebook complaint about scam page.

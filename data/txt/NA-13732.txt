@@ -1,0 +1,39 @@
+The Department of Telecommunications (DoT) has issued directions to app-based communication service providers to make it impossible for their users to use services without a SIM. This comes after the DoT notified the Telecommunication Cybersecurity Amendment Rules, 2025, which bring in the category of telecommunication identifier user entity (TIUE) under the scope of telecom regulations. The amendment introduced a new category of service provider called the Telecommunication Identifier User Entity (TIUE), which would fulfill a range of cybersecurity obligations, including using a Mobile Number Validation (MNV) Platform to verify the customers or users associated with a telecommunication identifier for services linked to such an identifier. Besides validation, the government can also direct TIUEs to stop using a specific telecom identifier to identify customers or deliver services.
+
+When the rules were first introduced , many raised concerns that the TIUE category was too broad and would cover almost any business collecting customer phone numbers to provide a service. This could range from food delivery platforms like Swiggy or Zomato to a local grocery store sending e-receipts via mobile numbers.
+
+The new directions, which have been sent to WhatsApp, Telegram, Signal, Arattai, Snapchat, ShareChat, JioChat, and Josh, effectively recognise these companies as TIUEs. They require platforms to ensure that SIM cards remain continuously linked to their services within the next 90 days. For website or web-app-based access, TIUEs must ensure users are logged out periodically (not later than 6 hours) and must offer an option to relink accounts through a QR-code-based method.
+
+According to the directions, the government has observed that some apps using mobile numbers for customer validation allow access even when the underlying SIM is not present in the device. The government argues that this creates vulnerabilities exploited from outside India to commit cyber fraud. This reasoning aligns with the Cellular Operators Association of Indiaâs (COAI) August statement supporting SIM binding.
+
+âPresently, the binding process between a subscriber’s app-based communication services and their mobile SIM card occurs only once during the initial installation and verification phase, after which the application continues to function independently on the device even if the SIM card is later removed, replaced or deactivated,â the industry body had explained.
+
+This creates situations where a removed SIM does not prevent the use of an OTT communication app for criminal activity from any location. Without an active SIM, authorities have no verifiable link, such as call records, location data, or carrier logs, to establish where the service was used. As such, COAI suggested persistent SIM binding on OTT communication services, which remains active beyond initial installation.
+
+âThis would ensure that the communication service cannot operate without the authenticated SIM physically inserted in the device, maintaining critical traceability between the user, the number and the device. COAI believes that this will not only help reduce the occurrence of spam and fraud communications significantly over these applications, but also help mitigate financial frauds by acting as a deterrent against misuse of app-based communication platforms, thus bringing relief to both the telecom service providers and the OTT communication platforms,â the Association had mentioned in its statement.
+
+Several financial applications, including banking and Unified Payment Interface (UPI) apps, already enforce strict active-SIM rules to prevent fraud .
+
+In February , the Securities and Exchange Board of India (SEBI) proposed hard-binding trading accounts to SIM cards, similar to the UPI system, ensuring only the actual trader can access the account. SEBI also suggested mandatory biometric or facial recognition checks to mitigate unauthorised trading risks.
+
+At a 2023 MediaNama event , cybersecurity researcher and DeepStrat co-founder Anand Venkatnarayan explained that scammers frequently use loaned or forged IDs to procure SIM cards, bypassing KYC norms.
+
+âThey need 10 SIM cards for scamming a hundred victims; they donât reuse SIM cards,â he said. He added that the scammers only need to procure two to three IDs per year to conduct their activities. In such cases, binding communication services to SIM cards may offer limited benefits, as fraudsters can simply acquire new SIM cards and resume operations.
+
+Interestingly, industry professionals had pointed out similar concerns during MediaNamaâs discussion on the telecom cybersecurity amendment rules when they were in a draft stage. âVideo KYC verification process through the ASTR database has been there for at least two years. Frauds have not reduced. So if frauds have not reduced, how is bringing the same identifier to a different ecosystem going to increase trust?â MediaNama Editor Nikhil Pahwa asked. ASTR is the AI- and facial-recognition-powered telecom subscriber verification system deployed by the DoT in 2023.
+
+Pahwa also questioned whether the rules adequately address the issue of mule accounts. Responding to this, COAI Deputy Director General Vikram Tiwathia said the governmentâs goal is to maximise the usefulness of the telecom database.
+
+âNow, where is the Government coming from? You see, there is a serious problem of cybersecurity plus fraud. Which is the most prevalent KYC? Is the mobile number devices. Correct. Thatâs the most prevalent, most updated, most monitored compared to any other device. So, the intent of the Government is, how can I squeeze more juice out of this national resource?â he said.
+
+Note: We will update this copy throughout the day with commentary and concerns.
+
+Note: The story was updated on November 29, 2025 at 3:19 PM to add commentary around the development.
+
+Note: The headline of this copy was updated for more clarity based on the editorâs input at 4:12 PM on 02/02/2025.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

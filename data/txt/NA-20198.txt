@@ -1,0 +1,87 @@
+SUBREDDIT: r/india
+TITLE: India: Surveillance state - Part 1
+DATE: 2015-08-30
+SCORE: 336
+URL: https://www.reddit.com/r/india/comments/3ixc34/india_surveillance_state_part_1/
+
+--- POST TEXT ---
+
+We at /r/india are bunch of people who are pretty familiar with the technology we use. Unfortunately, we also lack the basic understanding of what our government and Intelligence agencies are doing when it comes to phone and internet surveillance. We are in a situation where we know more about USA's surveillance capabilities than what is going on in our own backyard.
+
+There are a lot of reasons for this(in no particular order):
+
+* Our population is mostly made up of technological illiterates and have only rudimentary understanding of privacy.(Despite media coverage)
+
+* Our lawmakers are not keen on spending time on issues that doesn't have a significant outrage associated with it.
+
+* Lack of transparency in every bureaucratic avenue. We have laws that provide us with laws pertaining to privacy, but they are so outdated that they don't carry over to our generation. We don't know what is legal and what isn't(even the government can't seem to figure out).
+
+This post is about technology(and vague laws) our government and intelligence agencies are deploying to keep tabs on her citizens and residents.
+
+Coming to the meat of the topic, [Reporters without borders](http://12mars.rsf.org/2014-en/2014/03/10/india-big-brother-up-and-running/) published a report specific to surveillance laws and they say the following w.r.t IT act - some of the egregious parts of the act include:
+
+Section 67 - *Punishment for publishing or transmitting obscene material in electronic form. -Whoever publishes or transmits or causes to be published or transmitted in the electronic form, any material which is lascivious or appeals to the prurient interest or if its effect is such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it, shall be punished on first conviction with imprisonment of either description for a term which may extend to three years and with fine which may extend to five lakh rupees and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to five years and also with fine which may extend to ten lakh rupees.* 
+
+Section 69 - *Where the Central Government or a State Government or any of its officers specially authorised by the Central Government or the State Government...... for reasons to be recorded in writing, by order, direct any agency of the appropriate Government to intercept, monitor or decrypt or cause to be intercepted or monitored or decrypted any information generated, transmitted, received or stored in any computer resource.* 
+
+Sec 69 is one of the worst pieces of legislation(amended in 2008 without a debate made it even more draconian) which basically gives unbridled access to an individuals' private information. The law also punishes people who refuse to decrypt private data if requested by authorities.
+
+Further information on Section 69 of the IT Act and why it should be repealed along with 66A [(1)](http://archive.indianexpress.com/news/yes-snooping-s-allowed/419978/0) [(2)](http://www.medianama.com/2015/03/223-section-69-it-act-india/)
+
+There is no possible reason for the agencies to punish users who refuse to decrypt their private data. This law presumes guilt(it doesn't matter what the contents of the encrypted device ) and should be unconstitutional. 
+
+Section 80 - *Any police officer, not below the rank of a Deputy Superintendent of Police, or any other officer of the Central Government or a State Government authorised by the Central Government in this behalf may enter any public place and search and arrest without warrant any person found therein who is reasonably suspected of having committed or of committing or of being about to commit any offence under this Act. Explanation.-For the purposes of this sub-section, the expression "public place" includes any public conveyance, any hotel, any shop or any other place intended for use by, or accessible to the public.*
+
+In April, 2011 the goverment released a notification for Internet cafe owners.. making it mandatory for them to store all the clients' information(search and browsing history) for one year. [Source](http://deity.gov.in/sites/upload_files/dit/files/guidelines4cybercafe0702_11.pdf) [Article with much more information and how to interpret the guidelines](http://trak.in/tags/business/2011/04/26/cyber-cafe-rules-india-guidelines/)
+
+The hardware and teams involved: 
+
+The first is **CMS** or **Cental Monitoring System**. This was planned in the aftermath of 26/11 in 2009 and only became public knowledge in 2013. CMS has been in operation since 2011. CMS involves the following committees/organizations:
+
+* [Centre for Development of Telematics (C-DOT)](http://www.cdot.in/home.htm) -Which manages and operates CMS 
+
+* [Centre for Communication Security Research and Monitoring (CCSRM)[Unverified source]](http://ictps.blogspot.com/2011/05/indian-centre-for-communication.html) 
+
+* [Telecom Testing and Security Certification (TTSC)](http://pib.nic.in/newsite/PrintRelease.aspx?relid=101720) - The Department of Telecommunications has decided to setup the Telecom Testing and Security Certification Centre to develop systems, processes, adopt/develop security standards, test tools, etc., for security testing and certification of telecom equipment. Based on these standards, processes and tools, the Centre can accredit the test labs for security testing and certification of telecom equipment used by various Telecom service Providers.
+
+* [Telecom Enforcement Resource and Monitoring (TERM)](http://www.dot.gov.in/sites/default/files/Telecom%20Enforcement.pdf)
+
+[Center for Internet and Society(CIS)]( http://cis-india.org/internet-governance/blog/india-central-monitoring-system-something-to-worry-about) did a detailed write up on CMS. Excerpts from the report:
+
+CMS has been operated by India's Telecom Enforcement Resource and Monitoring (TERM) cells, and has been implemented by the Centre for Development of Telematics (C-DOT), which is an Indian Government owned telecommunications technology development centre. The CMS has been implemented in three phases, each one taking about 13-14 months. As of June 2013, government funding of the CMS has reached at least Rs. 450 crore (around $72 million).
+
+In order to require Telecom Service Providers (TSPs) to intercept all telecommunications in India as part of the CMS, clause 41.10 of the Unified Access Services (UAS) License Agreement was amended in June 2013. In particular, the amended clause includes the following:
+
+&gt; “But, in case of Centralized Monitoring System (CMS), Licensee shall provide the connectivity upto the nearest point of presence of MPLS (Multi Protocol Label Switching) network of the CMS at its own cost in the form of dark fibre with redundancy. If dark fibre connectivity is not readily available, the connectivity may be extended in the form of 10 Mbps bandwidth upgradeable upto 45 Mbps or higher as conveyed by the Governemnt, till such time the dark fibre connectivity is established. However, LICENSEE shall endeavor to establish connectivity by dark optical fibre at the earilest. From the point of presence of MPLS network of CMS onwards traffic will be handled by the Government at its own cost.”
+
+Other than this draft Rule and the amendment to clause 41.10 of the UAS License Agreement, no law exists which mandates or regulates the Central Monitoring System (CMS). This mass surveillance system is merely regulated under Section 5(2) of the Indian Telegraph Act, 1885, which empowers the Indian Government to intercept communications on the occurence of any “public emergency” or in the interest of “public safety”, when it is deemed “necessary or expedient” to do so in the following instances:
+
+* the interests of the sovereignty and integrity of India
+* the security of the State
+* friendly relations with foreign states
+* public order
+* for preventing incitement to the commission of an offense 
+
+All data intercepted by TSPs is automatically transmitted to Regional Monitoring Centres, and subsequently automatically transmitted to the Central Monitoring System. This means that not only can the CMS authority have centralized access to all data intercepted by TSPs all over India, but that the authority can also bypass service providers in gaining such access. This is due to the fact that, unlike in the case of so-called “lawful interception” where the nodal officers of TSPs are notified about interception requests, the CMS allows for data to be automatically transmitted to its datacentre, without the involvement of TSPs.
+
+[An illustration of the hardware used for CMS](http://cis-india.org/chart_11.png)
+
+UAS License Agreement also requires service providers to make the following records available to Indian law enforcement agencies:
+
+* Called/calling party mobile/PSTN numbers
+
+* Time/date and duration of interception
+
+* Location of target subscribers (Cell ID &amp; GPS)
+
+* Data records for failed call attempts
+
+* CDR (Call Data Records) of Roaming Subscriber
+
+* Forwarded telephone numbers by target subscriber 
+
+Shalini Singh of TheHindu wrote a couple of pieces [1](http://www.thehindu.com/opinion/lead/lethal-surveillance-versus-privacy/article4837932.ece) [2](http://www.thehindu.com/news/national/indias-surveillance-project-may-be-as-lethal-as-prism/article4834619.ece) on our privacy laws(or lack thereof) and CMS. Excerpts from her piece: 
+
+Before CMS, the mobile operator who gave access to the target’s phone calls for interception was required to ensure that the interception order received had been duly authorised by the persons identified under the Act. This is no longer the case. The government has justified CMS in Parliament, by arguing that CMS, to avoid the recordings from being leaked, circumvents manual intervention by mobile operators, and is therefore more secure, allowing instant access. However, this means that the checks-and-balance system provided by the nodal officers in mobile networks — which discovered the illegal request for BJP leader Arun Jaitley’s CDRs, leading to the arrest of three persons including a Delhi police constable — will no longer exist. Is there a new safeguard? 
+
+Under CMS, one government official will authorise interception. This will be reviewed and executed by other fellow officers in different agencies — but all within the government. What is the guarantee that such permission will be subject to the rigorous due diligence that it deserves? Will every government officer follow the laid down procedure, especially if he knows that all authorisations are covered under absolute secrecy with no chance of public disclosure or scrutiny? What happens if the procedure is violated? Will violations, when discovered, be acted upon since everything remains secret within the government? The identity of targets or duration of monitoring cannot be revealed publicly, even under the RTI, as it falls under specific exemptions granted in Section 8 of the RTI Act. How will mistakes be corrected and misuse prevented?

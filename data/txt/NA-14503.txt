@@ -1,0 +1,39 @@
+Compromised Google Cloud Platforms (GCP) were being used by malicious actors to perform cryptocurrency mining, according to a report by Google’s Cybersecurity Action Team.
+
+The report said that of the 50 compromised GCP instances that its team observed, 86% of them were being used to perform cryptocurrency mining, which they described as a “cloud resource-intensive for profit activity”.
+
+This report shows how malicious actors are driven by cryptocurrencies and related activities to indulge in illegal practices such as, in this case, hacking platforms. Money laundering concerns and scams have also been linked to the crypto market which is unregulated in most countries. A crypto bill is soon to be tabled in India’s Parliament.
+
+According to the report, “Malicious actors gained access to the Google Cloud instances by taking advantage of poor customer security practices or vulnerable third-party software in nearly 75% of all cases.”
+
+The researchers said that the malicious actors routinely scan public IP addresses to keep a track of vulnerable Google cloud spaces. This enabled the actors to compromise vulnerable Google cloud platforms in a short amount of time.
+
+In 40% of instances the time to compromise was under eight hours. This suggests that the public IP address space is routinely scanned for vulnerable Cloud instances. It will not be a matter of if a vulnerable Cloud instance is detected, but rather when — Google report
+
+The malicious actors were also very fast in downloading the cryptocurrency mining software after compromising the cloud platforms, the report mentioned.
+
+A few other instances of Cloud platforms getting compromised —
+
+Google’s threat analysis team also observed a Korean government-backed attacker group posing as Samsung recruiters and sending fake job opportunities to employees at multiple South Korean information security companies that sell anti-malware solutions.
+
+The emails included a PDF allegedly claiming to be of a job description for a role at Samsung; however, the PDFs were malformed and did not open in a standard PDF reader. When targets replied that they could not open the job description, hackers responded with a malicious link to malware purporting to be a “Secure PDF Reader” stored in Google Drive which has now been blocked — Google report
+
+These are the other discoveries made by Google in the report —
+
+Threat actors deploy new tactics to generate YouTube traffic : The cybersecurity team observed a group of h ackers abusing Google Cloud resources to generate traffic to YouTube for view count manipulation.
+
+Attackers have continued to exploit Google Cloud projects where free credits were provided to engage in traffic pumping to YouTube, and there is a likelihood that attackers will continue to exploit Cloud instances for the same purpose — Google report
+
+Black Matter ransomware extorting money from victims: The report described Black Matter as a “configurable, whole-system and network share encryption tool” that is capable of encrypting files on a victim’s hard drive in a relatively short period of time by distributing the workload across multiple threads. This ransomware is currently being used to extort money from victims by locking their files using encryption, the report said.
+
+India , apart from the United States of America and the United Kingdom, was one among the most affected countries that were allegedly targeted by a Russian government-backed APt28/Fancy Bear Gmail phishing campaign, the report by Google’s Cybersecurity Action Team also said.
+
+The report said that Google’s  Team observed a large-scale attack of a credential phishing campaign targeting more than 12,000 Gmail accounts by this threat actor. Fancy Bear earlier used to target Yahoo! and Microsoft users, the report said. Other countries that were targeted include Canada, Russia, Brazil, and members of the European Union.
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

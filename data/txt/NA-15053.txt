@@ -1,0 +1,35 @@
+A massive cache of stolen data containing over 23 billion records has surfaced online, exposing more than 183 million unique email addresses, with at least 16.4 million of them never seen before in any previous data breach. The data, known as the Synthient Threat Data, was shared with cybersecurity expert Troy Hunt , the creator of the platform Have I Been Pwned (HIBP), which helps people check if their personal information has been compromised.
+
+US-based college student Ben from Synthient, who specialises in threat intelligence, uncovered the breach after aggregating 3.5 terrabytes of leaked credentials from multiple underground sources, including Telegram channels, social media, dark web forums, and Tor networks. He then passed the data to Hunt for verification and inclusion in HIBP.
+
+According to Hunt, the dataset consists of two types of stolen information, âstealer logsâ and âcredential stuffing listsâ. Malware that infects computers captures user credentials entered on websites and generates stealer logs. Meanwhile, hackers compiled the credential stuffing lists by reusing credentials from earlier data breaches to break into other accounts.
+
+Hunt said the collection contained 3.5 terabytes of information spread across files, the largest of which was 2.6TB in size, with a total of 23 billion rows of data. âAfter checking a sample of 94,000 email addresses, 92% had been previously seen,â Hunt wrote in his blog . That also means 8%, about 16.4 million addresses, had never appeared in HIBP before.
+
+HIBP has now indexed these newly discovered records under the name âSynthient Stealer Log Threat Data.â Users can check if their email or password has been exposed using the platformâs free search tools.
+
+Before confirming the data as legitimate, Hunt reached out to some affected users for verification. One of them confirmed that his Gmail password listed in the breach was accurate. âYes, I can confirm that was an accurate password on my Gmail account a few months ago,â the user said. Another affected person verified that the leaked records correctly included websites he had visited, such as online casinos, crypto platforms, and VPN services.
+
+Hunt said such verification patterns, where leaked data matched a userâs online behaviour, proved the datasetâs authenticity. In several cases, the breach data also revealed that password reuse across different accounts was a major security issue.
+
+Google rejected widespread reports of a âGmail security breachâ and stated that hackers had not compromised its systems. In an official post on X (formerly Twitter), the company stated, âReports of a âGmail security breach impacting millions of usersâ are false. Gmailâs defences are strong, and users remain protected.â
+
+Reports of a âGmail security breach impacting millions of usersâ are false. Gmailâs defenses are strong, and users remain protected. ð§µð
+
+A Google spokesperson further clarified that the misleading claims âstem from a misreading of ongoing updates to credential theft databases, known as infostealer activity, whereby attackers employ various tools to harvest credentials versus a single, specific attack aimed at any one person, tool or platform.â
+
+Google said it actively monitors credential dumps across the internet and prompts affected users to reset their passwords when necessary. The company urged users to turn on two-step verification, use passkeys instead of passwords, and regularly check their account activity for unusual logins.
+
+Hunt warned that such âstealer logâ data is particularly dangerous because it comes directly from infected devices and may include passwords, cookies, and other session tokens. He explained that these logs are âunlike a single data breach such as Ashley Madison, Dropboxâ but rather a âfirehose of data thatâs just constantly spewing personal info all over the place.â
+
+The dataset also included credential stuffing lists, which hackers use to access multiple services with reused passwords. Hunt noted that this type of data has previously enabled major hacks, including Uber (2017 and 2022) and 23andMe (2023).
+
+For now, ‘Have I Been Pwned’ has uploaded only the âstealer logsâ portion of the Synthient data. Hunt said the team will analyse and possibly add the âSynthient Credential Stuffing Threat Dataâ later. He also recommended that users change passwords immediately if they appear in the breach and enable two-factor authentication to minimise risk.
+
+As Hunt summed up, âOnce the bad guys have your data, it often replicates over and over again via numerous channels and platforms.â The incident serves as another reminder of how easily stolen data can circulate and reappear across the internet.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

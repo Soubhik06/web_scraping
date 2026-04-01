@@ -1,0 +1,33 @@
+A major McDonald’s delivery system in India exposed the personal information of customers and drivers due to simple security flaws, according to a report by TechCrunch .
+
+Traceable AI security researcher Eaton Zveare identified the vulnerabilities in the APIs of the delivery system linked to McDonald’s India (West & South), operated by Hardcastle Restaurants.
+
+“A series of API flaws in McDelivery India made it possible to order food for a penny, hijack other people’s delivery orders, view user information and more”, stated Zveare in his blog .
+
+He also said that API vulnerabilities in McDonald’s McDelivery system allowed users to manipulate the system in several ways, including ordering unlimited menu items for just Rs. 1 ($0.01 USD), hijacking or redirecting others’ orders through precise API calls, and accessing details or real-time tracking of any “On the way” delivery. Additionally, users could retrieve order invoices, submit feedback for orders they did not place, and even view internal admin KPI reports.
+
+Sensitive information about delivery drivers was also at risk, such as their names, email addresses, phone numbers, vehicle license plate numbers, and profile pictures, further highlighting the critical nature of these security lapses.
+
+The researcher noted that while McDonald’s USA lacks an official bug bounty program, McDonald’s India does offer one. “What follows is an exciting experience in helping one of the world’s most iconic brands fix security problems before malicious hackers take a bite out of them,” he added.
+
+McDelivery is accessible online at https://mcdelivery.co.in/ and through its mobile apps. With over 10 million downloads on Google Play and a #19 ranking in the Food & Drink category on the Apple App Store (as of 20th December 2024), it is a highly popular platform.
+
+On July 20, 2024, Zveare submitted the report.  He received a response on July 24, 2024, acknowledging the report and confirming that the team would review it within 7-10 days.
+
+On August 7, 2024, Zveare sent a follow-up to inquire about any updates or feedback. He received a  response on August 23, 2024, confirming that the reported issues had been verified internally, and discussions about potential rewards began. On September 5, 2024, he received an update indicating that development was still ongoing. Finally, on September 29, 2024, he checked the issues and confirmed that they had fully resolved them.
+
+In 2017, security firm Fallible discovered that McDonald’s delivery app in India leaked personal information of 2.2 million users. A misconfigured server allowed anyone to access users’ names, emails, home addresses, and phone numbers, according to Fallible. Sending a simple request to the server exposed a large amount of user data. Subsequently, McDonald’s India confirmed that they had resolved the issue and advised users to install the updated version of the app.
+
+We have reached out to McDonald’s India with questions, and will update the copy as and when we receive a response from them.
+
+“We at McDonald’s India (W&S) want to clarify that we have not experienced any breach of customer data at any given point. Our thorough verification of systems and logs confirms the same. At McDonald’s India, safeguarding customer information is our top priority upholding our unwavering commitment to maintaining customers’ trust. We conduct regular audits and assessments to continuously strengthen our security measures, and have all the necessary enhancements implemented, ensuring all our systems are up-to-date and secure,” the response stated in an email sent to MediaNama.
+
+The Zveare’s report primarily highlighted vulnerabilities i.e. the potential for exploitation — rather than confirming an actual data breach. McDonald’s India’s use of the term “breach” focuses on the absence of unauthorized exploitation of these vulnerabilities. The presence of unaddressed vulnerabilities in itself was a significant concern, especially if it could allow unauthorized access to sensitive data.
+
+Read More:
+
+Note: This article was edited on 21st December, 2024, at 10:04 AM to include McDonald’s response to our queries.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

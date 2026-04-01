@@ -1,0 +1,37 @@
+India ranked third highest worldwide for the number of phishing attempts encountered in 2023, according to a report by Zscaler ThreatLabz, the research team of a cybersecurity company. ‘Phishing’ is a form of cyberattack wherein malicious actors trick individuals into revealing sensitive information, such as usernames, passwords, and financial details, etc. by using deceptive tactics like impersonating legitimate entities’ websites, emails, etc. Phishing attacks can lead to identity theft, financial loss, and unauthorized access to personal and corporate accounts.
+
+India, following the United States and the UK, experienced 79.1 million attempts at phishing. The report also noted that the origin of most phishing attacks globally were identified as ‘familiar territories’, the US, the UK, and Russia.
+
+AI has also contributed significantly in increasing the number of phishing attacks in India. According to ThreatLabz’ AI Security Report 2024 , Generative AI tools like ChatGPT and Drift have been integral tools for cybercriminals. AI chatbots aid cybercriminals in crafting a large number of phishing emails and can also mitigate typical “tells” that can give away standard phishing emails (e.g., incorrect grammar, awkward syntax, or out-of-place language). Chatbots can create emails with perfect prose, persuasive language that can mimic any speaker, regardless of the native language of the attacker. Additionally, AI algorithms can be leveraged by attackers to swiftly analyze vast datasets to tailor their attacks. For example, AI can learn and easily replicate communication methods and websites a victim is likely to use. India is also one of the highest targets for encrypted attacks, wherein threat actors can use encryption to escape detection and carry out attacks.
+
+The report revealed that this year, bad actors carried out 27.8% of all phishing attempts on the finance and insurance sector, making it the most targeted area. It further noted that such instances rose 393% compared to the previous year, recording the most significant increase in attacks.
+
+ThreatLabz researchers also found brands like Microsoft, OneDrive, Okta, Adobe, and SharePoint were prime targets for impersonation attempts. They chalk this up to its widespread usage in enterprise environments and its access user credentials. This trend has been exacerbated by the increasing use of these brands due to remote work culture since 2020.
+
+Among the social media sites, the most phishing hits occurred on Telegram at 792,883. However, threat actors attempt to exploit vulnerabilities in Telegram’s security measures to gain unauthorized access to user accounts or distribute malicious content. Facebook, Instagram, and then WhatsApp followed Telegram in the most number of phishing attacks.
+
+The report also shares the most common trends in phishing attacks observed this year.
+
+Vishing attacks
+
+‘Vishing’ or Voice phishing entails using phone calls and voice messages, often using familiar or authoritative voices to trick victims into revealing sensitive information. The voice of Zscaler’s CEO was used in one instance, the report details. A threat actor used  AI-generated voice cloning to simulate the CEO’s voice and call an employee. The cybercriminal ended the conversation abruptly on fear of exposure and claimed to have “poor network coverage”. They then asked the employee to purchase gift cards, which one cannot trace unlike a bank account, for a certain amount. While the employee was able to spot this potential scam, ThreatLabz researchers found out it was part of a widespread campaign targeting several tech companies. Medianama has also reported on a similar incident in India.
+
+Recruitment scams:
+
+Scammers often create fake job postings on reputable job boards, social media networks, and professional networking websites like LinkedIn while impersonating legitimate companies or recruiters. This tricks victims into divulging sensitive information or downloading malware.
+
+AiTM phishing attack, involves an adversary intercepting and manipulating communications between two parties to deceive the victim. By gaining access to their communications the attackers position themselves in the “middle” of the communication between the victim and a trusted entity, potentially gaining unauthorized access to sensitive information. “Unlike traditional phishing attacks, AiTM attacks happen in real-time, enabling attackers to monitor and modify communications. They can alter messages, redirect victims to malicious websites, and collect data without detection.”, said the report.
+
+These scams use tactics like pop-up messages, fake antivirus alerts, or alarming emails and trick users into believing their device is infected with malware or viruses. Attackers exploit fear and limited technical knowledge of the victim, creating panic and urging them to take immediate action such as downloading software or granting remote access for system cleanup, which will subsequently help them gain access to sensitive information or financial details.
+
+Threat actors trick victims into scanning QR codes that ultimately lead to malicious links. They do this through email attachments (such as PDF or DOC files), and other forms of digital communication, a fake captcha process, or a fake security update. Users unaware of the invalidity of the QR code are likely to scan it only to give access to bad actors.
+
+Cybercriminals simulate a fake browser window within another by manipulating the appearance of a web page to resemble a trusted website. This gives users a false sense of security, leading to them divulging sensitive information to the website.
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

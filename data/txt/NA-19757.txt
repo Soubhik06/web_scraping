@@ -1,0 +1,72 @@
+SUBREDDIT: r/india
+TITLE: TRAI Issues a Consultation Paper on Cloud Computing: More serious issue than NN? What do you think?
+DATE: 2016-06-11
+SCORE: 63
+URL: https://www.reddit.com/r/india/comments/4nkpo0/trai_issues_a_consultation_paper_on_cloud/
+
+--- POST TEXT ---
+
+So, the consultation paper is [here.](http://www.trai.gov.in/WriteReadData/WhatsNew/Documents/Cloud_Computing_Consultation_paper_10_june_2016.pdf) | **Issued 10 June 2016**
+
+Comments have been solicited till upto July 8, 2016.
+
+I won't discuss the technicalities of what it seeks to achieve and how. *The Hindu Business Line*, rightly or wrongly, has a scare-mongering headline for its piece this morning:
+
+[Govt wants to legally snoop into your emails](http://www.thehindubusinessline.com/info-tech/govt-wants-to-legally-snoop-into-your-emails/article8714983.ece)
+
+Since, we do know that the previous dispensation sought to gain control over how Indian users access and use the internet and it is common knowledge that it is very much in the present government's interests to continue to do so (under the garb of 'Lawful Access', of course) by generating a seeming 'consensus' on the subject through 'open' consultations, I figured I could highlight some of the problematic ways in which this issue has been framed.
+
+Before i do that, these are the questions that the paper requests responses to:
+
+* **Question 1**. What are the paradigms of cost benefit analysis especially in terms of:
+* a. accelerating the design and roll out of services
+* b. Promotion of social networking, participative governance and e-commerce.
+* c. Expansion of new services.
+* d. Any other items or technologies. Please support your views with relevant data.
+* **Question 2**. Please indicate with details how the economies of scale in the cloud will help cost reduction in the IT budget of an organisation?
+* **Question 3**. What parameters do the business enterprises focus on while selecting type of cloud service deployment model? How does a decision on such parameters differ for large business setups and SMEs?
+* **Question 4**. How can a secure migration path may be prescribed so that migration and deployment from one cloud to another is facilitated without any glitches?
+* **Question 5**. What regulatory provisions may be mandated so that a customer is able to have control over his data while moving it in and out of the cloud?
+* **Question 6**. What regulatory framework and standards should be put in place for ensuring interoperability of cloud services at various levels of implementation viz. abstraction, programming and orchestration layer?
+* **Question 7**. What shall be the QoS parameters based on which the performance of different cloud service providers could be measured for different service models? The parameters essential and desirable and their respective benchmarks may be suggested.
+* **Question 8**. What provisions are required in order to facilitate billing and metering re-verification by the client of Cloud services? In case of any dispute, how is it proposed to be addressed/ resolved?
+* **Question 9**. What mechanism should be in place for handling customer complaints and grievances in Cloud services? Please comment with justification.
+* **Question 10**. Enumerate in detail with justification, the provisions that need to be put in place to ensure that the cloud services being offered are secure.
+* **Question 11**. What are the termination or exit provisions that need to be defined for ensuring security of data or information over cloud?
+* **Question 12**. What security provisions are needed for live migration to cloud and for migration from one cloud service provider to another?
+* **Question 13**. What should be the roles and responsibilities in terms of security of (a) Cloud Service Provider(CSP); and (b) End users?
+* **Question 14**. The law of the user’s country may restrict cross-border transfer/disclosure of certain information. How can the client be protected in case the Cloud service provider moves data from one jurisdiction to another and a violation takes place? What disclosure guidelines need to be prescribed to avoid such incidents?
+* **Question 15**. What polices, systems and processes are required to be defined for information governance framework in Cloud, from lawful interception point of view and particularly if it is hosted in a different country?
+* **Question 16**. What shall be the scope of cloud computing services in law? What is your view on providing license or registration to Cloud service providers so as to subject them to the obligations thereunder? Please comment with justification.
+* **Question 17**. What should be the protocol for cloud service providers to submit to the territorial jurisdiction of India for the purpose of lawful access of information? What should be the effective guidelines for and actions against those CSPs that are identified to be in possession of information related to the commission of a breach of National security of India?
+* **Question 18**. What are the steps that can be taken by the government for:
+* (a) promoting cloud computing in e-governance projects.
+* (b) promoting establishment of data centres in India.
+* (c) encouraging business and private organizations utilize cloud
+services
+* (d) to boost Digital India and Smart Cities incentive using cloud.
+* **Question 19**. Should there be a dedicated cloud for government applications? To what extent should it support a multi-tenant environment and what should be the rules regulating such an environment?
+* **Question 20**. What infrastructure challenges does India face towards development and deployment of state data centres in India? What should be the protocol for information sharing between states and between state and central?
+* **Question 21**. What tax subsidies should be proposed to incentivise the promotion of Cloud Services in India? Give your comments with justification. What are the other incentives that can be given to private sector for the creation of data centres and cloud services platforms in India?
+
+While I feel that issues of interoperability and quality of service as well as standards are red herrings of a sort (there isn't much of data to support the contention that these *are* or *will become* serious issues impeding cloud adoption in India), the following sections appear to indicate areas of concern (if not outright conflict):
+
+&gt;*The Government of India proposes to bring out legislation namely* ***“The Right to Privacy Bill”*** *which aims to provide for the ‘right to privacy’ to the citizens of India. It is said that intellectual property issues in the cloud continue to be one of the "cloudiest" legal areas for customers and suppliers alike because IPR and data protection laws vary from country to country. This makes the application of laws difficult since the question of jurisdiction creates confusion in the cloud computing environment since there are plenty of different ways in which copyright-infringing content can be uploaded onto the cloud, given the vast number of services, which are provided, in the cloud. To deal with this problem, it needs to be ensured that every party involved is well aware of the regulations and the rights of the country in which the data/work is so stored and how potential infringements can be efficiently avoided.*
+
+&gt;*Lawful Interception: This is an extremely important aspect of any communication or information transfer as* ***Lawful Interception by a Law Enforcement Agency (LEA) is an established and transparent method*** *for letting Governments protects their boundaries, integrity and sovereignty in addition to national security. The Government will have to ensure a strict and vigilant interception system in cloud computing environment so as to meet the above requirements. With more and more happenings in the cloud – the previous methods of Lawful intercept are no longer valid and as such need new thinking as:*
+
+&gt;* *Machines and data are no longer physically in one place or national boundary*
+&gt;* *Encryption and security of data are far stronger and of industrial grade*
+&gt;* *End companies have to sign deeper and more stringent End User Agreements with customers that previously never covered data (data was local and software manipulated it locally).*
+
+&gt;*Multi-Jurisdiction Issue Legal Framework: To overcome the problem of multiple jurisdictions one of the possibilities may be* ***to mandate the cloud service providers to host the data centres only in India***. *Another alternative may be* ***to impose restriction on cross border movement of some critical information like tax returns, financial transactions, health records*** *etc.*
+
+&gt;*Adequate Penal Measures- Where the law stipulates certain precautions to be taken by the ISP, vendor and intermediary with respect to data storage, transfer and processing, it fails to enumerate any stringent penal action against those who violate these precautions. The punitive measures and especially the fines, defined are too meagre to ensure proper protection of data. Personal and sensitive data has to be maintained with utmost confidentiality; and the trust of the information provider must be safeguarded. Where highly sensitive data is being handled,* ***the law may also suggest an imprisonment term (depending on the gravity of the crime) in addition to the fine prescribed. For repeated contravention, the licenses of service providers may be suspended or cancelled.***
+
+&gt;***The Government could introduce some form of licensing or operational restrictions on intermediate service providers***. *Complying with new rules under the amended Information Technology Act, 2000 requires providers of sensitive information to verify the information which can become onerous given that data may be held in fragmented corners of the cloud. For this, the Laws need to be reviewed and new policies should be introduced to effectively and efficiently deal with matters involving confusion with respect to the basic and highly important issue of jurisdiction.*
+
+So, it's up to us now. What do we think?
+
+Edit: Missed this bit -
+
+&gt;6.10. Citing the need to monitor domestic Internet traffic for national security reasons, concerns over foreign surveillance, and a desire to ensure that data is subject to local laws, the Indian government has for years supported the idea of foreign firms storing data within the country. One clear example of the push for data localization is found in the Department of Telecommunications’ “National Telecom M2M Roadmap” (referring to machine-to-machine data transmission of the sort expected to increase substantially as Internet connected devices become more common), in January 2015. T**he guidelines call for “all M2M gateways and application servers” used in providing services to individuals in India to be physically located within the country, based on national security concerns**. *Although cloud vendors would not be the explicit focus of this provision, its inclusion points to the acceptance of data localization policies among some in the Indian government*.

@@ -1,0 +1,65 @@
+Key takeaways on data breaches from the 2022 Bill:
+
+The Indian government on November 18 released the Digital Personal Data Protection Bill, 2022, which proposes hefty penalties for companies that fail to safeguard the personal data of users. The IT Ministry has invited feedback from the public on the draft Bill by December 17, 2022. The feedback may be submitted on the MyGov website .
+
+Read: A Complete Guide To India’s Digital Personal Data Protection Bill, 2022
+
+The Bill requires:
+
+A personal data breach is defined by the Bill as “any unauthorised processing of personal data or accidental disclosure, acquisition, sharing, use, alteration, destruction of or loss of access to personal data, that compromises the confidentiality, integrity or availability of personal data.”
+
+Notably, the Bill does not cover non-personal data breaches as non-personal data has been left out of the ambit of this Bill.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+The 2022 Bill prescribes the highest quantum of penalties for data breach-related offences:
+
+For comparison, most other offences attract a maximum fine between ₹50 to ₹150 crores.
+
+In its comments and recommendations on the bill, which it otherwise described as “bereft of first principles at several places,” the Internet Freedom Foundation noted some positives too, among which are changes in the reporting procedure for data breaches:
+
+“A significant issue with previous iterations of the bill was that they did not require data fiduciaries to notify data principals in the event of a breach. Thus, users whose data has been breached, would not have even known that their data has been compromised. Clause 9(3) of DPDPB, 2022 addresses this concern by mandating fiduciaries to notify the Board and Data Principals whenever there is a breach, irrespective of its nature. Clause 20(3) then empowers the Board to issue directions to Data Fiduciary to adopt urgent measures to remedy personal data breach or mitigate any harm caused to Data Principals,” it said, adding: “While this is welcome, there would be an overlap between the role of the Board and the Computer Emergency Response Team, which is supposed to respond to data breaches currently”.
+
+What the 2018, 2019, and 2021 Bills said: All three versions of the bill have the same provisions regarding security measures that data fiduciaries must implement while processing personal data. These measures must include:
+
+“(a) use of methods such as de-identification and encryption;
+
+(b) steps necessary to protect the integrity of personal data; and
+
+(c) steps necessary to prevent misuse,”
+
+What the 2018 and 2019 Bills said: The 2018 and 2019 versions said that data breaches should be reported when they were “likely to cause harm to any data principal.”
+
+What the 2021 Bill said: The 2021 draft required all data breaches to be reported to the Data Protection Authority (DPA), and report on the remedial measures being taken for the same. It also said that such a notice of a breach “shall be in a form as specified by regulations.”
+
+What the 2018 Bill said: It said that data breaches should be reported to the DPA “as soon as possible and within such period as may be specified by regulations”, and after accounting for the time taken to enact immediate and urgent measures to remedy or mitigate the effects of the breach.
+
+What the 2019 Bill said: The 2019 Bill retained the provisions of the 2018 version on reporting timelines.
+
+What the 2021 Bill said: The 2021 draft fixed the reporting timeline of any data breach to 72 hours. The Committee felt that the reporting window should be realistic and finite.
+
+What the 2018 and 2019 Bills said: In the earlier drafts of the Bill, it was up to the Data Protection Authority to decide whether a data breach should be reported by a fiduciary to a principal or not
+
+What the 2021 Bill said : In case of a breach of personal data , the Bill said that the DPA shall “direct the data fiduciary to report such breach to the data principal” after it has accounted for the severity of the breach and the harms caused by it. It also clearly states that the DPA may direct the specific measures that a data fiduciary must take to mitigate the harm caused to the data principal.
+
+What the 2018 and 2019 Bills said: Both the earlier versions of the draft released in 2018 and 2019 did not have provisions for non-personal data, including in cases of breaches.
+
+What the 2021 Bill said : “‘Data breach’ includes personal data breach and non-personal data breach” said the 2021 draft, widening the ambit of the types of data protected by the law. The 2021 bill says: “The Authority shall, in case of breach of non-personal data, take such necessary steps as may be prescribed”.
+
+What the 2018 Bill said : In the 2018 Bill, the penalty amount “may extend to” five crore rupees or two per cent of the worldwide turnover of the preceding financial year for violations including a lack of action on data breaches.
+
+What the 2019 Bill said : The 2019 bill retained the provisions of its previous iteration with regard to penalties.
+
+What the 2021 Bill said : The 2021 version of the bill penalised various contraventions of its provisions by data fiduciaries, which included an “obligation to take prompt and appropriate action in response to a data breach under section 25”, changing the term “data security breach” from the 2019 version. It capped the maximum penalty applicable for violations to five crore rupees or two per cent of its worldwide turnover of the preceding financial year, whichever is higher.
+
+The 2021 JPC report recommended the following principles to guide the DPA as it frames regulations on data breaches. These were:
+
+Updated: The IFF’s comments on data breach provisions were added on November 23, 2022 at 11:45 AM
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

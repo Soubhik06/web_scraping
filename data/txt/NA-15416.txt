@@ -1,0 +1,29 @@
+Zomato announced in a blog post today that it had contacted the unidentified hacker from yesterday’s data breach . The breach had led to details of 7.7 million users being stolen. The leaked information, listed for sale on a Darknet market (hansamkt2rr6nfg3.onion/listing/93556), was taken down by the hacker after Zomato requested them to do so, the company added.
+
+The food delivery company is also introducing a new bug bounty program for ethical hackers after the hacker apparently advised the company to do so. “The hacker has been very cooperative with us. He/she wanted us to acknowledge security vulnerabilities in our system and…plug the gaps. His/her key request was that we run a healthy bug bounty program for security researchers. We are introducing a bug bounty program on Hackerone very soon,” the company said in the post.
+
+However, several security researchers who claimed to have analyzed the leaked have raised their doubts on Twitter. Zomato was apparently using an outdated encryption standard (MD5) for encrypting passwords, a researcher, Sajal Thomas, claimed . This HackRead report , which claims to have reviewed a sample of the leaked data, points out that the usernames leaked on the Darknet portal were genuine. MediaNama was not able to independently verify this.
+
+Loopholes Zomato’s password encryption method
+
+The MD5 algorithm, used for encrypting passwords by Zomato was deemed as an “ insecure cryptographic storage ” method by The Open Web Application Security Project (OWASP) back in 2007. This put users at risk since the encrypted passwords stored on Zomato’s database can be converted into readable formats easily. Thomas, the researcher, claimed on Twitter that he was able to decrypt the Zomato data taken from the Darknet market in “seconds”.
+
+Just verified the sample data from the dark web market and I can confirm that the hashes in the dump are pure MD5. 6/42 cracked in seconds.
+
+— Sajal Thomas (@sajal_thomas) May 18, 2017
+
+Zomato said on its blog that data points including emails, user IDs, names, usernames, email addresses, and password hashes with ‘salt’ were exposed in the data breach. “Your payment information is absolutely safe, and there’s no need to panic,” the company said.
+
+But there is a possibility of decrypting the hashed (encrypted) passwords, placing bank/card details at risk. Here is how:
+
+Zomato said in its earlier blog that it’s applied an “individual salt per password” before encrypting it. A salt is a random 64-bit value which is combined with a password to add an extra layer of security.
+
+Eg. password : “Qwerty123”. Random Salt Value : 84B03D034B409D4E Password + Hash value : Qwerty123+84B03D034B409D4E (before encryption) Final encrypted password stored on Zomato database (with MD5 hashing) : bc03e833386720a479f69562156b541cbc03e833386720a479f69562156b541c
+
+The above cryptographic method is required to help reduce the effectiveness of a brute-force attack or dictionary attack — a password cracking method which matches every bit of the password with a random alphabet/character/number until the entire text of the password is matched.
+
+It is unclear whether the salt value for each of the password (kept in clear text) was stored on the same server as the passwords or with the same access controls. If this is the case, then there is a possibility that a hacker can gain access to the salt value, allowing them to easily decrypt the hash and get the password. MediaNama has written to Zomato to confirm whether it used the outdated MD5 algorithm, and whether it stored salt values on the same server as the passwords. We are yet to hear back from them.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

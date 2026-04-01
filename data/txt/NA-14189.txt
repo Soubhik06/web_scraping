@@ -1,0 +1,19 @@
+The Department of Telecommunications (DoT) on May 26, 2024 directed telecom service providers (TSPs) to block incoming international spoofed calls displaying Indian mobile numbers, as per a recent press release . Authorities said these calls have been misused in recent cases of fake digital arrests, FedEx scams, impersonation of government and police officials, and fake claims of narcotics in couriers.
+
+“It has been reported that fraudsters are making international spoofed calls displaying Indian mobile numbers to Indian citizens and committing cyber-crime and financial frauds. These calls appear to be originating within India but [are] being made by the cyber-criminals from abroad by manipulating the calling line identity (CLI),” said the DoT.
+
+As per the UK’s Information Commissioner’s Office (ICO), a Calling Line Identification or CLI is a feature that allows the person receiving a call to view the caller’s number. This covers caller ID displays as well as service and other call-return services. This means that while an Indian user may receive a call from an unknown Indian number, the caller may still be a bad actor from outside India.
+
+According to the press release, the DoT and TSPs have devised a system to identify and block such incoming international spoofed calls from reaching any Indian telecom subscriber. Further, incoming international spoofed calls with Indian landline numbers are already being blocked by the TSPs as per the directions issued by DoT, it said.
+
+The government’s measures are in line with their earlier announcements of identifying mal-actors threatening citizens with digital arrests – a type of cybercrime, where a fraudster pretends to be a government official or similar authority figure and accuses potential victims of being involved in an illegal activity.
+
+Earlier on May 23, 2024, DoT identified through AI-driven analysis approximately 6.80 lakh mobile connections suspected to have been obtained using invalid, non-existent or fake Proof of Identity (PoI) and Proof of Address (PoA), KYC documents. All TSPs were directed to re-verify the flagged connections within 60 days or disconnect the concerned mobile numbers.
+
+The news highlights the limitations of Caller ID practices. On the one hand, the announcement highlights how scammers are able to circumvent even basic measures like CLI that simply help a recipient identify the geographical source of the call. On the other hand, the Indian government still seems intent on providing caller name identification as a measure to prevent spam calling. If the mobile number itself, which is used to display a caller’s name, can be manipulated, how can the government expect its CNAP (Caller Name Identification Proposal) proposal to work? All of this goes to show that today’s scammers seem to be a step ahead of the caller identification techniques presented by the government so far. In light of the above information, it can even be argued that the added feature of caller name identification may end up benefitting the scammers instead.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

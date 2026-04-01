@@ -1,0 +1,53 @@
+On July 3, journalist Sandhya Ramesh took to Twitter to share the experience of a woman who is being blackmailed by a loan lending app called White Kash:
+
+Wtf is this, a personal loan app called Kash is threatening to send morphed nude photos of their customer to her entire contact list?! pic.twitter.com/5LcsukVgef
+
+— Sandhya Ramesh (@sandygrains) July 3, 2023
+
+Such experiences are (unfortunately) not rare. Predatory loan apps target vulnerable borrowers, and if someone is late on a payment, the apps threaten to (and in some cases actually do) reach out to the friends and family of the borrower. In the worst case, these apps make fake sexual images of the borrower using photos from the phone gallery and threaten to share the same with the entire contact list of the borrower (the apps get access to photos and contacts from the borrowers who unsuspectingly grant these permissions).
+
+But this particular instance (in the tweet above) involving White Kash raises some interesting observations:
+
+1. Predatory loan apps are now also targeting Apple iOS users: In almost all of the earlier instances, the lending app at fault was an Android app, usually downloaded from the Google Play Store . The IT Ministry, in fact, met with Google officials at one point to curb the presence of predatory lending apps on the Play Store. When the Indian government in February this year banned close to a hundred lending apps, most of these were Android apps. But in the case shared above, the app in question (White Kash) was an iOS app downloaded from Apple App Store.
+
+Moreover, this is not the only such illegal lending app on the App Store. Another Twitter user shared a list of other such apps that existed on the App Store, and more importantly, these apps were showing up on the Top Finance Apps chart.
+
+Top Finance Apps Section on @AppStore in India is hijacked by Fake Loan Apps.
+
+They're using fake developer identity of other organisations.
+
+All these apps are launched in last 1-2 weeks. Have different name, logo but similar UI. Have no substantial info on linked websites. 🧵 pic.twitter.com/hKLC7Ht7Nt
+
+— Babu  (@pooniawalla) June 22, 2023
+
+Most of the fake apps highlighted in the tweet above are no longer visible on the App Store as of July 4, which either means that the apps have removed their listing or that Apple has taken action against them.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with top stories from MediaNama and around the world, delivered to your inbox before 9 AM. Click here to sign up today!
+
+2. What’s going on with Apple’s app moderation: Apple has always prided itself in its app moderation and for the large part, the company has kept away spam, illegal, harmful, and low-quality apps away from the App Store, at least in comparison to Google Play Store. The App Store review process is more stringent than Google’s and this used to reflect in the quality of the apps that ended up in the Play Store vs App Store. But with fake lending apps dominating the top charts (as shown in the tweet above), is Apple’s moderation still praiseworthy? These apps, which are barely one to two weeks old, managed to get on top of the charts by paying for ads and growing in popularity.
+
+What’s worse, the developers behind some of these illegal lending apps were impersonating real companies that had no connection to the app whatsoever. The White Kash app, for example, had listed Chaplot Investments Pvt Ltd as the developer. Chaplot is a NBFC operating in two-wheeler loans and the company has denied any connection to the loan app in question. The White Kash app appears to have been removed from the App Store as of July 4, but the incident nevertheless raises some important questions: Does Apple not verify the identity of a business using some official document or has the loan app managed to fool the company?
+
+Hi @toastingtoaster , These are fraudsters who are impersonating our company as a developer. Have already raised complaint with @MahaCyber1 and @AppleSupport but the response hasnt been quick.
+
+— Prateek Chaplot (@ChaplotPrateek) July 3, 2023
+
+MediaNama has reached out to Apple asking about its policy on digital lending apps in India as well as how it verifies the identity of a developer. We will update this post once we get a response. (Apple’s response has been added below)
+
+3. Are RBI’s digital lending guidelines and apps whitelist effective at all? As a response to the growing concerns around digital lending apps, the Reserve Bank of India (RBI) in August last year came out with digital lending guidelines . Among other things, the framework explicitly disallows lending apps from accessing a borrower’s contact list and media.  The guidelines also require lenders to follow a standardized code of conduct for recovery. Separately, the RBI has also sent a list of approved digital lending apps to both the Google Play Store and Apple App Store. But from the looks of it, neither the guidelines nor the whitelist seems to be doing their job, which begs the question: are these measures by RBI effective at all?
+
+MediaNama had asked RBI for a copy of the whitelist so that it can be public and borrowers can cross-check with the list when they are borrowing from an app, but the central bank denied our RTI request .
+
+4. Should Apple follow Google in blocking loan apps’ access to contacts and media: In April this year, Google came out with an important policy that digital lending apps on the Play Store will not be allowed to access the contacts, photos, videos, call logs, external storage, and precise location of users. This measure goes further than any government regulation in curbing the unethical practices carried out by predatory lending apps, and with such apps now targeting Apple users, it’s about time the iPhone maker should also implement a similar policy for the App Store.
+
+Update (July 7, 8:45 pm):
+
+Apple’s response: Apple on July 7 responded to our queries with the following comments (emphasis ours):
+
+We had posed the following questions to the company:
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

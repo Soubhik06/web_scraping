@@ -1,0 +1,57 @@
+SUBREDDIT: r/india
+TITLE: India's Mass Surveillance Capabilities
+DATE: 2016-08-18
+SCORE: 13
+URL: https://www.reddit.com/r/india/comments/4y8owg/indias_mass_surveillance_capabilities/
+
+--- POST TEXT ---
+
+I read a post on r/worldnews about how Canadian police wanted to force citizens to hand over their passwords. This led me down a rabbit hole from where I eventually made my way to Wikipedia. Below is what I found. Turns out surveillance in India is far greater than in the US.
+
+1.) CMS - The CMS gives India's security agencies and income tax officials centralized access to India's telecommunications network and the ability to listen in on and record mobile, landline and satellite calls and voice over Internet Protocol (VoIP), and read private emails, SMS and MMS, geolocate people using Mobile phone tracking, all in real time. It can also monitor posts on social media and Google searches, without any parliamentary or judicial oversight. There was not even any parliamentary talk before this was implemented.
+
+2.) DRDO NETRA - NETRA can analyse voice traffic passing through software such as Skype, and intercept messages with keywords such as 'attack', 'bomb', 'blast' or 'kill' in real-time from the enormous number of tweets, status updates, emails, instant messaging transcripts, internet calls, blogs, forums and even images generated on the internet to obtain the desired intelligence.
+
+3.) NATGRID - Each individual's data ranging from land records, internet logs, air and rail PNR, phone records, gun records, driving license, property records, insurance, and income tax records would be available in real time and with no oversight. Data from UIDAI is a part of NATGRID.
+
+4.) LIM - LIM systems are used by the Indian Government to intercept records of voice, SMSs, GPRS data, details of a subscriber's application and recharge history and call detail record (CDR) and monitor Internet traffic, emails, web-browsing, Skype and any other Internet activity of Indian users. Mobile operators deploy their own LIM system which allows the government to intercept calls. These surveillance systems are under complete control of the government, and their functioning is secretive and unknown to the ISPs.
+
+5.) UIDAI - Collects the biometric (2 iris scans, all 10 fingerprints) and demographic data of residents, store them in a centralized database, and issue a 12-digit unique identity number called Aadhaar to each resident. 
+
+In 2013, the CBI was trying to solve the case of a rape of a schoolgirl. It approached a Goa local court saying that they had acquired some fingerprints from the scene and they could be matched with the UIDAI database. The court asked UIDAI to hand over all data of all persons in Goa to CBI. The Central Forensic Science Laboratory stated that they would have several 100,000 false positives from the 60 million Goa residents. The Supreme Court restrained the central government and the UIDAI from sharing data with any third party or agency, whether government or private, without the consent of the Aadhaar-holder in writing. However Aadhaar information is accessible under the CMS, NETRA, NATGRID and LIM.
+
+6.) Encryption beyond 40 bits is illegal. Banks are exempt from this and can utilize 256 bit encryption. There may be plans to increase encryption allowed to 128 bits. Whatsapp was nearly banned due to the end to end encryption. In the end, there were no laws set in place for Over The Top services.
+
+7.) BOUNDLESSINFORMANT - India is among the countries subjected to extreme NSA surveillance, more than Afghanistan, China, Russia and US. 
+
+8.) ITA-2000 - The Indian parliament passed the Information Technology Act of 2008 with no debate, giving the government fiat power to tap all communications without a court order or a warrant.
+
+Section 69 empowers the Central Government/State Government/ its authorized agency to intercept, monitor or decrypt any information generated, transmitted, received or stored in any computer resource. Failure to comply by can result in 7 year imprisonment.
+
+Section 66A has been used to arrest cartoonists depicting corruption, people sharing cartoons depicting politicans via email, tweeting about corruption and nepotism, positing and liking the said post on Facebook insulting politicians.
+
+A.) In 2010, a cartoonist was arrested under Section 66A and for sedition. His cartoons depicting widespread corruption in India were considered offensive. 
+
+B.) In 2012, a professor was arrested for sharing a cartoon of a Chief Minister and the Railway Minister. The email was sent from the email address of a housing society. The secretary of the housing society, was also arrested. They were charged under Section 66A, for defamation, for obscene gesture to a woman, and abetting a crime. 
+
+C.) In 2012, a businessman was arrested under Section 66A. He had sent tweet accusing the son of the Finance Minister of corruption. 
+
+D.) In 2012, a 21-year-old girl was arrested for posting a message on Facebook criticizing the shutdown in Mumbai for the funeral of politician. Another 20-year-old girl was arrested for "liking" the post. They were charged hurting religious sentiments, under Section 66A, and promoting enmity between classes. 
+
+E.) In 2015, a teenage boy was arrested for making a post on Facebook insulting a politician. He was charged under Section 66A, for promoting enmity between different religions, intentional insult with intent to provoke breach of peace, and public mischief.
+
+Our RA&amp;W (CIA equivalent) answers only to the PM and not the public. During its inception its powers and reach were compared to the KGB. According to Reporters Without Borders, India's C-DoT, along with NSA and GCHQ, hacked into the very heart of the internet and turned a collective resource into a weapon in the service of special interests that flout the freedom of information, freedom of expression and the right to privacy.
+
+Due to the widespread corruption, any powerful person can gain access to and manipulate all your data. Court cases get dragged on for decades. I have zero belief that these agencies can keep all this data secure. If someone powerful decides to target me, there is nothing I can do. 
+
+Sources - 
+https://en.wikipedia.org/wiki/C-DOT
+https://en.wikipedia.org/wiki/Boundless_Informant
+https://en.wikipedia.org/wiki/Central_Monitoring_System
+https://en.wikipedia.org/wiki/Mass_surveillance_in_India
+https://en.wikipedia.org/wiki/NATGRID
+https://en.wikipedia.org/wiki/Mass_surveillance#India
+https://en.wikipedia.org/wiki/Information_Technology_Act,_2000
+https://en.wikipedia.org/wiki/Aadhaar
+
+Note: So I first researched this about 12 hours ago. All this data is based on Wikipedia. I then created and ID and posted this on r/Privacy. But being an idiot, I didn't note down my password. So I've created another ID. Sigh. The only proof that I did create this post on r/Privacy is that u/WorriedCitizenIndia is never gonna post anything again.

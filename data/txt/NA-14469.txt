@@ -1,0 +1,39 @@
+MediaNama’s take: Despite continuous pushback from telcos over level-playing field concerns with the satcom industry, particularly regarding administrative allocation and low spectrum pricing , the National Telecom Policy 2025 proposes a flexible and supportive regulatory framework for satcom. This follows the Telecom Regulatory Authority of India (TRAI) ruling out any level-playing field concerns between terrestrial telecom companies and emerging satcom players. The move sets the stage for new entrants like Starlink and Amazon’s Project Kuiper, alongside telco-satcom collaborations such as Airtel-OneWeb and Jio-SES .
+
+While satcom players may have an easier time entering the market, they appear to face stringent security requirements, with the government planning measures to prevent unauthorized access and interference, as outlined in the draft policy. This possibly stems from incidents such as the use of Starlink devices in a meth smuggling case and to allegedly bypass internet shutdowns in Manipur last year, even though the company was not authorized to provide services in India.
+
+By 2030, the government plans to establish a flexible and supportive regulatory framework for satellite services to enhance connectivity in unserved and underserved areas, according to the draft National Telecom Policy 2025. Released on July 24, the draft is open for public consultation for 21 days. The policy aims to expand telecommunication networks by promoting the use of non-terrestrial networks (NTNs), including satellite systems, and supporting shared use of satcom networks for affordable and widespread access.
+
+However, it also proposes monitoring satellite communications to ensure cybersecurity, data integrity, and protection against unauthorized access and interference. The government intends to establish a satellite monitoring facility to track both Indian and foreign satellites and better mitigate satellite carrier interference. It also aims to enable Ground Station as a Service (GSaaS) and align NTN-related policy with the Indian Space Policy to enhance satellite communication.
+
+As part of the measures for ensuring telecom network safety, the government will define a framework for telecom security audits and empanelment of agencies to perform such audits. It also intends to put in place regulatory frameworks and systems to detect and prevent spam and also engage with global partners to develop shared strategies, best practices, and cross-border frameworks to tackle international spam, fraud, and phishing.
+
+Interestingly, the policy reiterates the proposed Mobile Number Validation Service, which the Department of Telecommunications had also mentioned in the draft Telecom Cybersecurity Rules 2024. This platform will allow businesses that use mobile numbers to register users to verify said numbers through a central platform. The draft policy states that the mobile number validation service will provide a “secure telecom space to other service sectors such as banking, insurance, social media, e-governance, etc, for preventing the misuse of telecom resources for cyber fraud.” As MediaNama has previously pointed out, this service will pose privacy risks with any business being able to seek their details.
+
+The policy suggests that the government should “finalize the blueprint of National Telecom SafeNet with close collaboration with MHA [Ministry of Home Affairs], TSPs [telecom service providers], and LEAs [law enforcement agencies] and expedite sanction of the project and its funding.” However, it is unclear what the Telecom SafeNet entails.
+
+Besides these measures, the policy also proposes the development of AI-specific telecom security standards to ensure network safety. It states that these standards will help address risks from adversarial AI, model drift, and automated threat propagation. The government may also define a policy and regulatory framework for blocking rogue URLs/IPs/apps. Further, the government intends to create a biometric-based identification for telecom users.
+
+The government has set the target of increasing telecom domestic manufacturing output by 150% and achieving 50% import substitution through domestically designed and manufactured products by 2030. The draft policy suggests that the government will provide targeted capital expense (capex) and operational expense (opex) support for domestic manufacturing.
+
+Besides domestic manufacturing, the policy also highlights a focus on the trusted sources mandate. It plans to conduct an analysis of telecom and networking equipment in telco networks to demarcate and segregate equipment from non-trusted sources. The trusted sources regime is understood as a way for India to reduce its dependence on Chinese telecom equipment. This is evidenced by the fact that when the National Cyber Security Coordinator rolled out a list of approved vendors for telecom equipment, Chinese companies Huawei and ZTE were noticeably left off of it.
+
+The policy sets the goal of providing fixed-line broadband connectivity to 10 crore (100 million) households in the country by 2030. It suggests that the government will introduce incentive schemes for fixed-line broadband.
+
+As per the TRAI’s monthly subscription data for May 2025 , India’s wireline broadband subscription base stood at 44.09 million, which indicates that the country has a long road ahead in reaching the goal set out under the draft policy. In an interview with MediaNama , the Executive Director of Extreme Labs, Raunak Maheshwari, had specified that to provide fixed-line connectivity to households in semi-rural areas and villages, more Internet Exchange Points (IXPs) are required across the country. However, with the government’s plans to license IXPs, such an increase in IXPs may be unlikely, given that the onerous regulatory requirements could end up deterring community IX operations. These IXs typically cater to such areas where a private IX may not see commercial viability.
+
+The policy suggests that the government/the industry should provide funding and mentorship to startups across growth stages, focusing on product development and market access. Suggested funding models recommended as part of the policy include: a fund of funds, and blended finance. The government previously suggested a fund of funds for startups under the Startup India initiative of 2016 .
+
+Further, to support collaboration between the industry, academia, and the government, the policy recommends the creation of a Telecom Data Regulatory Sandbox. This will enable the effective utilisation of anonymised telecom data for public benefit.
+
+The policy suggests that by 2030, 4G should cover 100% of the population and 5G should cover 90% of the population. It also intends to deploy 1 million public Wi-Fi hotspots. As per TRAI performance indicator data for the quarter between January and March 2025, there are 55,052 public Wi-Fi hotspots in India.
+
+The government is looking to increase this figure by changing the policies around connectivity access for public Wi-Fi providers. As per a recent TRAI tariff order , telecom operators must offer all their retail fibre-to-the-home (FTTH) plans to Public Data Offices (PDOs) for bandwidth capacities of up to 200 Mbps under the PM-WANI scheme. Similarly, PDOs are small local businesses that provide public Wi-Fi hotspots under the PM-WANI scheme.
+
+You can send comments on the draft policy to [email protected] with the subject line “Consultation on Draft NTP 2025”
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

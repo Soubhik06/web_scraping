@@ -1,0 +1,57 @@
+A software developer by training, Babu Pooniawalla also moonlights as a fake app hunter, investigating and flagging potentially fraudulent software on Google and Apple’s app stores. He lists the suspicious apps on his X account and an online dashboard , having managed to bring down over 8300 pieces of fake software in 20 months. He also organised a WhatsApp community called AppStore Avengers where people can contribute to his initiative.
+
+The interview has been lightly edited for clarity.
+
+A : It started last year, when someone who was a friend of a friend, said that his father was scammed by a fake app. It was a trading-related app, and they told me that they downloaded it from an app store. Being a former iOS developer, this got me thinking – we used to think every process at Apple and Google was very strict. So how come these scam apps are being downloaded from the app store? That made me curious and I started looking at the top finance apps on Apple’s App Store and Google Play. I have been in the fintech industry for seven or eight years now and I consider myself well aware of the financial services industry scene in India. I started to perform some basic due diligence on some of these apps and a lot of red flags popped up.
+
+A : Let’s say I’m looking at an app that claims to provide loans. For that, it needs to be a Reserve Bank of India (RBI) registered Non Banking Financial Corporation (NBFC) or a bank or a partner of any NBFC. I saw that many of these apps were not registered. In my research, I also found out that many of these apps came from companies who were not even into financial services. They were foreign owned software companies or into some non financial services. Based on their company’s website, it seemed like they don’t have anything to do with lending in India. I was like, how come this company’s name is being used for a loan app? Somehow the dots were not connecting. I also got in touch with these companies who confirmed that it was not their app, and somehow the scammers are using their identity.
+
+On day one, I scanned maybe the top 200 finance apps on the Apple App Store and found out that almost 27 or 30, or around 15% were fraudulent. Those apps were not released two or three days ago but had existed for months and months. So how come no one in the industry ever noticed or ever questioned them?
+
+That led me to believe that no one else is talking about it. No one else is raising this point that there are illegitimate apps trying to do business in India and on app stores. At the end of the day, they are harming the customer.
+
+So I started to complain about the apps on Twitter and somehow the right people started to take notice of it and they started to take down these apps. However, once those apps were removed, they were replaced by new apps. That kept happening. It was getting out of hand, and became too difficult to manage. The list was too long, and I lost track of the apps I flagged and which ones were taken down.
+
+So I just made a basic website that was accessible by anyone where I made a list of all the fake apps I found. I think even people from Google and Apple began to watch it, as I saw that the apps I flagged were taken down within a few days. I think in 18 to 19 months, more than 8,300 apps were taken down.
+
+But the problem is still there – I continue to get as many apps as 20 months ago. It’s become somewhat of a cat and mouse game. By now, I need just 5 to 10 seconds to identify a fraudulent app. But I am spending a lot of time figuring this out and trying to figure out what to do next, because this problem is still unsolved, and I don’t want to leave it unsolved.
+
+Just out of curiosity, I looked at the app stores in Indonesia, Philippines, Thailand, Vietnam, Mexico, Nigeria – countries like India where there is a large population with many people in need of loans.
+
+When I scanned the top 200 apps in Mexico, I found at least 65 fake apps, or almost 33%. That made me think that I can’t stop doing this because wherever I check, I find a big number of fraud apps.
+
+Also, these apps are not on third-party app stores where scammers are putting in the APKs. These are on the Apple App Store, which sells security and privacy. That’s why their phones and the whole ecosystem is so costly. Yet, they are failing at it.
+
+A : I don’t know how to communicate this directly to Apple and Google in an effective way. On Google Play Store, there’s a small button where you can report an app as inappropriate. I feel that’s quite worthless. I don’t think it gets any priority. When you report a profile on Twitter or Instagram, it doesn’t get taken down immediately. When a lot of people, maybe thousands of people, try to report an app, then it might get some priority, and some human will take a look at it. So the information should reach directly to the concerned team at the Play Store or App Store, or the Cybercrime Department of any country where the app is trying to run its business.
+
+For the last 20 months, I tried my best to reach out to anyone who could be interested. I even tried to moderate my tone, thinking I was being too critical. I am still waiting for the Google or Apple teams to reach out to me. Since the apps I put up on my website are taken down, someone from their team must be taking a look at it right? So why does the communication have to be so indirect? We might be able to flag fraudulent apps even earlier, saving a number of potential victims.
+
+A : It was the 22nd of June in 2023 when I first noticed these apps. I just noticed four or five apps, made a tweet about it but nothing happened for 10 days. Then in July, there was a case where a victim took the step of suicide after he took a loan from one of the apps that I had flagged. So a few people noticed that and then those apps were taken down because it was in the news. Then I started looking for more apps. When I crossed the mark of finding 100 fraudulent apps in August that year, I decided to make this information available to everyone in a better format.
+
+A : I think there are still around 500 fraudulent apps that I flagged that are still active on the app stores. Most of those, I’ve added in the last one or two weeks. I have flagged almost 9,000 apps so far and of those 8,300 have been removed.
+
+A : There was a week in October 2023 when I would flag 100-140 apps on the dashboard at around 1:00 am or 2:00 am. By the time I woke up in the morning, they all would be gone. I think it took at most 6 hours for an app to be removed. That was the highest efficiency I have ever seen. But on average it takes around four to five days for Apple to take down an app. But with Google, it seems like they’ve lost interest these days. Maybe that’s why they are not taking down apps as fast as they used to. I have a list of around 300 plus fake Google Play apps that should be taken down immediately, but somehow they don’t seem to be noticing.
+
+A : It’s been a 20 month long journey and I did not think I would come this far. I thought that the problem would be solved in a month or two, but it wasn’t. So I kept going. Many people reached out, telling me that they were interested in what I was doing and would love to contribute in some way. Over the period of time, some of these people reached out to me. But, I didn’t want to pass on my contact information to everyone, as quite a few scammers have reached out to me and told me how I had affected their business.
+
+A : They communicated it quite straightly, asking me not to flag their apps. The dashboard has gotten visitors from about almost 140 countries, including countries whose app stores I don’t monitor. Even though I created the dashboard for the greater good, I think scammers are also using the app to fine tune their modus operandi.
+
+A : The group has a diverse set of people, including people who live outside India. There are some malware researchers or/and people who do security work. Some are just college students who are interested in the work and want to contribute. It hasn’t directly helped much, but there are people there who are responsive and contribute to discussions.
+
+A : The biggest one was loan apps, which I started with. But now I am taking a look at more categories, including trading apps. Almost all the top 20 stock brokers in India, like Groww, Zerodha, Upstox, INDMoney and big brands like Motilal Oswal, Aditya Birla had fake apps impersonating them. HSBC is a target these days. I am doing my best to reach out to HSBC, trying to tell them that there are at least five to six such apps which are live on the app stores. That’s where the damage is happening.
+
+But I am finding it difficult to tell them. It’s too difficult to let those brands and companies know about it. Because there are no emails. And every email lands upon the customer support thing where those guys have no idea most of the time what I am talking about. I want to communicate to them that these fake apps are affecting them and their brand, and only they can take the steps to take these down effectively and quickly. The people, the brands which are affected will have to start raising their voice. Otherwise, scammers will continue to enjoy the liberty that nobody is bothered about this in India.
+
+A : I think the first thing they should do is they should consider this issue as a problem. If they at least consider this as a problem, then they could try reaching out to the guy who has been flagging these apps. Can they make it easier for me to report apps to them? I think, putting it bluntly, that for them I am just a PR issue. If I go silent, they would be the happiest.
+
+A : Scammers in every country have the same pattern, that’s why I can catch them, even if I don’t know the language. The team in charge of taking down fake apps in Indonesia is an effective one, because if I flag Indonesian apps, there is a guaranteed takedown between 24-48 hours. Even the scammer who reached out to me was behind a fake loan app in Indonesia, where his app was flagged the same day as launch and taken down within 48 hours.
+
+The folks at Apple and Google who take down fake apps, won’t be doing it just because I said so. They must be doing their own investigation and check whether an app follows all the terms and conditions and guidelines or not. But if they do this while publishing the app, I think these apps will not even exist. Somehow there needs to be a sync between the app review team or the team which takes care of these investigations.
+
+Also Read:
+
+Edit: Mr. Pooniawalla informed MediaNama that since the interview was conducted, the number of fake apps delisted has reached 9000.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

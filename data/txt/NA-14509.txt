@@ -1,0 +1,13 @@
+To mark World Password Day, MediaNama reached out to leading cybersecurity practitioners and policy experts to get their thoughts on what ought to be improved in India from a cybersecurity governance perspective. Most experts agreed that we need robust information sharing mechanisms between government and private entities, and greater incentives for the private sector to participate in government contracts.
+
+Could a Zero Trust Model be the answer?
+
+“Moving forward, just believing everything behind the corporate firewall is safe won’t be true. This will bring focus to adopt Zero Trust model that assumes breach and verifies each request as though it originates from an uncontrolled network. Zero Trusts core principle is: never trust anything, inside or outside of the corporate network will be followed exhaustively. Regardless of where the request originates or which resource it accesses, Zero Trust teaches us ‘never trust, always verify’. In a Zero Trust model, before granting access every request must be strongly authenticated, authorised within policy constraints, and inspected for anomalies. The system checks everything from the user’s identity to the application’s hosting environment to prevent a breach.” — Deepak Talwar, National Security Officer, Microsoft
+
+But, an expert, on the condition of anonymity, pointed out, “Number of offices will get reduced and hence it’s going to be funny looking at how all organisations handle security since the assumption is that all that is inside is trusted and all that is outside is untrusted. This is where the latest buzz word Zero Trust computing comes in, but it’s not what most people portray it as. The general perception is that everything available publicly is a Zero Trust model. It has a part of it where exposing things to the public is needed but more so, we need robust environment practices to set up the environment that it doesn’t trust anyone and those practices are lacking most of the time.”
+
+Correction (May 18, 2020 11:57 am): Subhodeep Jash’s name was misspelt. The error is regretted. Originally published on May 7, 2020 at 5:17 pm.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

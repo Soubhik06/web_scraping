@@ -1,0 +1,21 @@
+Could customers be sitting on a security tinderbox while using mobile banking applications? Over 70% of apps from banks in the Asia-Pacific region are vulnerable to attack and data leaks on the Android operating system, says Wegilant a mobile security company. Wegilant said that it had sampled the top 100 banks in the Asia-Pacific region, of which 33 were Indian banks and the company found security vulnerabilities in 29 Indian banks’ applications. *
+
+“Most of the mobile banking apps failed and many didn’t employ even the basic security checks expected. The communication between the apps & their servers is still in the unencrypted format i.e. in HTTP instead of HTTPS,” the report added.
+
+Wegilant also says that most of the apps are vulnerable to security attacks with 82% apps carrying high severity vulnerabilities in them and that on an average, 14 security bugs per app are present. “Surprisingly, we found 5 mobile banking apps which had more than 50 security vulnerabilities in each of them,” the report noted. Wegilant also says that 38% of the apps had improper content permissions vulnerabilities, 33% of the apps had an intent spoofing vulnerabilities and 22% of the apps were missing broadcaster permissions in them.
+
+Intent spoofing refers to an attack where a malware induces undesired behaviour by forging an intent, fooling users into sharing their secure data with the hacker’s servers.
+
+Methodology of the security tests
+
+Wegilant performed the security analysis on Appvigil, a security application the company developed, which requires only the executable .APK file of an Android app and sourced them from the Google Play store. The app performed a static analysis where it examines the bytecode structure of the app to look for any vulnerable connection and patterns. Then it performs a dynamic analysis where the run time behaviour of the apps was tested against the vulnerabilities in an emulated environment.
+
+Indian Overseas Bank mobile app test
+
+Earlier in March, Wegilant had conducted a test on an informational application of Indian Overseas Bank and had found some security vulnerabilities. However, the company clarified on its blog that the app used was not the official net banking app of Indian Overseas Bank. It further mentions that IOB users that the said vulnerability was not found in the net banking app of IOB and that they are safe.
+
+*Update: There was some discrepancy in the number of Indian banks applications which had security vulnerabilities. AppVigil gave us some clarity in terms of absolute numbers. The headline reflects the same.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

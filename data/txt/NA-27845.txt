@@ -1,0 +1,17 @@
+SUBREDDIT: r/Scams
+TITLE: I goofed.
+DATE: 2022-10-27
+SCORE: 5
+URL: https://www.reddit.com/r/Scams/comments/ye9e8u/i_goofed/
+
+--- POST TEXT ---
+
+Throwaway account because I was a dummy and I'm embarrassed.
+
+I looked up on google how to get a refund for an item that wasn't delivered through amazon. The first result was a phone number claiming to be amazon's customer service. I clicked on the link and it immediately called the number. Someone answered with an Indian accent and asked how he could help. I explained, and the "rep" had me download Anydesk, which I did with only minor red flags. They then had me open my amazon security page and check my banking to see if the "$1 charge for verification" they had supposedly run showed up. I don't have my debit card attached to my amazon, only my credit card, so I opened that app using my fingerprint. On the amazon page, the password was only asterisks, so the only information that was showing was my name and email address. On my cc app, the only information that was showing was my recent purchases. Eventually it dawned on me that this was a scam.
+
+I hung up the call, deleted the Anydesk app, and restarted my phone for good measure. I changed my amazon password, added my phone number and enabled two-factor authentication, and froze my CC.
+
+My questions: 1. Is there any way they could still have access to my phone? 2. I have passwords saved in google. Could they have accessed those during the call without my knowledge? 3. How long should I leave my credit card frozen for? 4. What other precautions should I be taking?
+
+Huge mega giant thanks in advance to anyone who knows more than I do and can help me out.

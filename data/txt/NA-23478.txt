@@ -1,0 +1,17 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: My 2 cents on Zerodha's Conspiracy Theories
+DATE: 2019-09-03
+SCORE: 14
+URL: https://www.reddit.com/r/IndiaInvestments/comments/cz3w1p/my_2_cents_on_zerodhas_conspiracy_theories/
+
+--- POST TEXT ---
+
+[https://zerodha.com/z-connect/zerodha/why-zerodha/on-conspiracy-theories-about-zerodha](https://zerodha.com/z-connect/zerodha/why-zerodha/on-conspiracy-theories-about-zerodha)
+
+First off, I am glad Z is addressing this issue. I have two comments:
+
+1. While technical glitches do happen, I did not see any steps to make sure that it doesn't repeat. Infact the tone was - *our systems are perfect and there is nothing to upgrade*.
+2. Reg privacy: There are two things going on here - 
+
+* What was mentioned in the public blog: aggregate and anonymous does not imply privacy. A hospital does not say 2% of our visiting patients have AIDS. Point is all those minute *stats were not needed* to drive home the point about having SL. Author could have stated his trade, position in Yesbank &amp; that's it. Always err on the side of caution.
+* How those stats were obtained: This is more worrying. Some of the stats mentioned in the original blog requires access to granular &amp; large amount of past data. "1.96 lakh of our clients who currently hold Yes Bank have bought the stock on an average at least 4 different times" - that any Zerodha employee has access to such information is worrying. Personally I started receiving calls/text for stock tips the day after I signed up with Zerodha. You can't control all employee from leaking data. Control should be at source (hash everything - user, stock, units, trades).

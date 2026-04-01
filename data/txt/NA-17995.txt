@@ -1,0 +1,51 @@
+SUBREDDIT: r/india
+TITLE: YSK: Schoolcountry can't fix a databreach that affects ~7000 kids
+DATE: 2019-01-29
+SCORE: 10
+URL: https://www.reddit.com/r/india/comments/al0gb6/ysk_schoolcountry_cant_fix_a_databreach_that/
+
+--- POST TEXT ---
+
+# Background
+
+If you don't know about [Dissent Doe](https://twitter.com/PogoWasRight) you ought to follow her right away. She's 
+been [voicing](https://www.databreaches.net/) security, and privacy concerns for a while now. 
+
+Sometime last year, a security researcher contacted her about **Schoolcountry**'s website leaking 
+thousands of students' personally identifiable information such as names, email addresses, right down to grades.
+
+She wrote to SchoolCountry on August 5, then again on August 10, without any tangible response. 
+Or, action. She tried again on December 30, only to get back an autoresponse, and reported the whole
+ordeal.[¹][a] 
+
+We had been in touch with her around December, working on another breach[²][b], when she
+asked us to help out. So, we did. This is how it went.
+
+# Timelines
+
+Date| Contacted | What happened| 
+:--|:--|:--| 
+Saturday, Jan 05, 2019 Around noon|Rohit| He promises to look into it.| 
+Saturday, Jan 05, 2019| Gunjan Agarwal (co-founder)| -| 
+Saturday, Jan 05, 2019, Around evening|Rohit| He says the bosses are busy. | 
+Monday, Jan 07, 2019|-| Call number shared by Rachna Khaira, from where we get Kunal Gandhi's (co-founder) number| 
+Monday, Jan 07, 2019| Kunal Gandhi| Thanks us, and promises to fix it.| 
+Sometime between Jan 07-Jan 09, 2019|-| Server is taken down| 
+Saturday, Jan 12, 2019| Gunjan Agarwal | Seeing that Google still has **all** the data in its cache, we sent out a message again. |
+
+# Epilogue
+
+Afte the server was taken down, Dissent wrote about it, and raised a few pertinent
+questions[³][c]:
+ "But how many IP addresses accessed those files while they were exposed? 
+ The data would be valuable for spamming or phishing parents of students or 
+ social engineering."
+ 
+If you are reading this ask SchoolCountry to fix it **NOW**. If you need reasons --
+there are **7000** of them. 
+
+Edit: a link
+
+[a]: https://www.databreaches.net/so-this-didnt-work-either/ 
+[b]: https://www.databreaches.net/california-department-of-insurance-vulnerability-potentially-exposed-thousands-of-ssn-and-other-personal-information/
+[c]: ]https://www.databreaches.net/are-indian-firms-too-lax-in-data-security-and-in-responding-to-breach-notices/

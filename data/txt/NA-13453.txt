@@ -1,0 +1,19 @@
+The National Payments Corporation of India (NPCI) is testing AI models to curb fraudulent digital transactions, NPCI Chief Risk Officer Viswanath Krishnamurthy disclosed in a recent interaction with the press. Krishnamurthy’s comments come as UPI fraud rose 85% in FY 2023-24 from the previous year, amounting to a loss of Rs 1,087 crore.
+
+The organization is utilizing analytical AI models to identify fraudulent accounts and assign them risk scores. Krishnamurthy cited an example of NPCI’s AI model allocating risk scores to accounts aiming to facilitate multiple transfers. This scoring system depends on the history of money flows as reported by The Hindu Businessline. While the NPCI has the authority to decline such transactions directly in certain cases, but it typically alerts banks. The use of NPCI’s AI/ML system to alert banks and decline fraudulent transactions was also mentioned in the Lok Sabha.
+
+Krishnamurthy termed the collaboration between banks and the NPCI a “federated” model, explaining that the two agencies share customer scores. Bank-generated customer scores—based on demographics like age and occupation—can be cross-referenced with NPCI-generated scores, which rely on transaction and device profiling, The Times of India reported . He claimed that the model would reduce false positives by accurately identifying fraud and enabling banks to classify fraudulent transactions more effectively.
+
+Additionally, NPCI is developing a feature that will send customers warning messages before they transfer money to an account flagged as a ‘scam’ by other users.
+
+Besides the aforementioned methods, the NPCI had also previously undertaken device and SIM binding to enhance security. To explain , device binding and active SIM linked to either the bank account or Aadhaar card was necessary for UPI apps to onboard customers. These mandates aim to curb identity frauds like SIM swapping, create unique digital identities, and eliminate zero-factor authentication, among other benefits.
+
+The NPCI, alongside the Finance Ministry and the Reserve Bank of India (RBI), have listed two-factor authentication through PIN and establishment daily transaction limits as other measures to tackle fraud. Notably, NPCI’s fraud monitoring solution involves processing real-time transactions and utilising fraud report data submitted by member banks to identify trends and initiate corrective and mitigating actions accordingly.
+
+MediaNama also contacted NPCI with questions to clarify certain aspects of the announcement and will update the story as soon as we hear from them.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

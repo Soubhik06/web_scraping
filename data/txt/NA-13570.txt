@@ -1,0 +1,45 @@
+The Ministry of Road Transport and Highways confirmed that government organisations have API-based access to vehicle data. However, the Ministry ignored questions about data sharing agreements with private entities. The Ministry responded to questions sent by MediaNama under the Right to Information Act, 2005 (RTI).
+
+The Ministry recalled that it scrapped the Bulk Data Sharing Policy, which initially aimed to sell citizens’ data collected by the government and its departments and agencies. However, the RTI reply did not clarify questions about the updated list of private companies accessing data from the Parivahan and Sarathi platforms. These platforms handle vehicle registration and driver’s licenses, respectively.
+
+MediaNama also asked about current data-sharing agreements and revenue earned—if any—from selling vehicle data to private companies, including account aggregators and third-party vendors. We also enquired if there are any audit systems in place to track data misuse. These questions didn’t solicit any response.
+
+Despite the Ministry’s clarification that government organisations have API-based access to vehicular data, many third-party applications on the Google Play Store still offer the data to users for free. This raises doubts about whether these apps have legitimate access to government-owned data.
+
+For example, the app “Vehicleinfo – RTO Information” has over 50 million downloads and an average rating of 4.5 stars. The official Ministry’s NextGen mParivahan app has over 60 million downloads with an average rating of 3.7 stars. Vehicleinfo claims to be “an all-in-one app for all your vehicle info needs and RTO vehicle information app.” This unofficial app can fetch masked user data by entering the vehicle’s registration number.
+
+Almost every app offering such data services includes the same disclaimer, stating that it does not affiliate with any RTO authority in India. The apps claim vehicle owner details are publicly available on the Parivahan/mParivahan website. Their disclaimer states, “We work as an intermediary platform providing convenient access to this information while upholding strict standards of data security and privacy.” Similar disclaimers can be found in similar apps like BikeInfo , Vehicleinfo – RTO Information .
+
+Nonetheless, the unofficial app’s claims of protecting user privacy remain unsubstantiated. Because, along with the masked user data, the app reveals insurance policy details, including the policy number and insurance company. Scammers can use this information to file fraudulent claims and access sensitive medical data.
+
+In another instance, miscreants grossly misused user information available on such platforms during the 2020 Delhi riots. The New Indian Express reported in 2020 that apps like “RTO Vehicle Owner Info” allowed users to enter vehicle details and obtain information such as the owner’s name, allegedly to target members of a particular community.
+
+In 2011, the Ministry of Road Transport and Highways (MoRTH) created the Vahan and Sarathi databases under its National e-Governance Policy and released funds to RTOs to digitise the data.
+
+Later, in 2012, the government passed the National Data Sharing and Accessibility Policy (NDSAP) to facilitate access to government-owned, shareable data and information in both human-readable and machine-readable forms. This has enabled the government to form the Open Government Data (OGD) platform, which has been publishing the data since 2012. The platform currently has 234,230 API(s) . APIs, or Application Programming Interfaces, are rules that allow software to communicate with each other and thereby transfer information.
+
+Yes, after a few months of passing the Bulk Data Sharing Policy by MoRTH, the government revealed the revenue it had earned after selling the user data.
+
+In March 2019, the MoRTH implemented a Bulk Data Sharing Policy to monetise the data. Under the policy, commercial organisations must pay Rs 3 crore for one year of access to the Vahan and Sarathi database. Educational institutions and researchers can access the data for Rs 5 lakh. Starting in fiscal year 2020-21, the fee will increase by 5% annually.
+
+After four months of issuing the policy, India’s Union Minister for Road Transport and Highways, Nitin Gadkari said the government earned Rs 65 crore by selling access to the Vahan and Sarathi databases to 87 private and 32 government entities.
+
+Additionally, another RTI reply to questions sent by the Internet Freedom Foundation (IFF) shows that, as of August 1, 2019, at least 142 entities purchased vehicle and license data from the Ministry.
+
+To begin with, the Ministry hadn’t done any public consultations before issuing the policy.
+
+MoRTH officials said the data will be provided in an anonymised format. The policy states that the ministry shares complete data with certain enforcement agencies, banks, automobile industries, finance companies, and insurance companies. This allows third parties to access personally identifiable information, undermining initial efforts to anonymise the data.
+
+Moreover, the policy itself admitted that there is a possibility of triangulation, which refers to combining different datasets that, on their own, reveal little about the sensitive user information. However, when viewed together and matched with other datasets, it can lead to individual identification and compromise user privacy.
+
+Eventually, almost a year later, in June 2020, the Ministry scrapped the policy after issuing the guidelines. The Ministry cited the misuse of personal information and privacy issues as the reasons for scrapping the policy.
+
+It’s been five years since the government scrapped its data-sharing policies. Additionally, as per the RTI’s reply, the government is likely only sharing the data with government organisations. This leads to concerns about potential illegal data scraping and unauthorised data access by third-party apps which raises the following questions:
+
+These questions lead to the possibility of massive illegal data scraping, a punishable offence under Section 43 of the Information Technology Act, 2000 , which imposes penalties and compensation on individuals or entities that damage computer systems or extract data without authorisation.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

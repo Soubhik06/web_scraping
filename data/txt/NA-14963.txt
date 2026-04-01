@@ -1,0 +1,67 @@
+Digi Yatra, a facial-recognition-based boarding system being used at several Indian airports, has again come under scrutiny for critical allegations regarding user surveillance, risks to user privacy, and security of over 4.5 million passengers’ data . An investigation by a technologist, published on X, has shed light on the operational ambiguities within the Digi Yatra ecosystem, raising questions about data access and control over registered users’ information.
+
+What gained people’s attention prominently was Digi Yatra Foundation’s (DYF) switch to a new app recently. The DYF has been forcing passengers at airports to delete the old app and download a new one in view of system upgrades. More on this below.
+
+First things first, what is Digi Yatra?
+
+The Digi Yatra is a paperless “biometric boarding system” that uses facial recognition technology (FRT) for verification at Indian airports. It is managed and operated by the Digi Yatra Foundation. Ever since its implementation, the project has received much criticism due to a lack of transparency regarding the security of people’s data that is being collected, privacy issues related to the use of FRT, and ambiguities related to the authority that manages the Digi Yatra. Most recently, people have also taken to X to report instances of passengers being forced or tricked into using Digi Yatra at airports.
+
+Who owns Digi Yatra?
+
+The Digi Yatra project is an initiative undertaken by the Ministry of Civil Aviation (MCA), but it’s noteworthy that the Ministry does not provide any budgetary support for its implementation. Instead, the expenditure is borne by Airport Operators, according to the Ministry’s press release in February 2023.
+
+The DYF website informs that the Airport Authority of India (AAI) controls only 26% shares of the entity, and the rest of the shareholders—Cochin International Airport, Bangalore International Airport, Hyderabad International Airport, Mumbai International Airport, and Delhi International Airport, hold 14.8% of the shares each.
+
+The Ministry further disclosed that Dataevolve Solutions, a Hyderabad-based cloud services company , developed the FRT-based Digi Yatra Central Ecosystem, having won a national startup challenge facilitated by Niti Aayog under the Atal Innovation Mission. This departure from the conventional tendering process raises questions about the selection criteria for technical service providers. Dataevolve’s website shows that the company is also associated with other government projects like the Aarogya Setu, MyGov (Meri Sarkaar), and also works with the National Informatics Centre as well as the Government of Telangana. However, the website does not contain details of specific projects they are involved in.
+
+Additionally, although the Indian government says that Digi Yatra is an initiative of the MCA and has been circulated as a national policy since 2018, MediaNama’s RTI revealed last year that Digi Yatra does not come under the purview of Right to Information. This is because DYF is a private non-profit entity. It then becomes questionable how a private entity (DYF) is entrusted with operating a facial recognition-based travel service, and thus, collecting and processing sensitive biometric data of passengers across at least 13 airports in India.
+
+Why did Digi Yatra ask users to install a new app?
+
+In March, the Digi Yatra office informed that users may face “intermittent outages” in Digi Yatra services due to an ongoing upgrade of the backend systems. However, as reported by The Ken , a NITI Aayog official confirmed that the company was in fact preparing to restructure the app, and that the technology teams inside DYF were asked to cut off all ties with Dataevolve.
+
+This is because Dataevolve—a one-person company run by Avinash Komireddy—is being investigated in a significant funds-embezzlement scam in Andhra Pradesh. Komireddy was arrested in November 2023 for siphoning off at least Rs 36 Crores of the E-challan fees from the Andhra Pradesh police department using an app called ‘Razor Pe’, a cloned app of ‘Razor Pay’.
+
+A technologist on X, who goes by the name kingslyj on the platform, has published an analysis showing that until March, the official Digi Yatra app was functioning under the package name “in.dataevolve.digiyatra.” A package name of an android app is a unique ID which identifies the app on a device. Google does not allow developers to change their application ID once published, and once changed, the Google Play Store will treat it as an entirely new app.  This urged Digi Yatra Foundation to shift to a new app under the package name “org.digiyatra.org”.
+
+kingslyj has also alleged that there was an attempt made by Amazon Web Services (AWS) to censor all content, including blog posts by AWS , that established links between Dataevolve and Digi Yatra.
+
+Hey @awscloud
+
+Does you charge for censorship by the URL or by words/bytes?
+
+What support plan is @DigiYatraOffice on that offers such prompt CensorshipAsAService to eliminate all traces of links between #DigiYatra and Dataevolve Solutions OPC Pvt Ltd? https://t.co/QSSA22XfEF pic.twitter.com/QuVhDvhUbX
+
+— mas.to / (@kingslyj) April 4, 2024
+
+Did Dataevolve have access to Digi Yatra users’ data all this while?
+
+The researcher’s further analysis of the application package of the old and new Digi Yatra apps found that all past versions of the Digi Yatra app were sending passenger data to Dataevolve’s AWS servers. There were references to the AWS US Govt Cloud and other sites in the app’s technical design as well. Additionally, the new app still has references to old Dataevolve APIs and URLs.
+
+While DYF may have tried to clear Dataevolve’s references in the app, the larger questions remain: what really happened to the data of millions of users on the old app? To what extent did the app sweep the user devices for data? Is it stored with Dataevolve if the company had access to it?
+
+Based on his study of Digi Yatra’s app , kingslyj has alleged that the Digi Yatra app has access to “all the data” of a user’s device and is also equipped with privacy-invasive capabilities to surveil the travellers. This also includes access to data from other applications installed on the phone.
+
+He has also alleged that while the old app consisted of two trackers and required 12 permissions from the user, the new one has two trackers with 16 permissions, including access to biometrics, fingerprint, and microphone.
+
+What is Digi Yatra Foundation saying?
+
+The CEO of DYF, Suresh Khadakbhavi, in his interviews with the media, has continued to refute the allegations regarding storage of citizens’ personal data. In an interview with the Economic Times , Khadakbhavi said that there is no central storage of user data, a claim reiterated by the Civil Aviation Ministry multiple times since last year. He has also denied that Dataevolve had access to people’s data.
+
+In March 2023, Avinash Komireddy, said in an interview with MoneyControl that “the facial recognition authentication process takes place on the Amazon Web Services (AWS) cloud platform.” “That’s the only touch point where your data is going into AWS, because doing it (the verification) on the phone is not very practical,” Komireddy said, adding that no data is stored on AWS, or with the start-up themselves.
+
+In the same interview, Komireddy also informed that the Digi Yatra system also employs a blockchain that provides a credential to passengers to establish a match during the facial recognition process. He stated that the matched face is always on the blockchain to ensure the credibility of the credential is not tampered with.
+
+This makes us wonder: how can the claim that “user data is not stored” hold water then?
+
+Meanwhile, according to The Hindu’s report , Khadakbhavi also denied any association with Dataevolve stating that “Digi Yatra started on the CIC infrastructure of NITI Aayog and later migrated to Dataevolve, which was managing as a managed service provider on behalf of the foundation”. This is after the Ministry itself has informed that Dataevolve designed the Digi Yatra Central Ecosystem.
+
+What remains unanswered?
+
+MediaNama has sent some of the key questions to the Digi Yatra Foundation and will update this article upon receiving a response.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

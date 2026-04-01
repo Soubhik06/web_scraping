@@ -1,0 +1,91 @@
+by Anand Raman
+
+The debate about cash versus digital has reached a fever pitch. In this context it is important to compare digital transactions that do not involve the use of credit. For customers making payments, debit is different from credit.
+
+Cash represents a promise to pay the denominated value on paper by the central bank. Debit card transactions use money in a bank account that can be accessed by electronic means. Credit cards involve asking your bank to pay in advance on your behalf with them taking the risk that you will pay them later (or not). It may be seen as a transfer of debt with an introduction of risk. This is why debit cards are closest to cash.
+
+The myth of cash being free of cost
+
+A payment is a cancellation of debt. Cash achieves that easily because of the myth that there is no cost involved. As we are finding out in the new world, A.D. (After Demonetization – hat-tip to a colleague for coining that term), there is a tremendous chain of intermediation involved. The costs here are all invisible:
+
+This scholarly study puts the cost of cash in India at Rs 21,000 crores per annum to the “system” – the Reserve Bank of India (RBI) and Banks. This does not include the multiple costs to the economy that result from cash being used as the vehicle to under or mis-report income and avoid taxation.
+
+As a consequence, users do not attribute a cost to cash. An amorphous “system” has been bearing this cost – which is really saving the public from the phenomenal inconvenience of the barter system, the cost of managing cash from being eaten by rats, burnt in fires, stolen by thieves and so on. The “system” is guilty of creating the illusion of cash being “free” or “at-par” for payments. Meaning, I owe you a debt of Rs 100. I pay you Rs 100 in cash. The debt is instantly settled, with no apparent cost to either party.
+
+Current fee structure for debit card transactions seems hard to justify
+
+Banks in India have issued over 700 million debit cards. Even so, an overwhelming majority of customers only use debit cards to cash out at an ATM or the branch. Banks incur a cost for this, but owing to historical and regulatory reasons, do not directly pass this cost on to the customer.
+
+Furthermore, the serious transposition error that has been made, is of copy-pasting the credit card business model from the developed world onto that for debit card transactions. In this model, the merchant receiving payment is required to pay the bank a share of the transaction fee, when payment is by a credit card. This may be fine by the merchant when the customer is spending money against a future income. But paying this fee – even at 0.75% for transactions below Rs 2000 and 1% for transactions above that – seems hard to justify. Again, for debit cards only.
+
+With chip and pin cards, mandated by the RBI, the only way one can pay (cancel a debt) using a debit card, is when one actually has sufficient funds in an account to which the card is linked. In addition the customer enters a PIN, to authenticate identity and authorize the transaction. At the very minimum, in the case of debit card present transactions, this should shift the onus of proving that the transaction was done (or not) to the cardholder, rather than the issuing bank. In summary, the financial risk to a bank for this transaction is miniscule. This is why a percentage fee of the value of the transaction appears unfair.
+
+But this is not to say that there are no costs involved in setting up the infrastructure to do debit card transactions:
+
+However, the distinction with debit cards as plastic money, is that many of these costs are technology investments that have massive economies of scale that paper money (cash) simply does not have. This is where a different model of pricing for transactions could drive digital payments significantly.
+
+Pricing models for debit card transactions
+
+Many banks already charge a fixed fee (averaging Rs 20) to customers who exceed the RBI mandated monthly transaction limit at their bank’s ATMs or to use a different bank’s ATM. There is sufficient data to establish that the cost of cash withdrawals at an ATM are lower (to banks) than those at a bank branch, even where the bank is bearing this cost rather than passing it on to the customer. So there are instances, even if they are few, where customers are willing to pay for a cash withdrawal transaction. The National Payments Corporation of India (NPCI) reports average withdrawal size at Rs 3,300.
+
+However, it gets harder to get customers to pay for an average retail payment transaction of Rs 200 and harder for merchants to absorb fees when margins on products are in percentages. This is compounded by the fact that debit card merchant discount rates (what merchants pay to banks for accepting cards) have a base transaction fee (floor). In absolute terms this often breaks merchant economics for small ticket transactions.
+
+What other industry pricing models can Banking learn from?
+
+Amongst the most significant inflection points for the prepaid telecom revolution was the removal of charges for incoming and introduction of a calling party pays regime. That led to the discovery of the much loved “missed call” phenomenon that is almost singular to India. Today, the situation in retail payments is that merchants have to pay for “incoming”.
+
+But money isn’t airtime. So is it practical to ask customers to pay a per transaction fee – regardless of whether fixed or percentage – to use digital, since their comparison is with cash, which (as discussed previously) is perceived as having no cost? It is clear that a fee is needed to make the business model viable. Merchants or customers are the only two parties who can/must pay to make business viable for providers. There is no third option.
+
+We all love buffets
+
+Many emerging, successful digital businesses seem to be thriving on models where the offering is in intervals of volumes of consumption, is not priced per unit of transaction, but for a unit of time. For example Netflix offers unlimited movies for a fixed monthly fee. Apple’s iTunes Radio offers unlimited songs for a monthly subscription fee. Even the Mumbai Suburban Transport offers monthly passes that allow unlimited rides per month.
+
+These examples have been chosen over free or freemium models because they respond to the business model viability question more easily. These models also reveal an interesting consumer insight – that the overwhelming majority of customers will not abuse the system and there will be income from residual value – e.g. rides paid for, but unused. Customers have not demonstrated behaviour to watch 10 hours of TV a day or sit in a train and go up and down multiple times, just because it costs nothing incrementally to do so.
+
+So why do providers charge a percentage fee on nearly risk-free debit card transactions? Would consumers be more willing to pay a fee for a pack of transactions?
+
+For example, take this fee structure:
+
+*These are purely illustrative and hypothetical costs to quantify and assess impact.
+
+We don’t know if customers will pay. However, one size will not fit all. Offering customers the choice to buy top-up transaction packs they can choose according to their usage may be more customer / merchant friendly.
+
+What are the economics?
+
+A BCG-Google report released earlier this year states that 30 billion utility bills are generated each year of which 70% are paid in cash. That’s over 20 billion utility bill payments per annum.
+
+This author could not source data about the number of payment transactions that take place in the economy. Let’s assume, hypothetically, that there are 500 million economically active adults in India, who do 2 cash payment transactions a day. We are looking at 1 billion transactions in cash daily. That’s revenue of Rs 90 billion (500x15x12) per annum assuming everyone chooses the best-fit pack of 100 transactions per month (for consuming 2×30 = 60 transactions per month). Utility bills and other transaction volumes are a bonus.
+
+According to this mint report that quotes RBI statistics, customers transacted an amount of Rs 145.83 billion using debit cards at Point-of-sale (POS) in a month, which is illustrated here . Assuming a blended rate of 0.80% transaction fee, that puts the annual revenue from debit card transaction fees at approximately Rs 12 billion {(145.83+111)/2 x 0.8% x 12}. Meanwhile, assuming a nominal cost of Rs 8 for every ATM withdrawal averaging Rs 3,300, the cost of dispensing cash was Rs 59.67 billion {[(2204.61+1897.69)/2]/3300 x 8 x 12}.
+
+On the face of it, banks lost Rs 47.67 billion by charging for POS transactions and making cash withdrawals free; or they lost nearly four times as much paying for cash withdrawals, as they made on fees from debit card transactions at POS. That doesn’t even include cash withdrawal transactions at bank branches that conservatively cost Rs 40 each.
+
+Arguably, a digital transaction pack for a monthly fee, is not such bad economics? If as a corollary, merchants pay nothing, then what remains to be decided is: how to share revenue from customers buying transaction packs between the ecosystem players.  Merchants may also see investing in this model of acceptance differently if there are no transaction costs to pay. Card is equal to cash.
+
+Also read: Cash vs Digital Money: why going cashless is going to be tough in India
+
+Paying anyone, anywhere, anytime
+
+The real constraint of cash is mobility. We have not factored how many more remote digital transactions can open up, for use cases where customers who pay in cash currently, have to spend productive time travelling, queuing and sometimes paying speed money to get what is their right.
+
+Just as the prepaid telephony revolution was birthed from a willingness on the part of customers to pay for the convenience of being able to call anyone anywhere anytime, it is perhaps worth testing if customers will be willing to pay for the convenience of being able to pay anyone anywhere anytime.  Perhaps it is time to rethink transactions as the unit of economics for digital financial services intended to serve poor and excluded populations.
+
+Of course, there are challenges, and one must not trivialize them. None of this is to say that lower transaction costs alone will achieve an inflection point. Massive, sustained marketing campaigns about use cases of debit cards and other digital payments as a safe, convenient, simple and universal alternative to cash are needed. But it is difficult to see why anyone who starts using cards/digital and experiences the benefits, would like to go back to cash.
+
+Even with widespread adoption of digital, cash will not be eliminated easily. Particularly for small value transactions, we need to find digital alternatives that can match the speed, convenience and simplicity of cash. For example, two-factor authentication could be replaced by velocity (number/period) and transaction (value) limits. Debit cards would need to have substitutes like NFC chips or RFID solutions for transit.
+
+In a recent talk , Nandan Nilekani pointed out how banking and payments is moving from low volume – high value transactions to high volume – low value transactions. The low volume  – high value transactions remain in great health. As Nandan rightly points out, this transition can be realized sustainably only when the volumes are high enough to allow the low value transactions to become commercially viable.
+
+Cash needs to lose this battle
+
+Incremental change just will not do. It is not the secret sauce of creative destruction that free markets with innovation should aim for. The concomitant benefits of formalization and digitization can result in improved tax collections, which will hopefully fund spends on developing better schools, hospitals, sanitation, roads and Internet connectivity. The absence of public goods funded by taxation hurt the poor far more in the long run than they do, the rich (statistically including this author, and arguably everyone reading this post), who have the financial resources to send their children to private schools, avail private health care, live in enclaves, use private transportation and have access to broadband Internet. It is our responsibility to help level that playing field for the excluded, rather than plead status quo by perpetuating the fantasy that cash is cheap.
+
+The banking and payments industry needs to examine alternative models to make digital compete and beat cash. The Government is already on board. If we do not act now, we will be wasting a tremendous opportunity.
+
+*
+
+Anand Raman has over two decades of professional experience across Financial Services, Telecommunications, IT and Media. In the last five years he has been deeply interested and involved in the Financial Inclusion movement in India as part of the early team of a national Business Correspondent. Prior to that he was part of leading media and telecommunications businesses focused on Mobile enablement of content services.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

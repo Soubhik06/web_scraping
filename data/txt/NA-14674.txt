@@ -1,0 +1,53 @@
+Data Evolve told the Delhi High Court (HC) that KPMG unauthorisedly visited its Hyderabad office and cloned the Digi Yatra app before deploying it across 28 airports, even though the underlying agreement permitted deployment at only four, as per a Bar and Bench article.
+
+This allegation surfaced during a hearing on the company’s request to add six new issues to its ongoing ownership dispute with the Digi Yatra Foundation (DYF). Importantly, Justice Subramonium Prasad reminded both parties that the court frames issues only when the pleadings clearly contain relevant facts.
+
+However, the accusation brought the central question back into focus: Who owns the Digi Yatra platform, its software, and the system that powers biometric processing at Indian airports?
+
+During the hearing, Data Evolve asked the court to include six additional issues in the trial record. These issues covered the alleged KPMG visit, the app’s deployment across 28 airports, the company’s claim that it developed the software in 2020, and disputes about withheld payments.
+
+However, Justice Prasad reviewed each proposed issue and asked counsel to identify the exact pleadings where these claims appear. He reiterated that issues arise only when the complaint contains an assertion and the written statement contains a denial. Consequently, claims that do not appear in the pleadings cannot become trial issues.
+
+When Data Evolve mentioned non-payment of dues, the court directed the company to raise financial disputes through a counterclaim, and deposit the required court fees. Justice Prasad ultimately noted that most of the proposed issues already fall within the issues framed earlier or do not arise from the pleadings at all.
+
+Elsewhere, the court granted time for DYF to file its reply by December 10. Notably, DYF has also filed its own application seeking additional issues.
+
+On October 29, 2025, the Delhi HC framed four central issues that define the core ownership dispute.
+
+These four issues establish the framework for deciding control over Digi Yatra’s codebase, backend architecture, and deployment rights. And most of the questions raised in Data Evolve’s latest application fall within these boundaries.
+
+However, the allegation about KPMG’s visit raises operational questions that extend beyond the issues already framed.
+
+Digi Yatra functions as a biometric-based entry and passenger processing platform that uses facial recognition at airports. DYF operates the platform as a Section 8 not-for-profit entity formed under the Ministry of Civil Aviation’s Digi Yatra Policy, 2021. The Airports Authority of India holds a 26% stake in DYF, while the airports in Cochin, Bengaluru, Hyderabad, Mumbai, and Delhi each hold 14.8%.
+
+DYF selected Data Evolve through a startup challenge in May 2021to select a developer for the Digi Yatra Central Ecosystem. Both parties signed the MVA in November 2021 and issued a Letter of Intent in April 2023. DYF states that the MVA grants the Foundation ownership of all software, modifications, and derivative works created for the project, while only pre-existing tools remain with Data Evolve.
+
+However, the relationship deteriorated in late 2023 after allegations surfaced that Data Evolve’s promoter diverted Rs. 36.5 crore in traffic fines in Andhra Pradesh. DYF sought clarifications and, after receiving an unsatisfactory response, disengaged in January 2024 and instructed Data Evolve to hand over the Digi Yatra ecosystem and all operational credentials.
+
+However, Data Evolve disputes DYF’s position. The company claims it built key components of the system in 2020, before the parties signed the MVA. It also alleges that DYF withheld payments. Furthermore, Data Evolve has approached a Hyderabad court seeking protection of what it describes as its intellectual property.
+
+Notably, earlier versions of the Digi Yatra app appeared under a package linked to Data Evolve. When users replaced the old app with a new one in 2024, technologists pointed out backend connections associated with Data Evolve’s cloud infrastructure. In turn, these observations intensified questions about access, control, and ownership with respect to the Digi Yatra app.
+
+In March 2024, DYF approached the Delhi HC to ensure service continuity and protect passenger data. Justice Prathiba Singh granted an ad-interim injunction restraining Data Evolve from accessing, transferring, or copying any Digi Yatra passenger data.
+
+The court described the application as critical infrastructure used by millions of travellers and said any disruption could affect public interest.
+
+As a result, the court directed Data Evolve to hand over server access, application access, Graphical User Interface (GUI) source code, blockchain source code, domain certificates, app store controls, SMS gateway credentials, AWS credentials, and other operational keys. And officers from the HC’s IT team supervised the handover at Data Evolve’s Hyderabad premises.
+
+And notably, DYF continues to operate the Digi Yatra platform under this interim arrangement.
+
+The allegation that KPMG cloned the Digi Yatra app during an unauthorised visit adds a new dimension to the dispute. It also revives the core unresolved question in this lawsuit: who actually owns and controls the Digi Yatra platform?
+
+Importantly, ownership determines who controls software updates, backend access, data flows, third-party audits, and system governance. However, it also determines who takes responsibility when external entities interact with the infrastructure.
+
+Notably, DYF has previously stated that it plans to expand Digi Yatra into a Digital Public Infrastructure (DPI) model for verification in hotels, offices, and examination centres. Therefore, clarity on ownership is essential before this expansion moves forward.
+
+One must also note here that the Digi Yatra ecosystem handles sensitive biometric data, yet DYF does not fall under the Right to Information (RTI) framework . And this absence of public oversight has raised long-standing concerns about transparency and accountability.
+
+Returning to the latest development, the Delhi HC’s ruling will decide whether the government-backed Foundation fully controls Digi Yatra or whether Data Evolve retains rights over software it claims predates the MVA. And the latest allegation involving KPMG reinforces why the contentious question of ownership must be resolved before Digi Yatra expands further.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

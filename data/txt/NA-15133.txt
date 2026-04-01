@@ -1,0 +1,11 @@
+On April 18, a Bluetooth-based contact tracing app — Covid19 Alert! — in the Netherlands leaked full names, email addresses and encrypted passwords of nearly 200 users, RTL Nieuws reported . Immotef, the Polish-Belgian company that developed the app, had put the source code of the app online for public scrutiny. However, the code contained a database from another Immotef app. Immotef reportedly took part of their code offline. The data has since been deleted and Immotef has told people who extracted the data to delete it as well, Dutch newspaper De Standaard reported . People whose data was leaked will be notified, while the Dutch Data Protection Authority and Ministry of Telecommunications, Telecom and Post have been informed.
+
+Sander de Vries, the CEO of Immotef, told De Standaard that this data from the other app was accidentally not removed because of the pressure to quickly publish the code. He reportedly called it a “human error” that was “not good”, but “we had half an hour to put the code online”.
+
+This app is one of the seven apps that is competing to be designated as the Dutch government’s official contact tracing app. In that process, developers of all seven apps had to release their source code over the weekend and face questions by experts, De Standaard reported. The data leak was discovered during this process. The second round of the process was expected to begin on April 19.
+
+A digital contact tracing app is expected to be used by the Netherlands as it considers lifting restrictions put in place to combat the pandemic. The file for consideration of the seven contact tracing apps is on the table of Telecommunication Minister Philipe De Backer.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

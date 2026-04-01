@@ -1,0 +1,81 @@
+Meta has advocated for minimal restrictions on open-source AI by the US government and suggests that responsible development of all AI models is key to balance the benefits of open foundation models with their marginal risks. This was highlighted in its comments to the US Department of Commerce’s National Telecommunications and Information Administration (NTIA) consultation on open-source foundation models.
+
+In March, the NTIA sought comments on the risks, benefits, and potential policy related to dual-use foundation models for which the model weights are widely available. Dual-use foundation models are open foundation models that can be fine-tuned by developers using widely available computing. As MediaNama reported, the model’s weight refers to the numerical parameters within an AI model that influence its output in response to inputs. This weight changes based on its learning over time”.  Further, in addition to model weights, there are other components of an AI model, including training data, code, or other elements, which are involved in its development or use, and may not always be widely available.
+
+The consultation sought inputs on a wide range of questions regarding the definition of widely available model weights, potential benefits, risks, and implications of foundation models with widely available model weights, and standards for evaluation of such models among others.
+
+Meta proposed criteria for defining “open” or “widely available weights,” emphasizing the importance of assessing various components like software, hardware, programming languages, and training datasets. They recommended flexibility in determining openness based on individual risks, allowing model providers to decide the level of accessibility. Meta also urged collaboration between NTIA and the US AI Safety Institute, and international counterparts, through comprehensive agreements.
+
+Meta proposes a flexible definition of ‘open’ or ‘widely available weights’ that considers the underlying technology stack, including software, hardware, programming languages like Python, and machine learning frameworks like PyTorch.
+
+The company recommends that openness of different components of a foundation model must be determined based on different objectives, and that model providers must retain the ability to decide the degree of openness after evaluating risks of each asset separately. It explained that an open approach to models could mean providing access to model weights, but not to training datasets. While one can fine-tune a foundation model without model weights, doing so with model weights provides more flexibility, lowers costs, and more control over data associated with fine-tuning.
+
+The company stated that the decision to open-source a model must be taken after weighing in risks and business factors. Further, highly advanced and novel models, Meta advises, must be released first to researchers, who can understand and mitigate risks associated with the model.
+
+On the question of whether “wide availability” of model weights be defined by level of distribution, emphasis is laid on the criteria provided by the Partnership on AI’s Guidance for Safe Foundation Model Deployment . The guidance, according to Meta, provides model providers with recommendations based on foundation model type (e.g., Specialized Narrow Purpose, Advanced Narrow and General Purpose, Paradigm-shifting or Frontier) and release type (e.g., Open Access, Restricted API/Hosted Access, Closed Development and Research Release), which further guide on the best suitable method to releasing a specific model.
+
+2. Risks associated with widely available model weights vs. non-public model weights
+
+The company has submitted that responsible open-sourcing of models presents lesser risks than closed foundation models. This is because when a model is open sourced, it is under scrutiny by a wider community of regulators, AI experts, hobbyists, and innovators, leading to a rapid identification and development of solutions for vulnerabilities.
+
+It explained, “In general, it can be more challenging to fix or mitigate safety/security issues with open models as the model provider/developer can’t issue patches (unlike for traditional software). However, it is important to remember that if bad actors find an issue in a closed model via API, they are unlikely to disclose or report it; the onus is entirely on the model API owner to detect and mitigate such issues.”
+
+Meta advocates for a ‘marginal risk analysis’ to compare open and closed AI models with existing technologies. It argues that, although large language models (LLMs) could potentially be used for sophisticated phishing attacks, they don’t inherently increase cybersecurity risks. In fact, LLMs can help detect and counteract phishing by analyzing email content, thus serving as a valuable cybersecurity tool. Meta argues against restricting LLM access, suggesting that the focus should be on broader security measures like advanced authentication methods.
+
+The company also points out that closed models aren’t inherently more secure; they’re susceptible to data breaches, faulty APIs, and insider threats. Both open and closed models pose privacy risks, requiring robust safeguards. The comments stress on the need for de-identifying training data and applying privacy techniques early on. It acknowledges that closed models can use prompt engineering for added security, but these methods aren’t immune to sophisticated attacks.
+
+3. Risks associated with making model weights and training data or source code widely available simultaneously
+
+Meta informed that a widely available model code may enable sophisticated and resourced developer to remove safety guardrails, which may, for example, prevent models from generating offensive or harmful content. The response states, “…pushing out code fixes with open models is significantly faster and more efficient than data-level or model-weights-level mitigations because code fixes can be applied universally, but data-level or model-weights-level mitigations often need to be specifically tailored, or require retraining the model.”
+
+It added that releasing model weights alone without additional resources on how to use a model such as model cards and source code is not sufficient for model deployment developer. Secondly, while it is possible to fine-tune a model with just pre-trained model weights, it will be less efficient and valuable to good actors as compared to fine-tuning with access to model code or other guidance.
+
+4. Benefits of Open-Source models vs. Closed Models
+
+Macroeconomic benefits : The comments cite a June 2023 McKinsey report , which showed that foundation models may generate between $2.6 trillion to $4.4 trillion in economic growth across the global economy. Given that smaller players in the industry may face challenges in developing foundation models owing to significant capital costs, policies on open foundation models can advance competition and innovation, Meta says.
+
+Competition and innovation: “Open models set a “floor” for competition, incentivizing innovation while ensuring that no one actor can capture the “baseline” and extract undue rents,” the discussion highlights. It further indicates that broadening access to models enhances competition in downstream markets, and helps reduce market concentration at the foundation-model level from vertical cascading.
+
+Security: Meta highlights that by democratising access, vulnerabilities are continuously identified and mitigated by an open community, which helps in creating safer products and strengthen security. It also noted that open-source software continues to serve as an important component for cybersecurity in the US federal government.
+
+Scientific research: As mentioned earlier, open-source enables a larger community of researchers to study and experiment with advanced technologies. This, the comments note, benefits the entire ecosystem, including the closed-source model providers and downstream developers.
+
+Further explaining the importance of research on new model architectures, the paper elaborates, “While transformer models have achieved state-of-the-art results on many tasks, they can be computationally intensive and require a lot of memory, which can be a limitation for certain applications or devices. Alternative architectures might offer similar performance with fewer computational requirements, thereby driving both performance up and costs/accessibility down.”
+
+National security and foreign policy : Meta claims that open-source models can in fact help strengthen cybersecurity by scaling cybersecurity defenders as they can enable classified use cases for generative AI. This is because they can be hosted locally and do not rely on cloud infrastructure. Further, given that open-source democratises access to AI tech, countries can leverage such resources for service delivery in order to address inequality gaps and build new technologies.
+
+5. Model evaluation methods that can help determine benefits of open sourcing model weights
+
+While highlighting that there is a lack of consensus about the best way to measure and evaluate risks, Meta recommends efforts to develop evaluation methods should focus on issues such as:
+
+“…standardized harm categories; violent crimes; non-violent crimes; sex-related crimes; child sexual exploitation; indiscriminate weapons (Chemical, Biological, Radiological, Nuclear, and high yield Explosives ‘CBRNE’); defamation; specialized advice; privacy; intellectual property; elections; hate; self-harm; and sexual content.”
+
+The comments note that such evaluations can encourage a shared understanding on the most suitable methodologies for conducting risk/benefit analysis. The evaluation method should also include measurements related to the ability of the model to “enable/encourage/endorse these activities”. Meta states that it until such consensus is arrived, it will be premature to require specific measurements and benchmarks, which may lead to fragmented approaches and reliance on potentially unreliable or outdated metrics. The company has recommended the NTIA to work with the National Institute of Standards and Technology of the US on standardising the threat models and evaluations along the AI value chain.
+
+6. Components of a foundation model that needs to be available in order to certify or red-team the model
+
+Meta’s response informs that the type of access required depends on the nature of assessment conducted. For example, Meta says many AI researchers conduct AI model experiments using publicly available interfaces such as Google Colab, Hugging Face, Chatbot Arena.
+
+Secondly, resources such as a model card or other transparency documentation detailing the model’s construct and performance can also be useful to verify that a foundation model meets certain requirements. However, model weights offer a deeper and more reliable analysis of the model’s capabilities.
+
+Meta further explained, “This is especially valuable for understanding models that aren’t integrated with system-level, end-to-end protection layers. For example, if a model is not integrated with appropriate access controls or encryption, analyzing the model weights could reveal whether sensitive information is stored in the weights or whether the model relies on certain features that could be used to launch attacks.” Model weights also help analyse vulnerabilities in a foundation model deployed in a critical infrastructure system with appropriate network security measures or monitoring in place.
+
+They also informed that for red-teamers representing a community of typical users, the testing environment need to be user-friendly so that they do not have to invest much time learning how to use model weights. Whereas, for serious threat actors, it is important to make the model weights available as such nefarious threat actors are more likely to have access to them.
+
+7. Role of model hosting services (e.g. Hugging Face, GitHub, etc.) be in providing access to open-source models
+
+The comments underscore the importance of hosting services in disseminating information about AI safety to the public by noting their own safety rankings and publishing model evaluations. “Irrespective of whether a model is closed or open, hosting services could provide a form of notice to consumers to indicate whether a model has met industry accepted benchmarks, such as those in development by NIST,” the comments note.
+
+8. Standards for use of open foundation models by the government and private industry
+
+Meta suggests that the use of a model and the risks of that use must be the determining factors for establishing different standards that would apply to the government as opposed to the private industry. This is irrespective of whether the foundation model is open or not.
+
+It further explained, “For example, a government may use foundation models for a range of legitimate public policy objectives that carry a potentially higher risk for individual rights–such as the use of foundation models to provide social security benefits, or for law enforcement and military purposes. Because these uses could have legal or substantially similar effects on individuals, they should be subject to a higher standard of risk assessment, fairness analysis and mitigation, transparency, accountability, and recourse.”
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,52 @@
+SUBREDDIT: r/Scams
+TITLE: How did this scam happen and how did they get my father's credit card info?
+DATE: 2020-04-03
+SCORE: 3
+URL: https://www.reddit.com/r/Scams/comments/fu1g7w/how_did_this_scam_happen_and_how_did_they_get_my/
+
+--- POST TEXT ---
+
+There's some aspects of this scam that I understand and some that I can't piece together so I am reaching out to this community for some insight. I have questions posted throughout but I will try to do my best to summarize at the end.
+
+So, today around 3:45pm - 4:00pm my senior citizen father was on his computer searching for a phone number for HGTV to ask about some programming changes they had recently made. He typed his search into Google and clicked on a link in the search results that brought him to a page which he thought was HGTV's ‘Contact Us’ page. It was not. He can't describe what it looked like now, but what it did contain was a 1-888 number that went directly to a scammer. This scammer promised him he could make these programming changes and bring back the show he was calling about, but that he needed to remotely control my dad's computer to sign into his cable TV account.
+
+My dad allowed the scammer onto the computer using GoToAssist, and with the scammer watching, signed into his cable TV provider account online.
+
+Whilst in the account, the scammer was able to view the last 4 digits of the credit card on file, but not my dad’s full credit card details. He asked my dad for some additional information like his cell phone (which he did not give him because he was growing suspicious), and his Amazon account info. My Dad did not believe he had an Amazon account and told and told the scammer he did not have one. I later discovered that there is an account associated to his e-mail address that was opened in 2013.
+
+After the call with the scammer, my dad called me as he was suspicious about what had just happened. I got this call around 4:51pm... about an hour (or so) after my dad had first made contact with the scammer.
+
+I have remote access to his computer through a secure VPN tunnel and immediately went to view his screen. Right away I could see that the GoToAssist session was still open. I ended it immediately. I poked around a bit and tried to find the page that contained the 1-888 number he called, but I couldn’t get back to it. His Google search history only showed 2 page visits: One was the google search itself and the other was the HGTV ‘Contact Us’ page. That page had in fact been visited but didn’t contain that 1-888 number anywhere. There were no other page visits in the search history. I wasn’t able to investigate further at that point and told him I’d check back later and do a deeper dive.
+
+About 10 minutes after that, my dad called me again and said that he received an e-mail from Amazon.com saying that somebody has successfully received a gift card that he had sent. I logged-back into my dad’s computer to look at the e-mail he received. It was indeed from Amazon.com. Next I went to Amazon.com and tried to do a password reset using his e-mail address. Sure enough, he received the ‘forgot password’ e-mail confirming that an account did in fact exist. After gaining access to the Amazon account, I checked to see what payment methods were on file, and found that a current credit card of his (the same one associated to his cable TV account) had been added as a payment method (but how did the scammer get the full number, expiry and CVV code?). Amazon support confirmed that this card had been added as a payment method during the time that my dad was talking to the scammer. I also was able to see through the order history that a $100 gift card had been sent to a recipient which appears as a 10 digit phone number in the US. I found out that this is a text-mail subscriber number.
+
+I went back and looked at my dad’s e-mail for some clues. He uses Outlook.com through a browser and it’s configured to stay signed-in to his e-mail. I started by looking through his Deleted Items folder and found some deleted e-mails from 3:58pm – 4:07pm which was around the time he and the scammer were speaking and/or screen sharing. There were 4 deleted e-mails:
+
+1. 3:58pm – A One Time Password (OTP) e-mail with a 6-digit code for authentication
+2. 4:00pm – An e-mail confirming the password on the account had changed (the hacker gained access to the Amazon account my dad didn’t know he had)
+3. 4:05pm – Another One Time Password (OTP) e-mail with a 6-digit code for authentication
+4. 4:07pm – An order confirmation e-mail confirming the order of the $100 gift card
+
+My dad never saw these e-mails and never witnessed the scammer moving them to the Delete Items folder. How did the scammer do this without my dad noticing?
+
+I tried called the 1-888 number back a few hours later, but by then there was already a message saying “The Magic Jack subscriber you are calling is unavailable…”
+
+The first steps we took to prevent any further damage were:
+
+1. My dad called to cancel his credit card and report the charge as fraud
+2. I removed his credit card as a payment method on [Amazon.com](https://Amazon.com)
+3. I changed his e-mail password just in case
+4. I advised my dad to turn off his computer until I have a chance to run some scans and/or take a file backup and wipe it clean
+
+Now, to my questions:
+
+1. The biggest question I have is: How did this scammer get all of my dad’s credit card information? All he did was watch my dad access his cable TV account and saw the last 4 digits of his credit card. He also may have been playing around in my dad's e-mail for a bit, during the time that he left his computer to call me, but his credit card number is not stored in any e-mails (as far as I know).
+2. I know these scams exists, and have received calls that would have probably resulted in a similar scam, but I’ve never heard of this type of scam happening due to the person being scammed initiating an outbound call. Is this common? Or was this targeted in some way that is more direct than a phishing scam.
+3. How did my dad land on this phishing page with this 1-888 number that went directly to this scammer? His computer doesn't look compromised in any way. His local hosts file is clean. There doesn't appear to be any malware or adware on his computer. There aren’t any suspicious chrome extensions. I was thinking that maybe this was some sort of DNS attack up the chain that redirected him to this phishing page. I was not able to find the page where this 1-888 number was posted, and his google search history does not show that he visited any page other than the google search page and the official contact us page for HGTV.
+4. How did the scammer gain access to my dad’s e-mail without him noticing? Even if a key logger was involved, the password my dad typed into the browser to access his cable TV account is not the same as his e-mail password, and he (surprisingly) doesn’t use the same password across multiple sites (for the most part). The scammer would have had to have been navigating through my dad’s e-mail on my dad’s computer via remote access.
+5. Could the scammer have used a key logger to capture my dad’s password as he entered it to sign into his cable TV provider account? I didn’t find any evidence of a key logger but I’m wondering if there’s something that could have flown under the radar of Windows defender. A malware scan should uncover this unless the scammer added a key logger and then removed it later.
+6. Is my dad susceptible to any future attacks, unauthorized transactions or identity theft? The caller was most probably calling from India (according to the accent and use of Magic Jack).
+7. Is there any reason to believe the scammer has planted additional software on the computer to give him access in the future? I have yet to run a full malware scan.
+8. Does this one breach warrant a full wipe of his computer or will a malware scan suffice?
+
+Thanks for reading!

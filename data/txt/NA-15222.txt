@@ -1,0 +1,85 @@
+“I think all of it really started on February 14. I just finished election coverage in Goa and me and my colleague travelled to Udupi, and around 12 in the afternoon, I received a message from an Instagram handle which was titled kavitakrishnanofficial, with no space and all small caps, and I actually talk to Kavita quite often on the phone and over WhatsApp. So the message I got was that she had written an article where she referenced me or something and she asked if I saw it. I was a little surprised because I wondered why Kavita messaged me on Instagram because she usually messages me on WhatsApp. And I was in the middle of something. So I clicked on [the article] once or twice and it kept asking me to log into Twitter, which I thought was weird,” Nidhi Suresh, a journalist at Newslaundry, told MediaNama.
+
+“I got curious the next morning and I tried it again. And this time I tried logging in [to Twitter]. But that’s when I think it happened because it didn’t work. And then an hour later, something felt a little off about it. So I just messaged Kavita on WhatsApp and said, can you send me the link here because I can’t open it via Instagram. And then she responded asking me what link? Which is when it hit me that something’s gone off. And within a few minutes, I got an email, at 11:31 to be precise, from Twitter saying that my email ID has been changed. And within an hour, I was locked out of my Twitter account. And then I couldn’t log in anymore. And within the next 15 minutes, whoever hacked it locked the profile first, the location was put as Twitter headquarters and in the name, there was a full stop and the verified tick mark. And my image was removed and the background image was also removed.”
+
+Nidhi’s story doesn’t end here. It’s bad enough that her Twitter account was hacked, but within a few hours, her Instagram account fell prey as well. And the real ordeal for Nidhi was getting back access to her Instagram account which took her over 3-4 days, during which time the hacker chitchatted with Nidhi’s friends, phishing for the next catch. And to add insult to injury, the hacker, who cleverly impersonated someone Nidhi trusted, continues to carry on with his exploits by impersonating other prominent people because Instagram is yet to take any action against this account.
+
+What stands out in Nidhi’s case is that this isn’t a run-of-the-mill phishing scam where the hacker randomly targetted a bunch of people and hoped someone would fall victim by clicking on a fraudulent link. Instead, in this case, the hacker chose to impersonate the social activist Kavita Krishnan, someone that Nidhi personally knows and trusts. This form of attack is referred to as social engineering, which is the psychological manipulation of people into performing actions or divulging confidential information.
+
+“I actually talk to Kavita quite often on the phone and over WhatsApp.  So, for example, a couple of times I covered a story in Delhi. The last one I covered was the Delhi gang rape in January, and she had called me and we talked about it. And it also happened once or twice that if she writes an article, like during Hathras, she had written something and referenced my story and then she sent it to me,” Nidhi said.
+
+If it weren’t for Kavita, it’s highly unlikely that Nidhi would have clicked on that link. “I came back because it was Kavita. I came back to the message and I went on the profile because I was also a little surprised that we are not following each other. And then I went on the profile and it was a private profile, but it had some 805k followers or something. So I just assumed that it is Kavita’s profile,” Nidhi said.
+
+Of course, there is no certainty that the hacker specifically targetted Nidhi with this exploit. It could just be that the hacker impersonated Kavita and targeted all the verified accounts that the real Kavita Krishnan followed, which are not too many, and Nidhi happened to fall prey. But regardless, the fact that the hacker engaged in even this level of sophistication indicates the growing role of social engineering in scams.
+
+Another clever tactic used by the hacker was to build a phishing site on Google Sites. This gave the fraudulent link some level of authenticity because the link starts with sites.google.com. And since Google Sites allows you to customise the page to your needs, recreating fake versions of legitimate logins is also easy. “To me, it looked much like Twitter login, like it had the logo and the page layout was pretty similar. So I didn’t suspect it even at that point,” Nidhi said.
+
+The use of Google Sites for phishing scams is not new. The hacker used the same tactic to go after Nidhi’s Twitter and Instagram followers. Here’s another example of Google Sites being used for phishing:
+
+Plenty of these. I got this yesterday from someone I follow and who follows me and I clicked the authentic looking link too.. but red flag of course was being prompted to enter my Twitter password!! pic.twitter.com/YK8GoEiHca
+
+— PKR | প্রশান্ত | پرشانتو (@prasanto) February 15, 2022
+
+Ironically, the very same tactic was used to hack Kavitha Krishanan’s Twitter account not too long ago. “The same thing happened to me also more than once. But on Twitter. So basically somebody’s Twitter account was hacked and from that person’s account, a message came to me appearing to be from Twitter saying that you have a copyright violation or something. So when I clicked on it, then my account got hacked,” Kavitha Krishnan told MediaNama.
+
+Nidhi was able to get back access to her Twitter account within a day because one of her friends who works at the company was able to help her out. “My friend who works in Twitter, I think they can do something called “vouching,” where they can vouch for someone who lost access to their account, and she did that internally and I retrieved my Twitter,” Nidhi explained.
+
+But with Instagram, it was an entirely different story. “Their options were a bit strange. Twitter gives you an option, where you can immediately reach out to a person, write an email and explain. But Instagram was giving me all these instructions to log back into my account and change my password. And, I couldn’t log back into my account to do anything,” Nidhi exclaimed. “And late that night I tried to log into Instagram again and then for the first time I was directed to a page where I was asked to give my preferred new preferred email ID and explanation of what my grievance was. So then I was really happy that finally, I found this page and I don’t know how I got that page and I have never been able to get that page again also,” Nidhi said.
+
+After filing her grievance, Nidhi received an email the next morning from Facebook asking her to send a picture of herself holding up a given code to verify that this is her account and that she is a real person. “It was quite a detailed email where it said that if this is a profile of some company or an advertising thing, you might not get it back because only if there are images of you on the profile that we can verify through this image you will get it back. So it had all these details and I was also waiting for Facebook to reach out to me. So I didn’t immediately suspect the email because my office also had written to Facebook asking them to help me out with this,” Nidhi continued.
+
+“And I sent it and that’s what really creeped me out because now I sent a photo of myself and then the same day at 12:46 p.m, I received another email from the same Facebook ID, but this email was in Turkish and that’s when I got a little suspicious and I was like, why is this email in Turkish? And then I checked the full email ID, and at least to me, to my lay eyes, it seemed strange because it was [email protected] . So, I wasn’t sure anymore if it was an official Facebook address,” Nidhi said. Although the email was in fact from the official Facebook support team, the fact that the sender’s email address began with random letters and numbers did not inspire the confidence of someone who just got hacked.
+
+Eventually, one of Nidhi’s friends, Nikhil Pahwa (Editor at MediaNama), connected her with a public policy official at Facebook who was able to finally help her regain access to her Instagram account. And it turns out that Facebook’s official emails were in Turkish because the hacker had changed the preferred language on the profile.
+
+During the three to four days that it took Nidhi to get back access to her account, the hacker had “full-fledged conversations” with Nidhi’s followers and targetted them with a malicious Google Sites link as well. “I know a couple of accounts were hacked by the same format. I know one person for sure whose account had been hacked, and he is some Bollywood director. And then he was really worried because he asked two of his colleagues also to try and their accounts were also hacked. And now he’s just gotten access back. But it took a very long time for him ,” Nidhi said.
+
+https://twitter.com/NidhiSuresh_/status/1493485211430289408?s=20&t=M-X3XuaaBJyLJoNHlRpWpQ
+
+The fact that someone with a verified profile and a significant reach had to go through so much to regain access to their hacked account raises questions on the efficiency and effectiveness of Instagram in dealing with such issues.
+
+The hacker who impersonated Kavitha Krishnan now impersonates Ethereum co-founder Vitalik Buterin and goes by the handle vitalik.eth.official . But this is not all. In the last three months, this account has changed its username over 20 times impersonating famous footballers like Paul Pogba, Marcus Rashford, and Jordan Ayew as well as lesser-known Indian personalities like Sridevi Sreedhar . The account also still has over 762,000 followers.
+
+Kavita Krishnan had filed a complaint with Instagram saying that there was someone impersonating her, but it took her repeated attempts to get the platform to take any action. And even when it did, it just stopped the account from using her name but let the account continue to exist under other names, Krishnan informed us.
+
+“Basically, I had to report it many times. Initially, they replied to me saying they won’t remove it. You get that standard boilerplate reply, saying it doesn’t violate our whatever. So the problem was my account was not verified at that time. So they basically wouldn’t let me report as a so-called well-known person or celebrity account. I kept trying to send them a report saying this person is impersonating me, but they wouldn’t accept it. Then I got a friend of mine involved and he did the hard work of sending a formal request with my ID proof and this and that, saying you have to remove this. And we are also asking you to verify this as well as the Facebook page which we are linking. So then they removed it,” Krishnan explained.
+
+“I also reported to them saying that he’s randomly picking up people and basically from all over the world and impersonating them asking for money and whatnot and you ought to be acting on this but they clearly have not acted on it. Except that he stopped having my name on that account,” she continued.
+
+“It’s crazy. You know they randomly suspend other people who they should not. But this kind of thing, which is obviously fake and obviously a scam, they don’t do anything.” – Kavitha Krishnan
+
+Update: Instagram appears to have taken down the account at the time of publishing this report. We do not know if this was based on the queries we had sent them (more below).
+
+Nidhi recounted the whole experience as being stressful for her. “I was feeling very unsettled and anxious. When you’re a journalist, everyone tells you you have to be tough and this and that. But I’m not that person. I went off Instagram for like two weeks because I didn’t want to be there for some reason. I reduced my phone usage and changed a lot of my habits as well,” Nidhi said.
+
+While Nidhi prefaced it by saying that she is “bad with technology” and “embarrassed” because a lot of this could have been avoided if she was more careful, many of us probably are in similar shoes as Nidhi when it comes to our cybersecurity practices. A lot of us probably use the same two or three passwords for all of our accounts and some of us probably still don’t have two-factor authentication turned on despite the multiple nudges from various platforms. We hope Nidhi’s story changes that, but more importantly, we want it to shed light on the sophisticated practices of hackers and the lackadaisical attitude towards this by platforms like Instagram. Platforms can and must do better to curb such hacks, speed up the resolution process as well as take action against hackers.
+
+For the purposes of this article, we sent detailed queries and a timeline of events to the platforms involved last Friday.
+
+Facebook:
+
+Response from Facebook: We are yet to receive a response from Facebook.
+
+Google:
+
+Response from Google:
+
+“Google Sites has clear policies that prohibit the distribution of content used to impersonate or phish credentials. We take these issues very seriously. When content violates our Abuse Program Policies, we take appropriate action. We invest heavily in detecting such content and use technology to deter, detect, and remove abuse from our platforms. This includes automated detection and human review, in addition to relying on reports submitted by our users.” – Google spokesperson
+
+Twitter:
+
+Response from Twitter: The company did not response directly to the queries but pointed us to this tweet .
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Do you want to keep track of cyber attacks in India but don’t have the time? Relying on scattered content from across the web makes it feel harder than it needs to be.
+
+Subscribe to MediaNama and get crisp, timely updates on tech policy developments in India and across the world.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

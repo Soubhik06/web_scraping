@@ -1,0 +1,19 @@
+It was fairly common a few years ago for citizens to get billed for services without consent: I remember waking up one morning to see a notification of having been charged Rs 99 for apparently downloading an animation at 3am, while asleep. On another occasion, an extra connection, which wasn’t checked very often, was been charged Rs 30 per month for job alerts. While India had become the poster-child for the success of “Ringback Tones”, the inside story was that most of those users didn’t know why they had been subscribed to it, and why money was also being deducted from it. The reason for this problem: the money was being deducted, on most occasions, from peoples prepaid balance, a wallet which already had money deposited it it after the user recharged her phone. From what we hear, subscription was either without consent, or on the basis of manufactured consent (logs being changed; they’re editable ). The situation reached bizarre levels where consumers were being charged even when they had no balance left: it was called negative billing. The scam, so-to-speak, was run in two ways: firstly, via an out-bound-dialer, where people would receive phone calls, and would get subscribed to services. Secondly, via online advertising, where services would be activated merely upon clicking on an advertisement, where click to buy ads were being run .
+
+It doesn’t matter where the blame lies: with the telecom operators, the mobile VAS companies, or both. The fact remains that both benefited from this, and consumers were cheated. When the TRAI finally took note of this, telecom operators tried cleaning up the system: at that time, Tata Docomo ran a project for “ Clean VAS “, listing complainants who couldn’t be subscribed to these services. Bharti Airtel issued new guidelines, disallowing negative billing .
+
+The TRAI came up with specific notifications to prevent some of them fraud, given the volume of complaints:
+
+Telecom operators were asked to provide a system which takes a second consent from the customer before it is enabled, and added a consent mechanism for verification, which didn’t allow the VAS company from activating the service on its own. Provisions were also put into place for providing adequate information to consumers about activation and deactivation. We’re not sure of this (and if you know, please leave a comment), the consent mechanism hasn’t been weakened yet. There were telecom operators asking for the removal of the second factor of authentication because it would impact revenues.
+
+It appears that the VAS scam still hasn’t stopped: while it is impossible for us to verify any of these complaints, in the morning today, I was informed about continuing instances of this issue: this, this , this , this and this .
+
+https://twitter.com/ThatWryLad/status/751298920152608768
+
+While there is no means of verifying this, it is important for not just the TRAI to act upon it, but also to punish telecom operators that either cheat customers in this manner, or allow their vendor mobile VAS companies to cheat customers. It needs to publish fresh data on VAS related complaints, and audit logs related to these complaints. This is nothing short of theft, and while no one was punished for it then, it shouldn’t be allowed now. We’re not sure of what else the TRAI can do to prevent the theft, since the consent mechanisms seemed to be appropriate. Perhaps it should ensure that VAS companies get an OSP license, allow only OSP providers to provide VAS, and cancel licenses in case of fraud.
+
+We’re filing an RTI next week for updated data on VAS activations and complaints.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

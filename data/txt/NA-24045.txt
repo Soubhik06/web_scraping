@@ -1,0 +1,35 @@
+SUBREDDIT: r/bangalore
+TITLE: CoviCaller - A Bengaluru youth venture to tackle COVID-19 Scams in India
+DATE: 2021-07-06
+SCORE: 218
+URL: https://www.reddit.com/r/bangalore/comments/oee4ab/covicaller_a_bengaluru_youth_venture_to_tackle/
+
+--- POST TEXT ---
+
+Greetings,
+
+I am Prabhav Pandey, a Class 12 Science Student in Bengaluru. With my board exams cancelled, and a lot of time on my hands, I created *CoviCaller -* A website made to help solve a critical problem in these pressing times – **Fake contacts/duping scams offering COVID-19 Resources** **or** **Services in exchange for money.**
+
+[https://www.covicaller.com/](https://www.covicaller.com/)
+
+Given our crumbling healthcare system, it is seen that scammers nowadays prey on the most vulnerable to extort money. Be it COVID-19 patients or their relatives who are in dire need of the resources they claim to offer. They do so by inducing an air of panic, which creates a sense of urgency to buy. This has lead to a loss of massive sums of **money**, and even **lives** in some cases, claim leading news corporations in our country. Post the money transfer, the scammers block the number of the payer and hence become un-traceable. To add to that, there are countless dysfunctional and redundant numbers which upon calling only yield in a **waste of time**, which if invested correctly, could have saved a loved one.
+
+***So how do I intend to solve this problem?*** It’s simple, I take help of good Samaritans in our society (\*and some JavaScript tutorials\*)! The website offers two roles:
+
+ 1. **Volunteer:**  If you have called any number(s) which claimed to offer any COVID-19 services, and they turned out to be a scam or otherwise, you can let the community know by filling out the form on the website. This takes just 3 Minutes, and can help someone save lots of money and, possibly, a life.
+
+2. **User:** You just need to enter the number you wish to verify and all available testimonies for that number open up, which instrumentally help you decide if the contact is credible or not. You can also search for verified numbers by choosing a particular service. **And yes, it’s absolutely free**
+
+**What do I do?** I just manually verify every number that the volunteers submit on the website and get rid of the spam entries(Not everyone is as full of good intent as you are!) and make sure you don’t face **any** issues while using the website.
+
+***How is this different from Twitter Scraping or Truecaller?***
+
+These services have no verification mechanism. Anyone can post any kind of number/data with zero accountability, which defeats the purpose. Also, there is no way for volunteers to add data or testimonies to the database. As the number of entries I receive now are limited, I manually verify every number by calling them up and going through the comprehensive parameters in the form data the volunteers fill.
+
+***NOTE: Kindly open*** [***THIS LINK***](https://www.covicaller.com/) ***on your laptop/desktop if possible to get a better experience***
+
+Let me know what you all think about this initiative of mine, and also do share it with your network if you feel this addresses and solves a real problem in our country. Jai Hind
+
+Have a great day ahead!
+
+ \- Prabhav Pandey (18)

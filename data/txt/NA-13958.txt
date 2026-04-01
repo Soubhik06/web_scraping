@@ -1,0 +1,49 @@
+In a discussion paper on guidelines for payment aggregators and payment gateways, the RBI has suggested that payment aggregators and gateways would need to be authorised/licensed by it under the Payments and Settlements Act, 2007. Both bank and non-bank providers would have to get RBI’s authorisation, be a company incorporated in India, and would have to localise payments data. The discussion paper, drafted by the Department of Payments and Settlements Systems can be seen below.
+
+The RBI’s discussion paper laid out three ways of regulatory approaches to payments gateways and aggregators. First, continue with existing directions. Second, limited regulation in which payments aggregators and gateways shall follow RBI guidelines around major aspects, along with phased licensing and only off-site monitoring.
+
+But the third approach, which suggests that payment aggregators and gateways be fully and directly regulated , has been extensively elaborated in the paper. Licensing by the RBI is a part of this approach. Under the direct and full regulation approach, payments aggregators and gateways would have to comply with capitalisation norms within a year, and would be subject to on-site and off-site monitoring. They have to:
+
+They cannot:
+
+They would have to comply with the requirements within a year of the issue of guidelines.
+
+According to the RBI’s paper, payment gateways and aggregators are a critical link in the transaction flow, and there’s a case to regulate their activities – which fall under the Payments and Settlement Act, 2007. The RBI had issued a direction to banks in 2009 to maintain a nodal account of such services, but there have been no further guidelines ever since. But payments systems in India have rapidly changed in the interim. This is the basis for the suggested regulation:
+
+The RBI  had also indicated that existing guidelines for payment intermediaries could be reviewed in its Monetary Policy statement for 2018-19 in February.
+
+Apart from licensing by the RBI, the other regulatory measures suggested by the RBI, under the third approach of full and direct regulation are:
+
+Payments aggregators and gateways have to meet capital requirements: A minimum net worth of Rs 100 crore will have to be maintained. Entities having FDI, FPI or FII will need to meet capital requirements under the existing FDI policies of the Indian government. Those who can’t comply with this requirement need not apply for authorisation, but would have to wind-up the payment aggregation business within a year.
+
+Payment aggregators have to comply with this within a year of issue of guidelines, those who can’t comply “need not apply for authorisation” but will have to wind-up their aggregation business within a year.
+
+How they would be governed: The payment aggegator or gateway would be professionally managed by promoters who satisfy the fit and proper criteria prescribed by RBI. There would be a board-approved policy for disposal of complaints, dispute resolution, time-lines for processing refunds, etc. Businesses would need to appoint a nodal officer to handle regulatory and customer grievance functions.
+
+They have to safeguard against money-laundering : The RBI’s guidelines around KYC, anti-money laundering, and Combating Financing of Terrorism will apply to all payment aggregators and gateways, along with provisions of Prevention of Money Laundering Act, 2002 and Rules.
+
+They have to ensure framework for customer grievance redressal: Payments aggregators would have a formal, publicly disclosed customer grievance redressal and dispute management framework, including a nodal officer to handle customer complaints. Customer and merchant complaints to payment aggregators and gateways would need be resolved within 7 days of receipt of a complaint.
+
+They have to follow some rules when they onboard merchants: Payments Gateways and Payment Aggregators have to
+
+They have to put in a framework for security and fraud prevention: Payment Gateways and Payment Aggregators shall put in place adequate information and data security infrastructure and systems for prevention and detection of frauds. They shall:
+
+Since banks are already regulated by the RBI, payments gateway services provided by banks wouldn’t need a separate authorisation. But Gateways would still need to comply with other rules around customer grievance redressal, time-lines etc.
+
+Who this framework would not cover : This framework does not cover intermediaries who facilitate delivery of goods & services immediately once the customer makes the payment. It also wouldn’t apply to
+
+Under RBI’s proposed regulatory approach, e-commerce marketplaces acting as payment gateways and payment aggregators to other merchants would have to stop services within 3 months. They can only continue if they separate the payments gateway or aggregator business from the marketplace business. When banks act as aggregators, they have to obtain authorisation under PSSA.
+
+The RBI explained that since e-commerce entities offer payment aggregation services but are not regulated by RBI, they would be subject to dual regulation if they continue to provide payments aggregation services under their e-commerce business.
+
+Payments aggregators and gateways would also need to meet some requirements relating to information security:
+
+1. Basic requirements of risk assessment, reporting data breaches : Businesses have to carry out comprehensive security risk assessment of their people, IT, business process environment to identify risk exposures. Data security standards such as PCI-DSS and PA-DSS have to be followed.
+
+2. The RBI also lays out some ‘desirable requirements’ for IT security which includes an IT governance policy, enterprise data dictionary, vendor risk management. Some of the key points in this requirement are:
+
+[embeddoc url=”https://www.medianama.com/wp-content/uploads/RBI-payment-aggregators-gateways-discussion-paper-2019.pdf” download=”all”]
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

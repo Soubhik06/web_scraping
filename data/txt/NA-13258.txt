@@ -1,0 +1,45 @@
+WhatsApp appears to be currently developing the SIM binding feature, as directed by the Department of Telecommunications (DoT) in its November directive . WABetaInfo, which tracks WhatsApp beta releases and upcoming features, reports that the SIM binding feature is still ‘under development.’ However, WABetaInfo also mentioned that the feature is not yet available for beta testing.
+
+WhatsApp declined to comment beyond what WABetaInfo reported. In an email response, it said: “At the moment, we have no further information to share besides what is already covered in the report by WhatsApp Beta Info.”
+
+The blog post said that “WhatsApp is refining how the new system performs SIM validation to secure account access.” It was referring to the DoT’s SIM binding directive , which mandated that certain app-based communication service providers ensure that the registered SIM is actively present on the device at all times for messaging services to continue.
+
+The blog post also explained how this feature may work:
+
+“WhatsApp will perform a background validation to ensure the registered SIM is still present and active on the device. This means that even after logging into WhatsApp, users will periodically need to renew their account session. This operation will confirm that the SIM still belongs to the legitimate owner. Accounts that fail verification will be subject to restricted access until validation is restored. Users won’t lose their chat history or pending messages while their account is under SIM verification.” – WABetaInfo
+
+In November 2025, DoT issued the SIM binding directive to WhatsApp, Telegram, Signal, Arattai, Snapchat, ShareChat, JioChat, and Josh, mandating that they ensure users’ SIM cards are continuously linked to their apps.
+
+However, if users access these applications via the web, app providers must log them out periodically, no more than every six hours. Additionally, they must provide the option to log in again via a QR code. The directive gave the platform providers 90 days to comply.
+
+The directive followed DoT’s notification of the Telecommunication Cybersecurity Amendment Rules, 2025 , which introduced a new category, the Telecommunication Identifier User Entity (TIUE), under telecom regulation. TIUEs refer to applications that use a telecom identifier (such as a SIM number) to identify users, including WhatsApp, Signal, and Snapchat.
+
+Explaining the rationale behind the Sim Binding, the government said that some applications continue to function even after users remove a SIM from the device following initial OTP-based verification, creating a vulnerability that fraudsters could exploit for cyber fraud, including digital arrests and phishing scams .
+
+Experts argue that SIM binding, as outlined in the government’s directive, is difficult to implement because modern mobile operating systems block apps from accessing SIM-level identifiers, protecting user privacy.
+
+At a MediaNama policy discussion held after the announcement of the SIM binding directive, telecom specialist and former Qualcomm Vice President for Government Affairs (India & South Asia), Parag Kar, said that operating systems such as iOS and Android run apps in sandboxed environments and block access to hardware-level identifiers, including SIM information.
+
+“The first case, which I mentioned, is not allowed by the iOS system. The iOS system has prevented it long ago. Android used to allow that in earlier versions, but now they are preventing it,” Kar said at the event, referring to OS-level access to SIM-related information. “Apple has completely debarred any app from looking into the device hardware and reading the SIM.”
+
+Kar had previously told MediaNama that implementing continuous SIM validation would require access to identifiers such as  IMSI (International Mobile Subscriber Identity) or ICCID (Integrated Circuit Card Identification Number), which operating systems do not expose to apps. “Without deep OS-level support from Apple or Google, continuous SIM validation is technically infeasible,” he said in MediaNama’s earlier coverage of the directive.
+
+Saikat Datta, co-founder of DeepStrat, also previously told MediaNama that SIM binding would require OS support, and ecosystem-wide coordination could pose a major challenge. “The system cannot work if one player in the ecosystem is onboard and the other is not,” he said, citing Huawei’s OS as an example, which does not rely on Android .
+
+Anand Venkatanarayanan, co-founder of DeepStrat, said that many apps rely on device binding, which links accounts to devices rather than SIM cards.
+
+“UPI actually supports device binding with SendSMS,” he said at the MediaNama discussion. “That is a device binding API, not a SIM binding API.”
+
+Cybersecurity consultant Venkata Satish Guttula illustrated this distinction with a real-world example: “I took out my SIM card from my phone, which has a UPI app. I inserted another SIM card, and the UPI apps were working perfectly,” he said at the event. “It is doing device binding. It’s not mapping to the phone number.”
+
+Because of these restrictions, apps cannot continuously verify whether a specific SIM card remains present in a device.
+
+“The only way it is possible to do it is through sending an OTP,” Kar said , referring to SMS-based authentication.
+
+At the MediaNama event, Kar questioned the practicality of relying on repeated OTP checks to simulate SIM binding. “How many OTPs will you send? When will you send them? Will you send one every minute? Every day? Every year?” he said, adding that continuous verification would significantly increase operational costs for both users and service providers.
+
+Also Read;
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,99 @@
+SUBREDDIT: r/bangalore
+TITLE: The 'app only' trend is going out of hand
+DATE: 2020-02-03
+SCORE: 284
+URL: https://www.reddit.com/r/bangalore/comments/ey1z35/the_app_only_trend_is_going_out_of_hand/
+
+--- POST TEXT ---
+
+Had a really bizarre experience at Cloud Nine Hospital, Murgeshpalya few weeks back. A friend and I went to the hospital for her check up. We had already scheduled an appointment online. This was her first visit to this hospital and hence, she had to register first. We went to the reception and mentioned that we are here for the appointment. This is what followed.
+
+The receptionist asks if we have registered at the hospital before. When we said no, she gave us a QR code and asked us to download and install an application. We declined saying that we don’t want to install an app for a potential one time appointment. There was no one behind us in the queue, so I decided to find out what this is about.
+
+Receptionist Lady (RL) : Sir, you have to install the app
+
+Us : We don’t want to install an app to visit a doctor.
+
+RL : No sir, you cannot consult the doctor without installing the app
+
+Us : What bullshit is this? You won’t let us see the doctor unless I install an app?
+
+RL : No sir, I can’t. You have to download the app and register on it to see the doctor. It’ll also give you instant access your patient record, test results, etc.
+
+Us : We are here for a one time appointment. We don’t want all that and we don't want to install an app. Just do it on your computer, please.
+
+RL : No sir, we cannot do it on the computer. All registrations are via a mobile app.
+
+Us : What do you mean? What would you have done if a patient came in without a smartphone? You won’t treat them?
+
+RL : No, sir. We can’t. We have to register them on the app.
+
+Us : Are you being serious? This is ridiculous! You are saying you will deny treatment to someone if they don’t have a smartphone?
+
+RL : No sir, we’ll do the registration on their behalf, on our phone.
+
+Us : What do you mean on your phone? There is no way to create a patient record without using a phone?
+
+The receptionist guy sitting at the next counter heard this exchange and intervened
+
+Receptionist Guy (RG) : Sir, please come over here. I’ll help you.
+
+Us : Thanks
+
+RG : Sir, may I please have your mobile number?
+
+Us : \* gives the number \*
+
+RG : Sir, you’ll get an OTP now, please give me the OTP.
+
+Us : Why do you need an OTP to register a patient?
+
+RG : Sir, all new registrations are through the app. I can do the registration on your behalf, but I need the OTP for me to log in to your account.
+
+Us : My account? Why do you need to be logged into my account?
+
+RG : Sir, I’ll do the registration and then log out.
+
+Us : \* Fed up at this point. Just want this over with \* gives the OTP
+
+He signs us up through his app and sends us to the doctor. I made him logout from the account in his app before I left the counter.
+
+This is wrong on multiple levels based on what exactly is happening here.
+
+I don’t know if Cloud Nine has actually moved to an app only strategy. For a hospital, that is stupid. Not every store and person out there needs an app to communicate with their customers. I understand it could be helpful for their regular patients to keep track of all health records, but forcing everyone at the door to do it is ridiculous.
+
+Considering most people give permissions to apps blindly and do not care what it does, this could result in so much data being collected about the patients, that the hospital can then sell/use. This should not be a point of interest for a hospital. 
+
+The receptionist logging in on behalf of the user is also a privacy concern. I stood there with him and made him log out of the account. Not everyone is aware enough to do that. A receptionist at the hospital should not have to sign in on your behalf to get you treated at the hospital.
+
+Most people would not even think twice and would let them install the app on their phones. This, I feel, is exploitation of the patients since they aren’t tech savvy.
+
+If CloudNine haven’t gone ‘App only', the receptionist was essentially forcing us to do something that was unnecessary and there by denying us treatment, which is even more ridiculous.
+
+Irrespective of the exact reasoning, this shouldn’t be happening. I am pretty sure they are also violating some rules in healthcare by doing this as well. If you guys know someone I can report this incident to, please let me know. I cannot find a twitter handle for CloudNine (not that they’d care for a complaint on twitter).
+
+Anyone else had a similar experience at Cloud Nine?
+
+Edit : This unrelated incident just came out [https://tech.economictimes.indiatimes.com/news/internet/one-million-healthcare-records-leaked/73911735](https://tech.economictimes.indiatimes.com/news/internet/one-million-healthcare-records-leaked/73911735)
+
+Edit 2 : Got a reply from CloudNine on Twitter (pretty standard response IMO) 
+
+*Hi, we regret the experience that you had on Cloudnine. Kindly share your contact details with us so that our team can connect with you and inquire further about this. We will ensure that this gets resolved at the earliest. Warm Regards, Team Cloudnine.*
+
+I declined to share contact details and asked for a public response on the matter and got the following.
+
+*We deeply regret the inconvenience you had during your last visit to Cloudnine. Respecting our customers' privacy and valuing their time is one of our core principles and also the reason behind launching the App.* 
+
+*To answer your queries, it is not mandatory to install the App to avail medical services at Cloudnine. We would never deny any person the medical care they need. The purpose of App is to ensure customers are able to avoid queues, save time and effort while making future bookings. The OTP which we ask is generated by our own Cloudnine's system. There is no breach in privacy. OTP is used to verify the phone number so that all future information updates can be sent to the correct number. The registration fee charged is a mandatory fee collected across all hospitals in India to maintain the medical records of the patients. We would love your hear your feedback on what more can we add to make this App even better! Warm Regards, Team Cloudnine.*
+
+I have asked the following in response 
+
+*What action are you going to take against the receptionists (or to remedy the behaviour) at the hospital who are forcing patients to install the app?*
+
+*This is not an isolated incident. If you look at the Google Play store reviews for your app,you'll see that so many people have given your app 1 star reviews for being forced to install it.*
+
+*I understand how an app can be helpful to make it easier for someone to avail your services, but it should be an option that the user makes. Not something that is forced upon them. My privacy concern was about the receptionist logging in to the mobile app on his/her phone, on behalf of the patient.*
+
+*This should not be the case. What if the receptionist does not log out of the account? Then he/she has access to every data of that patient who just registered*
+
+If any of you face a similar incident at CloudNine, please deny download the app (unless you want to use it ofcourse) and quote the above response if needed.

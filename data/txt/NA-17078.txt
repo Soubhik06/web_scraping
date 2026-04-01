@@ -1,0 +1,65 @@
+SUBREDDIT: r/india
+TITLE: RBI Governor's anti-crypto speech is more about territory protection and less about objective truths
+DATE: 2022-02-16
+SCORE: 23
+URL: https://www.reddit.com/r/india/comments/su1opp/rbi_governors_anticrypto_speech_is_more_about/
+
+--- POST TEXT ---
+
+The Deputy Governor of Reserve Bank of India (India's Fed) strongly advocated for a bank on ALL cryptocurrencies ([link here](https://m.rbi.org.in//scripts/BS_SpeechesView.aspx?id=1196))
+
+With his passion for the known (fiat) and disdain for the unknown, some overreaching statements are thrown into the mix. Debates should never leave the realm of objective truths
+
+&amp;#x200B;
+
+Things I am in strong disagreement with:
+
+1. Para 11 / 13 - "Firstly, currency always has an issuer, usually a trusted entity like the sovereign. Even when gold is used as a currency, the gold coins had to be issued by a sovereign entity. Further the fact that gold is mined does not in itself make it money, it has to be stamped and issued by a sovereign to make it money."
+
+Even after the demise of the Roman empire, communities in medieval Europe continued to use the Roman currency as the common base of value. Neither were the coins nor the coin issuer was needed for the market to develop a self-recording ledger to trade with each other.
+
+The stamping by a sovereign seems to be a hallmark for the DG. But when there was a mass export of gold coins from Europe to China once the gold coins were arbitrarily de-valued by the King in order to pay his own debts, the Chinese wouldn't have relied on the Roman stamp but would have done their own test of the coin (something the modern day Fed is also adept at doing by printing money btw).
+
+Also, I think everyone will agree that if I were to try and buy something with a gold bar today, I would certainly not need a government stamp on it. Instead, all I need is a quality verifier.
+
+&amp;#x200B;
+
+2. Para 11 - "historically, a currency has always been either a commodity with intrinsic value or a debt instrument."
+
+All the value in gold and silver comes from its shiny appeal to our senses, coupled with their scarce presence in Earth's crust. Its historical significance over many millennia has established itself as 'valuable'. Agreed, Gold is a good conductor and is very malleable, but is that the reason why the DG thinks it can be a 'currency' today? Clearly not. Btw, there are endless qualities in BTC which may make it 'intrinsically' more valuable
+
+&amp;#x200B;
+
+3. Para 13: "Limiting supply by design is not the same thing as limited supply in nature (like gold) because (a) design can always be modified and hence such limitation is artificial"
+
+This is one below the belt. All that is to be said here is that as the system stands today, a bunch of boomers in the Fed and the US Congress can choose to arbitrarily print money per their whims and fancies. And in BTC we have a technology which requires consensus of the majority in order to make any change, rebels can fork and try for eternity to compete with the main chain, and raising the ceiling would certainly not be in the best interest of the majority holders.
+
+&amp;#x200B;
+
+4. Para 20: "Historically, private currencies have resulted in instability and therefore have evolved into fiat currencies over centuries. The retrograde step back to private currencies cannot be taken simply because technology allows it (it always did, actually) without any consideration for the dislocation it causes to the legal, social and economic fabric of society. Every private currency will eventually replace the Rupee to some extent. Consequently, the role of the Rupee as a currency will be undermined. With one or more private currencies being allowed, there would be parallel currency system(s) in the country. Thus, increased acceptance of cryptocurrencies would result in effective ‘Dollarization’ of our economy[6](https://m.rbi.org.in/scripts/BS_SpeechesView.aspx?Id=1196#F6). Dollarization, it is well understood, would undermine the ability of authorities to control money supply or interest rates, as monetary policy would not have any impact on the non-Rupee currencies or payment instruments. When that happens, India loses not just its currency, a defining feature of its sovereignty, but its policy control of the economy. With loss of traction for monetary policy, the ability to control inflation would be materially weakened."
+
+This is one of the biggest sore points in the argument. The WHOLE world economy has been 'dollarized' since the WW2. We already hold our reserves in the US$, trade goods with the world in US$, keenly await the outcome of the Fed's policy decision to formulate our own. When the gold standard was taken away in 1971 and replaced with the US$, did the RBI self-select a gold-based reserve for itself?
+
+The DG has also quoted Nassim Taleb, but it is humorous that he forgets about him by the time he reaches here in his speech. Central banks globally have this 'illusion of control' of controlling inflation by tweaking interest rates. As if it were so simple, and the economy not so complexly intertwined. We certainly do not know what a freely floating 'private' currency may do in terms of lending rates and inflation, but a free market but we'll know soon enough as some sovereigns do indeed transition to these 'private' cryptocurrencies
+
+&amp;#x200B;
+
+5. Para 24: "The very raison d’etre of cryptocurrencies is that they bypass established intermediation and control arrangements[7](https://m.rbi.org.in/scripts/BS_SpeechesView.aspx?Id=1196#F7) that ensure integrity of financial transactions, such as Know-Your-Customer regimes, Anti-Money Laundering (AML) and Combating the Financing of Terrorism (CFT) rules etc. The fact that they are anonymous, decentralized systems that operate purely virtually makes cryptocurrencies particularly attractive to illegal/illegitimate transactions which have been largely filtered out of the formal financial system. Total crimes using cryptocurrencies in 2021 was estimated to be $14 billion (Wall Street Journal, January 06, 2022). The amount itself is not much but the implications for the AML/CFT framework built painstakingly over the last two decades is rather substantial."
+
+This is a hard one. We certainly need to take a more optimistic view and create KYC systems for on-ramp/off-ramps in order to identify the individuals with the wallets.
+
+However, no time in history has law enforcement been simpler than today with crypto. The DG would have fond memories of the demonetization of high value currency notes in India which helped greatly increase tax collections and track illegitimate transactions (spoiler: it did not. all cash just went back in system).
+
+We should come together to create globally accepted KYC standards that are controlled by the sovereign in an encrypted fashion and accessed by law enforcement only with valid judicial interventions. Just because the system has not built that in its 10 years of existence does not mean it is a lost cause
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+The essence of his argument is in the (illusion of) 'control' over the monetary systems. But that entire monetary system is not run by them but rather by these licensed entities called banks. And the fact remains that banks are grossly inadequate organisations to manage this large scale capital. They present massive systemic risks, and come crying for a bailout every few years or so. If the current system were functioning so well, we would not have had Lehman collapse and trillions spent in bailing out banks during GFC, nor - closer home in India - would the government have had to continuously bailout the state run State Bank of India nor would the frauds at Yes Bank would have taken place.
+
+&amp;#x200B;
+
+In conclusion, RBI's territorial protectiveness is making it think very regressively about once in a generation change that can be brought about for greater good. We need a currency removed from judgements of greedy bankers and ill-motivated politicians. The government will survive on the taxes it collects whether in a dollar or a crypto currency, but it need not continue to wrest such a strong control over the promissory notes in the form of fiat currency, which anyways has gotten 'dollarized' and hinges on the moves made by those who control the USD.
+
+The good thing is that the DG repeatedly tried to discredit BTC as a currency. Well, just the acknowledgement that it is a competitor to the mighty fiat can be thought as a good sign by us maximalists :)

@@ -1,0 +1,81 @@
+Telecom industry lobby group COAI yesterday released a statement that SIM Binding will not “disrupt user convenience” or privacy. I’m going to address some of their claims, though not in the order they’ve listed them:
+
+COAI says: SIM-binding does not disrupt enterprise messaging, CRM systems, APIs or business workflows . It operates purely at the user account level, ensuring that each account is tied to a verified SIM. These enterprise solutions can continue to operate as long as the underlying user accounts — whether customer-facing  or automated business numbers — are associated with valid, verified SIMs.
+
+Where they’re wrong: COAI needs to read the regulation again. It states:
+
+i. From 90 days of issue of these instructions, ensure that the App based Communication Services is continuously linked to the SIM card (associated with Mobile Number used for identification of customers/users or for provisioning or delivery of services) installed in the device, making it impossible to use the app without that specific, active SIM .
+
+ii. From 90 days of issue of these instructions, ensure that the web service instance of the Mobile App, if provided, shall be logged out periodically (not later than 6 hours) and allow the facility to the user to re-link the device using QR code.
+
+So two things: First, the way business apps integrate with an account is via API and authentication, and there’s no SIM card on the device where the business messaging service is automated for engaging with customers; it’s via a client server. As per the regulation, it is supposed to be impossible to use the app without that specific, active SIM, then they can’t. Secondly, even if they connect via the web interface, they’ll get logged out every six hours. So COAI is wrong here, probably because they don’t understand how Internet businesses work.
+
+Second, COAI is also making a distinction between enterprise accounts and user accounts, whereas on the Internet, and with WhatsApp for business, users can also buy business accounts. The TRAI’s historic Differential Pricing Regulation also doesn’t make that distinction between businesses because on the Internet, all users have the same opportunity. You don’t need a license to run an Internet business, nor do you need a company. Students can also build apps and automations, the same way that multibillion dollar organisations can. The regulation applies to ALL workflows, and there is no carve-out. SIM Binding can cause a nationwide disruption to solve a niche (but worrying problem) that businesses have nothing to do with.
+
+COAI says: “The requirement for time-bound reauthentication , such as a six-hour logout cycle, aligns with best practices for identity-sensitive digital services like Fintech. High-value systems — including banking portals, DigiLocker, Aadhaar and VPNs — enforce far stricter session expiry norms. Smartphones remain logged in through cryptographic anchoring, while laptops and browsers — being multi-user and higher-risk — undergo periodic authentication to ensure accountable access. At the same time, the laptop/tablet user will generally be in possession of his mobile phone carrying the SIM and reauthentication every 6 hours would not pose a challenge, but the security benefits will far outweigh any perceived inconvenience to the laptop/tablet user.”
+
+Where they’re wrong: First, to say that messaging should be equated with Fintech is ridiculous. To equate messaging apps with Digilocker, Banking, Aadhaar and VPNs for session expiry norms is laughable. Messaging is mostly people communicating with their friends and family. Your email doesn’t get logged out every six hours, and neither should it. The whole idea of applications is to save people from the tedium of having to log in regularly to apps that are NOT banking, Aadhaar or digilocker, because messaging apps do not have the same risk profile and banking, Aadhaar or digilocker.
+
+There is also no clear mass and widespread security failure in case of messaging apps for such a regressive move.
+
+On International Travel
+
+COAI says: “The narrative that SIM-binding will inconvenience users — particularly overseas travellers — is not borne by facts. SIM-binding is already a standard feature in widely used digital authentication systems such as UPI and payment applications, where the SIM only needs to be present and active in the device and does not require active mobile data. The same model can be seamlessly applied to app-based communication, with no disruption to users abroad who can continue using their services through Wi-Fi or a foreign SIM while keeping their Indian SIM in a secondary slot.”
+
+“Some concerns have also risen that SIM-binding may inconvenience international travellers, particularly those using single-SIM devices. It is important to clarify that this is a deliberate and  essential security safeguard, to prevent misuse from outside (and within) India and to stop untraceable frauds and scams while restricting international subterfuges intended to defraud Indian subscribers or cause security harm to the country. This ensures that our communication channels are not exploited freely from outside India by fraudsters or non-state actors , who pose a grave threat to national security and citizen safety.”
+
+“Moreover, the subscriber will not be denied Communication App facilities, as the prevailing rules of that country in this respect will apply – but the Indian recipient will have his Communication App bound to the Indian SIM, thus enhancing security of the individual and the nation .”
+
+Where they’re wrong:
+
+First, not everyone has a dual SIM phone, and often the second SIM slot is used for a memory card. People do switch SIMs when traveling abroad. The fact that they have to keep their Indian SIM alongside a foreign SIM that they might buy, means that they’ll either have to remove a memory card, or not use a foreign SIM. This is an inconvenience.
+
+Second, nothing stops fraudsters from smuggling Indian SIMs out of the country to use them over WiFi, if they can keep the SIM in a device. This does not solve the problem of fraud using Indian SIMs abroad.
+
+Third, COAI has not clarified how exactly SIM Binding will prevent frauds, what kind of frauds it will prevent, or how frauds are being perpetuated in the absence of SIM Binding. The government and COAI have not shared what percentage of frauds are perpetuated by people using Indian SIMs outside India, or Indian numbers outside India without an Indian SIM.
+
+They also have not clarified what percentage of frauds are via messaging or social media apps, and how many are via SMS. I mean, how many people use Josh, and why is that in the list? How is Snap being used for perpetuating frauds? Where’s the proof for this? Where’s the data?
+
+You can make broad generic statements like “ enhancing security of the individual and the nation ”, but how exactly will this help? How much will this help? How is this proportionate? They’re silent on all of this, as is the government, which has blindly followed their recommendation without application of mind or a public consultation.
+
+Most important: UPI does not require continuous SIM presence. In fact, SIM data is not shared with apps by operating systems. Still, the DOT order demands it.
+
+Lastly, are there no other alternatives to SIM Binding? What other alternatives to restrict frauds were considered and why was this chosen? Why is this the best way?
+
+COAI says: “Critics have also overstated concerns about the value of this GoI order for enhancing security. SIM-binding is a layered defence , strengthening one of the most common and easily exploited vulnerabilities in digital communication. SIM-binding closes important and critical loopholes and is a step in the right direction in the current environment.”
+
+“SIM-binding is not just a panacea to strengthen national security but also an idea that is long overdue.”
+
+“There has been a crying need that the users’ App based communication services are identifiable at all times without violating existing rules on privacy and data, and yet providing traceability and linkage to the TSPs’ SIM without degrading the offerings of the communication apps.”
+
+What they’re not saying: These are just broad generic and nonsensical statements without a clear illustration of how exactly this helps. How is this an easily exploited vulnerability, at the scale at which SIM binding will impact users? They don’t say because they can’t.
+
+This is also the first time that anyone has publicly disclosed a plan for SIM Binding, and there has been no “crying need” for SIM Binding. There is no data to show SIM-binding addresses even 5% of fraud vectors.
+
+Phishing, spoofing, mule accounts, breached databases, fake apps have nothing to do with SIM binding.
+
+How is lack of SIM binding a “National Security” issue?
+
+DOT did no public consultation, did not seek feedback from businesses or citizens, did not share how exactly SIM binding helps, and there was no impact assessment. That goes against the principles of democratic decision making.
+
+What is actually going on here: It’s likely that COAI convinced DOT about a terrible idea. DOT accepted it without public consultation or taking into account that COAI is a vested interest and not a neutral party that has been attacking the Internet for more than a decade (starting with Net Neutrality, Network Usage Fees, pushback against unlicensed spectrum, among several other things).
+
+Now COAI has to go and defend a terrible recommendation because the DOT is incapable of doing it, because it wasn’t their idea in the first place, and they don’t understand technology.
+
+This is how bad decisions that impact hundreds millions of users get made: vested interests and ignorance.
+
+Here’s COAI’s statement in full:
+
+COAI Statement
+
+SIM-Binding a Necessary Security Measure and Will Not Disrupt User Convenience/Privacy
+
+“COAI has welcomed the recent GoI order on SIM-binding – keeping in mind the national and Citizens’ interests. However, there are some misconceptions being circulated regarding SIM-binding requirements for App based communication services. We would like to opine on these misplaced narratives in the following paragraphs:
+
+There has been a crying need that the users’ App based communication services are identifiable at all times without violating existing rules on privacy and data, and yet providing traceability and linkage to the TSPs’ SIM without degrading the offerings of the communication apps. This is all that has been done by this recent GoI order, which is aimed at protecting the user against frauds and scams, and the country against anti-national elements and it is a welcome step.
+
+COAI is of the considered view that SIM-binding is a balanced, privacy-respecting security measure that reinforces digital trust and enhances user protection against Spams and Frauds, without compromising convenience or business operations. SIM-binding is not just a panacea to strengthen national security but also an idea that is long overdue.”
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

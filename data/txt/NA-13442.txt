@@ -1,0 +1,67 @@
+Business Insider has taken Google to court in the US, accusing the company of running an over one decade-long scheme to monopolise digital advertising and drain revenue from publishers.
+
+The 89-page complaint, filed in the Southern District of New York, alleges that Google “uses this monopoly to control how publishers sell their ad slots, forcing publishers to sell growing shares of that ad space through Google at depressed prices”. The lawsuit frames Google’s conduct as part of a deliberate strategy to entrench its power over the ad-tech ecosystem.
+
+According to Business Insider, this dominance not only reduces what publishers earn but also distorts competition, limits advertisers’ choices, and ultimately threatens the sustainability of online journalism.
+
+Business Insider’s case rests on Google’s control of two crucial tools in digital advertising. First is DoubleClick for Publishers (DFP): the ad server used by publishers to manage and sell their inventory. The complaint claims DFP commands more than 90% of the publisher ad server market. Second is Google’s AdX exchange, which is alleged to handle between 60% and 70% of all open-web display inventory.
+
+Crucially, the lawsuit argues that Google tied these products together. If publishers wanted access to the millions of advertisers that buy only through Google Ads, they had little choice but to run their inventory through AdX. Moreover, to use AdX effectively, publishers had to rely on DFP.
+
+Therefore, Google’s dominance in one layer of the market reinforced its dominance in another, leaving publishers with no real alternatives.
+
+The complaint lays out a series of practices that, taken together, allegedly allowed Google to tip the balance in its favour.
+
+Earlier auction designs gave Google’s AdX a “Last Look”, which meant it could view the highest rival bid and then outbid it by a penny. Normally, in a real-time auction, the highest bidder simply wins, ensuring publishers earn the best available price. However, Business Insider argues that “Last Look” tilted the game, allowing Google to win impressions without paying more than it had to.
+
+When Google introduced what it called a “Unified Auction”, the complaint says the same advantage returned in a new form. A mechanism known as “Minimum Bid to Win” provided Google with the second-highest bid in each auction, information it could then use to shape future bids. Therefore, even reforms meant to level the field allegedly preserved Google’s edge.
+
+In 2014, Google rolled out Enhanced Dynamic Allocation (EDA), which required publishers to route every single impression through AdX. As a result, publishers lost meaningful control over how they allocated their inventory, and Google gained first access to virtually every impression.
+
+The lawsuit also describes Dynamic Revenue Share, a tool that allegedly allowed Google to change its commission depending on the situation. If AdX risked losing an impression, Google could temporarily lower its cut to win the auction. However, once rivals weakened from consistently losing, Google could raise its share again, leaving publishers with fewer options and worse terms.
+
+Notably, several internal projects are also cited in the lawsuit. For context, Project Bernanke, also known as Project Alchemist, allegedly manipulated pooled bid data from billions of auctions to suppress publisher revenue while boosting AdX’s share.
+
+Another initiative, codenamed Poirot, is said to have deflated bids from Google’s Display & Video 360 (DV360) buying platform whenever those bids went to non-Google exchanges, thereby nudging spend back to AdX.
+
+The lawsuit further claims that Google deliberately limited transparency. It removed two key data fields from DFP logs, making it harder for publishers to compare bids and detect irregularities.
+
+Moreover, the introduction of Unified Pricing Rules eliminated publishers’ ability to set different minimum prices across exchanges, one of the few levers they previously had to counter Google’s dominance.
+
+The lawsuit sets out several distinct claims. First are claims under the Sherman Antitrust Act, such as monopolisation of the publisher ad server market, and the ad exchange market. Furthermore is the attempted monopolisation of ad exchanges, and the unlawful tying of AdX to DFP.
+
+In plain terms, Business Insider is arguing that Google used its control of one essential product (the ad server) to force adoption of another (the exchange), and that even efforts to crush rivals, successful or not, can violate antitrust law.
+
+Alongside these antitrust claims, Business Insider accuses Google of deceptive acts and false advertising as per New York’s General Business Law, which serves as the state’s core consumer protection mechanism. It also adds common law claims for fraud and unjust enrichment.
+
+The business news publication is asking the court for broad relief: an injunction to restore competition in the ad-tech market, damages, restitution, attorneys’ fees, and a jury trial.
+
+Business Insider argues that the cumulative effect of Google’s practices has been profound. Publishers, it says, have seen their revenues drop, leaving them with fewer resources to invest in content.
+
+Smaller ad-tech competitors have exited the market or stalled, unable to compete on a tilted playing field. Advertisers, meanwhile, face higher costs and fewer choices because Google’s systems steer spending toward its own exchange.
+
+However, the complaint goes further to quantify the scale of the alleged harm. It states that in 2022 alone, Google earned $30 billion by manipulating auctions across the internet.
+
+To put that into perspective, this figure rivals the entire annual advertising revenue of many global news and media companies combined. Therefore, the company argues, Google’s practices are not merely technical adjustments but systemic distortions that siphon billions from the open web.
+
+For people browsing the internet, the broader consequence is a less diverse and less transparent online environment. If publishers cannot secure fair prices for their ad space, they invest less in new reporting, new formats, and innovative content.
+
+As a result, the open internet risks being hollowed out, replaced by fewer voices and less choice for consumers.
+
+This lawsuit does not exist in isolation. Earlier this year, a federal court in Virginia found that Google “engaged in a series of anticompetitive acts” in the ad-tech sector, focusing specifically on how it tied its publisher ad server to its exchange. The case, brought by the US Department of Justice, among others, has now moved into the remedies phase.
+
+In other words, the court has already found Google liable, and the debate now is over what penalties or structural changes are necessary. Regulators have floated measures as far-reaching as forcing Google to spin off AdX.
+
+Moreover on the same day that Business Insider filed its case, PubMatic, which is a major independent ad-tech firm, lodged a lawsuit of its own in Virginia against Google. PubMatic’s filing echoes many of the same allegations, claiming Google’s practices have stifled competition, raised costs, and reduced transparency.
+
+Therefore, Business Insider’s entry into the fray highlights a key shift as it is not just a complaint from a rival technology provider, but a claim from a major publisher whose business model depends directly on advertising revenue. By suing Google, Business Insider is arguing that the company’s practices not only harm competition in the ad-tech sector but also undermine journalism itself.
+
+If publishers cannot command fair prices for their inventory, the lawsuit warns, the open internet will be starved of quality content.
+
+For Business Insider, that link is existential: if ad revenues continue to be squeezed by practices it sees as unlawful, publishers will struggle to fund reporting, leaving the public with fewer independent and diverse sources of information.
+
+Notably, that argument positions this case as not only about market power but also about the future of the free press in a digital economy dominated by a handful of platforms.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

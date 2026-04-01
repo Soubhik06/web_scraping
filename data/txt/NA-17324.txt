@@ -1,0 +1,55 @@
+SUBREDDIT: r/india
+TITLE: How KYC works and why it's important to the customers and businesses?
+DATE: 2025-02-04
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/1ihe88k/how_kyc_works_and_why_its_important_to_the/
+
+--- POST TEXT ---
+
+In any business, especially those involved in multi-level marketing like QNET, a robust and transparent Know Your Customer (KYC) process is essential. A proper KYC process ensures transparency, security, and trust between the company and its customers. Here’s a comprehensive look at what an ideal end-to-end KYC process should involve:
+
+**End-to-End KYC Process:**
+
+**Start**
+ │ 
+ ▼ 
+**Customer Onboarding Initiation**
+ - Customer submits application 
+ - Provides identity and address documents
+ ▼ 
+**Document Collection &amp; Verification**
+ - Identity proof (Passport, Aadhaar, PAN) 
+ - Address proof (Utility Bill, Aadhaar) 
+ - Business documents (for corporate accounts) 
+ ▼ 
+**Identity Verification**
+ - Automated checks (OCR, AI-based ID verification) 
+ - Manual review (if required) 
+ - Face match (if applicable) 
+ ▼ 
+**Screening &amp; Due Diligence**
+ - Sanctions list screening (OFAC, UN, EU) 
+ - PEP (Politically Exposed Persons) check 
+ - Adverse media screening 
+ - Risk assessment (Low, Medium, High) 
+ ▼ 
+**Risk-Based Decisioning**
+ - Low-risk → Auto-approval 
+ - Medium-risk → Enhanced review 
+ - High-risk → Enhanced Due Diligence (EDD) 
+ ▼ 
+**Customer Approval &amp; Account Activation**
+ - Approved → Customer onboarded 
+ - Rejected → Customer informed with reasons 
+ ▼ 
+**Ongoing Monitoring &amp; Periodic Review**
+ - Transaction monitoring 
+ - Periodic KYC updates 
+ - Suspicious Activity Reports (SARs) if needed
+ ▼ 
+**End**
+
+---
+
+**Why is KYC important?**
+A proper KYC process helps prevent fraud, ensures compliance with regulatory requirements, and builds trust with customers. It also helps companies identify and mitigate potential risks, ensuring a secure and transparent business environment.

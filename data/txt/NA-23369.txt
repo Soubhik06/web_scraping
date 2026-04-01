@@ -1,0 +1,101 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Ketan Parekh was caught in a fraud by SEBI again. Here's the story
+DATE: 2025-01-18
+SCORE: 1
+URL: https://www.reddit.com/r/IndiaInvestments/comments/1i44kr0/ketan_parekh_was_caught_in_a_fraud_by_sebi_again/
+
+--- POST TEXT ---
+
+*Original Source:* [*https://boringmoney.in/p/ketan-parekhs-buddies-were-front*](https://boringmoney.in/p/ketan-parekhs-buddies-were-front?utm_source=reddit&amp;utm_medium=social+media&amp;utm_campaign=ketan+parekh+frontrun) *\[my newsletter Boring Money, if you like what you read do visit the original link to subscribe and receive future posts directly in your inbox\]*
+
+\--
+
+If you’re a large fund managing billions of dollars and looking to buy a stock, you would typically call one of two people:
+
+* Your favourite stockbroker.
+* Your favourite investment banker.
+
+Both of these are perfectly reasonable choices depending on the situation. If you’re buying a liquid stock with a lot of sellers in the market, you can go directly to your stockbroker and tell them which stock at what price and you’ll have it. If the stock is a little less liquid you might have to go to your investment banker first and get them to incentivise other investors to sell.
+
+What if you mixed things up? If you went to your broker to buy a stock that was less liquid and to your investment banker for a stock that was more liquid? \[1\] That would not make sense. If you placed a large order for a stock without enough sellers, the price of the stock would shoot up. You might not get the stock at the price that you want. And if the stock happens to be liquid, why would you want to pay a middleman fee to an investment banker in the first place? \[2\]
+
+[Here’s a SEBI order](https://www.sebi.gov.in/sebi_data/attachdocs/dec-2024/Front_Running_Order_Big_Client.pdf) from earlier in the month about how Capital Group, a large American $2.7 trillion fund manager, was defrauded. The order doesn’t actually name Capital Group—it’s supposed to be the victim, after all—but the entire reason Capital could be defrauded was that the company, instead of calling up its stockbroker, called up its investment banker. Wait, scratch that. Capital didn’t even call up an actual investment banker, it called up some random guy named Rohit Salgaocar with a no-name financial services firm in Singapore.
+
+A $2.7 trillion fund manager took its trades to a random guy and those trades ended up being front-run. The random guy and his accomplices made at least ₹65 crore ($7.5 million) in the process. Fun!
+
+# Passing the information
+
+When Capital Group’s traders wanted to buy a stock, they went to Rohit Salgaocar. Salgaocar didn’t work at an investment bank, he just had his own firm registered in Singapore called [Strait Crossing](https://sgpgrid.com/company-details/strait-crossing-pte-ltd), which doesn’t even have a website. Salgaocar’s apparent job was to arrange for sellers for whatever stock Capital wanted to buy.
+
+When Capital’s traders told him about the stock they wanted to buy, Salgaocar passed it on to Ketan Parekh, a financial fraudster with a well-known history. Here’s Salgaocar’s statement to SEBI:
+
+&gt;\[…\] Rohit Salgaocar stated that for executing trades of the Big Client, he used to find counterparties through different market participants including foreign funds, Indian funds, other holders of the shares and Ketan Parekh. However, as per the statement of Rohit Salgaocar, around 90% of the Big Client trades were being fulfilled by Ketan Parekh alone.
+
+Salgaocar told SEBI that his job was to look for sellers for Capital Group (the Big Client). And yet, he almost always took the the trades to Ketan Parekh. Did it worry him that Parekh had a history of financial fraud?
+
+&gt;Rohit Salgaocar has also stated that his extent of due diligence, before engaging with Ketan Parekh for Big Client trades, was just to check that Ketan Parekh was not banned from dealing in Indian Securities Market.
+
+Oh well, low bar.
+
+Once Ketan Parekh got his information, he activated a network of brokers and traders (at least 16 of them) who did exactly what Parekh asked them to do. Here’s an example. On September 19, 2022 at 9:59 am, Capital’s traders messaged Salgaocar telling him that they were in the market to buy HDFC stock. Within 4 minutes, Parekh told his buddies that they should start buying HDFC shares. By 10:33 am, they confirmed that they bought 100,000 HDFC shares at ₹2,433.32 each.
+
+Next, and I don’t know what calculation they ran through their heads, but Salgaocar got back to Capital’s traders and offered HDFC’s shares at ₹2,446 per share, that’s ₹12.68 more than their buying price. Capital wanted 250,000 shares and placed its huge orders for HDFC, and Parekh and buddies sold their shares to Capital. They made ₹12.6 lakh ($14, 700) on this trade.
+
+Some interesting points! Capital wanted to buy 250,000 shares but Parekh’s group had only bought 100,000. Yet Capital was able to get all the shares it wanted from the market at the price it wanted. Only about 40% of the 250,000 shares it bought came from Parekh. HDFC was a liquid stock! There was no need to whip up sellers to show up, they were always already there! The profit that Parekh made came from the price difference which Capital could have taken directly.
+
+That’s how a bunch of other trades worked as well. In some situations, Capital wanted to sell a particular stock, and Parekh’s buddies shorted that stock instead. Everything put together, SEBI figured that Parekh and buddies made ₹38.7 crore ($4.5 million) by front-running Capital’s trades.
+
+# The known unknown
+
+Rohit Salgaocar is an interesting guy. There is no mention of his credentials anywhere and no one is sure why or how Capital Group engaged him as a middleman. From SEBI’s order:
+
+&gt;\[…\] the Big Client stated that it did not have any agreement with SCPL or Rohit Salgaocar. However, traders of the Big Client, who knew Rohit Salgaocar, engaged with him while trading with respect to securities listed in India. The trade related conversation between Rohit Salgaocar and traders of the Big Client used to happen over Bloomberg chats and calls. In their statements, the traders have stated that Big Client was aware of the dealings with Rohit Salgaocar.
+
+Capital’s traders communicated with Salgaocar on Bloomberg Chat and that’s as official as it can get for finance folks. Yet, there was no real agreement between the two. They were passing on valuable information to some guy who didn’t technically owe them a thing.
+
+&gt;He had no agreement with the Big Client for his services and had commission sharing agreements with the Indian TMs viz. Motilal, Nuvama etc. As per the agreements, the brokers would give him 75% of the net brokerage income after excluding costs from the trades of the Big Client. \[…\] he had routed 90% of the Big Client trades through Nuvama and Motilal.
+
+Salgaocar didn’t have an agreement with Capital Group, but he did have one with two large Indian stockbroking firms—Nuvama (earlier Edelweiss) and Motilal Oswal. Once Salgaocar got Parekh’s go-ahead, he would ask Capital’s traders to place their orders through one of Motilal or Nuvama. The agreement with the two brokers was that 75% of the brokerage they made would be Salgaocar’s fee. A referral fee for bringing in such a large client’s trades to them.
+
+Salgaocar made ₹27.06 crore ($3 million) in the \~2 year period that SEBI investigated. This isn’t money he made shadily via front-running. This is money the brokers gave him because they felt they owed it to him legally! Salgaocar was making legal money but chose to help Ketan Parekh make some illegal money as well?
+
+None of this makes sense! Why did Salgaocar pass on Capital’s trades in spite of making millions anyway? Why did Capital go to the broker Salgaocar liked and not the one that made the most sense for them? Even if Salgaocar *was* presumably bringing in sellers, and Capital knew that he is getting referral fees from the brokers, couldn’t it just cut the fees and negotiate a lower brokerage instead?
+
+# Everyone’s connected
+
+Here’s [what I wrote](https://boringmoney.in/p/guest-experts-on-zee-business-were#:~:text=One%20of%20the,Life%20is%20tough.) last year for another front-running case:
+
+&gt;One of the challenges that SEBI faces when proving securities fraud is connecting different parties involved in an apparent fraud with each other. Last year I wrote about an instance of near-certain insider trading that SEBI couldn’t defend because it couldn’t prove that the participants were connected beyond being in-laws. Life is tough.
+
+Sometimes life is easy for SEBI, sometimes it isn’t. This particular case needed quite a bit of effort into proving that everyone was connected with one another. In the end SEBI did make a pretty compelling case.
+
+Salgaocar’s involvement in the front-running seems to have been limited to the initial information collection phase. Once he passed on the information to Parekh, SEBI’s job was cut out to show that Parekh and his buddies interacted with each other in ways that would prove that they were trading based on Capital Group’s information
+
+First, SEBI seized everyone’s mobile phones and read all the WhatsApp chats. \[3\] From those chats, it figured out which were the chats with Parekh. That was quite a task. From the SEBI order:
+
+&gt;It is noted that in none of the mobile phones, the contact numbers were saved in the name of Ketan Parekh and instead, various pseudo names such as, “Jack”, “John”, “Boss”, “Bhai”, “Wellwisher”, etc. were used to save these numbers.
+
+Parekh had at least 10 different mobile numbers, and those numbers were saved with dummy names on the phones of Parekh’s buddies. The mobile numbers weren’t registered in Parekh’s name, so SEBI had to prove that the numbers indeed were used by Parekh. One way it did that was by getting the location history of the phones from Parekh’s network operators. There were some situations where the phones were showing up together in the same location.
+
+It’s a bit funny where they were spotted—at hotels where the Parekhs were attending weddings. SEBI wrote to each hotel to confirm that Parekh did actually stay there:
+
+&gt;Hotel authorities, vide email dated November 03, 2023 confirmed the stay of Mr. &amp; Mrs. Ketan Parekh in Room No. 340, for attending a wedding. Mr. &amp; Mrs. Parekh has also shared their Aadhaar as identity proofs to the Hotel.
+
+The hotel manager would not have expected to receive an email from the securities regulator! All the hotels were more than happy to share exactly when Parekh stayed with them and even his room number.
+
+Parekh attended 4 weddings in 6 months. Being a social butterfly has its downsides.
+
+# Pay up
+
+This is bound to be the first of at least a couple of SEBI orders about this episode. To start with, SEBI wants to impound the ₹65 crore that Salgaocar, Parekh and the buddies made from the front-running. Salgaocar is a Singapore citizen though and made more than 40% of that money. I’m curious about how that’s going to turn out.
+
+**Footnotes**
+
+\[1\] I’m using the weird terms “less liquid” and “more liquid” because technically anything such a large fund buys *has* to be liquid. It’s not going to be able to buy truly illiquid stocks. So it’s just a matter of *how* liquid.
+
+\[2\] There are other services that investment banks can offer. For instance, they can also buy shares on their own balance sheet if the fund’s willing to pay up for that privilege. Or they can help execute block trades at a fixed pre-decided price.
+
+\[3\] How is it that they haven’t discovered automatically disappearing chats yet? SEBI’s case almost entirely relied on reading chats on WhatsApp.
+
+ 
+*Original Source:* [*https://boringmoney.in/p/ketan-parekhs-buddies-were-front*](https://boringmoney.in/p/ketan-parekhs-buddies-were-front)

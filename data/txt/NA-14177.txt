@@ -1,0 +1,67 @@
+This is a record of the proceedings in the Supreme Court bench hearings on the Constitutional validity of Aadhaar, which began on Feb 13, 2018. You may read the previous days’ proceedings here: Day 1 , Day 2 , Day 3 , Day 4 , Day 5 , Day 6 , Day 7 , Day 8 , Day 9 , Day 10 , Day 11 , Day 12 , Day 13 , Day 14 , Day 15 , Day 16 ., Day 17 , Day 18 , Day 19 , Day 20 , Day 2 , Day 22 , Day 23 , Day 24 , Day 25 , Day 26 , Day 27 , Day 28 , Day 29 , Day , Day 31 and Day 32 .
+
+Senior Advocate Rakesh Dwivedi continued his arguments on behalf of the government/UIDAI. He addressed the petitioners questions around what sort of control UIDAI has over Requesting Entities (RE)?  He said that it was a fair and reasonable safeguard under Article 21. He said that data under REs is segregated. There’s no way to aggregate that data as there are over 300 REs.
+
+Justice Sikri asked about individual REs collecting data.
+
+Dwivedi suggested the example of Vodafone. He asked what Vodafone could do with the authentication data? They can’t track any individual, he said. He said Vodafone can do targeted advertising using the data which is already happening without Aadhaar. Vodafone has far more demographic data about an individual than UIDAI has. In the case of UIDAI, there are so many regulations and penal consequences that don’t apply to Vodafone.
+
+Dwivedi showed a credit card statement to the bench to show that banks have a record of all transactions made by an individual including the place of transaction. He claimed that nobody is questioning what banks and telecoms are collecting. Their single target is Aadhaar.
+
+Dwivedi said It’s not difficult to collect data about someone from Google. How much senior advocates charged for particular cases is also available online. He gave the example of Big Basket knowing an individual’s food habits based on what they buy. He said the government would need to have big data, processing power and statistical knowhow to do big data analysis as Google is doing. He said Google and Facebook process tremendous data on a daily basis, but UIDAI does not have that kind of algorithms.
+
+Dwivedi said that it is doubtful that an RE that collects data and transfers that data – without any other data, he doubted it has any value. Also RE s do not have authentication records he said, pointing to regulation 18.
+
+Dwivedi showed a list of entities that require one time authentication and those that require authentication every time there’s a transaction. He said most entities require authentication once. Therefore there’s no way to surveil people 24×7.
+
+Dwivedi said they are still conscious about providing as much security as possible because they want to gain the trust of the people.
+
+About control of RE, Dwivedi said that the RE buys a fingerprint device from a vendor. They control the vendor with regard to the hardware and software of the device. He said they also put a key in the device so that the data is encrypted and sent to CIDR. The Machine is then taken to STQC and that Dept looks into the device to see whether it meets all the requirements. Device preparation and certification happens without the knowledge of RE
+
+Dwivedi said Information systems operator then conducts an audit of the RE and the report is submitted to UIDAI. If it is approved then the RE gets a license from UIDAI in order to operate as an RE.
+
+Dwivedi said Meta data is important for validation that the data is coming from a particular RE with which uidai has an agreement. He said that for fraud management and verification, meta data is required. He said REs have a data vault as well. It is controlled by trusted people. Apart from this there are two more audits conducted: an annual audit and random audits by UIDAI. Even ASAs are audited likewise. Relevant regulations are 19(1)(g) and 21.
+
+Dwivedi said that the nature of information is such that it is not of any commercial value. All REs are already possessed of this information and much more. He described the process saying that the UIDAI has device control which happens before the device is purchased. There are double pairs of keys. Encryption is immediate and time stamped. Transmission requires digital signature with a private key. There’s a data vault. There’s complete prohibition of storing PID block. Even demographic info is prohibited from transfer. Three level auditing by information system auditor.
+
+Dwivedi said finally, there are penal consequences if any provision of the Aadhaar Act or regulation is violated.
+
+Dwivedi asserted that the Central Government has no access to UIDAI’s data as UIDAI is an autonomous body. He emphasized that no surveillance is possible.
+
+Dwivedi reiterated that proof of concept studies happened with regard to Aadhaar and biometrics. Only in the last two years, enrollment shot up from 60cr to 100 cr (after the Act was enacted). In the beginning when Aadhaar was a scheme, Aadhaar technology was just being tested and there were hardly any enrollments.
+
+The Bench rose for lunch, reassembled at 2:30 pm.
+
+Dwivedi went through regulations 27, 28, 29. He said that while examining the problem of smart cards, even the EU has said that having a centralized database is important. Decentralization leads to fakes and duplicates.
+
+Dwivedi then argued on the issue of Aadhaar SIM linking. He cited Lok Niti foundation judgment. He mentioned TRAI’s recommendation to link Aadhaar with SIM. He read out the DoT notification that talks about re- verfication of mobile numbers using e-KYC process. This process, he said, is part of the license agreement. Section 4 proviso of the telegraph act gives exclusive power to the Central govt to decide license conditions.
+
+Dwivedi said Aadhaar SIM linking helps in ensuring that Sim card is given to the person who’s applying for it. This is a legitimate state interest. He said that the measure to verify your SIM card one time is not excessive at all. Therefore it’s proportional to the object sought to be achieved.
+
+Justice Chandrachud said that the Supreme Court never directed in the Lok Niti foundation order to carry out e-KYC of mobile numbers.using Aadhaar. The DoT notification said that Aadhaar SIM linking is being done on the direction of the Supreme Court while the Supreme Court had not issued any such direction. (MediaNama: FINALLY!)
+
+Dwivedi conceded that the Supreme Court in Lokniti did not “direct” that SIM cards should be linked to Aadhaar and said that it was done on the recommendation of TRAI before the Lok Niti order had even come out. He said that his submission was that the government had a legal basis to link Aadhaar with SIM by virtue of section 4 of the telegraph act. Also, the measure is reasonable in the interest of national security.
+
+Dwivedi said that there’s no possibility of surveillance via CIDR. CIDR is absolutely necessary to avoid fakes. The entire architecture is such that there’s no aggregation of data and therefore no surveillance. That’s why there’s a mix of public and private players. He claimed that the system stands the test of article 21 on its own and there’s no infringement of right to privacy. The project has the support of two governments because Congress had started this and Mr. Sibal was part of the cabinet that time.
+
+The Additional Solicitor General Tushar Mehta wanted to make a small submission. He addressed the question of whether Aadhaar pass the muster of Article 300A. He said that “Authority of law” phrase in Article 300A of the Constitution gives the power to the legislature to link Aadhaar with bank account under PMLA. The PMLA rules have the backing of the PMLA.
+
+The ASG cited the case Vishambhar Dayal v. State of UP saying that a statutory rule is akin to law under Article 300A of the Constitution. The parliament cannot every time amend the law (PMLA) for example in respect of money laundering. Therefore a wide statutory network is provided and power is given to the rule making authority.
+
+Senior Advocate V.Giri wanted to appear on behalf of State of kerala. He wanted to argue on legislative competence.
+
+The Bench eas of the view that States cannot challenge a Central Government statute. The Bench asked him to submit bullet pointed on what he wanted to argue and then the Bench would decide if he can be allowed.
+
+Senior Advocate Jayant Bhushan started his submission. He read the master circular by RBI issued on April 20. He said RBI has issued the master circular by virtue of its power under banking regulation act. The PMLA Rule 9(4) provides that Aadhaar has to be submitted to reporting entity. He said that under Rule 9(14) provides that the regulator (RBI in this case) shall provide guidelines incorporating the requirements of sub-rules (1) to (13) above and may prescribe enhanced or simplified measures to verify identity. The master circular is now in conformity with PMLA rules. RBI has no option but to amend the master circular.
+
+Senior Advocate Gopal Sankarnarayanan introduced his submissions:
+
+Sankarnarayanan argued that the right to identity is an absolute fundamental right. Aadhaar provides one kind of proof for identification. It arises from recognition of an individual. cited Ayn Rand’s “Anthem”
+
+The Court rose for the day.Sankarnarayanan would resume his submissions at 11:30am on the 26th April 2018.
+
+Summary of hearing based on tweets by Prasanna S, Gautam Bhatia and SFLC.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

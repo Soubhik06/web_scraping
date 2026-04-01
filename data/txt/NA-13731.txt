@@ -1,0 +1,39 @@
+SIM binding may require coordination between operating system service providers and app-based communication service providers, said Saikat Datta, co-founder of Deepstrat, while discussing the Department of Telecommunicationsâ (DoT) directions issued last week . Under these directions, the DoT has instructed WhatsApp, Telegram, Signal, Arattai, Snapchat, ShareChat, JioChat, and Josh to ensure that SIM cards remain continuously linked to their services within the next 90 days. For website or web-app-based access, the apps must ensure that users are logged out periodically (no later than 6 hours) and must offer a QR-code-based method to relink accounts.
+
+âThe directions lack clarity on what sort of SIM binding the government expects. We donât know whether they mean device-level binding, SIM binding to the app, or device binding through a SIM card,â Datta pointed out. He explained that a SIM card operates through device firmware, which in turn connects to the operating system (OS). Currently, financial applications, including banking and Unified Payment Interface (UPI) apps, already enforce strict active-SIM rules to prevent fraud .
+
+Discussing UPIâs active SIM requirements, Datta noted that to carry out SIM binding, operating system support would be required. âThis is what happened with NPCI (National Payments Council of India). NPCI stopped supporting applications on Apple beyond iOS 17 because Apple didnât agree to implement the measures they wanted retrospectively. A lot of devices became redundant because of it,â he said.
+
+Some, like Saurabh Pushpad, Chief Officer at Mediterranean Shipping Company (MSC), are concerned about what these directions will mean for people who may not always have active connectivity on their SIM cards.
+
+âI have been working in the merchant navy for the past 12 years, and when we get ships or SIMs typically are totally de-activated, and this lack of connectivity can sometimes last for up to 40 days, if we are crossing the Pacific Ocean or travelling from China to Brazil. At such times we are only dependent on the Wi-Fi on the ships, and that becomes our only way to communicate with our families, or check the status of our finances, it all happens over WhatsApp,â he explained.Â
+
+Pushpad added that while those in the merchant navy have access to satellite phones, they are too expensive for regular use. It is also impractical for crew members to buy SIM cards at various ports because security protocols to acquire a SIM card are equally complex in other parts of the world as they are in India. âBesides the merchant navy, the lack of access to communication apps without active SIM cards will also be a problem for those working on offshore oil rigs. They also do not get network there,â he said.
+
+Datta cited the example of Huaweiâs OS, which does not rely on Android , to explain that even if the government manages to get Apple and Google to implement SIM-binding requirements, challenges will remain. âOther OS providers could also come up, making it a process to onboard. The system cannot work if one player in the ecosystem [like the app-based communication provider] is onboard and the other [the OS provider] is not,â he suggested.
+
+As MediaNama has previously noted, scammers frequently use loaned or forged IDs to procure SIM cards, bypassing KYC norms. This raises questions about the effectiveness of the underlying KYC system, which the government aims to use to track bad actors through these directions. Often, fraudsters do not reuse SIM cards and simply move on to new ones after scamming a victim.
+
+Nikhil Narendran, partner, TMT practice at Trilegal, acknowledged that while it is possible to bypass the current KYC system, no fraud-curbing measure can be entirely accurate. âSIM binding is not a 100% foolproof solution for sure, but would it help us prevent a large part of the fraud problem? Iâm sure it would. This does not mean bad actors cannot use more sophisticated mechanisms, but from the governmentâs perspective, this is potentially low-hanging fruit,â he said.
+
+However, even if SIM binding is considered a low-hanging fruit, it raises the question: what stops a bad actor from simply shifting to another communication service? âWe have to think about how a fraudster operates. They post something on a public social media platform like Facebook and then redirect their victims to private communication channels. Now, the fraudster will simply move the victim from a channel on WhatsApp or any other platform under the SIM binding directions to other apps or channels,â Datta said.
+
+As MediaNamaâs editor Nikhil Pahwa pointed out on X (formerly Twitter), businesses wouldnât be able to use WhatsApp for business service, which has automation and API based access. According to a Meta blog post discussing business customer phone numbers, businesses can connect multiple phone numbers to a single WhatsApp Business Account. This raises questions about how business accounts would function if the service requires accounts to be tied to a dedicated mobile number.
+
+After this: 1. Can't use whatsapp/telegram on tablets without SIM 2. Can't use whatsapp/telegram on companion device 3. Will get logged out of desktop apps after every six hours. Irritating. 4. Can't use whatsapp/telegram on international SIM when traveling abroad 5. Businessesâ¦
+
+The directions state that app-based communication providers must log users out periodically (no later than 6 hours) from web-based access and offer a QR-code-based method to relink accounts.
+
+âThe limitation on web-logins looks excessive, given the amount of friction it will cause to the users. If the government wants to figure out that the same person is logging in on the web browser, there are probably other ways to solve this. One way I could think of is possibly to look at multiple device IDs mapped to a SIM based on authentication,â Narendran said.Â
+
+He added that app-based communication service providers could potentially determine that the person logging in to their service on the phone and in the browser is the same by checking whether the computer and the phone are on the same Wi-Fi network. Implementing the web login restrictions could also cause problems for law enforcement agencies. Datta pointed out that even law enforcement agencies sometimes use WhatsApp Web to coordinate with one another, questioning the impact of a 6-hour log-out on their operations.Â
+
+Given the lack of a clear definition of âapp-based communication services,â it remains unclear which services fall within the directionsâ scope beyond those explicitly notified by the government. For example, Instagram allows users to log in using a mobile number and has a chat function, raising concerns about potential scope creep.Â
+
+Narendran argued that while scope creep is possible, the way the directions are currently structured suggests they apply to services where the baseline requirement is using mobile numbers. âAt one level, everything on the web is communication. While there could be scope creep in the future, currently, they seem to be regulating services relying on mobile numbers as identifiers for communication services, as opposed to services merely using phone numbers as a login mechanism,â he said.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

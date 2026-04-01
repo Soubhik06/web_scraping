@@ -1,0 +1,63 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Behavioral Bias - Loss Aversion [Results]
+DATE: 2014-08-18
+SCORE: 3
+URL: https://www.reddit.com/r/IndiaInvestments/comments/2duyp9/behavioral_bias_loss_aversion_results/
+
+--- POST TEXT ---
+
+The single Question:
+
+"There is a fair coin, which means it has equal chances of coming with heads or tails (and not like a Sholay coin).
+
+If you call incorrectly, you would have to pay 100 rs. How much would you want to get paid on calling correctly, to make you play the game?"
+
+Results: We had 42 responses in this test. Thanks guys.
+
+Response | Frequency
+---|:-:
+0| 1
+98|1
+100|	9
+105	|1
+120	|1
+125|	2
+200	| **12**
+300|	1
+500|	3
+786|	1
+1000|	8
+5000	|1
+100000|	1
+
+The most common response (mode) was 200, opted by 28%. Followed by 100 (21%) and 1000 (18%).
+
+**Analysis:**
+
+Mathematically for a single play, if you opt for play at 100 and you call correctly, you will win 100. If you lose, you lose 100. Since the chances are 50% each, the net expected utility of the game would be Zero. 
+
+For any value less that 100 (2 responses for that), the net expected utility would be &lt;0. At 98, if you win, you will get 98 and the game ends (you go home satisfied and happy). And if you lose, you pay 100 and go home dejected. If you play the game multiple times, overall, you will tend to lose money. Therefore, you should not even attempt the game at negative expected utility levels. 
+
+At 101, the net expected utlity would be positive, and it starts making sense to play the game. There were few responses in the 105-125 range, which are slightly higher than the mathematical base minimum. 
+
+However, most of the responses were at 200. They wanted to win double the amount to have the emotional strength to undergo the possibility of loss of 100. *This is consistent with many studies which show that the pain of loss is approx. double the pleasure of gain.* This is true across general investor population as well as across professional fund managers (although, in that segment, the variation is much less). Also note, as an example, if the offer was 150 for gain and 100 for loss, you did not opt for playing the game and suffered an *opportunity loss* (yes, not a direct loss but a loss of opportunity to make money).
+
+For those giving responses even more than 200 (up to 1,00,000 in this survey), the focus on loss for the individual is even more. One response was 786, which I suppose is because of the Sholay, Amitabh and Deewar reference!
+
+**Loss Aversion:** This refers to the focus on the losses much more than the profits. It is a very powerful bias as is evidenced in the above responses.
+
+**Effects:**
+
+1.	We tend to keep rubbish investments for a long time (since, we don’t want to realize the loss), while selling the good ones (because we don’t want to take a loss). The losers become long term investments and the gainers become short-term trades. 
+2.	Another manifestation is the ‘profit booking’ idea. Book profit at 15%/20%/30%. Some AMCs / ULIPs give the idea of automatic transfer of the profits from equity to debt after hitting a specific number. Overall, this is a serious opportunity cost.
+3.	Most new investors (or those who have got severely burnt by a previous bear market) want the equities to give them 20-30% gains before trying to commit any money into them. Otherwise, they are pretty happy and satisfied by 6-8% returns in debt instruments (Some of us who did the same thing with a response of 200 shake our heads on hearing this, but the underlying effect is the same). This is applicable for the zero tax as well as the 30% tax people. And no amount of logical evidence can move these people. The fear of loss is so high that the potential gain has to be huge. 
+4.	There are a lot of scams which utilize this bias. A “sure” return of 16% / 24% would find so many “naïve” investors to put their money in. The Madoff scam was the biggest of these unearthed ones.
+5.	The endowment schemes showing the word “definite” returns are so much powerful than any other instrument (barring PPF and FD/RD).
+6.	The sure “loss” of money in a term insurance works similarly too. There is no analysis of the expected utility or the logical / mathematical evaluation. The emotional part of the brain just kicks in and goes into overdrive.
+7.	Similar is the case for ‘fee only’ advisors. The client looks at the direct “loss” of the fees without correctly evaluating the possible benefits of the interaction. If the same thing is disguised in trail commissions or front-load charges within an instrument, even if the total loss / commission is more, the client would prefer the latter. And this occurs at any amount, whether the fees is even 500 or 25k. The pain of paying is there at all times and gets magnified according to the individual. 
+8.	Sunk Cost Fallacy is part of this Loss aversion bias. Once a bad investment is made, you still continue to remain in it so as to avoid realizing the loss. The most common example in our setting is the constant question of people wanting to ask about surrender / paid-up options for endowment policies.
+
+More Reading:
+
+1.	[Sunk Cost Fallacy](http://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/).
+2.	[A neurological basis](http://scienceblogs.com/cortex/2010/02/10/loss-aversion/).

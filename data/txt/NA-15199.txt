@@ -1,0 +1,19 @@
+The National Health Authority (NHA) and Indian Institute of Technology Kanpur signed a Memorandum of Understanding (MoU) to develop a consent management system for research, a health database and an open benchmark platform for comparing and validating AI models. The platform will later be used by the NHA under the Ayushman Bharat Digital Mission (ABDM), as per a press release by Ministry of Health and Family Welfare on September 11, 2024.
+
+“Healthcare data is uniquely costly to acquire and through this platform will be protected against statistical dredging,” said the Ministry press release.
+
+The Ministry stated that the platform will compile data across states, “making it easier for researchers to access and analyze health data without data leaving the custody of data fiduciaries.”
+
+However, the Digital Personal Data Protection Act, 2023 , does not address health data or sensitive personal data. So why do entities like data fiduciaries have access to such medical data at all?
+
+As per the Act, a “ data fiduciary ” is any person who alone or in conjunction with other persons determines the purpose and means of processing of personal data. These fiduciaries or entities are obligated to ensure informed user consent when processing personal data and preventing data breaches among other duties. For example, a hospital could be a data fiduciary in case of health data. However, the Act also talks of a “consent manager” who is registered with the Data Protection Board and is in charge of giving, managing, reviewing and withdrawing consent on behalf of a user. The introduction of this new entity raises questions as to who bars the onus of consent. In this case, it also raises the question of who will oversee the consent management system introduced by the NHA-IIT Kanpur partnership.
+
+Another hurdle is the definition of “personal data” under the Act that only refers to “data about an individual who is identifiable by or in relation to such data.” The law does not define (or even mention) health data or sensitive personal data in any of its provisions. Thus, it is unclear whether health data comes under the purview of this Act at all.
+
+As the digitization of health becomes more streamlined, the government may introduce a system similar to account aggregators to oversee user consent. In the financial ecosystem, an account aggregator acts as a consent manager and allows customers to send their data from Financial Information Providers (FIPs like banks) to financial information users (FIUs like insurance companies). According to CAMSfinserv CEO Tejinder Singh in an exclusive interview with MediaNama, these aggregators inform users about “the contours of consent,” the amount of information collected and the retention period of the data. The consent management system introduced by the partnership may incorporate entities like the Account Aggregators. However, it is yet to be seen how this can be ensured across various healthcare verticals.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

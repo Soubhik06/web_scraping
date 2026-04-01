@@ -1,0 +1,19 @@
+Truecaller users can now create a completely digital version of their own voice to use inside the app’s AI Assistant following a partnership between the platform and Microsoft announced on May 22, 2024.
+
+As per a blog post by Truecaller, the app will utilize the new Personal Voice technology from Microsoft Azure AI Speech to create a replicated and authentic version of a user’s voice instead of the many digital assistants on offer. This feature will be available via the AI Assistant of the app, which provides AI technologies to automatically answer phone calls, screen calls, take messages, respond on behalf of a user, or record a call for later viewing.
+
+“The personal voice feature allows our users to use their own voice, enabling the digital assistant to sound just like them when handling incoming calls,” said Raphael Mimoun, Product Director and General Manager, at Truecaller Israel.
+
+In a separate blog , Microsoft said that the personal voice feature will have Limited Access, available by registration only and for certain use cases.
+
+“Watermarks are added to speech output created with the personal voice feature… As the personal voice feature enters general availability, we have updated the watermark technology with enhanced capabilities for identifying watermark existence,” said the blog.
+
+According to Microsoft, the accuracy of Azure AI “watermark detection with audio samples generated using personal voice” is 99.7% higher than for “detecting the existence of watermarks in various audio editing scenarios”.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

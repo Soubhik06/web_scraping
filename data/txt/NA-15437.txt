@@ -1,0 +1,63 @@
+Among 10 different Indian mobile banking apps, we’ve found that in many instances these apps record/collect information like your contact list, call record data, info about apps installed on a phone, and even gain access to your calendar schedule.
+
+These apps are meant to interact with secured banks server and retrieve information about your bank account, make IMPS, NEFT, RTGS transfers within the app. So in this case, it is justified if these apps request ‘network permissions’ to privately connect to the bank servers. MediaNama specifically reviewed only the Android permissions that these apps were seeking. Based on this we narrowed down some privacy issues that these apps could pose to a user.
+
+(P.s: Yesterday we had reviewed Indian wallet apps )
+
+1) Retrieve running apps
+
+This permission allows the requesting app to find out what other applications are currently/recently running on your phone on real-time basis, and different sub-task (activities running in an app) running on the phone. Android developer guide spells out that this permission was discontinued since roll out of Android Lolliop due to security risks. The permission can however be granted and work on phones with  Android version below Lollipop.
+
+Apps requesting the permission : ICICI Mobile Banking – iMobile , Axis Mobile , CitiBank (IN) , IDBI Bank GO Mobile
+
+2) Read calendar events and confidential information , add or modify calendar events and send email to guests without owners’ knowledge
+
+The ‘read calendar events and confidential information’ permission simply allows the requesting app to read sensitive and private information saved (such as day schedules) in a user’s calendar, as mentioned by the Android Developer guide . In addition, the ‘add or modify calendar events’ allows the requesting not only read but modify/edit sensitive calendar information of a user, and send out emails to registered guests for any event. It is not clear why a mobile banking app would want access to such private information of a user.
+
+Apps requesting permission to read and modify calendar data: ICICI Mobile Banking – iMobile , Axis Mobile
+
+3) Read Contacts , add/remove contancts
+
+Almost all mobile banking apps that MediaNama reviewed requested permission to read a user’s contacts data, including phone numbers, email addresses, names, etc. attached to the contact. And at least one app requested permission to modify/change or even add and remove contacts data.
+
+Apps requesting permission to read contacts data: ICICI Mobile Banking – iMobile , Axis Mobile , State Bank Freedom , State Bank Anywhere , Bank of Baroda M-Connect , Union Bank Mobile Banking , HDFC Mobile Banking
+
+App requesting access to modify/add/delete contacts: ICICI Mobile Banking – iMobile
+
+4) Modify system settings
+
+An app requesting such a permission will allow it simply read a user’s global settings, which means pretty much anything mentioned under Android’s main ‘settings’ window. This can include volume control widgets, notification widgets, settings widgets, Wi-Fi utilities, GPS, etc. The Android guide mentions that at time, the permission can even allow the app to access/modify these settings without user consent.
+
+Apps requesting the permission : IDBI Bank GO Mobile
+
+5) modify audio settings, pair with Bluetooth devices, set alarms
+
+Some mobile banking apps that MediaNama reviewed requested access to unusual features. These include access to modify or change a user’s global audio settings , pair with nearby bluetooth devices, and even set alarms. While the app can change audio settings without user consent, it does not pose any security risk, but leaves us wondering why a banking would want to meddle with a user’s alarm settings.
+
+Apps requesting to modify audio setting : HDFC Mobile Banking App requesting access to bluetooth pairing : HDFC Mobile Banking Apps that wanted to set alarms : ICICI Mobile Banking – iMobile
+
+6) Read call logs, directly call phone numbers
+
+Some apps also request access to read the user’s call log information such as phone number, duration of call, and time when call was placed. Another permission ‘directly call phone number’, which is granted under telephony permission allows the requesting app to directly call phone numbers (and at times without user knowledge).
+
+Apps requesting to read call logs : ICICI Mobile Banking – iMobile , Axis Mobile , State Bank Freedom , Bank of Baroda M-Connect , Union Bank Mobile Banking
+
+App requesting access to make calls: Axis Mobile , State Bank Anywhere , HDFC Mobile Banking , CANMOBILE (Canara Bank)
+
+7) Read phone status and identity
+
+Apps seeking this permission can gain access to information like “phone state, including the phone number of the device, current cellular network information, the status of any ongoing calls, and a list of any PhoneAccounts registered on the device”.  ‘PhoneAccounts’ is an Android classification which helps identify apps and user accounts that run using a unique phone number.
+
+All the 10 mobile banking apps that MediaNama reviewed requested access to this permission . These include: ICICI Mobile Banking – iMobile , Axis Mobile , State Bank Freedom , State Bank Anywhere , Bank of Baroda M-Connect , Union Bank Mobile Banking , HDFC Mobile Banking , CitiBank (IN) IDBI Bank GO Mobile , CANMOBILE
+
+7) Location tracking using GPS / telecom network Apps requesting these permissions allow it track the exact location of a user via GPS, or through the mobile network signals that the phone is picking up from a nearby tower. Note that all 10 apps we reviewed requested permission to ‘precisely’ track a user via GPS .
+
+8) Record audio This permission simply allows an application record audio via the phone’s microphone. Android developer guide classifies the ‘ protection level ’ for such a permission (for a user) as ‘dangerous’ , which means that the permission “would give a requesting application access to private user data or control over the device that can negatively impact the user.”
+
+Apps that requested to record audio : HDFC Mobile Banking
+
+Tip : Here is how to revoke individual permission for each app installed on your Android phone. (Hat tip: @surinderxx )
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

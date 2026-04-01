@@ -1,0 +1,23 @@
+IRCTC has integrated payments using the Interbank Mobile Payments Service, as per an email sent out by the company. IMPS allows real time payments between individuals, and has been working on integrating merchant payments so far, so an IRCTC integration comes as quite a significant development for the fledgling service, which has been struggling for traction, with low transaction numbers so far. The issue with IMPS, though, is that payments to IRCTC will still need a One Time Password to be generated. Banks that allow IMPS payment at present, as per the mail, include:
+
+1. State Bank of India 2. Union Bank of India 3. Canara Bank 4. Kotak Mahindra Bank
+
+Note the absence of ICICI Bank and HDFC Bank, two of India’s largest private sector banks.
+
+The process for booking a ticket using IMPS is as follows:
+
+1. Go to IRCTC website at http://www.irctc.co.in 2. Login with your IRCTC account 3. Select From Station, To Station, Date of Travel, Ticket type, and Quota from the form provided 4. Select the Train from the list of options, and select coach class (first class, chair car, sleeper, etc) 5. The system will inform about ticket availability and an option to Book the ticket 6. Enter the passenger details (name, age, gender, berth preference), enter mobile number, and click ‘Go’ button 7. Confirm the details by clicking on ‘Make payment’ button 8. Select ‘IMPS’ payment option in the list of payment options (in the ‘Mobile/Net Banking’ tab) 9. The system shall redirect the customer to secure SBI payment gateway web page 10. The customer shall be asked to enter following credentials –  Customer mobile number – Customer MMID – OTP (One-Time Password)
+
+11. On submission of these details, the system shall redirect customer to IRCTC website, with ticket details and PNR number on the page, that can be printed 12. Customer shall get confirmation SMS from their respective Bank on successful transaction, and bank account shall be debited with corresponding amount
+
+The real issue here remains the need for generating an OTP: which the consumer will have to generate separately. The State Bank of India has the following process for generating the OTP : – Using the mobile banking application log on to mobile banking application using your user id – Select option ‘IMPS – Interbank Mobile Payment Service’ in the main menu – Select option ‘Generate OTP’ in the sub-menu – Enter M-PIN – The OTP will be displayed on the screen along with its validity amount and time – OTP will also be sent as SMS alert on customer mobile
+
+Process flow for generation of OTP thru IVR is as follows – Customer dials contact centre telephone no 18004253800 from his register mobile – Upon choosing mobile Banking information option, and subsequently OTP option, IVR prompts for last 4 digits of primary account no and last 3 digits of user id. – Bank validates the aforesaid credentials as success or failure and sends the OTP or the failure message to customer and speaks out OTP to the customer.
+
+The more the number of processes, the more tedious it becomes to complete the transactions, and hence the greater the likelihood of transactions being completed. The RBI has been complaining about mobile transactions not taking off, and this is exactly why – the way the RBI and the banks have put in additional steps, with the intent of preventing fraud, they’re inhibiting consumer purchases on mobile.
+
+Correct me if I’m wrong, but there’s no OTP required for P2P money transfers using IMPS, which appeared to be its greatest advantage over all other forms of payment on the mobile. The deployment using OTP for merchants is disappointing, and we don’t think it will take off. The RBI and the banks need to get their act together on mobile payments.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

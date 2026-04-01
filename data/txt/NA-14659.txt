@@ -1,0 +1,65 @@
+The Ministry of Electronics and Information Technology (MeitY) has released a Standard Operating Procedure (SOP) to curb the dissemination of non-consensual intimate imagery (NCII) online. Issued under the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, the SOP sets out a detailed framework for victims to request the removal of content that exposes their private areas, depicts them in nudity or sexual acts, or uses morphed images without consent.
+
+It specifies multiple channels for filing such complaints, including intermediaries, One Stop Centres (OSCs), law enforcement agencies, and the National Cybercrime Reporting Portal (NCRP). Furthermore, the SOP mandates that online platforms act within 24 hours of receiving a complaint.
+
+In addition, it establishes clear lines of coordination among intermediaries, the Ministry of Home Affairs (MHA), and the Department of Telecommunications (DoT) to ensure prompt content removal and prevent re-uploads.
+
+Significantly, the release of this SOP follows directions from the Madras High Court . In July 2025, the court instructed MeitY to prepare âa prototype as to what a victim girl must do when faced with situations of dissemination of NCII contentâ.
+
+The court issued this order after a woman lawyer alleged that someone had circulated her intimate images online without her consent. Consequently, the bench directed the government to establish a uniform, victim-oriented process for redress. Thereafter, MeitY submitted the SOP in October 2025 to the court, after which the case was closed .
+
+According to Siddharth Pillai, a co-founder at the Rati Foundation, which works on reducing online harms for women and underserved communities, parts of the new SOP mark progress but still leave important gaps. Pillai said, âClarification of the existing 24-hour takedown requirement and Grievance Officer framework is a positive step if not entirely newâ.
+
+He added that âthe creation of a secure hash-bank under I4C to prevent reuploads is constructive as reuploads have become a sticking issueâ, but warned that âthese hash-banks must operate under explicit privacy and data-protection safeguards to avoid secondary victimisationâ.
+
+However, Pillai raised concerns about how the SOP defines harmful content. âThe definition limits harmful content to visible nudity or explicit sexual acts and excludes a wide range of NCII cases such as intimate, suggestive or private photos shared without consentâ, he explained. Drawing from their experience at Meri Trustline, he noted that âperpetrators exploit moderation thresholds and use emojis, captions and edits to sexualise victims while avoiding takedownâ.
+
+Pillai further cautioned that the SOPâs framing âimplicitly limits protection to women and girls, excluding trans and male victimsâ, calling it âa missed opportunity to include other marginalised groups as wellâ. Finally, Pillai warned that by narrowing the definition, âthis SOP may risk reducing existing access to remedyâ that grievance officers previously exercised under broader interpretations.
+
+The SOP lays out four primary channels through which individuals can request the removal of non-consensual intimate imagery content. Each mechanism defines how victims can report violations and what actions authorities must take in response:
+
+â¢ OSCs: The SOP specifies that female victims, or anyone acting on their behalf, may report the dissemination of NCII content to the nearest OSC under the Ministry of Women and Child Development. The OSC must assist the complainant in filing a report on the NCRP, offer legal or psychological counselling if requested, and help with police complaints or legal aid through the District Legal Services Authority.
+
+â¢ Law Enforcement Agencies (LEAs): Victims can also approach their local police station directly. Police must immediately report the flagged content on the NCRP and the Sahyog Portal, register a case upon request, and connect the complainant with an OSC for counselling or legal assistance.
+
+â¢ NCRP: Individuals may alternatively report non-consensual intimate imagery through the NCRP. Managed by the Indian Cyber Crime Coordination Centre (I4C), the portal enables swift investigation and expedited content removal. Content hosted outside social media platforms can also be referred to the DoT for further action.
+
+â¢ Intermediaries: Individuals, or any authorised person or government agency acting on their behalf, can contact the intermediary or website directly via its user reporting channel, the designated Grievance Officer, or the âReport/Abuseâ option. They may also use the NCRPâs integrated reporting link to flag non-consensual intimate imagery content for prompt removal.
+
+In summary, I4C under the Ministry of Home Affairs serves as the central aggregation point for all NCII-related complaints received through OSCs, LEAs, and the NCRP. Furthermore, DoT must coordinate with Internet Service Providers (ISPs) to block flagged links upon reference received from the authorities.
+
+The document directs intermediaries to act swiftly and comprehensively when notified about non-consensual intimate imagery content. Upon receiving a grievance from an individual or their authorised representative, intermediaries must remove or disable access to the reported material within 24 hours, as required under Rule 3(2)(b) of the Information Technology Rules, 2021. They must also acknowledge the removal to the complainant, thereby ensuring transparency and accountability in the process.
+
+Furthermore, intermediaries are required to align their community guidelines with the IT Rules to ensure effective implementation of NCII takedowns. In addition, Significant Social Media Intermediaries (SSMIs) must deploy a crawler or similar automated technology to detect and identify hashes of the reported content.
+
+Intermediaries must then use these hashesâunique identifiers of specific images or videosâto track and remove identical or similar material from other URLs or sources. Importantly, the I4C will aggregate these hashes to create and maintain a secure hash bank.
+
+Moreover, intermediaries must periodically inform the complainant about the removal of flagged and resurfaced material. If the same content appears on other websites, intermediaries must immediately report it to I4C through the Sahyog Portal and inform the complainant. Additionally, search engines must de-index such material from results, while Content Delivery Networks (CDNs) and Domain Name Registrars (DNRs) must render the flagged URLs inaccessible within 24 hours, including alternate links.
+
+Pillai points out that the SOP provides no clarity on how takedown applies to encrypted messaging platforms. He said, âIt is unclear whether accounts or specific messages will be actioned. And when the content is downloaded to the device on viewing, how is the intended safeguard going to be implementedâ?
+
+Pillai also highlighted that non-mainstream and unregulated platforms remain unaddressed. âThe SOP applies only to SSMIsâ, he explained, noting that this leaves pornographic and file-sharing sites hosting NCII content out of scope. âSome of these platforms lack basic points of contact and this is leaving survivors without remedyâ, he added, referencing RATIâs Meri Trustline Annual Report 2023â2024 , which documented this issue as a major cause of distress among survivors.
+
+Further, Pillai observed that while the SOP directs CDNs and domain registrars to render content inaccessible, it provides no enforcement or escalation mechanism. âBlocking and de-indexing from search are partial fixes but are easily bypassed through mirrors, proxies and new uploads,â he said, calling for stronger and more technically robust safeguards.
+
+Gangesh Varma, a principal associate at Saraf and Partners and a technology policy expert, says the framework âcan be seen as a direct response to the helplessness that victims feel in the face of dissemination of NCIIâ, adding that it brings structure to due diligence requirements and reinforces the 24-hour deadline for removing or disabling access to reported content, as well as providing guidelines on how to report such cases.
+
+He observes that, taken together with recent amendments to the intermediary guidelines and the draft rules on synthetically generated information meant to address AI-generated deepfakes, the Ministry âis not pulling any stops in its content regulation journey and creating safe online spacesâ.
+
+Varma notes that the SOP appears to be a ânatural progressionâ of how Indiaâs content-regulation framework has evolved, moving from a limited conception of intermediary liability to a system that requires more proactive measures from platforms.
+
+He further pointed out that the SOP sets a higher compliance threshold without changing the law itself. By detailing coordination between ministries and introducing technical tools such as hash-matching and crawlers, it strengthens the operational framework for takedowns.
+
+However, he cautioned that the dynamic nature of the SOP will demand flexibility. âIntermediaries will need to design nimble interfaces and features that can adapt to changing requirements,â he said, adding that its overall effectiveness will depend on interoperability and enforcement.
+
+The SOP represents Indiaâs most structured attempt yet to tackle a pervasive and deeply gendered form of online abuse. By setting out time-bound procedures for content removal, clear reporting channels, and defined responsibilities for intermediaries and government agencies, the SOP seeks to fill longstanding gaps in how digital platforms and authorities respond to intimate image violations.
+
+However, a November 2025 report by Breakthrough and Equality Now, based on extensive survivor interviews, revealed how victims of technology-facilitated gender-based violence often face entrenched barriers to redress. It found that âall the survivors and experts involved in the study expressed hesitation in filing and pursuing formal police complaints.â Many respondents said they avoided reporting due to social stigma, fear of victim-blaming, and lack of faith in police processesâfactors that drive survivors to withdraw from digital spaces altogether.
+
+While the SOP mandates swift takedowns and clearer accountability, the report underscores that procedural fixes alone are insufficient. Unless authorities pair policy with gender-sensitive policing, stronger institutional capacity, and survivor-centred support, digital safety for women will remain more aspiration than reality.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

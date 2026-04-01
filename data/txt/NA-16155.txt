@@ -1,0 +1,43 @@
+SUBREDDIT: r/india
+TITLE: Regarding recent bank atm malware, what are some good banking/money keeping tips that one should know?
+DATE: 2016-10-21
+SCORE: 8
+URL: https://www.reddit.com/r/india/comments/58it6x/regarding_recent_bank_atm_malware_what_are_some/
+
+--- POST TEXT ---
+
+Some of the tips that I read are - 
+
+1) Never use debit cards. Only use credit cards. (why?)
+
+2) Change PIN regularly(once every 2 months).
+
+3) Have a strong netbanking password and change it every 2 months(Keepass)(SBI has a maximum limit of 20 characters. For fuck's sake).
+
+4) Never carry a debit card in your purse. Carry a credit card with a maximum limit of maybe ~5k INR.(why?)
+
+5) Keep your purse exclusively in one of your front pockets.(Your back will thank and it is harder to pick the front pocket.)
+
+6) Carry at maximum the money required to travel.
+
+7) Use a Yubikey as a hardware token when doing netbanking if your bank allows which I am damn sure no bank uses as bank ATMs in India use Windows XP as their OS.
+
+8) Use a live USB version of Linux to do netbanking. If you have Linux installed, then using a guest version is equivalent to it.
+
+9) De-enroll from apps like TrueCallerID which steal your private information like email ID and phone number. If someday TrueCallerID gets hacked, you are an ideal candidate for fraud using social engineering. boogie 9288's youtube account was hacked using social engineering even though he was using 2FA.
+
+10) In continuation to point 9, use a secondary phone preferably a Ubuntu phone that doesn't steal your data for OTP purpose that has a secret SIM number that nobody except you know. 
+
+11) Stop using Windows while online banking. Remove it from your system if possible. Use Linux.
+
+12) Stop using Android. Those apps steal your data like anything that can be used for social engineering. Use Ubuntu phones.
+
+13) Do not reveal your Aadhar number to anyone. And for god sake do not link your bank account to your aadhar number. Problems with USA's SSN has been well documented and wannabe westerners are still trying to replicate their system with Aadhar.
+
+14) Use an app based 2FA for every account.
+
+15) Your facebook email address should not be the same as your bank email address.
+
+16) Use virtual cards for online transactions(SBI has this.)
+
+Please add more points.

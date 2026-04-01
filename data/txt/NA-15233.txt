@@ -1,0 +1,75 @@
+by Jaskirat Singh and Jagdeep S. Chhokar*. Crossposted from The Wire , with permission.
+
+–
+
+The front page of The Tribune on March 21 , 2019, carried the following full-page advertisement:
+
+It promises people to help them “send only the best candidates to the parliament” and suggested that they “download the Neta app to vote for the leader you think deserves a ticket and help your favourite party select the best candidate”.
+
+It also offers an incentive by saying “download the Neta app and get a chance to win Rs 10,000?. A line at the bottom said, “issued in public interest” and provided the address of a website neta.co.in .
+
+A visit to this website revealed that the “team behind Neta… consists of passionate journalists, technologists and media veterans who are trying to make the Indian democracy better”. It says that “Neta was founded by Pratham Mittal, a Doon School and Penn graduate who previously founded Outgrow (one of the top polling technology companies)”. It further mentions that its “CEO is Robin Sharma, who previously co-founded CAG with Prashant Kishore” and that their “teams are based in Delhi, Jalandhar and Mumbai”. CAG stands for Citizens for Accountable Governance and Prashant Kishore has been a consultant-strategist with several political parties in various elections and is now the vice president of the Janata Dal (United) .
+
+The website imparts some information about the person behind the app:
+
+“27-year-old entrepreneur (who was) (b)orn and raised in Jalandhar, Mittal comes from a family that founded the famous Lovely Sweets shop. His parents also run Lovely Professional University, a prominent private institution of higher education. After studying in Doon School, Mittal attended college at the University of Pennsylvania where he studied Systems Engineering and Political Science… During his third year of college, Mittal started Outgrow, which he claims has become the largest polling technology company in the world with over 4000 publications like The New York Times, The Guardian, etc, as clients.”
+
+Mittal also reportedly said that “over 15 million verified voters have already rated or reviewed their local leaders across 543 parliamentary constituencies and 4120 assembly constituencies…We are eyeing 100 million before 2019 elections”. The app was launched on August 24, 2018, in the national capital with former president Pranab Mukherjee as chief guest , and former chief election commissioners S.Y. Quraishi and Nasim Zaidi in attendance.
+
+Work on the app is reported to have begun “in September 2017, (when) Mittal and his team began working on Neta out of his Shanti Informatics office in New Delhi, which was set up for the purposes of developing the app”.
+
+He tells The Better India that the funding same from his personal stake in Outgrow and his family. Even though this is a for-profit venture, “we are also not looking to monetise the platform for as of now. The idea is to first focus on building credibility”.
+
+This made us look for Shanti Informatics. A search led to “ Public Notice No.2/STK-5(list A Cos)/2017 ” dated 20/07/2017, issued by the Registrar of Companies, Bangalore. This notice contains a list of 7,399 companies whose names have been struck off. Entry 6,118 of that list says “SHANTI INFORMATICS PRIVATE LIMITED” and its “CIN” is shown as “U72200KA2005PTC036658.”
+
+It seems the app has been developed by a company which appears to have been closed since at least July 2017.
+
+This came across as mysterious, so we dug deeper.
+
+Since the website of the Neta app mentioned Lovely Professional University, a quick search led to a report referring to the Lovely Group’s “classic rags-to-riches tale”. The Group is reported to have had humble beginnings in 1961 with a 10×10 sweet shop called Lovely Sweets “ making and selling laddoos in Jalandhar Cantonment”. The small shop has now grown “to five-floor structure”. It “has also entered bakery with the label Lovely Bake Studio under Shaishav’s control and is currently in talks with franchise consulting services provider Francorp India to scale up Lovely Sweets within north India initially through franchising model”.
+
+The origin of the Lovely Professional University is reported to have been a “college on 3.5-acre land in Phagwara, Punjab” which is now supposed to have “become India’s largest university in terms of number of students, which is around 30,000 from 30 countries”. It has now “also started Lovely Academy for test preparation and Lovely Wannabuy, which is into offline FMCG retail”. According to the report, the Group also has an “automobile business with six new offices in Punjab and leading and maintaining the market share in auto dealership business in north India except Delhi”.
+
+The same report has this to say about the founder of the Neta app: “Pratham, after doing his engineering from the University of Pennsylvania, started his own start-up called Venture Pact in 2012, an online marketplace for B2B software services, in New York, the US.”
+
+Some interesting information about the investors behind the Neta app comes from VCCircle (acquired by NewsCorp in 2015) which calls itself “pre-eminent source of news, information, data and analysis on alternative investments in India”.
+
+A report dated February 20 , 2019 states that Neta “has struck an ad-for-equity deal worth $10 million (around Rs 71 crore) with a clutch of Indian media groups”. This report goes on to describe “ad-for-equity deals” as “a media house taking an equity stake in companies in exchange for giving them advertising space”. It further names “entities associated with The Times of India, Hindustan Times, Republic TV, Network 18 and NewsX”.
+
+It then goes into specifics:
+
+“To be specific, the entities that are said to have entered into an agreement with Neta are Brand Capital, the ad-for-equity investment arm of media firm Bennett, Coleman and Company Ltd (BCCL); HT Media Ltd; ARG Outlier Asianet News Pvt Ltd; Network18’s private investment arm Capital18 Fincap; and ITV Group respectively.”
+
+Interestingly, the report also says that “Network18 has denied that there was any transaction”.
+
+The Better India describes seven steps in the working of the app:
+
+“1. Download the app or open their website. 2. Select your constituency. 3. See all MP and MLA candidates. 4. Assess their ranking, ratings and reviews. 5. Vote for your favourite candidate. 6. If you are unsatisfied, either change your vote or give lower rating to them. 7. See the results of your or any state and ascertain whose rating is going up or down.”
+
+In terms of actual usage, the first screen on the website gives two options: (1) “GET THE APP LINK”, and (2) “ACCESS THE WEBSITE”. For getting the app link, one has to give one’s phone number. If one clicks on accessing the website, the next screen asks you to choose your constituency, either by pin code or name of the constituency.
+
+Once you have done that, you are led to the next screen which asks you to take two actions: (1) Vote for general election 2019, and (2) Rate your Prime Minister. For voting in the the general election category, one is asked to vote for one of eight options: BJP, Congress, Aam Aadmi Party, RaJPa, Trinamool Congress, BSP, Independent, NOTA. (The acronym “RaJPa” is not explained). For rating the prime minister , one is given a five-point scale, with “one” representing “Very Angry” and “five” representing “Very Happy”.
+
+The site and related reports contain several statements about how data will be collected and used. Some sample of these statements are given below:
+
+“We have a specific algorithm in place, OTP-based authentication to prevent fraud and ensure the user is genuine, besides applying the principle of one phone one vote. In case people have multiple phones and try to vote more than once, we invalidate their second vote using Aadhaar API. To ensure you are voting for the correct constituency, we check your name in your constituency’s digitized voter rolls and finally verify with publicly available datasets like the one in the hands of Truecaller, etc”
+
+“Data, meanwhile, is gathered online through Facebook, Twitter and other social media platforms, besides radio and television. Offline, however, data is generated through party campaigning for votes on the app, word of mouth, IVR calls, SMS campaigns, partnerships on the ground with local self-help organisations, non-profits, AASHA and anganwadi workers, etc.”
+
+“He further said that the application uses various APIs and tools (including Truecaller, phone number and Aadhaar) to verify that a user is not fake. The moderation team also flags a user or content for inappropriate or malicious behaviour.”
+
+“’We provide an in-depth insight to political parties. We have heat maps for different locations. Right now, a few features are in testing phase,’ he said, adding that most of the data will be available to the public. Pratham also said that he does not intend to monetise user data.”
+
+– There is an app which has the potential to influence voters because its internal working does not seem to be clear or transparent. – The app collects mobile numbers of users and asks them about their preferences for political parties and politicians. This has a potential to create a large-scale database of identifiable individuals with their voting preferences. – Work on the app is claimed to have been begun in “September 2017” when “team began working on Neta out of his Shanti Informatics office in New Delhi, which was set up for the purposes of developing the app”. – The company was struck off by the Registrar of Companies by July 26, 2017, seemingly even before work began on developing the app. – Some members of top management have been associated with a former well-known political strategy consultant and have actively worked on behalf of certain politicians and parties for their election campaigns. – Some media houses seem to have decided to invest in this app. – The founder-developer belongs to a family which own a business group which has interests in sweets, education, and automobiles.
+
+This appears to be curious mixture. A possible cause of concern is the potential for gathering of voter information, directly or indirectly influencing voters on behalf of one or another political party, misuse (even inadvertent) of voter information.
+
+These apprehensions can become scary when seen in the light of Cambridge Analytica , the US elections and the suspected Russian attempts to influence it , the Facebook controversy, and lastly the confusion about our own Aadhaar data leakage/security issues .
+
+It therefore seems necessary for the Election Commission of India to satisfy itself and the voters that this effort does not pose any threat to the integrity of democracy in India in general and the 2019 election in particular.
+
+Jaskirat Singh is a software/information technology professional. Jagdeep S. Chhokar is a former professor, Dean, and Director In-charge of IIM Ahmedabad. – * Disclosure: Jagdeep S. Chhokar is MediaNama founder Nikhil Pahwa’s uncle
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

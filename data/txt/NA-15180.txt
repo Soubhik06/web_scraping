@@ -1,0 +1,45 @@
+The Unique Identification Authority of India (UIDAI), along with Bennet Coleman and Co Ltd (the parent company of Times of India) and Madhya Pradesh Police were allegedly victims of Chinese state-sponsored cyber attacks, said a report by US-based cybersecurity company Recorded Future.
+
+The hacker group temporarily named as TAG-28 by the cybersecurity firm allegedly targeted UIDAI due to its Aadhar database, which the firm defined as: “bulk personally identifiable information datasets (which) are valuable to state-sponsored threat actors”. The company correlated TAG-28’s targeting of Bennet Coleman with the group’s long history of perpetrating intrusions against international media outlets.
+
+This report comes months after Recorded Future, in another report, said that a Chinese-state-sponsored hacker group People’s Liberation Army’s Unit 69010 had targeted Indian defence research organisations and others. Earlier, it was revealed that another Chinese hacker group Red Echo had hacked into India’s power grid. This was confirmed by TS Transco who identified an external attempt to take control of its servers and foiled it by taking precautionary measures.
+
+If the claims made in the report are true, then it would be evidence of China’s continued strategic and tactical interest in India-based organisations, both in the private and public sectors.
+
+While we have not yet received a response from the Times of India Group regarding the matter, UIDAI said that it had no “knowledge” of such a breach.
+
+The UIDAI database (Aadhaar Database) is encrypted and not accessible through public portal/ IPs. The public facing interface of UIDAI is the portal services hosted on World Wide Web (WWW) served through static IPs and the traffic on these IPs are inbound and outbound to a tune of several terabytes on daily basis. The public portal service is encrypted and is only made available to individual querying residents through multi-factor authentication of the residents themselves — UIDAI spokesperson
+
+The Recorded Future report said that between February and August 2021, 4 IPs assigned to Bennet Coleman were identified as having been targeted by Chinese actors. “Although we cannot confirm what data specifically was accessed, we observed approximately 500 M of data being exfiltrated from the BCCL network to the malicious infrastructure,” the report said.
+
+Recorded Future’s reasons for concluding that the targeted infrastructure is operated by Bennet Coleman:
+
+The report said that a majority of the exfiltrated data that Recorded Future was able to identify “coincided with reports in the Economic Times of a US Navy freedom patrol in the Indian Ocean”.
+
+While the timing of the initial intrusion and exfiltration activity coinciding with notable naval-related articles is circumstantial evidence of possible intent, it remains plausible that TAG-28’s objectives may have included targeting the media group to garner insight into Indian ocean naval matters or perceived anti-China reporting — Recorded Future report
+
+The report said, between June 10 and at least July 20, 2021, 2 IPs registered to UIDAI were observed communicating with one of the servers that allegedly targeted BCCL. “Data transfer sizes were comparatively modest from the UIDAI network based on our visibility. Less than 10 MB of data was egressed with an ingress of almost 30 MB, possibly indicating the deployment of additional malicious tooling from the attacker infrastructure,” the report opined. No other information was provided on the alleged attack on UIDAI.
+
+As for the alleged attack on Madhya Pradesh Police, Recorded Future said that it had identified an MP Police IP address in communication with a Chinese threat actor’s IP address on June 1. “The MPP IP serves a State Crime Records Bureau (SCRB) website (scrbofficial.mppolice.gov[.]in), which provides links to various web and mobile applications operated by SCRB,” it said.
+
+Later, network activity was also observed between another SCRB IP address and Chinese threat actors between July 27 to August 9, the report added. “Based on limited visibility, observed less than 5 MB of data transfer between the MPP and Winnti server (Chinese) during the considered time frame,” it added.
+
+What is Winnti Malware? According to the report, Winnti malware has historically been used by several Chinese state-sponsored groups, including APT41/Barium and APT17, and is commonly associated with activity linked to multiple groups of loosely connected private contractors operating on behalf of China’s Ministry of State Security (MSS).
+
+Recorded Future urged stakeholders to follow these measures to detect and mitigate activity associated with TAG-28
+
+In a press release issued from the White House in July this year , the USA along with its allies such as the United Kingdom and the European Union accused China of:
+
+Hiring criminal contract hackers: The US accused China of fostering an intelligence enterprise that includes “contract hackers who also conduct unsanctioned cyber operations worldwide, including for their own personal profit.”
+
+Ransomware attacks against private companies: The US also stated that China’s government-linked cyber operators have conducted ransomware operations against private companies demanding millions of dollars in ransom.
+
+Targeting government institutions and political organisations in the EU: The EU in its press release said that China-based hacker groups known as Advanced Persistent Threat 40 and Advanced Persistent Threat 31 targeted government institutions and political organisations in the EU and member states “for the purpose of intellectual property theft and espionage.”
+
+Also Read
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

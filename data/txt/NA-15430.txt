@@ -1,0 +1,25 @@
+The Department of Electronics and Information Technology (DeitY) under the IT Ministry has put out a tender for continuous empanelment of AI Compute Network storage platforms and cloud services . The primary purpose of this tender is to provide authorised academia, micro, small, and medium enterprises (MSMEs), startups, governments, and public sector agencies with access to AI services over the cloud. There are four types of services that the tender seeks from bidders: AI computing (GPUs), network services (or data transfer services), storage services, and AI platform services. The DeitY will empanel these services for 36 months, and can further extend its contract with AI service providers based on mutually agreed terms.
+
+This comes under the India AI mission which seeks to encourage AI development in the country by providing AI startups and researchers in the country with services such as a minimum of 10,000 GPUs under a public-private partnership model, a dataset platform, and startup financing. This is not the first time that the IT Ministry has invited applications for AI compute storage services; previously it had put out the same tender in August 2024 , with 19 bidders, including Jio Platforms Limited, Tata Communications, and Yotta Data Services, submitting proposals to provide GPUs for the IndiaAI mission.
+
+The present tender is active until April 30, 2025.
+
+India currently does not have any regulations in place specifically for AI models. The security requirements set out under the tender give a sense of how the government is looking at ensuring data privacy and security of AI services, and what it could in the future implement on a wider scale as well.
+
+This tender is particularly relevant given the India AI mission’s recently released AI Competency Framework for Public Sector Officials. A part of this framework discusses AI procurement processes. “Despite the lack of explicit rules on AI procurement, government agencies and officials can promote responsible AI by outlining clear requirements and ensuring its implementation,” the framework says. This further validates the government’s intent to provide guidance on responsible AI via procurement documents.
+
+The government mandates that bidders for the AI compute network storage services must ensure that they deliver AI services only through Indian data centers. Any ‘enabling services’ necessary for the bidder to provide the AI service should also be located in India. Further, service providers must ensure that they do not send the data that end users upload onto their cloud services outside the sovereign territory of India in any form, be it anonymous, pseudonymous, or encrypted. It also requires the bidders to comply with India’s Digital Personal Data Protection Act, 2023 (under which the government has the power to restrict personal data transfers to a country), the Information Technology Act, 2000, and its amendments from time to time.
+
+Through these requirements, the tender instructs bidders to localise their AI services and the data they collect. This appears to be in line with the data flow restrictions that the government has sought to implement through the draft Digital Personal Data Protection Rules 2025 (DPDP Rules) . The rules state that certain companies (significant data fiduciaries) must ensure that they do not transfer personal data “specified by the [Indian] Central government” outside the country.
+
+As Vivek Abraham from Salesforce has previously pointed out during a MediaNama event, large language models (AI chatbots like ChatGPT) have a hive structure, and companies cannot pinpoint where exactly the outcome of a model is stored in its memory. “The only other option is you stop bringing such products to India, or anywhere else which has such strict laws because it is an expensive proposition to run individual instances,” Abraham said, which could imply that the localisation requirements under the tender could be pricey for the bidders.
+
+Successful bidders have to ensure that they have security controls in place to protect data from unauthorised access. The data center facility where an AI service is hosted must ensure that it has a range of security components, including—
+
+If a company successfully gets a bid they also have to ensure that they meet the evolving security requirements set out by Cert-In, the IT Ministry/India AI Mission, or any other standards body. Just like the localisation requirements, the security mandates seem to somewhat line up with the requirements under the DPDP Rules as well , which state that companies must implement appropriate data security measures such as encryption, and have access controls, to protect against personal data breaches.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

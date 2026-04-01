@@ -1,0 +1,16 @@
+SUBREDDIT: r/Scams
+TITLE: Calling from Windows
+DATE: 2014-06-27
+SCORE: 1
+URL: https://www.reddit.com/r/Scams/comments/298nug/calling_from_windows/
+
+--- POST TEXT ---
+
+Hey Guys,
+I thought this one was dead and buried but I received a call from an Indian man from "Windows" (oddly enough not Microsoft) saying that my "PC is seriously infected from browsings on the internets" (I kid you not, he sounded exactly like the phone jacker guy). I shut him down before he continued, but the way this scam often works is that you are asked to install something like TeamViewer and connect to a network, that allows the person on the end of your phone to remotely control your computer. I did a virus scan just in case there was something on there that let them knew when I was online and sure enough there was a trojan, however, there's no way Microsoft are snooping around your PC.
+
+Article about this scam for those interested:
+
+http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/
+
+I'm just glad that I answered the phone and not my tech illiterate grandmother, who I'm pet sitting for right now.

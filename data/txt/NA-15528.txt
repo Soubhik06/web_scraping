@@ -1,0 +1,89 @@
+By Gautam Bhatia
+
+Justice Charles Evan Hughes’ famous aphorism, that a dissent is an “appeal to the brooding spirit of the law, to the intelligence of a future day”, has passed into legend. It was famously invoked by Justice H.R. Khanna, while concluding his dissent in the Habeas Corpus case. But sometimes, a dissent is not limited to a footnote in the judicial lore of a nation, waiting for the years to pass by until the “intelligence of a future day” dawns. Sometimes, like the swallow flying south, a dissent becomes part of the global migration of ideas. It finds fertile soil far from home, there to bloom into the full richness that it has been denied in its own native environment.
+
+Earlier this week, the Supreme Court of Jamaica struck down the Jamaican National Identification and Registration Act [“ NIRA “]. The NIRA was a law that mandated the collection of biometric information from all Jamaican residents, and its storage in a centralised database. The similarities with Aadhaar are immediate and clear, and indeed, a substantial part of the judgment(s) were focused on comparisons between NIRA and the Aadhaar Act, and the Indian Supreme Court’s judgment in Puttaswamy . And what is striking about the judgments of Chief Justice Sykes and Justice Batts is that, after a detailed and painstaking engagement with Puttaswamy , both judges held that, on multiple counts – on the application of the proportionality standard, on the articulation of freedom and privacy, on the dangers of centralised databases, and on the shape and design of data protection frameworks, it was Chandrachud J.’s dissenting opinion that was persuasive, and deserved to be followed. The NIRA, accordingly, was struck down as unconstitutional.
+
+NIRA: Similarities and Differences with Aadhaar
+
+As the sketchy description outlined above indicates, NIRA and Aadhaar bear substantial similarities. Indeed, these similarities went beyond the collection and storage of biometric information, and extended to the design of the enactments: like Aadhaar, NIRA established a centralised database [“ NCID “], a centralised authority to deal with collection and storage, contained provisions for private party access, had provisions for when data could be accessed, and so on. Furthermore, the justifications offered by the State were remarkably similar: preventing and eliminating crime, preventing corruption (FATCA was cited as well!), streamlining delivery of benefits, facilitating ease of identification, and so on.
+
+At the same time, however, there were some substantial formal differences between NIRA and Aadhaar (why I use the word “formal” will become evident immediately hereafter, to anyone familiar with how Aadhaar actually works in practice). First , enrolment under the NIRA was legally mandatory , on pain of criminal sanctions; secondly , information collected under NIRA was substantially more than that collected under Aadhaar (it included blood samples, for example); and thirdly , third parties had formal access to the database under NIRA.
+
+The judgment(s) of the Jamaican Supreme Court made much of these differences between NIRA and Aadhaar to argue that criminalising non-compliance was disproportionate, that the information taken did not comply with the principle of data minimalism, and that the access of third parties raised constitutional concerns of the privacy and security of the data. What is remarkable, however, is that despite finding these substantial formal differences, and despite finding that the Indian Supreme Court had read down the Aadhaar Act in significant ways (for example, by holding that in case of an authentication failure, an individual was entitled to present an alternative identification), the Jamaican judges still went on to follow, in granular detail, the judgment and reasoning of Chandrachud J.
+
+Justice Batts and the Primacy of Choice
+
+I begin with Batts J.’s judgment, because of its focus on one straightforward and clear principle, which was also at the heart of Chandrachud J.’s dissent: the primacy of individual choice in a constitutional democracy, and how meaningful choice is at the heart of any understanding of human freedom. The “choice”, in this case of course, involves the right of the individual to choose how to identify herself to the State, from among a range of reasonable alternatives.
+
+After summarising the holding of the Aadhaar Majority, Batts J. cited some of the opening words of Chandrachud J.’s dissent, about how technology was reshaping the relationship between citizens of the State. He then went on to cite the core of Chandrachud J.’s reasoning in great detail, because: “ his decision is sufficiently important, and so reflective of my own views, that I will outline the details .” ( para 337 ) In particular, Batts J. cited Chandrachud J.’s views on private party usage, the failure of the State to demonstrate that less intrusive means would not work, the merging of data silos, the doctrine of unconstitutional conditions ( paragraph 339 ), and the general presumption of criminality that entailed nationwide biometric collection ( paragraph 340 ). In closing, he noted that:
+
+In words, which I respectfully wish to adopt as my own, the learned Judge [i.e., Chandrachud J.] summarised the overall constitutional failings of the Aadhaar scheme thus … ‘ the technology deployed in the Aadhaar scheme reduces different constitutional identities into a single identity of a 12-digit number and infringes the right of an individual to identify herself or himself through a chosen means. Aadhaar is about identification and is an instrument which facilitates a proof of identity. It must not be allowed to obliterate constitutional identity.’” ( paragraph 341 )
+
+On this basis, Batts J. therefore held that:
+
+The [NIRA] Act proposes to compel persons to divulge information personal to them. It is the right to choose, whether or not to share personal information, which individual liberty in a free and democratic state jealously guards. The mandatory nature of the requirement as well as the breadth of its scope, and the absence of a right to opt out, are not justified or justifiable in a free and democratic society. If it is intended to prevent corruption or fraud, then it is premised on the assumption that all Jamaicans are involved with corruption and fraud. The danger of abuse by the state or its agencies, and the removal of personal choice, outweigh any conceivable benefit to be had by the community or state. ( paragraph 349 )
+
+This, it will be noted, is squarely applicable to Aadhaar, which has long been mandatory for all practical effects and purposes.
+
+The Chief Justice, Proportionality, and the Surveillance State
+
+The judgment of the Chief Justice was substantially longer (around 250 pages to Batts J.’s 50), and covered more ground. The Chief Justice began with a detailed analysis of the standard of constitutional review under the Jamaican Charter. His discussion is fascinating in its own right, but for our purposes here, the Chief Justice accepted that the relevant standard was that of proportionality, as articulated by the Canadian Supreme Court in Oakes , and of course, the Indian Supreme Court in Puttaswamy . Crucially, however, the Learned Chief Justice noted that:
+
+I am of the view that this approach provides a proper conceptual framework within which to examine NIRA in order to see whether the provisions in that statute meet the standards indicated by the majority in Puttaswamy (September 26, 2018). I must also say that in the application of the standard I prefer the reasoning of Dr Chandrachud J to that of the majority. ( paragraph 151 )
+
+(For the multiple errors that the Majority made in applying the proportionality standard, see here ).
+
+This, the Chief Justice held, was because:
+
+I am of the view that the strict application of Oakes is the best way to preserve fundamental rights and freedoms. The majority [i.e., in Puttaswamy ] appeared to have taken a more relaxed view. The strict Oakes test makes a more granular scrutiny possible by saying that the court must take account of any deleterious effect of the measure being relied on to meet the objective. Thus the greater the severity of the effect the more important the objective must be, furthermore the measure chosen needs to be shown to be the least harmful means of achieving the objective. ( paragraph 177 )
+
+With these words, the Chief Justice got to the heart of the deficient legal analysis in the Aadhaar Majority. As I have noted previously , the Aadhaar Majority treated the “least restrictive alternative” element of the proportionality standard in an utterly cavalier fashion, refusing to consider relevant facts, and presenting no analysis of the legal burdens involved. For the Chief Justice, on the other hand (and also for Chandrachud J.), it was a critical element of the test, with the burden lying upon the State (especially because relevant information lay with the State). And, in particular:
+
+In the event that the court is of the view that there is a tie then the claimant must prevail for the reason that in constitutional litigation the attitude of the court must be that the right or freedom prevails unless the violation is clearly justified. This approach ensures that the guarantee given by the Charter is maintained. ( paragraph 203 )
+
+In this context, the Chief Justice went on to find that the State had provided no evidence that mandatory enrolment with criminal sanctions was the least intrusive way of achieving its goal (the Chief Justice distinguished this from Indian Supreme Court proceedings, where the evidence was litigated in some detail). Noting that there was no real evidence about the scale of the existing problems that necessitated this measure, the Chief Justice therefore held that it failed the test of proportionality. ( paragraph 228 )
+
+After this, the Chief Justice turned to the nature of biometric systems. Here, he began his analysis with the following observation:
+
+For that [i.e., the analysis of biometric systems] I rely on the judgment of Dr Dhananajaya Chandrachud J in Puttaswamy (delivered September 26, 2018). From reading the judgments in this case Dr Chandrachud J, in my respectful view, demonstrated a greater sensitivity to the issues of privacy and freedom that is not as evident in the judgments of the majority or the other judges who delivered concurring judgments. His Lordship had a clear-eyed view of the dangers of a state or anyone having control over one’s personal information and generally I preferred his approach to the issue over that of the other judges. ( paragraph 230 )
+
+This, of course, is a very polite and respectful way of saying to the Aadhaar Majority, “ you just didn’t get it, did you? ” And what was it that the Aadhaar Majority didn’t get? Citing paragraphs 120 to 126 of Chandrachud J.’s dissent, the Chief Justice then observed that:
+
+… his Lordship’s major point was that it is one thing to collect biometric data in the context of a criminal investigation and prosecution but quite another to have extensive biometric data collection outside of that context. The reason is that generally there is extensive and detailed provision regarding the collection and use of biometric information in the criminal law context. So far, in the context of general collection of biometric data outside of the criminal law context, it is likely to result in violations of fundamental rights unless there are very strict and rigorous safeguards because once there is a breach of the database the information taken is unlikely to be recovered in full. ( paragraph 234 )
+
+Even more importantly, the Chief Justice then cited paragraphs 128 to 131 of Chandrachud J.’s judgment, dealing with identification systems, to observe that:
+
+This passage is highlighting the risk of the combined effect of technology with control over data. Unlike the majority in Puttaswamy (September 26, 2018) who seemed to have taken a rather benign view of this aspect of the matter Dr Chandrachud J destroyed the notion that merely because similar or identical information is already in the possession of the state that in and of itself makes taking of such information again legitimate. His Lordship clearly understood the implication of collecting biographical information, combining it with biometric then automating the process with supporting algorithms. Add to that the possibility of profiling. This scenario translates into great power over the lives of persons especially when that data and technology are in the hands of the state and powerful private actors as in Google, Amazon and the like. Of course, with the latter, the engagement is consensual or at the very least the person can opt out after sometime. What NIRA is proposing is control over vast amounts of data, no opt out and linking the data held in different silos by a unique identification number, thereby reducing anonymity even further and increasing the possibility of profiling and generating new information about the data subject. ( paragraph 237 )
+
+What the Chief Justice understood – and what Chandrachud J. had understood in his dissent – was, of course, the existential peril posed to freedom and privacy that stemmed from merging silos of information, and the ways in which that could be used to generate entirely new sets of information, as well as facilitate profiling. As the Chief Justice observed, devastatingly, “respectfully, the majority in Puttaswamy (September 26, 2018) did not seem to have a full understanding of this and its implications in the say that has been demonstrated by Dr Chandrachud J.” ( paragraph 238 ) On the basis of this bedrock of analysis, then, the Chief Justice went on to hold that NIRA unjustifiably and disproportionately impacted privacy. And in the course of his analysis, he also echoed Batts J., noting – crucially for our purposes – that “the most remarkable thing is that no submission was made to indicate how, for example, a voluntary scheme would prevent the state from providing reliable, safe and secure identification to its citizens or ordinary residents who wish to be part of the scheme.”
+
+Lastly, the Chief Justice also found that Chandrachud J.’s dissenting opinion better articulated the shape and design of a data protection authority that could pass constitutional muster:
+
+I adopt the following paragraph from his Lordship’s judgment at paragraph 236 and apply with such modifications are necessary for application to NIRA. His Lordship stated: An independent and autonomous authority is needed to monitor the compliance of the provisions of any statute, which infringes the privacy of an individual. ( paragraph 247(88)).
+
+The absence of any such authority was, therefore, another reason to hold the statute unconstitutional.
+
+Conclusion
+
+The Chief Justice set out his conclusions from paragraphs 245 to 254 , striking down substantial portions of the Act, and then holding that they could not be severed – and therefore, the statute as a whole had to fail. Like the judgment of Batts J., the Chief Justice’s judgment is a fascinating study in its own right – in particular, in its assessment of the specific details of the NIRA system, in how it deals with the probabilistic character of biometric identification, the articulations of standards and burdens, the discussion of proportionality and the rebuttal of the State’s arguments that the Court must stay out of policy domains, and – very interestingly – in its disagreement with Bhushan J.’s concurring opinion on Aadhaar, on whether “national security” could be a ground to divulge personal information. Refreshingly, the Chief Justice held that the use of such terms was nothing more than a “Trojan Horse”, which would make the entire point of protecting fundamental rights illusory.
+
+As the above discussion illustrates, however, for us, the most fascinating aspect of this judgment is the in-depth dialogue it undertakes with both the Majority and the Dissent in Aadhaar, on their own terms – and the rigorous and detailed reasons it gives for choosing to follow the Dissent over the Majority.
+
+To end with Hughes again. His full quote reads:
+
+A dissent in a court of last resort is an appeal to the brooding spirit of law, to the intelligence of a future day when a later decision may possibly correct the error into which the dissenting justice believes the court to have been betrayed.
+
+But there are some occasions in history when the betrayal into error is recognised not within, but without. Sometimes, we need friends and colleagues in other parts of the world to hold up the mirror that we are unwilling or unable to look into. Perhaps it is the fate of the Aadhaar Dissent to travel around the world, a light in dark places, long before it is recognised by the brooding spirit of law in its homeland, and the error is corrected at last.
+
+One can but hope.
+
+Disclaimer: The author was involved on the side of the Petitioners in the Aadhaar challenge.
+
+*
+
+Crossposted with permission from Indian Constitutional Law and Philosophy and the author. Read the original here .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

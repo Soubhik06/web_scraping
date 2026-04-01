@@ -1,0 +1,23 @@
+Microsoft has launched Magentic-One, an AI agent system that comprises of four independent agents coordinated by a fifth lead agent, the company announced on November 4. The system is capable of planning and executing complex multi-step tasks, like writing code or ordering food delivery, unlike a generative AI chatbot which can also provide information to assist.
+
+“It’s the difference between generative AI recommending dinner options to agentic assistants that can autonomously place your order and arrange delivery,” explained the post.
+
+Magentic-One contains five agents that work in concert with each other:
+
+When working on an assignment, the Orchestrator first creates a Task Ledger, where it creates a plan to tackle the task, gather the needed facts and educated guesses. Following that, it creates a Progress Ledger where it continually checks whether a task or subtask has been completed.
+
+It begins by dividing the main task into subtasks for other agents to complete, which it then updates in the Progress Ledger. If the Orchestrator is unsatisfied with the progress, it can also update the Task Ledger and create a new plan.
+
+In order to evaluate the Magentic framework’s effectiveness, Microsoft launched it own test tool called AutoGenBench. While Magentic-One was able to outperform GPT-4 acting on its own on a series of tasks, it lagged far behind humans in accuracy.
+
+“Magentic-One interacts with a digital world designed for, and inhabited by, humans. It can take actions, change the state of the world and result in consequences that might be irreversible,” said Microsoft.
+
+In one instance Magentic-One agents tried to reset an account’s password after they were unable to log in due to a misconfiguration. In other instances, the agents tried to recruit humans for help by posting on social media, emailing textbook authors and even attempting to file a freedom of information request with the government. While the agents failed these attempts, human observers had to manually stop them in some cases.
+
+Microsoft also pointed out that these agents would be vulnerable to the safety threats that humans face online, like phishing, social engineering, and misinformation attacks.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

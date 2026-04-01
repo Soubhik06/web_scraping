@@ -1,0 +1,15 @@
+SUBREDDIT: r/Scams
+TITLE: PayPal Scam: Money Request with Embedded Phony Fraud Hotline
+DATE: 2024-05-08
+SCORE: 1
+URL: https://www.reddit.com/r/Scams/comments/1cmr2kc/paypal_scam_money_request_with_embedded_phony/
+
+--- POST TEXT ---
+
+I got an email from PayPal today about a request for $995. I checked, and the email was from PayPal; the address wasn't spoofed. However, I didn't know the requester. The email had an 800 phone number to contact in case of fraud. So I called. It was an Indian call center, which I guess is possible, but the person just said "Hello". This immediately raised my suspicions, so I started to reverse-search the number while I gave the person my email address as he requested. 
+
+The number came back unidentified. So then I went back and looked at the email again, and saw that the "fraud phone number" was inserted into the actual request, rather than appended in the boilerplate of the legitimate email. So I hung up. 
+
+When I got to a computer later, I logged on to my PayPal account and canceled/reported the request there, which is what I should have thought to do in the first place. I feel incredibly stupid that I gave scammers the email address (and my phone number, I assume) associated with my PayPal account. However, I have a strong password and 2-factor authentication, so it is presumably safe.
+
+The crazy thing that made me let down my guard is that I actually owe someone $990. I had sent her a check which she said she didn't receive, so I thought this was some garbled request from her. I guess this was just a coincidence.

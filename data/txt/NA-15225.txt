@@ -1,0 +1,29 @@
+What’s the news: The Reserve Bank of India (RBI) on June 24 extended the deadline for its new card storage rules from the end of this month to September 30.
+
+Why does this matter? RBI’s new rules prevent merchants (like Amazon and Zomato) and payment aggregators (like PayU and Juspay) from storing the debit and credit card details of customers. The alternative for online card transactions is either guest checkout, where customers enter card details every time, or card tokenisation, where merchants store unique tokens of cards rather than actual card details and process transactions based on the tokens. But both these alternatives are not ready for various reasons (covered in-depth here ), meaning that online card transactions would’ve started failing from July 1 if the RBI rules went into effect.
+
+Read — Deep Dive: Why Online Debit And Credit Card Transactions Will Start Failing From July 1
+
+Why is RBI extending the deadline?
+
+“The industry stakeholders have highlighted some issues related to the implementation of the framework in respect of guest checkout transactions. Also, the number of transactions processed using tokens is yet to gain traction across all categories of merchants. These issues are being dealt with in consultation with the stakeholders, and to avoid disruption and inconvenience to cardholders, the Reserve Bank has today announced extension of the said timeline of June 30, 2022 by three more months, i.e., to September 30, 2022.” — RBI
+
+Shifting deadlines: RBI’s card storage rules were announced in March 2020 and the initial deadline was December 31, 2021. This was then shifted to June 30, 2022, and now September 30, 2022.
+
+Will the extended deadline really help: While industry participants will take relief from the extended deadline, it’s not clear if this will actually help. The ecosystem needs specific timelines for different ecosystem participants because the building of the infrastructure is a sequential activity, not a parallel activity.
+
+“What is happening is that every extension you see, which has happened on this regulation, the extension is for the whole ecosystem. So those at the top of the ecosystem, the card networks and the issuers see the last date of implementation and they only care about them being ready. They don’t care about the downstream players like the acquirers, the payment aggregators, the payment gateways, and the merchants. So even if there’s a six-month extension, again, it’s going to be the same problem after six months. Instead, what RBI should really do is they should say that card networks and issuers your deadline is, let’s say September 30. Payment aggregators, your deadline is December 31. Merchants, your deadline is March 31. So they have to provide cascaded timelines for implementation.” — Vishal Mehta, Chairperson, Governing Council, Merchant Payments Alliance of India (MPAI)
+
+What needs to be done in the next three months? RBI has requested the industry participants to use the next three months to:
+
+Why doesn’t RBI want merchants and payment gateways to store card data: “Currently, many entities, including merchants, involved in an online card transaction chain store card data like card number, expiry date, etc. [Card-on-File (CoF)] citing cardholder convenience and comfort for undertaking transactions in future. While this practice does render convenience, the availability of card details with multiple entities increases the risk of card data being stolen/misused. There have been instances where such data stored by merchants, etc., have been compromised. Given the fact that many jurisdictions do not mandate Additional Factor of Authentication (AFA) for authenticating card transactions, stolen data in the hands of fraudsters may result in unauthorised transactions and resultant monetary loss to cardholders. Within India as well, social engineering techniques can be employed to perpetrate frauds using such data,” RBI explained.
+
+What is card tokenisation: As an alternative to card storage, RBI September 2021 issued guidelines to allow entities to store token numbers . Tokens will be unique numbers based on a combination of card details, merchant, and device. For example, your Visa HDFC card will have token A on Flipkart and the same card will have token B on Amazon, the same card will have token C on PVR. The reason behind this construct is to ensure that even if Flipkart goes through a breach, what they lose is a token that cannot be used on any other website or application. CoF Tokenisation (CoFT) “obviates the need to store card details with merchants and provides the same level of convenience to cardholders,” RBI said.
+
+Status of card tokenisation: RBI revealed that, to date, about 19.5 crore tokens have been created. “The Reserve Bank encourages cardholders to tokenise their cards for their own safety. Cardholders’ payment experience will be enhanced through an added layer of security by way of tokenisation,” the central bank said.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

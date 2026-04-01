@@ -1,0 +1,65 @@
+Update: Web security consultant Akash Mahajan adds that the policy does not cover the following:
+
+1. Hard Disk Encryption Products 2. SSH and RDP Encryption (Required to manage servers) 3. Wearables like Fitbit 4. Smartphone Full Disk Encryption 5. Symmetric Encryption Software to transfer files between humans and computers 6. OS Update Servers 7. Browser Update Servers 8. App Store, Play Store etc. 9. Encrypted Streaming for audio video 10. Email Encryption 11. Off The Record Messaging 12. Voice Communication apps like Skype etc. 13. Digital Signatures for software
+
+Update: the DeitY, after the public outcry, has issued an update, which doesn’t address the issue entirely. The update ( pdf ):
+
+By way of clarification, the following categories of encryption products are being exempted from the purview of the draft national encryption policy: 1. The mass use encryption products, which are currently being used in web applications, social media sites, and social media applications such as Whatsapp,Facebook,Twitter etc. 2. SSL/TLS encryption products being used in Internet-banking and payment gateways as directed by the Reserve Bank of India 3. SSL/TLS encryption products being used for e-commerce and password based transactions.
+
+The problems with the update
+
+1. The usage of the phrase ‘currently in use’ renders the policy vague: Firstly, when is “currently”? 2. Will a new service that uses a different kind of encryption to protect its users, still be covered? Why should users be “restricted to encryption currently in use”? Why should services like Whatsapp, Facebook and Twitter define our security standards? 3. What about, as also pointed out by @_dexter on Reddit , operating systems that encrypt hard disks for security? Those aren’t currently being used in web applications. 4. @_dexter also points out that OpenSSL is not exempt. In 2014, it was reported that around 2/3rd of the web servers use OpenSSL . 5. Business to Business communications, Business to consumer and consumer to business as well as consumer to consumer services that are not commonly in use are still likely to be covered by this policy: it means that those who want to secure data more than the common users using consumer products are actually more open to attack then. Someone please explain how this makes sense.
+
+Yesterday: An “Expert” group set up by the Department of Electronics and Information Technology (DeitY) appears to have thrown all sense of individual rights and privacy out the window, and sought to make encryption (and personal and business security) weaker via a draft (and daft) policy on encryption. You may send your comments to [email protected] . The last date for sending comments is 16th October.
+
+An abridged (simplified) version of the policy is below, but if there was one sentences that symbolises how dangerous this policy is, it is this:
+
+All citizens (C), including personnel of Government / Business (G/B) performing non-official / personal functions, are required to store the plaintexts of the corresponding encrypted information for 90 days from the date of transaction and provide the verifiable Plain Text to Law and Enforcement Agencies as and when required as per the provision of the laws of the country.
+
+This approach is totalitarian in nature, and seems to hold every individual in the country as a potential criminal. How exactly does the government of India expect users to know: 1. About all the communication taking place from their devices, given all the communication that takes place via apps 2. Whether their communication is encrypted or not 3. How to store plaintext version of encrypted communication for 90 days, given that much of the information is transient. 4. Know whether the law enforcement agency is seeking data as per the laws of the country 5. Keep this plaintext data secure
+
+Lets not forget that the Indian government argued in the Supreme Court that “ Violation of privacy doesn’t mean anything because privacy is not a guaranteed right ” one week, and in case of porn and privacy, said “if someone wants to watch in the privacy of their bedroom, how can we stop that?” in another.
+
+The daft National Encryption Policy also states that :
+
+– Only the government of India shall define the algorithms and key sizes for encryption in India , and it reserves the right to take action for any violation of this Policy. – Businesses also have to keep all encrypted data for 90 days from the date of transaction and made available to Law Enforcement Agencies as and when demanded in line with the provisions of the laws of the country. – Entities in India are responsible for providing unencrypted details of communication with foreign companies in readable plaintext. – Service providers which provide encryption in India will have to register with the government.
+
+Some commentary (via Twitter) from those who understand cyber security better than us indicates how daft this policy is: Akash Mahajan: – #daftnationalencryptionpolicy will ensure that attackers have 90 days to get plain text without attacking your keys or algos. ( tweet ) – If #daftnationalencryptionpolicy becomes a reality, Mozilla Firefox, Google Chrome etc. browser vendors can’t offer you secure updates. ( tweet ) – #daftnationalencryptionpolicy should bother anyone planning on using Aadhaar, Jan Dhan Yogna, DBT. Stuff digital india dreams are made of. ( tweet ) – Will the banks need to store every OTP token generated for 90 days as well? tweet – 100 smart cities require smart devices generating tonne of data most likely with encryption. #daftnationalencryptionpolicy tackle that? ( tweet ) – Assurances required for digital contracts nonrepudiation will suffer if plain text cipher text are compared. Which is more imp evidence for law? ( tweet ) – #daftnationalencryptionpolicy will require that all software that utilises integrity being maintained by encryption needs to be rewritten. ( tweet ) – Law Enforcement Agencies who require artificially weakened playing field to match their capabilities will lose the war & it would come as a surprise to them. ( tweet ) – If #daftnationalencryptionpolicy comes in , digital forensics as evidence will become redundant if plain text doesn’t match cipher text ( tweet ) – #daftnationalencryptionpolicy should worry MS Azure, AWS, Google, VMWare etc. as they are being asked to register & get a license to operate ( tweet ) – If you are a startup “MAKING IN INDIA” with any cloud vendor buy storage & prepare to write cipher text to disk+ sending it over the wire. ( tweet )
+
+Thejesh GN: – The “DRAFT NATIONAL ENCRYPTION POLICY” of India is as good as saying “DONT ENCRYPT” ( tweet ) – Now everyone in India who uses an APP/Browser which uses SSL/HTTPS with a foreign website need to store the communication for 90 days? ( tweet )
+
+Pranesh Prakash: – It makes little sense to exclude sensitive security agencies unless you know you’re in fact DECREASING security by this regulation. ( tweet ) – It makes sense for the govt to prescribe minimum encryption *strength* for some uses. But NOT for it to prescribe algorithms and key length! ( tweet ) – The govt draft policy on encryption gives “SSL/TLS” as examples of “products” exempt from registration. But they are standards not products! ( tweet )
+
+Abridged version of the DRAFT NATIONAL ENCRYPTION POLICY ( original ) Cryptography is essential for – confidentiality, non-repudiability and integrity of information in transit and storage – To authenticate the asserted identity of individuals and computer systems.
+
+– Who is this policy applicable to?
+
+– all citizens and their personal usage. – all Central and State Government Departments (including sensitive Departments / Agencies while performing nonstrategic & non-operational role) – all statutory organizations, executive bodies – business and commercial establishments, including public sector undertakings and academic institutions
+
+– Who is this policy not applicable to?
+
+– Sensitive departments/agencies of the government designated for performing sensitive and strategic roles.
+
+Objectives of this policy:
+
+1) To synchronize with the global usage of encryption for ensuring Security/confidentiality of data and to protect privacy without unduly affecting public safety and National Security. 2) To encourage wider usage of Digital Signatures. 3) To encourage the adoption of information security best practices by all entities and Stakeholders in the Government, public & private sector and citizens that are consistent with industry practice.
+
+Use of encryption
+
+Algorithms and key sizes for Encryption as notified under the provisions in this Policy only will be used by all categories of users. Government reserves the right to take appropriate action as per Law of the country for any violation of this Policy.
+
+1. Businesses: for B2B, B2C and C2B sectors 1.1 Encryption algorithms and key sizes for businesses shall be prescribed by the Government through Notifications from time to time. 1.2 Storage in plain text: plain text version of encrypted data shall be stored by the user/organisation/agency for 90 days from the date of transaction and made available to Law Enforcement Agencies as and when demanded in line with the provisions of the laws of the country.
+
+2. Foreign entities 2.1: In case of B2C and C2B segments: In case of communication with foreign entity, the entity located in India shall be responsible for providing readable plaintext along with the corresponding Encrypted information. 2.2: Service Providers (located within and outside India) , using Encryption for providing services in India must enter into an agreement with the Government for providing such services in India.
+
+The users of any group taking such services from Service Providers are also responsible to provide plain text when demanded.
+
+3. Consumers: 3.1 Government will prescribe keys and key length: Consumers may use encryption for storage and communication, but the encryption algorithm and key sizes will be prescribed by the government. 3.2 All citizens performing personal functions are required to store the plaintexts of the corresponding encrypted information for 90 days from the date of transaction and provide the verifiable Plain Text to Law and Enforcement Agencies as and when required as per the provision of the laws of the country.
+
+4. Security companies 4.1 All vendors of encryption products shall register their products with the designated agency of the Government. 4.2 The vendors shall submit working copies of the encryption software/hardware to the Government along with professional quality documentation, test suites and execution platform environments. 4.3 The vendors shall work with the designated Government Agencies in security evaluation of their encryption products. 4.4 The vendors shall renew their registration as and when their products are upgraded. 4.5 Mass use products like SSL/TLS are exempted from registration. 4.6 Encryption products may be exported but with prior intimation to the designated agency of Government of India. Users in India are allowed to use only the products registered in India.
+
+5. Promotion of Research and Development (R&D) in Cryptography 5.1. R&D programs will be initiated for the development of indigenous algorithms and manufacture of indigenous products for Encryption, hashing and other cryptographic functions. 5.2 Continuous intensified R&D activities in the niche areas of technical analysis and evaluation of Encryption products will be strengthened. 5.3. Testing and evaluation infrastructure for Encryption products will be set up by the Government. 5.4. Technical Advisory Committee: A Technical Advisory Committee will monitor the technology development in the area of Cryptography to make appropriate recommendations on all aspects of Encryption policies and technologies. It will carry out a continual follow-up of the National and International activities in basic and applied research in the science and technology of Encryption.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

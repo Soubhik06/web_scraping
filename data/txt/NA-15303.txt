@@ -1,0 +1,29 @@
+The Ministry of Information and Broadcasting (MIB) released a tender to set up an AI-integrated dashboard that will analyse recent news stories to forecast emerging trends. Based on the predictions made by the dashboard, the Ministry will “implement corrective measures and devise citizen-oriented communication strategies,” said the Request Expression of Interest (REoI) posted by the government.
+
+“The MIB actively engages with citizens on social media to facilitate information and counter misinformation and fake news… By anticipating emerging trends, the Ministry can effectively engage citizens and counter misinformation,” said the Ministry in the tender.
+
+The AI-integrated dashboard will analyse news stories for “patterns” from previous months and forecast potential news trends and key themes in news articles. The dashboard will also have the ability to observe media channels in real-time and set-up customisable alerts for specific keywords, topics, or trends to receive timely notifications about emerging trends.
+
+Further, the government has also requested features like sentiment analysis, AI-driven summary generation and decision support systems, providing options for countermeasures or corrective actions based on feedback.
+
+“Contextual sentiment analysis [is] based on the comprehensive context and essence of articles and posts, extending beyond headlines, keywords, or semantics,” said the tender.
+
+The tender also makes particular mention of integrating with microblogging platform X (formerly Twitter) and other social media apps. X has been historically used by journalists to find ground-information regarding different regions.
+
+The government called for “Seamless integration with social media platforms, preferably X (Twitter), to observe discussions, engagement, and trends, enabling the Ministry to actively engage with citizens and counter misinformation.”
+
+The website for the dashboard will be hosted via the Meghraj Cloud . This is a National Informatics Centre (NIC) cloud service that uses Cloud Computing to “accelerate delivery of e-services in the country.”
+
+“Since the website is to be hosted on the NIC Cloud (Meghraj) environment, the agency must ensure and use the available technology environment at NIC Cloud for development,” said the tender.
+
+The dashboard will be developed with the Social Media Activities and Integrated Dashboard (SAMVAD) of the MIB as reference. The new dashboard will provide modifications to SAMVAD’s existing features which are listed as below:
+
+In the latest amendment to the Information Technology Rules, 2023 , the government introduced the concept of a Fact Checking Unit (FCU) that calls for the removal of any content deemed “misleading, fake or false” by the Indian government. Critics, particularly news organisations, had strongly condemned this provision alleging that such a Rule could muzzle free speech in India. Now we see the MIB’s attempt to introduce a mechanism that monitors and analyses news coverage to the point of looking into a news article’s sentiments and themes. Such granular monitoring raises concerns of a surveillance state in the absence of adequate provisions to protect the freedom of speech.
+
+Aside from the news analyser, the MIB will also set-up an AI-ML-based digital platform for multilingual translation and voice localisation services. This includes text-to-text, speech-to-text, text-to-speech, and speech-to-speech services. This platform will be able to translate content into the following Indian languages: Assamese, Bangla, Gujarati, Kannada, Malayalam, Marathi, Hindi, Oriya, Punjabi, Telugu, Tamil and Urdu. The tender also discusses translation into additional 10 languages, i.e., Kashmiri, Konkani, Manipuri, Nepali, Sanskrit, Sindhi, Bodo, Santhali, Maithili and Dogri.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

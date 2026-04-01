@@ -1,0 +1,59 @@
+Digital businesses question whether mobile number validation by itself would be an adequate solution to digital fraud. This point was highlighted during MediaNama’s discussion on the Department of Telecommunications’ (DoT) Mobile Number Validation (MNV) Rules on July 31.
+
+“ If I know which phone number belongs to which person, will that eradicate all the fraud which are happening? And are we saying that wherever there is a mobile number, there is a propensity to have fraudulent activity? Are we even assessing that the ecosystem which we are trying to target, is it the entire ecosystem we are saying is not functioning, that it needs this kind of identification, validation to say so?” Seema Jindal, Head of Public Affairs at Truecaller, emphasised during the discussion.
+
+Jindal’s comment comes in the context of the draft amendment to the telecom cybersecurity rules, 2024, that the DoT released in June this year. This draft amendment seeks to bring in a new category of service providers within the scope of the rules. Called Telecom Identifier User Entities (TIUEs), these are entities that use telecom identifiers to validate their users or deliver their services. TIUEs have to comply with a range of obligations, such as following orders to suspend the use of certain telecom identifiers, and providing DoT with data related to the telecom identifiers. They also have to validate users through the MNV platform based on Government directions.
+
+“So once the customer is validated, the question is should we do it again and again? There is IRDAI (Insurance Regulatory and Development Authority of India), there is SEBI (Securities and Exchange Board of India), there is Reserve Bank of India (RBI), there is one bank giving a loan, the other bank giving a credit card. So already this discussion is on for KYC. So how do we manage this? This is certainly going to create a big irritant when it comes to dealing with customers,” Rajiv Kumar Gupta, President of PB Fintech, mentioned.
+
+He argued that this mobile number validation process could effectively become another one of the KYC processes that the company follows when onboarding customers. When asked if this could replace the current KYC processes, he mentioned that the company will “ not look at replacing this [the current system]. It has to go through our systems, plus the external systems”.
+
+TIUE customers have already gone through one round of KYC verification when they obtained their SIM cards from telecom companies, raising questions about whether there is a need for a second round of validation, especially based on the same database. Responding to this line of reasoning, VP Public Policy for Vodafone Idea (Vi), Jasroop Sandhu, mentioned that an additional round of validation is necessary because the first round of information is only available with telecom operators.
+
+“There are frauds that are happening on platforms which use the mobile number as an identifier, where the identity of the person is actually not ascertainable. And in those cases, because of the digital fraud that is happening, this is the intent of the Government to bring about some bit of trust in the ecosystem to ensure that those platforms do provide some kind of a validated user account for their services,” she explained.
+
+Challenging the reliability of telecom databases, MediaNama’s Editor Nikhil Pahwa questioned how the validation process would be effective in fraud reduction if someone submits incorrect information to the telco. “Video KYC verification process through the ASTR database has been there for at least two years. Frauds have not reduced. So if frauds have not reduced, how is bringing the same identifier to a different ecosystem going to increase trust?” Pahwa questioned. For context, the ASTR is the artificial intelligence and facial recognition-powered telecom SIM Subscriber verification solution that the DoT began using in 2023.
+
+Sandhu emphasised that it would be incorrect to say that the DoT’s measures to make telecom databases more reliable are not working. “The issue is that the other platforms need to also validate their user accounts,” she explained.
+
+Pahwa questioned how this reliability explains mule accounts . For context, a mule account is a bank account fraudsters use to move stolen money. Fraudsters who create accounts use multiple phone numbers for communication, sending victims links via SMS through which they move money into their account.
+
+“Now, where is the Government coming from? You see, there is a serious problem of both cybersecurity plus fraud. Which is the most prevalent KYC? Is the mobile number devices. Correct. That’s the most prevalent, most updated, most monitored compared to any other device. So, the intent of the Government is, how can I squeeze more juice out of this national resource?” Vikram Tiwathia, Deputy Director General, Cellular Operators Association of India (COAI), said to address the concern around mule accounts.
+
+Pahwa counter-argued, questioning why the system needed to be a part of a regulatory framework as opposed to being a voluntary service offering. To which Tiwathia reiterated his point about making the most of telecom data, further adding that it may be coming from the pressure that various Government departments face to curb fraud.
+
+“I think it will be fantastic if a digital infrastructure can be built to figure out whom does this phone number belong to, what is the history of that, how long was that with that person, how many times was it ported, was the money paid on time, not on time,” Amarinder Dhaliwal, Chief Product Officer at IndiaMART, said to explain how the MNV platform could be useful to startups.
+
+He remarked that telecom companies know who took up a number, the telecom circles they moved in, whether they make their payments on time and so forth. The Government could use this data to provide value-added services like telecom data-based user scores.
+
+“I’m saying if I have the pattern, obviously basic information is that a number belongs to this person. If that’s established clearly with the documentation that was shared as a starting point. Now, after that, if I know that this number was registered in, for example, Maharashtra and it was registered 10 years ago, and regular payment was made, then it was ported to Delhi, whether the same user was using it, versus someone who’s been taking five different phone numbers, five different circles. See, the fraud has a pattern,” Dhailwal explained.
+
+Just like Dhailwal, Gupta also agreed that businesses could use such a platform despite the cost and other expenses it brings in. “I’m okay [with customer validation] as long as there is value-added service. One of the value-added services is the fraud data,” he said. He further added that across the industry, players would probably be likely to accept this solution if it came with value-added services. Gupta said that he supports voluntary sharing of information with the Government for fraud-prevention purposes.
+
+While the MNV may be beneficial for some businesses, for others that end up under its purview, it wouldn’t add much value. “Do I [Truecaller] really need the mandated identification mark? I don’t think as a service, no. Definitely, our service doesn’t classify into a category where there are implications of any fraud happening or anything like that. But yes, as a user choice, if they want, perhaps they can do that. But then there are other methods that are available. So in a sense, it doesn’t bring us any value except for the fact that there is already an OTP validation,” Jindal said.
+
+She further added that earlier this year, the DoT launched a Financial Fraud Risk Indicator (FRI), which flags numbers suspected of financial fraud, and questioned that if such a solution for fraud exists, why the ecosystem needs another solution to tackle the same problem.
+
+“So when we say there is a lot of data which is lying out, maybe perhaps the other regulated sectors would need certain signals to enhance that. DoT also needs those signals and they do capture those signals. And perhaps why the focus is not on already using the existing systems. Have those systems [been] speaking to each other? Let those systems share signals between them. Let the impacted entities share bad actors. I don’t think there will be any justification for any entity to say ‘I don’t want to share the fraudulent data,’” Jindal explained.
+
+Discussing obligations to disclose data about telecom identifiers, Hoonar Janu, Head of Public Policy for InfoEdge, mentioned that the Government already has a variety of data disclosure mechanisms in place. “The DoT can ask for data disclosures related to traffic patterns and so on. You have CrPC, and the police can ask for data disclosures under CrPC. So I think there is enough, the Government has enough authority to ask for data,” he mentioned. * Further, Janu added that businesses typically provide the Government with the information it requires under these existing laws.
+
+He suggested that the Government should take a risk-based approach to implement the MNV platform when deciding which sectors should mandatorily onboard the platform.
+
+“You identify which all businesses pose that risk. For example, if I take a mobile number for marketing purposes. It doesn’t make any sense for me to verify the identity of the person. If somebody gives me a mobile number, I will send them a marketing message. There is no risk there. And a lot of use cases are like that. But if somebody is using a mobile number for banking purposes, then yes. And that is why KYC exists,” he remarked.
+
+During the discussion, one of the participants pointed out that the draft National Telecom Policy, 2025, mentioned that the MNV platform will secure telecom space to other service sectors such as banking, insurance, social media, and e-governance. He asked how these specific segments would be affected, to which Pahwa argued that it could remove the right to be anonymous online for social media platforms.
+
+“I think the point is that yes, digital platforms do allow you to be anonymous. But the point is internet anonymity can’t be at the cost of others. So the whole issue is that if you are anonymous today and you are doing legitimate stuff, you are not trying to defraud somebody, it’s fine. But the moment you try to defraud somebody by being anonymous, then you are not right. You should be identifiable at that stage,” Sandhu said in response to Pahwa.
+
+Watch the full discussion here:
+
+This discussion was organised with support from PhonePe, Truecaller and Meta. Our community partners for this event were Broadband India Forum, CUTS-International and the Internet Freedom Foundation (IFF).
+
+Also read:
+
+*Note: The Bharatiya Nyaya Sanhita (BNS) replaced the Criminal Procedure Code (CrPC) on July 1, 2024.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

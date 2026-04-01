@@ -1,0 +1,59 @@
+The Digital India BHASHINI Division (DIBD) under the Ministry of Electronics and Information Technology (MeitY) launched an open-source end-to-end voice AI stack called VoicERA at the India AI Impact Summit 2026 on February 18.
+
+The DIBD developed the stack with EkStep Foundation, in collaboration with the International Institute of Information Technology (IIIT) Bengaluru, AI4Bharat, and the Centre for Open Societal Systems (COSS).
+
+Deployed on the BHASHINI national language infrastructure, VoicERA provides an execution layer for multilingual voice systems, including real-time speech processing, conversational AI, and multilingual telephony abilities.
+
+The stack is open, pluggable, interoperable, cloud deployable, and on-premise ready according to the official press release. And the government says that departments can use it to build voice-enabled services across sectors such as agriculture advisories, education support, grievance redressal, and scheme discovery.
+
+At the launch, BHASHINI Chief Executive Officer (CEO) Amitabh Nag said the framework enables âsecure, scalable multilingual systemsâ and allows citizens to âspeak to the State and be understoodâ. Alongside the launch, BHASHINI also released a policy report titled âBuilding an Open and Responsible Voice Technology Ecosystemâ, which sets out recommendations for using voice technologies to make digital public infrastructure (DPI) more accessible.
+
+The report argues that large, reusable speech datasets must function as digital public goods to prevent linguistic exclusion. However, it identifies persistent barriers. Indiaâs linguistic diversity, including oral and low-resource languages, complicates transcription and annotation. Workforce shortages, fragmented metadata practices, inconsistent labelling standards and the absence of Indian-language evaluation frameworks further weaken dataset quality.
+
+Â In parallel, copyright layers, unclear licensing in crowdsourced datasets, risks associated with scraped content, and ambiguities under the Digital Personal Data Protection Act (DPDP Act) create legal uncertainty, particularly regarding consent, research exemptions, and publicly available data.
+
+To address these issues, the report recommends clarifying copyright and data protection exemptions, including assessing the Department for Promotion of Industry and Internal Tradeâs (DPIIT) proposed hybrid copyright licensing mode l and issuing guidance on research exemptions and publicly disclosed personal data.
+
+It also suggests examining whether a distinct lawful ground for AI processing is necessary under data protection law. Furthermore, it calls for incentivising consent intermediaries and consent managers to ensure informed, local-language participation.Â
+
+Furthermore, the report urges sustained public funding for representative datasets, prioritising low-resource and tribal languages, and recommends that publicly funded datasets default to open access subject to intellectual property (IP) and privacy safeguards.Â
+
+Finally, it proposes coordinated repositories, national documentation standards, independent quality assurance, tiered access systems, and risk safeguards, especially when deployed in public institutions.
+
+The report identifies weak benchmarking and uneven compute access as core structural constraints in model development. India lacks standardised, widely adopted evaluation datasets for speech systems in Indian languages. Consequently, researchers struggle with reproducibility, while government departments lack objective procurement criteria.
+
+Additionally, existing metrics often fail to accurately reflect real-world conditions, such as dialect variation, code-switching, demographic diversity, and noisy environments. At the same time, high-performance model training requires expensive GPU infrastructure, limiting participation.
+
+The report recommends establishing nationally coordinated, publicly accessible evaluation datasets and transparent leaderboards. These benchmarks should reflect real usage conditions, undergo regular updates and support independent verification of vendor claims. A Union-level convening body should set standards, while sub-national entities develop local language- and use-case-specific benchmarks.Â
+
+Furthermore, the report calls for pooling public and academic compute resources, creating shared national clusters with subsidised access, transparent allocation rules and onboarding support. It also emphasises strengthening regional university infrastructure, linking preferential compute access to open-source commitments, enabling secure storage compliant with data protection law, and expanding structured residency programmes as well as compute credits to broaden participation in model development.
+
+Speech datasets demand significant storage and bandwidth, making long-term hosting financially fragile. Academic grants rarely cover post-project hosting, and reliance on private platforms introduces uncertainty.
+
+Moreover, inconsistent tagging practices, weak provenance tracking, fragmented licensing frameworks and poor version control undermine interoperability and reuse. Overlapping licences across datasets, model weights and code increase compliance burdens, while enforcement gaps enable misuse of open datasets. The report also highlights risks of âdataset driftâ, where silent platform-level modifications alter datasets without clear documentation.
+
+To stabilise this infrastructure, the report recommends treating dataset hosting as durable public digital infrastructure rather than short-term project assets. It calls for institutional commitment, transparent governance frameworks, guaranteed long-term funding and clear access pathways for non-government actors.
+
+Furthermore, it proposes mandatory documentation norms for publicly funded projects, including data cards, model cards, provenance statements and version logs. It also urges adoption of collaborative data stewardship models, development of harmonised metadata standards, assignment of unique identifiers such as a Digital Object Identifier (DOI), and creation of coordinated repositories with tiered access. Finally, it recommends blended financing models and capacity-building measures to sustain long-term stewardship in the Indian context.
+
+The report identifies structural risks at the deployment stage, including limited value-sharing and recognition for communities and annotators whose data supports commercial systems. It notes tensions between open access and protection against extractive reuse, as well as growing misuse risks such as voice cloning, phishing and deepfake-enabled misinformation.Â
+
+Furthermore, biased performance across accents and demographic groups, linguistic exclusion and erosion of regional language identities present systemic concerns. Deployers also face practical trade-offs between cost, accuracy and reliability.
+
+To mitigate these risks, the report recommends embedding value-sharing mechanisms at the data-collection stage, including attribution norms, share-alike or copyleft licensing for publicly funded datasets, and structured community benefit-sharing frameworks. It calls for clearer licensing terms and stronger compliance pathways to address enforcement gaps.
+
+In addition, it recommends combining technical safeguards, strengthened legal recourse and public literacy initiatives to counter misuse. Finally, it advises deployers to identify suitable existing models where foundational development is not feasible, apply context-specific fine-tuning, and integrate fairness, transparency and accountability safeguards directly into deployment workflows.
+
+The emphasis on voice as DPI in the BHASHINI policy report finds a parallel in remarks made at the India AI Impact Summit around financial inclusion. Speaking at a session titled âFintech For All: Democratizing Financial Access Through AI And Human Capital Developmentâ on February 18, 2026, National Payments Corporation of India (NPCI) Executive DirectorâGrowth Sohini Rajola framed voice interfaces as critical to expanding financial access.Â
+
+While acknowledging UPIâs scale, she cautioned that âit would be a very far-fetched statement to say we have achieved inclusionâ, noting that âabout 500 million people today have access to UPI, but we need the next 300 million also to come into the UPI foldâ.
+
+Rajola argued that language and digital literacy barriers continue to exclude many users. âThere are our fellow citizens who would not be that privileged,â she said, contrasting smartphone and English-language familiarity with the realities of underserved populations. She pointed to Hello UPI as a voice-led intervention that is âvoice-based, not just in English, but in 10 languagesâ.
+
+Moreover, she linked voice systems to usability constraints on low-end devices, stating that keypad navigation creates friction, whereas âVoice is the differentiatorâ because it allows users to transact simply by speaking, including through phone calls.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

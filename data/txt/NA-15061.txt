@@ -1,0 +1,25 @@
+Star Health Insurance has confirmed reports of its data breach and shared that it has informed the authorities and initiated an investigation, as per a TechCrunch report. India’s largest health insurance provider said,  “A thorough and rigorous forensic investigation, led by independent cybersecurity experts, is underway, and we are working closely with government and regulatory authorities at every stage of this investigation, including by duly reporting the incident to the insurance and cybersecurity regulatory authorities apart from filing a criminal complaint.”
+
+The insurer filed a complaint with the Madras High Court against social media platform Telegram for hosting the chatbots that leaked the alleged personal data and also named Cloudflare in its lawsuit for its role in hosting the hacker group’s websites on its service.
+
+Earlier in September, the hacker group, operating under the alias xenZen , created chatbots providing random samples from the database it allegedly obtained from Star Health. They also offered to sell all the data for $150,000. These data samples included Personally Identifiable Information (PII) like policy and claims, documents featuring names, phone numbers, addresses, tax details, copies of ID cards, test results, and medical diagnoses. They claimed to possess 7.24 terabytes of data related to over 31 million Star Health customers.
+
+Star Health has maintained that there was no widespread compromise of their systems in the data breach and that sensitive customer data remained secure. The insurer stated that an unidentified person had approached it on August 13 and claimed to have access to some of its data, after which it contacted the authorities.
+
+India’s CERT-In also told TechCrunch that it was “already in the process of taking appropriate action with the concerned authority.”
+
+The hacker also claimed on their platform that they had colluded with Star Health’s CISO to get access to data. They posted screenshots of both parties allegedly cutting a deal for access to personal data. However, the validity of the screenshots is not confirmed. A popular X account shared the claims the hacker shared.
+
+EXCLUSIVE: Star Health is a $1.4B revenue insurance company whose CISO sold ~31 million Indians' data from salary to PAN card to a Chinese hacker for $43k. Ever wondered how these things happen? Here's a breakdown of the events "allegedly" with video proof. 1. Amarjeet… pic.twitter.com/4LAqtYnBBR
+
+However, Star Health has backed its CISO Amarjeet Khanuja, saying. “We also want to categorically mention that our CISO has been duly cooperating in the investigation, and we have not arrived at any finding of wrongdoing by him to date. We request that his privacy be respected as we know that the threat actor is trying to create panic.”
+
+Telegram has been under scrutiny globally for hosting cybercriminal groups on its platform. notably, when its founder, Pavel Durov, was arrested by French authorities over a police investigation into criminal networks operating on the platform. Following this, the Indian government began investigating the company for extortion and gambling. MeitY also issued a notice to Telegram in October 2023 to take down Child Sexual Abuse Material (CSAM) from their platform. Similarly, in 2019, South Korean authorities discovered an online gang that had blackmailed 70 women into taking explicit images of themselves and sold them on Telegram chat rooms.
+
+Since Durov’s arrest, Telegram has made few changes in their content content moderation systems. These include adding a button to report illegal content to moderators and using artificial intelligence (AI) to identify and restrict illegal content in Telegram Search. It also committed to sharing a user’s phone number and IP address with judicial authorities if it receives an order confirming that the user is a suspect in a criminal case that violates the platform’s terms of service.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

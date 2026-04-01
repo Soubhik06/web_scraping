@@ -1,0 +1,95 @@
+by Bibhudutta Pani
+
+The principles of new institutional economics championed by Nobel laureate economists Douglass North and Oliver Williamson, established that institutional constraints and transaction costs make  economic transactions costly , slow , or risky . Douglass and Williamson predicted that it will be upon intermediaries to reduce institutional constraints and transaction costs (together “institutional friction”).
+
+The Digital Personal Data Protection Act (DPDPA) and its Rules rely on this wisdom to enact a construct of ‘consent manager’ that would  act as an intermediary to reduce institutional friction in the marketplace of personal data. However, the  form of intervention is likely to have unintended limiting effects, such as entrenching license-raj and setting up a framework that is less likely to address consumer interests.
+
+Institutional frictions arise because real world exchanges happen under:
+
+• Uncertainty – Contracts are incomplete by necessity, which in turn leads to disputes and re-negotiations.
+
+• Information asymmetry – Markets rely on information about quality of goods, credibility of  promises, and legal protections. When information is scarce or unreliable, transactions become risky and expensive.
+
+• Opportunistic behaviour- Everyone acts in self-interest “with guile”. Hold-up problems and misrepresentations are expected to occur in real life conditions.
+
+• Cognitive and coordination limits- Very high cost in coordination amongst different  stakeholders, risk of leakages exists.
+
+• Poor enforcement mechanisms – Weak courts, corruption, and unclear property rights create  friction that discourage trade and investment.
+
+Intermediaries — whether traditional (brokers, wholesalers) or modern (exchanges, rating agencies) — specialise in reducing these frictions.
+
+A market for ‘personal data’ cannot organically emerge and self-organise because it faces high  institutional friction. The factors that cause friction in this area are:
+
+In the context of data, there are no straight, established answers to common questions that arise in the  realm of property right. Questions such as:
+
+These are notions that are not legislated in the same manner as property rights for land, building, crops or even intellectual property. The body of knowledge and centuries-long cultural practices that  have shaped the rights structure (for traditional assets such as land, building or crops) is missing in the  case of personal data.
+
+The degree of ambiguity discussed above, is countered by written contracts. But contracts suffer from innate uncertainty that is downstream of bounded rationality . For context, this concept means that individuals intend to make rational decisions but are constrained by limited cognitive processing ability, information, time, as well as uncertain and complex environments.
+
+Notably, there is another factor that adds to uncertainty. These contracts are written by platforms who find themselves in a position of conflict – they are both market-maker as well as a market participant.
+
+To explain, platforms like Amazon and Swiggy have acted as intermediaries that have made it feasible for parties (eg:- business entity that is a seller, and a buyer that is an individual) to exchange personal data for commercial purpose, which means that these platforms act as a market-maker.
+
+In addition, Amazon and Swiggy also need to collect personal data to render the requisite service ( e.g. – they need my address to deliver to me), which means that they are market participants as well.
+
+The factor of ‘ caveat emptor ’ gets magnified manifold; the line between free and forced (or rather exhausted) consent blurs. Enforcement challenges add to uncertainty, and factors such as:
+
+Buyers cannot easily assess the quality or accuracy of data, while sellers (individuals) lack clarity about end use of information, and externalities (privacy leakages) are difficult to quantify.
+
+The role of consent manager as enacted under the DPDPA and the Rules align with the concepts highlighted under the NITI Aayog’s Data Empowerment and Protection Architecture (DEPA), which established consent managers as data-blind intermediaries that sit between three key entities:
+
+a) Data Principal (User) – The individual whose data is being managed.
+
+b) Data Provider – The organisation holding the user’s data (eg: banks, healthcare providers).
+
+c) Data Consumer/Requester – Entities seeking to access the user’s data (eg: other service providers who need personal data to provide services to a user)
+
+DEPA prescribed that the consent manager would solve the “missing market” issue by intermediating not just between a user and a fiduciary, but between two fiduciaries via standardised APIs. It drew a framework bounded by principles of transparency, user control, interoperability, security and standards-based framework.
+
+DPDPA and the Rules relied on the DEPA principles but went overboard as follows:
+
+Central Planner approach: The legal framework put together by DPDPA, and the Rules prescribes regulated entities to act as consent managers. It lays down prescriptive, top-down requirements to be followed by a consent manager, thus subjecting it to bureaucracies suffocated by micro-management. Left to themselves, private businesses can find innovative and efficient ways of tackling downstream privacy issues.
+
+Entrenching License Raj: DPDPA requires consent managers to be registered with the Data Protection Board of India. Also, consent managers must meet minimum net worth requirements to be eligible. Raising the entry barrier restricts entry to incumbents; less number of operatives mean less competition, which is a precursor to lower levels innovation which is needed to make privacy user-friendly.
+
+Price Control: When regulators dictate business model, they also take away businesses’ freedom to determine price. The regulator’s diktat acts as an indirect price control. Destroying a free-pricing system deteriorates the quality of signal that price provides, which in turn leads to inefficient outcomes.
+
+For the reasons outlined above, consent managers may ultimately become another stack of ill-functioning entities. They may be saddled with a top-down business model and driven by misplaced incentives. These incentives may fail to serve consumer interests.
+
+I am reminded of the slew of regulations issued since 2007 to curb unsolicited commercial communication over mobile phones. As a user, the most useful intervention came from telcos that built in a “spam caller” warning. They did not introduce this feature because of any specific regulatory diktat. They did so simply because they wanted to make subscribers’ lives easier.
+
+Account Aggregator (AA) network was introduced as a financial data-sharing system by Reserve Bank  of India (RBI) in 2016. AAs are essentially Non-Bank Finance Companies (NBFC) engaged in the business of providing the service of retrieving or collecting financial information pertaining to the customer.
+
+Notably, no financial information of the customer is retrieved, shared or transferred by any AA framework without explicit consent. AA transfers data from one financial institution to another based on an individual’s instruction and consent. Financial Information User (FIU) is an  entity registered with and regulated by any financial sector regulator, and identified as an FIU by the RBI. Financial Information Provider (FIP) is also one listed as such by RBI. An entity needs specific NBFC registration and has to maintain minimum net-owned funds to operate as an AA.
+
+AAs presently carry out the function of a consent manager in the financial sector. They act as intermediaries facing several peculiar issues in doing business. Consider this example, an AA charges a bank (say, HDFC  Bank) acting as an FIU, for providing it with financial information of an individual. This is so even though HDFC Bank, in its capacity as an FIP, already possesses richer information about the financial  profile of the same individual.
+
+Naturally, the FIU (HDFC Bank) would want to negotiate the AA’s fees downwards. In a free ecosystem, an AA could have engaged with other types of businesses to offset such fee reductions. In reality, RBI regulations prevent it from undertaking any other line of work. These regulations impose an inflexible business model. As such, they have not only severely restricted an AA’s ability to determine the price of its services, but have also curtailed its ability to enter into any other business.
+
+Have AAs been successful in mitigating risks of consent misuse is a key question. An anecdotal answer to that would lie in the number of spam calls and the sheer size of the financial fraud industry that have ushered “digital arrest phenomena” in India. A deeper examination reveals a flailing business model that is forcefully legislated and brought in to being.
+
+It is just a matter of  time before AA’s Service Level Agreements (SLAs) are going to drop, and the outcome will be higher transaction costs for poor (and slower) delivery of service. The legislative framework could have restrained at prescribing the DEPA framework ( i.e. transparency, user control, interoperability, security and standards-based framework) for operation of AA with the same results.
+
+AAs have remit over the financial sector only; the CMs under DPDPA are industry agnostic so are likely to have a multi-fold, magnified issue at their hands.
+
+Unified Payments Interface (UPI) is a payment workflow that is state-backed and has monopoly. UPI is widely accepted as it had a zero-cost mandate. It was quickly and enthusiastically adopted as a component in all digital payment journeys. UPI’s monopoly thwarted innovation; given universal acceptance of UPI, no one else had the incentive to come up with a different and/or better way of processing payments.
+
+The inability to commercialise (courtesy State interference) means poor SLAs and no redressal for consumers. Private entities could have been left to innovate and come up with newer ways of processing payment flow without State interference, but the paternalistic approach adopted led it in a different way.
+
+UPI continues to work with reasonable effectiveness. The design framework however has no incentive  for the provider to maximise customer satisfaction. It is not entirely unthinkable that users would face  issues/outages (already happening) with no access to customer support or resolutions.
+
+Intermediation of consent has its place in a secure marketplace, but should the state prescribe setting up of exclusive entities to meet that need?
+
+The state’s job is to provide against negative externalities. The DPDPA and the Rules already achieve that objective by mandating measures against information asymmetry, record-retention and sanctions against breach.
+
+The state could have, in the same spirit, set out technology standards and transfer protocols for consent intermediation. However, the present consent management framework is reflective of a nanny structure that is likely to draw heavily on state capacity for enforcement and sanctions.
+
+As in other areas, it would translate to only a selected set of big businesses being the recurring target of the enforcement mechanism, while millions of smaller interactions do not get the  same or deserved degree of protection.
+
+This article’s author is the Chief Operating Officer (COO) and General Counsel of Lex Connect Consulting Pvt. Ltd., a legal services firm based in Bengaluru.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,85 @@
+“If you start implementing this (SIM binding) on messaging apps, you will suddenly find most of the apps not being usable,” Anand Venkatanarayanan, Co-Founder of DeepStrat, said during MediaNama’s discussion on the ‘Impact of SIM Binding on Social Media’.
+
+Speakers at the event explained that this outcome stems from the way SIM binding interacts with existing communication systems. By tying access to the continuous presence of a specific SIM, the Department of Telecommunications (DoT) directly restricts several legitimate, widespread, and often critical use cases that shape how these platforms actually function in practice.
+
+For context, the DoT has positioned SIM binding as a fraud-prevention measure for app-based communication services. Under this directive, messaging and social media apps must function only when the SIM linked to a user’s account remains physically present in the device. The order also limits persistent access through web and desktop interfaces.
+
+Importantly, during MediaNama’s discussion, speakers examined how this requirement would play out when applied to real-world communication platforms that millions of users rely on daily for work, safety, and coordination.
+
+Rohini Lakshane, technologist and researcher, said SIM binding poses serious risks for users whose phone numbers are unstable due to safety concerns or structural features of India’s telecom market.
+
+“It’ll impact people who are in a crisis situation,” Lakshane said, pointing to “someone fleeing an abusive household or survivors of abuse or victims of stalkers and crank callers”.
+
+In such cases, Lakshane stressed that messaging apps are not optional social tools, but essential infrastructure for safety and mobility.
+
+“Say someone is fleeing an abusive situation, they need a phone for a number of things — being able to access help, or finding where they are, and the nearest train station or something like that,” she said.
+
+Lakshane said SIM binding assumes continuity of phone numbers that does not exist for many users, particularly in India’s prepaid-dominated telecom ecosystem. This affects not only people in crisis, but also migrant workers and users in informal or prepaid markets: where numbers change frequently due to expiry, loss, or affordability.
+
+As a result, she said that rigidly tying account access to SIM presence means that losing or discarding a number can immediately cut off access to messaging platforms, even when users still have their device and internet connectivity. “In that (crisis) situation, they really can’t be doing this switch over between one SIM and the other,” Lakshane said.
+
+She added that these access disruptions do not remain isolated incidents, but create downstream strain for both users and platforms. “And that translates into more account recovery requests, more calls to support, higher fraud recovery costs, and a degraded user experience,” Lakshane remarked.
+
+Lakshane also flagged elderly users as a particularly vulnerable group under a SIM-binding regime. “If they miss recharging the SIM or it expires, then their account access gets revoked. They get locked out,” she said.
+
+Consequently, such lockouts can immediately sever access to essential contacts and services. “They cannot contact their essential contacts such as caregivers or doctors or banks,” Lakshane explained.
+
+Beyond loss of access, she pointed to the additional cognitive burden that a SIM binding mandate places on elderly users. “And there’s also cognitive burden,” she said, referring to “understanding and following complex validity rules and periodic reauthorisation”. She added that this can “create confusion and anxiety, especially in that (elderly users’) demographic”.
+
+Furthermore, Lakshane noted that many elderly users lack the technical support required to recover access once it is lost. “Elderly persons may lack the digital literacy or may not have the technical support in their family or social circles,” she said, adding that they may not be able “to perform re-verification” or “navigate OTP flows or mobile number verification platforms”.
+
+Lakshane said that SIM binding also fails to account for shared-device environments, which remain common in lower-income households. “So there are cases of shared devices within families,” she said, describing situations where “a family of four or five or more” relies on a single smartphone.
+
+Additionally, she noted that such devices often operate with multiple SIMs. “Sometimes these are multi-SIM devices. So two SIMs, [and] sometimes even a triple SIM,” she said.
+
+According to Lakshane, SIM binding risks breaking this shared-use model because access becomes tightly coupled to SIM presence rather than actual patterns of use.
+
+“And I see that being affected,” she said, explaining that SIMs are often cheaper and easier to replace than devices in prepaid settings. As a result, she warned that SIM binding could collapse communication access at the household level.
+
+“So they may be using multiple SIMs with the same device, and then it (SIM binding) will collapse that multi-user functionality,” Lakshane remarked.
+
+And because “everything is tied to the phone number at the end,” she said that SIM binding can disrupt access for multiple people at once. “And it (SIM binding) could impact those low-income households,” she added.
+
+Nikhil Narendran, Partner in the TMT practice at Trilegal, said that SIM binding significantly disrupts work-related use cases that depend on persistent web and desktop access.
+
+“The web WhatsApp direction on the second part is probably the most ridiculous part of that direction we see,” Narendran said, referring to the requirement that users be logged out periodically and forced to re-authenticate through the SIM-linked device.
+
+“It completely kills user experience and takes away the benefit of having a web log-in for any of these IM-based (instant messaging) apps,” he added.
+
+Meanwhile, Nikhil Pahwa, who is the Editor and Founder of MediaNama, said that the impact extends beyond individual professionals to entire business ecosystems built around WhatsApp-based automation.
+
+“There are entire businesses in India that have been built around enabling small and medium enterprises (SMEs) to reach out to clients,” Pahwa said, pointing to customer relationship management (CRM) tools and cloud-based workflows that rely on persistent sessions rather than continuous device-level authentication.
+
+Prasanth Sugathan, Legal Director at SFLC.in, added that the disruption also affects public institutions that now rely on messaging platforms for service delivery. “I get interim orders which are uploaded on my website, sent to me on my WhatsApp from a High Court WhatsApp number,” Sugathan said. “It’s an automated thing,” he added.
+
+The panel also discussed how SIM binding affects users who travel frequently or live outside India while relying on accounts linked to Indian mobile numbers. For context, Narendran said that the DoT’s directive is fundamentally tied to domestic telecom infrastructure. “It’s an Indian mobile number-centric regulation,” he said.
+
+As a result, users who depend on Indian SIM-linked accounts while travelling or residing abroad risk losing access if the SIM is not physically present in the device, even when there is no indication of fraud.
+
+However, speakers stressed that SIM binding does little to address cross-border fraud itself. “So then that doesn’t address fraud using international mobile numbers,” Pahwa said, referring to the SIM binding requirement being limited to Indian mobile numbers.
+
+Earlier in the discussion, Venkata Satish Guttula, Cybersecurity Consultant at Allied Boston Consultants India Pvt. Ltd., had raised the same concern. “What is going to stop the fraudsters from using these international numbers?” Guttula had asked.
+
+Across the discussion, speakers repeatedly questioned whether SIM binding’s security rationale justifies its broader consequences. Sugathan said: “You have this objective (of fraud prevention) that you’re trying to achieve. But then is this the best way?” He argued that the DoT directive risks imposing the highest burden on legitimate users.
+
+“Should you choose this alternative (SIM binding) which causes maximum inconvenience to the user?” Sugathan asked.
+
+Moreover, Sugathan said that the lack of public consultation narrowed the policy conversation to a single, restrictive approach. As a result, less intrusive safeguards were never seriously considered. “There could have been such solutions,” he said, referring to options like login alerts and device notifications.
+
+Elsewhere during the discussion, Narendran remarked that the DoT directive reflects a failure to anticipate real-world edge cases.“There are many edge cases where there are many problems which arise out of this,” he said.
+
+Meanwhile, Pahwa concluded by highlighting how deeply messaging platforms are embedded in everyday life. “For many of us the internet is the primary mode of communication,” he said. “Perhaps it would be better if they actually spoke to people who understand the internet before issuing such regulations,” Pahwa added.
+
+Overall, the discussion showed that SIM binding applies a narrow fraud-prevention lens to platforms that now function as essential infrastructure for work, governance, safety, and everyday communication.
+
+The central concern, however is whether the policy meaningfully targets fraud at all, or largely shifts risk and disruption onto ordinary users who depend on these systems the most.
+
+You can watch the event video here:
+
+Note: This discussion was organised with support from Meta and Snap. Our community partner for this event was the Internet Freedom Foundation (IFF), Software Freedom Law Centre (SFLC.in) and the Centre for Internet and Society.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

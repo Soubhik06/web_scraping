@@ -1,0 +1,29 @@
+As of July 2025, 86% of the total person-to-person (P2P) transactions are for payments above Rs 2,000. While it is unclear what the specific share of P2P Collect transactions is, the impact of removing P2P Collect may be limited since a large chunk of P2P transactions is beyond Rs 2,000.
+
+Source: NPCI UPI Ecosystem data, July 2025
+
+Notably, since NPCI had already capped P2P Collect requests at Rs 2,000 in 2019, higher-value transactions were already being conducted through direct payment methods. This suggests that users may have gradually adapted to alternative payment initiation methods for larger amounts, potentially making the transition less disruptive.
+
+UPI users will no longer be able to send requests to collect money from others starting October this year, the National Payments Council of India (NPCI) mentioned in a recent circular. As part of this restriction on P2P collection requests, the NPCI has instructed payment service providers to make necessary changes to their systems to ensure that no P2P Collect transaction requests are initiated, routed, or processed on UPI beyond October 1.
+
+This change follows a 2019 circular that the NPCI had published, which mentioned the impending risks of fraudulent UPI transactions. It instructed member banks in the UPI ecosystem to ensure that bad actors do not misuse certain features of the ecosystem, including UPI collection requests. To prevent misuse, the NPCI instructed banks to ensure that a P2P collect transaction is identified by the payer payment service provider app. It also capped these transactions at Rs 2,000.
+
+Further, NPCI had also implemented restrictions on merchant collect transactions. For non-verified merchants and P2PM (smaller merchants), it instructed the payeeâs bank to restrict collect requests to Rs 2,000. It also restricted such banks from allowing transactions exceeding Rs 2,000 via methods like ‘Share Intent link and Pay’ and ‘QR Share and Pay’.
+
+Picture this: you go for lunch at a cafe with a group of friends, and decide to pay for the meal to make the process quick and easy. However, your friends forget about splitting the bill later on.
+
+In such a situation, UPI P2P collect would have allowed you to send requests to your friends for their specific share of the bill. However, users will no longer be able to send such requests to their friends once NPCI’s instruction to discontinue P2P Collect comes into effect.
+
+As of July this year, P2P transactions make up 36% of the total transactions that went through the UPI ecosystem, standing at 7.07 billion transactions. The total value of these P2P transactions stood at Rs 17,74,485.73 crore. Notably, P2P makes up a larger chunk of the transaction volumes when compared to P2M (person to merchant) transactions.Â
+
+Source: NPCI UPI Ecosystem data, July 2025
+
+To understand the scope of P2P collectâs removal on UPI service provider operations, MediaNama sent the following questions to PhonePe and Paytm:
+
+Also Read:
+
+Note: We will update the story once we receive PhonePe and Paytm ‘s response.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

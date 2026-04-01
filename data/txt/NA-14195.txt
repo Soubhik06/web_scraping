@@ -1,0 +1,29 @@
+Life and general insurance companies can now use video KYC to onboard customers and verify their documents, in light of the pandemic. This follows recent relaxations that allowed general insurance companies to collect electronically signed documents instead of hard copies of policy documents and proposal for new customers.
+
+The RBI had in January amended its KYC norms to allow banks and lending companies to use video-based customer identification.
+
+Either the insurer or a person it authorises can perform KYC : The video KYC will have to be done by the insurer or a person it has authorised, who is specifically trained for face-to-face video based verification. The circular also says that “the audio-visual interaction shall be triggered from the domain of the insurers itself, and not from third party service provider”. The activity log of the official carrying out KYC has to be preserved. The authorised person by the insurer can only carry out video KYC at the customer’s end. However, “the ultimate responsibility for client due diligence will be with the insurer”.
+
+Insurance companies can develop their own applications to carry out online and video verification. This can be used for “establishment/continuation/ verification of an account based relationship or for any other services with an individual customer/beneficiary, as the case may be, after obtaining his/her informed consent”, the regulator said.
+
+What documents have to be obtained : The insurance company has to obtain either of the following three to verify the customer’s identity:
+
+The insurer will then ensure that the customer matches with their identification documents. If Aadhaar is being verified using XML file or Aadhaar Secure QR, then they should not older than 3 days from when the video KYC is being done.
+
+Record the video KYC : The insurance company has to record “clear live video” of the customer, wherein the customer is visible and not covering their face. The video recording needs to have the timestamp, date, and GPS coordinates “along with other necessary details”, and will be stored per the provisions of the Prevention of Money Laundering Rules.
+
+“Encouraged” to use AI, facial recognition : Insurers are encouraged to use AI and face matching technology to “strengthen and ensure the integrity of the process” and to maintain confidentiality of the customer’s information.
+
+Live location has to be obtained via geotagging to ensure that the customer is present in India. The insurer has to ensure that the sequence and type of questions they ask are switched up to ensure that the customer is not playing a recorded video.
+
+Insurers have to ensure secure and end-to-end encrypted audio-video interaction with the customer and the quality of communication should be adequate to identify the customer beyond doubt. “There shall be an end-to-end encryption from the customer/beneficiary to the hosting point of the Video KYC application,” the regulator said with “minimum encryption standards” and key lengths like AES 256 to be used.
+
+Insurers also have to check for “liveliness” to avoid fraud. Liveliness means that the customer’s should be present in the video themselves, and it should not be a photo of a photo, or a prerecord video.
+
+Located within India : The video KYC and video recordings can only be hosted/stored at third-party locations or hosting locations within India.
+
+CERT-In empanelled auditors to review application and hosting infrastructure : Apart from using an end-to-end encrypted tool, the video KYC application and related software have to undergo security testing through CERT-In empanelled auditors. “All reported vulnerabilities shall be mitigated before moving into production,” the regulator said. Additionally, CERT-In empanelled auditors will assess the infrastructure used to host the video KYC application.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

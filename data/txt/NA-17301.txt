@@ -1,0 +1,23 @@
+SUBREDDIT: r/india
+TITLE: OTP based mobile verification is another stupid idea from UIDAI
+DATE: 2017-11-12
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/7cdpqg/otp_based_mobile_verification_is_another_stupid/
+
+--- POST TEXT ---
+
+UIDAI is very aware that, aadhaar authentication fails for most of the Indians and they can never verify mobile connection using fingerprints. 
+
+So they came up with new scam, verify mobile using aadhaar OTP.
+
+That's bigger scam than fingerprint based verification.
+
+1. Anyone who steals your mobile can own it for life by linking your aadhaar with that mobile. He can claim your identity at every place under the Sun. For example, he can change your bank password, since bank would not know, who is real and who is farzi.
+
+2. OTP can be guessed using brute force, OTP algorithm can be reverse engineered, stupid UIDAI would not be generating a real random number for OTP. You can write 10 lines code in browser to hack OTP. 
+
+3. OTP has been allegedly arriving 3 days after requesting from UIDAI. The OTP is valid for 30 minutes only, which makes aadhaar based OTP useless.
+
+4. Many people have complained that aadhaar servers are always down and they never receive OTP.
+
+Get lost #aadhaar, stop wasting tax payers money, it will be recovered from all aadhaar mongers at 2019!. Jai Hind

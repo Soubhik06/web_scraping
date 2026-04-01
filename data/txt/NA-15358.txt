@@ -1,0 +1,19 @@
+In the aftermath of the US government data breach this month that impacted the US Treasury Department, the National Telecommunications and Information Administration and the Department of Commerce, Microsoft’s President Brad Smith wrote in a blog post that more such hacks were likely in the offing, with countries like Russia developing unprecedented sophistication in their attacks. “We should all be prepared for stories about additional victims in the public sector and other enterprises and organizations,” Smith said.
+
+“While governments have spied on each other for centuries, the recent attackers used a technique that has put at risk the technology supply chain for the broader economy. As SolarWinds has reported , the attackers installed their malware into an upgrade of the company’s Orion product that may have been installed by more than 17,000 customers,” Smith added.
+
+It appears that some victims of the hack have been identified from India, though Smith didn’t explicitly say so in his post. A heatmap showing the extent of the cyberattack outside Russia — where no victims appear to have been identified — appears to indicate that systems roughly around Madhya Pradesh and Uttar Pradesh have been compromised.
+
+Note: We are not republishing the map because it contains a version of Indian borders that reflect the extent of its control, and not that of its claim.
+
+“The initial list of victims includes not only government agencies, but security and other technology firms as well as non-governmental organizations,” Smith said. Significantly, a suite of attack tools gathered and used by the cybersecurity firm FireEye were compromised in the breach. Supply chain weaknesses in Microsoft and SolarWinds, two companies that make software used by the breach’s victims, gave attackers the openings to orchestrate this hack.
+
+“Silicon Valley is not the only home of ingenious software developers. Russian engineers in 2016 identified weaknesses in password protection and social media platforms, hacked their way into American political campaigns, and used disinformation to sow divisions among the electorate. They repeated the exercise in the 2017 French presidential campaign. As tracked by Microsoft’s Threat Intelligence Center and Digital Crimes Unit, these techniques have impacted victims in more than 70 countries, including most of the world’s democracies. The most recent attack reflects an unfortunate but similarly ingenious capability to identify weaknesses in cybersecurity protection and exploit them.” — Brad Smith, President of Microsoft
+
+According to a previous report by Microsoft, four nation states account for the bulk of such attacks: China, North Korea, Iran and Russia. Smith said that companies and governments need to scale efforts against such actors by coordinating responses and heightening consequences for hackers, along with greater threat intelligence.
+
+Also read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

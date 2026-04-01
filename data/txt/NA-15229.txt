@@ -1,0 +1,21 @@
+Deepfakes can help authoritarian ideas flourish even within a democracy, enable authoritarian leaders to thrive, and be used to justify oppression and disenfranchisement of citizens, Ashish Jaiman, director of technology and operations at Microsoft said on Thursday. “Authoritarian regimes can also use deepfakes to increase populism and consolidating power”, and they can can also be very effective to nation states to sow the seeds of polarisation, amplifying division in the society, and suppressing dissent, Jaiman added, while speaking at ORF-organised cybersecurity conference CyFy. Jaiman also pointed out that deepfakes can be used to make pornographic videos, and the target of such efforts will “exclusively be women”.
+
+Deepfakes are realistic imitations, usually in video or audio form, of people speaking. While some uses of the technology can be innocuous — adding your face to a friend’s face for a comedic effect for instance — deepfakes can be potentially used to run propaganda campaigns. Almost all major social media platforms — Facebook, Twitter, YouTube — have policies in place to discourage the propagation of deepfakes, in one way or the other, albeit with varying degrees of stringency.
+
+“Deepfakes can undermine trust in institutions and diplomacy, act as a powerful tool by malicious nation states to undermine public safety and create uncertainty and chaos,” Jaiman said. “Imagine a deepfake of a diplomat spewing damaging remarks for a country’s leader”, he added. Jaiman also laid out the many ways in which deepfakes can potentially affect democracies:
+
+Aside from the impact deepfakes can have on democracies, Jaiman said that deepfakes can affect businesses as well. “A nefarious actor can impersonate identities of individuals and business leaders to facilitate financial fraud. Deepfakes can also be used in social engineering to dupe employees, and to solicit business secrets,” he said. Deepfakes may also “accelerate the already declining trust in media”.
+
+Jaiman called for a multi-stakeholder and multi-model approach to counter the threat of malicious deepfakes. He also said that platform policies, technology and media literacy are among the most effective ethical responses to deepfakes. As pointed out above, several social media platforms now have policies to limit the spread of deepfakes on their platform.
+
+Media literacy for consumers and voters is the most effective tool to combat disinformation and deepfakes, in particular, he said. Consumers must have the ability to decipher, understand, translate and use the information that they encounter.
+
+Jaiman also said that technical solutions are needed to detect deepfakes, which typically includes solutions that leverage multimodal detection techniques to determine whether a target media has been manipulated. Media authentication tools can also help platforms to gather signals to act on synthetic content, he said. Using detection technologies, platforms can either label deepfake content, or prohibit sharing them altogether.
+
+However, detecting deepfakes might not be the easiest thing to do. The winning algorithm of a deepfake detection challenge organised by Facebook earlier this year was able to spot “challenging real world examples” of deepfakes with an unimpressive average accuracy of 65.18% . In fact, none of the participants in the contest, which included leading experts from around the globe, could achieve an average precision rate of 70% on a private dataset that wasn’t shared with them earlier.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

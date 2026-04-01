@@ -1,0 +1,31 @@
+Update: ZipDial Chairman, Sanjay Swami informs us that the system has now been updated to only use 1800 numbers – and now the spoofing from India numbers is no longer possible. This makes it fit for use as a viable solution for SMS voting.
+
+Update (from Nikhil Pahwa): In response to our query regarding loopholes in case of ZipDial, Valerie Rozycki, CEO at Zipdial, sent us the following response by email:
+
+“ZipDial to Verify (Z2V) is primarily focussed on two use cases: 1) Customer has signed up for NDNC and cannot receive SMS’s from a service provider – Z2V solves this problem. 2) Customer has entered the wrong mobile number accidentally – Z2V catches this typo.
+
+These cases constitute the vast majority of use case scenarios. The use case when a prankster/fraudster enters a random number and uses callerID spoofing to fake this number isn’t covered – however doing this is illegal under the law (as mentioned in the post) – and fundamentally there is no benefit to deliberately entering a wrong number. Any further questions on this can be directed to the ZipDial team directly – verify at zipdial dot com”
+
+Our take: Even if it is illegal to spoof mobile numbers, there is little doubt that: – If a user doesn’t want to give a verified mobile number, then there is a loophole in the ZipDial system that allows her to bypass verification of a number. In this case, the website deploying the ZipDial to Verify system will not have an authenticated number for a user, but a fake one. – If used for polling (ZipDial has a polling service), there is clear potential for abuse. In the past, on TV related contests, where millions of votes are cast, contestants have been known to distribute SIM cards and vote en-masse, one vote at a time. The loophole in the Zipdial system has potential for abuse there, and no cost. Because it can be gamed, it is not an adequate replacement for the current SMS voting format, unless the loophole is plugged. Rozycki points us towards a hybrid deployment they had done for UTV Bloomberg, where the first part of the survey was on the web, with ZipDial to Verify as the final step, wherein a user can respond by “ZipDialing to vote”, therefore fully authenticating the user. In our opinion, this won’t work with the likes of reality TV shows, and adding another factor for authentication (web and mobile) might impact survey completion.
+
+Update: One of our readers, Venky commented that the service is not fool proof and can be fooled with the use of web based or other caller ID spoofing services. He demonstrated it through a blog page . We tested it and found out that we were indeed able to make a fake verification call to ZipDial. This is worrisome since the service is being employed by major e-commerce web sites for user verification. We have written to ZipDial about the same and have asked them what they intend to do to prevent this. We will keep you updated when we hear from them.
+
+Earlier (March 7th 2011): ZipDial Mobile Services , has launched a new mobile number verification service that lets companies verify their customers’ mobile numbers without the need to send or receive SMSs, over a phone line.  The service has been deployed on e-commerce portals Flipkart and Myntra , and education portal TutorVista . This is particularly interesting because it provides an alternative to SMS for verification, particularly given the SMS Spam regulations which are expected to enforced by the TRAI sometime this year, though we can’t be sure, given regular postponements.
+
+How It Works Whenever there is a need to verify the customers’ phone number, for example during customer registrations or shopping cart checkouts, the customer is given a random phone number , that he can call to verify his mobile number. After one ring, the call gets automatically disconnected and the verification information is sent to the website.
+
+When we tried the service, we were given a Bangalore number to dial and the service worked as promised. Although there are no charges incurred on the customer’s end, the number might not work with most landline phones that don’t have STD (inter-state dialing) enabled.
+
+ZipDial’s service can be integrated by any website by embedding an HTML code from the company. The website needs to provide a redirect URL to ZipDial, where the customer will land after successful verification. The service is priced at Rs 5,000 per month or Rs 50,000 annually, per domain, for unlimited use.
+
+We feel that the service is a good attempt and prevents users from incurring unnecessary costs just to verify their phone numbers, and above all, allows sites to an alternative to using SMS for authentication. ZipDial was initially begun as a service for conducting mobile based free polls.
+
+What else do we think a free dial-in service can be used for?
+
+– Pull services: dialing a particular number for being sent the latest Cricket scores, or the latest deal of the day by SMS – Password recovery, or new password: sites like Google and Facebook are asking Indian users to add their mobile numbers as a second layer of security for authentication. Dialling a particular should allow you to be sent back a password. – Service activation and deactivation request: no need to message START or STOP, just call one number to start, another to stop. – Replacement of One Time Password: instead of sending a user a one time password, and then asking him to enter it on an Interactive call for authentication, why not just generate a unique number for a user to dial, as a means of mobile authentication?
+
+Any other ideas? Leave a comment…
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

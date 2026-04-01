@@ -1,0 +1,43 @@
+India’s largest securities depository  Central Depository Services Limited (CDSL) exposed sensitive data of around 4.39 crore investors, cybersecurity firm CyberX9 reported on November 8.
+
+CDSL is one of the two SEBI-regulated depositories that hold securities like shares, mutual funds, and bonds in electronic format. Nearly 600 stockbrokers who collectively have over 4 crore investor accounts are associated with CDSL.
+
+Although the vulnerabilities that exposed the sensitive data have now been fixed, there are significant ramifications if the data fell into the wrong hands. “We strongly suspect that the data might’ve already been stolen by malicious attackers,” CyberX9 said. “There is a need for a fair security audit of CDSL by the government,” the firm added.
+
+MediaNama has reached out to CDSL for comments and will update this report if we receive a response.
+
+On October 19, CyberX9 discovered a critical security vulnerability in CDSL and reported the same to the company. The company reportedly took “7 days to fix the vulnerability while an immediate fix could’ve been done in max two hours,” CyberX9 said.
+
+Notwithstanding the delay in fixing the issue, CyberX9 on October 29 “found a laughably easy and complete bypass for the fix that CDSL implemented to patch the earlier reported vulnerability.” The cybersecurity firm reported the same to CDSL the next day and the vulnerability was fixed on November 1.
+
+CyberX9 reported that the exposed data includes sensitive personal details like:
+
+And financial details like:
+
+The firm shared redacted screenshots of the exposed data but MediaNama was unable to independently verify the authenticity of the same.
+
+The exposed data came from CDSL Ventures (CVL), which is a government-approved KYC registration agency owned by CDSL. An authorization vulnerability in a public KYC application programming interface (API) of CVL resulted in the exposure, CyberX9 said.
+
+“If you invest in stocks, mutual funds, etc. then you should’ve definitely gone through the market securities KYC and there are good chances your KYC was done by CDSL’s CVL since they are one of the major and biggest KYC registration agencies in India,” the firm added.
+
+The cybersecurity firm attributed the incident to a “horribly poor level of cyber security” and “sheer negligence” by CDSL.
+
+The nature of the vulnerability here indicates extreme negligence in handling sensitive personal and financial data of people. And that is not something we expect from the largest Indian depository. They clearly do not stand on what they promise about the security and confidentiality of customer data. – CyberX9
+
+CyberX9 also suggested that there “might be more such critical security issues in CDSL — potentially resulting in people losing access to their holdings in their CDSL Demat account.”
+
+After struggling and “failing to find any security contact at CDSL,” Cyber X9 reported the vulnerability to the Indian Computer Emergency Response Team (CERT-In) and the National Critical Information Infrastructure Protection Centre (NCIIPC), which are both governmental agencies responsible for dealing with cyber security threats.
+
+Even after reporting to the two agencies, the first vulnerability took more than 7 days for CDSL to fix and the second one took around 3 days, CyberX9 said. Both vulnerabilities could have been fixed in “a maximum of 2 hours”, the firm added.
+
+Between January and June 2021, 30 data breach incidents were reported to CERT-In, the agency revealed in response to an RTI filed by MediaNama last month. Among these are incidents at Pine Labs , Dominoes , Air India , etc., which have compromised the data of millions of Indians over the last year.
+
+CyberX9 outlines to following potential negative consequences if the exposed data fell into the hands of criminals:
+
+Also Read
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

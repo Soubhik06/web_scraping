@@ -1,0 +1,41 @@
+Babubhai Boriwal (53) and Sampatlal Shah (61), owners of “Pandit Deendayal grahak bhandar” shops under Gujarat’s Annapurna Yojana PDS, were arrested by the Crime Branch in Surat. They were using an illegal software that accessed leaked biometric data in order to acquire coupons in the name of different PDS beneficiaries to procure inexpensive rations through the PDS system for sale on the open market.
+
+News reports claim that the investigation and arrests were done after district officials had earlier filed complaints against eight other shops after receiving complaints about PDS supplies being procured in the name of beneficiaries without their knowledge.
+
+Crime Branch Inspector BN Dave said that fair price shops were supposed to use an application called E-FPS, provided by the government, with a databank of beneficiaries fed into it. He added, “As part of this, fair price shop owners were given a username and password to access the biometric data bank of beneficiaries to create an electronic record of beneficiaries availing subsidised grains from their shops.” “The beneficiary had to provide his finger print, details of his ration card and UID (Aadhaar) numbers to match the data fed into the computer. This would generate a slip on the basis of which he was given subsidised ration every month,” Dave said.The arrested duo, he said, used a duplicate software and obtained a data bank of beneficiaries from an unknown source.
+
+“They used this data bank to create an electronic record every month to show that beneficiaries had obtained subsidised foodgrains when in reality they had not,” he said. Dave said that investigations were underway to find out the source of the fake software as well as the biometric data. Earlier, eight separate FIRs were lodged against as many fair price shop owners in the city following an investigation carried out by the district administration after some beneficiaries complained. The matter was then handed over to the Crime Branch. Police said that the two had been booked under various sections of the Indian Penal Code (IPC) including section 406, 409 (criminal breach of trust), 467, 468, 471 (forgery), as well as sections of the Information Technology Act and the Essential Commodities Act.
+
+A Gujarati newspaper Sandesh had broken news of a widespread scam in Gujarat’s Annapurna Yojana PDS alleging that a cracked version of the E-FPS software that was provided to fair-price shop owners had “leaked” the biometric data of 1.27 crore card holders. The report stated that the software was widely available for Rs. 15,000 and had resulted in a massive scam in the PDS.
+
+Given that the Aadhaar number is also required to be provided to the PDS system, this also results in a neat database of fingerprints that would work with Aadhaar, and any failures would be more likely to be due the frequent failures of Aadhaar validation accidentally protecting the Aadhaar holder by denying the hackers, as it denies legitimate holders, rather than the system being secure.
+
+The UIDAI has persisted in its absurd and ongoing denial that any breach short of biometrics being acquired from the Aadhaar database is not a security risk.
+
+This is not a breach of Aadhaar security. According to news report itself Surat police too has confirmed this. It appears a case of local collection of biometrics by the state PDS department, not biometric collection by UIDAI or Authentication by Aadhaar system.
+
+— Aadhaar (@UIDAI) February 4, 2018
+
+Even though the source of the biometrics leak is the PDS and not Aadhaar, one fails to see how this is not a huge security breach for Aadhaar, as the person would have the same fingers and thus same fingerprints when accessing Aadhaar as well. The UIDAI’s apparent lack of caution about persisting with this insecure method of authentication against mounting evidence of risks is a matter of concern. Biometric data is not really secret and it cannot be changed if breached. If it can be used to authenticate Aadhaar, the source of the data is irrelevant, as the system is vulnerable to it anyway.
+
+Several researchers and alert citizens have pointed out over and over that even without a system leak such as this one, biometrics can be very easy to steal or spoof. Government mandated linking of Aadhaar for a growing list of entities creates even more such additional databases that can be vulnerable to hacking, right from biometric attendance systems in offices (where the accounts department has your Aadhaar numbers) linked to your employee identification which is linked with your biometrics to provide access to any Aadhaar enrolment agent who slides plastic film over the fingerprint sensor used for taking Aadhaar impressions. The government expansion of Aadhaar without regard to safety has ensured multiple methods of easy access to Aadhaar biometrics without the need to hack the main Aadhaar biometric data. There is no way of ensuring the security of such systems.
+
+The reckless linking of Aadhaar with everything has contributed additional risk as well. The PDS system, even if hacked, would have limited damage to the stolen rations alone if it had operated independently. With another biometric access number conveniently provided with the hacked data, the Aadhaar holders of the leaked accounts continue to be at additional risk of other breaches related with Aadhaar, including theft of money from bank accounts, money laundering or other illegal activities being conducted in their name and more.
+
+The UIDAI has denied this repeatedly.
+
+Replay of stolen biometrics is no different from forging somebody’s signature. The law will deal with such case in the same manner. 2/2
+
+— Aadhaar (@UIDAI) February 4, 2018
+
+This, of course, is a lie, as the other scam from Gujarat shows easily.
+
+Aadhaar vulnerabilities are also making senior officers authorized to update Aadhaar data by the UIDAI, targets for identity theft, as shown in another scam from Gujarat , where the fingerprint data of nationalized bank officer Prashant Morvadiya was sold to Hiren Prajapati, 26 and Prashant Pradhan, 20, and they used it to illegally update Aadhaar details. Contrary to UIDAI’s claim that Aadhaar authentication happens only in live mode and thus can’t be spoofed, we have here evidence that not only could it be spoofed, it was easy enough to replicate that you could turn a senior officer’s fingerprint into a Rs. 6,000 product that could be used illegally.
+
+Please note, the people who actually sold the cracked version of the E-FPS software, as well as Prashant Morvadiya’s biometric data, like the people who sold the software to bypass UIDAI biometric checks in the Kanpur scam, are still at large. The list of vulnerabilities grows and kingpins remain at large.
+
+The UIDAI continues to live in denial, claiming that as long as Aadhaar biometrics are not breached, Aadhaar is secure.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

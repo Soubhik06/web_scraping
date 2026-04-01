@@ -1,0 +1,48 @@
+SUBREDDIT: r/india
+TITLE: Is anyone else getting botnet related SMSs from GOI?
+DATE: 2021-02-10
+SCORE: 20
+URL: https://www.reddit.com/r/india/comments/lgvmu6/is_anyone_else_getting_botnet_related_smss_from/
+
+--- POST TEXT ---
+
+Has anyone else been getting this SMS from GOI?
+
+"""
+As part of Cyber Swachhta Pakhwada, CERT-In GoI advises you to keep your digital devices bot free. Get bot removal tool at https://www.csk.gov.in
+"""
+
+Basically, advising to download some third party applications, to remove bots from computer.
+
+The csk.gov.in website linked to this says that "you have reached here, because your computer/system/device is probably infected by a bot malware".
+
+I find it weird because it came within 2 days after I recently started using Tor on my linux device.
+
+Based on some news reports, it seems to be done with the help of ISPs. I am sure, that this is either a mass SMS sent without actually any basis, or government assumes that someone using Tor must be having a compromised device.
+
+It's funny how government websites are using the language of scam websites, and says-"Your computer might be infected with a virus, install *this software to fix all problems.". They could be more transparent about how they know about it, and what's the criteria to decide it.
+
+I am personally not going to install any government suggested tools for sure, for obvious privacy concerns. But apart from that, there seems to be decent amount of work being done in this area. (Check the csk.gov.in/alerts.html )
+
+Edit: I am not worried that govt will catch me for using Tor. Actually, I was curious because of this news report: https://economictimes.indiatimes.com/tech/software/sarkari-bot-tool-takes-global-malware-to-the-cleaners/articleshow/62716203.cms
+
+That says :
+
+The center, which is run by Computer Emergency Response Team (CERT-In), monitors the flow of internet traffic across the country and sends notifications to internet service providers (ISP), who in turn alerts their users about possible malware in their phones or personal computers and guides them on steps to clean them.
+
+Which made me curious, what traffic patterns could they find suspicious.
+The only 2 I could think of were:
+1. Recently started usage of Tor.
+2. Bitcoin mining, which has a typical thumbprint (dow
+
+nload/upload ratio, and other ways to detect such traffic, that many cloud providers also use to detect crypto-mining)
+
+Edit 2:
+
+Even though, I wasn't worried about this particular SMS, it might be advisable to start keeping an eye.
+
+To check how serious things are getting in terms of internet privacy and state's moral policing, you might want to read this:
+
+https://in.news.yahoo.com/uttar-pradesh-police-immediate-intimation-171258493.html
+
+https://www.news18.com/news/india/up-govt-to-monitor-search-data-of-millions-of-internet-users-in-state-and-alert-porn-viewers-3430520.html

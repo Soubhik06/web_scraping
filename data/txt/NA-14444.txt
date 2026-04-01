@@ -1,0 +1,27 @@
+The Bombay High Court has asked the government for information on a report about an AI bot which was used to convert images of underage and adult women into fake nude pictures, news agency PTI reported . The court cited an article by the Hindustan Times on this, which had reported on findings by a Dutch cybersecurity firm called Sensity. The report suggested that more than 104,000 women had been targeted using this AI-bot as of July 2020. A poll on the geographic location of over 7,200 of the bot’s users revealed that around 2% its users were located in India and neighbouring countries. Sensity found that the bot received significant advertising via the Russian social media website VK.
+
+While hearing petitions against media trial in actor Sushant Singh Rajput’s death, the court reportedly asked Additional Solicitor General Anil Singh to get in touch with the Ministry of Information and Broadcasting to check about any “malice” in the report. Singh reportedly told a division bench of Justices Dipankar Datta and GS Kulkarni that he had read the report, and that appropriate action would be taken under the Information Technology Act.
+
+The report by Sensity uncovered an entire deepfake ecosystem — an AI bot, thousands of users, multiple channels — on the messaging platform Telegram. At the heart of this ecosystem is an artificial intelligence powered bot which allows users to photo-realistically “strip naked” clothed images of women. These manipulated images can then be shared in private or public channels beyond Telegram as part of public shaming or extortion-based attacks. The bot didn’t work on images of men, the report found.
+
+Deepfakes are images, videos, or audio files manipulated or edited by using artificial intelligence technologies. The results are often hyper-realistic. Experts have argued that deepfakes can be a big nuisance to democracies where they can act as an effective tool to spread misinformation. Deepfakes can also be used to create fake porn videos, and as a Microsoft employee recently put it, the target of such fake videos or images is exclusively women .
+
+Sensity found that approximately 104,852 women had been targeted using the AI-bot with their fake nude images shared publicly until July 2020. A “limited number” of those targeted also included underage women , the report said.
+
+How the bot works: It uses deep learning techniques to “strip” images of clothed women by synthetically generating a realistic approximation of their intimate body parts. Sensity found that the latest version of the software can be trained to select the clothes to be removed, mark the points representing the anatomical body parts, and synthesise those body parts in the final image. Users simply have to upload a photo of a target to the bot and they receive the processed image after a short generation process.
+
+More than 24,000 images were uploaded to the software until July 2020, but Sensity said that the actual number is likely much higher, given that the proportion of user-generated images that have not been publicly shared is unknown. 70% of targets are private individuals whose photos are either taken from social media or private material.
+
+Alarmingly, the bot dramatically increases accessibility to such tools as it an essentially free service to use, and works on smartphones and computers.
+
+Also, a survey conducted on the bot’s users’ main channel on Telegram revealed that around over 60% of users’ motivation to use the software was to target women they were familiar with, or knew personally. In contrast, about 16% of users indicated that they were using the bot to target celebrities.
+
+The bot’s surrounding ecosystem of seven affiliated Telegram channels had attracted a combined 103,585 members by the end of July 2020. While this figure does not account for the likelihood that many members are part of multiple channels, the ‘central hub’ channel alone attracted 45,615 unique members.
+
+Sensity said it disclosed all sensitive data discovered during the investigation to Telegram, VK, and relevant law enforcement authorities, but had not received a response from Telegram or VK at the time of the report’s publication.
+
+Also read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

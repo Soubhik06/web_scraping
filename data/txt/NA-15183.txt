@@ -1,0 +1,17 @@
+The professional social media site LinkedIn leaked 500 million users’ data by leaving it exposed for scrapers, who have now compiled a database with the stolen information, Cyber News reported . Hackers have reportedly released a batch of user data of 2 million users as evidence of the breach. The data is reportedly on sale for a four digit dollar number (which can range from Rs 75,000 to Rs 7.5 lakh).
+
+In a statement posted on its website, LinkedIn said:
+
+We have investigated an alleged set of LinkedIn data that has been posted for sale and have determined that it is actually an aggregation of data from a number of websites and companies. It does include publicly viewable member profile data that appears to have been scraped from LinkedIn. This was not a LinkedIn data breach, and no private member account data from LinkedIn was included in what we’ve been able to review.
+
+Any misuse of our members’ data, such as scraping, violates LinkedIn terms of service. When anyone tries to take member data and use it for purposes LinkedIn and our members haven’t agreed to, we work to stop them and hold them accountable.
+
+It is unclear if attackers actually have the number of records they claim to possess — in any case, it is interesting to note that hackers were able to work past the defences of a large company like LinkedIn to scrape this volume of data. Both the proven number of 2 million and the claimed number of 500 million are huge volumes that should have been stopped with rate limiters, or even better, with better privacy-by-default policies that would have prevented the disclosure of that information. The 500 million number could potentially represent around a third of LinkedIn’s userbase.
+
+LinkedIn was infamously breached in 2012, resulting in 6.5 million users’ passwords being stolen. In that case, Russian hacker Yevgeniy Nikulin was arrested and sentenced to over seven years in prison.
+
+Also read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

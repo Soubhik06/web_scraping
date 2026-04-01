@@ -1,0 +1,17 @@
+The Reserve Bank of India (RBI) has ordered a third-party forensic audit into the allegations that over 8.2 terabytes worth of sensitive user data was compromised from MobiKwik’s servers over the last few months. The Press Trust of India was the first to report the development that the RBI has ordered an immediate forensic audit of the company’s systems by a CERT-IN empanelled auditor and submit the report without any delay.
+
+The initial reports that user data from MobiKwik had been accessed by a hacker first came about towards the end of February this year, however it went under the radar. That is until this week, when a website created by the hacker to showcase the authenticity of the hack appeared on the darkweb. The website lets user check if their data, stored by MobiKwik, was leaked as part of the data dump. The database has since been pulled down from the website.
+
+According to the report, MobiKwik contacted CERT-IN on the issue, which in turn shared a data leak sample with the company. MobiKwik denied that this data leak sample belonged to them, per the report. However on March 1, MobiKwik told CERT-IN that on March 1 there was an unauthorised attempt to access its user-facing application programming interface which was subsequently scuttled. Unconvinced by the company’s statement, CERT-IN recoemmended that the RBI call for a forensic audit, the report said citing unnamed sources.
+
+Interestingly, it seems that MobiKwik was aware of security breach in February itself, prior to the first reports of the alleged breach. According to screenshots of a conversation between a senior executive at MobiKwik and Amazon Web Services (AWS) on February 25, a day before news of the breach was reported. The MobiKwik executive sought details from AWS on the logs for a S3 bucket it used which the company realised was being exploited by “some other person outside the organisation.”
+
+On Tuesday, in a statement MobiKwik said that it is entirely possible that users could have uploaded their information on multiple platforms. Therefore, it is “incorrect to suggest that the data available on the darkweb has been accessed from MobiKwik or any identified source.”
+
+“As soon this matter was reported, the company undertook a thorough investigation with the help of external security experts and did not find any evidence of a breach. The company is closely working with requisite authorities on this matter, and considering the seriousness of the allegations will get a third party to conduct a forensic data security audit.” — MobiKwik Spokesperson
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

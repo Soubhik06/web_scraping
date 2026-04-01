@@ -1,0 +1,73 @@
+Jules Polonetsky is the CEO of the Future of Privacy Forum (FPF), a nonprofit that convenes industry, civil society, academics, and regulators around emerging data protection and privacy questions. A former Chief Privacy Officer at AOL and DoubleClick, with earlier government experience, he has spent decades working at the intersection of technology, business practice, and regulation. Today, FPF operates with teams in Washington, Brussels, Singapore and New Delhi, with additional coverage across Africa and Latin America, and focuses on mapping how different jurisdictions approach privacy and AI, and on helping policymakers and regulators understand the real-world consequences of their choices.
+
+In this section of the interview, Medianama editor-in-chief, Nikhil Pahwa speaks with Jules Polonetsky about one of the most contested issues in AI governance — the right to erasure. If personal information posted on social media or available on the public web is scraped without consent, does that amount to a privacy violation? And if it does, what are regulators obligated to do about it?
+
+The discussion examined whether existing data protection laws — particularly the General Data Protection Regulation (GDPR) –render current Large Language Model (LLM) training practices unlawful, the technical feasibility of deleting personal data from trained models, and whether “suppression” of outputs is an adequate substitute for erasure. It also explores the political reality facing regulators where they must balance strict legal compliance against the perceived economic and social benefits of AI development.
+
+As Europe reinterprets its data protection framework, the United States moves toward sector-specific AI regulation, and countries like India struggle with foundational questions of privacy enforcement, this exchange lays bare a central tension in global AI policy — whether the law must bend to accommodate AI, or whether AI must adapt to the law.
+
+This section of the interview has been lightly edited for clarity and brevity. The full excerpts of the interview will be published soon.
+
+—————————————————————————————————————-
+
+Nikhil Pahwa: So how does AI change the right to say no? How does AI change the right to erasure? Erasure is foundational to data protection frameworks, but they can’t retrain, spend millions of dollars retraining frontier models every single time someone wants to withdraw their data because they’ve also scraped the data from the open web, which contains personal information.
+
+Jules Polonetsky: So again, we have choices to make here. Erasure has never been an absolute right, right? Sometimes companies need to keep data for tax purposes … If I’m a pharmacy lab, for instance, and I’m doing tests, I get accredited that my testing systems are right. I have obligations to keep data right there. Erasure has never been…I can’t go to my employer and say, “Erase all the data.” You know?
+
+Nikhil Pahwa: No, I’m talking about a consumer’s right to erase their, their data. So if my personal information is scraped from the public web, or from my website, that’s an exception. But the norm is that there are photographs that are available that people upload on their social media profiles, and they’ve been scraped. That’s personal data. So what about that?
+
+Jules Polonetsky: So, point one, erasure in different, you know, statutes around the world has never been 100% absolute. There are places where you have a very strong right to erasure. Sometimes it’s been limited. Now, that’s turned. Sometimes it might not be technically possible. So let’s turn to LLMs and training, where it’s clear that there are technical challenges to erasure rights.
+
+So let’s look at what’s happening in Europe. The European Data Protection Board has been providing different opinions that have said, okay, we understand that at this point, ’cause maybe erasure will be feasible at some point.
+
+But we understand that at this point, erasure is a complicated problem that has not been technically solved. You can’t go in and figure out which tokens to, to delete, and the retraining is complicated. And even the nature of the way LLMs generate information is so complicated that it’s not even clear what happens when you, if you erase Jules Polonetsky, what’s actually even going to happen? But it can generate information about Jules Polonetsky because of the knowledge system he has, right? Jules Polonetsky does not exist in an LLM, right? All sorts of tokens that in some circumstances end up saying Jules Polonetsky end up being, you know, generated based on, you know, context.
+
+So today, if we want training to exist, we’re obligated to provide some flexibility. Now, what we see countries doing is saying, ‘Well, okay, you have to suppress at least.’ So if somebody says, ‘I don’t like, I, I want to erase it.’ And you can’t erase, at least you have to ensure that the data does not continue to show up if somebody makes a query, you know, about Jules Polonetsky and it says he’s a terrible person and so on and so forth.
+
+And I say, ‘I have the right to, you know, object to that.’ That you’re able to prevent even though it’s perhaps still existing in that system. And again, does the data even exist in an LLM, right? It’s a complicated, strange question. It’s not a giant database of personal information. Just the whole nature of the way these windows exist. So are we comfortable with saying that the LLM should suppress the result?
+
+I think we’re also seeing different jurisdictions say, ‘What’s your right to scrape all this personal information in the first place, even if it’s made public?’ Right? In Europe, you don’t get an exception because it’s public. So can you avoid capturing personal information when you do the scanning? Can you avoid explicit personal information… and most of the LLMs right now are trying to, with challenges, but have done a lot of work to try to avoid scraping explicit personal information unless it’s a public figure or that sort of thing.
+
+So, these are the really interesting, I think, hard and important questions.
+
+Nikhil Pahwa : No, but the other thing is that there’s a privacy violation, which has already taken place because the scraping has been done without consent in any case. There is no purpose limitation, which applies to the scraping of this data in the first place, and there’s no consent. Effectively the GDPR has already been violated by this, but we don’t see any action on it.
+
+Jules Polonetsky: And you see the European Data Protection Board squeezing itself to allow interpretations that are supporting training as long as you make efforts to avoid explicitly scraping personal information of individuals. And most of the LLMs are working –
+
+Nikhil Pahwa: Are we seeing any kind of action on data that’s already been scraped without consent? You can solve a problem going forward, but the violation’s already taken place.
+
+Jules Polonetsky: I think we’ll see the regulators, at the end of the day, making the decision that these tools are of significant utility and what they will require going forward is a reasonable state-of-the-art of avoiding explicitly collecting personal information. And again, the question of whether these things even contain personal information after the scraping happens is a fairly, we held a couple of workshops with some of the, you know, academic researchers on the question of does an LLM actually have to…does the scraping contain personal information or is it simply learning and creating tokens that are capable of spitting out personal information? And this is still a bit of an open debate.
+
+Nikhil Pahwa: Would you agree that if personal information was scraped without consent, that’s a privacy violation?
+
+Jules Polonetsky: It certainly could be.
+
+Nikhil Pahwa: And do you agree that if there’s been a privacy violation, data protection commissioners need to act on it?
+
+Jules Polonetsky: If there’s been a privacy violation, data protection commissioners need to act on it. Certainly.
+
+Nikhil Pahwa: And do you see data protection, do you see privacy commissioners acting on it anywhere in the world?
+
+Jules Polonetsky: I see privacy commissioners being overwhelmed by the politics and the size of the consequences of these issues. The idea that they are the ones making this decision . I think for many, the biggest challenge they’ve ever faced. And to their credit, they’re not the legislator and they are seeing legislators, with eyes being reopened to try to figure out how to accommodate training. I mean, this is… the issues that have been raised here are complicated and are pressing policy makers to try to reset the balance and to say, ‘Yes, the law didn’t allow it, but you know what? It needs to and it should.’ But what are the limitations and protections we need to put around it? Because we do want… we don’t want to ban LLMs.
+
+I would agree that was right that under GDPR, the most sort of mature, detailed data protection, you know, regime that we’ve got in place, LLMs are illegal. You don’t have the basis to scrape, you don’t have purpose limitation, you don’t have deletion, you have sensitive data, right? And maybe I can argue that the legitimate interest is, you know, a basis.
+
+So frankly, just to step back, in Europe, I’m allowed to scrape the public data, if I let you opt out. But I have to do a balancing test and I have to show that the purpose is limited. But sensitive data, which is also often the case here, can only be done on a consent basis. And so that is probably the strongest. These other places, you know, we can have a reasonable question as to whether or not it really violates GDPR.
+
+But the place where it clearly is, is a block on sensitive data, right? Article Nine, GDPR, express consent. Clearly all the models have been trained on sensitive data as well. And so this is the main piece that GDPR is likely to change because otherwise, LLMs are illegal. In the US public data is public. You, you don’t have these rights, although state laws are starting to put, you know, these rules in place. And I think for India, the real complicated questions are gonna be, is it feasible that the LLMs are de-identifying the data in their scraping and analysis? They are all now doing much more complicated work to try to avoid explicit personal information, and to immediately, if they are collecting it, to immediately de-identify it, so on and so forth. But what is the identification under the data protection law? We don’t have, I think, a long enough history to understand how it will be interpreted and so I…
+
+Nikhil Pahwa: You know, in case of India, the data protection law is really not protecting citizens’ data. So let’s not even go there. I’m talking more about what we’re seeing globally, because our law is a mess. It’s, I mean, it’s a surveillance enabling law rather than the data protection law.
+
+Jules Polonetsky: So global regulators have been making the social decision or are pushing it to legislators who are making the social decision that they wanna adjust the balance because they want the benefits of AI.
+
+Now here’s what’s happening in the US which I think is quite interesting because I think the narrative that is most visible is that we don’t wanna regulate AI. But that’s actually not the case. The politics of regulating AI are very rapidly changing. So although the White House is pushing very hard, don’t regulate AI, the states, many in Congress are already seeing political pressure. People who don’t wanna be living near data centers, energy costs. There are, we’re tracking 40 bills in 40 different states that are seeking to ban data-driven pricing because of the concerns that companies are bouncing up and down the prices when you visit a site based on all kinds of information about you. And this really is creating a strong reaction.
+
+The economy’s a little bit, you know, although the stock market is, is, is good and the big companies are making, you know, lots of money, the job market is not so great. The mayor of New York went on an affordability agenda. Trump is getting a lot of pressure that, you know, he’s not done anything about affordability, you know, inflation.
+
+And so the politics of every time a company does layoffs now, whether it’s AI related or just bad business, they say it’s AI related. So the politics change. And then every time we read a story about a child being, you know, hurt because of a chatbot or committing suicide or self-harm or so on and so forth. So we are seeing a very fast move towards regulating AI in the US despite this political narrative. New York and California have done, not super strict but laws specifically for foundation models. We have dozens and dozens of chatbot laws coming very quickly. We have the data-driven pricing, the ones that I mentioned. We have restrictions on location data. So, as this, as the countries around the world, so as Europe moves, “Oh, we have to be more flexible on GDPR,” as, you know, India and other jurisdictions say, “Oh, we don’t wanna be too regulatory on AI,” the US is starting to already come to the other end of that cycle and moving to do sector issue, issue specific, I agree. Not, we have one, only one state that did a comprehensive AI regulation, Colorado, but moving very quickly to regulate all the specific areas where they see issues. And then also have some general rules, transparency and other requirements, for the foundation models.
+
+Also read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

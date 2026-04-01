@@ -1,0 +1,29 @@
+The Department of Telecommunications (DoT) has issued additional instructions for know your customer (KYC) verification of business users on May 20. These additional instructions state that in cases where end users are not identifiable, such as SIMs obtained for research and development (R&D) purposes and testing, the requirement of end user KYC is optional. The authority mentions that for this category of customers, the connections must be issued directly by telecom companiesâ employees.
+
+Telecom companies can only issue 100 such connections to a business at a given time. Telcos are required to obtain an undertaking from the business detailing the use case scenarios, having no end users of the business connections. They are also required to ensure that the scenarios for which the connections are required are realistic and must monitor that the connections are only being used for the purpose for which they had been obtained. Such connections will have limited call/SMS/data facility with a definite validity period of one year at a time (maximum), depending on the use case scenario for which they are intended.
+
+Re-sale of such SIM cards is not permitted and telecom companies are expected to ensure that businesses are taking these connections for their own use and not for use by any third-party.
+
+These updated instructions come after the DoT discontinued the âbulk connectionâ category and replaced it with âbusiness connectionsâ in August last year . To issue business connections, telecom companies were required to obtain the following informationâ
+
+The businesses were also required to provide telecom companies with a list of end-users who would be using those business connections. This list would include the end userâs name, designation, proof of identity (PoI) document type, PoI document number, and address. The SIMs issued to businesses would be activated after the end users undergo a KYC process and the demographic information of the end user obtained during said KYC process matches the information provided by the business. Further, the DoT said that in case of a change in end users, the businesses must inform their telecom company about the change and the new end-user must mandatorily re-verify the connection under their name within 7 days.
+
+In case, there are multiple end-users of a business connection,  the business must take responsibility that the connections are only being used for their intended purpose. However, as per an ET report , the telecom industry was facing issues with implementing these instructions since in certain instances, the end users were not identifiable. The updated instructions are probably meant to clarify what telecom companies are expected to do in situations where end users cannot be identified.
+
+The KYC measures introduced in August were the ministryâs attempt to curb cyber fraud. Before the release of these instructions, Minister of Communications Ashwini Vaishnaw had said that the discontinuation of bulk connections would reduce the â20 percent misuseâ of SIMs given to companies or other entities for big events.
+
+The DoT has been holding companies accountable for non-compliance with these KYC requirements. In December, the authority asked Vodafone Idea to strictly comply with the rules and disconnect all business connections that were activated without the KYC process since December 1, 2023, which was the deadline for implementing the customer verification rules, ET reported .
+
+In 2022, the then chairman of the Telecom Regulatory Authority of India (TRAI) PD Vaghela had said that the regulator had spoken about the need for a unified KYC system for all telecom companies, as per an ET report . He had mentioned that this unified KYC system would be proposed in TRAIâs consultation paper on caller IDs . However, when the consultation paper came out, there was no mention of a unified KYC, instead the regulator suggested that the caller ID system (which would identify anyone making a call by their name) would rely on the details presented in customer acquisition forms (CAF).
+
+While the idea didnât eventually end up going anywhere, it does have some merit. A unified KYC system, especially in the context of business connections, could have proved to be an effective solution to spam and cyber fraud. For instance, if such a unified KYC database were to exist and a business indulged in fraudulent activities or misuse of their connections, they could be blacklisted in the centralized database, preventing them from obtaining new connections from any telecom operator. It could also facilitate the sharing of information among telecom operators, law enforcement agencies, and regulatory bodies, enabling better coordination in combating cyber fraud and misuse.
+
+The merit of a unified KYC for business connections becomes pertinent when we consider that identifying telemarketers (who are one of the typical users of bulk connections) was one of the demands that stakeholders had made during TRAIâs consultation on caller IDs. âTelemarketers should have the requirement of providing information reflecting the principal entity that they are calling on behalf of as per the contractual agreement,â Deepstrat had suggested. Such a unified database for telemarketers’ details could be feasible TRAI already has a system in place for registering companies that send bulk messages.
+
+Also read:
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,33 @@
+The United States House of Representatives has banned Meta-owned WhatsApp on all devices used by representatives and their staff. “The Office of Cybersecurity has deemed WhatsApp a high risk to users due to the lack of transparency in how it protects user data, the absence of stored data encryption, and the potential security risks involved with its use,” according to the notice sent on June 23rd.
+
+Andy Stone, the Communications Director at Meta, denied the allegations from the cybersecurity team of the House. He reiterated that messages on WhatsApp are end-to-end encrypted. “This [WhatsApp] is a higher level of security than most of the apps on the Chief Administrative Officer’s (CAO’s) approved list that do not offer that protection,” he added. He was referring to the list of alternatives recommended by the House, including Microsoft’s Teams platform, Amazon’s Wickr, Signal, Apple’s iMessage, and FaceTime.
+
+In an e-mail exchange with MediaNama, Meta’s spokesperson disagreed with the Chief Administrative Officer’s characterization in the “strongest possible terms.” The representative acknowledged that many members of the House use WhatsApp and the company is looking forward to ensuring the members of the house can Senate, their counterpart. The Senate hasn’t issued any statements or notices at the time of writing this report.
+
+U.S. officials have issued several notices either banning certain applications or directing staff to use alternatives. For example, the Chief Administrative Officer issued a partial ban on the use of China-based DeepSeek , ByteDance-owned TikTok , and multimedia editing tools like CapCut and Hypic, according to notices obtained by news outlets .
+
+In 2023, the House restricted its staff to using a paid version of ChatGPT instead of the free version. The office also directed staff not to use Microsoft’s Copilot, which also relies on ChatGPT’s AI models.
+
+In May, U.S. security officials used Signal, a competitor to WhatsApp, to communicate planned attacks on Yemen. The news gained attention after Mike Waltz, the national security adviser, added The Atlantic journalist Jeffrey Goldberg to the private group. However, in March, the Pentagon warned its employees against using Signal due to a “technical vulnerability.”
+
+In a long-running case, WhatsApp filed a lawsuit against Israel-based spyware Pegasus for spying on several individuals. In May 2025, the makers of Pegasus were fined $167 million for hacking about 1,400 accounts. The spyware is allegedly used by several governments, including India’s. The case remains ongoing in the Supreme Court of India.
+
+Recent research uncovered tactics used by Meta-owned Facebook, Instagram, and several Yandex apps, including Maps and Browser, to track users. The researchers identified this loophole on Android devices but found no similar evidence on iOS devices. They did not dismiss the possibility of exploitation on other operating systems, including smart TV platforms.
+
+The key finding revealed that Meta’s pixel tracker and Yandex’s Metrica scripts misused browser metadata, including cookies and commands, by sending data packets to localhost. These trackers are simple JavaScripts that connect native apps like Instagram and WhatsApp to the user’s browser through localhost sockets.
+
+The data collected from browsers, such as cookies, can later match user profiles either on native apps or with the Android Advertising ID (AAID), a unique, resettable ad ID linked to the user for analytics. This means the data collected is not anonymized; it can be configured to identify the user’s digital identity.
+
+This practice allows native apps using these tactics to serve personalized ads, violating user privacy. After researchers flagged the violation, both Meta and Yandex reportedly stopped collecting unauthorized data.
+
+In addition, WhatsApp announced plans to introduce ads in its Status section. Using a feature called Accounts Center , WhatsApp can serve ads to users based on content they consume on other Meta apps like Instagram and Facebook, if users link their accounts through a single login, such as a phone number. This setup is similar to linking multiple Meta accounts in one Accounts Center.
+
+In the context of these events, the House of Representatives’ notice banning WhatsApp usage highlights concerns about the app’s security, user data privacy, and unconsented data flows between Meta platforms.
+
+Note: The third paragraph was added and edited at 5:26 p.m. on June 24, 2025, to include statements from Meta’s spokesperson.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,23 @@
+The European Parliament has voted to approve the interconnection of border security databases, towards the creation of a common identity repository (CIR) of all non-EU citizens, which will contain biometric and biographical information. The interlinking of databases will allow the police and border guards to identify individuals through a shared biometric matching service, which will use fingerprints and facial images to search across existing information systems, the European Commission said in a statement .
+
+The primary purpose of these changes, it claims, is to help better detect identity fraud. The CIR is expected to be among the largest biometric databases in the world, although it’s likely to be dwarfed by India’s Aadhaar database.
+
+The components of the new system include :
+
+The European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA) is expected to start developing and rolling-out the technical components for the relevant IT systems, including the Schengen Information System (SIS), Visa Information System (VIS), the European Criminal Records Information System (ECRIS-TCN), the EU Entry/Exit System (EES) and the European Travel Information and Authorisation System (ETIAS). The work is expected to be complete by 2023, the EU said in the statement.
+
+The system expects to have rules for police officers to query the identity data of third-country nationals in the common identity repository to identify a person during a police check, as well as rules for checking non-law-enforcement databases (such as the Entry/Exit System, Eurodac and the future ETIAS) where necessary to prevent, investigate, detect or prosecute terrorism and other serious criminal offences.
+
+The statement says that access and purpose limitation rules apply to the EU’s information systems, and this therefore ensures that fundamental rights remain protected. It adds that the individual systems will not be interconnected, and each system will retain its specific purpose limitation, access and data retention rules. “The proposed measures will also not lead to an increase in the collection of new data.”
+
+The usage of biometrics is problematic here, just as it is in case of India’s Aadhaar.
+
+Firstly, biometric matching is probabilistic and hence has an inexact outcome. This can lead to the generation of false positives and false negatives . Secondly, the prevalence of a large biometrics database/repository is the existence of a major honeypot: and once people are compromised, because their biometrics are permanent, they’re compromised forever.
+
+Additionally, the linking of databases isn’t necessary when data is available and accessible from across databases on a single screen. It has the same effect as being a single databases, and lends itself to the creation of a panopticon.
+
+Additional reading:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,17 @@
+SUBREDDIT: r/india
+TITLE: I would not recommend The Souled Store: security flaws
+DATE: 2022-06-28
+SCORE: 52
+URL: https://www.reddit.com/r/india/comments/vmkvxd/i_would_not_recommend_the_souled_store_security/
+
+--- POST TEXT ---
+
+I occasionally used to shop from TSS because of their cool collection, but after logging in after a while, I saw someone else’s credit card details saved under my account. I never save my own card details on any portal.
+
+I’ve never ever shared my login info with someone else nor did I know the person whose details were saved. Moreover it was a credit card that popped up, something I never use.
+
+Seeing someone else’s credit card pop up under my saved cards prompted me to mail their team about it. Unfortunately you can’t delete your account there, else I would have done that first. I got no reasonable or satisfactory response, and ultimately thought the best I could do was de link the souled store auth from my linked gmail account.
+
+Now this could have been a phishing attempt, where if I clicked on the “remove card details” button something would have happened. Or this might be their engineers’ fault for some poor chap’s credit card showing up in someone else’s account, which could happen to my details tomorrow.
+
+But I’m pretty stringent about payment details being compromised, so I won’t suggest shopping there anymore even though they have amazing stuff. Or at least shop without saving any details, preferably with a guest account.

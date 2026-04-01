@@ -1,0 +1,45 @@
+This June, MediaNama held an open house discussion on Securing Online Data, supported by Microsoft and Akamai. This is Part 2 of our coverage of the discussion, which looks into how ransomwares attack users and some Cyber War stories shared by attendees during our discussion. We have purposely not identified speakers for their safety and anonymity. Here is Part 1 of our discussion which looks into emerging cyber threats in India .
+
+Important note: We’ve anonymised some information in the War Stories in order to protect the identities of those who told them or the companies they spoke about. Please note that the photographs in this post are not necessarily representative of those who told the war stories.
+
+Bruno Goveas, Director, (Security) Sales at Akamai said that sometimes cyber breaches happen due to unintentional user behaviour.  “Even in case of a sophisticated user, you know these hackers are really smart, they know I use my phone. These hackers place malicious links in place where you know I click, and I suddenly clicked on a malware link, and I have installed some malware by mistake, that’s one thing to worry about. ”
+
+“Despite secure protocols like HTTPS in place, attacks happen via the web. That’s where the world is heading to. We already have “secure” systems, why can’t we protect systems with just these protocols? The biggest challenge now online is credential abuse. A lot of insider phishing attacks happens via an email. When you go to a site, whose DNS records, are not secure, they just get directed to another IP, and you get a page which looks same, and you click on that link (received via mail) and then you get compromised. But there are inbuilt email defenders now which can identify this.”
+
+“In addition to your IT teams and a cyber security infrastructure, you need automated systems, that give you the intelligence to act in real-time, because the web based type of attacks happen on a real-time basis. Other ways hackers try to exploit systems are using basic hacks–wherein users forget to change the default admin/admin root password.”
+
+A B2B company providing last mile logistics to enterprises shared an instance where their systems were taken over by a Ransomware. The company paid their ransom in bitcoins, but their attacker did not provide the decryption keys as promised :
+
+“This happened 5 months ago roughly. The tech stack (of the company) is on the cloud server but the finance management (like the ERP system and Tally) was run on a local machine or a local server. The local network also connects many other machines. It had its own hard drive, and an external hard drive which was also used as a backup. We were infected by 7Legion-Ransomware. We are still not sure (about) how we got infected. Most likely the cause would have been via email. We dropped in a note (an email) to the email address that was mentioned in the malware. So basically the ransomware encrypted all out files with a 256-bitt encryptor, and the desktop wallpaper said that if I want to recover my data, I need to drop in a mail to them. And their email address was hosted on a temporary domain. The attack encrypted most of our financial data, and the attack also happened right before our fiscal year was ending.”
+
+The logistics startup even tried negotiating ransom amount before transferring it to the attacker :
+
+“The attacker replied asking roughly $2000 worth [in] bitcoins. We tried to negotiate and bring it down to $1000. We did tell them that we are a small company and that we won’t be able to afford that much. We figured from the email exchanges, that the attacker was based in some European country. Then we purchased bitcoins and transferred it to the attacker. And in the end, the person did not give us the encryption key. The person then replied asking for more money, [saying] only then the key would be provided. So at that time of point, we obviously did lose some data and recover a very tiny part of it (via backups), but then we decided not deal with the attacker anymore.
+
+Manish Tiwari, Chief (Info.) Security Officer, Microsoft , spoke about how one Microsoft’s top clients lost 100 TB worth data to a ransomware attack :
+
+“No names to be taken: an HR firm, but this is an organisation that lost almost 100 TB of its data. And I get a call at 10 in the night, frantic, from the client saying ‘I have lost my data, it’s encrypted, close to 100 TB on all servers.’ The sad part is that even their backup servers were a part of the same infrastructure. Now it doesn’t matter if it’s a 10 people firm or a 1000 people firm. The bread and butter of a firm is its data, and data which is built close to probably over a decade. It’s all gone. And there is no guarantee that you pay your bitcoin ransom and expect to get the decryption keys from your attackers.’
+
+An investor shared a story on how a company lost most critical operational data to a ransomware attack :
+
+“A six people company which we were looking at, they were developing an Artificial Intelligence (AI) based messaging app to recommend products to users. They were training their algorithms using these user chats–that’s the most important set of data they had. One fine day their system gets taken over by a ransomware, files encrypted. The attacker was requesting bitcoins in ransomware. After paying the ransom amount, nothing came out of it, and all the hard work was lost. Three months of effort– acquiring consumers, creating chat data, all machine learning points were lost right there.”
+
+A cybersecurity provider based in Bangalore shares a war story from one of its clients wherein one of the attacker placed a link in the ransomware explaining to his/her victim how to use Bitcoins:
+
+“One was a customer,  a small company with 15 machines, they got infected by a malware in a single machine, which later spread to rest of the network. And this company too had a wallpaper flashing on the desktop screen requesting bitcoins in ransom. The interesting thing is that the ransomware even provided a link explaining what bitcoins are and it even had a help desk to help you pay them (the attacker) by bitcoins.
+
+“The second story I have to share is about an MD of a cybersecurity firm . He was shopping for his daughter who is in the US, using Amazon, and half an hour later he got an email, apparently from Amazon coming to his inbox. But even though the person was an MD of a cybersecurity software development firm, he ended up clicking on the malicious email, which appeared to be sent from Amazon, but was actually a ransomware link..He showed me the mail…it looks perfectly like an Amazon mail. It looked perfectly legit.”
+
+Vinayak Hegde , an independent cyber security consultant shares some war stories from his career as a security consultant :
+
+“I was helping a client build a data center outside of India and on a Friday we told our network to open a couple of ports, so that we can configure the server. And once these ports were open, the company’s CFO gets a mail from somebody outside the company’s network, who is getting spammed, saying that the spam mails were coming from addresses within the company’s domain. The spam mails are outgoing from the CFO’s email. I then took a look at the mail, and this looks something thats generated from the IT team’s end. After I went and logged into the system to check the logs, I found that somebody is kind of configuring an EggDropp IRC client for gaining access to command and control server. And this is obviously an attacker, doing his stuff live, and is sitting on the other end of the network, and he too was checking logs and understands that I’m looking right at him, using the same time-logs. So we are basically staring at each other via command language.
+
+“Five minutes later he was able to change the binary database and gain access to the logs. I immediately told the network operation team to shutdown and clean format the system. And this hacker seems to have done his work over a weekend,  scanning the networks and figuring out a way to get in and then installing and forwarding spam.”
+
+Hegde talks about the risks of not maintaining the integrity of existing backups in a company’ s server :
+
+“Another organisation I know, who is making more than $100 million in revenues, they wanted to move out of the datacenter into the cloud, and the first thing we wanted to do was move their local database into the new cloud database. That’s when we found that their backups do not restore. And this was a marketing automation company, one of the largest, and this was all the backup data that has been saved for over 20 years. The CTO ended firing a couple of people, based on the incident.”
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

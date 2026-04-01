@@ -1,0 +1,26 @@
+SUBREDDIT: r/Scams
+TITLE: A very serious Scam in the name of Kuwait Indian Embassy
+DATE: 2021-06-02
+SCORE: 15
+URL: https://www.reddit.com/r/Scams/comments/nqrfgz/a_very_serious_scam_in_the_name_of_kuwait_indian/
+
+--- POST TEXT ---
+
+My Indian friend (let's call him Mike) who is staying in Kuwait got a call from a landline number explaining themself as a Kuwait Indian Embassy staff. He googled the official contact number of the embassy and found its the exact same number.
+
+The caller mentioned the ENTIRE Data of Mike including his Indian Aadhar number, passport details, visa details, etc. The caller then said there is some documentation issue and that Mike needs to fix it asap. He then mentioned Mike will have to send some money as the procedure fee. 
+
+The caller was very convincing as they had the whole data and as the call was from the legit embassy's contact number. Still, Mike had a slight doubt as the caller said the money need to be sent in cash through Western Union, so he said he doesn't have the required money right now instead have the money in the Indian account and said due to various reasons he can't sent through Western union.
+
+Then the caller said Mike can sent the money by means of cryptocurrency. That's when Mike was 100% sure it's a scam. So he disconnected the call.
+
+If they hadn't mentioned crypto-currency as a means of fee transfer, Mike would have lost the money.
+
+I have many questions
+
+1) How could someone spoof/imitate a landline number ? ( I have heard of voip services on mobile numbers but on a landline number ??? )
+
+2) They did ask Mike to setup AnyDesk (remote access) software for their assistance.( But they didn't do anything suspicious through AnyDesk.) 
+Is there any way we could trace the scammer through the AnyDesk logs ? They would probably be using Proxy/vpn, but still.
+
+3) How could we identify/prevent such scams even when the contact number looks legit ?

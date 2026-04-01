@@ -1,0 +1,31 @@
+You can access the proposed amendment here: Draft Telecom Commercial Communications Customer Preference (TCCCPR) Third Amendment, 2026
+
+India’s telecom regulator wants to stop call management apps like Truecaller from blocking, filtering, tagging, or restricting calls from designated commercial number series, 140 (promotional) and 1600 (transactional). MediaNama sent Truecaller a set of questions on the proposed amendment and the company declined to comment on this.
+
+Apps that do not comply risk losing Section 79 safe harbour under the Information Technology (IT) Act, the legal protection that shields platforms from liability for third-party content.
+
+The Telecom Regulatory Authority of India (TRAI) released the draft third amendment to the Telecom Commercial Communications Customer Preference Regulations (TCCCPR) on March 13, 2026, with public comments open until April 12 and counter-comments are due by April 27.
+
+Key takeaways :
+
+What this means for users : Users relying on Truecaller to block or tag 140 and 1600 series calls will lose that filtering. The intended trade-off is that spam reports would be routed to TRAIâs enforcement system, potentially enabling telecom operators to take action against spammers.
+
+What this means for Truecaller : Blocking and tagging commercial calls from these series is central to Truecaller’s product. The proposal also reverses what Truecaller has publicly argued for. The company had urged TRAI to integrate third-party apps as partners in spam detection.
+
+At TRAI’s December 2024 open house , Truecaller’s Public Affairs Head Seema Jindal said spam intelligence should not be confined to one ecosystem, arguing that ‘confining that information to one ecosystem is not serving any purpose,’ and called for telco-app integration to address fraud and spam collectively.
+
+In its October 2024 consultation comments , Truecaller urged TRAI to allow telcos to work with third-party apps for spam detection. TRAIâs proposal differs from the approach suggested by Truecaller. The regulator has also previously flagged that Truecaller’s crowd-sourced spam data is sometimes unreliable .
+
+The jurisdiction question : TRAI’s functions under Section 11 of the TRAI Act are limited to regulating licensed service providers. Truecaller is not a licensed telecom service provider. It operates as an internet application, placing it outside TRAI’s direct regulatory jurisdiction and under Ministry of Electronics and Information Technology’s (MeitY) purview instead.
+
+Software Freedom Law Center ( SFLC ) and others have previously told TRAI that âit does not have the requisite power to regulate OTT service providers.â
+
+TRAIâs proposed enforcement mechanism does not directly regulate Truecaller as a telecom entity. Instead, it creates obligations through TCCCPR and uses the IT Actâs intermediary liability framework, specifically Rule 7 of the IT Rules, 2021, as the enforcement lever, effectively asking MeitYâs framework to do the work TRAI cannot do itself.
+
+MediaNama’s questions to Truecaller :
+
+Also read :
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

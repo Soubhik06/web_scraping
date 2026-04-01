@@ -1,0 +1,1263 @@
+By Barrie Sander
+
+Over the course of the past decade, anxieties about the decay of democratic processes around the world have proliferated. 1 Rising concerns about democratic degradation have coincided with a shift in perceptions concerning the democratizing potential of cyberspace. Once celebrated as a boon to democracy, the idealism that initially accompanied the emergence of cyberspace has given way to a more critical climate in which the exercise of both State and private power within the cyber domain is subject to increasing levels of scrutiny. 2 In this context, particular concerns have been raised about the prospect of both State and non-State actors utilizing cyberspace to meddle in the electoral processes of other States. The practice of election meddling is nothing new. According to one study, the United States (US) and the Soviet Union/Russia intervened in “one of every nine competitive national level executive elections between 1946 and 2000”. 3 In recent years, however, the growing dependence of societies on cyber technologies and the kinetic rise of social media platforms have transformed the information ecosystem, generating heightened and increasingly diverse opportunities for election meddling around the world. 4
+
+Although the threat posed by cyber election meddling has existed for years, it was only in the aftermath of the 2016 US presidential election that the issue garnered worldwide attention. In a report published by the US intelligence community in January 2017, the Central Intelligence Agency (CIA), the Federal Bureau of Investigation and the National Security Agency concluded with “high confidence” that Russian President Vladimir Putin had ordered “an influence campaign in 2016 aimed at the US presidential election, the consistent goals of which were to undermine public faith in the US democratic process, denigrate Secretary Clinton, and harm her electability and potential presidency”. 5 Described as “the political equivalent of 9/11” by former CIA Acting Director Michael Moore, 6 Russia’s cyber influence operation generated significant alarm amongst political leaders around the world, many of whom have since scrambled to guard against similar operations targeting their own political systems. 7
+
+The Russian meddling campaign was particularly striking because it relied almost entirely on the weaponization of information. This type of meddling campaign has typically been referred to as an “influence operation”—a term which may broadly be defined as the “deployment of resources for cognitive ends that foster or change a targeted audience’s behavior”. 8 The contemporary technological landscape is particularly conducive to influence operations. 9 Cyberspace is an enabling environment that allows actors to transmit information to large audiences at low cost, near instantaneously, through multiple distribution points, across borders and with heightened opportunities for anonymity. 10 In addition, the increasing quantity of personal information stored online, as well as the trail of “digital breadcrumbs” that are deposited unwittingly as a result of an individual’s online and offline activities, 11 constitute a treasure trove of data that can be exploited for the purposes of launching influence operations.
+
+Given the growing prevalence of cyber influence operations on elections, the question arises as to how States might counter hostile operations launched by their adversaries. Reflecting on this question, a distinction may be drawn between three regulatory relationships: first, the relationship between the target State and the foreign State that conducts or is in some way connected to non-State actors that conduct the hostile cyber influence operation; second, the relationship between the target State and the private platforms that act as conduits for information to spread online; and third, the relationship between the private platforms and their users, who share information online. This article focuses on the first relationship, leaving the other two as an avenue for future research. More specifically, this article examines the different options available under international law for holding States responsible for cyber influence operations on the elections of other States. To this end, the article proceeds in three parts.
+
+The article begins by elaborating a typology of different cyber election meddling techniques (Part II). The purpose of the typology is twofold: first, to distinguish between cyber tampering operations , which involve disrupting, destroying or altering computer systems or information resident in them, and cyber influence operations , which entail the deployment of resources to alter the behaviour of a targeted audience; and second, to specify the different types of cyber influence operations that form the focus of this article, namely doxing operations , which involve the exfiltration and leaking of non-public information, and information operations , which involve the deliberate use of newly-created or publicly available information to threaten, confuse, or mislead a target audience.
+
+The article then turns to identify different paradigms of international law that may be relied upon to hold States responsible for cyber influence operations on elections (Part III). Three paradigms are identified in particular—the general public international law paradigm, the human rights paradigm, and the State liability paradigm. The article illuminates how each paradigm addresses cyber influence operations in distinct ways—both enabling and restricting the options available to States for responding to such operations—and identifies areas of legal uncertainty and contestation within each paradigm.
+
+By way of conclusion, the article considers why States have so far avoided the vocabulary of international law in formulating their responses to cyber influence operations and offers a suggestion as to where international law may have a more central role to play in this context in the future—namely, in restricting how States may regulate the private platforms that act as enablers of cyber influence operations in practice, as well as helping to define the responsibilities of private platforms towards their users (Part IV).
+
+Much of the popular debate surrounding cyber election meddling has neglected to differentiate the various techniques that have been utilised for such campaigns in practice. In this regard, although it is not uncommon for meddling campaigns to rely upon multiple techniques—and for the lines between different techniques to become blurred—it remains useful for analytical purposes to conceptually distinguish them. With this in mind, this section elaborates a typology of cyber election meddling techniques, accompanied by examples of their use. 12
+
+One of the most serious forms of cyber election meddling entails tampering with a State’s election infrastructure. At least two types of cyber tampering operations may be distinguished 13 : first, tampering with voting machines, for example for the purpose of altering vote tallies; and second, tampering with voter registration databases, for example to block voters from casting their votes.
+
+A famous example of tampering with voting machines occurred during South Africa’s landmark democratic elections in 1994 when an unidentified hacker managed to remotely access the Election Commission computer in order to boost the votes of three right-wing parties. 14 When the hack was discovered, the announcement of the election results had to be delayed by two days in order to accommodate changing the counting method from electronic to manual.
+
+Tampering with voter registration databases can also threaten the integrity of an election, for instance if a distributed denial of service (DDoS) attack were to cause computer systems to crash in the run up to an election or information on a database were to be altered with the aim of facilitating fraudulent voting. 15 Allegations of the former were recently made in a report issued by the UK’s House of Commons Public Accounts Select Committee, which claimed that a voter registration site that crashed in the run-up to the UK’s “Brexit” referendum in 2016 may have been caused by a foreign DDoS attack. 16
+
+What distinguishes these techniques is their disruptive and destructive qualities. In other words, cyber tampering operations are “cyber attacks”—defined as “deliberate actions to alter, disrupt, deceive, degrade, or destroy computer systems or networks or the information and/or programs resident in or transiting these systems or networks”. 17
+
+A second set of cyber meddling techniques may be grouped under the heading of “cyber influence operations”. According to Duncan Hollis, an “influence operation” may be defined as “a deployment of resources for cognitive ends that foster or change a targeted audience’s behavior”. 18 Influence operations can be conducted by State or non-State actors and typically vary in terms of their size, purpose, transparency and effects. 19
+
+Importantly, the targets of influence operations are “the adversary’s perceptions, which reside in the cognitive dimension of the information environment”. 20 As such, influence operations generally seek to take advantage of human cognitive and emotional biases—for example, confirmation bias, which refers to the tendency of individuals to seek and interpret new information consistently with their existing attitudes and beliefs whilst at the same time avoiding information that contradicts them. 21
+
+Many influence operations are unproblematic. As Hollis has observed 22 :
+
+After all, so many of our daily interactions qualify as [influence operations]. Our families and friends regularly deploy resources to get us to adopt or change our views, social norms, or political beliefs. Companies expend significant resources on marketing to convince us to buy their products and services. And states deploy diplomacy, speeches, and other forms of strategic communication to affect the behavior of adversaries and allies. […] Simply put, [influence operations] are a regular—if often unacknowledged—feature of human relations.
+
+At the same time, it is evident that some influence operations are both problematic and unambiguously illegal. For instance, an influence operation that directly and publicly incites the commission of genocide constitutes a crime under international law. 23 And yet, one of the challenges that States have had to confront in responding to influence operations, particularly in the cyber domain, is the difficulty of defining the line between influence operations that should be deemed problematic and unlawful on the one hand and those that should be considered an acceptable part of human interaction on the other. 24
+
+In the electoral context, foreign actors have deployed two types of cyber influence operations for the purpose of meddling in the electoral processes of other States: first, the hacking and leaking of non-public information into the public domain for the purpose of harming an individual, organisation, or State—a practice known as “doxing”; and second, the deliberate use of newly-created or publicly available information to threaten, confuse, or mislead a target audience—a practice referred to here under the label of “information operations”. 25 The remainder of this section explores each of these influence operations in greater detail.
+
+“Doxing” is the practice of gaining unauthorized access to a computer system or digital service such as a social media or email account, exfiltrating non-public data, and subsequently leaking the data to the public. 26 Chris Tenove has helpfully distinguished a number of different types of doxing operations: 27 a “public interest hack”, 28 which constitutes a form of whistleblowing that exposes wrongdoing to promote the public good; a “strategic hack”, which entails leaking materials that are “of interest to the public, but which may be pursued to advance the interests of the leaker and not necessarily the interests of the public”; and a “tainted leak”, 29 which entails the deliberate inclusion of false information within a larger set of genuine confidential data that is leaked to the public. As this typology indicates, not all doxing operations are necessarily problematic, although the precise dividing line between operations that are in as opposed to against the public interest is not always simple to identify in practice. 30
+
+In the electoral context, doxing operations have become increasingly common. Most prominently, two strategic hacks occurred during the 2016 US presidential election. 31 The first occurred allegedly when the Russian General Staff Main Intelligence Directorate (GRU) gained unauthorized access to the networks of the Democratic National Committee (DNC) between July 2015 and June 2016, exfiltrated large volumes of data including emails that indicated the preferences of various Democratic Party officials for Hilary Clinton over Bernie Sanders, and subsequently published the emails in two waves strategically timed to cause significant disruption to the political process. 32 The second entailed the intrusion of the email account of John Podesta—the chairman of Hilary Clinton’s presidential campaign—the exfiltration of his emails, and their subsequent publication a mere hour after the Washington Post had released the Access Hollywood tape of Donald Trump making degrading remarks about women. 33 US intelligence services assessed with high confidence that the materials acquired by the GRU were relayed to WikiLeaks, which was likely chosen because of its self-proclaimed reputation for authenticity. 34
+
+Whereas the DNC and Podesta leaks contained no evident forgeries, the subsequent leaking of tens of thousands of internal emails and other documents allegedly belonging to the campaign team of French presidential candidate Emmanuel Macron two days prior to the final round of the 2017 French presidential elections provides an example of a tainted leak. According to the head of Macron’s digital team, Mounir Mahjoubi, a number of fake documents had been added by the hackers. In addition, the leak included false information that had been planted by the Macron campaign in anticipation of being targeted by this type of operation. 35
+
+As these examples illustrate, doxing operations are distinguished by the fact that they necessarily entail the practice of intelligence-gathering. In other words, doxing operations involve “cyber exploitation”—defined as “the use of actions and operations, perhaps over an extended period of time, to obtain information resident in or transiting through adversary computer systems or networks, information that would otherwise be kept confidential”. 36
+
+Beyond doxing operations, evidence has also emerged of at least two categories of information operations conducted by foreign actors during elections: 37 first, mal information operations, which entail threatening, abusive, discriminatory, harassing or disruptive online behaviour that aims to cause harm to a person, organisation or State—practices frequently referred to as “trolling”; 38 and second, dis information operations, which have been defined by the European Commission as the spread of “verifiably false or misleading information that is created, presented and disseminated for economic gain or to intentionally deceive the public, and may cause public harm […] [including] threats to democratic political and policy-making processes”. 39 While the latter definition expressly excludes “reporting errors, satire and parody, or clearly identified partisan news and commentary”, 40 the precise line at which an operation may be characterised as “disinformation” is not always simple to identify in practice. 41
+
+In popular discourse, disinformation operations have often been referred to as “fake news” campaigns. However, as the independent expert group convened to advise the European Commission on fake news and online disinformation has explained, the term “fake news” is both inadequate and misleading in this context. 42 Inadequate for two reasons: first, because disinformation campaigns typically involve content that is not completely “fake” but “fabricated information blended with facts”; and second, because disinformation campaigns often entail practices that extend beyond anything resembling “news” including “automated accounts used for astroturfing, networks of fake followers, fabricated or manipulated videos, targeted advertising, organized trolling, [and] visual memes”. Misleading because the term “fake news” has been appropriated by certain politicians and their supporters to dismiss media coverage with which they disagree and undermine press freedom.
+
+In practice, it is not uncommon for malinformation and disinformation operations to be conducted in tandem as part of a coordinated information campaign—whether to influence how citizens vote or to undermine confidence in the integrity of a vote. 43 Bradshaw and Howard, for example, have documented the widespread existence of “government, military or political party teams committed to manipulating public opinion over social media”. 44 Importantly, these so-called “cyber troops” have utilised a range of strategies, tools and techniques for social media manipulation, including the creation of “bots” (bits of code designed to interact with and mimic human users), “sockpuppets” (human-operated fake accounts) and “cyborgs” (human-bot combinations) to maintain fake accounts that flood social media with false information, amplify marginal voices and ideas, and troll individuals or groups through abusive and threatening online behaviour. 45
+
+In the electoral context, a notable information campaign was recently conducted by the Internet Research Agency—a “troll farm” based in Russia and financed by a close ally of Vladimir Putin with ties to Russian intelligence. 46 According to the US Department of Justice’s February 2018 indictment of thirteen Russians and three Russian entities for, inter alia , conspiracy to defraud the US, the Internet Research Agency had a strategic goal to “sow discord” in the US political system and interfere in the 2016 US presidential election. 47 To this end, the Internet Research Agency is alleged to have deployed a range of online techniques including creating fictitious US personas, groups and social media advertisements to denigrate Hilary Clinton, encourage US minority groups not to vote, promote allegations of voter fraud by the Democratic Party, and organise political rallies in the US. 48
+
+The precise relationship and links between the Internet Research Agency and the Russian State remain unclear. Nonetheless, the reach of the content associated with the Internet Research Agency between 2015 and 2017 appears to have been extensive. According to Facebook, 49 fake accounts associated with the Internet Research Agency spent approximately US$100,000 on more than 3,000 Facebook and Instagram advertisements between June 2015 and August 2017. These advertisements were used to promote roughly 120 Facebook pages that had been established by the fake accounts, as well as more than 80,000 pieces of content between January 2015 and August 2017. These posts were received by 29 million people directly and as many as 126 million people through sharing, liking and following the posts. Moreover, according to a study conducted by BuzzFeed News, “the top-performing fake-election news stories on Facebook generated more engagement than the top stories from major news outlets such as the New York Times, Washington Post, Huffington Post , NBC News, and others”. 50
+
+As this case study illustrates, information operations are distinguished by their weaponization of information that is either already in the public domain or newly-created based on publicly available data—typically in circumstances where the authors operate covertly by hiding their identities and decline to acknowledge their involvement in such campaigns. 51 As such, information operations are distinct from cyber tampering operations since they do not entail any form of cyber attack, and also differ from doxing operations to the extent that they do not require any form of cyber exploitation. Nonetheless, as the case study of the 2016 US presidential election also demonstrates, it is not uncommon for doxing and information operations to be coordinated—with malicious actors adopting fake personas on social media platforms to share, amplify awareness of and manipulate political discussion concerning non-public information that has been exfiltrated and leaked from private email accounts in order to harm the reputation of specific political targets. 52
+
+Cyber influence operations are notoriously difficult to characterise in legal terms. When targeted at elections, influence operations may fall foul of a State’s domestic criminal law, as recently demonstrated by the US Department of Justice’s 2018 indictment of various Russian individuals and organizations implicated in the campaign on the 2016 US presidential election. However, characterising a cyber influence operation as a domestic crime fails to reflect the State-sponsored form that such campaigns often are alleged to take, 53 while attempts to investigate and prosecute individuals in such circumstances tend to be difficult in the absence of an extradition treaty or cooperation at State level. 54
+
+The limitations presented by domestic criminal law raise the question whether States may be held responsible for cyber influence operations under different paradigms of international law. In this context, a “paradigm” refers to a framework or conceptual map, which actors can rely upon to address a societal problem. 55 Importantly, each paradigm of international law comes equipped with a distinct vocabulary, expertise, and structural bias. 56 As such, different paradigms of international law can suggest “radically different ways of analyzing concrete problems, often with outcome-determinative consequences”. 57 As Martti Koskenniemi has explained 58 :
+
+Political intervention is today often a politics of re-definition, that is to say, the strategic definition of a situation or a problem by reference to a technical idiom so as to open the door for applying the expertise related to that idiom, together with the attendant structural bias. […] Each such vocabulary is likely to highlight some solutions, some actors, some interests. None of them is any ‘truer’ than the others. Each renders some aspect of the carriage visible, while pushing other aspects into the background, preferring certain ways to deal with it, at the cost of other ways. What is being put forward as significant and what gets pushed into darkness is determined by the choice of the language through which the matter is looked at, and which provides the basis for the application of a particular kind of law and legal expertise. That this choice is not usually seen as such—that is as a choice —by the vocabularies, but instead something natural, renders them ideological.
+
+The practice of defining a societal problem by reference to a particular paradigm has sometimes been referred to as the “politics of framing” in recognition of the fact that the way an issue is framed can have a significant bearing on the way it is understood and subsequently treated. 59 In the non-legal context, Thomas Kuhn famously illustrated the significance of paradigms by comparing the opposing answers given by a distinguished physicist and an eminent chemist to the question of whether or not a single atom of helium is a molecule. 60 In the legal context, Ashley Deeks relied upon a paradigmatic approach to compare the interests of different actors within and across States with respect to the regulation of end-to-end encryption—in particular, examining encryption as a human rights question, a law enforcement question, an intelligence question, a commercial or free trade question, and an export control question. 61
+
+By adopting a paradigmatic lens, this section dissects how different international legal frameworks comprehend cyber influence operations on elections and examines the extent to which they provide the conceptual tools necessary to hold States accountable for them.
+
+The general public international law paradigm is distinguished by its focus on international legal obligations of a reciprocal character, which entail the mutual exchange of rights and benefits between States (see Figure 1 ). 62 Accordingly, acts in breach of such obligations tend to cause direct and immediate injury to the interests of the States to whom they are owed.
+
+The general public international law paradigm is structured according to the law of State responsibility. According to this framework, a State may be held internationally responsible for a cyber influence operation on another State’s election if it constitutes an “internationally wrongful act”, namely “conduct consisting of an action or omission” that “constitutes a breach of an international legal obligation of the State” and “is attributable to the State under international law”. 63 Where such conditions are satisfied, a number of response options under international law will be available to the State injured by the cyber influence operation. In this section, each of these elements—breach, attribution and response options—are examined and applied to the specific context of cyber influence operations on elections.
+
+As a first step towards identifying the responsibility of a State for conducting a cyber influence operation on another State’s electoral process, the general international law paradigm requires the identification of an international legal obligation that has been breached by the operation. Three possibilities present themselves with respect to cyber influence operations on elections: sovereignty; non-intervention; and due diligence.
+
+A first possibility is that a cyber influence operation may amount to a violation of the target State’s sovereignty. However, there are two challenges with such an argument.
+
+First, the status of sovereignty as an international legal obligation is currently contested. 64 While the experts who compiled the second edition of the Tallinn Manual on the international law applicable to cyber operations (Tallinn 2.0) treated sovereignty as a primary rule of international law, 65 the United Kingdom (UK) has recently stated that although sovereignty is “fundamental to the international rules-based system”, the UK is not persuaded “that we can currently extrapolate from that general principle a specific rule or additional prohibition for cyber activity beyond that of a prohibited intervention”. 66 The UK’s position follows the views expressed by the Staff Judge Advocate to the US Cyber Command, who, writing in his private capacity, has argued that sovereignty serves as “a principle of international law that guides state interactions, but is not itself a binding rule that dictates results under international law”. 67
+
+Second, even assuming sovereignty constitutes a primary rule of international law, there remains considerable uncertainty regarding its borders. The Tallinn 2.0 experts distinguished two strands of the prohibition on violations of sovereignty 68 : first, the infringement of a target State’s territorial integrity; and second, the interference with or usurpation of inherently governmental functions.
+
+With regard to territorial integrity , most of the Tallinn 2.0 experts agreed that cyber operations constitute a violation of sovereignty in the event that they result in “physical damage or injury”, or the remote causation of “loss of functionality” of cyber infrastructure located in another State—although the experts were divided as to the precise threshold at which a loss of functionality amounts to a violation. 69 Crucially, however, cyber influence operations generally result in neither physical damage nor a loss of functionality to any cyber infrastructure. And as Duncan Hollis has recently observed, “there is little precedent for treating the purely cognitive effects to which [influence operations] ultimately aspire as breaching sovereignty”. 70 Indeed, the Tallinn 2.0 experts were unable to achieve consensus on whether influence operations and other similar types of cyber operations amount to a violation of territorial integrity, 71 with Michael Schmitt—the general editor of Tallinn 2.0— later conceding that cyber influence operations fall within “a grey zone of normative uncertainty” concerning the notion of territorial integrity. 72
+
+Similar uncertainties pervade the notion of interfering with or usurping inherently governmental functions . While the conduct of elections constitutes a model example of an inherently governmental function, 73 it is less clear whether a cyber influence operation on an election falls within the bounds of the terms “interference” or “usurpation”. 74 Significantly, the Tallinn 2.0 experts concluded that the transmission of propaganda alone is generally not a violation of sovereignty. 75 More recently, Michael Schmitt has put forward the argument that doxing operations involving the hacking and leaking of non-public information at critical moments in an election, as well as information operations that involve deception by equipping armies of trolls with fake identities, are materially more serious than other types of information campaigns such that their characterisation as violations of sovereignty is “somewhat supportable”. 76 Nonetheless, Schmitt concedes that such a conclusion is “far from unassailable” and that at present the most that can be said of such operations is that they fall within “the legal grey zone of the law of sovereignty”. 77
+
+A second possibility is that a cyber influence operation targeting an election may amount to a violation of the duty of non-intervention in the internal or external affairs of another State. In contrast to sovereignty, the status of the duty of non-intervention is well established under customary international law. 78 However, the application of the duty to the specific context of cyber influence operations is more challenging. According to the International Court of Justice (ICJ) in Nicaragua , an intervention is unlawful if it satisfies two conditions.
+
+First, the act must be one “bearing on matters in which each State is permitted, by the principle of State sovereignty to decide freely”. 79 This condition implicates the notion of a State’s domaine réservé , the boundaries of which have traditionally been somewhat uncertain and subject to ongoing development over time. 80 In the present context, however, this requirement poses little difficultly. According to the ICJ in Nicaragua , “choice of a political […] system” constitutes a paradigmatic example of a State’s domaine réservé . 81 Similarly, the Tallinn 2.0 experts concluded that “the matter most clearly within a State’s domaine réservé appears to be the choice of both the political system and its organisation, as these issues lie at the heart of sovereignty”. 82
+
+More contentious is the second condition, namely that intervention is wrongful “when it uses methods of coercion”, a concept that “defines, and indeed forms the very essence of, prohibited intervention”. 83 Importantly, the meaning of coercion is disputed.
+
+Traditionally, coercion has been defined narrowly. Oppenheim , for example, defines coercion as an act that is “forcible or dictatorial, or otherwise coercive, in effect depriving the state intervened against of control over the matter in question”. 84 Similarly, the Tallinn 2.0 experts concluded that coercion involves acts “designed to deprive another State of its freedom of choice, that is, to force that State to act in an involuntary manner or involuntarily refrain from acting in a particular way”. 85 So defined, cyber influence operations would appear to fall outside the scope of coercion since their aim, by their very nature, is to influence rather than force their targets to adopt or alter their behaviour. 86 Indeed, a majority of the Tallinn 2.0 experts emphasised that “coercion must be distinguished from persuasion, criticism, public diplomacy, propaganda […], retribution, mere maliciousness, and the like” because “such activities merely involve either influencing (as distinct from factually compelling) the voluntary actions of the target State, or seek no action on the part of the target State at all”. 87
+
+In recent years, however, a broader view of coercion has begun to garner support within international scholarship. According to this broader reading, coercion encompasses conduct that disrupts, compromises or weakens the authority of the State. 88 This expansive approach to coercion is typically grounded in the work of McDougal and Feliciano, who argue that coercion determinations should account for three dimensions of “consequentiality”, namely “the importance and number of values affected, the extent to which such values are affected, and the number of participants whose values are so affected”. 89 According to this approach, only acts that have an insignificant impact upon the authority structures of a State—for example, those that cause mere inconvenience—may be characterised as non-coercive. 90 Support for this approach has also been found in the broad terms used in the 1970 Friendly Relations Declaration, which provides that no State has “the right to intervene, directly or indirectly, for any reason whatever , in the internal or external affairs of any other State”, while every State “has an inalienable right to choose its political, economic, social and cultural systems, without interference in any form by another State”. 91
+
+Following the broader approach to coercion, a stronger case could be made that at least some forms of cyber influence operations on elections constitute prohibited interventions under international law. Steven Barela, for example, has argued that the breadth, depth and precision of the Russian cyber influence operation on the 2016 US presidential election constitutes a clear case of coercion. 92 Interestingly, the Tallinn 1.0 experts also appear to have taken a more expansive view of coercion, concluding that prohibited forms of intervention include “the manipulation by cyber means of elections or of public opinion on the eve of elections, as when online news services are altered in favour of a particular party, false news is spread, or the online services of one party are shut off”, 93 a position recently endorsed by Harold Koh, former Legal Adviser of the US Department of State. 94
+
+In light of this ongoing debate, it is difficult to conclude with any confidence whether or not cyber influence operations on elections constitute prohibited forms of intervention under international law. As William Banks has observed, while according to the traditional understanding such operations are not coercive, it is important to temper our confidence in such a conclusion “because state practice and resulting customary international law are based on examples from kinetic conflicts” and “analogies to cyber are not necessarily conclusive”. 95
+
+A third possibility is that a cyber influence operation on a State’s electoral process may constitute a breach of the duty of due diligence. The duty of due diligence was famously defined by the ICJ in its Corfu Channel judgment as the obligation of every State “not to allow knowingly its territory to be used for acts contrary to the rights of other States”. 96 In practice, the duty of due diligence has been characterised as a means of circumventing the need for a target State to attribute activities that take place on another State’s territory to that State in order to claim that it is the victim of an internationally wrongful act. 97 Similar to sovereignty, however, claiming that a cyber influence operation constitutes a breach of the duty of due diligence faces two challenges.
+
+First, the status of the duty of due diligence as an international legal obligation—at least in the cyber context—is currently contested. Michael Schmitt, for example, has conceded that during private consultations with States concerning Tallinn 2.0 , “some States expressed a tentative view that despite the notable lineage of the rule, it was of a lex ferenda character”. 98 In addition, the 2015 report of the United Nations (UN) Group of Governmental Experts (GGE) established by the UN General Assembly to examine developments in the field of information and telecommunication in the context of international security only provides that States “ should seek to ensure that their territory is not used by non-state actors” to commit internationally wrongful acts using information and communications technologies. 99 Moreover, in terms of recent practice, States seem to have placed little reliance on the duty of due diligence in formulating their demands against territorial States from which cyber operations have emanated. 100 By contrast, the Tallinn 2.0 experts concluded that the duty of due diligence is a primary obligation of international law on the basis that it derives from the principle of sovereignty and has a well-established lineage in international jurisprudence, as well as on the assumption that “new technologies are subject to pre-existing international law absent a legal exclusion therefrom”. 101
+
+Second, even accepting the duty of due diligence as an international legal obligation, questions remain over whether cyber influence operations on elections fall within its scope. Although a number of doctrinal ambiguities surround the duty of due diligence, most of its proponents agree that it consists of three core elements in the cyber context: 102 first, “knowledge”—whether actual or constructive—of a cyber operation being carried out from within its territory; second, a failure to undertake “reasonably feasible measures” to put an end to the offending cyber operation emanating from its territory; and third, the cyber operation must be “contrary to the rights” of the target State—such that had it been conducted by or attributed to the territorial State, the operation would have constituted an internationally wrongful act—and result in “serious adverse consequences”. In general, the second element—reasonably feasible measures—renders the duty of due diligence of little use in circumstances where a cyber influence operation emanates from the territory of a State with limited or no institutional, legal or resource capacity to implement the obligation. 103 In addition, the final element is likely to prove particularly demanding to satisfy in light of the challenges of proving the consequences of influence operations which by their very nature operate at the cognitive level, the difficulties of establishing that influence operations on elections result in “serious” adverse consequences rather than merely affecting the interests of a target State, and the uncertainties surrounding the question of whether a primary obligation of international law—for example, sovereignty or non-intervention—would have been breached had the territorial State conducted the operation.
+
+A breach of an international legal obligation only qualifies as an internationally wrongful act if it is legally attributable to a State. 104 In practice, however, the attribution of cyber operations to States has often proven highly challenging. To understand why, it is important to recognise that attribution is a multifaceted process, encompassing technical, political and legal dimensions. 105
+
+In terms of the technical and political aspects of attribution, States have been confronted by the challenge of identifying not only the location and identity of the cyber infrastructure from which an operation originates (“technical attribution”), but also the person who was operating the infrastructure (“political attribution”). 106 This process tends to involve a combination of technical tracing to identify the cyber infrastructure and political intelligence and information analysis to profile the authors of the operation. 107 In the cyber context, the complexity of attribution is compounded by a number of factors, including the ability for cyber operations to be conducted utilizing multiple computer systems in different States, 108 the use of “anti-attribution” mechanisms to hide the provenance of a cyber operation, 109 and the presence and participation of active and sophisticated non-State actors in cyberspace. 110
+
+Although the technical and political attribution capabilities of States have generally been improving, 111 robust attribution is often still not possible within the narrow time frame that decision-makers typically require in order to act within a national security context. 112 Moreover, even when technical and political attribution is possible, public attribution by a State may not be politically viable. 113 For example, a State may not wish the adversary to know that it has been detected or risk revealing its technological capabilities, while attribution may negatively impact ongoing diplomatic efforts in other issue areas. 114
+
+Beyond technical and political attribution, a State targeted by a cyber operation must identify a sufficient legal nexus between a breach of international law and a State in order for the breach to qualify as an internationally wrongful act. The customary international law on attribution is broadly set out in the ILC’s Articles on State Responsibility (ASR). As the Commentary to the ASR explains, “the general rule is that the only conduct attributed to the State at the international level is that of its organs of government, or of others who have acted under the direction, instigation or control of those organs, i.e. as agents of the State”. 115 By contrast, the law of State responsibility does not set forth express burdens or standards of proof for making determinations of legal attribution; instead, international law generally requires States to act “reasonably” in the circumstances. 116
+
+With respect to legal attribution, a specific challenge arises in the context of cyber influence operations on elections when States outsource aspects of influence campaigns to non-State actors—a prominent example being the Internet Research Agency which conducted various aspects of the cyber influence operation on the 2016 US presidential election. 117 In such circumstances, a State may operate strategically to evade the relevant standards of attribution, for example by ensuring that non-State actors do not act under its “effective control” for the purposes of attribution pursuant to Article 8 of the ASR. 118 Equally, non-State actors may engage in cyber influence operations without any degree of State involvement—a possibility heightened by the diffusion of power within cyberspace. 119 In each of these circumstances, the duty of due diligence may offer a partial solution, though only if the target State is able to demonstrate that each of its core elements—knowledge of the cyber operation, failure to take reasonably feasible measures, and acting contrary to the rights of the target State with serious adverse consequences—have been met on the facts at hand.
+
+If a cyber influence operation constitutes an internationally wrongful act, the responsible State is under an obligation to cease the operation (if it is continuing), 120 offer appropriate assurances and guarantees of non-repetition (if circumstances so require), 121 and make full reparation for the injury caused by the act in the form of restitution, compensation and satisfaction, either singly or in combination. 122 In such circumstances, the State to which the obligation breached by the cyber influence operation is owed—the “injured State”—has a number of response options. 123
+
+First, the injured State may have recourse to retorsion , namely measures that are “unfriendly” but not inconsistent with any international legal obligation. 124 As Terry Gill has observed, retorsion is best understood as “a form of lawful self-help and, as such, may be resorted to in reaction to either unfriendly or unlawful acts”. 125 In practice, retorsion can take many forms, including breaking off diplomatic relations or terminating voluntary assistance or cooperation. 126
+
+Second, the injured State is entitled to invoke the responsibility of the responsible State. 127 In this context, invocation signifies “taking measures of a relatively formal character”, such as commencing proceedings before an international court or taking countermeasures. 128 Countermeasures are “measures that would otherwise be contrary to the international obligations of an injured State vis-à-vis the responsible State, if they were not taken by the former in response to an internationally wrongful act by the latter in order to procure cessation and reparation”. 129 An example of a countermeasure in the cyber domain would be a “hack back” to the source of the cyber intervention in order to temporarily disable the responsible State’s systems which were being used to conduct a cyber influence operation on the target State. 130
+
+Notably, the entitlement of States to take countermeasures in response to cyber operations that amount to internationally wrongful acts proved to be a point of contention within the latest round of UN GGE talks, which ultimately collapsed without the production of a consensus report. 131 Although both the ICJ and various arbitral tribunals have recognised countermeasures as lawful under international law, 132 it would in principle be possible to exclude countermeasures from the scope of responses to cyber operations constituting internationally wrongful acts because the Articles on State Responsibility are residual in nature. According to Schmitt and Vihul, however, the UN GGE members that opposed the implied reference to countermeasures within the draft final report’s proposed text did not advance any argument that a lex specialis of cyber responsibility exists. 133 Rather, the reluctance of certain States to accept the applicability of countermeasures to the cyber context appears to have been driven by a concern that only States with significant technical and political capabilities to reliably attribute hostile cyber operations would be able to establish the necessary basis for adopting countermeasures in practice. 134
+
+Even accepting that countermeasures constitute a permissible response to cyber operations amounting to internationally wrongful acts, it is important to remember that their adoption is subject to significant limitations. In particular, countermeasures must be temporary in their effects, designed to induce compliance of the responsible State with international law, and proportionate to the internationally wrongful act. 135 Moreover, countermeasures must not affect the obligation to refrain from the threat or use of force, the protection of fundamental human rights, obligations of a humanitarian character, or peremptory norms of international law. 136
+
+According to Michael Schmitt, the law on countermeasures allows for flexibility in two ways 137 : first, although countermeasures must be undertaken for the purpose of putting an end to a State’s wrongful activity, they need not target State organs or State cyber infrastructure to this end 138 ; and second, countermeasures need not breach the same obligation violated by the responsible State, nor are they required to be of the same nature—whether kinetic or cyber—as the underlying internationally wrongful act. 139
+
+At the same time, however, several of the limitations to which countermeasures are subject hamper their efficacy in the cyber context. In particular, the requirement that the injured State must notify the responsible State of the wrongful act, specify the proposed reparation, and allow time for the responsible State to remedy the violation, 140 is impractical in the cyber context—not only heightening the likelihood that the responsible State may be able to prevent or mitigate a future countermeasure but also potentially compromising the injured State’s cyber capabilities. 141 In addition, the requirement that countermeasures may only be undertaken whilst the internationally wrongful act is ongoing is ill-suited to the cyber context. 142 A cyber influence operation may have ceased by the time a target State has been able to attribute it to a State actor, while the operation itself may, even when completed, have ongoing repercussions. 143
+
+Finally, the requirement that the responsible State be the “object” of the countermeasures presents difficulties in the cyber context, particularly given the increasing number of hostile non-State actors operating in cyberspace, the demanding nature of technical attribution, and the high standard for legally attributing the acts of non-State actors to a State. 144 As Corn and Jensen have recently argued, “[t]he inability of a victim state to exercise countermeasures against a non-State actor means that the victim state really has few practical options other than seeking assistance from the territorial state in addressing the threat, an option that is frequently impracticable and with inconsistent results across multiple states”. 145 Moreover, even if the duty of due diligence is deemed applicable, the proportionality of any countermeasures in response to the failure of a State to exercise due diligence with respect to a cyber influence operation conducted by a non-State actor on its territory will need to be determined with respect to the responsible State’s omission rather than the severity and consequences of the operation conducted by the non-State actor. 146
+
+In contrast to the general public international law paradigm, which concerns international legal obligations of a reciprocal nature that exist between States, the human rights paradigm concerns treaty and customary obligations that are “more than reciprocal engagements”, encompassing “over and above a network of mutual, bilateral undertakings, objective obligations”. 147 Human rights obligations are “objective” to the extent that they transcend the sphere of bilateral relations between States to foster a common interest—namely guaranteeing the enjoyment by individuals and, in some instances, collective entities of specific rights and freedoms. 148 As Anthea Roberts has explained, “Human rights treaties are based on interstate commitments, but they are more like independent pledges to behave in certain ways than contract-like devices between states establishing reciprocal rights and obligations”. 149 As such, the human rights paradigm encompasses a more complex set of legal relationships than the general international law paradigm.
+
+It is possible to conceptualize the human rights paradigm in terms of three sets of relationships (see Figure 2 ). 150 Horizontally, a relationship exists between States (as sovereign equals), who may invoke the responsibility of other States for violations of human rights obligations either where the breach of the obligation specially affects them, 151 or by acting in their capacity as members of a group of States to which the obligation is owed (obligations erga omnes partes ) or—for certain human rights—as members of the international community as a whole (obligations erga omnes ). 152 As James Crawford has observed, “human rights obligations are either obligations erga omnes or obligations erga omnes partes , depending on their universality and significance”. 153 Vertically, a relationship exists between States (as governors) and individuals and peoples within their territory (as governed). And diagonally, a relationship exists between States (as governors) and individuals and peoples outside their territory (as governed)—provided certain conditions are satisfied, as discussed in detail below.
+
+Against this conceptual background, this section examines the potential applicability of the human rights paradigm to cyber influence operations on elections. Specifically, the section analyses whether such operations entail violations of international human rights obligations, as well as any response options that might be available to States targeted by such operations in practice.
+
+The applicability of international human rights law to State conduct online is well-established, a position endorsed by the UN Human Rights Council, 154 the UN General Assembly, 155 the UN GGE, 156 and the Tallinn 2.0 experts. 157 With this in mind, the first step in determining State responsibility for cyber influence operations on elections pursuant to the human rights paradigm is to identify whether such operations potentially breach any obligations of international human rights law. A number of possibilities present themselves, in particular the individual rights to political participation, freedom of expression, and privacy, as well as the collective right to self-determination.
+
+One possibility is that a cyber influence operation on an election may amount to a violation of the right to political participation. 158 Article 25 of the International Covenant on Civil and Political Rights (ICCPR), for example, recognises the right of every citizen to take part in the conduct of public affairs, the right to vote and to be elected, and the right to have access to public service. 159 Importantly, the UN Human Rights Committee has explained that Article 25(b) of the ICCPR—which sets out the right to vote and be elected at genuine periodic elections guaranteeing the free expression of the will of the electors—requires that voters “must be free to vote without undue influence or coercion of any kind which may distort or inhibit the free expression of the elector’s will” and “should be able to form opinions independently, free of violence or threat of violence, compulsion, inducement or manipulative interference of any kind ”. 160 Following this interpretation, it could be argued that cyber influence operations on elections amount to forms of “manipulative interference” that serve to undermine “the free expression of the will of the electors”. 161 In contrast to the other rights and freedoms recognised by the ICCPR, however, Article 25 only protects the rights of “every citizen” and it is unclear whether a cyber influence operation involving a State interfering with the right to political participation of the citizens of another State falls within its scope of application. 162
+
+A related possibility is that a cyber influence operation on an election may amount to a violation of the right to freedom of expression. Article 19(2) of the ICCPR, for example, recognises that the right to freedom of expression “shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing, or in print, in the form of art, or other through any other media of his choice”. 163 Significantly, the UN Human Rights Committee has emphasised “the importance of freedom of expression for the conduct of public affairs and the effective exercise of the right to vote”, as well as the essential nature of “[t]he free communication of information and ideas about public and political issues between citizens, candidates, and elected representatives”. 164 More recently, a Joint Declaration on Freedom of Expression and “Fake News”, Disinformation and Propaganda, issued in 2017 by a number of experts on freedom of expression, expressed concern that “disinformation and propaganda operations are often designed and implemented so as to mislead a population, as well as to interfere with the public’s right to know and the right of individuals to seek and receive, as well as to impart, information and ideas of all kinds, regardless of frontiers” and “may harm individual reputations and privacy, or incite to violence, discrimination or hostility against identifiable groups in society”. 165 With this in mind, paragraph 2(c) of the Joint Declaration submits that “State actors should not make, sponsor, encourage or further disseminate statements which they know or reasonably should know to be false (disinformation) or which demonstrate a reckless disregard for verifiable information (propaganda)”. 166
+
+Against this background, it seems clear that the weaponization of information in the form of State-sponsored doxing, disinformation, or malinformation operations amounts to an interference with individuals’ right to freedom of expression. And while international human rights law permits limitations on freedom of expression, which are provided for by law, imposed for legitimate grounds, and conform to the tests of necessity and proportionality, 167 it is difficult to envisage these requirements being met in the context of a State-sponsored cyber influence operation on another State’s election—particularly since such operations are typically covert in nature. As Carly Nyst and Nick Monaco have recently agued 168 :
+
+International human rights law does not permit states to restrict individuals’ right to freedom of speech and access to information in order to levy online campaigns designed to minimize and silence dissenting speech or to remove critics from the public stage. It does not permit the purposeful dissemination of disinformation and the harnessing of bots and other digital tools to drown out progressive information and to intimidate journalists and activists. It does not allow states to harass and intimidate individuals through the use of violent speech and imagery.
+
+Beyond the rights to political participation and freedom of expression, a further possibility is that doxing operations may violate the right to privacy of the individuals whose non-public information is exfiltrated and leaked into the public domain. 169 The right to privacy is set out in a range of international human rights treaties and also recognised under customary international law. 170 Although there is currently no universal conceptualization of privacy, the UN Special Rapporteur on Counter Terrorism and Human Rights has defined privacy in general terms as “the presumption that individuals should have an area of personal autonomous development, interaction and liberty free from State intervention and excessive unsolicited intrusion by other uninvited individuals”. 171 Importantly, the UN Human Rights Committee has clarified that the right to privacy requires that “the integrity and confidentiality of correspondence should be guaranteed de jure and de facto”. 172 In the digital age, this right to private correspondence has been understood to give rise to a State obligation “to ensure that e-mails and other forms of online communication are actually delivered to the desired recipient without the interference or inspection by State organs or by third parties”. 173 From this perspective, a doxing operation inevitably interferes with the right to privacy and will amount to a violation unless it can be demonstrated that the interference was conducted in accordance with the law, in furtherance of a legitimate aim, and in such a way that was necessary and proportionate to that aim. 174
+
+The principal challenge to concluding that cyber influence operations on elections violate international human rights obligations, however, is the contested scope of the extraterritorial application of this body of law. 175 The predominant view within international jurisprudence is that international human rights law applies to individuals physically located beyond a State’s territorial borders in situations where the State exercises “power or effective control” either over the territory on which the individual is located (the spatial model of jurisdiction) or over the individual (the personal model of jurisdiction). 176 Adopting a contrary view, the US and Israel maintain that human rights obligations do not apply extraterritorially. 177 To date, however, these States remain firmly in the minority. 178
+
+Traditionally, the “power or effective control” test has been understood to require physical control over territory or the individual. Such a test is ill-suited to the cyber domain where control over infrastructure and individuals tends to be virtual in nature. Recent caselaw and statements from human rights experts, however, suggest that the “power or effective control” test may be evolving in ways that could accommodate the distinctive nature of cyber operations. 179
+
+In the case of Jaloud v. The Netherlands , for example, the European Court of Human Rights concluded that the Netherlands exercised jurisdiction over an individual passing through a checkpoint managed by Dutch agents on the basis that they exercised authority and control over the individual’s right to life at that moment. 180 It has been suggested that this finding could signal a possible shift by the European Court of Human Rights towards “an understanding that exercising authority and control over an individual’s rights gives rise to extraterritorial jurisdiction and obligations in relation to those affected rights”. 181 The Office of the UN High Commissioner for Human Rights has elaborated a slightly different approach, pursuant to which a State’s human rights obligations may be engaged by digital surveillance activities whenever a State exercises “power or effective control in relation to digital communications infrastructure , wherever found, for example, through direct tapping or penetration of that infrastructure”. 182 Finally, in a case concerning transboundary environmental harm, the Inter-American Court of Human Rights recently concluded that jurisdiction arises pursuant to Article 1(1) of the American Convention on Human Rights (ACHR) “when the State of origin exercises effective control over the activities carried out that caused the harm and consequent violation of human rights ”. 183 Each of these tests—control over individual rights, control over digital infrastructure, and control over activities that cause harm—provide possible avenues for States to argue that human rights obligations are implicated when States conduct cyber influence operations that seek to meddle in the elections of other States.
+
+An additional issue arises from the fact that States are required to not only respect but also ensure human rights. 184 The obligation to respect is negative in nature, requiring States to refrain from violating the rights in question. By contrast, the obligation to ensure is positive, requiring States “to organize the governmental apparatus and, in general, all the structures through which public power is exercised, so that they are capable of juridically ensuring the free and full enjoyment of human rights”. 185 Importantly, the obligation to ensure requires States to take appropriate measures to ensure that third parties do not violate the human rights of individuals. 186 This raises the question of the extent to which States are required to domestically regulate third parties domiciled in their territory and/or jurisdiction with a view to protecting human rights abroad. 187
+
+In the recently adopted General Comment No. 36 concerning the right to life, the UN Human Rights Committee explains that States are under “a due diligence obligation to undertake reasonable positive measures, which do not impose on them disproportionate burdens, in response to reasonably foreseeable threats to life originating from private persons and entities, whose conduct is not attributable to the State”. 188 Importantly, the Human Rights Committee adds that States “must also take appropriate legislative and other measures to ensure that all activities taking place in whole or in part within their territory and in other areas subject to their jurisdiction, but having a direct and reasonably foreseeable impact on the right to life of individuals outside their territory , including activities taken by corporate entities based in their territory or subject to their jurisdiction, are consistent with article 6, taking due account of related international standards of corporate responsibility, and of the right of victims to obtain an effective remedy”. 189 If applied to other human rights, including the right to privacy, this test would provide a possible avenue for States to argue that human rights obligations are implicated when a State fails to take appropriate measures within the scope of their powers to prevent private parties on their territory and in other areas subject to their jurisdiction from conducting cyber influence operations that seek to meddle in the elections of other States.
+
+A further possibility is that a cyber influence operation on an election may violate the collective right of a people to self-determination. 190 This possibility was first suggested by Jens Ohlin who has argued that the relevant victim of cyber influence operations is not the State, but “the people whose sovereign will is represented by the government and even perhaps protected by the constitutional order”. 191 According to Ohlin, “the closest analogue in international law to this political notion of sovereign will is the principle of self-determination, the right of all peoples to determine for themselves their political destiny”. 192 There are, however, at least two challenges that such an argument would need to overcome.
+
+First, as several commentators have pointed out, self-determination has traditionally been relied upon in the context of peoples attempting to create new States rather than the election of a new government in an already-existing State. 193 Relatedly, Michael Schmitt has argued that self-determination “is simply not meant to apply to a situation where the ‘people’ are all citizens of a State rather than a distinct group therein that is denied the right to govern itself, as in the case of colonialism, apartheid, alien subjugation, and perhaps occupation”. 194
+
+However, while these views may have merit as regards the right of self-determination under customary international law, 195 they neglect the unique scope and substance of the right of self-determination under Article 1(1) common to the ICCPR and the International Covenant on Economic, Social and Cultural Rights, 196 which provides as follows:
+
+All peoples have the right of self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development.
+
+According to Antonio Cassese’s seminal study on self-determination, this provision embodies a broad notion of self-determination in two respects: first, Article 1(1) “enshrined the right of the whole population of each contracting State to internal self-determination, that is, the right freely to choose their rulers” 197 ; and second, Article 1(1) laid down an obligation “for each contracting State to refrain from interfering with the independence of other States”. 198 Following this interpretation, it could be maintained that a cyber influence operation conducted by a State on another State’s elections undermines the right of self-determination of the latter’s population to freely choose their rulers.
+
+A second challenge arises from those who assert that the target State must prove that a cyber influence operation has altered the outcome of an election in order to claim that the right of self-determination has been violated in this context. If this perspective is accepted, the target State faces a number of difficulties. In particular, it is unclear how the will of the people of the target State can be determined with any degree of specificity or accuracy prior to an election such that the impact of an influence operation on the voting public may be identified. 199 In addition, even if the will of the people could be determined, it is unclear how the effects of an influence operation on a population’s will may be measured with any degree of precision given the complexity of today’s communications environment. 200 Yet, it is at the very least contestable whether a cyber influence operation must successfully affect the outcome of an election in order to constitute a violation of the right to self-determination. According to Ohlin, for example, once a foreign State covertly participates in the electoral process of another State, “the election becomes a function of other-determination rather than self-determination”, expressing the political will of “outside entities rather than the entity that is holding the election”. 201 At least for covert cyber influence operations, therefore, the principle of self-determination may be violated as soon as a foreign State participates in another State’s electoral process, regardless of whether the outcome of the election is altered.
+
+The challenges of attribution identified with respect to the general international law paradigm apply with equal force in the context of the human rights paradigm. Assuming, however, that a cyber influence operation is deemed to have violated international human rights law—either because a State has breached its negative obligations to refrain from violations of human rights or its positive obligations to ensure that third parties are not in violation of human rights—it is important to reflect further on the response options available to States whose elections have been targeted by such campaigns.
+
+Our point of departure in this regard is to recall that international human rights obligations may be characterised as obligations erga omnes partes or obligations erga omnes depending on their universality and significance. 202 An obligation erga omnes partes is one owed to a group of States and established for the protection of a collective interest of the group. 203 An obligation erga omnes is one owed to the international community as a whole. 204 Although both types of obligations are collective in nature, it is important to emphasise that they may at the same time protect the individual interests of States and it is possible for individual States to be specially affected by their breach. 205
+
+In the context of cyber influence operations on elections, the target State might argue that it is specially affected by a breach of international human rights law that results from such operations by pointing to the “particular adverse effects” of the breach on that State and demonstrating how the impact of the breach “distinguishes it from the generality of other States to which the obligation is owed”. 206 For example, the target State might point to the fact that the human rights of its nationals were violated by the cyber influence operation as well as the impact of the breach on its electoral process. Following this approach, the target State would claim to be an “injured State” under Article 42(b)(i) of the ASR and as such assert its entitlement to invoke the responsibility of the responsible State in much the same way as discussed under the general public international law paradigm. 207
+
+Even if the target State were unable or unwilling to demonstrate that it is specially affected by the breach, it could still invoke the responsibility of the responsible State under Article 48 of the ASR on the basis that the human rights obligation in question is an obligation erga omnes partes or an obligation erga omnes— the precise characterisation dependent on the human rights in question. 208 In such circumstances, the target State—as well as any other State which forms part of the omnes partes or omnes to which the obligation is owed—would constitute a “third State” which has a legal interest in compliance despite not being directly injured by the human rights violation. 209 When third States invoke the responsibility of responsible States, they act in the collective interest, either as members of a group of States to which the obligation is owed or as members of the international community as a whole. 210 Pursuant to Article 48(2) of the ASR, third States are entitled to claim from the responsible State cessation of the internationally wrongful act, assurances and guarantees of non-repetition, and performance of the obligation of reparation in the interests of the beneficiaries of the obligation breached—in this context, the individuals whose rights have been violated. 211
+
+Third States are also free to have recourse to retorsion, though it remains contentious whether they may resort to countermeasures. Article 54 of the ASR—which provides that the ASR “[do] not prejudice the right of any State, entitled under article 48, paragraph 1, to invoke the responsibility of another State, to take lawful measures against that State to ensure cessation of the breach and reparation in the interest of the injured State or of beneficiaries of the obligation breached”—expressly reserved the position and left the resolution of the matter to the future development of international law. According to the Commentary to the ASR, practice on this subject was “limited”, “rather embryonic”, “sparse”, and involved only “a limited number of States”, such that the state of international law on countermeasures taken in the general or collective interest could best be described as “uncertain”. 212 Notably, this position was recently supported by a majority of the Tallinn 2.0 experts. 213
+
+A number of scholars have, however, adopted a contrary view. Christian Tams, for example, has identified thirteen cases where third States have taken countermeasures in the collective interest, concluding that “practice provides strong support for the view that even in the absence of individual injury, States are entitled to respond to serious breaches of obligations erga omnes ”. 214 More recently, Tams’s conclusion has been reinforced by Martin Dawidowicz, who examined twenty-one examples of countermeasures undertaken by third States, concluding that third-party countermeasures are permissible under international law in response to “serious breaches of obligations erga omnes ( partes )”. 215 Importantly, both Tams and Dawidowicz note that in most cases, third States have responded to breaches of obligations protecting the human rights of individuals or groups—though generally only in situations where breaches were large-scale or systematic. 216
+
+If a target State alleges a breach of an individual’s human rights laid down in a treaty, a further consideration arises as to whether the enforcement mechanisms set out in the treaty complement or exclude extra-conventional means of enforcement, such as the right of States to institute proceedings before the ICJ (where the States in question have consented to its jurisdiction) or to take countermeasures. 217
+
+In terms of institutional proceedings, most regional and international human rights treaties include provisions concerning third State rights in the form of inter-State procedures. 218 Whilst some treaties—such as the European Convention on Human Rights (ECHR) and the Banjul Charter—allow any State Party to invoke the responsibility of another State, others—such as the ICCPR and the ACHR—require a State to make a declaration which recognises the competence of the treaty body to receive and examine such a claim. 219 Importantly, several of these treaties—including the ICCPR, the ACHR, and the Banjul Charter—either expressly or implicitly recognise the right of States to use extra-conventional enforcement mechanisms, including the ICJ. 220 The situation is slightly different under the ECHR, Article 55 of which gives priority to the European Court of Human Rights, whilst permitting States to enter into special agreements in order to confer jurisdiction on another judicial body. 221
+
+With respect to countermeasures, the answer is less clear-cut. According to Tams, much hinges on whether treaty enforcement mechanisms ensure the effective protection of treaty rights. 222 Where no inter-State procedures are available—for example, because States have failed to make declarations recognising the competence of a treaty body under the ICCPR or the ACHR—or only non-judicial inter-State procedures are available, practice indicates that third States retain a right to take countermeasures. 223 By contrast, Tams identifies considerable support for the view that by entering into and strengthening the binding judicial inter-State procedure of the ECHR, States Parties have implicitly accepted the position that “countermeasures can only be taken once recourse to the Strasbourg Court has proved unsuccessful”. 224
+
+A final framework that may potentially be relied upon by States in response to cyber influence operations on their elections is the State liability paradigm. 225 State liability is both distinct from and directly connected to the international legal framework of State responsibility. While State responsibility is concerned with the consequences that flow from internationally wrongful acts, State liability is concerned with ensuring redress for harmful acts. Pursuant to the State liability paradigm, a State can be liable for an act of transboundary harm even if the activities giving rise to the harm were lawful under international law. 226 A transboundary harm will only develop into a wrongful act—triggering the applicability of the law of State responsibility—if the State that caused the harm fails to redress the situation. 227
+
+The State liability paradigm derives from the customary duty to prevent and redress transboundary harm (see Figure 3 ). 228
+
+As a primary duty, it incorporates the standards of care expected of states to fulfill the duty. Yet like a secondary duty, it requires states to provide remedies when harms occur. This combination of duties comprises “liability” in international law. Liability is thus a “continuum of prevention and reparation” resulting from the underlying duty to prevent and redress transboundary harm.
+
+The seminal case establishing State liability is the 1941 Trail Smelter arbitration, in which the tribunal proclaimed that “under the principles of international law […] no State has the right to use or permit the use of its territory in such a manner as to cause injury by fumes in or to the territory of another or the properties or persons therein”. 230 There has often been significant confusion as to whether cases like Trail Smelter provide support for State liability or the existence of a primary duty of due diligence under the general public international law paradigm. Reflecting on the confusion, Rosalyn Higgins has observed how “[c]ases like Trail Smelter— which we had all in our youth thought was something to do with international responsibility for harm to your neighbour (and a clear example of the absence of need of malice, or culpa )—are not now questions of state responsibility but are put into another category”, namely State liability. 231 According to Walton, although cases such as Trail Smelter have been characterised by some scholars as providing support for the proposition that transboundary harm is wrongful under international law, “these cases are better understood as invoking the concept of wrongfulness for transboundary harm only after the initial harms are inadequately redressed”. 232
+
+Although the State liability paradigm has been relied upon most frequently in the environmental context, it is not conceptually limited to that field. 233 Its application to the cyber domain would, however, be unprecedented. Moreover, any State relying on the State liability paradigm in response to a cyber influence operation on its election would be confronted by at least two legal uncertainties.
+
+First, it is unclear what level of transboundary harm is sufficient to trigger State liability. While some have suggested all transboundary cyber harms “above a minimum level of tolerance” are sufficient at least partially on the assumption that market forces are likely to dissuade States from asserting de minimis claims, 234 others contend that “significant” transboundary harm must be caused. 235 Moreover, even adopting the more restrictive test, the threshold that must be met for harm to be considered “significant” is also uncertain. 236
+
+Second, it is also unclear what standards of liability should apply for the purpose of determining State liability. According to Walton, two standards of liability should apply, an absolute standard for attacks attributable to a State and a due diligence standard where an attack is not attributable to a State but is caused by actors operating on a State’s territory or via infrastructure located within a State. 237 Rebecca Crootof argues that States should be held liable under a strict liability standard for intentional harms as well as harms resulting from ultrahazardous activities—the latter defined as those involving “a risk of ‘significant transboundary harm, which is either unforeseeable or, if foreseeable, is unpreventable even if a state takes due care’”. 238 For unintentional harms, Crootof is less certain, positing that either a strict liability or a due diligence standard are potentially justifiable. 239
+
+Despite these legal uncertainties, the State liability paradigm also has a number of qualities that may prove attractive to States seeking to respond to cyber influence operations on their elections. 240 First, the State liability paradigm enables States to claim redress for transboundary harms caused by cyber influence operations without prejudicing the lawfulness of such operations. 241 As such, the paradigm provides a means of addressing cyber influence operations without the need to identify breaches of international legal obligations such as intervention or sovereignty. And secondly, the State liability paradigm enables a target State to demand redress for transboundary harm without the need for recourse to more escalatory self-help options such as countermeasures. 242 As Rebecca Crootof has explained, the State liability paradigm “creates an intermediate space between unproblematic state activity in cyberspace and cyberwarfare, preserving a bounded grey zone for state experimentation”. 243
+
+This article has examined three paradigms of international law that States might consider relying upon in response to cyber influence operations on their elections. To date, however, the vocabulary of international law has been conspicuous for its absence in such contexts. 244 The Obama administration, for example, chose to characterise the cyber influence operation allegedly conducted by Russia as an effort to harm US interests “in violation of established international norms of behavior”. 245 The reference to “norms” suggests that the US was only willing to characterise the Russian actions as violating voluntary non-binding norms of responsible behaviour in cyberspace rather than international law. 246 This interpretation is supported by the fact that the US appears to have limited its actions in response to the Russian influence operation to acts of retorsion—including declaring thirty-five Russian intelligence operatives “ persona non grata ”, imposing sanctions on five Russian entities and four individuals, shutting down two Russian compounds based in the US, and releasing declassified technical information on Russian civilian and military intelligence service cyber activity. 247
+
+How might one explain the current reticence of States to rely on the vocabulary of international law in response to cyber influence operations that target their elections? Michael Schmitt has pointed to the fact that cyber influence operations fall within “the grey zone of international law”, 248 a space of normative uncertainty that target States may be unsure how to navigate. Yet, it is also possible that States have decided that relying on the language of international law in this context is not in their interests. 249
+
+With respect to the general public international law paradigm, for instance, States may not wish to advance an expansive notion of sovereignty for fear that doing so would limit their own cross-border covert intelligence operations, 250 whilst also restricting their freedom to take action against hostile cyber operations—for example, by requiring the consent of third States where a hostile actor’s cyber infrastructure is globally dispersed across different territories. 251 In addition, some States may have little desire to advance an expansive notion of non-intervention for fear that doing so might empower certain States to characterise the political activities of global civil society groups as coercive interventions. 252
+
+Turning to the human rights paradigm, States may be reluctant to support the broadening of the extraterritorial application of individual rights in order to constrain cyber influence operations on their elections for fear of expanding the scope of application of human rights obligations more generally. Indeed, for States such as the US which reject the extraterritorial applicability of human rights obligations, relying on the language of human rights in this context would require a complete revision of government policy, with implications stretching far beyond the sphere of cyber influence operations on elections. 253 In addition, reliance on the collective right of self-determination may not be an attractive option for States because such an argument, which may entail demonstrating that a cyber influence operation “substituted one sovereign will for the other”, 254 could be politically devastating for the legitimacy of the president or government that gained power through the election in question.
+
+Finally, States may also be reluctant to rely upon the State liability paradigm because it would require a public assessment of the transboundary harm caused by a cyber influence operation. Given the cognitive nature of such operations, such an assessment would embroil the target State in complex questions of evidence, causation, and harm, which it may wish to avoid.
+
+Viewed in this context, the current reticence on the part of States to rely on the language of international law in responding to cyber influence operations on their elections may very well constitute a strategic choice. 255 All the more so given that it is far easier for States to rely on measures of retorsion to make a political statement against cyber influence operations than become entangled in complex questions of breach, attribution, countermeasures, and assessments of harm.
+
+Rather than focusing on the regulatory relationship at the inter-State level, therefore, States have increasingly turned their attention towards adopting measures that seek to reduce the efficacy of cyber influence operations—including a growing appetite for regulating the private search engines and social media platforms that enable information to spread online. 256 For their part, private platforms have also sought to implement a number of measures designed to reduce the efficacy of cyber influence operations by foreign actors on State elections. 257 Importantly, different paradigms of international law are also applicable to these regulatory relationships. David Kaye, the UN Special Rapporteur on Freedom of Expression, for example, has recently proposed a framework for moderating user-generated online content that puts international human rights law at its very core. 258 It is in this sphere—restraining State regulations that use the threat of cyber influence operations as a pretext for suppressing legitimate online discourse, as well as providing a framework for private platforms to prevent or mitigate government demands for excessive content removals and limit corporate interference with the human rights of their users—that international law is likely to prove critical in the future. 259
+
+The author would like to thank Duncan Hollis for his comments on a prior draft of this article. The author would also like to acknowledge the funding of Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), which enabled this research to be conducted. This article was finalised on 19 December 2018 and the websites cited were current as of this date unless otherwise noted. All errors remain the author’s own.
+
+1
+
+” See generally Tom G. Daly, Democratic Decay in 2016, in Institute for Democracy and Electoral Assistance (IDEA), Annual Review of Constitution-Building Processes: 2016 (IDEA, 2016). For a critical examination of the proliferating “crisis-of-democracy” literature, see Jedediah Purdy, Normcore, Dissent Magazine (Summer 2018).
+
+2
+
+” See generally Emily B. Laidlaw, Regulating Speech in Cyberspace: Gatekeepers, Human Rights and Corporate Responsibility (2015), Chapter 1.
+
+3
+
+” Dov H. Levin, When the Great Power Gets a Vote: The Effects of Great Power Electoral Interventions on Election Results, 60 International Studies Quarterly (2016), 189.
+
+4
+
+” See generally Freedom House, Freedom on the Net 2017: Manipulating Social Media to Undermine Democracy (2017); and Communications Security Establishment, Cyber Threats to Canada’s Democratic Process (2017).
+
+5
+
+” Office of the Director of National Intelligence (ODNI), Assessing Russian Activities and Intentions in Recent US Elections, ICA 2017-01D (6 January 2017), 1. On the possible motivations behind recent Russian cyber influence operations on elections, see Fiona Hill, 3 reasons Russia’s Vladimir Putin might want to interfere in the US presidential elections, Vox (27 July 2016); and Claire Wardle and Hossein Derakhshan, Information Disorder: Toward an Interdisciplinary Framework for Research and Policymaking (2017), 33-34.
+
+6
+
+” Michael Morell and Suzanne Kelly, Fmr. CIA Acting Dir. Michael Morell: “This Is the Political Equivalent of 9/11”, The Cipher Brief (11 December 2016).
+
+7
+
+” See, for example, Erik Brattberg and Tim Maurer, Russian Election Interference: Europe’s Counter to Fake News and Cyber Attacks (2018) (reviewing the efforts of five European countries—the Netherlands, France, the United Kingdom, Germany and Sweden—to protect against cyber interference in their 2017 elections); and Daniel Funke, A Guide to Anti-Misinformation Actions Around the World (Poynter, 25 September 2018).
+
+8
+
+” Duncan Hollis, The Influence of War; The War for Influence, 32 Temple Journal of International & Comparative Law (2018), 36. See also Herbert Lin and Jaclyn Kerr, On Cyber-Enabled Information/Influence Warfare and Manipulation, SSRN (2017), 4.
+
+9
+
+” See, for example, NATO Strategic Communications Centre of Excellence, Social Media as a Tool of Hybrid Warfare (2016), 8 (“social media, which is made up of a multitude of trust-based networks, provides fertile ground for the dissemination of propaganda and disinformation, and the manipulation of our perceptions and beliefs”). On the distinctive features of today’s technological environment, see generally Claire Vishik et al., Key Concepts in Cyber Security: Towards a Common Policy and Technology Context for Cyber Security Norms, in Anna-Maria Osula and Henry Rõgias (eds.), International Cyber Norms: Legal, Policy & Industry Perspectives (2016), 227-230.
+
+10
+
+” Herbert Lin and Jaclyn Kerr, above n.8, 11-14.
+
+11
+
+” Evan I. Schwartz, Finding Our Way with Digital Bread Crumbs, MIT Technology Review (18 August 2010).
+
+12
+
+” For other useful typologies, see generally Chris Tenove, et al., Digital Threats to Democratic Elections: How Foreign Actors Use Digital Techniques to Undermine Democracy (2018), 12-25 (distinguishing between cyber attacks on systems and databases, misinformation campaigns, micro-targeted manipulation, and trolling); Brattberg and Maurer, above n.7, 27 (distinguishing between information operations, cyber operations, and mixed operations); Daniel Fried and Alina Polyakova, Democratic Defense Against Disinformation (2018), 3-4 (distinguishing between overt foreign propaganda, social-media infiltration, and cyber hacking); Herbert Lin and Jaclyn Kerr, above n.8, 9-11 (distinguishing between propaganda operations, chaos-producing operations, and leak operations); and Claire Wardle and Hossein Derakhshan, above n.5, 20 (distinguishing between malinformation, disinformation and misinformation).
+
+13
+
+” See generally Lawrence Norden and Ian Vandewalker, Securing Elections from Foreign Interference (2017); and The National Academies of Sciences, Engineering, and Medicine, Securing the Vote: Protecting American Democracy (2018).
+
+14
+
+” Book says hacker tried to stop Mandela coming to power, BBC News (26 October 2010).
+
+15
+
+” Lawrence Norden and Ian Vandewalker, above n.13, 16-17.
+
+16
+
+” Brexit vote site may have been attacked, MPs say in report, BBC News (12 April 2017).
+
+17
+
+” William A. Owens et al., Technology, Policy, Law, and Ethics Regarding U.S. Acquisition and Use of Cyberattack Capabilities (2009), 1. Recently, the Global Commission on the Stability of Cyberspace proposed a norm for the protection of electoral infrastructure: “State and non-state actors should not pursue, support or allow cyber operations intended to disrupt the technical infrastructure essential to elections, referenda or plebiscites”. See, Global Commission on the Stability of Cyberspace, Call to Protect the Electoral Infrastructure (May 2018).
+
+18
+
+” Duncan Hollis, above n.8, 36. See also Herbert Lin and Jaclyn Kerr, above n.8, 4 (defining an “influence operation” as “the deliberate use of information by one party on an adversary to confuse, mislead, and ultimately to influence the choices and decisions that the adversary makes”).
+
+19
+
+” Duncan Hollis, above n.8, 36-39; Chris Tenove et al., above n.12, 33-35; Claire Wardle and Hossein Derakhshan, above n.5, 20-48; and Helen Norton, (At Least) Thirteen Ways of Looking at Election Lies, 71 Oklahoma Law Review (2018), 117.
+
+20
+
+” Herbert Lin and Jaclyn Kerr, above n.8, 6. See similarly, Duncan Hollis, above n.8, 36.
+
+21
+
+” Herbert Lin and Jaclyn Kerr, above n.8, 8-9; and Duncan Hollis, above n.8, 38-39.
+
+22
+
+” Duncan Hollis, above n.8, 36.
+
+23
+
+” See generally Wibke K. Timmerman, Incitement in International Law (2015), 199-222; and Gregory S. Gordon, Atrocity Speech Law: Foundation, Fragmentation, Fruition (2017).
+
+24
+
+” For a useful attempt to identify a non-exhaustive list of criteria that may assist in differentiating between influence operations, see Duncan Hollis, above n.8, 36-39. On the challenges of formulating a US response to alleged Russian cyber influence operations in light of the history of US election interference, see Jack Goldsmith, Uncomfortable Questions in the Wake of Russia Indictment 2.0 and Trump’s Press Conference with Putin, Lawfare (16 July 2018). On the importance of examining the structural causes behind effective cyber influence operations, see Claire Wardle and Hossein Derakhshan, above n.5, 14.
+
+25
+
+” In existing literature, “information operations” has sometimes been used to refer to politically-motivated influence operations. See, for example, Jen Weedon, et al., Information Operations and Facebook (27 April 2017), 4 (defining “information operations” as “actions taken by organized actors (government or non-state actors) to distort domestic or foreign political sentiment, most frequently to achieve a strategic and/or geopolitical outcome”).
+
+26
+
+” Nellie Bowles, How “Doxing” Became a Mainstream Tool in the Culture Wars, The New York Times (30 August 2017). See also Bruce Schneier, How Long Until Hackers Start Faking Leaked Documents?, The Atlantic (13 September 2016) (defining “organizational doxing” as a practice where “hackers, in some cases individuals and in others nation-states, are out to make political points by revealing proprietary, secret, and sometimes incriminating information”); and Ido Kilovaty, Doxfare: Politically Motivated Leaks and the Future of the Norm on Non-Intervention in the Era of Weaponized Information, 9 Harvard National Security Journal (2018), 152 (defining “doxfare” as “state-sponsored intrusions into foreign computer systems and networks to collect bulk, non-public data that are then leaked for public consumption”).
+
+27
+
+” Chris Tenove, et al., above n.12, 13-14.
+
+28
+
+” See, in this regard, E. Gabriella Coleman, The Public Interest Hack, Limn (17 May 2017) (using the term “public interest hack” in a broader sense to refer to “a computer infiltration for the purpose of leaking documents that will have political consequence”).
+
+29
+
+” See, in this regard, Adam Hulcoop, et al., Tainted Leaks: Disinformation and Phishing With a Russian Nexus, The Citizen Lab (25 May 2017) (defining “tainted leaks” as “the deliberate seeding of false information within a larger set of authentically stolen data”).
+
+30
+
+” See similarly Martin Libicki, The Coming of Cyber Espionage Norms, in Henry Rõigas, et al. (eds.), Defending the Core (2017), 7, 11-14.
+
+31
+
+” See generally ODNI, above n.5, 2-3.
+
+32
+
+” Ido Kilovaty, above n.26, 155-156 (noting that the first batch of emails was released days before the Democratic Party Convention amidst rumours that disgruntled supporters of Bernie Sanders might try to detail the official nomination process, while the second batch was released the Sunday before the election).
+
+33
+
+” Ibid., 156-157.
+
+34
+
+” ODNI, above n.5, 3.
+
+35
+
+” Macron hackers linked to Russian-affiliated group behind US attack, The Guardian (8 May 2017).
+
+36
+
+” Herbert Lin, Responding to Sub-Threshold Cyber Intrusions: A Fertile Topic for Research and Discussion, Georgetown Journal of International Affairs (2011), 129.
+
+37
+
+” Claire Wardle and Hossein Derakhshan, above n.5, 20 (also distinguishing the further category of “mis-information”, namely information that is false but not created with the intention of causing harm). See also Samuel C. Woolley and Philip N. Howard, Computational Propaganda Worldwide: Executive Summary, Computational Propaganda Research Project, Working Paper No. 2017.11 (2017), 3 (referring to “computational propaganda”, defined as “the use of algorithms, automation, and human curation to purposefully distribute misleading information over social media networks”).
+
+38
+
+” Chris Tenove, et al., above n.12, 22-25 (summarising different trolling techniques including threat-making, intimidation and memes).
+
+39
+
+” Communication—Tackling Online Disinformation: A European Approach, European Commission, COM(2018) 236 final (26 April 2018), 3-4. See also Jen Weedon, et al., above n.25, 5 (defining “disinformation” as “inaccurate or manipulated information/content that is spread intentionally”, which “can include false news, or […] involve more subtle methods, such as false flag operations, feeding inaccurate quotes or stories to innocent intermediaries, or knowingly amplifying biased or misleading information”); and Joint Declaration on Freedom of Expression and “Fake News”, Disinformation and Propaganda, FOM.GAL/3/17 (3 March 2017), para. 2(c) (distinguishing between the practice of States spreading “disinformation”, namely “statements which they know or reasonably should know to be false”, and “propaganda”, namely “statements which […] demonstrate a reckless disregard for verifiable information”).
+
+40
+
+” Communication—Tackling Online Disinformation: A European Approach, European Commission, above n.39, 4. See also EU Code of Practice on Disinformation (2018), Preamble (relying on the same definition but adding that “disinformation” does not include “misleading advertising”).
+
+41
+
+” See, for example, Claire Wardle, Fake News. It’s Complicated, First Draft (16 February 2017) (identifying seven distinct types of more or less problematic content, which “sit on a scale, one that loosely measures the intent to deceive”).
+
+42
+
+” Independent High Level Expert Group on Fake News and Online Disinformation, A Multi-Dimensional Approach to Disinformation: Report of the Independent High Level Group on Fake News and Online Disinformation (2018), 10. See similarly, Claire Wardle and Hossein Derakhshan, above n.5, 15-18.
+
+43
+
+” David M. Howard, Can Democracy Withstand the Cyber Age: 1984 in the 21 st Century, 69 Hastings Law Journal (2018), 1366.
+
+44
+
+” Samantha Bradshaw and Philip N. Howard, Troops, Trolls and Troublemakers: A Global Inventory of Organized Social Media Manipulation, Computational Propaganda Research Project, Working Paper No. 2017.12 (2017), 4.
+
+45
+
+” Ibid., 9-12. See similarly Samantha Bradshaw and Philip N. Howard, Challenging Truth and Trust: A Global Inventory of Organized Social Media Manipulation, Computational Propaganda Research Project (2018); and Tim Wu, Is The First Amendment Obsolete, Emerging Threats Series, Knight First Amendment Institute (2017), 11-14.
+
+46
+
+” ODNI, above n.5, 4. On the Internet Research Agency, see generally Renee DiResta et al, The Tactics & Tropes of the Internet Research Agency (New Knowledge, 2018); Philip N. Howard et al, The IRA, Social Media and Political Polarization in the United States, 2012-2018 (Computational Propaganda Project, 2018); Adrian Chen, The Agency, The New York Times Magazine (2 June 2015); and Adrian Chen, What Mueller’s Indictment Reveals About Russia’s Internet Research Agency, The New Yorker (16 February 2018). On Russian trolling, see generally NATO Strategic Communications Centre of Excellence, above n.9, 27-34; and Todd C. Helmus et al, Russian Social Media Influence: Understanding Russian Propaganda in Eastern Europe (2018), 22-25.
+
+47
+
+” Indictment, United States v. Internet Research Agency LLC et al., No. 1:18-cr-00032, 2018 WL 914777, D.D.C. (16 February 2018), para.6.
+
+48
+
+” Ibid., paras 10, 28 and 42-57. For commentary, see generally David Smith, Putin’s chef, a troll farm and Russia’s plot to hijack US democracy, The Guardian, 17 February 2018. For more recent information operations, see, for example, Facebook deletes accounts over signs of Russian meddling in US midterms, The Guardian (31 July 2018); Facebook removes 652 fake accounts and pages meant to influence world politics, The Guardian (22 August 2018).
+
+49
+
+” Hearing before the Senate Select Committee on Intelligence: Testimony of Colin Stretch, General Council, Facebook (1 November 2017), 4-5. See also Russia-backed Facebook posts “reached 126m Americans” during US election, The Guardian (31 October 2017). As this article was being finalised, two new reports analysing the scope of the multiyear Russian operation to influence US opinion through social media were published. The reports conclude that Russian interference is a chronic, widespread and identifiable condition, which involves multiple platforms spanning the entire online social ecosystem. For a summary of the reports’ findings, see Renée DiResta, What We Now Know About Russian Disinformation, The New York Times (17 December 2018). See generally DiResta et al, above n.46; and Philip N. Howard et al, above n.46.
+
+50
+
+” Craig Silverman, Viral Fake Election News Stories Outperformed Real News on Facebook, BuzzFeed News (16 November 2016).
+
+51
+
+” On the “weaponization of information” by Russia and its reliance on “reflexive control” theory—namely the study by a State of an adversarial power to identify and exploit its weaknesses in order to encourage a decision that benefits the controlling State—see generally Ido Kilovaty, above n.26, 158-160.
+
+52
+
+” Jen Weedon, et al., above n.25, 11.
+
+53
+
+” Rebecca Crootof, International Cybertorts: Expanding State Accountability in Cyberspace, 103 Cornell Law Review (2018), 569.
+
+54
+
+” Clare Sullivan, The 2014 Sony Hack and the Role of International Law, 8 Journal of National Security Law & Policy (2016), 446.
+
+55
+
+” Anthea Roberts, Clash of Paradigms: Actors and Analogies Shaping the Investment Treaty System, 107 American Journal of International Law (2013), 48. See also Andrea Bianchi, International Law Theories: An Inquiry into Different Ways of Thinking (2016), Chapter 1.
+
+56
+
+” Anthea Roberts, above n.55, 57.
+
+57
+
+” Ibid., 47.
+
+58
+
+” Martti Koskenniemi, The Politics of International Law—20 Years Later, 20 European Journal of International Law (2009), 11 (emphasis in original).
+
+59
+
+” Jan Klabbers and Touko Piiparinen, Normative Pluralism: An Exploration, in Jan Klabbers and Touko Piiparinen (eds.), Normative Pluralism and International Law: Exploring Global Governance (2013), 25.
+
+60
+
+” Thomas S. Kuhn, The Structure of Scientific Revolutions (3 rd ed., 1996), 50. See also Jan Klabbers and Touko Piiparinen, above n.59, 25 (revealing the different ways of framing the HIV/AIDS crisis, including legal paradigms such as health, trade and human rights law, as well as non-legal paradigms such as religion and public morality).
+
+61
+
+” Ashley Deeks, The International Legal Dynamics of Encryption, Hoover Institution Essay (2016). See also Duncan Hollis, Re-Thinking the Boundaries of Law in Cyberspace: A Duty to Hack?, in Jens D. Ohlin et al. (eds.), Cyber War: Law and Ethics for Virtual Conflicts (2015), 147-148 (discussing the potential for competition and normative conflicts between different regimes of international law in the cyber context).
+
+62
+
+” Dinah Shelton, Remedies in International Human Rights Law (2015), 59.
+
+63
+
+” Article 2, International Law Commission’s Articles on Responsibility of States for Internationally Wrongful Acts, annexed to General Assembly Resolution 56/83 (2001), U.N.Doc. A/RES/56/83 (28 January 2002) (“ASR”).
+
+64
+
+” See generally Michael N. Schmitt, “Virtual” Disenfranchisement: Cyber Election Meddling in the Grey Zones of International Law, 19 Chicago Journal of International Law, 39-42; and Dan Efrony and Yuval Shany, A Rule Book on The Shelf? Tallinn Manual 2.0 on Cyber Operations and Subsequent State Practice, 112 American Journal of International Law (2018), 640-641.
+
+65
+
+” Michael N. Schmitt (ed.), Tallinn Manual 2.0 on the International Law Applicable to Cyber Operations (2017) (‘Tallinn 2.0’), 17 (“A State must not conduct cyber operations that violate the sovereignty of another State.”). See similarly, Michael N. Schmitt and Liis Vihul, Sovereignty in Cyberspace: Lex Lata Vel Non ?, 111 AJIL Unbound (2017), 213; and Michael Schmitt, ‘In Defence of Sovereignty in Cyberspace’, Just Security (8 May 2018).
+
+66
+
+” UK Attorney General, Cyber and International Law in the 21 st Century, 23 May 2018, available online at: https://www.gov.uk/government/speeches/cyber-and-international-law-in-the-21st-century (last accessed 11 June 2018).
+
+67
+
+” Gary P. Corn and Robert Taylor, Sovereignty in the Age of Cyber, 111 AJIL Unbound 207 (2017), 208. See similarly Gary Corn, Tallinn Manual 2.0—Advancing the Conversation, Just Security (15 February 2017); and Gary Corn and Eric Jensen, The Technicolor Zone of Cyberspace, Part 2, Just Security (8 June 2018). See also Memorandum from Jennifer M. O’Connor, Gen. Counsel of the Department of Defence, International Law Framework for Employing Cyber Capabilities in Military Operations (19 January 2017), discussed in Sean Watts and Theodore Richard, Baseline Territorial Sovereignty and Cyberspace, 22 Lewis & Clark Law Review (2018), 803, 859-863.
+
+68
+
+” Tallinn 2.0, above n.65, 20.
+
+69
+
+” Ibid., 20-21.
+
+70
+
+” Duncan Hollis, above n.8, 42.
+
+71
+
+” Tallinn 2.0, above n.65, 21.
+
+72
+
+” Michael N. Schmitt, above n.64, 45. See also Sean Watts, International Law and Proposed U.S. Responses to the D.N.C. Hack, Just Security (14 October 2016) (arguing that “a majority view might regard the D.N.C. hacks as violations of U.S. sovereignty, assuming they involved nonconsensual intrusion into cyber systems located in the U.S.”, but that “[m]omentum is building behind a view that mere compromises or thefts of data are not violations of sovereignty, but rather routine facets of espionage and competition among States”).
+
+73
+
+” Tallinn 2.0, above n.65, 22.
+
+74
+
+” See, in this regard, Michael N. Schmitt, above n.64, 45-46 (defining “interference” as “activities that disturb the territorial State’s ability to perform the functions as it wishes” and “usurpation” as “performing an inherently governmental function on another State’s territory without its consent”).
+
+75
+
+” Tallinn 2.0, above n.65, 26. See similarly Jens D. Ohlin, Did Russian Cyber Interference in the 2016 Election Violate International Law, 95 Texas Law Review (2017), 1588 and 1593-1594.
+
+76
+
+” Michael N. Schmitt, above n.64, 47.
+
+77
+
+” Ibid.
+
+78
+
+” For an overview of the relevant references, see generally Tallinn 2.0, above n.65, 312-313; and Ido Kilovaty, above n.26, 161-169.
+
+79
+
+” Military and Paramilitary Activities in and Against Nicaragua (Nicaragua v. United States of America), ICJ, Merits, Judgment, ICJ Reports 1986, 14, para.205.
+
+80
+
+” Duncan Hollis, above n.8, 40.
+
+81
+
+” Nicaragua, above n.79, para.205. See also Chatham House, The Principle of Non-Intervention in Contemporary International Law (2007).
+
+82
+
+” Tallinn 2.0, above n.65, 315.
+
+83
+
+” Nicaragua, above n.79, para.205. Beyond coercion, further complications arise from uncertainties over the requisite causality of the coercive effect, whether the target State must have knowledge of the cyber operation constituting the purported intervention, and whether the author of the cyber operation must intend to coerce behaviour. For discussion of these questions, see generally Tallinn 2.0, above n.65, Rule 66, paras.19 and 24-28.
+
+84
+
+” Robert Jennings and Arthur Watts (eds.), Oppenheim’s International Law (9 th ed., 2008), 432.
+
+85
+
+” Tallinn 2.0, above n.65, 317.
+
+86
+
+” See similarly, Duncan Hollis, above n.8, 40-41 (“the very nature of IOs—the goal of having a target adopt or change certain behaviors willingly —implies an absence of coercion, making the prohibition inconsistent with the IO concept’s core idea”) (emphasis in original). Contrast: Patrick C.R. Terry, “Don’t Do as I Do”—The US Response to Russian and Chinese Cyber Espionage and Public International Law, 19 German Law Journal (2018), 621 (arguing that Russia’s doxing operation may be characterised as coercive to the extent that it “forced the US into unwittingly disclosing what it, as a sovereign State, had decided not to disclose” and thereby “robbed [the US] of the opportunity to make a sovereign decision on who it wanted to share information […] with”).
+
+87
+
+” Tallinn 2.0, above n.65, 318-319. See, however, Michael N. Schmitt, Grey Zones in the International Law of Cyberspace, 42 Yale Journal of International Law (2017), 8 (arguing that the Russian doxing operation on the 2016 US presidential election was coercive because it “manipulated the process of elections and therefore caused them to unfold in a way that they otherwise would not have”); and Michael N. Schmitt, above n.64, 51 (arguing that the covert nature of the Russian troll operation in the run-up to the US election and the domestically unlawful nature of the Russian doxing operation were such that they thwarted the electorate’s freedom of choice and decision-making capacities and thereby may qualify as prohibited forms of intervention).
+
+88
+
+” See, for example, Russell Buchan, The International Legal Regulation of State-Sponsored Cyber Espionage, in: Anna-Maria Osula and Henry Rõgias (eds.), above n.9, 78 (“conduct which compromises or undermines the authority of the state should be regarded as coercive”); Steven Barela, Cross-Border Cyber Ops to Erode Legitimacy: An Act of Coercion, Just Security (12 January 2017) (“a foreign power weakening confidence in the legitimacy of the [electoral] process should be interpreted as an act of coercion” because “the disruption of a free and fair election strikes at a sine qua non for the State” and “results in a weakened authority”); Gary Corn and Eric Jensen, above n.67 (“actions involving some level of subversion or usurpation of a victim state’s protected prerogatives, such as the delivery of covert effects and deception actions that, like criminal fraud provisions in domestic legal regimes, are designed to achieve unlawful gain or to deprive a victim state of a legal right”).
+
+89
+
+” Myers S. McDougal and Florentino P. Feliciano, International Coercion and World Public Order: The General Principles of the Law of War, 67 Yale Law Journal (1958), 782. See also Sean Watts, Low-Intensity Cyber Operations and the Principle of Non-Intervention, in Jens D. Ohlin et al. (eds.), Cyber War: Law and Ethics for Virtual Conflicts (2015), 257 (“Applied to cyber means and acts, Myres and Feliciano’s dimensions of coercion might consider the nature of state interests affected by a cyber operation, the scale of effects the operation produces in the target state, and the reach in terms of numbers of actors involuntarily affected by the cyber operation in question”).
+
+90
+
+” Russell Buchan, above n.88, 79-80.
+
+91
+
+” Declaration on Principles of International Law Concerning Friendly Relations and Co-operation among States in Accordance with the Charter of the United Nations, Annex (24 October 1970) (emphasis added). See also Russell Buchan, above n.88, 78-79 (identifying further support in state practice and international case law).
+
+92
+
+” Steven Barela, Zero Shades of Grey: Russian-Ops Violate International Law, Just Security (29 March 2018). See also Gary Corn and Eric Jensen, above n.67 (arguing that “the [US] charge of conspiracy to impair lawful government functions by means of fraud and deceit seems a clear case of prohibited intervention in violation of international law”).
+
+93
+
+” Michael N. Schmitt (ed.), Tallinn Manual on the International Law Applicable to Cyber Warfare (CUP, 2013), 45.
+
+94
+
+” Harold H. Koh, The Trump Administration and International Law, 56 Washburn Law Journal (2017), 450 (“illegal coercive interference in another country’s electoral politics—including the deliberate spreading of false news—constitutes a blatant intervention in violation of international law”).
+
+95
+
+” William Banks, State Responsibility and Attribution of Cyber Intrusions After Tallinn 2.0, 95 Texas Law Review (2017), 1501. See similarly Jens D. Ohlin, above n.75, 1593 (“While the Russian hacking was certainly corrosive, it is genuinely unclear whether it should count as coercive”); Michael N. Schmitt, above n.64, 50 (identifying “a significant grey zone”); and Ido Kilovaty, above n.26, 172-173 (proposing a new test whereby doxing which “significantly disrupts a state’s protected internal or external affairs” should suffice to constitute a wrongful intervention even in the absence of coercion).
+
+96
+
+” Corfu Channel (United Kingdom v. Albania), ICJ, Judgment, ICJ Reports 1949, 4, 22.
+
+97
+
+” Russell Buchan, Cyberspace, Non-State Actors and the Obligation to Prevent Transboundary Harm, 21 Journal of Conflict & Security Law (2016), 431-432.
+
+98
+
+” Michael N. Schmitt, above n.64, 53. See also Beatrice A. Walton, Duties Owed: Low-Intensity Cyber Attacks and Liability for Transboundary Torts in International Law, 126 Yale Law Journal (2017), at 1496 (“Due diligence appears to exist not as an independent obligation within customary international law, giving rise to state responsibility, but instead as a standard of care owed with respect to certain primary duties in international law”) (emphasis in original).
+
+99
+
+” Report of the Group of Governmental Experts on Developments in the Field of Information and Telecommunications in the Context of International Security, U.N.Doc. A/70/174 (22 July 2015) (“UN GGE 2015 Report”), para. 28(e) (emphasis added).
+
+100
+
+” Dan Efrony and Yuval Shany, above n.64, 643-645.
+
+101
+
+” Tallinn 2.0, above n.65, 31.
+
+102
+
+” Ibid., 33-50. See similarly Luke Chircop, A Due Diligence Standard of Attribution in Cyberspace, 67 International and Comparative Law Quarterly (2018), 649-651; and Eric T. Jensen and Sean Watts, A Cyber Duty of Due Diligence: Gentle Civilizer or Crude Destabilizer, 95 Texas Law Review (2017), 1564-1567.
+
+103
+
+” Nicholas Tsagourias, Non-State Actors, Ungoverned Spaces and International Responsibility for Cyber Acts, 21 Journal of Conflict & Security Law (2016), 466.
+
+104
+
+” In practice, questions of breach and attribution are closely related and first require a determination of whether a hostile cyber operation is detectable. See, in this regard, Kristen Eichensehr, Cyber Attribution Problems—Not Just Who, But What, Just Security (11 December 2014).
+
+105
+
+” Nicholas Tsagourias, Cyber Attacks, Self-Defence and the Problem of Attribution, 17 Journal of Conflict & Security Law (2012), 233.
+
+106
+
+” Eric T. Jensen and Sean Watts, above n.102, 1558; and Luke Chircop, above n.102, 646.
+
+107
+
+” Brian J. Egan, International Law and Stability in Cyberspace, 35 Berkeley Journal of International Law (2017), 176.
+
+108
+
+” Dan Efrony and Yuval Shany, above n.64, 632.
+
+109
+
+” Nicholas Tsagourias, above 105, 234.
+
+110
+
+” Luke Chircop, above n.102, 647.
+
+111
+
+” Kubo Mačák, From Cyber Norms to Cyber Rules: Re-engaging States as Law-makers, 30 Leiden Journal of International Law (2017), 894-896.
+
+112
+
+” Tim Maurer, Cyber Mercenaries: The State, Hackers, and Power (2018), 24.
+
+113
+
+” Brian J. Egan, above n.107, 176.
+
+114
+
+” See, in this regard, Dan Efrony and Yuval Shany, above n.64, 632-637.
+
+115
+
+” International Law Commission, Draft Articles on Responsibility of States for Internationally Wrongful Acts with Commentaries (2001), 38 (‘ASR Commentaries’).
+
+116
+
+” Tallinn 2.0, above n.65, 81-83 (also noting that States are not legally obliged to publicly reveal the evidence on which attribution is based prior to taking action in response).
+
+117
+
+” For a recent study of cyber proxies, see generally Tim Maurer, above n.112.
+
+118
+
+” Article 8 ASR provides that “[t]he conduct of a person or group of persons shall be considered an act of a State under international law if the person or group of persons is in fact acting […] under the direction or control of, that State in carrying out the conduct”. The ICJ in its Nicaragua and Genocide judgments has confirmed that the relevant test is one of “effective control”. See Nicaragua, above n.72, para.115; and Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Serbia and Montenegro), ICJ, Judgment, ICJ Reports 2007 (26 February 2007), 43, para.400. The precise parameters of the effective control test remain uncertain. See, for example, Michael N. Schmitt, above n.64, 61-63. In addition, it remains contested whether the appropriate standard of control under Article 8 ASR is “effective control” or “overall control”. For a useful discussion of Article 8 ASR in the cyber context, see generally Kubo Mačák, Decoding Article 8 of the International Law Commission’s Article’s on State Responsibility: Attribution of Cyber Operations by Non-State Actors, 21 Journal of Conflict & Security Law (2016), 406.
+
+119
+
+” Ido Kilovaty, above n.26, 174-176 (“The diffusion of power means that states no longer have a monopoly over cyberspace, and more non-state entities are becoming involved in cyberspace activities on a large scale”).
+
+120
+
+” Article 29 ASR.
+
+121
+
+” Article 30 ASR.
+
+122
+
+” Articles 31 and 34 ASR.
+
+123
+
+” This section assumes that cyber influence operations are unlikely to reach the threshold of “armed attack” so as to enable the use of force in self-defence, or lead to “an essential interest” of the target State being brought into “grave and imminent peril” such that the target State may invoke a plea of necessity. See Articles 21 and 25 ASR; and Michael N. Schmitt, above n.64, 65-66.
+
+124
+
+” ASR Commentaries above n.115, 128.
+
+125
+
+” Terry D. Gill, Non-Intervention in the Cyber Context, in: Katharina Ziolkowski (ed.), Peacetime Regime for State Activities in Cyberspace: International Law, International Relations and Diplomacy (2013), 230.
+
+126
+
+” Ibid.
+
+127
+
+” Article 42 ASR.
+
+128
+
+” ASR Commentaries, above n.115, 117.
+
+129
+
+” Ibid., 128.
+
+130
+
+” Terry D. Gill, above n.125, 236.
+
+131
+
+” See, in this regard, Michael Schmitt and Liis Vihul, International Cyber Law Politicized: The UN GGE’s Failure to Advance Cyber Norms, Just Security (30 June 2018); and Arun M. Sukumar, The UN GGE Failed. Is International Law Doomed As Well?, Lawfare (4 July 2017).
+
+132
+
+” See generally Tallinn 2.0, above n.65, 111.
+
+133
+
+” Michael Schmitt and Liis Vihul, above n.131.
+
+134
+
+” Ibid. (arguing that this is an “operational reality that may drive their political positions, but one that is irrelevant to the existence of the legal norms”).
+
+135
+
+” Articles 49, 51 and 53 ASR.
+
+136
+
+” Article 50 ASR.
+
+137
+
+” Michael N. Schmitt, above n.64, 65.
+
+138
+
+” Tallinn 2.0, above n.65, 112-113.
+
+139
+
+” Ibid., 128.
+
+140
+
+” Articles 43(2) and 52(1)(a) ASR.
+
+141
+
+” Gary Corn and Eric T. Jensen, The Use of Force and Cyber Countermeasures, SSRN (2018), 6-7. Recently, the UK confirmed that it does not agree that it is “always legally obliged to give prior notification to the hostile state before taking countermeasures against it”. UK Attorney General, Cyber and International Law in the 21 st Century (23 May 2018), (available online at: www.gov.uk/government/speeches/cyber-and-international-law-in-the-21st-century last accessed 11 June 2018). See similarly Tallinn 2.0, above n.65, 120.
+
+142
+
+” Articles 49 and 53 ASR.
+
+143
+
+” Paul A. Walker, Law of the Horse to Law of the Submarine: The Future of State Behavior in Cyberspace, in: Markus Maybaum et al. (eds), Architectures of Cyberspace (2015), 102; and Rebecca Crootof, above n.53, 585.
+
+144
+
+” Gary Corn and Eric T. Jensen, above n.141, 7-9.
+
+145
+
+” Ibid., 8.
+
+146
+
+” Tallinn 2.0, above n.65, 130.
+
+147
+
+” Ireland v. United Kingdom, Application No. 5310/71, European Court of Human Rights, Judgment (18 January 1978), para.236. See similarly, ASR Commentaries, above n.115, 129 (“for some obligations, for example those concerning the protection of human rights […] [t]he obligations in question have a non-reciprocal character and are not only due to other States but to the individuals themselves”) (emphasis added).
+
+148
+
+” See, for example, Ivcher Bronstein v. Peru, Inter-American Court of Human Rights, Judgment (Competence), Series C No. 54 (24 September 1999), para.42 (“The convention and the other human rights treaties are inspired by a set of higher common values (centred around the protection of the human person), are endowed with specific supervisory mechanisms, are applied as a collective guarantee, essentially objective obligations, and have a special character that sets them apart from other treaties”).
+
+149
+
+” Anthea Roberts, above n.55, 72. See similarly, Lea Brilmayer, From “Contracts” to “Pledge”: The Structure of International Human Rights Agreements, 77 British Yearbook of International Law (2006), 178 and 181 (“The intended beneficiaries of rights agreements, quite clearly are individuals and not the signatory states themselves […] The pledges that states make to protect human and humanitarian rights are independent and parallel, not conditional and reciprocal, so that non-performance by one party does not excuse non-performance by another”).
+
+150
+
+” The following conceptualization of the human rights paradigm draws on Anthea Roberts, above n.55, 69-74.
+
+151
+
+” ASR Commentaries, above n.115, 119 (explaining that “specially affected” refers to situations where the wrongful act has “particular adverse effects on one State or on a small number of States […] in a way which distinguishes it from the generality of other States to which the obligation is owed”).
+
+152
+
+” Ibid., 126. See also Bruno Simma, From Bilateralism to Community Interest in International Law, in: Collected Courses of The Hague Academy of International Law (1994), 370 (“[F]rom a strictly legal point of view, human rights treaties are ‘built’ like all other multilateral treaties. They, too, create rights and obligations between their parties to the effect that any State party is obliged as against any other State party to perform its obligations and that, conversely, any party has a correlative right to integral performance by all the other contracting States”); and UN Human Rights Committee, General Comment No. 31: The Nature of the General Legal Obligation Imposed on State Parties to the Covenant, U.N. Doc. CCPR/C/21/Rev.1/Add.13 (26 May 2004), para.2 (“While article 2 [of the ICCPR] is couched in terms of the obligations of State Parties towards individuals as the right-holders under the Covenant, every State Party has a legal interest in the performance by every other State Party of its obligations. […] Furthermore, the contractual dimension of the treaty involves any State Party to a treaty being obligated to every other State Party to comply with its undertakings under the treaty”). Contrast: Rosalyn Higgins, Problems and Process: International Law and How We Use It (1995), 95 (“The special body of international law characterized as human-rights law is strikingly different from the rest of international law, in that it stipulates that obligations are owed directly to individuals ( and not to the national government of an individual)”) (emphasis added).
+
+153
+
+” Third Report on State Responsibility, by Mr. James Crawford, Special Rapporteur, U.N. Doc. A/CN.4/507 and ADD.1-4 (15 March, 15 June, 10 and 18 July, and 4 August 2000) (“Crawford Report”), 32, fn.185.
+
+154
+
+” See, for example, Human Rights Council Resolution 20/8 (2012), para.1; and Human Rights Council Resolution 26/13 (2014), para.1.
+
+155
+
+” See, for example, General Assembly Resolution 68/167 (2013), para.3; and General Assembly Resolution 69/166 (2014), para.3.
+
+156
+
+” See, for example, UN GGE 2015 Report, above n.99, paras 26 and 28(b); and Report of the Group of Governmental Experts on Developments in the Field of Information and Telecommunications in the Context of International Security, U.N. Doc. A/68/98 (24 June 2013), para.21.
+
+157
+
+” Tallinn 2.0, above n.65, Rule 35.
+
+158
+
+” See generally Hilary Charlesworth, International Legal Encounters with Democracy, 8 Global Policy (2017), 36-37; Johannes H. Fahner, Revisiting the Human Right to Democracy: A Positivist Analysis, International Journal of Human Rights (2017), 321; Alex Conte, Democratic and Civil Rights, in Alex Conte and Richard Burchill, Defining Civil and Political Rights: The Jurisprudence of the United Nations Human Rights Committee (2 nd ed., 2016), 97-110; Sarah Joseph and Melissa Castan, The International Covenant on Civil and Political Rights: Cases, Materials, and Commentary (2013), 727-758; and Gregory H. Fox, The Right to Political Participation in International Law, in Gregory H. Fox and Brad R. Roth (eds.), Democratic Governance and International Law (2000), 53-69.
+
+159
+
+” Article 25, ICCPR. See also Article 23, ACHR; Article 13, Banjul Charter; and Article 3, Protocol No. 1 to the ECHR.
+
+160
+
+” UN Human Rights Committee, General Comment No. 25: The right to participate in public affairs, voting rights and the right of equal access to public service (Art. 25), U.N. Doc. CCPR/C/21/Rev.1/Add.7 (12 July 1996) (‘UN HRC General Comment No. 25’), para.19 (emphasis added). See similarly, Mexico Elections Decision: Cases 9768, 9780, 9828, Inter-American Commission on Human Rights, OEA/ser. L/V/11.77 rev. 1 (17 May 1990), para.47 (“The act of electing representatives must be ‘authentic’ in the sense stipulated by the American Convention, implying that there must be some consistency between the will of the voters and the result of the election. In the negative sense, the characteristic implies an absence of coercion which distorts the will of the citizens”).
+
+161
+
+” See, for example, Harold H. Koh, above n.94, 450-451 (“An external attempt to distort the information that voters possess when they go to the polls violates the human rights of the electors under the [ICCPR]”); and Sarah Joseph, The Human Rights Responsibilities of Media and Social Media Businesses, SSRN (2018), 20 (suggesting that Russia’s cyber influence campaign on the 2016 US presidential election “could represent a breach of the right of political participation by Russia with regard to US citizens, in the form of an intentional distortion of political outcomes”).
+
+162
+
+” UN HRC General Comment No. 25, above n.160, para.3. See also Jens D. Ohlin, above n.75, 1583-1584.
+
+163
+
+” Article 19(2), ICCPR. See also Article 13, ACHR; Article 9, Banjul Charter; and Article 10, ECHR.
+
+164
+
+” UN Human Rights Committee, General Comment No. 34: Article 19: Freedom of opinion and expression, U.N. Doc. CCPR/C/GC/34 (12 September 2011) (‘UN HRC General Comment No. 34’), para.20.
+
+165
+
+” Joint Declaration on Freedom of Expression and “Fake News”, Disinformation and Propaganda, FOM.GAL/3/17 (3 March 2017), Preamble.
+
+166
+
+” Ibid., para.2(c).
+
+167
+
+” For a general overview of these requirements in the context of the right to freedom of expression, see generally Report of the Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression, U.N.Doc. A/71/373 (6 September 2016).
+
+168
+
+” Carly Nyst and Nick Monaco, State-sponsored Trolling: How Governments are Deploying Disinformation as Part of Broader Digital Harassment Campaigns, Institute for the Future (2018), 46.
+
+169
+
+” For discussion, see generally Jens D. Ohlin, above n.75, 1583-1586; Michael N. Schmitt, above n.64, 56-57; and Duncan Hollis, above n.8, 42-43.
+
+170
+
+” In terms of treaty law, see, for example, Article 17, ICCPR; Article 11, ACHR; and Article 8, ECHR. In terms of custom, see generally Tallinn 2.0, above n.65, 189.
+
+171
+
+” Report of the UN Special Rapporteur on the Promotion and Protection of Human Rights and Fundamental Freedoms While Countering Terrorism, U.N.Doc. A/69/397 (23 September 2014), para.28. See generally Lisl Brunner, Digital Communications and the Evolving Right to Privacy, in Molly K. Land and Jay D. Aronson, New Technologies for Human Rights Law and Practice (2018), 218-224; and Eliza Watt, The Right to Privacy and the Future of Mass Surveillance, 21 The International Journal of Human Rights (2017), 778-779.
+
+172
+
+” UN Human Rights Committee, General Comment No. 16—Article 17 (The Right to Respect of Privacy, Family, Home and Correspondence, and Protection of Honour and Reputation), HRI/GEN/1/Rev.9 (Vol. I) (8 April 1988), para.8.
+
+173
+
+” Report of the UN Special Rapporteur on the Promotion and Enjoyment of the Right to Freedom of Opinion and Expression, U.N.Doc. A./HRC/23/40 (17 April 2013), para.24.
+
+174
+
+” For recent examinations of these requirements with respect to digital surveillance by States, see generally Lisl Brunner, above n.171, 225-233; Eliza Watt, above n.171, 780-783; and Gabor Rona and Lauren Aarons, State Responsibility to Respect, Protect and Fulfill Human Rights Obligations in Cyberspace, 8 Journal of National Security Law & Policy (2016), 524-528.
+
+175
+
+” See similarly, Jens D. Ohlin, above n.75, 1585-1587; Michael N. Schmitt, above n.64, 56-57; and Duncan Hollis, above n.8, 42-43.
+
+176
+
+” See, for example, UN Human Rights Committee, General Comment 31—The Nature of the General Legal Obligations Imposed on States Parties to the Covenant, U.N. Doc. CCPR/C/21/Rev1/Add.13 (29 March 2004) (‘UN HRC General Comment 31’), para.10 (setting out the “power or effective control” extraterritoriality threshold with respect to the ICCPR); Legal Consequences of a Wall in the Occupied Palestinian Territory, ICJ, Advisory Opinion, ICJ Reports 2004 (‘Wall Opinion’), paras.107-113 (concluding that international human rights instruments are applicable ‘in respect of acts done by a State in the exercise of its jurisdiction outside its territory’); Al-Skeini v. United Kingdom, Application No. 55721/07, ECHR, Judgment (7 July 2011), paras.133-140 (setting out the “State agent authority and control” and “effective control over an area” extraterritoriality thresholds with respect to the ECHR); Alexandre v. Cuba, Case 11.589, Inter-American Commission on Human Rights, IACHR Report No. 109/99, 1999, para.37 (“the inquiry [with respect to the IACHR] turns not on the presumed victim’s nationality, or presence within a particular geographical area, but on whether under specific circumstances, the State observed the rights of a person subject to its authority and control”); and Tallinn 2.0, above n.65, 184 (referring to the “power or effective control” threshold under customary international law).
+
+177
+
+” For the position of the United States, see UN Human Rights Committee, Summary Record of the 1405 th Meeting, U.N. Doc. CCPR/C/SR/1405 (24 April 1995), at para.20. For the position of Israel, see Wall Opinion, above n.155, paras.109-111.
+
+178
+
+” For an interesting examination of how States perceive extraterritorial human rights obligations based on a study of State recommendations during the Universal Periodic Review of the US that took place in 2015, see Monika Heupel, How do States Perceive Extraterritorial Human Rights Obligations?: Insights from the Universal Periodic Review, 40 Human Rights Quarterly (2018), 521-546 (finding widespread support for the view that States’ human rights obligations include extraterritorial ones, albeit primarily negative rather than positive obligations).
+
+179
+
+” See, for example, UN Human Rights Committee, Concluding observations on the fourth periodic report of the United States of America, U.N. Doc. CCPR/C/USA/CO/4 (23 April 2014), para.22 (calling on the US to take “all necessary measures to ensure that its surveillance activities, both within and outside the United States , conform to its obligations under the Covenant”) (emphasis added); and Monika Heupel, above n.178, 542 (finding support within State recommendations made as part of the Universal Periodic Review of the US in 2015 for the view that States interpret control “in such a way that the person towards whom a state has extraterritorial obligations need not necessarily be in the state’s custody”). Contrast, however, Human Rights Watch Inc & Others v. Secretary of State for Foreign and Commonwealth Affairs & Others, UK Investigatory Powers Tribunal, [2016] UKIPTrib 15_11-CH (16 May 2016), para.60 (concluding that “a contracting state owes no obligation under Article 8 [ECHR] to persons both of whom are situated outside its territory in respect of electronic communications between them which pass through that state”).
+
+180
+
+” Jaloud v. The Netherlands, Application No. 47708/08, ECHR, Judgment (20 November 2014), para.152.
+
+181
+
+” Vivian Ng and Daragh Murray, Extraterritorial Human Rights Obligations in the Context of State Surveillance Activities?, HRC Essex Blog (2 August 2016) (emphasis added). See similarly, Eliza Watt, above n.171, 778; and Lisl Brunner, above n.171, 237. Contrast, however, Tallinn 2.0, above n.65, 185 (in which a majority of the Tallinn 2.0 experts argued that “ physical control over territory or the individual is required before human rights law obligations are triggered”, with only a minority of experts taking the position that “so long as the exercise or enjoyment of a human right in question by the individual is concerned is within the power or effective control of a State, that State has power or effective control over the individual with respect to the right concerned”) (emphasis added).
+
+182
+
+” Report of the Office of the UN High Commissioner for Human Rights: The Right to Privacy in the Digital Age, U.N. Doc. A/HRC/27/37 (30 June 2014), para.34 (emphasis added).
+
+183
+
+” Advisory Opinion OC-23/17: Environment and Human Rights, IACHR (15 November 2017), para.104(h) (author’s translation) (emphasis added).
+
+184
+
+” See generally Tallinn 2.0, above n.65, Rule 36.
+
+185
+
+” Velasquez Rodriguez v. Honduras, IACHR, Judgment (29 July 1988), para.166. See similarly UN HRC General Comment 31, above n.176, para.7 (“Article 2 requires that States Parties adopt legislative, judicial, administrative, educative and other appropriate measures in order to fulfill their legal obligations”).
+
+186
+
+” UN HRC General Comment 31, above n.176, para.8 (noting that States may violate the rights set out in the ICCPR as a result of “permitting or failing to take appropriate measures or to exercise due diligence to prevent, punish, investigate or redress the harm caused by such acts by private persons or entities”); and Tallinn 2.0, above n.65, 197 (noting that States are obliged “to take action in relation to third parties that is necessary and reasonable in the circumstances to ensure that individuals are able to enjoy their rights online”).
+
+187
+
+” See generally Antal Berkes, Extraterritorial Responsibility of the Home States for MNCs Violations of Human Rights, in: Yannick Radi (ed.), Research Handbook on Human Rights and Investment (2018); Antal Berkes, A New Extraterritorial Jurisdictional Link Recognised by the IACtHR, EJIL: Talk! (28 March 2018); and Yuval Shany, Cyberspace: The Final Frontier of Extra-Territoriality in Human Rights Law, HUJI Cyber Security Research Center Blog (September 2017).
+
+188
+
+” UN Human Rights Committee, General Comment No. 36 (2018) on Article 6 of the International Covenant on Civil and Political Rights, on the Right to Life, Advance Unedited Version, U.N. Doc. CCPR/C/GC/36 (30 October 2018), para.21.
+
+189
+
+” Ibid., para.22 (emphasis added). For discussion of this “impact” test, see Daniel Møgster, ‘Towards Universality: Activities Impacting the Enjoyment of the Right to Life and the Extraterritorial Application of the ICCPR’, EJIL: Talk! (27 November 2018).
+
+190
+
+” For discussion, see generally Jens D. Ohlin, above n.75, 1594-1597; Michael N. Schmitt, above n.64, 55-56; and Duncan Hollis, above n.8, 43.
+
+191
+
+” Jens D. Ohlin, above n.75, 1595 (emphasis in original).
+
+192
+
+” Ibid., 1596.
+
+193
+
+” See, for example, Michael N. Schmitt, above n.64, 55; and Duncan Hollis, above n.8, 43. See, however, Jens D. Ohlin, ‘Election Interference: The Real Harm and The Only Solution’, Cornell Legal Studies Research Paper No. 18-50 (2018), 24 (arguing that this objection “confuses the identification of the legal rule with the application of that legal rule”) (emphasis in original).
+
+194
+
+” Michael N. Schmitt, above n.64, 55-56.
+
+195
+
+” Antonio Cassese, Self-Determination of Peoples: A Legal Reappraisal (1995), 67-140 (elaborating the rules of external and internal self-determination under customary international law); and Antonio Cassese, International Law (2 nd ed., 2005), 61-62 (offering a more succinct summary of self-determination under customary international law).
+
+196
+
+” Antonio Cassese (1995), above n.195, 159-162 (comparing the rules of self-determination under customary international law and treaty law).
+
+197
+
+” Ibid., 65 (emphasis added).
+
+198
+
+” Ibid., 66. See also ibid., 103 and 302-312 (arguing that a customary rule on the right to self-determination of the peoples of sovereign states is in the process of formation).
+
+199
+
+” Duncan Hollis, above n.8, 43.
+
+200
+
+” Nathaniel Persily, Can Democracy Survive the Internet, 28 Journal of Democracy (2017), 69. See also Yochai Benkler et al., Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics (2018), 236 (examining the Russian cyber influence operation on the 2016 US presidential election, emphasising “the difference between proof of the existence of Russian efforts and proof of their impact”, and concluding that although “persuaded by the weight of the evidence that there was a sustained Russian effort […] the evidence of impact is less clear”).
+
+201
+
+” Jens D. Ohlin, above n.193, 13.
+
+202
+
+” Crawford Report, above n.153, 32 fn.185.
+
+203
+
+” Article 48 (1)(a) ASR. See also ASR Commentaries, above n.115, 126 (noting that obligations erga omnes partes “may derive from multilateral treaties or customary international law”).
+
+204
+
+” Article 48(1)(b) ASR.
+
+205
+
+” ASR Commentaries, above n.115, 127.
+
+206
+
+” Ibid., 119.
+
+207
+
+” Article 42(b)(i) ASR.
+
+208
+
+” Article 48(1) ASR.
+
+209
+
+” Annie Bird, Third State Responsibility for Human Rights Violations, 21 European Journal of International Law (2011), 883-884.
+
+210
+
+” ASR Commentaries, above n.115, 126.
+
+211
+
+” Article 48(2) ASR.
+
+212
+
+” ASR Commentaries, above n.115, 137 and 139.
+
+213
+
+” Tallinn 2.0, above n.65, 132.
+
+214
+
+” Christian J. Tams, Enforcing Obligations Erga Omnes in International Law (2005), 241 (emphasis added).
+
+215
+
+” Martin Dawidowicz, Third-Party Countermeasures in International Law (2017), 284.
+
+216
+
+” Christian J. Tams, above n.214, 230 (noting that in most cases third State countermeasures were taken “in response to large-scale or systematic breaches”, typically “breaches of obligations protecting human rights of individuals or groups”); and Martin Dawidowicz, above n.215, 264 (“third-party countermeasures are most often resorted to in an effort to ensure compliance with obligations erga omnes partes (or at least not core obligations erga omnes ) under human rights treaties”) and 270 (“third party countermeasures have developed in practice […] as a sui generis form of invocation of State responsibility limited to serious breaches of communitarian norms”).
+
+217
+
+” See generally Christian J. Tams, above n.214, 252 ff .; and ASR Commentaries, above n.115, 140-141.
+
+218
+
+” Those most relevant in the present context include: Articles 41-43 ICCPR; Article 33 ECHR; Article 45 ACHR; and Article 49 Banjul Charter.
+
+219
+
+” Annie Bird, above n.209, 893.
+
+220
+
+” Ibid.; Christian J. Tams, above n.214, 279-283.
+
+221
+
+” Annie Bird, above n.209, 893; Christian J. Tams, above n.214, 283-286.
+
+222
+
+” Christian J. Tams, above n.214, 299.
+
+223
+
+” Ibid., 288-291.
+
+224
+
+” Ibid., 299.
+
+225
+
+” See generally Beatrice A. Walton, above n.98; and Rebecca Crootof, above n.53.
+
+226
+
+” On the importance of harm to the State liability paradigm, see International Law Commission, State Responsibility, U.N. Doc. A/CN/4/SER.A/1974, 1 YBILC (1974), 5, 7 (“In the case of wrongful activities, damage was often an important element, but it was not absolutely necessary as a basis for international responsibility. On the other hand, damage was an indispensable element for establishing liability for lawful, but injurious activities”).
+
+227
+
+” Beatrice A. Walton, above n.98, 1487-1488; and Rebecca Crootof, above n.53, 603.
+
+228
+
+” For a detail review of relevant authorities, see generally Beatrice A. Walton, above n.98, 1478-1484; and Rebecca Crootof, above n.53, 601-604.
+
+229
+
+” Beatrice A. Walton, above n.98, 1486-1487 (references omitted).
+
+230
+
+” Trail Smelter Case (United States v. Canada) (16 April 1938 and 11 March 1941), 3 RIAA, 1905-1982.
+
+231
+
+” Rosalyn Higgins, Problems and Process: International Law and How We Use It (1995), 164 (emphasis in original).
+
+232
+
+” Beatrice A. Walton, above n.98, 1488 (emphasis added).
+
+233
+
+” See similarly, ibid., 1480-1484; and Rebecca Crootof, above n.53, 603-604.
+
+234
+
+” Beatrice A. Walton, above n.98, 1499 and 1505-1507.
+
+235
+
+” Rebecca Crootof, above n.53, 592.
+
+236
+
+” Ibid., 608-609.
+
+237
+
+” Beatrice A. Walton, above n.98, 1499-1503.
+
+238
+
+” Rebecca Crootof, above n.53, 614 (citing Malgosia Fitzmaurice, International Responsibility and Liability, in: Daniel Bodansky et al (eds.), Oxford Handbook of International Environmental Law (2008), 1022).
+
+239
+
+” Ibid., 614-615.
+
+240
+
+” On the modalities of enforcement of State liability, see Beatrice A. Walton, above n.98, 1507-1511 and Rebecca Crootof, above n.53, 636-643.
+
+241
+
+” Rebecca Crootof, above n.53, 606.
+
+242
+
+” Ibid., 605.
+
+243
+
+” Ibid., 606.
+
+244
+
+” See also Dan Efrony and Yuval Shany, above n.64, 648 (observing, more generally, how some States appear to have developed “a policy of optionality toward the application of international law [to cyber operations], that is to adopt a deliberate strategy of treating the applicable international law framework as optional”) (emphasis in original).
+
+245
+
+” White House, Statement by the President on Actions in Response to Russian Malicious Cyber Activity and Harassment, Press Release (29 December 2016).
+
+246
+
+” See, in this regard, Dan Efrony and Yuval Shany, above n.64, 615 (noting the alternative view that the phrase may be understood to suggest that the US “may be open to regard influence campaigns as running contrary to international law governing cyberoperations”).
+
+247
+
+” Ibid.
+
+248
+
+” Michael N. Schmitt, above n.64, 66.
+
+249
+
+” See, in this regard, Ryan Goodman, International Law and the US Response to Russian Election Interference, Just Security (5 January 2017) (suggesting a number of possibilities why the Obama administration may have decided against declaring its position on whether or not the Russian influence campaign violated international law—including a lack of consensus amongst the administration’s lawyers, a reluctance to assume the role of a victim even if consensus existed that a violation had occurred, or a concern that publicly discussing international law might open up questions concerning the legality of US cyber operations); and Dan Efrony and Yuval Shany, above n.64, 651 (arguing that States may have “doubts about the utility of invoking international law in response to offensive cyberoperations, given the limited self-help tools it offers victim states and due to the […] attribution challenges.”).
+
+250
+
+” Beatrice A. Walton, above n.98, 1477; and Dan Efrony and Yuval Shany, above n.64, 652 (“the limited nature of the responsive measures adopted by victim states may also reflect an interest on their part in maintaining legal ambiguity, which would allow them to engage in due course, if they so wish, in offensive cyberoperations”).
+
+251
+
+” Gary Corn and Eric Jensen, above n.67.
+
+252
+
+” Beatrice A. Walton, above n.98, 1468 and 1513. See also Martin Libicki, above n.30, 11-14.
+
+253
+
+” Jens D. Ohlin, above n.75, 1586.
+
+254
+
+” Ibid., 1596.
+
+255
+
+” A number of scholars have argued that an effective State-to-State response in this context would be to establish a new international cyber norm to prohibit foreign actors conducting specific types of cyber influence operations on other States’ elections. The difficulty, however, has been in determining how such a norm should be formulated. See, for example, Amy E. Pope, Cyber-securing Our Elections, 3 Journal of Cyber Policy (2018), 27-30 (proposing a two-track approach: first, the development of a voluntary code of conduct between like-minded democratic States, including a norm to prohibit the use of stolen information to influence domestic activities (including elections), the identification of appropriate response measures to deter future bad actors, and agreement to provide political and economic support to target States when these norms are violated; and second, the development of minimal standards of conduct between all States). See also Joshua Geltzer and Alexander Macgillivray, So, You Want To Do Something About Russian Election Interference?, Just Security (25 September 2018); Martin Libicki, above n.30, 11-14; and Jack Goldsmith, Contrarian Thoughts on Russia and the Presidential Election, Lawfare (10 January 2017) (arguing for “an explicit understanding with major cyber adversaries, akin to understandings about the rules of espionage during the Cold War, that the United States will not engage in certain specific disruptive actions in exchange for desirable restraint by adversaries in U.S. networks”).
+
+256
+
+” For a useful overview of relevant legislation that has been adopted around the world, see generally Daniel Funke, above n.7.
+
+257
+
+” See, for example, EU Code of Practice on Disinformation, Annex II, Current Best Practices from Signatories of the Code of Practice (summarising a range of advertising policies, service integrity policies, consumer empowerment policies, and research community empowerment policies adopted by private platforms to combat online disinformation). See also Jens D. Ohlin, above n.193, 15-23 (arguing that “the only solution” to covert cyber influence operations on elections is transparency, namely for the interference to be unmasked as foreign in nature in real time since no remedies after the fact will be sufficient to rectify the harm done).
+
+258
+
+” Report of the Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression, U.N.Doc. A/HRC/38/25 (6 April 2018). For a discussion of the report, see Evelyn Douek, UN Special Rapporteur’s Latest Report on Online Content Regulation Calls for “Human Rights by Default”, Lawfare (6 June 2018).
+
+259
+
+” See, in this regard, Leonhard Kreuzer, Disentangling the cyber security debate, Völkerrechtsblog (20 June 2018).
+
+*
+
+The author is a Fellow at Fundação Getúlio Vargas, Brazil. Cross posted from the Oxford University Press , with permission from the author.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

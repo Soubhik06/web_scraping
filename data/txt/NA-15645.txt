@@ -1,0 +1,51 @@
+On June 26, Inc42 broke the news that short-video platform Chingari was shifting to not safe for work (NSFW) content through its paid live one-on-one calls between creators and users. Reports also mentioned that the company recently changed its user rating to 18+ on the Google PlayStore and that it was promoting this NSFW content with suggestive ads. To make sense of all of this, we spoke to Chingari’s CEO Sumit Ghosh and COO Deepak Salvi.
+
+The transcript has been shortened for clarity; the full video of the discussion is available here.
+
+MediaNama: Chingari has recently introduced paid live one-on-one calls between creators and users. There are claims saying that these calls feature NSFW [not safe for work] content. What content is permissible on these calls? Is NSFW content actually allowed?
+
+Sumit Ghosh: No, NSFW content is absolutely not allowed as a platform policy. We have dual moderation. One is an AI model which removes NSFW content. Then we also have a team of 40 manual moderators constantly moderating live streams to find any NSFW content in the app and take down that content. [If] we have a live streamer or a user trying to proactively send some random messages, they are taken down. Now, coming to the point of the one-on-one calls or the live streaming feature, this is just a feature. It’s not like ads portrayed in a couple of media outlets that Chingari has pivoted into a live-streaming app. That’s absolutely not true, we are still a short-video app.
+
+We also have audio streaming, [and an] audio rooms feature where people from multiple cities in India come every day, [and] talk about random stuff, just like Twitter spaces. Recently, we launched the live stream feature. There are hundreds of live-streaming apps in the world. Hundreds of live-streaming apps are active in India. A lot of them have one-to-one calls. As Chingari, we are a platform, we are a UGC [user generated content] intermediary platform just like WhatsApp or Instagram or Snapchat. The idea behind this feature was that.
+
+Now, [in terms of] how you use a call, people use it for talking to someone [the creator], [or] getting birthday wishes for someone. There are hundreds of use cases [for] why you can use that. Now, just saying that it is exclusively used for NSFW, which could be 1% of the use cases, that happens on any social media platform. If you look at YouTube, and Instagram, 1% of content on these social media platforms will be NSFW content . The platforms try to get rid of this content time and again. That’s our strategy and our terms as well.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+MediaNama: You mentioned that you have a content moderation policy in place and that you’re using machine learning for it as well. How does that process work and what are the kinds of terms and conditions you have in place for creators?
+
+Sumit Ghosh: So, right now, the majority of the streamers are creators that you will see on the platform. 80% of Chingari’s user base today are males . Obviously, we saw that female streamers or female creators were getting traction across the user base . We initially launched with a set of female creators. Since this feature [live streaming] was getting traction with them, we wanted to expand that segment of the creator base. But, in no way we are genderist or sexist. We will get male creators in the platform as the platform grows, as this feature grows.
+
+Coming to moderation, the way the filters work is that it’s an AI-based NSFW model. I won’t go into the detailed engineering of it. There is an engineering blog post that we have put out already. You can infer that. But, the model is being trained across lots and lots of streams and lots and lots of data that Chingari has accumulated over the past two years. This data comes from short videos, from images that have been uploaded to Chingari, [and] the live streams that are being streamed live right now. The AI model constantly keeps learning. If it finds that there is skin show or explicit content above a certain degree, which should not be on the platform, it automatically tries to block it. 99% of the content gets filtered this way. Sometimes content that is not even explicit gets filtered because the way it has been tuned is practically strong. For the remaining 1%, if the content moderators find something, they remove it.
+
+MediaNama: You mentioned that there’s a certain degree after which the filter works. What is that exact degree? How much content is permissible?
+
+Sumit Ghosh: I would say, again, skin show is a perspective. As nude content or NSFW content, anything I think above 15 to 20% of your upper body , if you are showing, I think that can be classified as NSFW. The algorithm works with those parameters. Normally, anything less than 15 % is okay. Above that, I think it just goes and blocks it. These are again parameters that get fine-tuned all the time.
+
+MediaNama: Reports also claim that you have been running suggestive ads for Chingari on Facebook (which they say have now been taken down), and in essence, suggesting that users should sign up for this as steamy content. Was this happening, and is this even legal in India?
+
+MediaNama: Chingari has recently changed its user rating. So, it’s 18+ on Google PlayStore and 17+ on Apple App Store. What are the reasons behind this change?
+
+Sumit Ghosh: We have always been [an] 18+ content app. I mean, look at Instagram or look at YouTube. Do you really think it is safe for kids? Youtube has a YouTube Kids version. Youtube or Instagram or Snapchat or any social media platform for that matter, where UGC content is out, it’s not meant for kids. As [part of] a platform design, from day one, to register on Chingari, you had to be an 18+ user. When you put your date of birth, if it was below 18 years, we wouldn’t allow you to register on Chingari and use Chingari as a registered user. It was from day one. Now, once we launched the streaming feature, legally, we need to ensure that no underage creator can come and stream on the app , which is the reason legally we now are stopping downloads for underage [people] less than 18. This way we are legally compliant, there is no way that somebody who is underage can actually come and stream on the app. This was mostly done as a legal compliance activity, not because the app has started streaming 18+ content. That’s absolutely not true.
+
+MediaNama: What measures are you taking now that you have a live-streaming feature to ensure that creators are also not exposed to harassment or abuse?
+
+Sumit Ghosh: You can block a caller or you can block an abusing user. [If] Somebody is commenting on your video, somebody is commenting [something] bad, you can immediately block the user. Or, if somebody is harassing you on a video call, you can just block the user. All those checks and balances are in place just like in any other social media. Online harassment is something that is plaguing all social media platforms, not just Chingari.
+
+MediaNama: Earlier this month, Chingari laid off 20% of its workforce , stating that the company was going through organizational restructuring. Was the change in content one of the aspects being considered in the restructuring efforts?
+
+Sumit Ghosh: No, not really. We just laid off certain staff to get to profitability. There was a percentage of the staff in the company which we could do without and extend our runway for another year.
+
+MediaNama: Chingari climbed up the ranks of short-form content during the pandemic, post the TikTok ban. Since then, we have seen the rise of Instagram Reels and YouTube Shorts, both of which act as direct competitors to your platform. How is Chingari tackling this competition?
+
+Sumit Ghosh: In a typical Web 2 platform, Instagram Reels and YouTube Shorts already have 400, 500 [million] MAUs [monthly active users]. They have the content depth. Even with a billion dollars, you cannot compete with them. You have to have a product that clearly differentiates the offering to a user. That’s the reason why we built Gari [Chingari’s social utility token ] and figured out a monetization model around Gari as well. Right now, the times are bad. The crypto market crashed and Gari lost 90 % of its value. But the vision, the vision the vision has not changed. The vision behind Gari being an integral part of Chingari is still there. The way we are going to do this is we have a year’s runway and we are already doing very good revenues around $15,000 a day right now. We see ourselves getting profitable in the next six to nine months at the current growth rate that we are seeing in our revenues.
+
+Once this [the platform] is profitable, we have also integrated Web 3 aspects into it [the Chingari platform]. You can buy the diamonds that you use in the app using Gari tokens . We are going to burn 10% of these profits [generated from the token]. Let’s say we do X million dollars of profits, 10% of X will be burned every month. As soon as we start burning, the circulating supply of Gari will start reducing. Over time, in the next 16 to 18 months, when the bull market is there, you will see Gari back to where it was, or maybe higher than where it was, at its all-time high.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

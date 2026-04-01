@@ -1,0 +1,15 @@
+SUBREDDIT: r/bangalore
+TITLE: Are online scams the new form of robbery?
+DATE: 2020-08-30
+SCORE: 7
+URL: https://www.reddit.com/r/bangalore/comments/ij8s04/are_online_scams_the_new_form_of_robbery/
+
+--- POST TEXT ---
+
+Online scammers are almost everywhere. Almost everyone has received a call from people claiming to be bank reps, olx buyers, etc. I think as the technology and awareness about technology is increasing exponentially, crime is also evolving. Even fake news! (Jacksfilms from YouTube has made videos where he intentionally creates and shares fake news to see how well it would spread)
+
+I recently heard a new scam being done where scammers send a QR code and if we scan it, our account immediately gets emptied. I am interested to know how these scams are done. Because as far as I know, QR codes are just URLs encoded in binary (black and white) while following certain standards. Even if it is a URL, just going to any URL doesn't immediately empty a bank account. Banks always have multiple factor authentications (1 - something you **know** - like passwords, 2 - something you **have** - like debit cards, 3 - something you **are** - like biometrics). So I'm confused how they are able to instantly empty a bank account by scanning a QR code. How could it be?
+
+And in general, if anyone knows a blog post or some website talking about how different scams are made and how to secure ourself from it, please share the knowledge
+
+**Also please share any incidents you personally know and how it got resolved**

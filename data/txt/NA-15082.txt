@@ -1,0 +1,31 @@
+Amazon-owned Twitch has suffered a massive data breach that has resulted in the leak of its entire source code and user payout information, Video Games Chronicle (VGC) reported on October 6 based on data shared by an anonymous hacker.
+
+“We can confirm a breach has taken place. Our teams are working with urgency to understand the extent of this,” Twitch tweeted Wednesday evening. “We will update the community as soon as additional information is available,” the company said.
+
+Update (8 Oct, 8:30 am): Twitch said that the breach was due to an error in a Twitch server configuration change. The company also said that login details and full credit card numbers were not exposed.
+
+Twitch is a live streaming e-sports platform with over 30 million average daily visitors where gamers broadcast themselves playing video games.
+
+MediaNama has reached out to Amazon India to understand the impact of the breach on Indian users and we will update this report when we get a response.
+
+According to VGC, the leaked data is 125GB in size and consists of the following data:
+
+VGC said that the leaked data was publicly available on 4chan for download, but the thread has since been removed and MediaNama wasn’t able to independently confirm the contents of the leak.
+
+“Jeff Bezos paid $970 million for this, we’re giving it away FOR FREE,” the hacker said. The hacker also said that this is “part one” suggesting that there is more to come.
+
+The hacker claims to have leaked this data to “foster more disruption and competition in the online video streaming space” because Twitch’s community is a “disgusting toxic cesspool.”
+
+Twitch famously fiercely guards operational details such as how much its streamers are paid, so this looks extremely embarrassing for the company. And it comes at a time when competitors such as YouTube Gaming are offering huge salaries to snap up gaming talent, so the fallout could be significant. — Cyber reporter Joe Tidy for BBC
+
+Platformer’s Casey Newton spoke to Twitch engineers to understand how this leak could have happened and found out that “Twitch had a notoriously lax approach to internal security.” He found “the company did not develop an effective model to counter internal threats” and “every engineer could clone every code repository, making it possible for someone to essentially copy and paste the entire code base.”
+
+With the code base out in the wild now, Twitch’s real problems are only beginning. With the leaked files, a motivated hacker could install an instance of Twitch on their local server, and then attempt to reverse-engineer exploits from what they find. — Newton
+
+Also Read
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,97 @@
+The Telangana government has shared its AI strategy outlining six ‘critical pillars’—creating an AI Advisory Council for policy implementation, creating localised data sets, introducing AI in school curriculums, introducing AI use cases in governance, providing assistance to AI innovators and creating an ‘AI City’ to host innovators—to be adopted by the Department of Information Technology, Electronics and Communications (IT, E&C). The strategy was released at the state government’s AI Global Summit on Thursday.
+
+Subsidized access to compute for state departments and start-ups, AI labs in schools, Data Annotation internships for college students, and a 200-acre AI city are a few among the many plans of the Telangana government to make the state ‘AI-powered’.
+
+Here is a summary of the Telangana Government’s approach to AI:
+
+An AI Advisory Council will work under the Chief Minister’s Office as the ‘NITI Aayog for AI in Telangana’ to provide support on policy and strategy . It will comprise diverse stakeholders within the landscape. The Council will set directions on research and development (R&D), public policy, investement, talent development, and ethical & responsible adoption of AI, as well as development of an ‘AI City’ (more on this below). It will guide government departments, private entities, and academic institutions to work towards realising Sustainable Development Goals. The Council intends to achieve this through the AI Research & Collaboration Network and Emerging Technologies Wing, IT, E&C Department.
+
+The AI Research & Collaboration Network will use a hub and spoke model, incentivising university-corporate partnerships across Telangana. The Government intends to sign MoUs (Memorandum of Understanding) with reputed academic institutions to promote cross-learning and AI research as well as partner with industry leaders to enable business expertise and private grants.
+
+The Emerging Technologies Wing, IT, E&C Department will drive the strategy and policy implementation across different government departments and agencies. These departments will work on improving the AI readiness of datasets and the workforce and use AI in their daily functions. Government departments will also need to appoint an AI nodal officer to comply with suggestions from the AI Advisory Council.
+
+The Government of Telangana intends to integrate AI across its operations, including service delivery. It will leverage Generative AI to solve governance challenges across domains like education, healthcare, and agriculture, and also equip government officials with AI for day-to-day operations. It will work closely with the private ecosystem to invest in innovations that have completed pilot testing.
+
+AI-powered e-governance can improve service delivery by assisting in data-driven decision-making, service automation and personalisation, and optimised service delivery at the last mile, the strategy says. AI in Governance has various use cases: disease screening and outbreak detection, health helplines, primary education, learning modules for competitive exams, career counselling, traffic management, farm plot health detection, etc. The Emerging Technologies Wing of the IT, E&C Department will work with all government departments and agencies to identify and implement AI use cases that can impact large sections of the population. The government has created a four-step process to develop, invest and implement AI-powered solutions at scale:
+
+The state will create a state-wide capacity-building programme in collaboration with the ecosystem to identify AI & GenAI tools most effective in government setups and subsequently train officials.
+
+Telangana intends to promote the development of datasets and models that allow AI to reflect state-specific nuances like language and culture. Government departments will be mobilised through regular reviews and supported through open-source technologies to improve the quality of datasets. This process will be broken down into 3 levels:
+
+In parallel, the state will also drive the standardisation of domain-specific dataset schemas (the method used to structure data) to enhance interoperability and reduce redundancy. It will engage with industry leaders and conduct stakeholder consultations. The government will ensure adherence to these standardised schemas through incentives and nudges.
+
+The Government, in a bid to increase accessibility, will also facilitate investments in creating models that are linguistically and culturally aligned with the state, such as Telugu Language Models (LLMs), domain-specific Statistical Language Models (SLMs), and Automatic Speech Recognition (ASR) systems. It also intends to review these against benchmarks that will account for nuances such as dialect variations, phonetic differences, and cultural context.
+
+Also Read: Reviving Telugu Folklore with AI: How Swecha is Creating a Telugu Chatbot
+
+The state will incentivise tech companies and not-for-profits to set up over 50 data annotation centres and involve 5 lakh students in data annotation with a paid internship program (Rs 5000/monthly) funded by public-private partnerships called “Earn While You Learn.” It will also create a state-wide campaign called the Telangana Vaibhavam AI program to involve 10 lakh citizens in the annotation process and generate 10 billion tokens.
+
+Lastly, the government will launch the Telangana Data Exchange Platform (TGDex) which will provide anonymised data for innovators in the ecosystem. It will ensure the standardisation of data exchange processes and feature a centralised data-sharing system. The platform will have data trusts to manage and safeguard data digital vaults to maintain privacy and security during exchanges. For transparency, the state will track the utilisation of these datasets in AI model development with public dashboards.
+
+To increase access to compute capacity, and reduce information asymmetry, the state will provide government departments and selected early-stage startups with subsidised access to compute capacity specifically for socially conscious solutions.
+
+The government will facilitate access from leading compute capacity providers like Yotta, Nvidia, Amazon Web Services (AWS), and Azure for Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs). The ET Wing will implement a policy framework to reach a minimum threshold of users.
+
+The state also intends to centralise and streamline the support available to AI startups through an initiative called “Unified AI Services” that consists of:
+
+Unified Web Interface: The centralised platform will consist of a detailed web portal that categorises services by domain (healthcare, agriculture, financial services), innovator identity (university students, women etc), and maturity phase (early-stage, growth-stage), and an AI-powered chatbot for real-time assistance.
+
+Public Directory of Startups: The repository that will bring together detailed profiles of all AI startups in the state and allow startups to connect. The directory will also support community engagement through forums, virtual meetups, and networking events.
+
+Shared Services Hub: It will provide subsidised access to AI-specific shared services such as access to software licences, datasets, development platforms, and cloud compute capacity, alongside operational support like HR, legal, and finance. The services will be customisable, allowing startups to choose packages tailored to their needs and maturity stage.
+
+Unique ID for Startups: The state will implement a system to streamline tracking and ease agency reviews.
+
+Telangana aims to train 5 lakh professionals in AI specialisations by 2027 through a mix of formal education and digital initiatives. It will introduce these initiatives for professionals, school students and specified field.
+
+The government will create a centralised, integrated learning platform for AI course discovery and certification with assistance from premier institutions and corporations. These will be accessible in local languages, have free courses and channelise scholarships. The Telangana AI Advisory Council will monitor and update and monitor the curriculum in alignment with recent developments. It will adopt a six step process to ensure that the platform observes maximum results:
+
+Knowledge Curation: Courses from platforms like edX, NPTEL, and Coursera will be structured to progress from foundational topics to more advanced concepts and will contain modules that will allow participants to pick specialisations aligned with their career goals.
+
+Open Network for Education Skilling Transaction (ONEST): The Government will standardise its platform on the open decentralised network and will map learning outcomes, provide credentials and ensure accessibility to learners.
+
+Platform Development and Learner Support: The platform will integrate gamification features, like badges, which professionals can showcase on professional networks like LinkedIn. It will also allow cross-learning by integrating peer-to-peer support, mentoring, and networking opportunities.
+
+Inclusivity and Adoption: The government will conduct a statewide media campaign across multiple platforms to raise awareness about the program and target underrepresented groups. It will also provide free resources and financial aid through existing schemes. The programme will have flexible learning schedules and remote access, particularly for professionals in rural areas. Resources will also be available in Telugu.
+
+Monitoring and Continuous Improvement: The Government will use AI-driven analytics to continuously monitor learning progress and assess the performance of courses. It will also regularly update the curriculum to incorporate the latest industry needs.
+
+The Government will roll out an AI curriculum in schools starting in the academic year 2025-26 and aims to equip 100% of senior secondary schools with an Artificial Intelligence (AI) curriculum by the year 2027. This will entail providing schools with comprehensive AI learning kits, enhancing curriculum, and training teachers.
+
+Introduction to AI & AI Tools
+
+The curriculum will introduce students to AI, its history and societal impact, and then focus on fundamentals of data literacy, including data collection, cleaning, and visualisation. Hands-on training will be provided with leading AI tools and platforms, such as Google’s TensorFlow, Microsoft Azure ML, IBM Watson, and open-source tools like Python libraries.
+
+Experiential Learning via AI
+
+Students will work on group projects addressing real-world problems using AI, such as environmental monitoring, health diagnostics, or smart city solutions. AI labs in schools will provide IoT Devices, Cloud Access, AI Tools & Licenses and Teacher Training.
+
+Core Curriculum Enhancements
+
+The government will tweak the curriculum of relevant subjects to ensure the inclusion of AI-specific core competencies. For example, in mathematics, it will emphasise AI-relevant topics such as probability, statistics, and linear algebra. It will also integrate concepts like matrix operations, which are foundational in neural networks into higher-grade curricula.
+
+Careers in AI
+
+Students will be provided with information on relevant AI-related courses and higher education qualifications to align their interests with potential careers.
+
+Responsible & Safe AI Usage
+
+The curriculum will cover topics such as ethical AI, understanding biases in AI, importance of transparency and fairness in AI algorithms. Students will also learn online safety and the dangers of AI manipulation techniques like deepfakes.
+
+AI for all
+
+The government will launch an “AI for All” campaign to provide citizens aged 15-60 citizens with AI learning modules through platforms like WhatsApp, YouTube, etc.
+
+The government also aims to create AI tutorials for specific demographics like Senior citizens, Healthcare Professionals, Educators, Gig Economy Professionals, White Collar Professionals and Blue Collar Professionals. Citizens can access these tutorials through channels like WhatsApp and access multimedia content like videos, quizzes, and AI simulations.
+
+The state will also create a campaign to showcase the benefits of AI and promote AI literacy through television, local social media influencers and public figures, and print media.
+
+Telangana also intends to make a 200-acre facility in Hyderabad that will host multinational corporations, research institutions, and startups. It will incentivise companies to create offices in the AI City through tax breaks, infrastructure support, and increasing connectivity access to hotels, airports, and public transit. It will also support academic institutions and research centres, coworking spaces, convention centres, and collaborative zones. Further, ‘AI nodal points’ will be introduced in district headquarters to connect local talent to AI City resources.
+
+Additionally, it aims to create a “Centre for the Future” to engage with the local community and educate them on AI and a Cultural and Creative AI Zone called “AI Kala Kshetra.” The city will also have various community outreach programs.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

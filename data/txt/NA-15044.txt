@@ -1,0 +1,205 @@
+This is a record of the proceedings in the Supreme Court bench hearings on the Constitutional validity of Aadhaar, which began on Feb 13, 2018. You may read the previous days’ proceedings here: Day 1 , Day 2 , Day 3 , Day 4 , Day 5 , Day 6 , Day 7 , Day 8 , Day 9 , Day 10 , Day 11 , Day 12 , Day 13 , Day 14 , Day 15 , Day 16 ., Day 17 , Day 18 , Day 19 , Day 20 , Day 2 , Day 22 , Day 23 , Day 24 , Day 25 , Day 26 , Day 27 and Day 28 .
+
+Senior advocate Rakesh Dwivedi resumed his submissions. He said it’s better to tighten the nuts and bolts of Aadhaar rather than demolishing it completely. He talked about the presumption of constitutionality, and how courts should first make small repairs if they find that laws are defective, instead of striking it down.
+
+Dwivedi cites Section 8 of the Aadhaar Act . He said information is strictly confined to the purpose of authentication. Interplay of section 8 and 29 say that core biometrics are not shared. He said that in order to avoid even the possibility of surveillance, the Court can give a narrow interpretation to Section 29, and limit sharing of information. In response of Justice Chandrachud’s questions about ensuring security at the back end, Dwivedi said that this can be done through technical specifications and through professional audits.
+
+Justice Chandrachud pointed to Sections 8(2), 8(3) and 29. 8(2) saying that the requesting entity shall obtain the consent of the individual before collecting identity information for the purposes of authentication. Then, it can be submitted for authentication to CIDR.
+
+Dwivedi said Under Section 8, the collected identity information can only be used for authentication. He read Section 29 (sharing). He said that under Section 29, all that can be shared is non-biometric data. He continued to emphasise how core biometric is never shared.
+
+Justice Chandrachud said that the requesting entity will know the purpose of the authentication. Dwivedi denied it. He said that the requesting entity will not know the purpose of the authentication. Justice Chandrachud said that section 8(3) read with 29(3) makes it clear that it will know.
+
+Dwivedi said that data shared under section 29 is non-biometric data. Justice Chandrachud said the requesting entity will have the purpose of the authentication even if UIDAI doesn’t have it. Dwivedi denied. He said “If I go to Apollo, Apollo will not transmit why I have come – to buy medicine or to meet a doctor. The only information transmitted will be that the authentication is sought from Apollo.” He gave the example of if he went to the airport and had to authenticate at the gate. He said that the Airport Authority will not be telling the requesting entity where he was going or what flight he was taking.
+
+Justice Sikri said that the problem is that Section 29 gives a handle to share the information. Dwivedi said that core biometrics cannot be shared. Justice Sikri said that the uses of the authentication can be shared. Dwivedi said that the only use is a yes or no response to a authentication request. He had no other information.
+
+Justice Chandrachud said that this argument may be valid qua the UIDAI, but not qua the requesting entity.
+
+Dwivedi said if the bench is unsure whether requesting agencies collect information that they are not supposed to then the bench should read down sections 8(3) and 29(3) to make sure that requesting entities do not know the purpose of the authentication or collect any information.
+
+Justice Sikri asked why Section 8(3) is needed in that case. Justice Chandrachud said, suppose Apollo is a requesting entity, or submitting information to a requesting entity. There will be a record of the fact that an individual has gone to a hospital and authenticated, say 122 times in 6 months. This is something that pharmaceutical companies and insurance companies can mine.
+
+Dwivedi said that you don’t need Aadhaar for this. You can just go to ten hospitals and find out.
+
+Justice Chandrachud said that until we have a data protection law, this is a problem.
+
+Dwivedi said that no data protection law can be as strong as the safeguards in the Aadhaar Act. Justice Chandrachud said this is an exaggeration. He gave the example of the EUGDPR, coming into force next year.
+
+Dwivedi said privacy protection under Aadhaar Act is better than EU GDPR. He said he will show how and EU itself is about flow of data across different countries borders.
+
+Dwivedi said GDPR provides no curative measures. He said Aadhaar act provides enough data protection to citizens. Dwivedi said No data protection law can provide hundred percent protection. The test should be ” reasonable, fair and just” protection.
+
+He said we can just see the control and punitive provisions in the Act. Dwivedi said that, in life, you can never have a hundred percent assurance. A man in Kerala went to make a speech, and there he died. Even God can’t give us hundred percent assurance. Dwivedi said that none of the petitioners have pointed out what more they can do.
+
+Justice Chandrachud said that on Dwivedi’s reading, Sections 8(3) and 29(3) can be excised from the Act. Dwivedi said that can be done, but in his submissions, it doesn’t need to be cut, only clarified. Dwivedi said the the design of the Act is not to aggregate information, and that the Court can give it an interpretation that prevents aggregation or data analysis.
+
+Justice Chandrachud said may be they can cut and paste 8 (3) to 29 (3) in respect of sharing. Dwivedi agreed to the Court using any tool at their disposal including reading down, clarifying the provision etc although its not required in his opinion.
+
+Dwivedi said Aggregation, analysis or transfer of data is not allowed by the Aadhaar Act.
+
+Justice Chandrachud said What use the REs are making of the data is unknown right now. He said that there are no limits to commercial ingenuity.
+
+Justice Sikri said that the information about medical treatment will already be with the hospital, and that they may not need Aadhaar to get more information.
+
+Dwivedi agreed. He suggested that the petitioners show what Aadhaar is adding in terms of information already available.
+
+Justice Sikri said its about apprehensions of misuse. Dwivedi said These are not real misapprehensions. Justice Chandrachud said these are absolutely real apprehensions. Including using personal information to rig elections! He said that the task is to introduce safeguards that ensure that the Act achieves its purpose and is not an overreach.
+
+Dwivedi said they can’t compare this to Cambridge Analytica. They don’t have algorithms that Google has.
+
+Justice Chandrachud said Aadhaar does not exist in an isolated world. We cannot treat it that way.
+
+Dwivedi said that he has bought 50,000 rupees worth of books in the last four months to learn about algorithms, and that he still knows very little, but nonetheless, he repeated that UIDAI only has a matching algorithm, not a learning algorithm. None of their algorithms are learning algorithms, he claimed. These are not AI algorithms. Our biometric match algorithms are simple and simplistic. No analysis done. Petitioners have equated everything with everything else, Dwivedi said and they have created hyperphobia. This is not an atom bomb but just something that identifies him to himself. (MediaNama: Why would anyone need to identify themselves to themselves?)
+
+Justice Chandrachud said they can’t have a blinkered view of reality, when They are laying down the law for posterity.
+
+Dwivedi said agreed to that. He said that is exactly what he wants. Dwivedi said that petitioners have argued for a smart-card because smart-card is an entrenched vested interest in Europe, and if the Indian experiment succeeds, then they will be in trouble. The smart card lobby doesn’t want Aadhaar to succeed. Google doesn’t want Aadhaar to succeed.
+
+Justice Chandrachud said that the concern is not so much with UIDAI, but with the interface with the world outside. He said controlling the UIDAI is easy. He said, nobody may be able to control the world outside. They would have to take a careful view.
+
+Dwivedi invited them examine the design of the Act. He said they don’t want any scare mongering. They want people of India to trust them.
+
+Dwivedi repeated that there is no matching algorithm. He claimed there is value in allowing personal information flow even to pvt players. When people know what I eat, after all it popularises the dish. (MediaNama: He argued that private players can’t get the data, then he argued that it is good if they get the data?)
+
+Dwivedi said Section 28 of the Act also provides protection of information. The information will be in the control of UIDAI and will be kept secure in CIDR. Section 57 does not allow just anyone to become a requesting entity. It’s a limited exercise. UIDAI will not approve anyone to become an RE unless it is satisfied that the particular entity needs to use the facility of authentication. He said, for example, if Dominos wants to become an RE, we will first ask them why they need it.
+
+Justice Chandrachud asked why the words “body corporate or any person” are used in section 57. That breaks the nexus of the Act with the consolidated fund of India. Dwivedi talks about Section 57. He said that it’s a limited exercise. Nobody can be enrolled as an RE unless he shows that he needs to have authentication. He read Section 28 (3).
+
+Justice Sikri again asked how this will control AUAs REs etc. Dwivedi said UIDAI, AUAs etc are all belong to the same scheme or structure under the Act. Dwivedi referred to Section 57. he said use has to be pursuant to law or contract. It cannot be open ended.
+
+Justice Chandrachud asks about the purpose of opening up the Aadhaar platforms to private players.
+
+Dwivedi said that the public/private divide is changing. Even Reliance is entering into defense. Private parties are entering into Telecom, aviation etc. He said that a pizza vendor or paanwala or a chaaiwala cannot ask for Aadhaar – it is not so open ended. (MediaNama: But there are schools, insurance companies, hospitals and more asking for Aadhaar.)
+
+Justice Chandrachud asked about the nexus of Section 57 with Consolidated Fund of India.
+
+Dwivedi replied that the Money Bill point would be dealt with by the AG later. He said that in any case, these private players are funded from banks, where we have deposited money. So whether private or public, we the people are paying. (MediaNama: !!!)
+
+Justice Chandrachud said it was not just about the Money Bill, but also on the point of nexus for compelling state interest. Why open up Aadhaar platform for private use?
+
+Dwivedi said public-private divide is actually now fading away. Many private players performing public function. He said that private parties performing public functions can be brought under constitutional norms. He said that this was a debate for another day. Right then all that was necessary to know was that the private players are within the control of the Act.
+
+Dwivedi said if they are performing public function they are amenable to writ jurisdiction under 226 and 32. In another case Supreme Court has to consider that.
+
+Justice Sikri said in many cases, public sector entities are handicapped because of the strict vigil whereas private sector has more freedom.
+
+Justice Chandrachud asked what the point was in involving private parties in the Aadhaar infrastructure. Dwivedi said private players are not exempt from constitutional norms. And the divide between public and private sector is narrowing.
+
+Dwivedi said that the petitioners have claimed that they are numbering human beings and drawn comparisons with Hitler. He said that petitioners seem to think that the history of numbers began and ended with Hitler. He asked the Court to imagine the state of our society if there were no numbers. He said that the whole of history is the history of numbers, and it began with India. Dwivedi said origin of 1-10 began in India at the time of Bramhagupta.  He cites a book by George Ifra.
+
+Justice Sikri said nobody is saying there should not be numbers. Why assign them to individuals?
+
+Dwivedi said that the proximity card to enter the Supreme Court has a number. He said that air tickets have a PNR number. Dwivedi said that the problem with Hitler’s numbers was that it was based on identity, but Aadhaar does not ask for identity. (MediaNama: Aadhaar does not ask for an identity? We don’t know what this means)
+
+Dwivedi said proximity card, airline tickets (PNR), credit cards etc are all numbers assigned to individuals. He said that Stephen Hawking has written a book called God Made Integers, where he talks about mathematicians.
+
+Justice Chandrachud asked whether Dwivedi bought this book after his Rs 50,000 investment on algorithm books.
+
+Dwivedi said that numbers are beautiful. He said he doesn’t understand why petitioners have vehemently argued that “we are being numbered.”
+
+Justice Sikri said Their arguments was about reducing personhood to a mere number. Dwivedi continued about the beauty of numbers. He said Numbers are beautiful. They are fascinating. We as human beings are not numbered just because a number is assigned to us.
+
+Justice Chandrachud said Section 3 said Aadhaar is an entitlement. Asked how it became mandatory in that case.
+
+Dwivedi replied that the Aadhaar Act has nothing to do with other linkages of Aadhaar except Section 7. UIDAI is mandate-neutral. The government is making it mandatory under other Acts. He suggested that the Bench look at these Acts separately. He said that under the Aadhaar act, obtaining Aadhaar is voluntary. He said Aadhaar for PDS may be good, under PMLa may be bad. The privacy tests will have to be applied also to each notification. Not for the Act!
+
+Dwivedi said that if the Court felt that in any particular situation the government is going too far with linkage, it can strike that down, but that’s not a ground to strike down the overarching Aadhaar Act. He said that knocking down this Act because some notifications are impermissible invasion would be destroying a great infrastructure that has been created for Aadhaar. He said that the entire UIDAI infrastructure including enrollment has been built from the consolidated fund of India.
+
+Dwivedi said that the Aadhaar Act is people-centric on the one hand, and UIDAI-centric on the other. He said that these days biometric authentication is spreading everywhere. If a company wants to institute biometric attendance, it can approach UIDAI. But a chaiwalla or paanwalla has no reason to enter into a contract under Section 57.
+
+The Bench rose for lunch, reassembled at 2:30pm
+
+Justice Chandrachud said Aadhaar can be made mandatory under a law or through a contract under Section 57. He asked Dwivedi if he was correct in understanding that Section 7 plus Section 57 cover the entire gamut of uses of Aadhaar.
+
+Dwivedi replied that Section 57 is a limitation, not an expansion. If Section 57 was not there anyone could be an RE. Section 57 says that there has to be a prior law or contract.
+
+Dwivedi said there is no guarantee that UIDAI will accept the AUA application of a paanwala, beediwala or a chaaiwala. It has to be pursuant to a contract. UIDAI may still refuse an entity from becoming a requesting entity.
+
+Dwivedi said that even under Section 57, the UIDAI will exercise supervisory control over private parties using Aadhaar. He said that there must be a law or a contract, and that’s an important limitation under the Act. He said that because of this, all the State Resident Data Hubs have been destroyed.
+
+Justice Chandrachud asks whether, once there is a contract under Section 57, the UIDAI is bound to offer authentication services.
+
+Dwivedi said no. The UIDAI will determine if authentication is needed.
+
+Justice Bhushan was not so sure. Dwivedi repeated that provision is the safeguard. The private person have to first apply and only UIDAI can approve the AUA application.
+
+Justice Chandrachud asked what if he wanted to use a software app, and the developer asked him to authenticate. Dwivedi repeated that there must be a contract, and the UIDAI has to permit it.
+
+Justice Bhushan said that Section 57 doesn’t envisage the UIDAI coming in the way of a contract.
+
+Dwivedi said that UIDAI comes in after the contract, to check whether for that contract, authentication is needed.
+
+Justice Chandrachud said that there is nothing in Section 57 that allows the UIDAI this discretion.
+
+Dwivedi said that this flows from the provision itself.
+
+Justice Chandrachud asked how the need for authentication is decided? For example, a taxi service or software app.
+
+Dwivedi said there has to be a prior contract and then UIDAI is approached for request.
+
+Justice Sikri said where was there a guideline for what will be considered a “need” for authentication and what won’t be. Justice Chandrachud was not so sure. He said Section 57 does not contemplate any such power to UIDAI to refuse. Justice Bhushan said Section 57 does not even refer to UIDAI.
+
+Justice Chandrachud asks Dwivedi not to always refer to paanwala but take the example of an insurance provider. “Can you refuse their application?,” he asks. (MediaNama: Overdue! Slow clap.)
+
+Dwivedi said that the critical expression in Section 57 is “pursuant to”..which means prior contract..in other words, someone can become an RE only by showing a prior contract. Dwivedi said that the contract must come before registration as a requesting entity and doing authentication. He said this flows from the phrase “pursuant to any law or contract.” He said that the UIDAI will not blindly allow it.
+
+Justice Khanwilkar questions the fact that the prior contract comes before permission from UIDAI is taken. He said that Schedule A of the Act that outlines who call can be REs is very wide. He said that for an RE, interface with UIDAI comes first and the contract with user comes later.
+
+Dwivedi said, not so for 57. There was some debate between Dwivedi and the bench on this point. Dwivedi said that the contract must also state that authentication must be in accordance with Section 8 and Part VI of the Aadhaar Act. He said that under Section 30, the Information Technology Act also applies to issues of storage.
+
+Dwivedi said as long as security is concerned, both safeguards under this Act as well as rules and punitive provisions under IT Act (2000) will apply vide Section 30 of the Aadhaar Act. He then read out the relevant provisions of the IT Act.
+
+Dwivedi said that the IT Act and the Aadhaar Act require the machines to be reasonably secure. He said that this is all that is humanly or legislatively possible. He read Section 66B and 66C and 66E of the Information Technology Act, 2007. He said that there are strict penal provisions under the IT Act. An intermediary who breaks the law faces three years in prison.
+
+Dwivedi said that the CIDR has been declared critical information infrastructure under the IT Act (he presented the notification before the Court). He said that anyone who attempts to secure unauthorised access to such protected systems can be imprisoned for ten years. He said that access to CIDR is restricted. Each room can only be accessed biometrically.
+
+Dwivedi said that you have to go through five layers of biometric checks before you can reach the severs. It is guarded by CRPF men. It is not connected to the internet, so there’s no question of software tinkering. He referred to Section 72, 72A and 76 of the Act and how they fortify the security of the Aadhaar ecosystem. He said anyone who attempts to gain unauthorized access to CIDR will be imprisoned for ten years. He said that the mode of encryption has been prescribed and that the Resonable Security practices Rules 2011 also applies to all agencies operating under the Aadhaar system.
+
+Dwivedi referred to how the 2011 Rules refers to all biometrics including voice samples and DNA but our Act only has two biometrics namely fingerprints and iris scans. He said that as you go in the public domain, the expectation of privacy is diluted, although it’s not lost. He mentioned the Information Technology (Procedure and Safeguards for Interception, Monitoring and Decryption of Information) Rules, 2009 and Information Technology (Reasonable Security Practices And Procedures And Sensitive Personal Data Or Information) Rules, 2011 and said that any body corporate using Aadhaar must have a privacy policy in place. He pointed out that recently UIDAI has imposed disincentives on Airtel and Axis Bank for misuse of Aadhaar.
+
+Khanwilkar Justice points out that body corporates under 2011 Rules have a narrow definition in 43A of the IT Act to include only commercial enterprises.
+
+Dwivedi showed the Court the notification declaring the CIDR as critical information infrastructure. He said that so far as the UIDAI is concerned, Aadhaar is an entitlement – apart from Section 7. He said that UIDAI has not made Aadhaar mandatory. It’s only mandatory under Section 7, everywhere else it is consensual. As far as other laws go, the Court can examine it. He came back to Section 57 and said how contract there is entirely based on consent. Each Section 7 notification may be examined separately for constitutionality.
+
+Dwivedi presented his next point defending against the excessive delegation charge in definition of biometric 2 (g). He said 2 (g) has the words “Such other” … which means only those biological attributes which share characteristis such as fingerprints or iris. He said that fingerprints and iris scans are not genetic information, not intrusive, are only modes of identification, and are capable of instant authentication. So any further biological attribute can be added later only if it meets this condition and enhances accuracy. He said that DNA cannot come within the definition of 2 (g). He said that therefore, there is a limit on what can be added under the Aadhaar Act later. Not just anything – such as DNA – can be added just like that.
+
+Dwivedi said that every village has a stamp of casteism. The people who work in the fields and till the soil were rarely going to the PDS. Anybody else would go and collect. So there was theft. One important change with Aadhaar is that the person has to come face to face with the distributor. So no longer can someone else go and claim on their behalf. Dwivedi said that when more and more people come face to face with the providers, these issues will get resolved. They will get it, and where they don’t get it, they will protest. He said this is the most important aspect of Aadhaar, and it is the revolutionary aspect of Aadhaar.
+
+Dwivedi said that necessity of coming face to face deepens democracy. It is revolutionary. Today there is a change. People are participating more. For example there was a judgment and there were protests following that judgment. There is a palpable change.
+
+Dwivedi said that no ID card prior to this was universally held. They are held in a segmented way. Besides, they are only starting points. The point of Aadhaar is deduplication. So nobody has an interest in giving a wrong address. Whichever address you give, it gets frozen. Nobody will give their wrong name or address when biometrics are involved. He said Aadhaar is not the panacea for all evils but the problems that were occuring on account of fake identity documents will be solved. He said the fingerprints is a huge safeguard. Which is why other ids cannot be used. No deduplication is possible with them.
+
+Dwivedi said Petitioners were arguing that there’s no legal mandate to store information in CIDR. Dwivedi quoted section 10 in this regard.
+
+Dwivedi then addressed the BSP point. Dwivedi said UIDAI is only a licensee of BSP software. Entry to server rooms fully under control of UIDAI officers. He said Petitioners argued that they have hired foreign suppliers. Only software is used by UIDAI as licensee. The hard disks and servers belong to UIDAI. Even technicians are given access to CIDR only when there’s a problem in the presence of UIDAI officials. He said Demographic data is not given to ABIS.
+
+Dwivedi explained the process of extraction once a data packet is received by CIDR. He said that the sourcecode or IP is with the BSPs, but that is no source of insecurity. He compared it with Banks using Oracle/SAP etc. He said that the greatest enemy of knowledge is not ignorance but illusion of knowledge and asked forgiveness from the Court for proceeding on a mere illusion of knowledge given his limitations.
+
+Dwivedi said that another argument that was raised was that Aadhaar is probabilistic. He said that it is not probabilistic, but deterministic.
+
+Justice Sikri said You have to give a proper response to that. Argument was from the exclusion angle.
+
+Dwivedi said Probability governs us everywhere. Nothing in this world is deterministic. Just because it is probabilistic, it cannot be discarded.
+
+Justice Chandrachud did not like this proposition. He said If the probability leads to deprivation of fundamental rights, then there should be safeguards in place to ensure that this deprivation doesn’t happen. He asked how an inherently probabilistic system could be allowed to affect Fundamantal Rights.
+
+Justice Sikri commented that Dwivedi said 95% accuracy, but others had said it is a smaller number.
+
+Dwivedi said they are all valid rejections – many of them. There are other interests which want Aadhaar to fail which are hyping up Aadhaar authentication failures. He said that almost all affidavits are about authentication failures not deduplication rejections.
+
+Justice Chandrachud said there should be an administrative machinery in place to ensure no genuine beneficiary is deprived.
+
+Dwivedi agreed that nobody should be denied benefits due to authentication failure. He claimed that their submission is inclusion.
+
+Justice Chandrachud said Reetika Khera has filed affidavits in the Court and They cannot ignore the facts brought before them. Exclusion was clearly established.
+
+Dwivedi also applauded Mr. Divan to have accompanied Prof. Khera on one of her trips to a village trying to see the working of Aadhaar authentication. He said Section 7 itself provides a fall back mechanism if authentication failure happens. They have to look at effective implementation. But, he claimed, the source is not a systemic fault.
+
+The Court rose for the day. The Additional Solicitor General Tushar Mehta will continue submissions on behalf of the UIDAI at 11:30am on the 18th April 2018.
+
+Summary of hearing based on tweets by Prasanna S, Gautam Bhatia and SFLC.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

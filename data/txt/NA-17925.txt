@@ -1,0 +1,23 @@
+SUBREDDIT: r/india
+TITLE: Might have got phished while resting password for a free VPN service. How to proceed?
+DATE: 2022-12-28
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/zwmxf5/might_have_got_phished_while_resting_password_for/
+
+--- POST TEXT ---
+
+Not sure if this is the right place to ask, but I am pretty much at my wits end. Any advice would be helpful.
+
+While trying to reset all my old passwords, I stumbled across a password for a free VPN extension called HOXX that I used maybe 5 years ago and since then I have not touched. I decided to reset the password before deleting the account as a safety precaution. 
+
+This is their extension on Chrome - [https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh)
+
+&amp; on Firefox - [https://addons.mozilla.org/en-US/firefox/addon/hoxx-vpn-proxy/](https://addons.mozilla.org/en-US/firefox/addon/hoxx-vpn-proxy/)
+
+I followed their video of resting password via the forgot password link on the extension login page which sent me a password reset link on my email id. It ended up in Junk but I have pretty strong filters so I thought that's fine. The mail came from the support id mentioned on their website. The mail was addressed to dear user but the time in GMT and IP address mentioned were genuine. 
+
+There were two reset links and they were weird (not connected to HOXX at all) - something along the lines of **baseserver.io** &amp; **winelessons.net**. So I checked the links on a bunch of URL Scanners - *VirusTotal, Google Transparency Report, EasyDMARC* and *ChickPhish*. All of them gave it a green thumb so I decided to go ahead with it. The website itself just asked me to enter my new password twice, which I did.
+
+Then I logged into HOXX's extension using the password and deleted it. Have also removed it from my Chrome. 
+
+Now I am stuck. An IT engineer friend of my thinks it could have been phishing attempt. Any advice on how to proceed?

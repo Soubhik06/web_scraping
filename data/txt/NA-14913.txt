@@ -1,0 +1,37 @@
+The Ministry of Health and Family Welfare (MoHFW) launched two artificial intelligence-related initiatives for the healthcare sector at the India AI Impact Summit 2026 on February 17, namely:
+
+The SAHI strategy document aims to set a vision for adopting AI in a way that is safe, ethical, evidence-based, and inclusive. It notes that AI applications in healthcare range from low- and moderate-risk areas, such as operations and record-keeping, to high-impact applications that could influence clinical decision-making, diagnosis, treatment, and patient triage.
+
+“While national AI initiatives provide horizontal capabilities and enabling infrastructure, they do not sufficiently guide how healthcare AI efforts should be channelled towards national health priorities.
+
+A dedicated AI strategy for healthcare is therefore essential to align innovation with public health needs, support the development of AI solutions across the risk spectrum, and enable coordinated, safe, and equitable adoption across India’s federal and mixed-delivery health system,” the SAHI document reads.
+
+The MoHFW said that the Digital Personal Data Protection Act (DPDP Act) provides the overarching legal basis for the use of personal data. And the National Health Authority (NHA)’s Health Data Management Policy and the ICMR’s Ethical Guidelines for AI in Biomedical Research and Healthcare state how to use personal data in the healthcare sector specifically.
+
+“Collectively, these instruments define consent, purpose limitation, data access, and accountability across healthcare actors, enabling responsible use of health data for innovation and service delivery,” reads the MoHFW document. It also says that the IndiaAI Governance Guidelines (2025) recognise that current laws and institutional frameworks are adequate to address most AI-related risks, and that there is no need for a separate AI-specific law.
+
+The MoHFW listed the following use cases for AI in healthcare:
+
+Further, the document specified how India’s private healthcare ecosystem is deploying AI in its workflows:
+
+The SAHI strategy document has given 32 specific recommendations across five pillars. Here are some of the key recommendations:
+
+“Liability should be appropriately allocated depending on whether the harm was caused by the developer, deployer, application service provider or user of the AI application. In all circumstances, liability should be ascertained based on technical and clinical considerations, assessed on a case-by-case basis,” MoHFW recommends.
+
+Notably, the SAHI document hasn’t clearly defined high-risk versus low-risk AI uses. It only broadly distinguishes diagnosis, patient triage, clinical decision-making and treatment as high-risk, while routine tasks like record-keeping are low-risk use cases. However, the Central Drugs Standard Control Organisation (CDSCO) released draft guidelines in October 2025 for software as medical device (SaMD), that includes AI/ML-based software . It also categorises risks based on low- and high-risk ranges.
+
+“SAHI recommends a FRAC (Framework of Roles, Activities and Competencies) based approach to AI competence rather than uniform or tool-specific training. Foundational awareness should be widespread, while progressively advanced competencies should be developed among those exercising greater decision-making authority.
+
+“This ensures that all health workers can safely interact with AI-enabled systems, while ethical, legal, and accountability-related competencies are deliberately strengthened at higher levels of responsibility,” the MoHFW says.
+
+For context, the Department of Personnel and Training published the 2020 document FRAC [ Part-1 & Part-2 ] under Mission Karmayogi to map every government position across ministries, departments, and organisations at the national, state, and local levels, and to define what each role entails and the skills it requires.
+
+Manindra Agrawal, Director of IIT Kanpur, explained that BODH is designed to collect and secure medical data, letting developers train their models on-site. “The model developer will not get access to the data. They can train their model and retrieve the trained model weights. And those who hold the new data will be incentivised to upload it and get credits for further training,” he said.
+
+“BODH has two objectives: enable AI model providers to benchmark their models on real-world healthcare data, and provide trustworthy third-party evaluation,” Sunil Kumar Barnwal, NHA’s CEO explained. He also said that almost every AI solution provider claims 98% or 99% efficacy, adding that third parties must evaluate these solutions to ensure they are safe for real-world use cases.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

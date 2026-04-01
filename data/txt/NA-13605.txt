@@ -1,0 +1,27 @@
+The Union Public Service Commission (UPSC) has issued a tender inviting Public Sector Undertakings (PSU) to create a service capable of scanning QR Codes for e-admit cards, authenticating candidates through Aadhaar-based Fingerprint Authentication/Digital Fingerprint Capturing and Facial Recognition, and Live AI-based CCTV Surveillance for UPSC examinations. The Commission stated that these services will match and cross-check the biometric details of the candidates and help monitor various activities of the candidates during the examination to prevent cheating, fraud, unfair means and impersonation.
+
+The Service Provider will be tasked with creating devices that can scan the candidates’ biometrics and maintain a database, which will contain the candidate’s examination and identification details. The application server has to be maintained at two different seismic zones within India where one site will act as a DC (Data Centre) and other sites as a DR (Disaster Recovery) centre.
+
+In order to allow QR code scanning of admit cards before examination a service provider will have to
+
+In case, the QR code on the Admit Card is not scannable, the entry of the candidate’s roll number from the Admit Card will need to be done manually. In this case, the UPSC calls for Aadhaar-based Fingerprint Authentication and subsequent Facial Recognition of the candidate by the hand-held device. Photos and fingerprints that display discrepancies in matching will be identified and determined by the SOP and finalized in consultation with UPSC.
+
+The tender also calls for a CCTV/video surveillance that will record and live broadcast to the UPSC centre so that candidates and other persons deployed during examinations can be monitored in real-time. It also called for AI-based features that can notify the authorities of questionable actions.
+
+The Service provider must:
+
+The AI-based Video Analytics features should provide alerts to the control room in case of :
+
+The tender has also set out certain provisions to ensure data security protection during storage, transmission, and sharing and provides instructions for the destruction of data to avoid data leakage, tampering and destruction.
+
+Here are the instructions:
+
+A service provider will be liable for damages and legal action in case of any unauthorized keeping/preservation or use of data.
+
+A service provider is also required to:
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

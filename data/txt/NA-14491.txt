@@ -1,0 +1,21 @@
+In yet another security threat to health data, the official website of the Ministry of AYUSH for Jharkhand has been allegedly compromised, exposing data of at least 3.2 lakh patients, according to a report by the Economic Times dated September 5, 2023 . CloudSEK, a cybersecurity company, first reported the data breach, revealing that the leaked data comprised personally identifiable information of doctors, patients, their login credentials, phone numbers, and details of medical diagnoses.
+
+The AYUSH portal hosts information on Ayurveda, Yoga and naturopathy, and Unani medicine services. According to a Business Standard report, the AYUSH website for Jharkhand is designed and developed by a Ranchi-based firm called ‘Bitsphere Infosystem’. Now, the threat actor had shared a post called ‘bitsphere.in’ on a hacking forum.
+
+Cybersecurity researchers have informed the media that the breach was initiated by a threat actor named ‘Tanaka’. They have also found that the incident exposed 500 login credentials, contact information of at least 737 individuals who had used the “Contact Us” form, and 472 records containing personal details of doctors on the dark web. The researchers have highlighted that the said data breach raises risks of “account takeovers”, “brute force attacks exploiting common or weak passwords,” and increased chances of phishing attacks. Brute force attacks essentially refer to trial and error methods employed by hackers to crack a password or keys to break encryption.
+
+Article continues below ⬇ , you might also want to read:
+
+Why it matters: Ransomware incidents have doubled in the country since 2020, as per data tabled in the Parliament in December last year. The attack on AIIMS server in November last year and the recent breach of the CoWIN portal highlight the precarity of health data in Indian digital systems.
+
+At a time when the government has been fixated on building India’s health stack primarily by utilising public health data, recurring cyber incidents related to health portals raises serious concerns about privacy and security of sensitive health information. Further, the government’s denial of such incidents and a lack of clarity in presenting investigation-related details adds to existing uncertainties.
+
+What’s being done to tackle data breaches?
+
+In response to a parliamentary question on the security of health data, Minister of State for IT Rajeev Chandrasekhar stated that the CERT-In undertakes several operations when a data breach is reported, including notifying and coordinating with affected organisations to kickstart remedial measures. The team also issues alerts and advisories on ways to protect computers and networks in the event of a cyber threat. The MoS had also stated that a special advisory on security practices has been communicated by CERT-In to the Health Ministry to strengthen the “resilience of health sector” against cyberattacks. However, no reports or notifications indicating CERT-In’s response in AYUSH Jharkhand’s case are out yet.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

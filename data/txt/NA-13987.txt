@@ -1,0 +1,23 @@
+Yesterday, there were reports that suggested that around 6.5 million hashed and encrypted user account passwords of the professional networking site LinkedIn were posted on a Russian hacker website and around 300,000 passwords had been decrypted at that time. While LinkedIn was unable to confirm the leak for few hours, it has now officially confirmed that some of the passwords compromised in the leak correspond to LinkedIn accounts, after an internal investigation.
+
+LinkedIn hasn’t revealed the extent of the damage caused due to this leak and LinkedIn India declined to comment on the number of passwords compromised from India. According to the latest figures, LinkedIn has 161 million members globally and it recently surpassed 15 million members in India, its second largest market outside the US.
+
+Following the leak, a few third party sites such as LeakedIn have been set-up to check if a user’s password had been compromised. However, we’re not sure if one can trust another site with passwords, so we’d not recommend sharing password details. There’s also a list (TPB link for a torrent) containing the leaked password info in SHA-1 format ( hat-tip – @angadc)
+
+Apologizing to its users on its official blog, LinkedIn stated that it is continuing to investigate the situation and noted the various steps being pursued by the company for compromised accounts. These steps include:
+
+LinkedIn also noted that it has now put in place an enhanced security measure which includes hashing and salting of their current password databases, so the affected members who have changed their passwords or members whose passwords were not compromised would benefit from these new measures. We wonder why the company hadn’t put these measures prior to the leak.
+
+Fake Emails? It seems like the criminals are already using this information to send fake and phishing emails to change their LinkedIn passwords, in order to trick unsuspecting users to download malware and drive traffic to scam sites including Viagra-selling websites, as noted by The New York Times .
+
+LinkedIn Mobile Calendar : In April, LinkedIn had added an opt-in calendar syncing feature to its iOS and Android apps. However, researchers from Skycure Security had apparently observed that LinkedIn’s iOS apps collected calendar appointment information including meeting title, organizer and attendees, location, time and meeting notes and was transmitting it in plain text to LinkedIn’s servers without user permission.
+
+LinkedIn responded to it by saying that it needs to send this information to their servers so as to match people with their LinkedIn Profiles as part of its calendar service, although it noted that it sent this information over SSL and never stored the user’s calendar information. The company also released updated versions of its mobile apps which will no longer send data from the meeting notes section of the user’s calendar event and has added a new ‘learn more’ within the app to provide more information about how their calendar data is being used. The Android app is currently available for download on the Google Play Store while the iOS app is expected to be available on the iTunes App Store following Apple’s approval.
+
+Related:
+
+– Updated: Microsoft India’s Online Store Hacked; Reportedly Stored User Data In Plain Text
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

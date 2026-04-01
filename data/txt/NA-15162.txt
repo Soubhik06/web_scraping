@@ -1,0 +1,29 @@
+Cryptocurrency exchange ByBit underwent a cyberattack on February 21, losing over $1.5 billion in cryptocurrencies. According to the announcement, attackers stole over 400,000 ETH and stETH by manipulating a routine transfer between ByBit’s cold wallet to its hot wallet. This makes it the largest single crypto heist in history.
+
+While the exchange claimed that it was 1:1 solvent and would be able to compensate users for their losses from its own treasury, it also faced a bank run of over $4 billion, bringing the total outflows to over $5.5 billion.
+
+According to a statement from ByBit, the exchange was conducting a routine transfer from its Ethereum cold multisig wallet to its hot wallet. A cold wallet is one that is not connected to the internet, while a hot wallet is. A multisignature , or multisig wallet, is a type of secure holding device that requires authentication from multiple parties before processing a transaction. The attackers manipulated the routine transfer process by altering the underlying smart contract logic and masking the signing interface. This enabled them to gain control of the ETH cold wallet and steal over 400,000 ETH and stETH worth approximately $1.5 billion. Ethereum (ETH) is the second largest cryptocurrency by market capitalisation. stETH is a token users receive in return for staking their ETH on a network.
+
+Crypto staking is a practice where a user agrees to lock their tokens in a network for a certain period of time without selling them for an interest.
+
+ByBit claimed that the attack affected only the ETH cold wallet, while all other cold wallets remained secure. It said it had sufficient reserves to cover the loss, with assets under management exceeding $20 billion.
+
+Bybit engaged blockchain forensic experts to trace the stolen funds and was investigating a potential vulnerability in the Safe.global platform’s user interface as the likely attack vector. All trading services, cards, and P2P functions continue to operate normally.
+
+According to cybersecurity expert ZachXBT on X (formerly Twitter), a North Korean threat actor known as the Lazarus Group was responsible for the hack. ZachXBT had previously linked the same group to last year’s $235 million hack against WazirX .
+
+There are some similarities between the ByBit and WazirX hacks, with both hacks targeting a multisig wallet by spoofing the transaction authentication message. The Lazarus Group was also named in a joint statement issued by the governments of the United States, Japan, and South Korea. The statement held the group responsible for a number of cryptocurrency thefts in 2024, worth $659.13 million. This included hacks stealing $308 million from DMM Bitcoin, $50 million from Upbit, $16.13 million from Rain Management, $50 million from Radiant Capita and $235 million from WazirX. In addition, ZachXBT connected the recent ByBit hack to January’s theft of $29 million from cryptocurrency exchange Phemex , and a $43 million theft from BingX .
+
+North Korea’s offensive cyber attacks have gained infamy over the past year, with the revenue generated from cryptocurrency thefts funding a major portion of its missile program.
+
+News of the hack triggered somewhat of a bank run , with users withdrawing over $4 billion in funds, or close to 50% of the exchange’s total funds.
+
+Since the hack (10 hrs ago) , Bybit has experienced the most number of withdraws that we have ever seen, We have had a total number of more than 350k withdraws requests, so far, around 2100 withdraw requests left to be processed. Overall 99. 994% withdraws have been completed. If…
+
+However, the exchange was able to successfully process all the withdrawals and announced on February 22 that its trading and withdrawals had returned to normal levels. By February 24, the exchange had managed to freeze and recover $42.89 million of stolen funds with help from other industry players, while also announcing a bounty of 10% of recovered funds. It registered with Indian authorities on February 25, allowing Indian users access to all of its services.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

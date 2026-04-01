@@ -1,0 +1,20 @@
+SUBREDDIT: r/india
+TITLE: [AskIndia] Is Arogya Setu built by WHO/"World Bank"/TPTB? Else why does it support all languages in the world?
+DATE: 2020-04-14
+SCORE: 45
+URL: https://www.reddit.com/r/india/comments/g0ql25/askindia_is_arogya_setu_built_by_whoworld/
+
+--- POST TEXT ---
+
+I decompiled Arogya Setu app and found following:
+
+&amp;#x200B;
+
+1. It got nasty permissions like BLUETOOTH\_ADMIN, ACCESS\_FINE\_LOCATION, WAKE\_LOCK
+2. It aims to support all languages in the world(e.g Russian, Japanese, Chinese)
+3. It is verifying your mobile number with OTP, all data are uploaded with AES 256 encryption and the encryption key and data may be sold to anyone ready to pay $$$$ like aadhaar scam linked transaction.
+4. Someone seems to have changed package name to nic.goi.aarogyasetu and sold it to our government for 100000 USD?
+5. Code is obfuscated
+6. API keys, etc are not placed in xml files unlike mAadhaar
+
+No way, likes of chaddichandan gang or any Indian company has built "Arogya Setu" app

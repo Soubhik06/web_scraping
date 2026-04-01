@@ -1,0 +1,27 @@
+Keeping up with the practise followed in the previous sessions, the government has yet again denied breach in Aadhaar data in the Parliament. In response to questions concerning Aadhaar data leak, the associated bank-related frauds, and action taken by the Unique Identification Authority of India (UIDAI), IT Minister Ashwini Vaishnaw replied stating:
+
+“No breach of Aadhaar card holders’ data has occurred from the Central Identities Data Repository (CIDR) maintained by the Unique Identification Authority of India, in which the database of biometric and demographic information of Aadhaar is maintained. CIDR is not linked to any external database, such as bank databases.”
+
+Rajya Sabha member P. Wilson asked the IT Ministry:
+
+Why it matters:
+
+While Aadhaar-related frauds have only increased ever since 2016, the government has continued to deny any possible breach in the central Aadhaar repository. Notably, the IT Ministry declares this even without investigating the Aadhaar-related leaks that have been several State police departments, especially the ones where CIDR itself have been alleged to be breached . The fact that the UIDAI also has not taken cognisance of such reports and has refrained from issuing a detailed statement informing the public about its actions, indicates a sheer lack of transparency and accountability towards public trust and data security.
+
+Article continues below ⬇ , you might also want to read:
+
+What about reports of leaked Aadhaar numbers, biometrics in several states?
+
+In February this year, the Andhra Pradesh police arrested a member of an inter-state gang with a hard- disk containing a database of one lakh Aadhaar numbers and fingerprints, mobile phones, a scanner, a fingerprints device and a monitor, according to a report by The News Minute. The gang was mainly involved in cloning Aadhaar-linked finger prints to withdraw money from people’s bank accounts, a financial crime mainly related to the Aadhaar-Enabled Payment System (AePS). Several such similar incidents have been reported in the past couple of years, which serve as a reminder that the Aadhaar security ecosystem is far from being fool-proof. However, the government has not conducted any full-scale investigation into these matters.
+
+While the government has denied any data breach in Central Identities Data Repository or the CIDR, it is worth noting that in 2018, a report by The Wire highlighted that certain government agencies and bank do have access to the CIDR data through government’s internal tools like the Direct Benefit Transfer Seeding Data Viewer. Further, it is also worth questioning that if entities that carry out Aadhaar authentications do have access to the CIDR database, are there not chances of a leak somewhere that may have led to the exploitation of the system through several channels?
+
+Most importantly, the government has chosen to entirely dodge the questions on investigation and has failed to acknowledge that instances of biometric-cloning have been taking place in several parts of the country in an organised form.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

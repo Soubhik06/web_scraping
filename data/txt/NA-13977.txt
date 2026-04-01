@@ -1,0 +1,43 @@
+An anonymous hacker on March 6 uploaded an 8GB database on a hacker forum claiming that it contained leaked data from HDFC Bank. In an emailed statement to MediaNama, HDFC Bank on March 7 denied any data breach:
+
+“We wish to state that there is no data leak at HDFC Bank and our systems have not been breached or accessed in any unauthorised manner. We remain confident of our systems. However we treat the matter of our customers data security with utmost seriousness and continue to monitor bank systems and the ecosystem to ensure the highest standards of data security and safety.”
+
+MediaNama, however, was able to verify the authenticity of some of the leaked data, and it appears to belong to HDB Financial Services, a non-banking financial company (NBFC) that is a subsidiary of HDFC Bank.
+
+Following our findings, we reached out to HDFC Bank once again, and this time we got confirmation from HDB Financial Services of a data leak at one of the service providers engaged by them:
+
+“We wish to state that there is no data leak at HDB Financial Services and our systems have not been breached or accessed in any unauthorized manner. We understand that there was an incident of breach at one of our service providers end who processes some of our customer information.”
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with top stories from MediaNama and around the world, delivered to your inbox before 9 AM. Click here to sign up today!
+
+How did MediaNama verify the leaked data:
+
+We are not sharing a link to the hacker forum because the leaked database is still available for download, putting the privacy of lakhs of users at risk.
+
+Why does this matter: The leaked data contains the personal data of lakhs of EMI applicants including their names, addresses, emails, phone numbers, etc, which could easily be used to carry out financial fraud and spam marketing.
+
+How can the data be used for financial fraud: For example, a fraudster can send out fake messages (similar to the ones shown in the Tweet below) to EMI applicants offering to waive one month’s EMI in exchange for a nominal fee. Since the fraudster will have access to details of the EMI amount, product purchased, etc., the message can be framed to look legitimate. In such cases, an EMI applicant might be deceived into paying the fee, only to later find out that they were scammed.
+
+. @HDFCBank_Cares , these fraudsters are going all out. Going by the large number of people who have received these messages over the last few days, what action have you taken to protect your customers? pic.twitter.com/PYdWWTyBUG
+
+— Jency Jacob (@jencyjac) March 4, 2023
+
+What is HDB Financial Services doing in response to the breach: “We have taken immediate steps to secure the service provider’s system to prevent any further unauthorized access. In addition, we are conducting a thorough review of the security measures adopted by the service provider to prevent similar incidents from happening in the future. We have also notified the regulator and CERT-IN and we are working with them to investigate this incident to the fullest,” HDB Financial Services informed us.
+
+“We take responsibility to protect our customer’s personal and financial information very seriously. HDBFS is committed towards maintaining its customers’ trust and confidence and will continuously work to ensure the security and privacy of their information,” the company added.
+
+What data has been leaked: There are five types of datasets we found, and they all appear to be related to EMI applications for consumer durables and two-wheelers:
+
+What’s the time period of the data: The data appears to be from EMI applications processed between May 2022 to early February 2023.
+
+How many people are affected: The hacker claims there are over 7 crore entries in total, but we found most of them to be duplicate entries since most of the CSV files have overlapping data. For example, the CSV file for smartphone-related EMIs dated February 17 has all the entries from the CSV file dated January 17 in it as well. Hence, it’s difficult to say how many unique entries are there in the leaked database.
+
+Who could be the service provider that suffered the breach: We do not know for sure, but Mint reported that the leak happened at the loan aggregation company Lentra.ai, in which HDFC Bank is an early investor.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,25 @@
+In its antitrust trial against the Department of Justice, Google said that its control over multiple elements of the ad-tech landscape allowed it to enhance security within digital advertising, Verge reported.
+
+Currently, Google is defending itself in a lawsuit filed by 17 US states alleging that Google has abused its monopoly and dominance in the digital advertising (ad tech) market, disadvantaging website publishers and advertisers.
+
+The DOJ has accused Google of forcing advertisers to adopt its own ad-tech tools and making it difficult for customers to switch to its competitors. It has also accused Google of acquiring competitors to exert more control over the process and charging higher prices through its tools. The company argued that this control allowed it to keep the advertising space safer for advertisers, publishers and users.
+
+Online publishers provide ad space, known as “impressions,” and use auctions to fill them. A publisher needs an “ad server” to connect with advertisers, which identifies available ad spaces. An “ad exchange” then facilitates the auction for these impressions, mainly doing two things—selling ad space for publishers and allowing advertisers to bid on ad space.
+
+The ‘ad exchange’ conveys an advertiser’s bids to the ‘ad server,’ and the latter then chooses the bid best suited for the publisher and an ad is placed on the website. All of this takes place within fractions of a second. Google’s Ad Exchange charges advertisers a commission for facilitating the auction.
+
+Google called on two witnesses to testify, Per Bjorke, director of product management for ad traffic quality and Alejandro Borgia, director of product management for ad safety.
+
+Bjorke argued that Google took great efforts to combat frauds and block advertisers that have malicious intent. He argued that opening up the system in the past has lead to security incidents. He said in early 2010s, Google Ads advertising network was considering a way to let its massive advertiser base bid on different exchanges than Google’s own AdX.  This allegedly proved to be a major challenge for Google as it had a lesser say while keeping out bad actors. Bjorke stated that there were “clear, significant benefits of being closed.”
+
+The argument aimed to prove that Google’s control over the ad space was a business decision, and not an anti-competitive action. As an example, Bjorke cited the 3ve botnet scam in 2018, where fraudsters earned $36 million from fraudulent ads.
+
+Google said that the scheme compromised about 1 million IP addresses for which it had to compensate advertisers. This cost it around $30 to $40 million. Google had to work with other companies to create ads.txt, a code that allowed mitigate scams such as this.
+
+Google argued that with its own ad tools across the entire ecosystem it had more visibility into the system to make sure it’s running safe ads that won’t load viruses on users’ computers or show a brand next to inappropriate content. Bjorke said Google also lets people limit how their data is used within its ads ecosystem — but when an external tool is involved, that company could have its own set of rules around privacy.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

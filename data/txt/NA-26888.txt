@@ -1,0 +1,29 @@
+SUBREDDIT: r/Scams
+TITLE: Fake Roku Customer Service Number
+DATE: 2024-02-07
+SCORE: 1
+URL: https://www.reddit.com/r/Scams/comments/1akgxz0/fake_roku_customer_service_number/
+
+--- POST TEXT ---
+
+So my tech illiterate mother calls me this morning in hysterics because she called Roku customer service. Her story goes she noticed a charge on her debit card from Roku and googled their customer service number to dispute the charge. I myself work in baby I.T. and I deal A LOT with general cyber security, having to beware of all the different types of scams, phishing, etc. Baby stuff, things I’ve been learning since the wee days of the internet and through school and my current field of work.
+
+Story goes:
+
+She clicks on the first link she sees, a sponsored link which claims to be Roku Customer Support and proceeds to call the number.
+
+When they answer she asks them if they're Roku, and the individual claims they are Roku. Mom explains to them that she has a charge on her Roku account to purchase a new app service she never authorized. They tell her that her account is being accessed by someone in New York and in order to verify that she's the account holder they want her to download the app that allows them to see what she's doing on her device. One of the many screen mirroring apps. She of course does so, and the "support" begins to tell her to open up her Amazon account, her bank account, and any information relating to her finances. (Mom is on welfare and disability, she has no money to begin with, not that these jagweeds care.)
+
+At some point I think she wizened up and hung up. Proceeds to call me and tell me she's unsure about what's going on.
+
+Immediately, I walk her through the steps to uninstall the remote viewing application from her phone. Then I instructed her through resetting the password for Roku and give me the account information so I can double check if there really was any other. (This was much faster for me to do myself because she’s so shaken and upset she can barely function.) When she checks her bank account she's got a pending charge from this phone call with the "customer support." I directly informed her to call the fraud line located on her debit card and tell them --without all the excess story telling -- there is a fraudulent charge on her bank account, put a freeze on her accounts, and to send her a new card. I tell her to change her banking passwords as well.
+
+When she finished dealing with the bank she called me back, and I asked her to send me the phone number she called. This number of course does not match Roku’s official customer service number. When I replicated her google search, I was unable to find this number. Well, duh, I’m using my laptop with Ublock Origin, so sponsored websites will not pop up. I then use my android device and *here we go*, there’s the sponsored website claiming they’re Roku support. **Right at the top of the google search.** The ad goes to a very sketchy website indicating they’re a password management service and to call their 24 hour tech support for more information. The same scam number she called. The website claims they’re based out of an address in Columbus, Ohio, further search indicates this address doesn’t exist.
+ 
+Skip over all that, don’t even click on the website, and instead inspect the advertisement and it indicates its run out of owned and run out of India.
+ 
+I don’t think I can post the website and I know I can’t post the phone number. I have reported it to google indicating with as much detail that the website is a scam and is falsifying they’re customer service lines for Roku.
+
+Let your loved ones know about fake websites and customer service lines that aren’t directly through their streaming services. Let them know not to download apps that allow these “customer service representatives” to remote view their devices especially when they want to see banking information.
+ 
+*(Also this all could have been avoided because my mom didn’t realize the charge for the Roku account was actually for her service to Paramount+ because it was labeled as ROKU CBS INC. At the end of the day there was no unauthorized charge, she was just confused.)*

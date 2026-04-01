@@ -1,0 +1,63 @@
+The US government’s Office of Management and Budget (OMB) on March 28 introduced a new policy establishing requirements from federal agencies for responsible deployment of artificial intelligence (AI) and minimising risks that impact rights and safety of the public when AI is used for governance.
+
+Importantly, the memorandum requires each federal agency to designate a Chief AI Officer (CAIO) within 60 days of the date of the issuance of this memorandum. The policy expands on the roles, responsibilities, and reporting structures for the CAIOs, who will lead the efforts for AI governance.
+
+What does the policy cover?
+
+The policy targets AI-related risks, governance, and innovation in federal agencies’ operations, covering both new and existing AI developed, used, or procured by agencies. It focuses on risks stemming from AI-informed decisions that could affect decision integrity and legality. The policy applies specifically to AI functionalities within systems, particularly when impacting rights or safety, but excludes AI used in National Security Systems of the US government.
+
+Requirements for Agency Accountability:
+
+In order to ensure accountability towards the duties outlined in the memorandum for AI governance, the policy requires the agencies to:
+
+Key responsibilities of the Chief Artificial Intelligence Officer (CAIO): CAIOs will oversee coordination and compliance with the policy requirements within their agency, working alongside officials to promote AI innovation, manage AI risks, and fulfill governmental directives. Their duties include ensuring AI governance, maintaining AI inventories, supporting equitable AI projects, managing AI-related resources, and safeguarding AI performance and compliance with relevant mandates outline in the memorandum.
+
+The policy details out practices that agencies have to follow before using new or existing safety-impacting or rights-impacting AI, by December 1, 2024. The memorandum defines safety-impacting AI as AI whose output directly impacts or determines decisions crucial to human safety, mental health, environmental protection, critical infrastructure, or the security of strategic assets.
+
+Rights-impacting AI is defined as the AI that critically influences decisions or actions affecting individuals or entities in areas such as civil rights, privacy, equal opportunities, and access to essential government resources or services, including freedoms, anti-discrimination protections, and equitable access to education, housing, and healthcare.
+
+1. AI Impact Assessment:
+
+The policy requires agencies to conduct and periodically update AI impact assessments throughout the AI lifecycle, documenting:
+
+2. Testing the AI for performance in a real-world context: The policy states that agencies must rigorously test AI and its components to ensure its real-world functionality, adhering to domain-specific standards and incorporating feedback from users and other stakeholders. Tests should mirror the conditions in which the AI will be deployed to meet expected outcomes and mitigate risks. If direct access to AI’s source code or data is unavailable, agencies are suggested to employ alternative testing methods like observing AI responses or collaborating with vendors for evaluation. Agencies are advised to use pilot programs and limited launches with comprehensive monitoring and safeguards for final testing stages before broad deployment.
+
+3. Independent evaluation: Agencies must ensure AI systems function as intended and their benefits outweigh risks, through reviews by the CAIO, AI oversight boards, or relevant offices. This involves examining AI impact assessments and real-world testing results. The policy calls for an independent authority, not directly involved in the system’s development, must be involved for evaluation of the release or oversight process like the Authorization to Operate.
+
+4. Conduct ongoing monitoring: This involves ongoing procedures for monitoring the “degradation of the AI’s functionality”, defend AI-specific exploits, and changes that may impact rights and safety. The policy advises agencies to scale up the use of new or updated AI features incrementally to provide enough time to monitor the outcomes.
+
+5. Evaluation of risks from the use of AI : The policy emphasises on conducting periodic human reviews to assess changes in deployment context, risks, benefits, and agency needs. Agencies are required to check if current practices sufficiently mitigate risks, requiring updates if necessary. It is recommended that at minimum, human reviews, including independent reviews, must be conducted annually and after significant AI or context modifications, including performance retesting in real-world conditions.
+
+6. Mitigate emerging risks to rights and safety: In order to tackle emerging risks identified through monitoring, agencies have to update AI to lower risks or introducing procedural safeguards like increased human oversight. If significant changes render existing practices less effective, agencies must update or redo these practices. AI posing unacceptable rights or safety risks, without effective mitigation, must be discontinued as soon as feasible.
+
+7. Ensure adequate human training, human oversight, and accountability: Agencies must ensure operators are well-trained and assessed for handling AI outputs, addressing automation bias, and managing AI risks. Training, tailored to the specific AI use, should be regular. Importantly, the policy stresses on identification of significant rights or safety-impacting AI decisions that require extra human oversight and intervention. In cases where immediate human intervention isn’t possible, a suitable fail-safe must be in place that reduces the risk of significant harm.
+
+8. Provide public notice and plain-language documentation: Agencies are required to provide public notices and plain-language documentation on AI systems, adhering to laws and privacy guidelines. This includes making AI functionalities known through the use case inventory for users and the public, especially when AI impacts service interactions, ensuring timely AI usage notices and access to public documentation. For non-public AI use cases, agencies still need to report relevant information to OMB and maintain transparency in AI usage as per legal requirements.
+
+The policy prescribes some additional minimum practices that agencies must follow before initiating the use of new or existing rights-impact AI:
+
+1. Identifying and mitigating algorithmic discrimination: Agencies are required to identify, assess, document AI’s impact when using data contain information about groups protected by Federal non-discrimination laws (e.g., race, age, etc). The policy recommends evaluation of AI models for potential use of attributes as proxies for protected characteristics and its impact on performance. The AI should be tested in real-world scenarios to identify performance disparities across demographic groups and if the risk of discrimination cannot be mitigated, the agencies should discontinue AI use in decision-making.
+
+2. Incorporating feedback from affected communities: The policy lays out ways in which agencies can consult affected and underserved communities and gather public feedback to inform AI design, development, and usage, adhering to legal and policy guidelines. This also includes input on risk management practices like opt-out options. In sensitive areas like fraud prevention, consultation should be adapted appropriately. If AI is deemed more harmful than beneficial, its use should be discontinued. Some of the methods to collect input may include usability testing, public comment solicitation, customer feedback, public meetings, outreach to federal employees and labor organizations, and other transparent, accessible engagement processes.
+
+3. Conduct ongoing monitoring and mitigation for AI-enabled discrimination: Agencies are needed to monitor rights-impacting AI to “specifically assess and mitigate AI-enabled discrimination against protected classes, including discrimination that might arise from unforeseen circumstances, changes to the system after deployment, or changes to the context of use or associated data”.
+
+4. Notify negatively affected individuals: The policy mandates that agencies must inform individuals about adverse decisions or actions resulting from AI use, like benefit denial or fraud identification, in line with laws and guidance. These notices should be timely, multilingual if necessary, and through various formats depending on the AI context. They must include contact details and, if applicable, appeal rights, along with explanations for the decisions as required by existing obligations.
+
+5. Maintain human consideration and remedy processes: OMB has underscored the importance of timely human review and possible remedies for AI-related grievances through fallback systems, adhering to laws and guidelines. Additionally, existing appeal or review processes for adverse decisions or errors should be utilized or expanded accordingly. Importantly, these remedies must not overburden individuals, following OMB guidance on administrative load. If appeals aren’t feasible due to legal or practical reasons, alternative means for human oversight of AI must be established.
+
+6. Options to opt-out from AI-enabled decisions: The policy mandates agencies to offer an opt-out from AI decisions, providing a human alternative where feasible, as per laws and guidelines. The opt-out must be clear, easy to access, and non-discriminatory, particularly when alternatives are expected or their absence would limit services or cause harm. Opt-outs aren’t required for AI used in fraud detection, cybersecurity, or criminal investigations. Moreover, CAIOs may waive the opt-out if a human alternative is less equitable or imposes undue hardship on the agency.
+
+Provision for waiver from the minimum practices:
+
+The OMB policy provides for exclusions from the minimum practices for agencies that are using AI only for purposes like evaluating a potential vendor, commercial capability, or are using freely available AI capability—not otherwise used in agency operations—exclusively for making a procurement decision.
+
+As per the policy, the agency CAIO is empowered to waive one or more requirements for a specific covered application of AI after determining that it does not match the definitions of safety-impacting or rights-impacting AI. The agency CAIO must do this “based upon a system-specific and context-specific risk assessment, that fulfilling the requirement would increase risks to safety or rights overall or would create an unacceptable impediment to critical agency operations”. The CAIO may also revoke a previously issued waiver at any time and this responsibility cannot not be delegated to other officials.
+
+Additionally, the policy also lays out guidelines for managing risks arising out of federal procurement of AI. These measures emphasise on consistency with applicable laws, transparency, promoting competition, responsible procurement of generative AI and AI for biometric identification, maximising the value of data, and assessments for environmental efficiency and sustainability.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,157 @@
+by Anand Venkatanarayanan
+
+This article was written as a response to the interview by Nandan Nilekani on Quartz Media , which attempted to, but did not adequately address this previous rebuttal of his claims . This article does not assume that the reader has read the previous response , but reading it will greatly enhance the comprehension of the issues involved.
+
+Response: It is true that authentication error rate alone is not a good metric to look at to predict number of households denied their benefits. Andhra Pradesh however publishes separate beneficiary data which shows the total number of families(cards) that did not get their benefits, even after repeated attempts in the figure below.
+
+For the period between March 2016 – March 2017 (both inclusive), the minimum number of families denied because of authentication errors in January 2017 was 51,448 families (pick January 2017) and the maximum number was 193,311 in March 2017 (pick March 2017), and an average of 84,138 families. Andhra Pradesh clearly doesn’t have 100% inclusion.
+
+(Note: See “Biometric auth. data” worksheet in the raw data spreadsheet for full dataset ).
+
+Exclusion was also validated by door to door survey conducted in Feb 2017 in Telengana (eight of 30 households):
+
+“Although all 50 “successful” households received full entitlements at correct prices in October, eight of 30 (27%) no-show households reported failed transactions due to issues with ABBA (Aadhaar-based Biometric Authentication). Further, 53 of 80 (66%) surveyed households reported glitches with one or more of the five technological components of the system.” Source: EPW
+
+When two different approaches (micro studies and macro analysis) conducted across two different states, corroborate each other, the hypothesis that biometric authentication causes exclusion to eligible households is conclusive and is no longer a speculation.
+
+Andhra Pradesh also uses all the recommended best practices such as fusion (Any two best fingers) and iris authentication and publishes trial data (site goes down often and please refer to this excel sheet if it happens.
+
+Summarizing the trial data that is published by Andhra Pradesh, across all districts and months where it is available and correlating with families denied because of authentication errors, we get the following table.
+
+The above data implies that for a set of people, biometric authentication does not work as expected and requires multiple trials to get through. For some it does not work at all.
+
+Update:
+
+It is possible to look at the table above and conclude that the families denied as a percentage of total cards is only 0.4% to 0.6%, but that would be missing the bigger story. Firstly, the absolute numbers of families denied is more important than a percentage figure comparison. Secondly, the longer a card stays in the non-availed pool, the higher the chance that it will be deleted from the system (3-6 months is the show cause period for non drawal) and hence the total cards in the pool itself will shrink. This will of course decrease the attempted and failed cards, but it does not mean that exclusion is decreasing.
+
+The table below correlates total cards, availed cards, non-availed cards and failed cards.
+
+If Andhra Pradesh is indeed 100% ePDS, then the sudden jumps (Jan to Feb 16, Jan to Feb 17) and the slow decreases in the intervening months, points out to an extraneous factor.
+
+*******
+
+Response: Andhra Pradesh does produce data on VRO cards (Pick a district and month), which are cards for which authentication does not work. However, the data below (summarized across all districts) shows no change in VRO cards across 16 months, even when there is meaningful change in the number of failed cards. It points out to a process that does not work as advertised, or there would be meaningful change in the number of VRO Cards. Hence VRO cards are cards within the non-availed category and not in the attempted and failed category.
+
+*
+
+Based on the available empirical data above, we can conclude the following:
+
+*******
+
+Response: The savings number debate requires a separate article by itself, but the figure is highly contested and the Chief Economic Advisor himself has said that it is potential savings and not actual.
+
+“In other words, we made clear that the saving was potential not actual and was conditional on prices and subsidy levels. We did not — and did not intend to — assert that that absolute figure was in fact the actual saving in 2014-15.”
+
+Also, Government of India’s actual figures for 2014-2015 put it at only INR 91 Crore .
+
+*******
+
+(Editor: What he’s essentially saying is that ‘There are x% of fakes/duplicates in scheme Y and UID is the only way to remove it to increase efficiency’)
+
+Response: Let us take an online game site, for example, for Poker, for explaining why this does not hold up. The game site has users who join the program, play poker, cash in the chips and leave. All the users get free chips worth $10 on the first of every month.
+
+Some come back repeatedly, but a few leave because of several reasons (Lost money, lost interest, Dead) and a few create multiple profiles (Multiple IDs) to get free chips. When the few leave, they don’t delete their profiles, but let it lie dormant. For the game provider, the ones who have left, but have not removed their profiles are tombstones . They are just entries sitting on the database and have no net negative or net positive effect on the system, except may be decreasing the speed of DB queries.
+
+The multiple profiles are however a problem for the game provider. Now assume that game provider signs up with UIDAI and mandates that every user must submit his UID (or update their profile with UID) and uses OTP for login (authentication), what really would be the savings generated? The savings generated would be that of de-duplicating active , real users and not that of “tombstone” users.
+
+Now let us apply the same logic on PDS, NREGA, LPG programs that were run by GOI and various states. In the era of paper and pencil, tombstones are very difficult to remove because everything is paper based. Beneficiaries simply did not care about deregistering themselves in these programs as they were not incentivized (A life insurance program incentivizes death reporting but not IT or RTO for PAN / Driving licenses) and numbers kept going up.
+
+When records are digitized and point of sale devices are introduced, tracking how often a beneficiary draws grains or is given LPG subsidy is quite easy. It’s also easy to figure out dormant, inactive accounts in the database. After digitization, PDS programs have started issuing show cause notices to beneficiaries after 3-6 months of non-withdrawal and putting those accounts in dormant/inactive state.  This is an effective way for self-cleaning entries in DB and is doable without using UID.
+
+It is difficult to differentiate between tombstone PAN cards and active, real multiple PAN cards using only IT returns filed (activity) as a metric because of optionality. It is not required to file a return if the income earned on that year is less than or equal to the exemption limit (INR 2.5 Lakh). Hence just comparing the ratios of total PAN cards issued and IT returns and concluding that a certain percentage of users have multiple PAN cards is logically flawed. Since most of the bank accounts are already seeded with PAN, it is easier to detect tombstones by comparing inactive PANs with activity report on bank accounts linked with those PANs.
+
+Tombstone removal is even harder for driving licenses as it suffers from extreme optionality problem. It only generates an activity fingerprint if the possessor has a run-in with law enforcement and fined for violations. Law abiding safe drivers never generate an activity and hence are indistinguishable from tombstones. One effective way to eliminate tomb stones faster is a shorter expiry date for documents that have in-built optionality.
+
+Why have the notion of a PAN card that never expires, when filing a IT return is optional within an income limit? Why do driving licenses have a 25-year validity period, when it has extreme optionality for activity generation?  This is a ripe area for innovation for policy makers rather than just relying on UID.
+
+Interestingly UIDAI so far does not have a well-defined process for handling real tombstones (death) that works well on the ground: as the report points out, “Right from the government officials to the people, confusion and misinformation prevails on how to invalidate the Aadhaar details of a person who is no more.”
+
+Hence if all other ID documents are derived from UID and if everyone believes linking UID to other databases can aid in tombstone removal and don’t do anything else, it might as well increase the tombstone entries in the DBs over a period of time.
+
+The category confusion between tombstones (DB entries) and diversion (multiple active users) leads us to overestimate fraud/fakes/corruption by a wide margin. For instance, a report on mid-day meals claimed 33% corruption (30M / 108M), when in reality 138M are database entries, 108M are active users drawing benefits and 30M are tombstones.
+
+According to a performance audit of MDM by the CAG, while state governments reported a total of 138.7 million children as enrolled in schools , based on the number getting mid-day meals, there were only 108 million .
+
+So far, the only available data of duplicate removals by using only UID is the DBT LPG Scheme ( See DBT cabinet , Points 7 and 8). The efficacy of UID in the LPG scheme is shown below:
+
+Notice that LPG, PDS, NREGA do not suffer from the optionality problem like PAN, Driving license. Holders must regularly interact with the concerned provider to avail benefits and hence activity can be constantly monitored and tombstones can be regularly removed.
+
+If efficiency of UID removal is only 0.5% for a program like LPG (average of 7-12 activity records per year), then it is not possible for it to be the same for programs with high optionality such as PAN and Driving licenses and using UID to remove fake/duplicates is not backed by available data (Optionality makes extrapolations very susceptible).
+
+*******
+
+Response: The lack of data on the efficiency of using UID to remove duplicate PAN cards is the primary concern. (See previous point on efficiency of UID)
+
+*******
+
+Response: There are two reasons why this is a bigger concern for databases that contain UID (Non-biometric, demographic and other details) than other public and private databases. The first is the size of the database. We can be reasonably sure that there exists no other database in India, whose size comes anywhere close to the UID database. This means availability of even parts of the database has the highest impact for ID theft (remember personal data isn’t just biometrics). For instance the recent McDonald’s leak affected 2.2M customers, while the recent google search on “Aadhaar name number filetype:xls” query showed half a million entries in the HRD ministry itself.
+
+Size and impact does matter, on deciding which DB should be secured first and if it takes time to formulate a privacy law to cover all aspects of privacy (It will), it is prudent to do it in haste for the DB with the largest size and impact first.
+
+The other reason why concerns on UID indexed DBs are higher is “optionality” and “skin in the game”. Since citizens don’t have any legal recourses yet for breach of privacy, at the bare minimum, a concerned citizen can choose not to interact with institution which treated their data on a casual manner. However, even such a mild form of censure (boycott) is not possible for a citizen, for UID indexed DBs (HRD ministry, Food and Civil Supplies) because they must keep interacting with these entities.
+
+Hence lack of optionality to avoid interacting with these institutions require a higher bar of accountability and since UID is (almost) mandatory, it is only reasonable to demand better protections from its eco system than others.
+
+*******
+
+Response: The architectural design of UID’s non-biometric database (demographic and other information) was the primary reason why these parallel databases came into existence in the first place. To understand it in depth, let us consider an existing scheme (PDS/LPG, NREGA) which was running on the ground before UID seeding. The hard problem then is to figure out how to link the existing beneficiary program with UID (seeding) for the entire state since the beneficiary database may contain fields that are really not the same as in the UIDAI DB (Name change, Address change etc.).
+
+Simply asking the beneficiary to provide their UID number is no good because even other details in the beneficiary DB needs to be reconciled and checked for accuracy (If not, one could give a UID of some other person). Doing it for a large number of beneficiaries in an automated way is difficult and error prone and manual reconciliation is a must. This process is specified in depth by UIDAI.
+
+Since manual is the recommended way, UIDAI allows a bulk export option to export all resident data in the Central database (except biometrics, but with photographs), for registered entities (they must apply for a license). This is referred to as the Enrollment ID Unique ID XML packets (all enrollment IDs and Unique IDs in a state.
+
+Enrollees typically don’t understand that their non-biometric data can be accessed without their consent and the enrollment operator, typically checks section 8 of the enrollment form by default.
+
+Once obtained, securing the data in EID UID XML packets is no longer the responsibility of UIDAI. The responsibility for securing the data, instead, is that of the entity that obtained these packets. The last paragraph on page 18 of 33 of this document says:
+
+A State is strongly advised to have adequate Security mechanisms for data exchange, to avoid compromise of sensitive Resident information. In view of this, it is recommended a State obtaining EID-UID files from multiple registrars or sending EID-UID files to other entities always do so with appropriate encryption.
+
+Since UID was widely pushed, most states obtained EID-UID files from multiple registrars and used them to seed their beneficiary database.
+
+Sharing these files with encryption was only an advisory from UIDAI and not a legal requirement (UIDAI was without any legal backing on 2012, the date of the document), and parallel databases which had UID in their schema, came into existence. Since no one was responsible for keeping these databases secure, they had been insecure for a while, until people started noticing that they were leaking. As we realized via this twitter thread ,  “leaking” was an (unintended) feature and the capability to view resident data for seeding ( screen shot below ) did increase the probability of the leak enough to make it a reality.
+
+*******
+
+Response: A slight evolutionary detour about identity and self is required to understand why this argument does not hold up.
+
+As a species, we intuitively understand privacy, when we first felt the need to cover ourselves. Thus even before the intellect is fully formed, even as a child, we already understand the concept of multiple identities, a true form to a few whom we trust and a clothed one for others. As we grow older, we grow more identities (Parent, Spouse, Child, Friend) and also trust less and less people to know our true identity.
+
+Multiple identities evolved as an evolutionary strategy to survive because as a social animal, we always have to interact with others, for getting things done, and we always leak identities, when we interact. Our unique evolutionary history has taught us to have multiple identities to handle issues of trust , as we learnt that we cannot trust everyone with the true version of “us” and privacy concerns across any human domain usually stem from this unique evolutionary history (Privacy concerns are trust issues with the other party in a transaction).
+
+This brings up the key problem anyone (Facebook, Google) who transacts with a large set of users eventually faces. How do we know if (X) users are really the same user? This is the “real user id problem”. There is no elegant way to solve this problem at all, since user id creation is based on (X) local parameters, which can be forged. There are ways to solve this problem via analytics (Cookies, IP correlation, WiFi Location, Cell ID location), but it can never be 100% accurate as they are probability models and there are digital countermeasures to defeat them (TOR, VPN, IP hoppers etc.)
+
+Broadly though the desire for privacy remains, even among those who seek to compromise others’ privacy by linking their various identities. For instance, Google does not usually disclose the pay of every engineer to everyone else, protects their trade secrets, hides how tax havens contribute to its profits and so on.
+
+Since governments also deal with populations, it almost always is on the other side of the transaction problem of trying to find out among (Y) identities, which of them are duplicate of each other? This concerns both tax collection and expenditure as it involves populations. Since tax can be avoided by pretending to be multiple people, by dividing the income into sub-populations, they always have the problem of de-duplicating identities. Welfare expenditure can always be skimmed by a few, pretending to be many, again there is a lot of incentive for figuring out the solution for the real user problem.
+
+Let us assume that using biometrics (fingerprints, iris scans and probably DNA), we can generate a unique ID for everyone. The place it really starts falling apart is when Government of India starts mandating that in order to do any transaction with it directly or through states, the global ID is mandatory and has to be verified by sharing biometrics, as it violates two basic principles of privacy (trust issues):
+
+Consider the most common responses which we have, when we encounter issues of trust and how we solve them:
+
+If we follow the logic so far, it is clear that the privacy concerns of using UID and biometrics for day to day transactions is not about letting go a bit of privacy for convenience, but is about letting go of all the irrevocable real ID (UID and biometrics) for a bit of convenience .
+
+A better design choice would have been to issue multiple domain specific revocable identities that are derived from the irrevocable global ID for day to day transactions without mandating biometric authentication. In this model the other party (GOI, States) can figure out duplicates by asking UIDAI the simple query, given revocable domain specific identity X tell me other equivalent identities of X in the same domain. So users get both revocable identities without biometrics and Government of India or the states also get duplicate removals.
+
+*******
+
+Response: The basic risk engineering principle in designing a ID system is to assume that it will always be breached and think about how to handle the breach. A few examples of such systems are public key pairs, digital certificates and even credit/debit cards. All of them have two basic characteristics: Expiry and revocability.
+
+The creators of encryption technology did not ever claim that these technologies are not unbreakable and totally safe under the right circumstances. Instead they also designed fail safes and thought about protocols to handle issues that would come up, if the encryption is broken. So all digital certificates have an expiry date and are also revocable by the user who generated them.
+
+Since both UID and biometrics do not have these basic characteristics, they are not suitable for widespread day to day use and are better suited for limited use in tightly controlled environments.
+
+This basic design problem cannot be worked around by adding more layers of security since it obscures that all systems will be breached and inspires false confidence and leads to statements such as “It was not breached even once until today and hence it is safe” which is logically equivalent to “I am immortal because I have not died yet”.
+
+Editor: If you’ve read this far, do read Anand’s first piece
+
+*
+
+Anand Venkatanarayanan is a Senior Engineer at Netapp . Views expressed here are personal and do not reflect the views of his employer
+
+*
+
+Note: This post is published under CC-BY license. You may republish this post with credit to the author (Anand Venkatanarayanan), but you must also include the disclosure that these are his personal views, and do not reflect the views of his employer.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

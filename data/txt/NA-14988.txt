@@ -1,0 +1,35 @@
+An RTI query by India Today has uncovered a significant gap between the number of deaths in India and the corresponding deactivation of Aadhaar numbers, raising serious concerns about the accuracy of the identity database.
+
+Since the launch of Aadhaar in 2010, the Unique Identification Authority of India (UIDAI) has deactivated about 11.7 million Aadhaar numbers linked to deceased individuals. Official records estimate that more than 160 million people died during this period, which means Aadhaar cards of a vast majority of deceased individuals may still be active.
+
+Officials admit that the current process to deactivate an Aadhaar after death is cumbersome and relies heavily on data from external sources, such as death certificates issued by state governments or information provided by family members.
+
+UIDAI clarified in its RTI response that it does not maintain year-wise deactivation data. The total number of Aadhaar numbers deactivated due to death, as of December 31, 2024, stands at more than 11.46 million.
+
+To address this gap, UIDAI introduced revised guidelines in 2023 , outlining a system to match death records from the Civil Registration System (CRS) with the Aadhaar database. UIDAI deactivates an Aadhaar only when it finds a 90% name match and a 100% gender match. It also checks if the Aadhaar number was used after the recorded date of death.
+
+If someone tries to use a deactivated Aadhaar for biometric authentication, the system alerts that person and asks them to visit a UIDAI centre for verification before it can be reactivated.
+
+Twenty-four states and union territories have shared around 15.5 million death records with UIDAI so far. After verification, the agency has deactivated about 11.7 million Aadhaar numbers, while it is still processing another 670,000 cases.
+
+In a bid to improve accuracy, UIDAI is working on technical solutions, including building infrastructure for real-time data sharing with both CRS and non-CRS systems via API integration. A new feature titled “ Reporting of Death of a Family Member ” was launched last month to allow voluntary reporting by relatives.
+
+The UIDAI is also exploring options to collect death data from banks and other Aadhaar-linked institutions to strengthen the deactivation process.
+
+Aadhaar has recently made headlines due to the ongoing Special Intensive Revision (SIR) of electoral rolls in Bihar, ahead of the state’s assembly elections by November 2025.
+
+On July 10, the Supreme Court directed the Election Commission of India (ECI) to accept Aadhaar cards , along with Elector’s Photo Identity Cards (EPIC), and ration cards as valid identity documents for voter registration. This came after the ECI initially excluded Aadhaar and PAN cards from its list of accepted documents in the SIR exercise, a move that triggered legal challenges and public backlash.
+
+At the same time, official data has revealed that Aadhaar saturation rates have exceeded 100% in several districts of Bihar’s Seemanchal region , which borders West Bengal and Nepal. Districts like Kishanganj, Araria, Katihar, and Purnia have reported over 120 Aadhaar cards per 100 residents, raising concerns about possible duplication and identity fraud.
+
+The situation has stirred a wider political debate. While the ECI has defended its revision process, opposition parties have raised concerns over exclusion and irregularities. The controversy has reignited discussions about Aadhaar’s reliability as an identity document.
+
+Not deactivating the Aadhaar cards of deceased people can cause serious problems. People may misuse these active Aadhaar cards to create fake voter registrations or cast illegal votes during elections, which can harm the fairness of the democratic process. It also makes it hard to plan government-offered services properly or record how many people actually live in a particular area.
+
+In areas like Bihar’s Seemanchal, where there is an oversaturation of Aadhaar cards, it raises concerns about fake identities and possible misuse by people from outside India. Fixing this problem is important to protect the integrity of elections, and make sure that government-sponsored help only goes to the people who truly need it.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

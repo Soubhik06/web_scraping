@@ -1,0 +1,19 @@
+In a massive data breach, data of over 2 crore BigBasket users, including their names, email IDs, password hashes, pin, and contact numbers, among others, was leaked andÂ is being sold on the dark web, reportedÂ cybersecurity firm Cyble. The database was reportedly being sold for around â¹29.5 lakh ($40,000).
+
+BigBasket has meanwhile, according to several news reports including by Entrackr and IndiaToday , acknowledged the breach. The e-commerce website claimed that it does not store financial data of customers, and is confident that this data is secure. It claimed to have lodged a complaint with the Cyber Crime Cell in Bengaluru.
+
+According to Cyble’s report, the size of the leaked database file was over around 15 GB, containing data of nearly 2 crore users. “More specifically, this includes full names, email IDs, password hashes (potentially hashed OTPs), pin, contact numbers (mobile + phone), fullÂ addresses, date of birth, location, and IP addresses of login among many others ,” the blog post read (emphasis theirs).
+
+The breach potentially went unnoticed for over two weeks; it reportedly happened on October 14, but was detected by Cyble only on October 30. The company then disclosed the breach to BigBasket on November 1.
+
+BigBasket told media outlets that it will pursue the matter “vigorously to bring the culprits to book”. It told Entrackr in an emailed statement that it does not store financial data. However, it admitted that its other customer datat â email ids, phone numbers, order details, addresses and so on â could potentially have been accessed.
+
+In the past few months, several Indian companies have suffered data breaches. In August, a breach at ticketing and travel website RailYatri exposed details of over 700,000 users. The leaked details included sensitive details such as travel itineraries, and financial data such as credit and debit card information and UPI Ids.Â Last month, PTI was hit with a ransomware attack that forced the news agency to suspend its publishing services for several hours.
+
+Paytm Mall, another major Indian startup, has also been accused of security lapses. Cyble had claimed that a cybercrime group had gained access to Paytm Mall’s website through a backdoor for unrestricted access to the company’s databases. Paytm Mall has, however, consistently refuted these claims. Last month, it sent a legal notice to Cyble for spreading “disinformation”.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,33 @@
+Aditya Birla Fashion and Retail Ltd (ABFRL) recently suffered a data breach that has exposed the data of both its customers and employees. Confirming the breach, an ABFRL spokesperson said that it was investigating the unauthorised access to customer data.
+
+ABFRL is a subsidiary of the Aditya Birla group, with outlets such as Pantaloons and brands such as Peter England and Louis Philippe listed under it.
+
+The database was reportedly hacked by a group called ShinyHunters and its details were uploaded on an underground website. According to HaveIBeenPwned , a website which tracks and provides information on database leaks, details of around 5.4 million email addresses associated with ABFRL were dumped on the underground website. These details, according to the website, include —
+
+Such instances leading to personal data being sold on the dark web are increasing with every year, while India’s Data Protection Bill is still to take effect. Without a data protection authority (as proposed by the bill), there is regulatory ambiguity in terms of who should respond to and investigate such breaches.
+
+MediaNama reached out to ABFRL with specific queries on whether affected customers have been or will be notified. Without providing a specific answer, the retail wing of the Aditya Birla group said that it has engaged forensic security experts to carry out an investigation into the “unauthorised access to its e-commerce database”. It also said that the authorities have been intimated.
+
+“There has been no operational or business impact. As a pro-active measure, the company has reset passwords of all customers and enabled OTP based authentication and taken further steps to secure access to customer and employee information.” — ABFRL spokesperson
+
+On the underground website, ShinyHackers said that they had tried negotiating with ABFRL regarding the data leak.
+
+“We tried to get in touch with ABFRL. They sent a negotiator but he was just stalling (the offer was more than reasonable for a “US$ 45-Billion conglomerate”). So we decided to leak everything for you guys including their famous divisions such as Pantaloons.com or Jaypore.com),” it wrote in the forum.
+
+Speaking to MediaNama, cybersecurity researcher Rajshekhar Rajaharia opined that the current work-from-home scenario may have played a part in the ABFRL data breach. He explained, “Issued crop up when people work from home. Some computers won’t even have firewall.”
+
+Secondly he said, another big problem is that of people keeping passwords to their personal and professional emails, the same.
+
+“Passwords should be separate so that even if one’s personal email gets compromised, the professional email will not be affected. Now assume if a company’s server admin’s personal email address gets compromised, and his or her password for the professional email is also same as that of the personal email. Now his professional email will get compromised, and server admins since they have total server credentials may then lead to compromise of the server,” he said.
+
+[gravityform id=”1″ title=”true” description=”true”]
+
+Also Read:
+
+Update, January 17, 11.25 pm : Removed a section which claimed to describe ShinyHunter’s previous hacking exploits
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

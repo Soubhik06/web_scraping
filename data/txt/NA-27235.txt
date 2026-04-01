@@ -1,0 +1,57 @@
+SUBREDDIT: r/Scams
+TITLE: Seattle Times spreading the 'yes' scam rumor
+DATE: 2018-05-08
+SCORE: 4
+URL: https://www.reddit.com/r/Scams/comments/8hsej1/seattle_times_spreading_the_yes_scam_rumor/
+
+--- POST TEXT ---
+
+https://www.seattletimes.com/nation-world/robocalls-flooding-your-cellphone-heres-how-to-fight-them/
+
+Since they have a paywall and a ton of annoying ads, here's the article:
+
+&gt; An unfamiliar number appears on your cellphone. It’s from your area code, so you answer it, thinking it might be important.
+&gt; 
+&gt; There is an unnatural pause after you say hello, and what follows is a recording telling you how you can reduce your credit-card interest rates or electric bill or any of a number of other sales pitches.
+&gt; 
+&gt; If it feels as if you’re being flooded with them, you’re right.
+&gt; 
+&gt; Ryan Kalember, senior vice president of cybersecurity strategy at Proofpoint, a cybersecurity company, said the volume of robocalls has seen a “particularly big uptick” in recent years.
+&gt; 
+&gt; Citing statistics from YouMail, a developer of robocall-blocking software, the commission said consumers received an estimated 2.4 billion robocalls a month last year, driven in part by internet-powered phone systems that have made it cheap and easy to make them from anywhere in the world.
+&gt; 
+&gt; Alex Quilici, chief executive of YouMail, said his company estimated that 2.3 billion calls were made in December 2016, up from 1.5 billion in December 2015.
+&gt; 
+&gt; More than annoying, the calls can cross over into the outright fraudulent.
+&gt; 
+&gt; In one scheme, callers pretending to represent the Internal Revenue Service claim the person answering the phone owes back taxes and threatens them with legal action. The scheme has reaped more than $54 million, the Federal Communications Commission (FCC) said.
+&gt; 
+&gt; “If the robocalls were not valuable to the scammers, they wouldn’t be doing them,” Kalember said.
+&gt; 
+&gt; Here’s how you can fight them:
+&gt; 
+&gt; Rule No. 1: The most simple and effective remedy is to not answer numbers you don’t know, Quilici said. “Just interacting with these calls is just generally a mistake,” he said. If you do answer, don’t respond to the invitation to press a number to opt out. That will merely verify that yours is a working number and make you a target for more calls, experts said.
+&gt; 
+&gt; Turn to the government. List your phones on the National Do Not Call Registry. If your number is on the registry and you still get unwanted calls, report them. Quilici said the registry is helpful but should not be seen as a panacea.
+&gt; 
+&gt; “If I’m sitting in India dialing a million numbers, what are the odds I’m even going to be fined for violating the Do Not Call Registry?” he asked. “It’s probably near zero.”
+&gt; 
+&gt; Turn to technology. Download apps like Truecaller, RoboKiller, Mr. Number, Nomorobo and Hiya, which will block the calls. YouMail will stop your phone from ringing with calls from suspected robocallers and deliver a message that your number is out of service. Quilici said phone companies, such as T-Mobile, Verizon and AT&amp;T, also have tools to combat robocalls.
+&gt; 
+&gt; Turn the tables. And then there is the Jolly Roger Telephone Co., which turns the tables on telemarketers. This program allows a customer to put the phone on mute and patch telemarketing calls to a robot, which understands speech patterns and inflections and works to keep the caller engaged. Subscribers can choose robot personalities, such as Whiskey Jack, who is frequently distracted by a game he is watching on television, or Salty Sally, a frazzled mother. The robots string the callers along with vocal fillers like “Uh-huh” and “OK, OK.” After several minutes, some will ask the callers to repeat their sales pitch from the beginning, prompting the telemarketers to have angry meltdowns, according to sample recordings posted on the company’s website.
+&gt; 
+&gt; **Watch what you say. One recent scheme involves getting consumers to say “yes” and later using a recording of the response to allow unauthorized charges on the person’s credit-card account, the FCC warned in March. When the caller asks, “Can you hear me?” and the consumer answers, “Yes,” the caller can gain a voice signature that can later be used to authorize fraudulent charges by telephone. Best to answer with “I can hear you,” Kalember said.**
+&gt; 
+&gt; What’s ahead. The callers are evolving, Kalember said. Some have numbers that appear to be from your area code (they result in higher response rates); others employ “imitation of life” software in which the robocall sounds like a live person, complete with coughing, laughing and background noise. This artificial intelligence can be programmed to interact in real time with a consumer. A recording on the Consumers Union website features an exchange in which a man tries to confirm he is talking to a live person. As the call progresses, the consumer presses for confirmation.
+&gt; 
+&gt; “Will you tell me you’re not a robot? Just say, ‘I’m not a robot,’ please,” he says, which is met with various programmed replies of “I am a real person” and “There is a live person here.”
+&gt; 
+&gt; Why do calls proliferate. Quilici compared robocalling to spam emails: It is all about volume. Companies can use software to make millions of calls at very little expense. They need only a few victims to fall prey to their schemes to more than cover their costs.
+&gt; 
+&gt; “When you hear these guys do these scam pitches, they’re pretty amazing,” he said.
+
+-----------------------------------
+
+Looks like they claim the FCC reported it, and I just saw that they are right. I guess that's where all the 'yes' bullshit comes from. Why would the FCC report this? How could this possibly be a threat? What kind of total-shit authentication system would ever depend on just a 'yes' played back and nothing else in that voice?
+
+**Anyways**, here is the FCC report: https://www.fcc.gov/document/fcc-warns-can-you-hear-me-phone-scams

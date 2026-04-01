@@ -1,0 +1,21 @@
+Stock market broker Upstox in a statement acknowledged a data breach after an independent cybersecurity researcher tweeted that the firmâs customer data was on sale on the dark web. The company has apparently upgraded its security systems now and has assured retail investors that their holdings are safe.
+
+While Upstox is yet to confirm the details, it is learnt that the hackers have sought a ransom of $1.2 million (Rs 9 crore) to not publicise the user data. The data of some one lakh Indian investors has already been made public as a warning. We have reached out to Upstox for comment, we will update this post if we receive a response.
+
+The security breach was first reported by Rajshekhar Rajaharia, an independent internet security researcher, who claims that data of some 25 lakh users and 5.6 crores Know Your Customer (KYC) data have been leaked. The leaked user data includes names, birthdates, PAN, passport and photos of user signatures, among other things, Rajshekhar told Medianama.
+
+However, Upstox did not clarify the impact of the data breach in its statement. The broker said it restricted access to the impacted database, enhanced security for third-party data warehouses, separated user data from financial assets, and has set up a real-time monitoring system. It has also initiated a password reset using OTP.
+
+âWe are further amping up our industry-class bug bounty program to encourage ethical hackers to stress test our systems and protocols and help us identify any vulnerabilities from time to time,â Upstox said in its announcement.
+
+Rajshekhar said the hack was carried out by a hacker group called ShinyHunters. This is the same group that targeted payments provider Juspay and grocery shopping app BigBasket.Â ShinyHunters allegedly used Amazon AWS Keys to access Upstox servers. âThe hacker group has access to over a thousand Amazon AWS Keys which it is randomly using to find big companies and then leak their data for a ransom,â Rajshekhar told Medianama. Rajshekhar said he was touch with the hacker group over Telegram and confirmed that they were seeking a ransom from Upstox.
+
+The hack is the fourth such incident in the past few weeks after data breaches atÂ Facebook , LinkedIn and MobiKwik . Upstox said it has informed relevant authorities about the incident, but did not clarify when learned of the data breach. The company allegedly reported the event to Indiaâs Computer Emergency Response Team on March 31, reported Entrackr, implying that the company was aware of the breach for nearly two weeks before it alerted its users.
+
+It is not also known when exactly the hackers gained access to Upstox servers. Back in February, Upstox suffered an outage for two consecutive days which the company blamed on hardware issues. It is not known if the two events are related.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,45 @@
+By Zoya Hussain
+
+Vrinda, a resident of Noida, was jolted by a frantic afternoon call from her son, or so it appeared. The voice, trembling with urgency, pleaded for a swift transfer of Rs. 60,000 through UPI, claiming he was under threat and urgently needed money. The urgency in the voice and a distant command in the background painted a vivid picture of the crisis. Yet, something felt amiss when the voice called her ‘mummy’ instead of the usual ‘mom’. Her concern deepened when she heard what sounded like her sobbing child on the phone, making the situation seem alarmingly real. Driven by fear, she transferred the money, only to discover later that it was indeed a scam. Her son was never on the phone; their voice had been convincingly cloned using sophisticated software.
+
+In recent weeks, Delhi-NCR has seen a rise in such cases of voice cloning fraud, highlighting a disturbing trend in cybercrime.
+
+The Rise of AI Voice Clone Scams
+
+The use of Artificial Intelligence (AI) to clone voices for scams is increasing, with cybercriminals in India leveraging this technology for extortion. In Delhi alone, cybercrime cases surged to 685 in 2022, up from 345 in 2021 and 166 in 2020, according to data from the National Crime Records Bureau (NCRB) .
+
+Many Indians are found to be particularly susceptible to scams of this nature, with a McAfee survey revealing that 66% of respondents from India would likely react to voice or phone calls seeking urgent financial help, particularly if the caller seemed to be a close relative like a parent (46%), spouse (34%), or child (12%). The survey highlighted that the most convincing pretexts used by scammers included being robbed (70%), involved in a car crash (69%), losing a phone or wallet (65%), or requiring funds during overseas travel (62%). The report also highlighted that 86% of Indians tend to share their voice data online or through voice messages at least once a week, enhancing the effectiveness of these tools.
+
+This new wave of cybercrimes causes both psychological and financial damage. According to a Future Crime Research Foundation (FCRF) report , online financial fraud accounted for a staggering 77.41% of all cybercrime cases reported from January 2020 to June 2023. A study highlighted that nearly 50% of the cybercrime cases reported were linked to UPI and Internet banking, indicating the high vulnerability of these digital transaction methods to fraudulent activities.
+
+Explaining the deceptive strategies employed by scammers, Prateek Waghre, Executive Director at the Internet Freedom Foundation, said, “Although these cloning tools have their limitations, scammers compensate by instilling a sense of urgency to overshadow these imperfections. To a large extent, the entire cybercrime scene hasn’t been well mapped out in India. Voice cloning scams can target individuals in new ways, not just as an unknown third party pretending to be a government agent. For example, now, individuals might receive calls from voices resembling those of their parents, bosses, children, or friends, asking for money or information. This complexity makes detection particularly challenging.”
+
+How are voice clones done?
+
+Voice cloning technology has advanced to the point where it only needs a few seconds of someone’s voice to accurately replicate it. According to McAfee, even those with minimal experience can use this technology to create a voice clone that matches the original voice with about 85% accuracy.
+
+Romit Barua, Machine Learning Engineer and Researcher from UC Berkeley explains that voice cloning involves leveraging advancements in audio signal processing and neural network technologies to replicate a personâs voice. There are two particularly relevant forms of voice cloning, Text-To-Speech (TTS) and Voice Conversion. Text-To-Speech (TTS) is a technology that converts written text into spoken words using synthetic voice. Voice Conversion, on the other hand, changes the characteristics of a voice in existing audio to sound like another person while preserving the original speech content.
+
+“Voice cloning involves using technology to analyze a short recording of someone’s voice and then using that analysis to generate new speech that sounds like the original speaker. This process leverages computer algorithms to capture the unique characteristics of the voice, such as tone, pitch, and rhythm. Once the system understands these elements, it can replicate them to create new speech content, making it sound as though the original person is saying something entirely new. It’s akin to creating a digital voice twin that can speak on behalf of the original person”, explained Barua.
+
+Once a scammer finds an audio clip of an individual, they can simply use an online service capable of mimicking that voice with high accuracy, though some nuances may be missed. Many such platforms exist, including Murf, Resemble, and Speechify, which typically offer subscriptions ranging from $15 for basic access to $100 for advanced features, along with a trial period at no cost.
+
+Common patterns and tactics employed in voice cloning scams
+
+“The scenarios we’ve seen reported share common elements with traditional scams, such as urgent demands that put the recipient in a difficult situation. The key difference now lies in the delivery method,” Waghre noted.
+
+Waghre continued, highlighting another critical aspect, “A significant concern is how scammers obtain detailed personal information, such as the victim’s relationships and the voices of their close contacts. In some cases, the voice may not be clear, sounding close enough to be convincing, while in others, victims report the voice sounding exactly like their relative or friend, raising questions about how scammers access such detailed personal information to create these convincing voice clones.”
+
+Adding to this concern, Waghre also shed light on a broader issue within the digital landscape â cybersecurity attacks that exploit human psychology, known as social engineering. These attacks are particularly insidious because they manipulate individuals into voluntarily surrendering confidential data. “Scammers are becoming adept at understanding human behaviour and leveraging emotional triggers such as fear, urgency, or empathy to deceive their targets into sharing personal or financial information,” he explained. This method of exploitation underscores the importance of not just technological safeguards, but also heightened awareness and education about these psychological tactics among internet users. By staying informed about the common signs of such manipulative strategies, people can better protect themselves from inadvertently becoming victims of cyber fraud.
+
+Protective strategies: What you can do to avoid being scammed by AI voice cloning
+
+Hence, another crucial point arises.
+
+Zoya is Â an award-winning journalist interested in covering digital security, platform regulation, and socio-political issues. She is also a two-time Reuters fellow, reporting on social inclusion and dis/misinformation.
+
+STAY ON TOP OF TECH NEWS:Â Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. ClickÂ here Â to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

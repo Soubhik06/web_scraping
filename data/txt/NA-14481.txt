@@ -1,0 +1,25 @@
+At least nine Indian human rights activists, eight of whom have called for the release of eleven activists arrested in the Bhima Koregaon case, were targeted in a coordinated spyware campaign, according to research released by Amnesty International and University of Toronto-based Citizen Lab on June 15. The victims were sent emails with malicious links that, on being clicked, deployed NetWire, a commercially manufactured Windows spyware that gives remote access to the device, allowing the intruder to monitor the victims’ actions and communications.
+
+Three of the eleven activists targeted in this campaign — Nihalsing Rathod, Shalini Gera and Degree Prasad Chouhan — had earlier been targeted using the NSO Group-owned Pegasus spyware. Of the 121 Indians that were targeted using Pegasus spyware that was planted using the WhatsApp vulnerability, at least 22 were activists, lawyers and scholars, including Anand Teltumbde, and most of them had been involved in calling for the release of the Bhima Koregaon 11, with Teltumbde himself was arrested in the case.
+
+Between January and October 2019, each of the victims was sent spear phishing emails with the malicious links. The emails sent were sent from email addresses that masqueraded those of other activists, spouses of close friends (with a misspelt name, not discernible in the first read), or with subject lines that meant to compel the human rights activists and lawyers to open the emails, such as “SUMMONS NOTICE JAGDALPUR ARSON CASE”, “Reminder Summons For Rioting Case”, etc.
+
+All malicious links linked out to a file hosted on Firefox Send. As per Amnesty and Citizen Lab, this was probably done to avoid detection by email spam and malware filters. This file looked like a PDF document but was actually NetWire that would get installed on opening. To lull the victim into a fall sense of safety, a decoy PDF document would also open up.
+
+NetWire, the commercially available spyware that was used to target the victims, is a remote access trojan that can steal credentials, record audio, log keystrokes, etc. It is available for purchase via World Wired Labs (as a licence). This is unlike Pegasus which, as per the NSO Group, is only sold to governments and law enforcement agencies after “full vetting as well as licensing by the Israeli government”.
+
+In response to our questions about whether World Wired Labs has insight into how its tools are used by the users, and if any government agency had purchased the tool, a person named Tom Maloney sent us the following response:
+
+“We at the World Wired Labs do not track user activity. Actions made by users are solely responsibility of the end-user, described in our User Agreement shown at the first run. Our clients data are very important to us and we cannot confirm or deny any client existence, thank you for understanding!” — response from World Wired Labs
+
+The coordinated nature of this attack on people, most of who have been vocal “against the arbitrary and prolonged imprisonment of the Bhima Koregaon 11”, indicates that is not a cyber-crime attack, “but a spyware campaign trying to compromise devices of HRDs [human rights defenders]”, Amnesty and Citizen Lab said.
+
+And this is not the first instance of attack on human rights activists. As stated earlier, at least 22 human rights activists, journalists and lawyers were targeted using Pegasus. The government of India has thus far not clarified whether or not any of its agencies purchased Pegasus. Reuters and Citizen Lab had reported that a Delhi-based IT firm, BellTroX InfoTech Services, offered its hacking services to undisclosed clients and targeted government officials in Europe, gambling tycoons in the Bahamas, and well-known investors in the United States including private equity giant KKR and short seller Muddy Waters.
+
+If that was not enough, Google’s Threat Analysis Group recently reported new activity from India-based “hack-for-hire” firms that have been creating Gmail accounts spoofing the WHO to target business leaders in financial services, consulting, and healthcare corporations within numerous countries including, the U.S., Slovenia, Canada, India, Bahrain, Cyprus, and the UK.
+
+***Update (June 16, 2020 4:16 pm): Updated with response from World Wired Labs. Originally published on June 16 at 12:44 pm.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

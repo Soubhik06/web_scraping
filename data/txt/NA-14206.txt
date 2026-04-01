@@ -1,0 +1,83 @@
+Something was a little off about this spam call I received.
+
+Usually when I get a spam call, and like most Indians, I get several of them in a day, I can tell it’s a spam call. There’s a buzz of people in the background, the speaker typically has a particular script that is common across most spammers or scammers, and the person often sounds tired or hassled, probably because they’re dialling number after number, and reading out the same script. There’s something mechanical about how they speak. I typically don’t take the call (often the numbers they call from give it away). Sometimes, if I’m feeling mean — especially if my work has been disrupted, I let it ring. If I’m feeling especially mean, I take the call and put my phone on the side. If they’re wasting my time, I should waste theirs to: there’s a cost to it.
+
+Yesterday, I got a spam call for Godrej Properties, from +91-124-311-3175, and the audio was clearly different, that made me think this might be an AI model: There was no buzz in the background. The accent was near perfect: enthusiastic and wanting to help, but not too much. However, it paused for that just little bit extra after asking, “Hello, is this Nikhil?”
+
+I decided to play along, and record the call (unfortunately, I missed the first few interactions, because I was taken aback initially, before I got the brainwave that I should probably record this).
+
+The AI model appeared to be prepared to deal with my questions, though:
+
+Question: Which AI models do you use?
+
+Answer: “I am an AI designed specifically to assist with Godrej Properties. I work using a combination of modified open source models to provide accurate and helpful information. How can I assist you today?”
+
+Question: Which open source models do you use?
+
+Answer: We use a combination of modified open source technologies tailored to provide the best assistance for Godrej Properties. The focus is on ensuring accurate, efficient, and human-like interactions to help with your queries. How can I assist you further?
+
+Question: Specifically, which models do you use? Are you using LLama? Are you using Mistral? What are you using?
+
+Answer: We use a blend of customised open source technologies, but the specifics are proprietary to ensure the best experience for our customers. The goal is to provide accurate and seamless assistance tailored to your needs. How can I assist you with Godrej Riverine today?
+
+Question: Who supplies these open source models? As in who supplies them to Godrej?
+
+Answer: The open source technologies we use are adapted and customised specifically for Godrej Properties by our technical partners. These are designed to ensure a smooth and efficient experience for our customers. How can I assist you further regarding Godrej Riverine?
+
+Question: Who is the technical partner for Godrej?
+
+Answer: I am not certain about the specific technical partner for Godrej Properties. However, I am here to assist you with any information or queries related to our project. Would you like to know more about Godrej Riverine or any other property?
+
+Question: Where did you get my number from?
+
+Answer: I understand your concern about privacy. I received your information through our verified data partners who compile publicly available information. I reached out only to share an exclusive opportunity of luxury homes in Noida Sector 44 at Godrej Riverine. Are you exploring real estate investments at the moment?
+
+Question: Do you have any mechanism to filter out those users who are on the TRAI’s do not call registry?
+
+Answer: I sincerely apologise if your number is on the Do Not Call Registry. We strive to comply with all regulations and I will ensure your number is marked for removal from our calling list. I apologise for any inconvenience caused. Take care.
+
+(cuts the call)
+
+That didn’t go too well, as you can probably tell. However it’s worth noting that the AI spam chatbot was programmed to:
+
+This does make me wonder about the impact that AI will have on the spamming industry:
+
+Firstly, hordes of spammers sitting in call centres might now find themselves unemployed, because an AI caller bot can do most of their job. On the rare occasion that someone wants to engage with a spam call or there’s an anomaly, call centres will need a smaller team to deal with the inquiry.
+
+Secondly, the scale of spam will increase exponentially: it will no longer be limited by the number of call centre employees. I guess the number of calls from a call centre must be based on the following formula:
+
+For example, for 50 callers per shift, with two 6-hour shifts, and an average call duration of 2 min, means around 126,000 calls per week. My guess was that every time I picked up a call and kept the phone aside, I saved someone else from getting a call. Of course, scammers have found a way around this with automated diallers, which means that fewer calls make it to the call centres.
+
+If you account for 20% of the time lost in inefficiency (people not picking up, time taken for dialing etc.) that number comes down to 100,800 calls. This is, of course, assuming that there are no restrictions on numbering resources (like SIM Cards); telecom operators largely fail to enforce restrictions on SIMs and spam calls because it makes them more money, and the TRAI rarely, if at all, penalises telecom operators. In this situation, the “number of call centre agents” is the primary constraint .
+
+Now if you shift this to AI agents, that constraint no longer exists, and the new constraint is numbering resources or SIM Cards available to the call centre, assuming one call per SIM at a time, and a limit of 12 hours per day to calling:
+
+Now assuming the same 80% efficiency of AI-driven call centres, as with humans, it can still make 2,016,000 calls per week, which is 20x of human-driven call centres.
+
+That’s a potential insane increase in potential spam because of AI. The math also explains why some of the largest amount of investment in AI is being made towards automating call centre operations: there’s a substantial reduction in cost and an increase in output.
+
+Two ways that I can think of addressing this issue is to add constraints on the network side here:
+
+Firstly, limit the access to numbering resources, including the number of SIMs per ID per year. While we are allowed 8 SIMs per ID in India – and this is pointless if people can discard SIMs easily – there must be a restriction in terms of how many SIMs one can purchase on a single ID in a year, if there isn’t one already. There must be restrictions on numbering resources allocated to landlines as well.
+
+Update: A friend in the telecom industry informs me that the call I received was not from a SIM but a “trunk”. “Most of these calls come from landline numbers through trunks”. “You get 30 channels per trunk. So you can have one number and make any number of simultaneous calls”. In that case, the TRAI should impose more stringent KYC norms for such numbers, penalise those who use these for spam. Even there, the next constraint might help.
+
+The second possible constraint is to perhaps limit the number of calls per SIM/number per hour. Assuming an average call duration of 2 minutes along with 80% efficiency, here’s how the math works out:
+
+That’s still too much.
+
+How about we limit the number of calls per week? Assuming an average call duration of 2 minutes and 80% efficiency, here’s how the math works out:
+
+That’s one way to restrict the scaling, but it’s important that both constraints be applicable. In case of legitimate businesses, that provide outbound dialers, there can be higher penalties in case of spam being determined, that acts as a deterrent.
+
+Now telecom operators are going to push back against any constraints on calling because they’re the ones who actually benefit from spam and scam call centers buying more SIM cards and utilising their network.
+
+I’m also not suggesting that this is the only solution: that’s for the government and the regulator to figure out.
+
+All I can be sure of is one thing: we have an avalanche of AI generated spam heading towards us.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

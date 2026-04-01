@@ -1,0 +1,33 @@
+Security researcher Srinivas Kodali has reported the leak of data of individuals on a website that includes the Aadhaar number, bank – branch, IFSC code and account number, father’s name, address, gram panchayat, mobile number, ration card number, occupation, religion and caste information. Due to the sensitive nature of the leak, the name of the Andhra Pradesh government website is being withheld till the data can be secured.
+
+It has always been said #Aadhaar is being linked to religion and caste information, apart from occupation. While UIDAI is not doing it, other government departments are. Here is proof that UIDAI has no idea what all is being linked to your unique id. Website reported early today. pic.twitter.com/3acEgcA1Qt
+
+— Srinivas Kodali (@digitaldutta) April 24, 2018
+
+While the government and UIDAI have argued in the Supreme Court that Aadhaar cannot be used to profile individuals, Aadhaar numbers being linked to various sets of information allow aggregation of discrete sets of data into a pervasive whole. The information, as seen here clearly allows for targeting of individuals by religion, caste, locality and more. While the government claims that it does not have the capabilities to use Aadhaar in this manner, actual applications of such use refute their claims.
+
+Government says we will only track beneficiaries of govt programmes through #Aadhaar . In short they want to track everyone, how can you not use any government service in a country? #surveillance is being called e-governance these days. pic.twitter.com/7tu62YKCGV
+
+— Srinivas Kodali (@digitaldutta) April 24, 2018
+
+Kodali shared a heavily redacted screenshot of the kind of data publicly available on the site. The facility clearly allows for searching of individual information and returns lists that can be used by anyone to get targeted lists of people whose information is on the site. Kodali has stressed that this database is publicly available and that there is no unauthorized access or hacking involved to access it. It is published publicly.
+
+The ability to generate lists of this sort is no minor data breach and has security implications for entire communities. Information of this sort can be used to frame people as well.
+
+MediaNama spoke with Srinivas Kodali and he says that there continues to be no way to report these data leaks to the government and UIDAI. After he tweeted about the data leak, someone masked the Aadhaar numbers from the database. However the database with all the remaining information is still online and public.
+
+The report of the Task Force on AI published last month makes specific mention of the potential of Aadhaaar in the creation of big data as well.
+
+Earlier this month, we saw the Haryana government collecting detailed profiling information from all students from schools in Uttar Pradesh.
+
+Privacy of Indians will continue to be compromised while the government does not take data security seriously and responds to reports of breaches and leaks with denials and persecution of the researchers reporting the leaks.
+
+Needless to say, criminals who gain access to such information would not be reporting them, but exploiting the information.
+
+The risk of data leaks is made worse due to the linking of Aadhaar with various sets of data. This allows data to be collated across multiple leaks into increasingly detailed profiles of people by matching Aadhaar numbers across unrelated data sets. Of course, such profiling is also possible without leaks, conducted intentionally, by the government or other private players with access to the data.
+
+Storing of the Aadhaar number against individual data must be stopped immediately to prevent the risk of aggregation of such data. Additionally, the government needs to ensure that databases that collect information of individuals are secured appropriately.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

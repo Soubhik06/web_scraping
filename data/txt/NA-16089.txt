@@ -1,0 +1,36 @@
+SUBREDDIT: r/india
+TITLE: Can somebody HELP me explain WTH is Positive Pay ??
+DATE: 2021-01-12
+SCORE: 10
+URL: https://www.reddit.com/r/india/comments/kvuvg3/can_somebody_help_me_explain_wth_is_positive_pay/
+
+--- POST TEXT ---
+
+As many of you guys might know RBI has launched Positive Pay in India on 01.01.21, Even after reading from multiple sources which are more or less copies of RBI notification it wasn't clear for multiple points. Most of those sprung up after Kotak Bank's mail. 
+1. As given in the third point if no details are given and therefore positive pay won't work so why are 
+cheques are being cleared, how is this helping preventing fraud 
+2. As given in the Fourth point non positive pay cheques will be cleared but they won't be applicable 
+for dispute.
+
+https://preview.redd.it/bz85nmqdgxa61.png?width=514&amp;format=png&amp;auto=webp&amp;s=c2a857ef07d64e5bbe01c1f21ac9b19b02de7abd
+
+ So if someone makes a fraudulent cheque as I haven't given any details to bank regarding the cheque it will fallback to the normal clearing method but as it was not passed through positive pay my right to dispute is forfeited, again how is this helping preventing fraud. 
+
+So at least from my understanding Positive Pay doesn't actually protects me from the fraud rather take's away my right to dispute the fraud with the bank. 
+
+And another problem with Positive Pay is that different banks have a very different approach for accepting details for positive pay for ex:- 
+a. Kotak ask the user to send details via net banking. 
+b.Yes Bank as details via some online portal. 
+c.Hdfc Bank ask users to send the mail with details in Excel.
+
+How are we supposed to enter so many details manually as many SME's are transacting more than 10 cheques per day, So by considering minimum cheque details (such as date, instrument number, amount) i.e 3 and for 10 cheques equals to 30 manual cumbersome entries.
+
+It would be extremely helpful if somebody can point out if there's anything that has been misunderstood.
+
+Sources:-
+
+[https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11969&amp;Mode=0](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11969&amp;Mode=0)
+
+[https://www.hdfcbank.com/personal/pay/payment-solutions/cash-cheque-demand-draft/cheques/positive-pay-for-cheque-truncation-system?icid=hp:hero:positivepay:1](https://www.hdfcbank.com/personal/pay/payment-solutions/cash-cheque-demand-draft/cheques/positive-pay-for-cheque-truncation-system?icid=hp:hero:positivepay:1)
+
+[https://www.yesbank.in/digital-banking/positive-pay](https://www.yesbank.in/digital-banking/positive-pay)

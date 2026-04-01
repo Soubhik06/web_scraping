@@ -1,0 +1,35 @@
+The Payment Card Industry Data Security Standard (PCI-DSS), the international body for card security, is working on updating security standards for card and mobile based payments in the wake of the pandemic as more people are working from home during the pandemic, senior executives at the Council told MediaNama in an interview.
+
+Lance Johnson, Executive Director, PCI Security Standards Council said that with the growing adoption of digital payments and organisations using cloud servers in the last year, this transition has come at a cost in terms of cyber security.”The pandemic has highlighted the scale of criminal activities that were happening in the past, whether it is phishing or social engineering. Now that people working from home, they are are vulnerable for exploitation through these attacks,”  said Nitin Bhatnagar, Associate Director, PCI Security Standards Council.
+
+MediaNama: How has the pandemic changed the cyber security landscape?
+
+Lance Johnson : When there was a mass movement to work-from-home, the standards that would apply to these areas may have never been designed for a remote working scenario. With these changes in society we either have to evolve the standard or create a new standard. But standards are are only part of the issue, resiliency of the overall system and the security operations of organisations are also important. Ideally, standards need to be written flexibly with a view to the types of attacks, the standard should have resiliency
+
+Many of our historical requirements were based on physical cards and devices. But mobile has changed this. As the idea of a physical acceptance point has changed, so organisations need to manage both at the same time while migrating to digital payments. We are working creating new standards for this shift to mobile payments, globally
+
+MediaNama: What types of cyber security attacks grew in number ?
+
+Troy Leach : Senior Vice President, PCI Security Standards Council: We have seen a significant rise in number of phishing ransomware attacks targeting home networks and offices knowing that there was poor security planning at homes. This was especially true during the first few months of the pandemic. We have also had to address online skimming issues which are hard to detect since a third party’s security is usually compromised and in many environments, the customer is defrauded without the merchant being aware
+
+MediaNama: Most card companies, Point of Sale machine and even fintech companies are driving NFC-based payments in the wake of the pandemic. How are you developing security standards for  contactless payments?
+
+Troy Leach : PCI Council works closely with the National Payments Corporation of India (NPCI). We have several mobile standards which will be one of our key focus areas in 2021. So far we have updated two standards, one is for third party attachments to a mobile device and the second, is to find a way to isolate the payments security in an off-the-shelf phone. In India there has been an acceleration of contact less payments, and we see India as a quick adopter of this technology.
+
+We are trying to introduce new aspects to ensure payment data is protected (encrypted and decrypted) such as moving to use dynamic tokens and simplifying the security requirements so that many small businesses and consumers can adopt these payment options. Version 4 of PCI-DSS will be a radical overhaul, and the process will be completed next year
+
+MediaNama: What are the risks with the transition to cloud computing for payments firms ?
+
+Troy Leach : We are working with the cloud computer providers through a counsel to find a common ground on how to secure payments. As merchant environments and payment architecture becomes more complicated, there needs to be standards on the software to ensure the data and payments is protected. For instance, we are working on reducing third party dependency. Often, software from third parties are compromised, so we created a new software security framework to create a nimble and flexible standard that fintechs and other developers to innovate while keeping accountability and security as a priority
+
+MediaNama: What are the risks with the transition to cloud computing for payments firms ?
+
+Lance Johnson : We are at one of those transition points whether the migration to a cloud is creating a challenge on the skills side for businesses . There is always a learning curve that we have to go through and companies will need to make decisions based on their operational evolution.  There will be early adopters and late adopters in this transition to the cloud, while the vast majority of organizations will be in the middle.
+
+I do not see cloud any riskier than dedicated servers. Some mechanisms of control are different on a cloud compared to dedicated servers, so that requires different approach. So it’s not less secure but a different model that requires a different perspective. So we engage with the top cloud service companies to help companies migrate and use cloud services
+
+** (Updated March 13, 2021 6:30 pm). Updated based on Editorial Direction. Originally Published on December 10, 2020.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

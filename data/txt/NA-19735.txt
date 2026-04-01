@@ -1,0 +1,51 @@
+SUBREDDIT: r/india
+TITLE: [TE] Zomato's iffy apology letter
+DATE: 2017-05-23
+SCORE: 27
+URL: https://www.reddit.com/r/india/comments/6cp4to/te_zomatos_iffy_apology_letter/
+
+--- POST TEXT ---
+
+I just got a shitty email from Zomato today. It was a wonderful example of the "we are sorry if you are offended" apology letter.
+
+Bad copy-editing apart, the biggest red flag for me was an early statement saying the data were never made public, followed by a later statement saying that the data were in fact public, and were somehow then "taken down" (as if no advance copies are ever made on the Internets).
+
+Somebody gonna get fired real bad... hopefully starting with the CTO. It helps that a large chunk of their business is in the EU, which takes shit like this seriously.
+
+--
+&gt; Hello!
+
+&gt; We are writing to inform you about a recent security *incidence* that involves your Zomato account information. *While we have taken appropriate measures to limit the impact this has for you,* we recommend that you please go through the below details to understand what happened, and how it affects you.
+
+&gt; In summary: You are advised to change your password
+
+&gt; What happened?
+
+&gt; On the 17th of May, our team discovered an unauthorized access to ***a part of*** our infrastructure that led to exposing the Names and Email addresses of close to 17 million users, as well as hashed passwords for some of these users from our database. We have since patched the vulnerability that resulted in this breach. We also got in contact with the person who accessed this information. **The exposed data has not been made public.**
+
+&gt; *How this impacts you?*
+
+&gt; Your Name, Email Address and Password hash was exposed in the breach. These are the only pieces of your personal data that was exposed. No other personal information was accessed.
+&gt; Although your password was stored as an irreversible hash in our database, someone may still try to guess and match the hashed values to figure out your password. With high processing power of today's computers, it is possible to try a large number of combinations in a short time. We strongly encourage you to change your password on any services where you might have used the same password as on Zomato. You can change your Zomato password here (link valid for 7 days)
+
+&gt; What are we doing about this?
+
+&gt; We have since patched the vulnerability that led to this breach **and have got the exposed data set delisted from public domain.** As of now, we're actively working with cyber security experts to ensure all our systems are secure. Additionally, we are undertaking *following steps* -
+
+&gt; We're reaching out to all affected users like you to communicate the impact of the breach.
+&gt; As a precautionary measure to ensure extra security, we'll be changing all authentication credentials in our system. This should not have any impact on you.
+We're changing our encryption algorithms to make it even more harder for someone to guess match passwords from the stored hash.
+We're adding safeguards to prevent any such incidents in the future.
+
+&gt; What can you do to improve your security online?
+
+&gt; Make sure you're using a strong password that is unique to each service. In a lot of cases attackers would try the email password combination from leaked databases on other services. Using a password manager can help you use strong password and free you from having to remember the passwords.
+&gt; Services like LeakBase and HaveIBeenPawnd let you check if your data was involved in any security breaches. If you find your details on these services, you should change your passwords immediately.
+
+&gt; While we apologize for the inconvenience, we assure you that this incident has made our team's commitment to making Zomato a safer place for our users even stronger. We are constantly working to protect your information and privacy.
+
+&gt; If you have any questions or concerns around the incident, please do reach out to us at support@zomato.com.
+
+&gt; Gunjan Patidar
+&gt; Chief Technology Officer
+&gt; Zomato

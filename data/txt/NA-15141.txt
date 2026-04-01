@@ -1,0 +1,21 @@
+Google has accidentally leaked the complete hidden whois data attached to over 282,000 domains registered through the company’s Google Apps for Work service, reports ArsTechnica . The bug accounted for 94 percent of the addresses Google Apps had registered through a partnership with eNom.
+
+Google partners with various domain registrars to register domains. However, this whois privacy issue only impacted customers with domains at eNom. Essentially, eNom provides whois data shielding for domains owners, publicizing the data only when it receives a court order to do so. However in this case, a bug caused the privacy guard to turn off when a domain name was renewed, leaving customer data exposed.
+
+Whois is a query and response protocol that is used for querying databases that store the registered users of a domain name or an IP address block among other things. In this case, the personal data entered by users during domain registration was publicly displayed through whois queries instead of eNom’s placeholder info.
+
+According to the report, the unmasking started sometime in mid-2013, although the issue was discovered only in February this year. The issue was fixed a week later; however, whois information is cached for archival purposes, and the information that was available can still be discovered and retrieved. No country-wise breakup was provided for the leak, so its not clear which users were affected.
+
+Note that in most cases people do provide false information for most online registrations, and domain registrations are no exception. This makes it hard to predict how many people were really affected by the error, although its noteworthy that eNom is a paid service that charges an additional $6 per year for avoiding exactly the kind of data expose that the company ended up aiding.
+
+After the recent Uber case and the issue that we chased a few months ago about warranties on goods sold online, we had spoken on the responsibility, accountability and liability of platforms, marketplaces and aggregators. We had mentioned then that in cases like these, its not clear who is accountable, the platform or the service? Read more on this here .
+
+Gemalto Saga : Last month, SIM card provider Gemalto admitted that the hacking operation by the NSA and GCHQ did happen between 2010 and 2011. According to the company, India was among the nine countries where mobile operators were targeted. The hacking of Gemalto’s internal network by American and British was based on documents provided by whistleblower Edward Snowden.
+
+Read also :
+
+Cyber Wars: Pakistani firm stealing info from Indian govt & defence establishments
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

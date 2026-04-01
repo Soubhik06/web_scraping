@@ -1,0 +1,39 @@
+On September 25, 2025, the Reserve Bank of India (RBI) published its final “Authentication Mechanisms for Digital Payment Transactions Directions, 2025”, introducing tighter requirements and clearer rules for how digital payments must be authorised. The new framework mandates two-factor authentication (2FA) for all domestic digital payments from April 1, 2026, unless specific provisions say otherwise.
+
+Moreover, for international, non-recurring card-not-present (CNP) transactions, the RBI requires card issuers to implement additional authentication when requested by overseas merchants or acquirers, with a compliance deadline set for October 1, 2026.
+
+Furthermore, the guidelines also introduce a risk-based approach: issuers may apply heightened checks beyond the two required factors depending on the fraud risk of individual transactions. This can include the use of DigiLocker as a platform for notification and confirmation for “high-risk transactions”. They do not immediately eliminate the use of SMS-based OTPs, but expect at least one authentication factor to be dynamic, so that one compromised factor does not compromise transaction security.
+
+The RBI mandates that all digital payment transactions utilise at least two distinct factors for authentication. While the RBI hasn’t prescribed a specific factor, it requires that one of the chosen factors must be dynamic, meaning it is generated uniquely for each transaction. This ensures that even if one factor is compromised, the other remains reliable. At the same time, issuers may allow customers to select their preferred authentication factors, provided they comply with the framework.
+
+In practical terms, the factors of authentication fall under three broad categories:
+
+Furthermore, the central bank has emphasised that authentication mechanisms must be strong enough so that the compromise of one factor does not undermine the other. It has also directed payment system providers to make tokenisation or authentication services available on an open and interoperable basis across devices and platforms, ensuring that users experience consistency and safety regardless of the channel they use.
+
+RBI has carved out clear exemptions from the mandatory two-factor authentication requirement. For instance, small-value contactless card transactions can proceed without 2FA, reflecting the need for speed at point-of-sale counters. Similarly, recurring transactions, except the very first one under the e-mandate framework, do not require repeated authorisation, ensuring that subscriptions and utility payments remain seamless. In addition, the regulator has exempted select prepaid instruments such as mobile money transfer services (PPI-MTS) and gift cards, where the transaction value is generally limited.
+
+Moreover, NETC transactions, used for toll payments through FASTag, are outside the 2FA ambit. The RBI has also permitted small-value offline digital payments, recognising the need to facilitate transactions in areas with poor connectivity. Finally, travel bookings via global distribution systems or IATA channels through corporate cards continue to remain exempt, given the specialised nature of such payments.
+
+The RBI has required issuers to adopt a risk-based approach when handling digital payment transactions. In practice, this means issuers must evaluate transactions against behavioural and contextual parameters, such as the customer’s location, device details, transaction history, and usage patterns.
+
+When a payment appears unusual or suspicious, issuers may introduce additional security checks beyond the standard two-factor authentication. Moreover, the central bank has encouraged issuers to explore tools like DigiLocker to notify and confirm high-risk payments.
+
+Alongside this, the Central Bank has placed clear responsibilities on issuers. They must guarantee the robustness and integrity of authentication mechanisms before deploying them in the market. If any customer suffers a loss because a transaction did not comply with these directions, the issuer must compensate them fully and without delay.
+
+In addition, issuers are required to ensure that all processes remain compliant with the Digital Personal Data Protection Act, 2023 , protecting sensitive user information. Consequently, the burden of both technical reliability and consumer protection lies firmly with issuers, making them directly accountable for securing the payments ecosystem.
+
+The RBI has clarified that its new authentication rules will not automatically apply to all cross-border payments. Instead, issuers must, by October 1, 2026, put in place mechanisms to validate non-recurring, CNP transactions when overseas merchants or acquirers specifically request authentication. This means that if someone uses an Indian-issued card for an international online purchase, the merchant’s side will only trigger additional checks.
+
+Furthermore, issuers must register their Bank Identification Numbers with card networks and adopt a risk-based mechanism for all cross-border CNP transactions, ensuring higher scrutiny of potentially fraudulent international payments.
+
+The RBI’s directions matter because they reset the baseline for security across India’s vast digital payments ecosystem, and they do so while shifting real responsibility onto issuers. By mandating 2FA for domestic transactions and requiring at least one dynamic factor, the regulator forces banks and non-bank issuers to strengthen systems, upgrade flows and rethink fallback arrangements, all of which should reduce fraud and restore consumer confidence.
+
+Moreover, the directions endorse a risk-based approach that lets issuers apply extra checks for unusual transactions and use platforms such as DigiLocker for high-risk confirmations, thereby balancing protection with convenience. At the same time, issuers must ensure robustness before deployment and compensate customers fully for losses arising from non-compliance, which effectively moves liability onto service providers and raises the stakes for operational resilience.
+
+Consequently, merchants, wallets, and card schemes will need to adjust integrations and tokenisation practices to preserve interoperability. Finally, because the RBI also mandates cross-border CNP validation mechanisms by October 1, 2026, firms that enable international payments face concrete implementation deadlines alongside domestic changes.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

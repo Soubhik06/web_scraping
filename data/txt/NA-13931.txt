@@ -1,0 +1,83 @@
+You are reading it here first:Â The Maharashtra government is planning to introduce a unique, unified ID for its residents that would provide a “ 360-degree view of its citizens” Â by merging databases managed by various departments under several government bodies.
+
+Over 56 databases, across 377 government bodies, including Maharashtra Aadhaar, Maharashtra State Police, Health, Education, and Finance departments , will be âparticipatingâ in the creation of this unified database providing 360-degree profiles of the state’s residents. These profiles will also include aÂ âgolden recordâ of each citizen consisting of details such as their names, caste, employment details, and more.
+
+These details were revealed in a tender floated by the Maharashtra government for appointing a system integrator who will “design, deploy, and maintain a data integration and data exchange platform called the Maharashtra Unified Citizen Data Hub (MH-UCDH). It is through the MH-UCDH that the unique ID will be created for every citizen.”
+
+âMH-UCDH shall host citizenâs demographic information and deliver a master record of the citizens through entity resolution and surviving record identification . It must also create a unique identification number for the master record and manage changes to citizen data received from departmental databases, keeping the master data record up to date. The unique identification should be available to all the departmental databases through API / Webservices . The unique identification number should also be augmented with a household identification number, which will be a unique record of all the households, with contributing citizen records for the household.â â State government tender
+
+Although the Maharashtra government claimed that this would help in devising citizen-centric policies and targetted delivery of state benefits, MediaNama spoke to various experts whoÂ pointed out that there could be privacy concerns around such a database especially since India still does not have a data protection law in place. Supreme Court advocate Vrinda Bhandari said that 360-degree Â profiles would enable surveillance and could have aÂ disproportionate impact on persons belonging to marginalised communities. MediaNama reached out to Shiv Sena MP Priyanka Chaturvedi with queries in this regard, but we are yet to receive any response.
+
+Dear reader, we urgently need to build capacity to cover the fast-moving tech policy space. For that, our independent newsroom is counting on you . Subscribe to MediaNama today, and help us report on the policies that govern the internet.
+
+The tender defined Golden Record as âa unique record created for an individual which will facilitate as a unique identifier to identify, track, etc. an individual / entity across various databases available with the Government of Maharashtra and Government of India.”
+
+This Golden Record will consist of (but won’t be limited to) the following attributes of a state resident:
+
+â This record, its attributes must serve as a single source of truth . This record will help information systems that support outreach, intake, registration, and determination of potential eligibility for one or more social programs also known as Social Registries,â the tender read.
+
+Through the unique ID, the Maharashtra government will maintain a master data repository of citizens in every household and maintain the changes. âThis Master Data is also expected to host information related to citizenâs asset holding through integration not limited to IGRS, Vahaan, Census of India etc. and other association with the state,â the tender said. These third-party databases are to be integrated with each other using APIs, it added.
+
+The following databases will also be up for integration with the master database, as per the tender:
+
+âHistorical social benefit data is presently not expected to be integrated, however may be required to do so on request by State departments. Upon citizen consent the data will be shared through an API to approved departments for their social welfare purposes,â the tender stated. The Unique ID shall be used for internal consumption only and is not expected to be shared with citizens through a chip / biometric card presently, it added.
+
+Aadhaar authentication required: Â As part of the tender, the appointed system integrator will have to develop the MH-UCDH portal through which citizens can apply for various social welfare schemes like scholarships, loan waivers, disaster funds, and so on. âThe citizens while applying to a social welfare scheme shall provide KYC details including Aadhaar authentication and other documents as required to determine their eligibility ,â it read.
+
+MH-UCDH portal should be capable of finding fraud: Â This portal should also have analytical capabilities, which would allow the department “to better understand entity demographic profile and overlay targetted rules to find fraud in sub-groups,” the tender said.Â Through analysis, the state expects to detect fraud by “finding suspicious activity before funds are lost” and also by “reducing operational costs by eliminating false positives”.
+
+MH-UCDH portal should track mismatched DBT from bank accounts: âAny Direct benefit Transfer (hereinafter referred to as âDBTâ) process may encounter multiple scenarios of internal leakages and financial abuse like siphoning of funds by employees in collusion with beneficiaries and other authorities. The Purchaser would like to curb losses due to such activities too. The solution should be able to track the DBT process for mismatches in debits and credits from and to bank accounts,â the tender read.
+
+What else should the analytics-based portal do?
+
+âNetwork Analysis should use demographic data to build links between entities and uncover the hidden relationships that exist within a dataset and should automatically generate networks (groups of entities linked based upon their relationships with each other),â the tender said.
+
+Here are the other advanced analytics requirements sought by the Maharashtra government to identify relationships:
+
+âThe Project envisages a high degree of security control to ensure the data, which includes the entire stateâs citizen Personally Identifiable Information (hereinafter referred to as âPIIâ) along with financial data is secure from all unauthorized access. The bidder should include the required security related services and solutions to secure the application and supporting infrastructure,â the tender said.
+
+The Maharashtra government proposed a few services that would aid in securing the platform â
+
+On the MH-UCDH portal, the Maharashtra government has sought the integration of various APIs for data capturing, validation, consent management, and data synchronisation.Â The tender said that a consent management API should:
+
+Additionally, a data exchange API, will be used for exchanging data from the repository with departmental users, the tender said. âThe data would be shared based on the authorisation and the consent given by citizens,â it added.
+
+âAt present, the Maharashtra Direct benefit Transfer (hereinafter referred to as âMahaDBTâ) Portal is used by the Government of Maharashtra to transfer benefits and subsidies of various social welfare schemes like scholarships, loan waiver, agricultural facility development support, etc., directly into the bank account of the beneficiary. However, there is no platform wherein data is readily available for purpose of scheme planning and beneficiary identification. Aadhaar seeding has ensured that nobody else can claim the share of benefits by impersonating a beneficiary,â the tender read.
+
+The tender outlined the following challenges with the existing process used by the MahaDBT portal:
+
+Yet another system to facilitate surveillance: “The creation of a 360-degree profile of citizens is reminiscent of the State Data Resident Hubs that had been established in various states and were reportedly dismantled as per the government’s submissions to the Supreme Court during the Aadhaar hearings. Creating 360-degree profiles enables vast surveillance and can have a disproportionate impact on persons belonging to marginalised communities. According to the government, Aadhaar was the answer to the problem of fraud detection in benefit delivery. Where is the question then to establish another system that will facilitate surveillance and perform a similar function to Aadhaar? Concerns of surveillance in India are not hypothetical, particularly given the lack of transparency and accountability in the surveillance architecture and the fact that we still do not have a data protection law ,â said Vrinda Bhandari, advocate at the Supreme Court.
+
+The impact on citizens’ privacy: Â âMH-UCDH, is a unique number that helps tie together several different aspects of a Maharastra citizenâs life (the welfare/subsidies they require, their health, their financial records, educational qualifications, etc) without also providing them means to authenticate or prove their identity (as Aadhaar does). A policy measure such as this, that impacts a citizensâ privacy to this extent and serves no purpose other than surveillance, is clearly diluting the right to privacy granted to every Indian resident,â Shruti Trikanad, a Programme Officer working on digital identity projects at the Centre for Internet Society told MediaNama.
+
+Golden Record data is excessive: âThe data sought to be collected for the âgolden recordâ is also excessive, has grave implications for discrimination (caste, medical attributes, etc) and would not meet any criteria required to pass the Puttaswamy test. Much of this information is also sensitive personal data, which requires additional protection,â Trikanad added.
+
+More details required from the government: âMuch more details are needed about the project to make a definitive assessment vis a vis the Puttaswamy judgement but suffice it to say that per se linking databases within government would not amount to a breach of privacy. While misuse is always possible, it is hard to define what is misuse in the absence of a concrete data protection law. That said, it will still need much more clarification from the government as to what it intends to do with this data, who will have access to it and how that will be controlled,â Alok Prasanna Kumar, Co-founder and Lead of Vidhi Karnataka said.
+
+“Obviously tracking your daily movements would be surveillance if you haven’t consented to it but simply collecting an individual’s phone number and address would not be. Whether one finds this database problematic depends on one’s situation. If, like me, one is privileged enough not to need the state for most things in life, I would find this very problematic and worrisome. If on the other hand, you’re someone who depends on the state for basic needs of life, realising that the state knows you exist can be a huge relief because it means you don’t have to prove your existence to avail every new scheme that comes up. Personally, I would like to see much about this plan, including the legal framework around this before I conclude anything definitively about its legality.” â Alok Prasanna Kumar
+
+Data collected would be disproportionate: Â â¨âIn this case, if the goal is to have a â360-degree profileâ of citizens, then it would most likely fail this part of the test, since that is not a legitimate aim. The other aim mentioned of reducing âfraud, corruption, waste, or abuse of the benefit delivery system” is not sufficient to prove an aim, unless it is also shown that there was prevalent fraud/corruption in the welfare delivery system that will now be addressed by unifying the databases, and could not be addressed in any other way,â Trikanad said.
+
+âFor instance, when evaluating the Aadhaar program, the Govt. had claimed that identity fraud by beneficiaries was leading to supplies leaking out of welfare programs, and therefore the Aadhaar âuniqueâ ID system was implemented to ensure that subsidies/benefits reach only the beneficiaries (this was widely disputed by petitioners in the case, but this is what the court ultimately accepted so the example is still relevant). In this case, even if the Maharashtra State was able to show a pressing need for this unified system, it will likely fail the very last tests, since this â360- degree profileâ created of citizens, along with the excessive data collected, is severely disproportionate to such a goal.â â Shruti Trikanad of CIS
+
+âIn absence of a data protection law, such policies can be a recipe for disaster. Citizen’s data is crucial and it needs proper safeguards even against the government that has to be implemented before we start thinking about digital ids,â Radhika Jhalani, Volunteer Legal Counsel, SFLC.in told MediaNama.
+
+Trikanad explained that a data protection law would have many applications over and above the law that implements the MH-UCDH portal. She said that it would:
+
+“But perhaps most importantly it would set up a layer of accountability for the administrator of the MH-UCDH, through the establishment of a data protection authority,â Trikanad said.Â âThis authority would have the jurisdiction to hold the administrator of the MH-UCDH for any unauthorised use of data or any other violation of the data protection standards set. In the absence of a data protection law, citizens only have a fundamental right to privacy that they can take resort to, in case of any violations (and the grievance redressal system set up by the MH-UCDH law, if any),â she added.
+
+The similarities with Telanganaâs Samagra Vedika:Â In 2014, the Telangana government conducted the Samagra Kutumba Survey, an integrated household survey. Based on the data collected through this exercise, the Telangana government created Samagra Vedika, a project under which the state collected data and integrated it across various departments.
+
+IT and Industries Principal Secretary Jayesh Ranjan had told MediaNama that Samagra Vedika, was an algorithm to obtain information from several databases, rather than being one master database itself. Ranjan said that Samagra Vedika has the power to query from more than 30 department databases (like the treasury, tax, GST, RTA and more) to create a â360 degree viewâ of virtually any citizen.Â He also assured us that Samagra Vedika was accessible only to employees of his department, and that there were âchecks and balancesâ that govern this access.
+
+Tamil Nadu too has a similar database: Â The State Family Database (SFDB), a mammoth e-governance project was announced by the state government in January 2019. SFDB is a data integration and exchange platform that is envisioned to be an all-in-one database used across different departments of the state government to maintain records of various kinds . For example, SFDB can be used by the Department of Revenue to maintain land records pertaining to a citizen and by the Department of Higher Education to maintain education records of the same citizen. Currently, fifteen state departments are expected to participate in this project and each can have its own application and associated database.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.Â
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

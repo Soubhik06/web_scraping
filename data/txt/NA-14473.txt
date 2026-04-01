@@ -1,0 +1,31 @@
+India’s Computer Emergency Response Team (CERT-In) says that satellite communication service providers must implement strong encryption controls to ensure confidentiality in the data transmitted between satellites and ground stations. This is a part of the authority’s advisory listing the cybersecurity best practices for satellite communication providers. It sent out this advisory to satcom providers on February 4 and released it to the public on February 17.
+
+In the advisory, CERT-In says that satcom companies must implement quantum key distribution (QKD) technology, which uses quantum mechanisms to securely distribute encryption keys between satellites and ground stations. If a satellite uses application programming interfaces (APIs) it must implement robust security measures to ensure that the data transmitted via said APIs remains confidential. The authority argues that if the data sent between satellites and ground stations is not secure, it can result in “interception of sensitive information, leading to incorrect data being relayed and potential security breaches.”
+
+Cert-In lists eight threats that could breach a satcom company’s defences and negatively affect their satellites’ functioning. A wide range of risks pertain to bad actors taking control of a satellite system. This can occur through vulnerabilities in the satellite software, interference in communication links (which ground stations send and receive from satellites), physical tampering with satellite hardware, and jamming or spoofing of satellite signals. Besides this, satcom companies are vulnerable to supply chain attacks if the vendor supplying them with equipment does not have adequate security measures, leaving the possibility of widespread security disruptions.
+
+Cert-In also highlights threats from new technologies such as artificial intelligence (AI) and the Internet of Things (IoTs). AI systems can carry out automated attacks on a satellite, analyse vast datasets to find vulnerabilities and create convincing phishing content. “These attackers can bypass conventional security measures and target specific entities making them hard to detect and mitigate,” it notes.
+
+On the IoT front, the authority mentions that vulnerabilities in IoT devices that connect with a satcom company’s network could facilitate access to the broader network. “Attackers can use these vulnerabilities to steal data, launch a DdoS [distributed denial of service] attacks, or disrupt satellite services,” Cert-In says. It suggests that companies must ensure that the IoT devices on their network are regularly updated and mitigate these threats.
+
+Cert-In’s advisory comes at a time when a wide range of companies both Indian and international are looking to enter the satellite communication market in the country. While the government is yet to allocate spectrum to any satcom provider, clarity on security protocols, before operations begin, could help ensure that the satcom operators protect sensitive data and critical infrastructure from emerging threats such as AI and IoT vulnerabilities.
+
+Companies must ensure that only authorised personnel have access to sensitive information and satellite systems. Companies must implement role-based access controls so that personnel only have as much information/access as necessary for their job function. They must also regularly train their employees on cybersecurity best practices.
+
+Cert-In further suggests that satcom companies should carry out multiple forms of user verification before granting access to satellite systems. Multi-factor authentication (MFA) prevents malicious actors from accessing the systems even if they gain control of a verified user’s login credentials.
+
+Adopt a supply chain risk management strategy including maintaining an inventory of all software components (Software Bill of Materials) to manage vulnerabilities, facilitate updates, and ensure compliance with licensing requirements. Companies should work closely with third-party vendors to ensure that their security practices align with each other and must also carry out assessments of vendors’ security practices.
+
+Satcom companies should regularly update their software and systems to protect against known vulnerabilities and carry out patch management to tackle newly discovered flaws. They should also deploy antivirus at all endpoints such as ground stations and connected devices to detect and prevent threats.
+
+Companies must have a plan in place to address and mitigate security breaches. They should conduct periodic security assessments to identify potential weaknesses in their satellite systems and update said security measures accordingly. Companies should also implement robust monitoring systems to detect and respond to suspicious activity. Cert-In suggests that they can consider advanced analytics and threat intelligence for proactive detection and mitigation. Besides this, they should have a data recovery plan in place so that they can continue operations even in the event of a cyber attack.
+
+Satcom providers should isolate critical satellite systems from less secure systems to limit the lateral movement of attackers within the network.
+
+They must have measures such as surveillance systems and secure storage facilities for satellite equipment to protect satellite infrastructure, ground stations, and control centres.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

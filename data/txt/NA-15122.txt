@@ -1,0 +1,19 @@
+The New York Times suffered a breach of its internal source code and data, as reported by Bleeping Computer. The stolen data was uploaded on the anonymous message board 4chan as a 270 GB torrent file. “All source code belonging to The New York Times Company, 270GB. There are around 5 thousand repos (out of them less than 30 are additionally encrypted I think), 3.6 million files total, uncompressed tar. Please seed, the seedboxes might not be enough,” says the post. The New York Times confirmed the breach to Bleeping Computer and stated that it did not affect its internal corporate systems and had no impact on its operations.
+
+Today on 4chan someone leaked the source code (?) to the New York Times. They leaked 270GB of data They wrote that the New York Times has 5,000+ source code repositories, with less than 30 being encrypted (?). It is 3,600,000 files in total Note: We haven't reviewed the data
+
+The leak allegedly contains a wide variety of information from the media organization’s IT department, including IT documentation, infrastructure tools, and source code, including the viral Wordle game. While confirming the leak, the New York Times stated that it occurred in January 2024 and attributed it to user credentials from GitHub which were inadvertently leaked.
+
+“The underlying event related to yesterday’s posting occurred in January 2024 when a credential to a cloud-based third-party code platform was inadvertently made available. The issue was quickly identified and we took appropriate measures in response. There is no indication of unauthorized access to Times-owned systems nor impact on our operations related to this event. Our security measures include continuous monitoring for anomalous activity,” said the company.
+
+According to a post from Stack Diary , the leak contains the original source code of the popular online game Wordle, internal communications from Slack channels, details about the company’s internal IT architecture, alongside many authentication methods, including authentication URLs and their respective passwords, secret keys, and API tokens. Worryingly, it also contains a database of 1500 NY Times Education site users, including their names, email addresses, and hashed passwords. Reportedly, the leaks involve data from The New York Times’s IT department, rather than its news and editorial operations.
+
+Another leak was published on 4chan this week, related to Disney’s popular online game Club Penguin , also containing Disney’s corporate strategies, advertising plans, Disney+, internal developer tools, business projects, and internal infrastructure.
+
+Last week , a major leak from Google’s internal database revealed various security and privacy incidents at Google, including employee reports about Google’s products collecting children’s data, leaking carpool users’ trips and home addresses, and making YouTube recommendations based on deleted watch history.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

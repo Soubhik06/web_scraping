@@ -1,0 +1,12 @@
+SUBREDDIT: r/india
+TITLE: ELI18 : How to make online accounts especially online banking as safe as possible?
+DATE: 2018-06-19
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/8s5pqq/eli18_how_to_make_online_accounts_especially/
+
+--- POST TEXT ---
+
+I have heard of some suggestions such as using Keepass(Lastpass has been hacked in the past), using a dumb phone(whose number only the banks know) for OTP purposes. But can someone list down all the steps one should take to secure their online accounts especially online bank accounts. 
+
+I have searched on some threads and there is malware to hack your bank account like this.
+&gt;Depends how secure you want to be. First let me tell you a little about banking malware. It sits on your computer and waits for you to log in to your bank, then it transfers money out of your account. While doing this it hides the transfers from your banking screen so it looks like the money is still in the account.

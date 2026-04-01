@@ -1,0 +1,29 @@
+The Reserve Bank of India (RBI) has finalised the due diligence guidelines for banks which acquire Aadhaar Enabled Payment System (AePS) Touchpoint Operators. The central bank’s notification issued on June 27, 2025, directs acquiring banks to conduct due diligence as per the Know Your Customer (KYC) Directions, 2016, before onboarding these operators.
+
+These directions prescribe that regulated entities should obtain information like the Aadhaar number, Permanent Account Number (PAN) or an equivalent document under the Income Tax Rules, 1962, or any document providing the customer’s business and financial status before onboarding them. However, the entities should be allowed to authenticate the customer’s Aadhaar number using the Unique Identification Authority of India’s (UIDAI) e-KYC authentication service.
+
+The directions follow the draft guidelines released in August 2024, and will come into effect from January 1, 2026.
+
+Developed by the National Payments Corporation of India (NPCI), AePS enables financial inclusion and allows transactions through Aadhaar number, biometrics, or OTP authentication. Consequently, the bank-led model provides financial services like cash withdrawal, deposit, fund transfer, and non-financial services like mini statement and balance enquiry.
+
+Within this, ‘touchpoints’ refer to terminals (both mobile and fixed points) deployed by acquirer banks to facilitate AePS transactions. Notably, acquiring banks onboard individuals – called AePS touchpoint operators (ATOs) – who operate these touchpoints.
+
+To begin, acquiring banks should conduct KYC verification of ATOs if they have remained inactive for a continuous period of three months. Alternatively, if the ATOs have already undergone due diligence as a business correspondent or sub-agent, then that verification process can be adopted.
+
+Additionally, the apex bank outlined risk management norms for entities. The acquiring banks must monitor ATOs’ activities via their transaction monitoring systems on an ongoing basis. They should establish factors like location, ATO type, volume & velocity of transactions, etc., as part of the bank’s fraud risk management framework.
+
+This framework should also include operational parameters that would be reviewed periodically based on emerging fraud trends. Finally, the acquiring bank should establish adequate system-level controls to ensure that the acquiring bank solely uses technological integrations like application programming interfaces (APIs) for enabling AePS operations.
+
+The RBI claims that the guidelines follow reports of AePS fraud, primarily due to identity theft or compromised credentials. Previously, the Indian Cyber Crime Coordination Centre (I4C) CEO Rajesh Kumar announced that AePS frauds contributed to 11% of the total financial cybercrime in 2023. Notably, in 2022 a fake customer service agent in Uttar Pradesh misused AePS, cloning individuals’ fingerprints and utilising them to withdraw money from the victims’ accounts using fake IDs.
+
+Further, in response to a previous MediaNama RTI about UIDAI’s efforts to curb AePS fraud, the organisation cited their newly introduced AI-based fingerprint authentication mechanism. However, the response lacked any colour on whether the initiative would tackle the issue of cloning and the types of AePS-related grievances that the UIDAI received.
+
+In a similar vein, the Finance Ministry in 2024 disclosed that compromised Aadhaar numbers and fingerprint biometrics via land and property registration records propelled AePS frauds. This statement followed an investigation by the Kolkata Police, who uncovered that miscreants stole people’s biometric details by downloading land deeds from the State’s property registration website. Consequently, the authorities urged the I4C to mask Aadhaar details on West Bengal’s government department websites.
+
+Overall, the RBI claims that the new directions would boost customer trust in the system and curb such fraud.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

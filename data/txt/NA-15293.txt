@@ -1,0 +1,35 @@
+Meta has introduced a new AI-powered update for Threads called Dear Algo , which gives users a more direct way to shape what appears in their feed. Instead of relying only on automatic ranking, the feature allows people to publish a post beginning with “Dear Algo” and explain what they want to see more or less of. The platform’s AI systems then interpret that request and adjust the user’s feed accordingly for the next three days.
+
+At the same time, users can repost other Dear Algo prompts, effectively applying someone else’s stated preferences to their own feed. As a result, feed tuning becomes temporary, shareable, and driven by explicit user input rather than long-term behavioural signals alone.
+
+For now, Meta has rolled out Dear Algo on Threads in the United States (US), the United Kingdom (UK), Australia, and New Zealand. However, the company says it plans to expand the feature to more countries soon.
+
+MediaNama tested the feature using a UK-based account. We published a post saying “dear algo give me more luxury content”. The feature seemed to work initially with more UK-based English posts about luxury products; however, the algorithm started adding several posts in Tagalog, a language from the Philippines, to the feed after the initial changes.
+
+Screenshots provided to MediaNama by a UK-based user showing posts in Tagalog, a language from the Philippines. Source: MediaNama
+
+(MediaNama is trying to the test feature with other UK-based users and we will upload more screenshots of their experience with the feature)
+
+During its Q4 FY25 earnings call , Meta said it plans to integrate large language models (LLMs) directly into the recommendation systems that power Facebook, Instagram, Threads and its advertising business. Chief Executive Officer (CEO) Mark Zuckerberg said today’s recommendation systems are “primitive compared to what will be possible soon”.
+
+Instead of apps that feel like “algorithms that recommend content”, he said users will open Meta’s platforms to find “an AI that understands you”. According to Zuckerberg, the aim is to move beyond static engagement signals and build systems that interpret personal context, including a user’s history, interests, content and relationships. He described this effort as building a “personal superintelligence” that can shape feeds, ads and commerce around individual goals. In effect, Meta is positioning LLMs as the core infrastructure for ranking, discovery and ad delivery across its services.
+
+Beyond recommendations, Meta said it is deploying agentic AI across commerce and business tools. The company is developing shopping agents that surface specific products from its catalogue across feeds and messaging, including WhatsApp. It is also testing a Meta AI assistant for advertisers to support campaign optimisation, while expanding business AI chats in markets such as Mexico and the Philippines.
+
+Meta has now expanded advertising on Threads to users in all markets worldwide, integrating the platform fully into its advertising infrastructure and allowing brands to run campaigns through Meta’s Ads Manager alongside Facebook and Instagram. The ads,  which support both image and video formats and use Meta’s existing buying tools, including Advantage+ placements, will appear directly in users’ feeds as part of a gradual global rollout.
+
+This expansion comes as Threads continues to scale its audience. Since launching in July 2023, the platform has crossed 400 million monthly active users (MAUs), according to Meta, marking substantial growth from earlier earnings calls where CEO Mark Zuckerberg reported figures of around 150 million MAUs in early 2024 and 275 million later that year.
+
+Despite this progress, Threads’ daily active user count remains a small share of Meta’s overall footprint, which spans billions across Facebook, Instagram and WhatsApp.
+
+With advertising now rolled out globally on Threads and Dear Algo inviting users to explicitly state what they want to see, an obvious question follows: will Meta now gain even richer insight into user preferences? On the one hand, Dear Algo appears to give users more control over their feeds. However, it also generates structured signals about interests, dislikes and intent, signals that Meta’s systems can interpret at scale.
+
+At the same time, Meta has made clear that it plans to integrate LLMs directly into its recommendation and advertising infrastructure. Rather than relying solely on passive engagement metrics, the company wants AI systems that understand personal context, relationships and goals. Consequently, combining explicit preference prompts with global ad delivery could strengthen Meta’s ability to refine targeting, ranking and commerce.
+
+In effect, Threads may now function not just as a social feed, but as a live testing ground for Meta’s broader ambition: AI-driven systems that shape discovery, advertising and shopping around increasingly granular user data.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

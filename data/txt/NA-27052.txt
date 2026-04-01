@@ -1,0 +1,25 @@
+SUBREDDIT: r/Scams
+TITLE: Recruiting Scam - interesting choice of target
+DATE: 2024-04-08
+SCORE: 3
+URL: https://www.reddit.com/r/Scams/comments/1byiik3/recruiting_scam_interesting_choice_of_target/
+
+--- POST TEXT ---
+
+This is the second one of these I've gotten in the last week. Random McFakename sends me the good news that I've been selected for an interview with Legitimate Company. Strangely, I didn't actually apply for a position with them, nor does the position appear on said companies website. Their email came from a \[companyname\]careers.com domain, which must be a new initiative, since the domain is only a few days old.
+
+While I haven't proceeded along the scam route with any of these so far, the next step would be for them to congratulate me on passing the personal information gathering "interview", inform me that I can begin my dream job soon, but first I'll need to purchase a new office suite of equipment. A check will be provided, along with a list of equipment I need to buy from a specific seller online. You buy the equipment, the check bounces, and you're out the money from your own pocket for products that will never be delivered.
+
+It's an interesting choice to target someone working in Information Security, who deal with stuff like this on a professional basis. At the same time, though, I've run enough internal phishing campaigns to know that anyone can fall for stuff like this, regardless of how much you know. In that spirit, here's a list of red flags to look out for:
+
+Red flags:
+
+1. Search for the name of the company in your email history. If you never applied to them, they shouldn't be referencing an application from you.
+2. Everything after the @ symbol in an email address is important. If the email comes from starbucks\[.\]com, it's likely legit. If it comes from starbuckscareers, slarbucks, etc., it's likely impersonating. You can toss that into a website like URLVoid to see if the domain has been around for a long time, or just a few days as in the screenshot.
+3. Scammers are predominantly located overseas, as it is an industry that flourishes in places where it's easiest to operate. As such, English is generally a second language, which means there's often some common quirks you'll see depending on where the scammer is from. If you see "kindly" or "each and every thing", that usually indicates the person is from India. Unusual spaces surrounding punctuation is usually China. This isn't a sign of a scam in and of itself, since a lot of legitimate recruiting jobs are offshored in India, but it should put you on your guard.
+
+Stay safe out there!
+
+https://preview.redd.it/4mt81ie645tc1.png?width=767&amp;format=png&amp;auto=webp&amp;s=07d8aa3d7f9d29d5ded2d0412e50fb5441d533a2
+
+https://preview.redd.it/tl3uqfd645tc1.png?width=972&amp;format=png&amp;auto=webp&amp;s=8d3009b1742ef0719fef54c229e1bc3f261ed094

@@ -1,0 +1,17 @@
+Whatâs the news: More than 2,500 pages of Googleâs API (application programming interface) documentation containing 14,014 API attributes were reportedly leaked on Github on March 27, 2024, and stayed up on the site until May 7. These API documents reveal what Google considers important when ranking a website on its search engine. The leak was spotted by Erfan Azimi, founder of the search engine optimization (SEO) company EA Eagle Digital, and was reported on by SEO practitioner Rand Fishkin.Â
+
+Based on their analysis of the leaked data, the two SEO practitioners said that Google uses click data (including good, bad, and long clicks) in its systems like NavBoost and Glue. As per a testimony given by Googleâs VP of Search, Pandu Nayak, in Googleâs US lawsuit, these systems help rank content that ultimately shows up on search engine result pages. The data suggests that Google has ways of filtering out clicks they donât want to count in their ranking systems and including the ones that they do. The company also appears to be measuring the length of clicks and impressions.Â
+
+The use of click data here is interesting given that Google has previously denied considering click data in search ranking.Â It must be noted here that Google has not confirmed the data leak. We have reached out to Google and will update the story once we hear from the company.
+
+Other key findings of the data leak:
+
+Based on Fishkinâs reading of the leaked data, the site links created by Google factor in the number of clicks on pages in the Chrome browser.
+
+You can read Fishkin’s complete analysis of the leak and efforts to verify that the data belongs to Google here .
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

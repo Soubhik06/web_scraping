@@ -1,0 +1,19 @@
+American telecom giant AT&T was hit with a massive data breach in April, exposing data of almost all of its cellular customers. The stolen data contains call and text records from almost all AT&T customers, the company stated in a July 12 SEC filing . This included details about phone numbers contacted by AT&T numbers, counts of those interactions, and aggregate call durations. As per the AT&T website , it has 242 million wireless mobile network subscribers in North America as of December 2023 .
+
+AT&T paid a member of the hacking team $370,000 in May to delete the data, according to a WIRED report. The company has since been sued in Texas for not being transparent enough about the attack. The Federal Communications Commission (FCC) stated that it investigated the leak.
+
+The breach was caused by threat actors accessing an AT&T workspace on a third-party cloud platform (belonging to Snowflake, a cloud-based data storage and analytics service) who were able to extract a dataset stretching from May 1, 2022 to October 31, 2022 as well as on January 2, 2023.
+
+WIRED reported that the individual paid off by AT&T was part of a hacker group known as ShinyHunters, which has a history of stealing data through unsecured Snowflake cloud storage accounts. The individual recorded a video of themselves deleting the database and sent it to AT&T, in exchange for the payment.
+
+AT&T stated that the leaked data does not include the actual content of the calls and texts or Personally Identifiable Information (PII) of users such as Social Security numbers or dates of birth. However, some leaked records include cell site identification numbers, and unique identifiers assigned to cell towers. Further, even though the data doesn’t include customer names, the company states that it is possible to find a name associated with a phone number using publicly available online tools. AT&T has informed law enforcement authorities and at least one person has been arrested. The telecom provider also believes that no data is publicly available.
+
+However, a long-term AT&T customer filed a lawsuit against the company, alleging a lack of transparency about the nature and extent of data security lapses and dangers posed to consumers. The telecom service provider already faces more than 30 class actions related to a previous breach of the passcodes, contact details and social security numbers of 73 million former and current customers, announced in March . Some of the lawsuits have been consolidated in the Northern District of Texas.
+
+The company confirmed to Bloomberg that the AT&T incident was connected to the hack that affected its other customers like Ticketmaster and LendingTree. In May this year , the same hacker group stole 1.3 terabytes of Ticketmaster user data, including names, addresses, phone numbers, as well as order details and credit card information.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

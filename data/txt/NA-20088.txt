@@ -1,0 +1,331 @@
+SUBREDDIT: r/india
+TITLE: [NP] The Aadhar Act, 2016 is neither very long, nor verbose. If you guys can spare the time, please read it fully.
+DATE: 2017-11-25
+SCORE: 50
+URL: https://www.reddit.com/r/india/comments/7feot1/np_the_aadhar_act_2016_is_neither_very_long_nor/
+
+--- POST TEXT ---
+
+Disclaimer: I am not a lawyer or legal consultant or anything else of that sort, so please do not take any of this as the final word on the Act.
+
+[The full Act, as published in the Gazette of India.](https://uidai.gov.in/images/the_aadhaar_act_2016.pdf) (English PDF)
+
+I am going to state my interpretation of what I believe to be important sections of the Act, and reproduce those parts when I deem it important. Sometimes I might omit the wording if it is obvious that the specifics of the section is irrelevant to the stipulations of it. 
+
+Chapter I is mostly definitions, so you should consult it if you have any confusion about what any terms in the Act means, before asking for clarification. Not that I wouldn't try my best to answer
+
+##Chapter II: Enrolment
+&gt; \3. ( 2 ) The enrolling agency shall, at the time of enrolment, inform the individual
+undergoing enrolment of the following details in such manner as may be specified by
+regulations, namely:—
+
+&gt;&gt; ( a ) the manner in which the information shall be used;
+
+&gt;&gt; ( b ) the nature of recipients with whom the information is intended to be shared
+during authentication; and
+
+&gt;&gt; ( c ) the existence of a right to access information, the procedure for making
+requests for such access, and details of the person or department in-charge to whom
+such requests can be made
+
+If you go to an enrolment centre they are required to tell you everything. You don't even have to ask. The forms should contain the information, and you have a right to know who is handling the information you are providing to the enrolment centre. You can ask for further details from a person in charge.
+
+&gt; ...
+
+&gt; \6. The Authority may require Aadhaar number holders to update their demographic
+information and biometric information, from time to time, in such manner as may be specified
+by regulations, so as to ensure continued accuracy of their information in the Central
+Identities Data Repository.
+
+UIDAI has the right to pester you to update your details with them. At this point it is not clear what happens if a holder becomes a non-resident.
+
+##Chapter III: Authentication
+
+&gt;\7. The Central Government or, as the case may be, the State Government may, for the
+purpose of establishing identity of an individual as a condition for receipt of a subsidy,
+benefit or service for which the expenditure is incurred from, or the receipt therefrom forms
+part of, the Consolidated Fund of India, require that such individual undergo authentication,
+or furnish proof of possession of Aadhaar number or in the case of an individual to whom
+no Aadhaar number has been assigned, such individual makes an application for enrolment:
+
+&gt;Provided that if an Aadhaar number is not assigned to an individual, the individual
+shall be offered alternate and viable means of identification for delivery of the subsidy,
+benefit or service.
+ 
+If a service or subsidy involves the Consolidated Fund of India, then the Central or State Governments can demand Aadhar number. If you don't have one, then you need to show proof of enrolment. The government is also required to provide an alternate means to prove your identity in this situation.
+
+&gt;\8. ( 2 ) A requesting entity shall—
+
+&gt;&gt; ( a ) unless otherwise provided in this Act, obtain the consent of an individual
+before collecting his identity information for the purposes of authentication in such
+manner as may be specified by regulations; and
+
+&gt;&gt; ( b ) ensure that the identity information of an individual is only used for
+submission to the Central Identities Data Repository for authentication.
+
+Nobody is allowed to use your Aadhar information without your consent unless the Act itself allows it for something. It can only be used for authentication.
+
+&gt; ( 3 ) A requesting entity shall inform, in such manner as may be specified by regulations,
+the individual submitting his identity information for authentication, the following details
+with respect to authentication, namely:—
+
+&gt;&gt; ( a ) the nature of information that may be shared upon authentication;
+
+&gt;&gt; ( b ) the uses to which the information received during authentication may be
+put by the requesting entity; and
+
+&gt;&gt; ( c ) alternatives to submission of identity information to the requesting entity.
+
+Any entity that wants your Aadhar information has to inform you exactly what details are being requested from UIDAI. They also have to tell you for what uses the information is being obtained, and inform you on alternative options to submitting your identity information. I'm not sure if this latter part mandates an alternative option, or if it means that they can simply say "there are no other means to authenticate you other than Aadhar".
+
+&gt; \9. The Aadhaar number or the authentication thereof shall not, by itself, confer any
+right of, or be proof of, citizenship or domicile in respect of an Aadhaar number holde
+
+This bit is important. You are required to be a resident of India to enrol for Aadhar, but possession of Aadhar neither acts as evidence of citizenship nor domicile (permanent residence). [On a side note, your passport alone is also not a proof of citizenship.](https://timesofindia.indiatimes.com/india/Passport-alone-no-proof-of-citizenship-Bombay-HC/articleshow/22244467.cms)
+
+Chapter IV deals with the structure and function of the UIDAI, and Chapter V deals with the finances and audits of UIDAI.
+
+##Chapter VI: Protection of Information
+
+Arguably the most important chapter of this Act, along with Chapter VII which I will come to later.
+
+\28. deals with the protection of authentication records. Which implies that there is a trail leading back to you. However it has to be read together with \32. to make sense so I am not going over it right now.
+
+&gt; \29. ( 1 ) No core biometric information, collected or created under this Act, shall be—
+
+&gt;&gt;( a ) shared with anyone for any reason whatsoever; or
+
+&gt;&gt;( b ) used for any purpose other than generation of Aadhaar numbers and
+authentication under this Act.
+
+This is pretty crystal clear. Under no circumstances can fingerprints and iris scans be shared or distributed. They can only be used for authentication or Aadhar number generation. So anything that contravenes this is a violation of the Act and Chapter VII will detail what the penalties are. Even **you** cannot gain access to your biometric information.
+
+&gt; ( 2 ) The identity information, other than core biometric information, collected or created
+under this Act may be shared only in accordance with the provisions of this Act and in
+such manner as may be specified by regulations.
+
+Your non-biometric information is not protected as well as your biometric information. 
+
+&gt; ( 3 ) No identity information available with a requesting entity shall be—
+
+&gt;&gt; ( a ) used for any purpose, other than that specified to the individual at the time
+of submitting any identity information for authentication; or
+
+&gt;&gt; ( b ) disclosed further, except with the prior consent of the individual to whom
+such information relates.
+
+This means that the entities requesting this information can specify what they will use it for, and you can consent. I find the lack of an opt-out against usage for non-authentication purposes to be rather worrying. This is because the government is forcing you to link your Aadhar with your many financial instruments, and you can't prevent the financial institutions from using your data for any purposes other than those that *you* choose.
+
+Remember that the information obtained from Aadhar authentication supersedes any previous KYC conducted by the bank. There is also no wording to ensure that information is only shared with other parties who are authorised to obtain and process aadhar information.
+
+&gt; ( 4 ) No Aadhaar number or core biometric information collected or created under this
+Act in respect of an Aadhaar number holder shall be published, displayed or posted publicly,
+except for the purposes as may be specified by regulations.
+
+All those places displaying the identity information of Aadhar users in public, including the several (I heard it was 211) government websites were violating the Act. But so far no word on what will be done to the persons responsible for these violations.
+
+Now, let's deal with \32. and \28.
+
+&gt; \32. ( 1 ) The Authority shall maintain authentication records in such manner and for
+such period as may be specified by regulations.
+
+&gt; ( 2 ) Every Aadhaar number holder shall be entitled to obtain his authentication record
+in such manner as may be specified by regulations.
+
+The wording is very simple, UIDAI keeps a record of every time you authenticate yourself, for a time period as decided by UIDAI. You can even ask UIDAI for your record and they are obligated to provide it to you. 
+
+&gt; ( 3 ) The Authority shall not, either by itself or through any entity under its control,
+collect, keep or maintain any information about the purpose of authentication
+
+This I find strange. They're keeping a log but there's no storage of the purpose of authentication. How does that work? Does the location data not automatically indicate what the purpose might be? 
+
+While part \32. deals with the storage of the authentication record, part \28. deals with its protection, confidentiality and access.
+
+&gt; \28. ( 1 ) The Authority shall ensure the security of identity information and
+authentication records of individuals.
+
+&gt; ( 2 ) Subject to the provisions of this Act, the Authority shall ensure confidentiality of
+identity information and authentication records of individuals.
+
+&gt; ( 3 ) The Authority shall take all necessary measures to ensure that the information in
+the possession or control of the Authority, including information stored in the Central
+Identities Data Repository, is secured and protected against access, use or disclosure not
+permitted under this Act or regulations made thereunder, and against accidental or intentional
+destruction, loss or damage.
+
+Basically UIDAI is required to protect this data from access, disclosure, damage and destruction.
+
+&gt; ( 4 ) Without prejudice to sub-sections ( 1 ) and ( 2 ), the Authority shall—
+
+&gt;&gt; ( a ) adopt and implement appropriate technical and organisational security
+measures;
+
+&gt;&gt; ( b ) ensure that the agencies, consultants, advisors or other persons appointed
+or engaged for performing any function of the Authority under this Act, have in place
+appropriate technical and organisational security measures for the information; and
+
+&gt;&gt; ( c ) ensure that the agreements or arrangements entered into with such agencies,
+consultants, advisors or other persons, impose obligations equivalent to those
+imposed on the Authority under this Act, and require such agencies, consultants,
+advisors and other persons to act only on instructions from the Authority.
+
+UIDAI is charged with "adopting and implementing" the right technologies to ensure that the data they're required to protect can be adequately protected. They are also required to ensure that the agencies (AUAs) they contract are technically competent and capable of handling this. Furthermore, contracts and agreements entered by UIDAI must contain terms "equivalent" to the Aadhar Act. These agencies cannot act unilaterally either, and must work according to instructions from UIDAI.
+
+&gt; ( 5 ) Notwithstanding anything contained in any other law for the time being in force,
+and save as otherwise provided in this Act, the Authority or any of its officers or other
+employees or any agency that maintains the Central Identities Data Repository shall not,
+whether during his service or thereafter, reveal any information stored in the Central Identities
+Data Repository or authentication record to anyone:
+
+&gt; Provided that an Aadhaar number holder may request the Authority to provide access
+to his identity information excluding his core biometric information in such manner as may
+be specified by regulations
+
+Like I said earlier, even you cannot access your fingerprints and iris scans.
+
+##\33. aka Big Brother clause?
+
+&gt; \33. ( 1 ) Nothing contained in sub-section ( 2 ) or sub-section ( 5 ) of section 28 or
+sub-section ( 2 ) of section 29 shall apply in respect of any disclosure of information, including
+identity information or authentication records, made pursuant to an order of a court not
+inferior to that of a District Judge:
+
+&gt; Provided that no order by the court under this sub-section shall be made without
+giving an opportunity of hearing to the Authority.
+
+Basically, a district judge or higher can demand non-biometric information from UIDAI, but only if UIDAI is heard first. I'm not 100% sure but this potentially infringes on the authority of the courts. I hope not, because this information should not be disclosed on the whims of the prosecution. Of course, this assumes that the UIDAI is not a pawn of the government and relents. Basically, we're held by the balls by UIDAI and the judge(s) in question.
+
+&gt; ( 2 ) Nothing contained in sub-section ( 2 ) or sub-section ( 5 ) of section 28 and
+clause ( b ) of sub-section ( 1 ), sub-section ( 2 ) or sub-section ( 3 ) of section 29 shall apply in
+respect of any disclosure of information, including identity information or authentication records, made in the interest of national security in pursuance of a direction of an officer not below the rank of Joint Secretary to the Government of India specially authorised in this
+behalf by an order of the Central Government:
+
+##**Now this bit is scary.** Remember where I said nobody can obtain your biometric information? Well, apparently I lied, **and so did UIDAI**.
+
+A joint secretary authorised by the central government can obtain your biometric data in the name of national security. \29. ( 1 ) ( b ) prohibits the use of biometrics for any purpose other than authentication, however \33. gives the executive powers that they choose not to give to even the judiciary.
+
+So, by law there is apparently a backdoor in the implementation of the Aadhar database. How else would this biometric information be accessible otherwise?
+
+Of course, there supposedly are checks and balances like we see below.
+
+&gt; Provided that every direction issued under this sub-section, shall be reviewed by an
+Oversight Committee consisting of the Cabinet Secretary and the Secretaries to the
+Government of India in the Department of Legal Affairs and the Department of Electronics
+and Information Technology, before it takes effect:
+
+So basically, pawns of the government will decide whether a decision taken by another pawn of the government is correct. Sounds suspiciously disbalanced.
+
+&gt; Provided further that any direction issued under this sub-section shall be valid for a
+period of three months from the date of its issue, which may be extended for a further period
+of three months after the review by the Oversight Committee.
+
+So these pawns can implement such an order for six months at most.
+
+For all the outrage I have seen against Aadhar, how come this section hasn't received more scrutiny? Seriously.
+
+##Chapter VII: Offences and Penalties
+
+\33. to \36. deals with impersonation, and the wording is self-explanatory. The maximum punishment here is three years and Rs. 10000 for individuals (or both), and Rs. 100000 for companies. 
+
+&gt; \37. Whoever, intentionally discloses, transmits, copies or otherwise disseminates
+any identity information collected in the course of enrolment or authentication to any
+person not authorised under this Act or regulations made thereunder or in contravention of
+any agreement or arrangement entered into pursuant to the provisions of this Act, shall be
+punishable with imprisonment for a term which may extend to three years or with a fine
+which may extend to ten thousand rupees or, in the case of a company, with a fine which
+may extend to one lakh rupees or with both.
+
+So under the law the individuals who were responsible for publicly storing Aadhar data in the 200-odd government websites should be fined up to Rs. 10000 and imprisoned for up to three years for each count of their crime. The government departments responsible should be fined up to Rs. 1 lakh per count. **Why hasn't this happened yet?**
+
+Also, banks sharing aadhar identity information with undisclosed affiliates seems to contravene this section, as user consent is irrelevant here.
+
+&gt; \40. Whoever, being a requesting entity, uses the identity information of an individual
+in contravention of sub-section ( 3 ) of section 8, shall be punishable with imprisonment
+which may extend to three years or with a fine which may extend to ten thousand rupees or,
+in the case of a company, with a fine which may extend to one lakh rupees or with both.
+&gt; \41. Whoever, being an enrolling agency or a requesting entity, fails to comply with
+the requirements of sub-section ( 2 ) of section 3 or sub-section ( 3 ) of section 8, shall be
+punishable with imprisonment which may extend to one year or with a fine which may
+extend to ten thousand rupees or, in the case of a company, with a fine which may extend to
+one lakh rupees or with both.
+
+These two sections can be read together. Remember that bit about you having the right to know for what purposes your aadhar information is being obtained? Non-disclosure is actually an offence that can be punished with a jail term. 
+
+##So please exercise your right to know and be aware when they are being violated.
+
+##Chapter VIII: Miscellaneous
+
+&gt; \48. ( 1 ) If, at any time, the Central Government is of the opinion,—
+
+&gt;&gt; ( a ) that, on account of circumstances beyond the control of the Authority, it
+is unable to discharge the functions or perform the duties imposed on it by or under
+the provisions of this Act; or
+
+&gt;&gt; ( b ) that the Authority has persistently defaulted in complying with any direction
+given by the Central Government under this Act or in the discharge of the functions
+or performance of the duties imposed on it by or under the provisions of this Act and
+as a result of such default the financial position of the Authority or the administration
+of the Authority has suffered; or
+
+&gt;&gt; ( c ) that a public emergency exists,
+
+&gt; the Central Government may, by notification, supersede the Authority for such period, not
+exceeding six months, as may be specified in the notification and appoint a person or
+persons as the President may direct to exercise powers and discharge functions under this
+Act:
+
+&gt; Provided that before issuing any such notification, the Central Government shall
+give a reasonable opportunity to the Authority to make representations against the
+proposed supersession and shall consider the representations, if any, of the Authority.
+
+I find the term "of the opinion" to be disconcerting here. Basically, it means that the government, with the right wording, can suspend UIDAI entirely on their whims and fancies. A bit like the Lieutenant-Governor of Delhi as determined by Delhi HC if for different reasons. Of course, the Act limits this to six months, but that's ample time to do irreparable damage.
+
+( 2 ) tells the officials of UIDAI have to vacate their seats. ( 3 ) mandates the government to reconstitute UIDAI after the six months pass.
+
+&gt; ( 4 ) The Central Government shall cause a copy of the notification issued under
+sub-section ( 1 ) and a full report of any action taken under this section and the circumstances
+leading to such action to be laid before each House of Parliament at the earlies
+
+A rather toothless provision. Sure, the opposition may cry foul but they cannot actually stop the government or reverse the actions taken.
+
+\50. says that UIDAI is obligated to do the centre's bidding as long as it doesn't violate the Act.
+
+##\52. aka the Immunity Clause
+
+&gt; 52. No suit, prosecution or other legal proceeding shall lie against the Central
+Government or the Authority or the Chairperson or any Member or any officer, or other
+employees of the Authority for anything which is in good faith done or intended to be done
+under this Act or the rule or regulation made thereunder.
+
+So if the Centre or UIDAI fucks up, they're immune to prosecution provided their fuck up was related to the provisions of the Act, or if the fuck up was done in "good faith".
+
+So when the security measures are circumvented, or the data stored by CIDR is leaked because of a terrible implementation, UIDAI is immune from any legal action by the victims.
+
+\53. gives the Centre the power to create secondary legislation for the Act, and \54. gives UIDAI the power to do so. Note that UIDAI is explicitly bound by the constraints of the Act, while the Centre is not.
+
+&gt; \55. Every rule and every regulation made under this Act shall be laid, as soon as may
+be after it is made, before each House of Parliament, while it is in session, for a total period
+of thirty days which may be comprised in one session or in two or more successive sessions,
+and if, before the expiry of the session immediately following the session or the successive
+sessions aforesaid, both Houses agree in making any modification in the rule or regulation,
+or both the Houses agree that the rule or regulation should not be made, the rule or regulation
+shall thereafter have effect only in such modified form or be of no effect, as the case may be;
+so, however, that any such modification or annulment shall be without prejudice to the
+validity of anything previously done under that rule or regulation
+
+Every rule that the government makes has to be tabled in parliament for approval, much like ordinances. However there isn't any clarity on what happens if parliament remains undecided. Ordinances lapse if they aren't cleared on time, but this may not be the case with rules made under the Act as there is no wording for the same.
+
+&gt; \56. The provisions of this Act shall be in addition to, and not in derogation of, any
+other law for the time being in force.
+
+Yes, Section 139AA of the Income Tax Act (enacted from the Finance Act 2016 Section 56) is legally valid provided that the Aadhar does not violate the right to privacy.
+
+&gt; \57. Nothing contained in this Act shall prevent the use of Aadhaar number for
+establishing the identity of an individual for any purpose, whether by the State or any body
+corporate or person, pursuant to any law, for the time being in force, or any contract to this
+effect:
+
+&gt; Provided that the use of Aadhaar number under this section shall be subject to the
+procedure and obligations under section 8 and Chapter VI.
+
+Basically, this is another section that validates 139AA, but only if the Income Tax department is authorised by UIDAI to collect this info (they probably are).

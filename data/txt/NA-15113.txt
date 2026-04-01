@@ -1,0 +1,41 @@
+Data belonging to around 180 million users who ordered food from Dominos India was leaked online and is now available for sale. According to a searchable website allegedly created by the hacker, this writer spent Rs 4,378 across six orders placed on Dominos India’s website in 2019.
+
+While Dominos India contended that no payment information was leaked, sensitive details such as users’ addresses, order size, total spends, name, email, mobile and GPS location was breached in this cyber attack. The leak was first discovered by cybersecurity researcher Rajshekhar Rajaharia. On this website created by the hacker, one can view a user’s order history by entering their mobile number and email.
+
+Again!! Data of 18 Crore orders of #Domino 's India have become public. Hacker created a search engine on Dark Web. If you have ever ordered @dominos_india online, your data might be leaked. Data include Name, Email, Mobile, GPS Location etc. #InfoSec #GDPR #DataLeak @fs0c131y pic.twitter.com/wIwL5ct6hX
+
+— Rajshekhar Rajaharia (@rajaharia) May 21, 2021
+
+This is not the first time that the data leak has been reported. In April, a cybersecurity researcher claimed that credit card data of nearly 1 million users who purchased Domino’s Pizzas online was being sold on the dark web. Alon Gal of Hudson Rock, who had recently flagged the Facebook data breach, claimed that the hackers were asking for nearly Rs 4 crore (USD $550,000) for a 13TB database containing more than 180 million order details, names, phone numbers, emails, addresses, payment details and a “whopping 1,000,000 credit cards”. From the screenshots shared by Gal in his tweet, it looked like the database includes the company’s internal files from 2015–2021.
+
+Rajaharia told MediaNama that the same hacker behind the MobiKwik leak is behind the Dominos leak. “Last month, this hacker revealed that they had accessed Dominos’ cloud-server in February-end this year, and then later sold the data exploit to another hacker in April. This second hacker has now uploaded the data on the website. I had informed the Computer Emergency Response Team-India on March 5,” he said.
+
+According to the website, around 13 terabytes worth of employee files and customer details are available. Around 180 million rows of data can be searched and queried on the website. The hackers said that “payment details and employee files will be made public soon.” This writer found details of their total spends, total order, last order time and payment and the delivery address with the GPS coordinates . This writer was not made aware of the leak by Dominos India either via email or text message.
+
+The worst part of this alleged breach is that people are using this data to spy on people. Anybody can easily search any mobile number and can check a person's past locations with date and time. This seems like a real threat to our privacy. #InfoSec #GDPR #DataLeak pic.twitter.com/5G494xJSCf
+
+— Rajshekhar Rajaharia (@rajaharia) May 22, 2021
+
+MediaNama is not linking out to the website as part of our responsibility to not publicise the data uploaded by the hacker.
+
+A statement from a spokesperson at Jubilant FoodWorks Ltd, the company licensed to operate Dominos Pizza in India, said that a team of experts are investigating the matter and that the company has taken necessary actions to contain the incident. “Jubilant FoodWorks experienced an information security incident recently. No data pertaining to financial information of any person was accessed and the incident has not resulted in any operational or business impact.  As a policy we do not store financial details or credit card data of our customers, thus no such information has been compromised,” the spokesperson said over email.
+
+As of September 2020, around 99% of Domino’s Pizza sales took place online compared. The share of mobile ordering as part of online ordering also increased to 98%, while Dominos Pizza’s mobile app has 43.8 million downloads as of September 2020 compared to 25.3 million in the previous year.
+
+According to Rajaharia,  since Jubilant does not store card or payment details entered by customers either on Dominos’ website or mobile application, payment data has not been leaked. “But one does not know if the hacker has accessed payment details through the hack since Dominos can fetch card payment data from their payments provider,” he said.
+
+According to the Terms & Conditions on Dominos India’s website , Paytm is the payments provider and that “customer saved card (s) details on Dominos India Application, Progressive Web Applications or Desktop, is always saved by Paytm (except CVV number) and not by JFL.” Paytm declined to comment.
+
+“Customer’s personal cards as shown on Dominos India Application, Progressive Web Applications or Desktop, are always fetched from Paytm. Domino’s India Application can also fetch Customer card information from Paytm. Although the same shall not be saved on the Domino’s India Application. Domino’s India Application will always seek Customer permission prior to fetching Customer card information from Paytm or even save a new card,” the website said.
+
+Cyber-crimes have been on the rise ever since the COVID-19 pandemic began early this year, due to an increased reliance on digital tools and the internet. According to a study by software firm Micro Focus, Indian organisations have experienced a 58% increase in cyber-security challenges over the last few months, while there was 51% increase in the challenge to investigate or remediate incidents. Around 98% of Indian organisations are short-staffed when it comes to security, the study said.
+
+The AI data breach is one of the most significant data breaches in recent history, given that customer information stored on their servers for nearly a decade has been compromised. Indian businesses have suffered numerous data breaches in recent months. While incidents of data breaches and personal information being sold on the dark web are increasing year-on-year, the Indian government is yet to introduce a personal data protection law in Parliament. Recently, the government said it is working on a new national cyber security strategy.
+
+In January, millions of customer records and sensitive card data belonging to millions of people were leaked on the dark web due to a security compromise at a server used by Juspay , a major payment gateway provider in the country. This was reported to be the largest data breach in the country in history at the time. In March sensitive data belonging to millions of cardholders and users stored on MobiKwik’s servers had been compromised and put up for sale online. And in April, the personal details of 2.5 million users stored by stock-market brokerage Upstox was leaked.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

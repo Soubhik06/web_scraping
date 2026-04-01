@@ -1,0 +1,31 @@
+A Chinese state-sponsored hacking group referred to as APT41 compromised computer systems in at least six US state governments, cybersecurity firm Mandiant revealed in its report published on March 8. The report does not name the states but said that the hacking was carried out between May 2021 and February 2022 and reveals significant new capabilities of APT41.
+
+These cybersecurity incidents have taken place despite the US government announcing significant measures to overhaul the country’s cybersecurity practices over the last year. This should serve as a wake-up call for Indian policymakers as India still lacks a comprehensive cybersecurity policy and APT41 is a significant threat to government institutions and critical infrastructure in the subcontinent. APT41 is known to have targeted India in the past.
+
+According to the report, the hackers breached government networks by exploiting vulnerabilities in internet-facing web applications, primarily the following two:
+
+“We say ‘at least six states’ because there are likely more states affected, based on our research, analysis, and communications with law enforcement. We know that there are 18 states using USAHerds, so we assess that this is likely a broader campaign than the six states where we have confirmation,” Rufus Brown, a senior threat analyst at Mandiant, told The Verge .
+
+“The goals of this campaign are currently unknown, though Mandiant has observed evidence of APT41 exfiltrating Personal Identifiable Information (PII). Although the victimology and targeting of PII data is consistent with an espionage operation, Mandiant cannot make a definitive assessment at this time given APT41’s history of moonlighting for personal financial gain,” the report stated.
+
+APT stands for Advanced Persistent Threats and it is used to describe actors that gain unauthorised access and remain undetected for a long time. It is generally used for referring to state-sponsored hacking groups.
+
+APT41 is known for carrying out espionage and financial cybercrimes and this dual focus has earned it the nickname Double Dragon. The group has been active since 2012 and five members of its members were put on the FBI’s cyber most wanted list in September 2020.
+
+“APT41 is a prolific Chinese state-sponsored espionage group known to target organisations in both the public and private sectors and also conducts financially motivated activity for personal gain,” Mandiant said in its report before warning that the group is a constantly adapting threat with “new techniques, malware variants, evasion methods, and capabilities.”
+
+“APT41’s recent activity against U.S. state governments consists of significant new capabilities, from new attack vectors to post-compromise tools and techniques. APT41 can quickly adapt their initial access techniques by re-compromising an environment through a different vector, or by rapidly operationalizing a fresh vulnerability. The group also demonstrates a willingness to retool and deploy capabilities through new attack vectors as opposed to holding onto them for future use. APT41 exploiting Log4J in close proximity to the USAHerds campaign showed the group’s flexibility to continue targeting U.S state governments through both cultivated and co-opted attack vectors. Through all the new, some things remain unchanged: APT41 continues to be undeterred by the U.S. Department of Justice (DOJ) indictment in September 2020.” – Mandiant
+
+A spokesperson from the US Cybersecurity and Infrastructure Security Agency (CISA) told The Verge that the agency was aware of the threat and that:
+
+“CISA is actively working with our JCDC [Joint Cyber Defense Collaborative] private sector partners, including Mandiant, and government partners to address this advanced persistent threat to state government agencies and assist impacted entities. We encourage all organisations and critical infrastructure entities impacted by cyber intrusions to report to CISA, and to visit CISA.gov to take action to protect themselves.”
+
+While China has not yet commented on the Mandiant report, Liu Pengyu, the spokesman for the Chinese embassy in Washington, told South China Morning Post that China opposes “making groundless accusations against China on cybersecurity and other related issues.”
+
+Also Read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

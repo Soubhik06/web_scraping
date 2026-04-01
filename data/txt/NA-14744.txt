@@ -1,0 +1,75 @@
+âUpar wala sab kuch dekh rha haiâ (The one above is watching everything) is the tag line of an ad campaign run by CP Plus : a Noida-based CCTV (Closed Circuit Television) surveillance equipment provider.
+
+Here, one must note that CCTV surveillance has long been a subject of debate, with concerns over overreach and legitimate security needs. Government agencies often require the use of cameras in public spaces. However, as the DPDP Act is now operationalised with the finalisation of its Rules , relating to CCTVs, the main questions relating to CCTVs are:
+
+Even if the purpose for installing CCTV is clearly defined, how can consent be effectively obtained in a CCTV environment, especially when the individual is not aware of the camera-based surveillance?
+
+And how can consent work, particularly in community or commercial spaces where the flow of visitors can be significantly higher, making the individual consent-taking mechanism practically infeasible?
+
+Recently in Gujarat, CCTV footage of pregnant women getting injections at a maternity hospital were leaked online, and this content was allegedly put up for sale on Telegram groups: which is increasingly becoming a hub for illegal content, including porn, non-consensual sexual imagery, and pirated movies as well.
+
+One must note that facial information is considered the most sensitive biometric information, requiring a high level of due diligence for protection. However, when it comes to CCTV footage content, the concerns of protecting citizens’ rights when such footage violates their privacy become even more apparent with the ever-increasing number of cameras and the growing demand for illicit content in niche corners of the internet.
+
+Therefore, the question that remains is: How will the DPDP Act impact CCTV deployment, and what recourse can data principals follow in the event of CCTV-related data breaches and data leaks?
+
+India doesn’t have a single definitive law governing CCTV footage and its data. Generally, CCTVs fall under the Information Technology Act, 2000 (IT Act) and the IT (Reasonable security practices and procedures and sensitive personal data or information) Rules , 2011.
+
+However, as CCTV videos contains facial data that the rules classify as biometric information, the DPDP Act covers CCTV data and aims to protect peopleâs personally identifiable information.
+
+So if facial data falls under the DPDP Act, does that make CCTV companies, whether they offer cloud-based or local systems, data fiduciaries?
+
+Answering this question, Anubhab Sarkar, Managing Partner at Triumvir Law, clarified that, âCCTV companies, vendors, providers are not Data Fiduciaries when they merely supply equipment, maintain systems, or store footage.â
+
+While referring to Section 2 (i) of the Act â which defines a data fiduciary as the entity that determines the âpurpose and means of processing of personal dataââ Sarkar said that âIn the context of CCTV systems, the entity or individual that decides to install the cameras, determines the purpose of monitoring, selects their placement, and sets the rules for how the footage will be used and retained, will be treated as the Data Fiduciary.â
+
+âThis would typically be the organisation operating the premises, such as a hospital, commercial establishment, etc., rather than the CCTV vendor or service provider,â he added.
+
+However, if a company uses either CCTVâs cloud services or any other third-party services, it can be classified as a data processor. Sarkar clarified that Section 2(k) classifies such CCTV providers or vendors as data processors when they assist the data fiduciary in processing personal data.
+
+This effectively means that every step that involves CCTV footage, from recording and storage to internal sharing or sending it to a third party, constitutes processing.
+
+Section 5 of the DPDP Act, requires a data fiduciary to issue a notice before or at the time it seeks consent, including for data processed before the Act took effect.
+
+This notice must inform the data principal about the personal data the fiduciary will process, the purpose of that processing, how to withdraw consent, how to seek grievance redressal, and how to file a complaint with the Data Protection Board. Notably, the data fiduciary must provide the notice in English or in any language listed in the Eighth Schedule.
+
+Supporting this provision, Rules 3 (b) and (c) of the DPDP Rules require the notice to use :
+
+However, despite the clear understanding that facial information recorded and processed within a CCTV footage falls under the DPDP Act, the aspect of taking consent from every individual becomes impractical and nearly impossible.
+
+âObtaining express, individual consent for CCTV surveillance according to the manner stipulated by the Act and the Rules is not feasible. The Act does not provide any specific mechanism for CCTV-based consent,â explained Sarkar.
+
+Additionally, he suggested that public notices at physical entry points which inform people that CCTV surveillance is in operation can be a feasible workaround for most organisations that frequently witness a high volume of people.
+
+Section 12 of the DPDP Act grants every data principal the right to request a data fiduciary to erase their personal data once the purpose for data collection and processing is fulfilled or when the person withdraws their consent. This right stands as long as another law does not require the data to be retained.
+
+Additionally, Section 11 of the Act entitles individuals to demand a summary of the personal data being processed and details of the data processors or other data fiduciaries with whom that data has been shared.
+
+âAlthough the right to erasure applies in principle, exercising it in relation to CCTV [footage] recorded in public spaces presents several practical and statutory limitations. Public-space CCTV systems are generally installed for security, safety, and law-and-order purposes,â remarkedd Sarkar, while referring to Section 17 of the DPDP Act.
+
+For context, this section specifies conditions in which the rights of the data principal, including erasure of personal data, shall not apply. These include conditions:
+
+âAs public CCTV [cameras] are typically deployed for these very purposes, operators, especially State authorities, may lawfully retain and process footage notwithstanding an erasure request,â Sarkar reiterated, emphasising the municipal and police guidelines that mandate retaining CCTV footage for a specific period of time.
+
+âFirstly, as of today, the Act will not help you because it is not fully enforced. No one effectively has an obligation under that Act until 2027,â Shreya Suri, Partner at CMS IndusLaw, gave a heads-up before explaining the possible recourse that a data principal can follow.
+
+Referring to the above-mentioned Gujarat incident for illustrative purposes, Suri said that once the Act is enforced, the data breach victim’s primary remedy would lie against the hospital, not against the CCTV vendor. If the patient did not know they were being surveilled, they can first file a grievance with the hospital and ask what steps it will take to address the breach. And if the hospital fails to resolve the complaint, the patient can approach the Data Protection Board, which will investigate the hospitalâs data-governance practices.
+
+Suri also said that if an inquiry reveals multiple violations, the hospital can face significant penalties, including up to Rs 250 crore for a data breach, and additional fines for other violations. She added that the hospital may later rely on its contracts, such as indemnities with the CCTV company, to recover some of its liability if it can show it took all reasonable steps.
+
+Apart from the possible Data Protection Board-related remedies, Suri explained that the IT Rules (2021) can also offer recourse as they require intermediaries, including social media and messaging platforms such as Telegram and Instagram, to remove unlawful content once a court or an authorised government official serves a notice.
+
+Suri said that Sections 7 and 17 allow for limited exemptions, such as when employers may process employeesâ personal data to prevent the loss of trade secrets, corporate espionage, or other classified information. However, employees must consent if this falls outside the scope of the employment conditions
+
+However, if an employer uses CCTV solely to track productivity, Suri said they must demonstrate a legitimate need. âIf it is only to track productivity, the company need to have justifiable reasons for why that is required,â she remarked, while emphasising the importance of taking consent or informing individuals that they are under surveillance.
+
+In this context, Suri further explained that people walking on the street do not expect anyone to photograph them and post their images elsewhere. But notably, once someone blurs a face and removes any possibility of identification, the footage no longer constitutes personal data.
+
+Here, she also noted that some exceptions do apply: such as investigations conducted by law enforcement agencies or for research purposes.
+
+Also Read:
+
+NOTE: The last sentence in the first paragraph of the last section titled “Can you install public CCTVs without the consent of citizens?” was updated at 17:52 pm on 21-11-2025.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

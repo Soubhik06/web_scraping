@@ -1,0 +1,81 @@
+A leaked draft of India’s new e-commerce policy wants a new e-commerce regulator that has access to source code and algorithms to mitigate biases, wants access to non-personal data for law enforcement and taxation purposes, country of origin labels and much more. The document, shared with MediaNama by two industry sources, carves out huge mandates for e-commerce companies to share non-personal data with the government and muddies waters related to data localisation, mirroring and storage even further.
+
+The policy, despite talking about an e-commerce regulator does not specify if it will be a new regulatory body, and if so, under which ministry. All it says is that “any non-compliance e-Commerce entity/platform will not be given approval to operate in India. Necessary mechanisms may be put in place by Ministry of Electronics and Information Technology (MeitY) and the other government departments concerned [sic]” (§12.2).
+
+It acknowledges law and order, revenue base erosion, privacy, anti-competitive behaviour, consumer protection, national security, counterfeit products, piracy, copyright infringement, etc. as issues that the need to be addressed.
+
+This draft, from the Department for Promotion of Industry and Internal Trade (DPIIT), comes more than a year after it released the first draft of India’s National E-Commerce Policy . The Economic Times had first reported this, and Financial Express and Bloomberg have reported on similar aspects of the policy. MediaNama reached out to DPIIT repeatedly on Friday and Saturday to authenticate the document, but haven’t heard from them yet. We will update the story once they respond.
+
+Here is a summary of the policy (our comments have been italicised ):
+
+E-commerce, or electronic commerce, or digital economy (used interchangeably in the policy) will “include buying, selling, marketing, distribution or providing access to (1) goods, including digital products, or (ii) services; through any electronic network for a price”. The draft acknowledges that there is “no universally accepted definition of e-commerce”.
+
+E-commerce entities include, but are not limited to, B2C/B2B e-commerce marketplaces, internet-based consumer facing content platforms, app-based e-commerce, IoT/connected device-based services, and a hybrid combination of any of the above. This means that apart from Amazon and IndiaMart, companies and products like Amazon Prime Video, Netflix, and Alexa-based services will be considered e-commerce entities.
+
+E-commerce data is any data arising out of e-commerce.
+
+Consumer includes a person whose personal information is collected or harvested by an e-commerce entity.
+
+The new e-commerce legislation will cover all e-commerce-related issues that cannot be/are not being addressed by existing regulators or government bodies. As per the draft, the policy would be equally applicable to entities with foreign and domestic investments. It may ask e-commerce companies for “any information” that is “appropriate or necessary for compliance”.
+
+The policy calls data “a national resource” that e-commerce entities use to build their data. It is, as per the document, as important as “intellectual capital (intellectual property) or industrial capital (funds)”.
+
+Data can be leveraged for market dominance: The policy recognises that greater access to data means more potential for an entity to leverage “network effects” for success.
+
+Read: E-commerce companies now have to identify the ‘country of origin’ for all products: Report
+
+Unhindered government access to commercially viable information: Any e-commerce regulation needs “to enable the government to have speedy access to data flowing on e-Commerce platforms that operate in the country” for issues related to security, law and order, law enforcement, taxation and safety of individuals. The government will not be required to pay for access to such data (§3.2).
+
+All requests for information made by law enforcement agencies will have to complied with within at most 72 hours (§11.3).
+
+Under §3.4, the policy also states that the government can ask all e-commerce sites and apps to provide “access to commercially viable/useful information” for the development of any industry, e-commerce, consumer protection, national security, and law enforcement (including taxation and other extant laws).
+
+These are reminiscent of Sections 35 and 91(2) in the Personal Data Protection Bill, 2019 that allow the central government to exempt its agencies from the Bill for security, public order, law enforcement, etc. and  seek to allow the central government to solicit anonymised personal data or non-personal data from any data fiduciary or processor for “better targeting of delivery of services or formulation of evidence-based policies by the Central Government”, respectively. These two particular clauses have already received significant pushback from industry bodies and civil society . The draft e-commerce policy in fact expands the grounds on which the government can solicit data, personal and non-personal, from e-commerce companies in particular.
+
+Government access to source code and algorithms to prevent bias: The government might be able to seek disclosure of source code and algorithms for e-commerce “to ensure that there are no biases used and they there are no discrimination due to digitally induced biases [sic]” (§11.5). As per the policy, this is “especially true” when AI is used in e-commerce where “it is important to have explainable AI”.
+
+Government can bar a company for security reasons: The legislation will allow the government to “review, investigate and take action” when it feels that the entry of a player in the Indian market, or certain e-commerce activities lead to a security risk (§11.6).
+
+Clause 3.3: “Creating high value digital products require access to data. Without having access to the significant amount of data that would be generated within India, the possibility of Indian business entities creating high value digital products becomes bleak. Domestic technology companies would be merely processing outsourced data. In addition, many future jobs such as data analytics are dependent on availability of data. However, at this juncture, there is no legal framework that would permit the government to safeguard domestic data from moving out through cross-border data flows.”
+
+However, this clause assumes that if cross-border data flows are stemmed so that data collected within India does not go outside the territory of India, it will be enough to allow companies access to data for processing purposes. But is it not reasonable to expect that other countries will also reciprocate by not allowing their data to be processed within India or by Indian companies, thereby causing more harm?
+
+Similarly, to safeguard national security, an unspecified “appropriate authority” can restrict cross-border flow of “potentially commercial data pertaining to defence, medical records, biological records, cartographic data, as well as genome mapping, without authorization” (§3.5). Other areas of “significant concerns” will be identified by the authority concerned. Under §11.2, the legislation will empower the concerned regulator/department “to identify information which shall be restricted for harvesting, storing, use, transfer, assignment, processing, and analysis or shall be harvested, stored, used, transferred, assigned, processed and analysed subject to certain conditions”.
+
+It is not clear who the appropriate authority is over here. Health data, genetic data and biometric data are sensitive personal data under the Personal Data Protection Bill, 2019, but cartographic data has no special status. Under Sections 15 and 33 of the Bill, the central government would classify more categories of data as either sensitive or critical personal data, respectively. Does this mean a new regulatory authority, apart from the Data Protection Authority under the PDP Bill, would do such classification for e-commerce? It is also not clear who will authorise the cross-border data flows of commercial data in the case of e-commerce. Under Sections 33 and 34 of the PDP Bill, such decisions would fall to either the DPA or the central government.
+
+Government to define categories of e-commerce that require mirroring or localisation: This process will happen in consultation with “relevant” stakeholders. This is in addition to such requirement under the Information Technology Act, 2000, “as well as any future legislation on personal and non-personal data governance” (§3.5). The government will also have the right to mandate localisation of Indians’ data (§11.4).
+
+It remains to be seen if the DPA, meant to be established under the PDP Bill, 2019, would be a part of such discussion.
+
+Audits of companies storing/mirroring data abroad: When companies store/mirror permitted categories of data abroad, they would have to ensure adequate safeguards at the data storage location through a “comprehensive periodic audit” that will be conducted by an Indian entity (owned and controlled by residents Indians). Such companies will have to furnish a certificate of adequacy and comprehensive report to the “appropriate authority”.
+
+It is not clear who this appropriate authority will be. Under the PDP Bill, when such data audits are conducted by the significant data fiduciaries, these data audits will be carried out by data auditors assigned by the DPA.
+
+Through the draft policy, there is recognition that certain e-commerce entities have assumed dominant position in the Indian market and thus need to be curbed.
+
+Clause 7.1: “By the nature of e-Commerce activity, there is a tendency for one or two strong companies to emerge as leaders and exercise control over the big part of information repository. This leads to emergence of monopolistic tendencies and subversion of competition.10 The greater benefits of e-Commerce can be reaped only when the field remains competitive and barriers to new entrants are minimized.”
+
+As a result, the draft policy wants:
+
+Read: ‘Flipkart abuses its dominant position,’ online vendors tell NCLAT
+
+The policy will aim to establish India as a hub of data centres and server farms through tax breaks, low cost of power and space, quality and nature of power and fibre capacity (§3.7, §3.8) so that computing services and data storage services can be identified as key export for India.
+
+If e-commerce companies doesn’t deliver information in time, violates directive and orders or causes injury to consumer, it will be penalised. The new legislation will include the costs and penalties (§4.4).
+
+Minors’ rights will be protected through “legislative intervention” as currently, only users who are above 18 years can enter into valid contracts under the Indian Contract Act, 1872.
+
+Transactions for all e-commerce entities, including foreign ones that create token to pay service providers, must go through regulated channels such as the Liberalized Remittance Scheme (LRS), prepaid wallets or RBI-authorised online payment gateways (§12.4).
+
+To promote cross-border trade for MSMEs, that, as per the policy, could increase CBT revenue in B2C category by 4 times (if 2.5 lakh MSMEs move into cross-border trade in the next four years). To do that, the government will:
+
+Note that in the draft policy, clauses 9.1 to 9.5, under “Strengthening e-Commerce in India” are missing. Clauses 9.6 to 9.8 are there.
+
+Update (August 27, 2020 11:29 am): Reordered the first the paragraphs. Originally published on July 3 at 6:48 pm.
+
+Updates: An earlier version of this story said that the policy has been released. That is not the case: the policy has not been formally released by DPIIT. The first paragraph and the headline have been edited to reflect this change. Our apologies for the error.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,43 @@
+The Securities and Exchange Board of India (SEBI) issued a framework for operationalising the Past Risk and Return Verification Agency (PaRRVA) to validate the risk-return metrics claims made by financial service providers. SEBI first announced the PaRRVA initiative in December 2024 to verify the performance claims made by investment advisors (IAs), research analysts (RAs), and algo providers.
+
+Notably, SEBI amended various guidelines to enable algo providers and other regulated entities to avail themselves of PaRRVA services. To explain, SEBI’s guidelines for stock brokers providing algorithmic trading services initially prohibited them from making references to the past or expected future performance/return of the algorithm. However, these restrictions will not apply to references of risk-return claims on algorithmic trading, which have been verified by PaRRVA in a manner stipulated by SEBI.
+
+Further, SEBI amended specific provisions of the Master Circular for IAs and RAs, which barred them from referencing their past performance in their advertisements. Akin to stock brokers, these entities can now make claims referencing their risk-return metrics, provided PaRRVA validates them.
+
+As per SEBI’s circular, credit rating agencies (CRAs) can register as PaRRVA. For context , such entities assess the ability of issuer companies for timely payment of interest and principal on a debt instrument. For a CRA to function as a PaRRVA, it must have existed for at least 15 years, have a minimum net worth of Rs 100 crore, and maintain an investor grievance redressal mechanism, such as an online dispute resolution (ODR) system. Entities should also have provided ratings of listed or proposed debt securities to 250 or more issuers.
+
+Further, recognised stock exchanges (SEs) functioning as PaRRVA Data Centres (PDC) should engage with registered CRAs. To be eligible as a PDC, stock exchanges should have existed for a minimum of 15 years, have a net worth of at least Rs 200 crore, and have nationwide terminals and an investor grievance redressal mechanism as outlined above. PaRRVA acts as the principal, utilizing PDC’s verification services, but it holds full responsibility for the overall process.
+
+CRAs can be recognized as PaRRVA following a two-stage process of receiving an in-principle approval and later the final recognition. SEBI will also conduct a pre-recognition site visit, ensuring that the CRAâs systems comply with the Cybersecurity and Cyber Resilience Framework (CSCRF), and carry out an audit before granting the final recognition. Entities performing as a PaRRVA would function on a two-month pilot period, during which they can undertake fine-tuning of their technological systems.
+
+The market regulator mandates that CRAs interested in being recognised as a PaRRVA should develop a verification system and methodology in correspondence with the recommendations of a technical group and the oversight committee. SEBI constituted this technical group to outline the operational framework for the verification process and it comprises representatives from market infrastructure institutions (MIIs), CRAs, stock brokers, mutual funds, IAs, and RAs.
+
+PaRRVAs should undertake the following responsibilities:
+
+Further, PDCs shall fulfil the following functions:
+
+SEBI also outlined that these responsibilities are not exhaustive and are subject to evolution.
+
+As noted previously, the PDC shall conduct the verification work as an agent of the PaRRVA. To explain, the PDC shall first receive and store the required data for verification from MIIs and the Association of Mutual Funds in India (AMFI) through API or file upload systems. Next, IAs and RAs should share their advice/recommendations with the PDC either simultaneously (while engaging with clients) or at the end of the day through an API. While the PDC would house the verification system, including the server and technology, the PaRRVA shall mandate the verification methodology and verified output. PDCs shall consume the input data, provide the verified output in the stipulated format and display the risk-return metrics on its website alongside adequate disclosures or disclaimers.
+
+These disclaimers include statements like ‘past performance is not indicative of future results’, ‘the listed information does not intend to provide any professional advice or suggestion to subscribe to an intermediary’, ‘verified returns do not guarantee assured returns’, etc. The disclaimer should also mention that while verified risk-return metrics represent historical risk-returns, there is no guarantee on them accruing similar risk-returns in the future owing to factors like market volatility and change in economic conditions.
+
+SEBI’s circular also details several guidelines to prevent the misrepresentation of verified risk-return metrics as follows:
+
+Notably, SEBI requires the PaRRVA to include the following conditions in the basic contract with its clients, and the PaRRVA must also form systems and processes for addressing any breach of the norms mentioned above. These guidelines, if violated, would also amount to necessary enforcement action under the SEBI (Intermediaries) Regulations, 2008.
+
+Among other responsibilities, the PaRRVA should, within two months of receiving SEBIâs in-principle nod, form an oversight committee monitoring its activities and those of the PDC. The committee shall consist of non-independent directors of the above two bodies, public interest directors of the PDC (one of whom shall become the committee’s Chairperson), representatives of intermediaries, and one member from a SEBI-recognised investor association.
+
+The responsibilities of the oversight committee include:
+
+Besides the oversight committee, SEBI can also undertake the inspection of the entities and undertake necessary enforcement proceedings.
+
+This move comes at the heels of rising fraud menace and the market regulator ramping up its efforts to clamp down on the same. In March 2025, SEBI mandated its registered intermediaries to verify themselves before uploading advertisements on social media platforms. The board has also previously cautioned investors against engaging with unauthorised platforms or social media forums conducting illegal online activities. Besides this, SEBI has barred ties between unauthorised finfluencers and its regulated entities on multiple occasions.
+
+Recently, the regulator has also clamped down on misleading claims, having removed a plethora of misleading social media posts and handles and also fined a wealth advisory firm for its exaggerated YouTube captions. Talking about PaRRVA, SEBI established it as a performance validation agency (PVA). According to a 2023 consultation paper , the PVA was established based on an increased demand from registered intermediaries to display their performance and enhance their credibility before investors. This mechanism would enable intermediaries to disclose their performance to investors and safeguard investors against unverified claims. While the move aims to boost investor confidence, the concerned entities must now demonstrate whether they can make the data-sharing model work effectively and navigate the PaRRVA-PDC framework.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,75 @@
+This component of the tender might make up only a small portion of it but experts rightfully point out that its broad scope and vague terms are just as concerning in terms of privacy.
+
+This is the last of a four-part series. You can read the other stories here .
+
+You are reading it here first: In Lucknow, if you are identified as a “suspicious entity” or someone indulging in a “suspicious activity” by hundreds of facial recognition cameras, chances are that others “associated” with you may also be identified along similar lines using databases.
+
+As part of the Lucknow Safe City Project, the Uttar Pradesh government is looking to establish a data analytics framework that seeks to identify relationships between “entities” by leveraging different databases available with the government.
+
+This data analytics framework solution, according to a tender published by the UP government for selecting a system integrator for the Safe City Project, would be used in developing a “ crime intelligence platform ” that —
+
+Why it matters : The various specifics for the establishment of the data framework are concerning because the tender does not mention which datasets would be used for establishing these relationships, and who specifically would be a target of the analyses done by the framework. This essentially leaves a lot of room for possible misuse in terms of invasion of a person’s privacy.
+
+With specific queries in this regard, MediaNama reached out over email to the Home Secretary of the Uttar Pradesh government who, according to the Union Ministry of Home Affairs website, is the nodal officer for the Safe City project in Lucknow. On August 16, we also reached out over email and telephone to Neera Rawat, the Additional Director General of Police in the Women Power Line 1090 section of the UP Police, who is spearheading the project in the police department. We were later told by those in her office that she won’t speak to us. [ We have attached our queries regarding this at the end of the report ]
+
+This proposed data analytics framework is part of a larger surveillance setup which involves the establishment of a command and control centre where surveillance from all over the city will be amassed through facial recognition-enabled CCTV cameras, AI-based video analytics, etc. This command and control centre is pitted to be the epicentre of the UP Police’s surveillance measures in Lucknow as part of the Safe City Project.
+
+To meet the safe city requirements, a framework is proposed which contains capabilities to manage and store data, intelligence and analytics engine to monitor suspicious entities and activities (emphasis added), and a web-based investigation interface to evaluate alerts, along with a visualization and reporting solution which monitors overall operations and provides insight — Data Analytics segment of the Lucknow Safe City Project tender
+
+It is important to note that the UP Police does not state that the framework will monitor crimes but that it will detect “suspicious entities and activities” which broadens the scope of surveillance. Shweta Mohandas, a policy officer at the Centre for Internet and Society pointed out that it was unclear what “structured sources” the data framework would analyse.
+
+“In terms of privacy this lack of clarity and transparency would mean that people might not even know they are being investigated in view of a perceived relation with another person. Additionally, this could lead to profiling based on information derived from the data analytics. It might also happen that people who might have been wrongfully profiled by the system might still be recorded and remain in the records of the law enforcement even after the person’s involvement in said “suspicious activity” has been cleared,” Mohandas said.
+
+Apart from the points mentioned above, the crime intelligence platform that will be developed using this data framework will also —
+
+While pointing out that the usage of algorithms and analytical techniques was not yet proven to prevent, predict, or solve crimes, Rishi Anand, Partner at DSK Legal said that there will be multiple challenges ahead in terms of privacy issues, etc.
+
+Challenges lie ahead not only with respect to the biased data that may be fed into the algorithms and replication of the underlying problems of the criminal justice system (such as targeting of specific religious communities, ethnic origins, etc.), but also with the spill over effect of such technology on privacy and civil liberties of the individuals. In Indian context, problem perplexes with the fact that unlike EU, there are no comprehensive legislations regulating artificial intelligence and data protection in India — Rishi Anand, DSK Legal
+
+Dear Reader,
+
+MediaNama’s work of covering the key policy themes that are shaping the future of the Indian Internet is made possible by support from its subscribers. If developments in technology policy are key to you or your organisation, we urge you to subscribe to MediaNama to support our journalism.
+
+Please subscribe here .
+
+In the first story of this series, we had highlighted how artificial-intelligence-based CCTV cameras in Lucknow will detect around 40 suspicious activities that the UP government had listed. However, these scenarios often end up being vague and in a few cases, not making much sense. Few of them are —
+
+You can find the other scenarios listed here .
+
+Apart from this, the UP government plans to deploy drones as a last-mile connectivity apparatus for the Lucknow Police. The reasons mentioned in the tender for drone usage go beyond stopping crimes against women — the stated reason behind the introduction of the Lucknow Safe City project. The UP government said that the drones will be used —
+
+You can find the other reasons for the deployment of drones here .
+
+If the Lucknow Safe City Project is solely being brought in to combat crimes against women, it is hard to understand what kind of “unscrupulous elements” the UP government is looking to detect, and why “rallies and rasta roko”, which are forms of protests, are going to be surveilled with the help of drones.
+
+These surveillance systems coupled with facial recognition will generate alarms based on what is detected, and an incident management operator at Integrated Smart Control Room (ISCR) of the Lucknow Safe City Project will have to validate the alerts by verifying image and video associated with the alert, the tender said. Only then can the matter, if any, be escalated.
+
+The ISCR will also integrate with existing surveillance projects in Lucknow such as the Smart City Project, Drishti Project, and Jio Cameras — a separate CCTV system comprising Jio cameras, according to a tender published by the Uttar Pradesh Government for selecting a system integrator for the Safe City Protect. Read more about ISCR and its integration with Jio cameras here .
+
+For the Safe City Project and all the databases involved, the Uttar Pradesh government has proposed an end-to-end security model.
+
+The data is critical and therefore the data should be highly secured and must reside within India . Encryption capabilities in storage shall be required for maintaining the data. The System Integrator needs to provide required support — the tender
+
+These are the other security measures proposed in the tender —
+
+Apart from this, it said that daily videos captured through CCTVs should have to be backed up for a minimum of 120 days. For the first initial 30 days, it will be moved to a “hot tier archive” from where the videos will be immediately retrievable based upon request, the tender said. After 30 days, the data will be moved to archival storage, which can be retrieved after placing requests.
+
+Data recovery : Keeping in mind there may be incidents that may cause loss of data, the tender has proposed that all data would be stored in a data centre and a copy of it should be in a disaster recovery center (DRC).
+
+“System Integrator would be required to establish the cloud Disaster Recovery Centre on cloud environment. In case of a disaster or failure of the data center, 5% of video feed shall automatically switch to the DRC and it will take over the function of the Data Centre,” the tender said. Apart from that, the DRC will also have Ministry of IT-empaneled IT computed infrastructure, storage, network, and security components, the tender added.
+
+A reading of the UP government’s proposal for the data analytics framework shows that it has similarities in part with the Telangana government’s Samagra Vedika platform which hosts 360-degree profiles on every citizen. Created in 2017, it allows the State to verify or check citizen data from about 25 departments without making use of Aadhaar, according to LiveMint .
+
+According to another report by Huffington Post , the Telangana government offered this technology to the Union government in 2018, weeks after the Supreme Court significantly curtailed the use of Aadhaar for applications that infringed upon the privacy of citizens.
+
+The usage of the database was also reportedly criticised in a 2020 study published by the Mozilla Foundation . Former Mozilla fellow Divij Joshi had stressed the need for more critical interrogation behind the functioning of databases.
+
+In the Data Analytics segment of the tender, it talks about developing a framework that can do “structured information parsing and extraction that enables the system to read and extract key information from structured sources” and “Link analysis and network analysis to associate relationships between and amongst entities”.
+
+Also read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

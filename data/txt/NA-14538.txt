@@ -1,0 +1,41 @@
+The Reserve Bank of India (RBI) has imposed a monetary penalty of Rs 65 lakhs on AP Mahesh Co-Operative Urban Bank for not adhering to the cyber security norms set by the central bank – the Hyderabad Police tweeted on July 1.
+
+The fine follows the investigation carried out by the Hyderabad Police on the hack at AP Mahesh Bank that took place last year, as well as RBI’s investigation of the bank.
+
+“The IT examination of the bank by RBI and an Investigation Report conducted in reference to a cyber security incident revealed inter alia, that the bank had failed to put in place certain mandated controls which led to the cyber security incident,” the central bank stated in a press release dated June 19.
+
+Negligence comes at a cost!
+
+Last year, @hydcitypolice Cyber Crimes Wing investigated the hacking incident at AP Mahesh Co-operative Urban Bank, revealing the bank's blatant disregard for Cyber Security norms set by @RBI .
+
+Due to these lapses, a staggering amount of Rs. 12.48… pic.twitter.com/LgR9InKCDU
+
+— Kothakota Sreenivasa Reddy, IPS (@CPHydCity) July 1, 2023
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with top stories from MediaNama and around the world, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Why does this matter: RBI’s action against AP Mahesh Bank for lax cybersecurity practices should serve as a cautionary tale for others, given the rise in the number of cyberattacks targeted at financial entities: In 2021, Punjab National Bank reportedly exposed the personal and financial data of over 180 million customers, in 2022, sensitive data of 1.2 million cardholders , including customers of State Bank of India, was reportedly leaked, and most recently, in March this year, HDFC Bank’s subsidiary HDB Financial Services suffered from data breach containing personal and financial data of thousands of loan borrowers.
+
+What norms did AP Mahesh Bank violate: According to RBI, AP Mahesh Bank was found to be in non-compliance with the following cybersecurity directions issued by RBI:
+
+What happened in the AP Mahesh Bank hack last year: In January 2022, AP Mahesh Bank revealed that cybercriminals hacked into the servers of the bank and siphoned over ₹12 crores to over a hundred different accounts. Upon discovering this, the Bank filed a complaint with the Cyber Crime police in Hyderabad.
+
+In March 2022, the Hyderabad police revealed that the hack was due to the negligence of the bank, its employees, and its poor cybersecurity infrastructure. While the police arrested over 22 people from across the country in connection to the hack, the main accused remained elusive.
+
+“The main hacker, Nigerian, who we think is in London, sent about 200 phishing mails on November 4, 10, and 16 last year from his computer to Mahesh Co-operative bank employees. After sending the emails, he waited for a little bit, and then two employees of Mahesh Bank clicked on the link. In the link, there was a Remote Access Trojan (RAT) virus.  After clicking it once, the hackers had access to the bank’s systems,” Hyderabad City Police Commissioner CV Anand explained.
+
+We’ve covered the modus operandi used by the hackers in more detail here .
+
+How bad were the cybersecurity practices at AP Mahesh Bank? Hyderabad Police last March listed the following bad cybersecurity practices at the bank:
+
+The Hyderabad Police chided AP Mahesh Bank for spending only Rs 10 lakhs on cybersecurity while other banks spend thousands of crores.
+
+“Generally, there are two-three master admins in every bank. However, Mahesh bank had about 10 master admins due to carelessness. They also used common user IDs and passwords. These 10 super admins can access the bank’s database — customers, bank accounts, details about how much money are in these accounts and so on.” — Hyderabad City Police Commissioner CV Anand (March 2022)
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

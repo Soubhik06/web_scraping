@@ -1,0 +1,90 @@
+SUBREDDIT: r/india
+TITLE: No one cares that Adani invested in Adani using some Bermuda funds
+DATE: 2023-09-06
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/16bd7eq/no_one_cares_that_adani_invested_in_adani_using/
+
+--- POST TEXT ---
+
+Adani Group is a multinational conglomerate comprising a bunch of Adani companies, seven of which are publicly listed. Adani is controversial. There are some political reasons for this, which I probably don’t need to get into, but also because of some financial reasons. One big financial reason for his controversy is that Adani (the person) owns too much Adani (the companies) stock.
+
+I’ve [narrated this story before](https://boringmoney.in/p/adani-stocks-only-go-up). If you want to buy, say, 80 shares of a company, but if there are only 20 shares available in the market, you’re going to have to keep increasing the price you’re willing to pay for those additional 60 shares. Your hope is that if the price hits a certain sweet spot, there would be more sellers that show up. You hike the price you’re willing to pay, until there are sellers willing to sell. It's just the standard way any market works.
+
+If you’re the company whose shares are listed on the market, one (illegal) way for you to push your stock price up is by just buying up all the shares available to be sold. If you own most of the shares, other buyers will show up, but there won’t be any stock to sell. So the buyers will offer more, and your stock price will go up so long as someone is motivated enough to bid.
+
+This really has been the story of Adani Group all along. Officially, *legally,* Adani owned only about 75% of his companies, the maximum legal limit. But unofficially, *illegally,* the claim goes that he owned more than 90–95% of his companies using some Mauritius-based funds as proxy. Because of which Adani companies’ stock prices went up, up, up, more than 1500% in 5 years.
+
+The deal with these Mauritius-based funds is that no one really knows who owns them. Everyone’s guessing. Anyway, [here’s the Financial Times](https://www.ft.com/content/8d46b435-9725-46d4-80be-2cb3e276c4c9) last week filling in some blanks and giving us some names:
+
+&gt;From the outside, the Global Opportunities Fund in Bermuda looked like any regular investment fund: broad, bland, and uncontroversial. 
+&gt; 
+&gt;On the inside, however, two men were using the fund for a specific purpose — to amass and trade large positions in shares of the Adani Group, one of the biggest and most politically connected private conglomerates in India. 
+&gt; 
+&gt;The two men — Nasser Ali Shaban Ahli from the United Arab Emirates and Chang Chung-Ling from Taiwan — are associates of Vinod Adani, brother of the conglomerate’s founder Gautam. Their investments were overseen by a Vinod Adani employee, raising questions over whether they were front men used to bypass rules for Indian companies that prevent share price manipulation.
+
+Bermuda? What happened to Mauritius? When I [wrote about Adani](https://boringmoney.in/p/adani-stocks-only-go-up) last year, and when Hindenburg [accused to Group](https://hindenburgresearch.com/adani/) of pulling the “largest con in corporate history,” it was all Mauritius. Suddenly there’s Bermuda? More from FT:
+
+&gt;Documents show that Ahli and Chang began their investments in Adani stocks in 2013, when the group sold equity to private investors to increase the public shareholding at its then three listed companies as regulator Sebi, the Securities and Exchange Board of India, sharpened enforcement of the 75 per cent rule. 
+… 
+According to the documents, in January 2017 Ahli and Chang secretly controlled at least 13 per cent of the free float — the shares available to be traded by the public — in three of the four Adani companies listed at the time, including the group’s flagship Adani Enterprises.
+
+Ah, got it. This was from 2013 to 2013. SEBI allows owners of publicly listed companies to own at most 75% of the company’s shares. Adani is accused of using some Mauritius funds to bypass this rule, but that’s more recently. FT, working alongside the Guardian and the Organized Crime and Corruption Reporting Project (what an intimidating name!) discovered evidence of Adani using some Bermuda-based funds in addition to the Mauritius ones.
+
+It’s fascinating that FT could even get hold of these documents. SEBI itself seems to be [having a tough time](https://www.thehindu.com/news/national/sebi-still-probing-13-overseas-entities-holdings-in-adani-group/article67236136.ece#:~:text=The%20Justice%20Sapre%20panel%20had%20said%20SEBI%20had%20%E2%80%9Cdrawn%20a%20blank%E2%80%9D%20and%20was%20in%20a%20%E2%80%9Cchicken%2Dand%2Degg%20situation%E2%80%9D%20in%20its%20investigation%20into%20the%20%E2%80%9Cownership%E2%80%9D%20of%2013%20overseas%20entities%2C%20including%2012%20Foreign%20Portfolio%20Investors%20(FPIs)%2C%20associated%20with%20the%20Adani%20group.) finding who owns these funds. But—and I don't like myself for saying this—who cares about these Bermudian funds? These two guys who ran the fund, Nasser Ali Shaban Ahli and Chang Chung-Ling, might’ve secretly owned Adani’s shares on behalf of Adani 6–10 years ago, which would be illegal, sure. But Adani’s share prices went up like mad (more than 16X) much more recently, after 2020.
+
+[Bermuda fund owned Adani stock from 2013 to 2018. But the main price rise in Adani companies’ stock came after 2020.](https://preview.redd.it/z65e74dz2lmb1.png?width=1650&amp;format=png&amp;auto=webp&amp;s=16b9558eb6118eeaf380eabbfc016010e824f162)
+
+FT goes into more detail, even figuring out how Adani got his money over to the Bermudian fund in the first place. Here’s what FT found Adani did:
+
+1. First, created a shell company in Dubai called Electrogen Dubai. This was, on paper, one of Adani’s business vendors. Adani paid this company more than $900 million.
+2. Electrogen Dubai then transferred this $900 million to Electrogen Mauritius, its parent company based in Mauritius (presumably because it’s easy to incorporate anonymously-owned companies there).
+3. Electrogen Mauritius then lent $100 million to some other Mauritian company, which was also owned by Adani. \[1\]
+4. This other Mauritian company then invested in the Bermudian Global Opportunities Fund!
+5. The Bermudian fund then invested back into Mauritius, by buying into two funds called Emerging India Focus Funds and the EM Resurgent Fund. (In case you’re wondering what’s up with these names, there’s really no significance. They’re just names that make the fund sound legit.)
+6. Finally, these funds invested that $100 million into Adani companies.
+
+Phew. This money has moved around quite a bit. FT does a good job summarising this journey in of its its section titles: India to Dubai, to Mauritius, to Bermuda, Mauritius again, then back to India. \[2\]
+
+# Investors love that the government loves Adani
+
+I’ve written this a [couple](https://boringmoney.in/p/adani-fraud-fpo-success-cancel#:~:text=If%20you%E2%80%99re%20a,be%20very%20happy.) of [times](https://boringmoney.in/p/adani-finds-an-investor#:~:text=I%20wrote%20earlier,for%20your%20investors.) now. I think it’s time I start maintaining a list of these repeatable themes. If you’re a company that’s accused of fraud, and one of those frauds is being on the receiving end of government favouritism, it’s usually good for your investors. You and your investors are going to make more money.
+
+In January, Hindenburg Research accused Adani of fraud, and Adani companies’ stock prices fell by more than 50%. In March, GQG Partners, a US-based investment firm with generally good credentials invested $1.9 billion in Adani companies. Since then GQG has invested a [few](https://www.thehindubusinessline.com/companies/gqg-partners-stakes-in-adani-enterprises-adani-green-rises-above-5-per-cent/article67031446.ece) billions [more](https://www.livemint.com/companies/news/adani-family-sells-1-1-bn-power-arm-stake-to-gqg-11692211781218.html) into them.
+
+Here’s me when GQG [first invested in Adani](https://boringmoney.in/p/adani-finds-an-investor#:~:text=Rajiv%20Jain%20likes,4):
+
+&gt;Rajiv Jain \[of GQG Partners\] likes that Adani could build infrastructure projects in a country where other multinationals couldn’t even acquire land in eight years. Yeah, I think what he’s saying is that he likes the “leniency” that Adani’s been getting from the government. And he’s willing to pay a higher price for the company because the benefits outweigh the costs.
+
+For GQG, presumably as with other investors, apparent government favouritism wasn’t a problem. It was the *reason* they invested in the Group in the first place!
+
+The Financial Times, apart from writing about the Bermudian funds, also wrote about how investigations into Adani were closed after the currently-in-power BJP government was elected.
+
+&gt;The DRI investigation into Electrogen was set aside by a senior official in 2017, a decision that was appealed internally and eventually endorsed by a tribunal: it found that contracts, which the DRI alleged had earned Vinod Adani profits of at least $900mn when Electrogen acted as a middleman between the Adani Group and its suppliers, were appropriately priced and conducted “at arm’s length”, and that bank records relied on by the DRI were inadmissible as evidence. 
+&gt; 
+&gt;A separate probe into an earlier scheme, an alleged circular trade in diamonds by Adani companies to illegally exploit government export incentive schemes, in which DRI documents mention Vinod Adani, Chang and a company represented by Ahli, was also closed without result in 2015.
+
+FT also added this fun bit:
+
+&gt;Sebi’s chair at the time left in 2017. In March this year he became non-executive chair of New Delhi Television (NDTV), owned by the Adani Group, which said he was an individual of “impeccable integrity”.
+
+SEBI is the market regulator. Adani had a bunch of investigations ongoing against him. There was probably some investigating for SEBI itself to do here. But nothing happened, and SEBI’s chairman from back then is now a director at one of Adani’s companies.
+
+One might look at this FT report and think, “Hey cool, we finally have some real evidence that Adani broke the rules and used some shady foreign investors to buy his own companies’ stock.” But one might look at this FT report and just as reasonably think, “Hey cool, the government *really* loves Adani. I should probably go buy some Adani stock.”
+
+Boy, this is definitely not investment advice.
+
+&amp;#x200B;
+
+**Footnotes**
+
+\[1\] The Financial Times could find the paperwork for only $100 million of the $900 million that Electrogen Dubai transferred to Electrogen Mauritius.
+
+\[2\] Here’s a funny bit from the same Financial Times report:
+
+&gt;Chang said “I know nothing about this” when asked if he was an Adani associate who secretly purchased shares for them. He declined to say if he knew Vinod Adani, suggested the reporter “might be AI”, and eventually hung up.
+
+“The reporter might be AI.” Chang was either extremely good or extremely bad at bullshitting and I’m unable to decide which.
+
+&amp;#x200B;
+
+*Original Source:* [*https://boringmoney.in/p/bermuda-funds-adani-invest*](https://boringmoney.in/p/bermuda-funds-adani-invest?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=adani+bermuda+funds)

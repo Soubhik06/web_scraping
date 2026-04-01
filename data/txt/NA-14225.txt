@@ -1,0 +1,11 @@
+A Twitter handle of anonymous hackers (who claim to be a group) by the name Lulzsec India have tweeted about a vulnerability involving 22,000 Aadhaar and PAN cards. They have refused to provide further information till the vulnerability is patched. The screenshot they have tweeted appears to show numbered folders and image documents of an Aadhaar card and the name “Kamlesh Tiwari” written by hand – which could be the scan of a signature.
+
+The breach does not appear to be a website vulnerability, but a poorly coded server related to PAN applications, that allows malicious hackers unlimited file management access over ftp. As of now, it is not known which server this information is on and the group refuses to reveal further details till the vulnerability is fixed. (Note: MediaNama is not publishing the link to the tweet, as it contains unredacted information about the Aadhaar in the image.)
+
+“We all live in country where cyber security made stronger only by court orders and useless statements of denial and not secure coding practices.” said Lulzsec India when approached via private messages for more information related to the breach.
+
+Other security issues reported by Lulzsec India include vulnerabilities that allowed logging into the Rajya Sabha server and that ISRO Bhuvan Mapper was running on 7-year-old server code and was vulnerable to all the security issues that had been revealed in that time.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

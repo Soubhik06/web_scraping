@@ -1,0 +1,57 @@
+American telecom giant AT&T once bricked a user’s phone after he lent it to a stranger in New York’s Central Park to call his family in Mexico, recounted Prashant Singh, Head of Product at Jar. He was speaking at MediaNama’s panel discussion event, “AI in Fintech,” held on April 24 in Bangalore.
+
+Singh informed the audience that when the user approached an AT&T service center, he discovered that by lending his phone to a stranger, he had unknowingly tripped a rule directed towards stolen cell phones.
+
+“And the rule is that if you haven’t made a call to Mexico, you are in Central Park, all of a sudden there’s a call which is more than three minutes, that means your phone has been snatched and stolen. And they brick the phone,” he said.
+
+Singh spoke about the difficulties many fintech companies face when collecting accurate data about users, as well as the various sources they rely on. He pointed out that people’s phone contact lists did not just contain an individual’s full name but could also provide additional information.
+
+“When you’re acquiring data from phone books or address books, the last name also contains the name of a company sometimes… Prashant Paytm. Suddenly you know that this guy has something to do with Paytm—maybe he worked there. Unless you explicitly link your LinkedIn account, this is a good enough proxy,” he said.
+
+However, collecting information this way also posed certain problems. “For example, we find a lot of last names as ‘Tinder.’ Now what would you make of it?” he asked.
+
+“So we’re getting inputs from the ecosystem here. This is a collaborative effort. The ecosystem players have suggested that we look at a negative list of people who have committed fraud and share that across the ecosystem at a first level. And then we use AI and ML to build out patterns to then start recognizing potential risk based on risk scores and so on and share that across the ecosystem,” said Kiran Gopinath, Chief Innovation Officer at Sahamati.
+
+He added that this project was still in its early stages, without stakeholder consensus on the specific metrics used to calculate potential risks
+
+Prashant Singh explained how they collected user data to determine the optimal times to send push notifications.
+
+“Essentially things like, what is the best time for you to send a notification to buy gold for somebody who has bought gold eight days back of 50 rupees?” he elaborated. “What is the copy which is most effective, based on the demographic and psychographic of the user? What works, what doesn’t work?”
+
+He stated that they mined extensive SMS data to understand a user’s concentration threshold—or the maximum amount they are willing to spend without thinking twice.
+
+Kiran Nambiar, the co-founder of MyFi explained how his platform collected data to provide investment recommendations to users.
+
+“We have combination of both mutual fund and stock data that we get on daily feeds and also the user’s portfolio, which is connected either through MF Central or some of these account aggregators as well. So it’s really pulling all that data and being able to give the user a more personalized answer to that question,” he said.
+
+Nambiar also explained how account aggregator bodies like Sahamati help analyze a user’s investment history.
+
+“Sahamati is basically your entire brokerage investment history. So what stocks you hold, ETFs, mutual funds, all of that information along with the current value. So we’re able to kind of analyze your portfolio and say it’s X percent split between small cap, large cap and mid cap, what your sector asset allocation is and all of that information, which then goes into some of these answers to questions that people are asking,” he said.
+
+Kiran Nambiar argued that the increasing ability of AI systems to process large amounts of unstructured digital data could help reduce bias in lending decisions. He explained, “The number of data points that you can take in unstructured is significantly going up, right? So, I hope that the biases will reduce because of that.”
+
+“Today, I think that’s because of limitation of the amount of data you have and the data points you use,” he said. He suggested that using a broader range of data points—beyond simple markers like a person’s last name or phone type—could lead to fairer outcomes.
+
+Amrita Sengupta, Research and Program Lead at the Centre for Internet and Society asked the panelists about their data collection practices. “What is the extent of data that is being collected? And what are certain consent and privacy-related considerations that you’re making?” she asked.
+
+Kiran Nambiar explained that for their generative AI models, particularly those used in conversational tools, largely generated their own training data. “We generate our own data for specific things, and we generate some synthetic data to kind of augment that,” he said. He added that they also refined their datasets by analyzing user questions that the system was previously unable to answer.
+
+For investment recommendation modules, the models relied primarily on public market data. They also conducted anonymized analyses of user portfolios—examining factors like sector or asset class allocations—without linking the data to specific individuals. “We come up with model portfolios for them. Then we do back tests in terms of how has this performed over the past 10 years, 15 years,” said Nambiar.
+
+Prashant Singh stated that they examined a broad range of contextual factors such as the time of day a transaction occurs, the transaction amount, and whether the customer is connected to Wi-Fi. “Because the chances are when you’re connected to a Wi-Fi, you’re more in mood of doing a considered purchase,” he said, referencing trends seen in the jewelry business.
+
+He also emphasized that none of this data is used at an individual level: “None of the data works on a granularity of one. We actually look at a group of people behavior and no personally identifiable information is used there.”
+
+Amrita Sengupta also asked the panel if they used any data from the Global North or from outside of India.
+
+Prashant Singh said that while they did not directly use foreign datasets, they did incorporate some “axiomatic assumptions” drawn from industry-wide knowledge. He gave an example: “It’s always good to give loan to women versus men because they are more disciplined.” He also mentioned that age-based guidelines were used to determine appropriate loan amounts.
+
+Watch The Full Event Here:
+
+This discussion is organised with support from CRED, PhonePe, RazorPay and in partnership with HasGeek, Sahamati Labs, Aapti Institute and IT For Change.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

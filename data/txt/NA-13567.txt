@@ -1,0 +1,37 @@
+MediaNama’s Take: The Cellular Operators Association of India’s (COAI) proposal to bind communication apps with SIM cards at all times raises multiple concerns. The first is the issue of jurisdiction – it is the Ministry of Information and Broadcasting (MIB) which governs telcos, companies that issue SIM cards, while so-called OTT services come under the purview of the Ministry of Electronics and Information Technology (MeitY). The COAI statement conveniently does not mention which government body should be in charge of issuing such a direction and enforcing it.
+
+Secondly, binding an OTT app to a mobile SIM card on a persistent basis could lead to invasion of privacy, like the continuous tracking of a user’s device and location. With persistent SIM binding, a user is basically logging into every single OTT app with their phone number, even if the app itself has no such requirement.
+
+There a few more pertinent questions:
+
+What’s The News: The COAI has called for all over-the-top (OTT) communication apps to bind with verified mobile SIM cards at all times, in response to rising digital scams and security threats. The association argued that this measure would enhance cyber fraud prevention and improve national security, fostering greater consumer trust, accountability, and traceability in line with existing regulatory frameworks.
+
+Currently, OTT apps only bind with a subscriber’s SIM card during the initial installation and verification phase. Once this process is complete, the app continues to operate even if the SIM card is later removed or deactivated. Instead the COAI proposed that OTT communication apps implement persistent SIM binding, meaning the app would remain linked to the authenticated SIM card even after installation. This would ensure that the service cannot operate without the SIM card physically present in the device, maintaining traceability between the user, the number, and the device.
+
+Indian mobile operators have already implemented various spam-prevention and security measures like CNAP (Caller name presentation) and other checks in line with the Telecom Commercial Communication Customer Preference Regulation (TCCCPR). These include explicit linkage between Telemarketers (TM) and Principal Entities (PE) (which are companies that use them to communicate with clients in bulk), A2P SMS header (which is a suffix attached to an SMS header indicating its type), content registration and keyword-based content screening of messages transmitted, and enforcement of Distributed Ledger Technology-based (DLT-based) suffix rules for transparency.
+
+The COAI claims that these measures are not fully effective at containing cybercrime as bad actors have shifted to OTT messaging platforms that can work independently of SIM cards, making them immune to telecom-level controls.
+
+Since OTT apps only bind with the SIM card during installation, cybercriminals can remove the SIM card after installing the app, severing any verifiable link to the SIM card — such as call records or location data — that could help identify the device or user.
+
+The COAI believes that such regulation could significantly reduce spam and fraud, as well as establishing a level playing field between app-based communication platforms and telecom operators.
+
+It is important to note here that while the term OTT can refer to streaming services like Netflix, it has a slightly different meaning in the telecom context. In a consultation paper from 2023, the TRAI defined an OTT service as an “application accessed and delivered over the public Internet that may be a direct technical/ functional substitute for traditional international telecommunication services”. The regulatory body mentioned Skype, Whatsapp, and Telegram as examples.
+
+According to the Telecommunications Act , 2023, telecommunication refers to the transmission of messages “by wire, radio, optical or other electro-magnetic systems”, while the term “message” can mean “any sign, signal, writing, text, image, sound, video, data stream, intelligence or information sent through telecommunication”.
+
+This raises concerns, as these definitions are vague enough to conceiveably encompass a number of internet businesses. While the regulator mentioned WhatsApp as an example, would apps like PhonePe or Google Pay that allow users to send “messages” to each other come under OTT platforms as per TRAI?
+
+The regulation of OTT platforms under telecom rules has been a contentious issue in the past.
+
+On the one hand, telcos have asked for greater regulation on OTT platforms from TRAI. Last year, during TRAI’s open house discussion reviewing India’s current spam regulation, Airtel asked the government to address spam on OTT apps like WhatsApp and Telegram.
+
+It also suggested that the telecom regulator should implement specific guidelines for consent on calling and messaging platforms so that businesses don’t send unsolicited messages.
+
+However, the DoT had consciously chosen to exclude OTT platforms from the Indian Telecommunication Act, 2023.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

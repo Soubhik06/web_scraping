@@ -1,0 +1,51 @@
+Cyber criminals are increasingly using Artificial Intelligence (AI)-powered tools to exploit vulnerabilities in the cybersecurity systems of financial firms, according to India’s first Digital Threat Report, 2024. launched by the Ministry of Electronics and Information Technology (MeitY) on April 7, 2025. The Indian Computer Emergency Response Team (CERT-In), Computer Security Incident Response Team in Finance (CSIRT-Fin) and SISA, a global cybersecurity company, collaborated to prepare the Digital Threat report. It analyses the current and emerging cyber threats and defense strategies in India’s Banking, Financial Services and Insurance (BFSI) sector.
+
+According to the report, the security posture of financial institutions, reviewed across various domains, demonstrates a mixed level of compliance and maturity in critical security areas.
+
+The average cost of a data breach reached an all-time high of $4.88 million globally in 2024, up 10% from 2023, while in India, it was $2.18 million. Hence, CERT-In and other collaborators believe that the financial stakes have never been higher. AI-driven cyber attack will become one of the most “scalable and adaptable threats” by 2025, challenging traditional defenses and requiring innovative countermeasures.
+
+According to the 2024 Digital Threat Report, “A notable trend has been the rise of social engineering, with Business Email Compromise (BEC) and sophisticated phishing campaigns dominating the threat landscape.” Attackers have increasingly started using AI tools to scrape social media platforms, employee data, and create “highly personalized lures” to bypass traditional security checks.
+
+Of all the investigated BEC cases in the Digital Threat Report, 54% had instances of pretexting. The attackers lure their targets on the pretext of a fake scenario, and trick their victims into turning over critical information such as bank account credentials. Furthermore, the attackers deceived employees of different organisations into transferring funds or altering account information under the guise of a legitimate request.
+
+The problem is further exacerbated due to the growing availability of platforms that offer “deepfake as a service”. These AI tools amplify the effectiveness of such BEC attacks by allowing attackers to convincingly impersonate executives and “bypass manual verification processes”. Earlier in May 2024 , MeitY Secretary said that India could launch a separate Act to regulate deepfakes if needed.
+
+As per the report, phishing attacks accounted for 25% of the initial infection vectors. Actors with malicious intent executed phishing attacks to deceive individuals into revealing sensitive information by posing as a trusted entity.
+
+Attackers use the dark web, phishing and information-stealing malware to get their hands on passwords, usernames, and website cookies to bypass multi-factor authentication (MFA). Such credentials allow attackers to access critical systems like single sign-on platforms, virtual private networks (VPNs), email accounts, and software as a service (SaaS) applications.
+
+“Stolen credentials and information-stealing malware remain among the most effective tactics for attackers to breach organizational networks,” the report mentioned.
+
+This is in line with the Zscaler ThreatLabz report , which showed that India was the third highest in phishing attacks in 2023, as usernames, passwords, and financial details were stolen in 79.1 million phishing attempts.
+
+The Digital Threat Report revealed how attackers are finding it easier to execute sophisticated cyber attacks, thanks to malicious AI models, lowering the barrier to entry. With the help of large language models (LLMs) like FraudGPT and WormGPT , even less skilled perpetrators have been able to craft convincing phishing emails, generate malware, and exploit other vulnerabilities, the report noted.
+
+Online attackers have also started diversifying the file formats that they use for their phishing campaigns. This helps them evade security filters integrated into email services. In phishing attacks, the most commonly used file formats are ZIP and RAR. According to the report, the use of HTML-based files such as Compiled HTML Help (CHM) and LNK (shortcut) files has also increased, as security software often overlooks them due to their legitimate uses.
+
+The Digital Threat Report also mentions how malicious actors have been exploiting supply chain vulnerabilities to execute online attacks. A widely used technique is exploiting access to code repositories. The hackers inject “obfuscated malicious code” into the source code of popular applications. They gain unauthorized access to various developer accounts for the applications. The malware remains undetectable during automated and manual reviews due to “advanced obfuscation techniques” used by the attackers.
+
+The malicious actors have also been targeting organisations with inadequate cloud configurations . According to the report, they exploit vulnerabilities like poor access controls, lack of MFA, delayed security patches, and mismanagement of privileged accounts.
+
+“Attackers exploit flaws within hours of vulnerability’s disclosure, with the average time to exploitation now just eight days. This leaves organizations struggling to patch in time,” the report further underlined.
+
+To improve cybersecurity in India’s BFSI sector, the 2024 Digital Threat Report by CERT-In, CSIRT-Fin and SISA suggests to our policymakers that:
+
+“Cybersecurity investments must be driven by a balance of technical requirements and commercial viability,” said the report. Policymakers should prioritise security as a strategic enabler as it ensures resilience, robust protection against threats, and safeguards business continuity and customer trust.
+
+Direct access to the top leadership should be granted to the CISOs, like the Chief Executive Officer (CEO) and the Chief Revenue Officer (CRO). This would enable better alignment of cybersecurity strategies with business goals, and ensure accountability and a stronger focus on organisational risk management.
+
+According to the report, “Harmonizing security standards across all digital payment methods, not just cards, ensures a consistent and comprehensive security framework.” This will address emerging risks in alternative payment systems like wallets, Unified Payments Interface (UPI), and QR codes.
+
+The report suggests “fostering” a skilled workforce with the help of certification programs focused on payment security. This will help in addressing the talent gap and enable enterprises to design secure payment applications. This could potentially help in implementing robust security standards effectively.
+
+“Policymakers must prioritize developing a strategic roadmap to transition to quantum-resistant cryptography, ensuring businesses are prepared for future threats posed by quantum computing advancements,” the report noted.
+
+Policymakers must implement clear and comprehensive regulations to ensure responsible deployment of AI and Machine Learning (ML) in the banking and financial services industry. The regulations must balance innovation with consumer protection and system stability. The report noted that providing the industry with clear guidelines around data privacy, ethical AI use, and algorithmic transparency will encourage responsible AI adoption.
+
+The report suggests India’s BSFI organisations enhance resilience in three key domains :
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

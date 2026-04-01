@@ -1,0 +1,31 @@
+India’s Department of Telecommunications (DoT) has issued a directive requiring messaging platforms such as WhatsApp and Telegram to enforce continuous SIM-device binding, making the physical presence of a SIM card mandatory for the continued use of messaging services. The move disrupts multi-device usage, cloud-based automation workflows, remote collaboration, and cross-border account continuity, all of which form the backbone of how individuals, creators, and businesses use messaging platforms today.
+
+While aimed at tackling cyber fraud linked to smuggled SIM cards, the mandate does not address the dominant fraud vectors seen in India, including phishing, caller ID spoofing, OTP theft, SIM swaps, and VoIP impersonation. Instead, it introduces friction for legitimate users, breaks persistent login sessions required for business messaging and CRM workflows, and complicates use for travellers, NRIs, and users dependent on desktop or web clients.
+
+To unpack the policy rationale, technical feasibility, and operational impact of this directive, MediaNama invites you to attend a discussion on “Impact Of SIM Binding On Social Media”.
+
+Register here
+
+Date: December 12 (Friday), 2025
+
+Time: 1:30 PM – 4:30 PM
+
+Venue: Virtual Event (Zoom)
+
+As the SIM-binding directive moves from policy announcement to possible legal scrutiny, several unresolved questions demand closer examination, particularly around technical feasibility, proportionality, and regulatory overreach. Can mandatory SIM–device coupling coexist with cloud-based, multi-device architectures that power modern messaging platforms, or does it fundamentally break legitimate workflows? Does enforcing physical SIM presence meaningfully address India’s dominant fraud vectors, such as phishing, spoofing, OTP theft, and SIM swaps, or merely add friction for genuine users and businesses? How will travellers, NRIs, creators, and remote workers maintain cross-device access, especially on single-SIM or carrier-locked devices? What happens to enterprises dependent on persistent API sessions for customer support, logistics notifications, and transaction updates once SIM checks interrupt continuity?
+
+There are also pressing privacy questions: what new metadata does continuous SIM detection generate, and does this expand surveillance risks? Finally, does SIM binding signal a broader regulatory shift toward classifying messaging platforms as telecom services, creating new compliance burdens and legal uncertainty for the wider digital ecosystem?
+
+Please register to participate in the event by filling out the form here.
+
+Here are 5 reasons why, if you’re in technology/policy, you must consider attending MediaNama discussions:
+
+Note: This discussion is being organised with support from Meta and Snap . Our community partner for this event is the Internet Freedom Foundation (IFF) .
+
+Note:
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

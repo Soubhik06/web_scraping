@@ -1,0 +1,91 @@
+The Reserve Bank of India (RBI) has no idea if the payment ecosystem is ready for its new card storage rules, which prohibit merchants and payment gateways/aggregators from storing the card details of customers. In response to a Right to Information (RTI) request filed by The Quantum Hub (TQH), the central bank on June 17 said that it has no information available on how many tokens have been provisioned by card networks like Visa and Mastercard, how long do token-based transactions take to complete on average, what the expected transactions per second rates are when using tokens, how many payment aggregators/payment gateways have provided final Application Programming Interfaces (APIs) for integration to merchants, whether testing was conducted using tokens, whether testing has been done for special use-cases like refunds, chargebacks, EMIs and recurring mandates, whether testing has been done for the guest checkout use case, etc.
+
+Why does this matter? RBI’s card storage rules were set to go into effect at the start of next month, but the regulator last week extended the deadline by three months to the end of September. Regardless of the extension, it’s concerning to know that the central bank was/is pushing for such stringent regulation without knowing how ready ecosystem players are and how businesses and customers might be affected.
+
+Read — Deep Dive: Why Online Debit And Credit Card Transactions Will Start Failing From July 1
+
+Never miss out on important developments in tech policy, whether in India or across the world. Sign up for our morning newsletter , with a “Free Read of the Day”, to experience MediaNama in a whole new way.
+
+While merchants and payment aggregators are not allowed to store customers’ debit or credit card numbers, RBI in September 2021 issued guidelines to allow them to store token numbers . Tokens will be unique numbers based on a combination of card details, merchant, and device. For example, your Visa HDFC card will have token A on Flipkart and the same card will have token B on Amazon, the same card will have token C on PVR. Tokenised transactions involve two steps:
+
+The RTI request posed the following questions around token provisioning:
+
+1. What is the latest status on token provisioning by card networks (Mastercard, VISA, Rupay) and issuing banks (ICICI, SBI, etc), specifically:
+
+RBI response: The information in the manner desired is not available with the Reserve Bank of India (RBI).
+
+2. Can a user generate a token in real-time and have a payment processed on the said token simultaneously?
+
+RBI response: Query is in the nature of seeking an opinion and is not information as defined in Section 2 (f) of the Right to Information Act, 2005 (RTI Act).
+
+3. With regard to the previous question (question 2), has any testing been done by any of the ecosystem players in this regard? If yes, could you share the data created from such testing, especially success and failure rates?
+
+RBI response: No such information is available with RBI.
+
+4. Does the RBI have any estimate about how much time, on average, it takes for the two to happen simultaneously, i.e. how long does the customer need to remain in session to generate a token and have a payment successfully processed/ completed on it?
+
+RBI response: No such information is available with RBI.
+
+5. What are the typical transaction per second rates expected of card networks from 1st July i.e., how many credit and debit card transactions are processed for online transactions per second on a typical day in the Indian economy?
+
+RBI response: No such information is available with RBI.
+
+6. Have ecosystem players submitted any data with respect to testing on token processing? If yes, could you share the data created from such testing?
+
+RBI response: No such information is available with RBI.
+
+7. Based on the above submissions or otherwise, and with regard to question 5, what is RBI’s estimate of the current capacity of the payments ecosystem to handle tokenized transactions i.e. does the RBI have an estimate of the maximum number of tokenised transactions the ecosystem can handle at present per second? Please provide data separately, if available, for transactions per second rates concerning both tokens generated in a previous session, as well as tokens created in the same session.
+
+RBI response: Query is in the nature of seeking an opinion and is not information as defined in Section 2 (f) of the RTI Act.
+
+“If your card was used fraudulently, you should be able to request a chargeback. If there is a high ticket payment item and you want to convert it into an EMI, you should be able to do it. If you want to get a refund from somewhere, you should be able to get that refund. So these are the three issues that need to be solved in order for the tokenisation solution to work completely for a customer, but tested solutions for these don’t exist,” an industry source explained to MediaNama
+
+8. Does the RBI have information on testing for specific use cases? In particular, has any information been submitted by ecosystem players on successfully testing for the following:
+
+RBI response: No such information is available with RBI.
+
+9. If so, what have been the results of such tests for use cases outlined in question 8? If not, does RBI plan to conduct such tests in the future?
+
+RBI response: Query is in the nature of seeking an opinion and is not information as defined in Section 2 (f) of the RTI Act.
+
+10. Is RBI planning to undertake a pilot project or create a regulatory sandbox to test the success of tokenization in a controlled environment, before the solution is extended to the entire payments ecosystem?
+
+RBI response: Query is in the nature of seeking an opinion and is not information as defined in Section 2 (f) of the RTI Act.
+
+If not for tokenisation, the other alternative for online card transactions is guest checkout, where customers enter card details every time. But the issue here is that RBI’s guidelines allow only the card issuers and the card networks to store card data, and the acquiring bank cannot store the same. The way systems are built today, the acquiring bank will need the payer’s card information for the transactions to go through. In light of this, the RTI request posed the following questions to RBI:
+
+11. Does the RBI have an estimate of the percentage of overall online debit and credit card transactions that are guest-checkouts (wherein the customer opts not to save their card – in token form or otherwise – with the merchant)?
+
+RBI response: No such information is available with RBI.
+
+12. With regard to the above (question 11), has there been any testing done for the guest checkout use case?
+
+RBI response: No such information is available with RBI.
+
+13. In the context of guest checkouts, how will refunds be handled if the acquirer bank is not allowed to save customer card details?
+
+RBI response: Query is in the nature of seeking an opinion and is not information as defined in Section 2 (f) of the RTI Act.
+
+14. Does the RBI have information on how many Payment Aggregators/Payment Gateways have provided final APIs for integration to merchants?
+
+RBI response: No such information is available with RBI.
+
+15. Following the enforcement of the circular on ‘Restriction on storage of actual card data [i.e. Card-on-File (CoF)]’ dated 23/12/2021, will acquirer banks be allowed to store customer card data?
+
+RBI response: Query is in the nature of seeking an opinion and is not information as defined in Section 2 (f) of the RTI Act.
+
+16. Has the RBI done any studies on the effect of the above-mentioned provisions on the supply of credit to Indian consumers and small businesses, given that cardholders may be forced to move from credit card-based payments to other types of non-credit payments?
+
+RBI response: Query is in the nature of seeking an opinion and is not information as defined in Section 2 (f) of the RTI Act.
+
+17. Does the RBI recognize any solutions, other than tokenization, to overcome the issue of merchants not being allowed to hold customer card data?
+
+RBI response: Query is in the nature of seeking an opinion and is not information as defined in Section 2 (f) of the RTI Act.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

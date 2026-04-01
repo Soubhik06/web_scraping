@@ -1,0 +1,19 @@
+SUBREDDIT: r/india
+TITLE: I Found a data breach - Am in trouble? Please help
+DATE: 2024-02-15
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/1ar4o4g/i_found_a_data_breach_am_in_trouble_please_help/
+
+--- POST TEXT ---
+
+Hey everyone, so I found a data breach in a website where if put any random name in the user name column it would give their full name and mobile number.
+
+This is info was found in the "inspect element / Chrome developer tools network tab (just press f12 in your keyboard to open it in a pc)".
+
+Now after I found out about this I verified the numbers by calling them and I left it at that. Now I thought the company would inform about the data leak due to digital personal data protection act.
+
+But hide the breach and changed all the code and quickly encrypted the data but still didn't stop the server from giving out all this data and by placing the debugger tool in chrome in the line where the decryption process takes place you could still see all the data in text form.
+
+So I made an post saying that a data breach occurred in company "Y" and they're trying to hide it. They then quickly changed the code and stopped the server from giving out details, ans Now the company is threating me with legal trouble stating that they will frame me as a hacker and make the people whom i called to verify the numbers to also file case against me.
+
+What can I do ? That data was literally provided to me by the website when I typed a random username and using chrome developer tools is not illegal right ? I literally didn't do anything with the data other than call and verify some of the mobile numbers a took screenshot of the data provided and posted that as proof (with all the details hidden and blacked out). I am just a student and can't fight legal battles. Please help me.

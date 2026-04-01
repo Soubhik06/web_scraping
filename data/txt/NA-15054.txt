@@ -1,0 +1,33 @@
+The Bombay High Court has granted urgent ad-interim relief to Generali Central Life Insurance Company after the insurer reportedly suffered a ransomware attack by an anonymous hacker group identifying itself as âMedusa.â The Mumbai-based insurance firm is a joint venture between the Central Bank of India and the Generali Group, which is a global insurance and asset management group operating in over 50 countries.
+
+Venkatesh Dhond, arguing on behalf of the insurance company, said the applicant was the victim of a cyberattack that compromised sensitive and confidential data, as mentioned in their submission to the court. He also said the applicant does not yet know the hackerâs identity, except that the global anonymous group calls itself âMedusaâ. As a result, authorities identified the alleged hacker group as John Doe, a legal term used to refer to unknown individuals.
+
+During the court proceedings, Dhond referred to the type of confidential data that was compromised, which included information about the applicant, their businesses, and the personal details of their customers. He also pointed to a screenshot of a threat posted on X, formerly Twitter, showing a time-bound demand for 500,000 USD as ransom. The post warned that the stolen data would be made available to anyone willing to pay if their demand was not met. The screenshot displayed three options:
+
+After hearing the case, Justice Arif S. Doctor ordered a temporary injunction restraining the unknown perpetrators and their associates from using, publishing, or disclosing any confidential data stolen from the plaintiff until the court delivers a final verdict. As part of this, he directed the Union of India and the Department of Telecommunications, listed as Defendants, to immediately remove, block, and disable all accounts, content, domain names, phone numbers, and email addresses linked to the stolen data of the insurance firm.
+
+The court ordered the authorities to block or remove any accounts or content linked to the data breach or using the complainantâs name, likeness, or trademarks within 24 hours of receiving notice from the complainant insurance firm. It also directed the authorities to file an affidavit of compliance, an official statement confirming full adherence to the courtâs orders.
+
+At the time of writing this report, the social media handles mentioned on Generali Central Insurance Company’s website, like X handle , Facebook , Instagram , are not active. However, the company’s LinkedIn and YouTube accounts remain active.Â Â
+
+According to the US government’s Cybersecurity & Infrastructure Security Agency ‘s advisory issued to mitigate the cyber-risks, Medusa is a ransomware-as-a-service (RaaS) operation first identified in June 2021. As of February 2025, its developers and affiliates have compromised more than 300 victims across multiple critical sectors, including healthcare, education, legal, insurance, technology, and manufacturing.
+
+According to the Medusa blog page’s screenshots , 386.8 GB of Future Generali’s data is up for sale to download for 500,000 USD. MediaNama couldn’t locate the onionised URL of Medusa’s blog because of the unstable, non-standardised cryptographic nature of onionised URLs. However, these same figures match the figures mentioned in the court order.
+
+Additionally, according to Red Packet Security , which has accessed the onionised website of Medusa, the incident is characterised as a data leakage rather than an encryption event, with no ransom amount indicated. The metadata showed no monetary demand, and the leak page contains no images, internal documents, or other media beyond the stated volume of the hacked data. No contact details were also listed, and the address seems to have been redacted.
+
+Future Generali isn’t the first company to face a security breach. Apart from over 490 victims globally, as documented by RansomWare , several India-based companies also faced cyber attacks.
+
+For example, in 2025, Sun Direct , a satellite-based television service provider, and Gurgaon-based telecommunication infrastructure provider, Indus Towers , also faced cyberattacks. Similarly, in 2023, Ace Micromatic , a machine tool conglomerate, and state-owned Gujarat Mineral Development Corporation Limited (GMDC) also witnessed cyberattacks from the Medusa group.
+
+In November 2024, HDFC Life Insurance reported a data breach in an after-market regulatory filing, and it said that it was working with cybersecurity experts to investigate and protect customer data from malicious data breaches. Related to this issue, as mentioned in the court order, the courts also passed a similar John Doe order against the anonymous hackers.
+
+Similarly, Star Health Insurance also confirmed a data breach in October last year and said it has notified authorities and launched an investigation led by independent cybersecurity experts. Related to this breach, the insurance firm has filed a case with the Madras High Court against Telegram for hosting chatbots that leaked customer data and named Cloudflare for allegedly hosting the hackersâ websites.
+
+The breach was linked to a hacker group known as XenZen, which in September claimed to have stolen 7.24 terabytes of data related to more than 31 million customers. The group reportedly shared samples containing personal details such as names, phone numbers, addresses, tax information, ID copies, test results, and medical records, and offered to sell the full database for 150,000 USD.
+
+Also Read:Â
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

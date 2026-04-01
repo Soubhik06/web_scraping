@@ -1,0 +1,47 @@
+Update: In a telephonic discussion with MediaNama, Zoho CEO Sridhar Vembu said that the domain registrar (in this case TierraNet) was not responsible for and did not control the traffic or the database entry and stamp, but had authority over it. “They changed the redirecting server to their own server to drop it,” Vembu explained.
+
+He added that TierraNet claimed it did it because of abuse complaints, “but we got 3 abuse complaints in the last 2 months and we’ve acted on 2 and 1 is under investigation, unlike them [TierraNet], we investigate abuse, don’t just turn it off arbitrarily.”
+
+Vembu said that the company did not follow a due process and only after frantic calls and emails, and customer calls from Zoho did they restore it. TierraNet restored the Zoho domain within 45-60 minutes after it was dropped, Vembu said. However, the database propagation from new to old (existing) to new would take 24-48 hours, which means sporadic problems would exist for some users (depending on their mobile service provider). He said that logged in users would probably not face this problem, but those trying to sign in could.
+
+Vembu further said that while the workaround for a PC was to enter a Google DNS (8.8.8.8), the same wouldn’t work for mobile logins because mobile service providers (4G, LTE etc.) do not allow for a DNS change, however, if a user tried changing DNS through WiFi on their phone, this would allow them to access Zoho on phones.
+
+A couple of hours ago, the SaaS company finally moved its domain registration to Cloudflare, which Vembu said was far more reliable. He added that 98-99% of its users were now able to access the website and platform.
+
+Vembu was most upset about the fact that this was due to automation, “I have an email saying that some automation system did this.. This is why you don’t make life and death decisions based on [automated rules], have a human in the loop,” he said. Then, TierraNet said that the Zoho account had now been “whitelisted” to prevent further suspension by TierraNet’s automated system, which Vembu calls an admission of guilt.
+
+“In what sense is this reasonable at all?” he said. “If a newspaper gets a complaint saying I don’t like what you print, they can’t just turn off the domain that way… there’s a due process involved, that’s why we have a legal system…  we are liable for the content we publish. Nobody sues the domain registrar.”
+
+He also mentioned that nobody from TierraNet had gotten in touch with him despite repeated attempts to get in touch with them over Twitter and email. “That’s really infuriating,” Vembu said, “We didn’t do business with them, because of the domain name industry consolidation, the entity that we worked with changed hands a couple of times.. And they inherited our business through transactions in the middle,” Vembu added.
+
+“The domain name system itself has this fragility. ICANN representatives will tell you that the service providers have varying compliance with how frequently they update this name information… so that’s why Zoho is still sporadically accessible to some,” he concluded.
+
+Zoho has also put out a blog post explaining the problem.
+
+* Earlier today: Zoho.com, a CRM and Saas company, went offline for an unknown period of time after its domain registrar TierraNet received phishing complaints, reports TechCrunch . The website seems to be live now. About 12 or so hours ago, it appears that Zoho moved to a public DNS in order to get its system back up and live, while still being connected to TierraNet.
+
+We’ve tried to contact Zoho and will update this if we hear from them.
+
+For customers who’re still experiencing issues, please try modifying your DNS settings to 8.8.8.8 (Google DNS) or 1.1.1.1 (Cloudflare DNS). This should resolve these issues.
+
+For instructions on modifying your DNS settings, please refer to this: https://t.co/3oiGRTFJEB
+
+— Zoho (@zoho) September 24, 2018
+
+CEO Sridhar Vembu tweeted about wanting to get in touch with TierraNet’s chief executives after the block happened. According to Vembu, Zoho was not intimated before the domain was blocked. He stated that TierraNet had received 3 complaints which led to the block: 2 email accounts have been suspended and the third is under investigation, according to the report.
+
+Our domain https://t.co/o2TlVFrtjB blocked by our registrar and they tell us to contact legal. We are unable to raech their senior execs. Can someone help reach their execs. pic.twitter.com/rJXBolLmLr
+
+— Sridhar Vembu (@svembu) September 24, 2018
+
+Vembu told TechCrunch that it was “sad that our entire domain gets taken down for 3 complaints” and that the company was working on moving its domain registration to another provider. He said that the company had 40 million users who could not access any of their accounts during this outage. Zoho has customers in Amazon, Facebook, Suzuki, L’oreal, Discovery Channel, Chevrolet, several government administration offices in the US, Capgemini, Oracle, HP, LA Times, UrbanClap etc. across multiple industries.
+
+Serious emergency for us with domain blocked by our registrar without ever notifying us of any issue. Please help us reach https://t.co/Th1vKSaOOb executives.
+
+— Sridhar Vembu (@svembu) September 24, 2018
+
+TierraNet apparently received complaints about phishing emails from Zoho-hosted email accounts and tried to get in touch with Zoho to warn them about the complaints before suspending the domain for a few hours.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

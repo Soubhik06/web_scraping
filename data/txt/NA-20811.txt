@@ -1,0 +1,62 @@
+SUBREDDIT: r/india
+TITLE: As a concerned citizen, I want to tell you guys something damning about our goverment's Online Security.
+DATE: 2016-12-22
+SCORE: 206
+URL: https://www.reddit.com/r/india/comments/5jpux5/as_a_concerned_citizen_i_want_to_tell_you_guys/
+
+--- POST TEXT ---
+
+and yes this headline is similar to the one [here](https://www.reddit.com/r/india/comments/5jod35/as_a_practicing_advocate_i_want_to_tell_you_guys/?utm_content=title&amp;utm_medium=hot&amp;utm_source=reddit&amp;utm_name=india)
+
+With the recent trend of promoting digital india by modi government and also the fact that huge number of indians are taking part in this initiative (while some may disagree) take for example, the recent news that wallets like PayTM, freecharge etc are adding 1 million new users every day ([source 1](http://www.financialexpress.com/industry/demonetisation-has-been-positive-for-paytm-adding-around-6-lakh-new-users-everyday-vijay-shekhar-sharma/458202/), [source 2](http://www.hindustantimes.com/business-news/india-adding-1-million-new-m-wallet-users-every-day/story-T80Tj7bWRs7fZlAJcg7wEN.html)) but yesterday i found this MTNL [speed test tool](http://register.bol.net.in/mtnlportal/dsl/tester.jsp) and also made a post [here](https://www.reddit.com/r/india/comments/5jky6e/rindia_found_an_amazing_tool_this_is_how_mtnl/) but what really blows my mind is the amount of security they provide to prevent their data from getting stolen by hackers. So, first let's just consider MTNL as an example in this list and let me highlight how fucked up their situation is.
+
+I started from this [url](http://register.bol.net.in/htmlui_new/index.html) which provides account details like your email id, address and check data usage, change theme(lol) etc. It was pretty clear that the site was developed in 2004 and never updated later. So, these are the few things that expose the security of MTNL:
+
+1) no HTTPS meaning the data is not encrypted while transmitting to and from server.
+
+2) When a user logs in and if you log out one can still go back and access the same details.
+
+3) I didn't try SQL/penetration testing but from what i could see i think it can be done easily.
+
+4) If you are interested to learn more about this site security you can go [here](https://github.com/sbilly/awesome-security), [here](https://github.com/infoslack/awesome-web-hacking) and [here](https://www.metasploit.com/)
+
+and not just MTNL the same goes for [DRDO](http://www.drdo.gov.in/drdo/English/index.jsp?pg=homebody.jsp), and other goverment sites.
+
+This post is not about making a rant but it's more about telling you all that what our goverment is making us go into (digital india, specifically!) which is good but with this way we may be in a giant bubble that could burst easily with cyber attacks and maybe just maybe the next war what i think could be in a cyber war by Pakistan, china etc and not in arms battle. When i recently read [this article](https://thewire.in/86015/modi-doesnt-have-imagination/) i think our PM might know how important is to maintain online security and we could all convince our goverment to do so.
+
+With even millions of indians going online every year i even found that not all know how important is to maintain privacy and security online. So, i am also adding some tools below that would help you out and please share them with your family and friends.
+
+1) Adblock - you can install anyone from here adblock, ublock, adblock plus etc but i personally prefer ublock because it's easy on memory and CPU usage.
+
+2) [Disconnect.me](https://disconnect.me/freeprotection) - it lets you visualize and block the otherwise invisible websites that track your search and browsing history.
+
+3) With many news sites like NDTV, hindustan times preventing adblock usage install this 
+[antiadblock](https://reek.github.io/anti-adblock-killer/) from reek.
+
+4) please, also follow this product hunt [privacy topic](https://www.producthunt.com/topics/privacy?compact=true) to keep up with new tools.
+
+5) also, use Authy (because it allows backup of tokens) for 2-factor authentication.
+
+6) and use Lastpass to generate random and strong passwords and is also free to use and syncs automatically with your ios, android app.
+
+these tools and services are needed because the online portals of MTNL, BSNL etc suck in security and they might get hacked pretty soon or may already be, so be prepared and qualcomm even say that mobile wallets in India only add security on software basis not on hardware so be aware. more details [here](http://telecom.economictimes.indiatimes.com/news/wallets-like-paytm-dont-use-hardware-based-security-prone-to-attacks-says-qualcomm/55963182) 
+
+and if YOU also know any other goverment sites that you think lack security please comment them below as i want to make a list of them. 
+
+Edit 1: Wow! i am getting downvoted for this post. :(
+
+Edit 2: Okay, few more tools/tips for cyber security :
+
+1) Install [HTTPS everywhere](https://www.eff.org/Https-Everywhere).
+
+2) I should certainly recommend tor browser but given the fact that it slows my internet and i have repeatedly installed and just left it there , i would say this : Don't sign in to Chrome inside chrome browser.
+
+3) Go to my account settings in your google account and active 2-FA and disable data tracking.
+
+4) Enable Bitlocker in your pendrive, and hard drive. remember just enabling encryption will not just save you do your research and see which mode of encryption is must have currently.
+
+5) Use this [tool](https://github.com/10se1ucgo/DisableWinTracking/releases) to disable data tracking inside Windows 10 ( highly recommended!) 
+
+I'll add more.
+
+Edit 3: I know the above needed steps are too much to ask and many may just ignore them but the fact with online security is that you'll have take an extra step to maintain so i hope you do that now.

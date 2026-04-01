@@ -1,0 +1,82 @@
+SUBREDDIT: r/india
+TITLE: Many here might have been shocked by the recent 'NSE CEO-Mysterious Yogi Scandal'. Looking beyond the scam, what might surprise you even more though is NSE's business model!
+DATE: 2022-04-14
+SCORE: 17
+URL: https://www.reddit.com/r/india/comments/u3j5uu/many_here_might_have_been_shocked_by_the_recent/
+
+--- POST TEXT ---
+
+**Edit:** Adding the link to the original article containing detailed analysis and sources for the charts below: [ZCharts - Beyond the scams: The NSE business model](https://zcharts.rupeezen.com/beyond-the-scams-the-nse-business-model/)
+
+**NSE Overview a.k.a. Competition is for losers!**
+
+Let's start with some basics.
+
+**What does NSE do?**NSE is a stock exchange - a company's shares can be listed on an exchange like NSE. \~2000 companies are listed on the NSE (of course, the first time you list, you file an IPO - Initial public offering).Debt instruments can also be listed on the exchange - we recently published an analysis on NCD listings for Dhani and InCred (read it [**here**](https://zcharts.rupeezen.com/dhani_incred_theartofdebtraising/)).Once these instruments (shares, NCDs) are listed on the exchange, anybody with a demat account can buy and sell them. These buy/ sell transactions are facilitated by the exchange via intermediaries called members (e.g. Zerodha).
+
+With that context, let's break down NSE's revenue sources. The chart below shows the revenue distribution across various verticals.
+
+https://preview.redd.it/epz2z91p5it81.png?width=1650&amp;format=png&amp;auto=webp&amp;s=923c0c175e15e5bf20b76c0fbcd2a0023a6864ae
+
+**Transaction Fees**: Not surprisingly, the largest component of NSE's revenue comes from transactions. Every time there is a trade on NSE, the exchange makes a commission (isn't that a wonderful business model!).**Listing and IPO Fees**: Besides transactions, NSE gets paid to have companies listed on the exchange plus every time a company IPOs.**Co-Location charges**: This is a service provided by NSE, where high frequency traders can co-locate their terminals in NSE's premises and receive market feed a split second earlier for a fee.
+
+**How large is NSE's business?**To understand this, let's quantify a few financial metrics for NSE.
+
+https://preview.redd.it/40q5hihz5it81.png?width=1632&amp;format=png&amp;auto=webp&amp;s=ab06de3726cc1bfca79ba849510d2edece77873c
+
+With Rs. 4K+ crores in profit and a net worth of Rs. 10K+ crore, NSE is meaningfully large. Which takes us to the next obvious question..
+
+**Who is NSE's competition?**The chart below demonstrates that there is no competition! NSE is pretty much a monopoly in the derivatives segment. For context, futures and options are highly leveraged and risky instruments with significant upside and downside. We'll discuss options and leverage in later sections.
+
+https://preview.redd.it/v2ijjlo56it81.png?width=1636&amp;format=png&amp;auto=webp&amp;s=50bb7269baa876d0b819ccb0c9988d23ceedb16c
+
+India's other popular exchange, BSE, is miniscule in comparison to NSE, with the latter doing \~10X as much revenue as the former. Also, the proportion of transaction revenue for BSE is much lower than for NSE.
+
+https://preview.redd.it/5axip3hl6it81.png?width=1642&amp;format=png&amp;auto=webp&amp;s=26e3eb744d28351044d32ca074066f819f0ae3d7
+
+https://preview.redd.it/549adsqo6it81.png?width=1638&amp;format=png&amp;auto=webp&amp;s=6a5385050badb29150766e503b075083d9ece5e7
+
+Interestingly, NSE not only holds a leadership position in India but also globally when you look at number of trades. NSE leads the world in derivative contract volumes.
+
+https://preview.redd.it/kmkpehev6it81.png?width=1656&amp;format=png&amp;auto=webp&amp;s=f1b35c3b094db96cfc6d18256ef1d8e130b4a61d
+
+And it stacks up 4th in terms of capital market trades globally.
+
+https://preview.redd.it/87nrq9j07it81.png?width=1636&amp;format=png&amp;auto=webp&amp;s=cf4a6b66056a722c8204b25df1e58e1a23be770c
+
+**Scams or not, business is booming**
+
+In this section, let's dig deeper into NSE's financial trends and economics, starting with the former.
+
+https://preview.redd.it/j9rh1664ait81.png?width=1666&amp;format=png&amp;auto=webp&amp;s=5fe426bb4f37527491bfc065c8687f18780bab47
+
+NSE's total income has significantly increased in the last 2 years. Interestingly, profits have grown faster, as is evident from the chart below.
+
+https://preview.redd.it/ja19d7cbait81.png?width=1640&amp;format=png&amp;auto=webp&amp;s=19ae85db158399511242c9d81d86294d22927964
+
+This has expanded NSE's PBT margins by \~800bps! A 65%+ PBT margin is an exceptionally high number to start with, and an 800 bps increase on that base number is outstanding.
+
+https://preview.redd.it/varlxpsfait81.png?width=1644&amp;format=png&amp;auto=webp&amp;s=9243d6e320cc8cea55e29da64594958f45190242
+
+There are two trends here that we're curious to unpack:
+
+1. What's driving NSE's massive revenue increase
+2. Why have NSE's margins expanded so much
+
+To answer these questions, let's start with a cost breakdown comparison between FY'21 and FY'20. Firstly, the cost mix has pretty much remained the same.
+
+https://preview.redd.it/ui2c6q6kait81.png?width=1638&amp;format=png&amp;auto=webp&amp;s=c19f45b1392d117ac2e2719890ed5afe8f54fd89
+
+https://preview.redd.it/bnjp2n7nait81.png?width=1650&amp;format=png&amp;auto=webp&amp;s=250f044f5872b922ca8670fde61dccd46390feef
+
+Secondly, FY'21 v/s FY'20 revenue increased at a much faster rate than costs did for the same time period. The former increased by \~70%, while the latter by \~35%, clearly demonstrating that NSE has scaled revenues with much higher contribution margins.
+
+As a next step, let's look at the components of this revenue.
+
+https://preview.redd.it/hbqv5yswait81.png?width=1650&amp;format=png&amp;auto=webp&amp;s=ccb7788e491016b09d88b3017a9a5bb89149a0f9
+
+https://preview.redd.it/lidzbo4yait81.png?width=1646&amp;format=png&amp;auto=webp&amp;s=13cb5ffe1d243192bd821b9fc525da60c27f37da
+
+Clearly, this revenue increase is largely driven by an increase in transaction fees. But NSE's marketing spend as a % of revenue has reduced from 0.6% in FY20 to 0.3% in FY21 - these numbers at an absolute are also really low.
+
+What then is driving this massive increase? The answer is new investing wave in India and you can read more about it here: [ZCharts - Beyond the scams: The NSE business model](https://zcharts.rupeezen.com/beyond-the-scams-the-nse-business-model/)

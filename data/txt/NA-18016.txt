@@ -1,0 +1,91 @@
+SUBREDDIT: r/india
+TITLE: Rajesh Jain (netCORE) and Anand Deshpande (Persistent) part-time members of UIDAI. Let's talk about electoral targeting and conflict of interest [P]
+DATE: 2017-03-06
+SCORE: 15
+URL: https://www.reddit.com/r/india/comments/5xushu/rajesh_jain_netcore_and_anand_deshpande/
+
+--- POST TEXT ---
+
+A couple of links for perusal and discussion on organization structure or Aadhar, electoral targeting and conflict of interest. A discussion is all I want and if someone in the media with more time in their hands could explore these lines of questioning. Doesn’t mean shut off Aadhar completely or let’s accept it without any criticism. It doesn’t have to be an extreme side. But let’s have a more nuanced discussion.
+
+Disclaimer: 
+Anything in italics is an opinion and belief which I didn’t try to find links on or can't quote people on. Mostly demarcated so that discussion doesn’t get sidelined by those comments. Can be right or wrong. 
+
+Organization Strucutre: https://uidai.gov.in/new/about-uidai/about-uidai/organization.html
+
+&gt;**Shri Rajesh Jain**, Founder and Managing Director of **netCORE** Solutions and **Dr. Anand Deshpande**, Founder, Chairman and Managing Director of **Persistent Systems** are appointed as part-time members of UIDAI.
+
+First of all netCORE,
+ - Handled campaign for BJP in 2014 even the 2009 SMS campaign.
+ - Netcore's promoter Rajesh Jain is a prominent outside supporter of Narendra Modi's campaign and convenor of Friends of BJP, an official cell of the party. 
+
+ - Talks about intensive electoral targeting and data mining in the context of BJP.
+
+&gt;Political parties are increasingly collecting information on basic voter demographics—age, gender, economic condition—as also their affiliations and voting patterns. However, the BJP has an edge owing to the size of its database. “There is a scientific way to use the data. On the basis of consumer profile, they can decide on what to say to whom—in short, the messages could be customized. They could talk about environment and pollution, health and education or rising prices, depending on who they are addressing,” said Reddy.
+
+(The quote is not Jain, but that isn't the point I am trying to make anyway)
+
+http://www.livemint.com/Opinion/XM9WXzlXzfr4mwQT2xv6TJ/BJP-reaping-the-data-dividend.html
+
+&gt;Rajesh Jain: Plan To Connect Voter ID With Mobile Number For Microtargeting Of Political Campaigns (2013)
+Link: http://www.medianama.com/2013/12/223-rajesh-jain-netcore-politics-bjp/
+
+Ending notes in the article (Not Rajesh Jain but by @nixxin (?))
+&gt;Now look at this from another perspective: what if, in future, the voter data is updated to link it to Aadhaar numbers? Businesses that validate a users identity can easily ping the voter database for more demographic data – that very data which the UIDAI says will not be shared without consent.
+
+&gt;What doesn’t help, is that India doesn’t have any privacy law, and, well, governments organizations keep publishing spreadsheets and PDF’s on their websites: there’s more data on government websites than their data portal data.gov.in.
+
+*What really is netCORE doing here? Yes he might have expertise on handinling millions of phone numbers and technology around it, but there would be many with similar expertise. It is a marketing company in the end.*
+
+ - AAP accuses Mumbai-based netCORE of sharing mobile database of 1.5 crore people with BJP. (http://economictimes.indiatimes.com/news/politics-and-nation/aap-accuses-mumbai-based-netcore-of-sharing-mobile-database-of-nearly-1-5-crore-people-with-bjp/articleshow/31973717.cms)
+
+Things that can go wrong, the ruling party is sitting on this database for now and has an undue advantage in electoral targeting (if you don’t talk about the principles behind electoral targeting)
+The government contains some of the metadata, but the juicier metadata is with the corporates using Aadhar for their services. Corporates have political affinities and metadata will be strong capital for exchange and leverage. 
+
+Subjective comment[1]
+
+What is wrong with electoral targeting?
+&gt;Targeted Marketing: Good for Elections, Bad for Government
+https://www.themuse.com/advice/targeted-marketing-good-for-elections-bad-for-government
+
+Basic premise is that you can tailor specific messages for each individual while campaigning. While there is nothing wrong in it and a door-to-door campaigner could do the same when he gets to know about me. Amazon and Flipkart advertise products to me all the time based on my interests and I largely like them and ‘purchase’ the offering and the product is ‘delivered’. But in elections, my ‘vote’ is the purchase, but delivery in policy of what I was promised becomes tricky. Because the party promised variations of the same policy, often contradictory, to everyone. It becomes politics of appeasement with no delivery in the end.
+
+&gt;An administration that must repay its (not “the,” but “its”) electorate by keeping specific promises to specific groups will have a very difficult time pushing forward big ideas or sweeping reforms or comprehensive agendas. And the fundamental role of government, in the modern transaction, gets lost.
+ 
+
+Some more news from the west as a glimpse of where our politics can be in the future or is at already?
+https://theoutline.com/post/969/did-trump-win-psychometrics-data-cambridge-analytica
+https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win
+
+Brief: Psychometrics and the big 5 personality traits being used to do micro-targeting and adjusting of campaign messages.
+
+**Persistent and the other govtech companies**
+
+How does aadhar really solve de-duplication in welfare schemes? If it is just used as a card which you show someone to get service, it doesn’t help. The idea is that you really know it’s the same person when he presses his fingerprint. And this needs to be done before the service is delivered to the beneficiary. *Comment's I can't quote someone on* [3]. For now it’s only functioning as a paper card, the same as BPL census in all practicality. The push is to get people enrolled. *To be fair, the biggest case study of Aadhaar actually being used successfully is JIO and not a welfare scheme as were promised and sold the idea to*. Yes, there are rough links on saving through DBT, but the exact role of Aadhar verifications and their continuous usage in those schemes is guess work. It’s more episodic, a change in IDs will lead to reduction in fake names based on previous IDs until the new IDs fakes start flooding the market.
+
+The push for verifications being done for service delivery is as important if the government wants to push this as a welfare scheme. But there hasn't been much visible movement by the government on it. 
+
+Given the government will come to pushing verifications too one fine day, one has to realize it’s not just software that is needed. It’s hardware too. 
+
+Who stands to benefit most from these pushes? Big players like Persistent Systems. Persistent has been banking on Aadhar technologies from the early start (Some early email verified signature product et al - can’t find a link now). They are already one of the top players in government tech projects and procurements and stand to reap the most out of all this. They are already building aadhar based apps for the government etc (*apart from the thousand other apps which usually don’t get used or data updated after first couple of months* )
+
+More subject comments in appendix on thumbprints floating in the market [3]
+
+**Conflict of Interest and what’s wrong with it?** 
+Basically an entity who is deemed to make monetary or otherwise profits out of the favourable decision of a policy can’t be expected to be fair and unbiased about exploring and debating the rights, wrongs and ramifications of it. 
+
+*Appendix*
+
+[1] *Yes there are laws, but there are loopholes. And I don't have to point the loopholes out. And my not pointing them out doesn't mean there aren't any*
+
+[2] *The government has pushed the welfare schemes to make aadhar mandatory, but has not really forced them to have processes around it. Most schemes have only been told to collect Aadhaar cards as a new entry in their MIS (as a number -- same as BPL). There is little or none talk on getting it verified or having processes around it in policy*
+
+[3] *Also, if the government does go around pushing for verifications, the welfare demographic will be giving a new swipe every other day. Giving thumb impressions will be normalized for Aadhar and non-Aadhar products. My password will be floating around in multiple devices and securing it is going to be difficult. Even now a lot of people new to the internet end up being phished. When aadhar is my password, phishing is hardware devices saving my thumbprints all the time. There will be breaches and in the worst case scenario, it will lead to thumbprints being useless as a measure of security. Will then the government own up to its mistakes and let this craze pass? Likely not, given the capital and infrastructure being spent on it and the politics we will live in bliss ignorance while the government works on strenthening its security further which it should have done before rolling it out. Are we being pushed in an insecure future?*
+
+Been sitting on this information for sometime, thanks to this post now that I getting around to posting about all this: https://www.reddit.com/r/india/comments/5xib8u/former_head_of_technology_at_uidai_srikanth/ 
+
+Bonus: Persistent Shares in the last 4 years. https://i.redd.it/k635qy1cjjjy.png
+
+Look at them shares! No causation or anything, feel free to have your own thoughts about it.
+
+PS. Original post was removed because it broke mod rules.

@@ -1,0 +1,73 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Gensol's founders stole money from PFC and IREDA. What are the chances they recover their money? A fun read
+DATE: 2025-04-26
+SCORE: 12
+URL: https://www.reddit.com/r/IndiaInvestments/comments/1k876j4/gensols_founders_stole_money_from_pfc_and_ireda/
+
+--- POST TEXT ---
+
+*Original Source:* [*https://boringmoney.in/p/gensol-steals-public-lenders-lose*](https://boringmoney.in/p/gensol-steals-public-lenders-lose) *(my newsletter Boring Money - if you like what you read, do visit the original link to subscribe and receive future posts directly in your inbox)*
+
+\--
+
+The short story is that Gensol is a solar energy company which borrowed money from a couple of public sector lenders and did not pay them back. The lenders expected Gensol to use the borrowed money to buy electric cars for its business, but Gensol preferred shuffling the money around and buying expensive real estate and embarrassing looking chocolates \[1\] instead.
+
+People first realised something was shady last month when Gensol’s credit rating agency, ICRA, [downgraded](https://www.icra.in/Rationale/ShowRationaleReport?Id=133471) it and said that the company lied about repaying its loans and even fudged some documents. Gensol being a listed company, SEBI was on this and last week [released an order](https://www.sebi.gov.in/enforcement/orders/apr-2025/interim-order-in-the-matter-of-gensol-engineering-limited_93458.html) against Gensol and its founders. Some fine choice of words there:
+
+&gt;What has been witnessed in the present matter is a complete breakdown of internal controls and corporate governance norms in Gensol, a listed company. The promoters were running a listed public company as if it were a propriety firm. The Company’s funds were routed to related parties and used for unconnected expenses, as if the Company’s funds were promoters’ piggybank.
+
+Anmol Singh Jaggi and Puneet Singh Jaggi, the founders of Gensol, stole money from PFC and IREDA, two public sector NBFCs focused on lending to companies in the energy space. Can they expect to get their money back?
+
+# Do loans or do shares, don’t do both
+
+PFC and IREDA lent ₹664 crore ($77 million) to Gensol to buy electric cars. Gensol was supposed to chip in an additional ₹166 crore ($19 million) and buy the cars with the combined ₹830 crore.
+
+Gensol *did* buy the cars, but it only spent some ₹568 crore ($66 million). It completely skipped putting up its own money and it also left out about ₹96 crore ($11 million) from the money PFC/IREDA lent it. That money, or at least part of that money, is what got spent on DLF’s luxury flat, golf gear, vacations, chocolates, and the rest of the good stuff.
+
+Now this was a secured loan. Secured by electric cars, of course. PFC/IREDA can, theoretically, take over those cars and sell them off to get some of their money back. They’re [considering](https://economictimes.indiatimes.com/industry/renewables/pfc-ireda-mull-sale-of-gensol-evs-to-secure-loans/articleshow/120463025.cms?from=mdr) doing that—but it’s not going to be trivial!
+
+The cars aren’t with Gensol to begin with. They’re leased to BluSmart, another company owned by Gensol’s founders. I mean, they might not even physically be with BluSmart at the moment, the company [shut operations](https://economictimes.indiatimes.com/tech/startups/blusmart-begins-pullback-of-ride-hailing-operations/articleshow/120340973.cms?from=mdr) overnight. The cars will be with BluSmart’s drivers in different parts of the country, in different shapes and forms. The lenders will have to first get BluSmart to retrieve those cars, and then seize them from BluSmart itself. Yeah, it’s going to be a while.
+
+Whenever PFC/IREDA manage to herd all the cars back, cars being a depreciating asset, they’re going to lose money on the sale. The cars were originally worth ₹568 crore, and they’ll be between 2–4 years old. Optimistically they’ll get back maybe 60–70% of that? Of course, they lent ₹664 crore in all, and they’ll have to spend on the entire recovery operations, valuations, auctions, etc. *and* let’s not even get into the lost interest income. They’ll be lucky to get back half of what they lent out.
+
+Apart from the cars, IREDA has Gensol stock as collateral. From SEBI’s order:
+
+&gt;We have been informed by IREDA vide email dated April 11, 2025 that promoters have created pledges for 75.74 Lakh shares of Gensol. Further, the latest pledge invocation data available on the BSE website, indicates that more pledges have been invoked during this month. This would lead to the possible conclusion that promoter shareholding in Gensol would become even lower, may be negligible, if IREDA were to invoke the pledge created by Anmol Singh Jaggi and Puneet Singh Jaggi.
+
+Gensol has about 3.8 crore shares in all. Twenty percent of those shares, owned by the Jaggis, were pledged as collateral to IREDA. But Gensol’s share price has been tanking for the last 2 months now, and it looks like the company’s going to be worth zero or close to zero, very soon.
+
+I know I have the luxury of hindsight as I say this, but the choice of Gensol’s shares as collateral is a little unusual? When someone’s shares are pledged, it’s because they have borrowed money using their own shares as collateral. In this case, the loan IREDA made wasn’t to the Jaggis, it was to Gensol itself. And yet the Jaggis’ shares were pledged as collateral.
+
+I get why IREDA would’ve liked to have some pledged shares. Listed shares are nice and convenient. You know what they’re worth, there’s no need to auction them, no need to go to court to seize them. If you’ve lent someone money against shares and they ditch paying you back, you can open your laptop, login to your brokerage account, find and click the “invoke pledge” button on their website, and the shares are yours. \[2\]
+
+But IREDA lent to Gensol and then turned around and took Gensol’s shares as collateral! \[3\] If you’re a lender it would be nice to ensure that your collateral doesn’t get obliterated if your borrower decides to not repay. I am sympathetic. Gensol is supposed to be a solar energy company, not an electric car-leasing company. IREDA was lending to it for a side-biz, and it presumably did some calculations and figured that even if the electric car business flopped, the solar energy business would be enough to give the company’s shares its value. Apparently not!
+
+# Regulatory affairs all right
+
+Gensol bought its electric cars from a company called [Go Auto](http://goauto.in/), and it was this company that enabled the Jaggis’ fraud. Gensol would pay Go Auto for cars (apparently), but Go Auto would turn around and transfer this money back to a company either owned directly by the Jaggis or someone related to them.
+
+There is a weird possibility for PFC/IREDA. Gensol, on the face of it, did buy cars worth ₹568 crore. But that’s what Gensol reported with Go Auto on the other side of the trade. I wouldn’t be surprised if this figure itself happens to be inflated and the lenders realise the real market price for the cars was even lower. \[4\]
+
+One of the companies that Go Auto transferred the money that Gensol paid it to was called Wellray Solar Industries. From SEBI’s order:
+
+&gt;Subsequently, on the same day (February 01, 2023) Rs. 54.62 Crore was transferred to Go-Auto (Bank A/c No. 06792000003065 with HDFC Bank). Before this transaction, Go-Auto’s account had a balance of Rs. 4.86 Crore. On the very next day (February 02, 2023), Go-Auto transferred Rs. 40 Crore to the Bank Account of Wellray (A/c No. 058605002357 with ICICI Bank), which had a balance of Rs. 4.93 Lakh before the receipt
+
+\[…\]
+
+&gt;Presently, almost the entire shareholding (99%) of Wellray is held by Lalit Solanki, who was employed as Regulatory Affairs Manager at the Gensol Group until December 2018, as per information available on LinkedIn.
+
+The Jaggis trusted a former employee enough to transfer ₹40 crore ($4.6 million) to a shell company entirely in his name! Imagine if he had run off with it.
+
+This former employee, Lalit Solanki, used to be a *regulatory affairs manager* at Gensol. Is it just me or is there something humorously ironic about using your *regulatory affairs* guy to defraud lenders?
+
+**Footnotes**
+
+\[1\] [Some](https://www.livemint.com/companies/news/blusmart-anmol-singh-jaggi-lavish-spend-dlf-camellias-apartment-crore-dirhams-26-lakh-golf-gear-spa-session-more-details-11744780383051.html) news sources referred to these embarrassing chocolates as “spa sessions”. Come on! A company called “[Kamco Chew Food](https://kamcochewfood.com/) Pvt Ltd” is not going to provide spa treatments to you. Sooner or later I’m going to do a mystery post with a list of similar weird reporting I’ve spotted in Indian financial news.
+
+\[2\] Seems a bit too simple, doesn’t it? Keep in mind that you need to give your borrower a day’s notice before you do this.
+
+\[3\] IREDA’s financing norms think this is fine. From page 98 [here](https://www.ireda.in/images/whatsnewpage/Financing-Norms_06_09_2023.pdf): PG of main promoters to be taken or Pledge of Holdco share of minimum 15% of loan amount. Book value to be taken or valuation of share to be done.
+
+\[4\] Go Auto claims that Gensol still owes it ₹50 crore. We’ll know more later this year.
+
+*Original Source:* [*https://boringmoney.in/p/gensol-steals-public-lenders-lose*](https://boringmoney.in/p/gensol-steals-public-lenders-lose)

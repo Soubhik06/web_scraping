@@ -1,0 +1,43 @@
+An X post by Sumit Gupta, CEO of Indian cryptocurrency exchange platform CoinDCX, announced a loss of around Rs 368 Crore from a “sophisticated security breach” on July 19, 2025. He further elaborated and assured customers that no customer funds were impacted and the losses would be absorbed by the company’s “treasury reserves”. The crypto hack compromised and entirely drained an internal operational account used for liquidity provisioning.
+
+Hi everyone, At @CoinDCX , we have always believed in being transparent with our community, hence I am sharing this with you directly. Today, one of our internal operational accounts – used only for liquidity provisioning on a partner exchange – was compromised due to a… pic.twitter.com/L1kZhjKAxQ
+
+The hack on India’s first crypto unicorn is the second such instance of a major hack on an Indian digital assets platform in a year. WazirX was hacked nearly exactly a year ago, on July 18, 2024. This hack for nearly Rs 2000 crore led to WazirX indefinitely freezing trading. They are currently in a legal battle where the Singapore High Court has directed WazirX to come up with a payment plan for its users after the freeze on withdrawals.
+
+ZachXBT, an independent blockchain investigator, initially reported the security breach on Telegram on Saturday, 17 hours after it happened, followed by the CoinDCX CEO’s statement.
+
+The CEO, Sumit Gupta, classified the hack as a server breach.  “We are collaborating with the exchange partner to block and recover assets, including coming out with a bug bounty program soon,” he wrote. “I confirm that the CoinDCX wallets used to store customer assets are not impacted and are completely safe”. He elaborated that CoinDCX completely absorbed the damages, which occurred on a specific internal account, using its internal reserves.
+
+ZachXBT stated that 1 Ethereum (ETH) from Tornado Cash, a service often used to obscure transaction details, funded the attacker’s address. The hacker then bridged a portion of the stolen funds from Solana to ETH. ZachXBT further pointed out that the hack was not traced to a tagged wallet or listed in CoinDCX’s proof of reserves. He “figured out the link by checking counterparties manually.” He also provided the attacker’s addresses for the transactions of the stolen funds in his post.
+
+Blockchain data platform Chainalysis reported that cryptocurrency services worldwide have seen over $2.17 billion in stolen funds this year. This is more than the amount of losses from stolen funds in 2024 and is on track to eclipse 2022, the worst crypto crime year on record. The platform estimates that at the current pace, stolen funds from services could cross $4.3 billion by the end of the year.
+
+The single biggest crypto hack also took place in February this year, with North Korean hackers stealing $1.5 billion from ByBit.
+
+Concerningly, the data shared by the platform shows that thefts from personal wallets are taking up a larger share of the total thefts in the cryptocurrency ecosystem. Year to date, this number makes up 23.35% of all crypto theft.
+
+Instances of “wrench attacks” are also on track to potentially be at least twice as many as the next highest year on record. These are when attackers use physical attacks or coercion on known cryptocurrency holders to access their holdings. According to Chainanalysis , “Our analysis reveals a clear correlation between these violent incidents and a forward-looking moving average of bitcoin’s price, suggesting that the future increase in asset values (and the perception of its future upward movement) may trigger additional opportunistic physical attacks against known crypto holders.”
+
+India’s current stance on cryptocurrency remains a grey area. There is no overarching regulation that looks at digital assets or their trading platforms. This means that there are no consumer protections specifically around cryptocurrency scams and theft beyond already existing general laws.
+
+Current laws with a specific focus on cryptocurrency have to do with taxation and money laundering. The Finance Act 2022 issued a 30% flat tax on profits and a 1% Tax Deducted at Source (TDS) for Virtual Digital Assets (VDA). In March 2023, the government brought cryptocurrency activities under the purview of the Prevention of Money Laundering Act, 2003. This means that the government brought cryptocurrency platforms under the Know Your Customer (KYC) and anti-money laundering norms.
+
+Rashmi Deshpande, founder of Fountainhead Legal, a Mumbai-based law firm specialising in technology law, points out that the existing laws do not adequately cover digital assets. “Given the specific requirements and complexity of the crypto sector, there is very much a requirement that you have a law which addresses the specific issues of the sector. For example, the securities and financial markets have SEBI and RBI as regulators; they make rules and regulations for these sectors. The cryptocurrency sector also needs a regulator due to its complexity.”
+
+“There’s nothing very specific in the legal domain. In fact, time and again, we have gone to the government and have advocated and carried out a representation, saying that regulations will be required. But so far, there are no regulations,” she adds.
+
+This means there are also no regulations around how cryptocurrency platforms approach security and reimbursement in the case of shutdown of withdrawals or cyber attacks. In the case of CoinDCX, the company used its internal reserves to cover the loss, and the hack did not affect any customer funds. WazirX had suggested a controversial 55-45 socialised loss-sharing model with consumers, which it later scrapped.
+
+Deshpande contends that the government not recognising digital assets leads to the opaqueness surrounding what cryptocurrency platforms have to do in case of breaches and delays in regulation.
+
+“A specific law needs to recognise them in some way. When you have recognition, then it is easy to apply an act and come up with things like the provision of mandatory insurance or the loss of these assets, as well as penalties. There could be specific compensation related to the loss of it. So recognition of these assets is very important. So once you have a recognised asset, then you can have an entire framework in and around it. When you’re actually not recognising an asset very clearly, it is very difficult to have rules and regulations around it. It is very difficult to call out players who are dealing in such assets. And by the players, I mean, primarily, crypto platforms,” she says.
+
+The CoinDCX hack comes in a year of the WazirX hack, the highest monetary loss due to crypto crime and theft. Previously, hackers targeted institutional accounts, but now they are also moving to personal wallets, which do not have the same levels of protection.
+
+In this environment, it becomes important to ask where India is in terms of crypto service regulation. There is a need to look at what guidelines India needs to frame in terms of security on these platforms, and how they react after these crimes have taken place. A wait-and-watch approach will not work anymore with cryptocurrency, as its trading and use are becoming more prevalent. On the flip side of the coin, so are crimes and hacks around digital assets.
+
+The CoinDCX hack, though much less severe in value than the WazirX cyberattack, and the ability of the platform to recover the losses through treasury reserves, raise questions regarding Indian crypto platforms’ ability to cover losses in more hard-hitting breaches. The latest CoinDCX proof of reserves report shows that the company has a $7 million fund to compensate users in the case of breaches.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

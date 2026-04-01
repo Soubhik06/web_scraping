@@ -1,0 +1,21 @@
+ICICI Bank’s mobile banking application iMobile has quietly enabled fingerprint login for Android devices, MediaNama had learnt from reliable sources. With this, customers can log into the app without entering a username or password.  The app’s Google Play Store page also shows login through fingerprint and has updated its permission to access them through Android Fingerprint Authentication. The bank has already enabled fingerprint login and authentication on iOS devices through Apple’s Touch Id.
+
+However, the mobile phone application will NOT allow authentication for payments through fingerprints . For UPI, NEFT and IMPS transactions, Android customers will still have to enter a mobile PIN while iOS customers will need to enter card details. It needs to be emphasised that the apps will NOT be matching the fingerprints with fingerprints on Aadhaar.
+
+As such, the fingerprints will be only stored locally on the device and the information will not be stored on ICICI bank’s servers or any other third-party server.
+
+Note that ICICI Bank isn’t the first to enable fingerprint login for mobile banking applications. IndusInd Bank had enabled the same in July 2016 while Standard Chartered Bank India had enabled the same in June 2016 .
+
+The fact that the bank will not enable fingerprint authentication for financial transactions is significant. The development comes at a time when the government is pushing banks to adopt the Aadhaar Pay, a payment system where users can link their bank accounts to their Aadhaar credentials.  To make a payment, the customers will need to provide their Aadhaar number to the merchant and authorize payment using their fingerprints. The merchant app will come with a biometric device, which will be linked to the merchant’s the mobile phone for payment authentication.
+
+Meanwhile, banks have expressed their wariness about Aadhaar Pay. The banking lobby, Indian Banks Association (IBA) will be approaching the Reserve Bank of India (RBI) as the industry is in no position to meet the November 30 deadline to upgrade POS infrastructure with biometric sensors to capture fingerprints, an Economic Times report showed.
+
+Bankers also expressed concern over fingerprints being stolen and stored at merchants which can be used to authorize fraudulent transactions. This is not without precedence:
+
+Meanwhile, globally, MasterCard has launched a biometric card in South Africa which will authenticate payments at terminals with a customer’s fingerprints.  It added that additional trials will be conducted and a full roll-out is expected later this year. Trials are being planned in Europe and Asia Pacific in the coming months as well.
+
+A cardholder needs to enroll their card by registering with their financial institution. Their fingerprints will be captured and converted into an encrypted digital template that will be stored on the card. The fingerprint is verified against the template and – if the biometrics match – the cardholder is successfully authenticated and the transaction can then be approved.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

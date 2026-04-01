@@ -1,0 +1,29 @@
+What’s the news: In an open letter addressed “to anyone who cares about safety and privacy on the internet,” WhatsApp and other end-to-end (E2E) encryption messenger apps raised privacy concerns about the UK’s Online Safety Bill. Particularly, they contested the Bill’s provisions to weaken E2E security measures.
+
+“As currently drafted, the Bill could break end-to-end encryption, opening the door to routine, general and indiscriminate surveillance of personal messages of friends, family members, employees, executives, journalists, human rights activists and even politicians themselves, which would fundamentally undermine everyone’s ability to communicate securely,” said signatories.
+
+What is the Online Safety Bill? First presented in the House of Commons on March 17, 2022, the Online Safety Bill talks about “provision for and in connection with the regulation by OFCOM [the UK’s communication ministry] of certain internet services; for and in connection with communications offences; and for connected purposes.”
+
+According to Matthew Hodgson, CEO of Element – an E2E encryption messenger app – and one of the signatories of the open letter, the bill requires encrypted messaging apps to scan for abusive content within the app (or its underlying operating system).
+
+“This fundamentally undermines encryption, by providing a mechanism that can be hijacked and abused to access arbitrary user data. It is the online equivalent of installing a CCTV camera into everyone’s bedroom, hooked up to an artificial intelligence (AI) classifier which sends footage back to the authorities whenever it thinks it sees something illegal happening,” he said in his blogpost .
+
+Why it matters: E2E encryption is a highly appreciated security feature that ensures only interacting devices can decrypt messages. Even WhatsApp claimed that it is one of the strongest possible defenses against threats like scams and data thefts. As such, the Bill’s attempt to create backdoors for E2E can threaten the privacy, safety and security of UK citizens as well as the people they interact with. Other governments interested in the idea of a ‘surveillance state’ may end up drafting copycat laws. India also supports the idea of backdoors in E2E for law enforcement agencies and is currently at loggerheads with WhatsApp over a traceability mandate under the IT Rules, 2021 .
+
+Signatories appeal for revision of Bill: In the letter, officials from Signal, Threema, Viber, etc. ask the UK government to rethink the Bill. It pointed out that even the government acknowledged the privacy risks posed by the Bill although “its “intention” isn’t for the Bill to be interpreted this way.”
+
+“We urge the UK Government to address the risks that the Online Safety Bill poses to everyone’s privacy and safety. It is not too late to ensure that the Bill aligns with the Government’s stated intention to protect end-to-end encryption and respect the human right to privacy,” said the letter.
+
+Bill empowers OFCOM to invade privacy: The Bill provides no explicit protection for encryption, and its implementation could empower OFCOM “to try to force the proactive scanning of private messages on end-to-end encrypted communication services – nullifying the purpose of end-to-end encryption,” said the letter.
+
+It also talked about how the United Nations has warned that the UK Government’s efforts to impose such backdoor requirements constitute “a paradigm shift that raises a host of serious problems with potentially dire consequences.” Signatories said that global providers of end-to-end encrypted products and services cannot weaken their security measures to suit individual governments.
+
+“There cannot be a “British internet,” or a version of end-to-end encryption that is specific to the UK,” said the letter.
+
+As of April 18, 2023, the Bill has been passed by the House of Commons and has reached the Committee stage in the House of the Lords.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,97 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Brightcom is probably going to be delisted from the stock markets. A fun read from last year about some of its accounting shenanigans
+DATE: 2024-05-19
+SCORE: 1
+URL: https://www.reddit.com/r/IndiaInvestments/comments/1cvgcim/brightcom_is_probably_going_to_be_delisted_from/
+
+--- POST TEXT ---
+
+*Original Source:* [*https://boringmoney.in/p/brightcom-made-a-profit-by-hiding*](https://boringmoney.in/p/brightcom-made-a-profit-by-hiding?utm_source=reddit&amp;utm_medium=social+media&amp;utm_campaign=brightcom) *(my newsletter Boring Money. If you like what you read, do visit the link and subscribe to receive future posts directly in your inbox)*
+
+--
+
+The standard way for a company to make a profit is to produce a thing at some cost, then sell that thing at a higher cost, and pocket the difference. Another, if slightly frowned upon, way of making a profit is to not worry too much about what your company is producing or selling. Instead, at the end of the quarter, you can pick up your financial statements, take a pen, put some nice numbers under “revenue” and erase the numbers under “expenses”. On paper, the company’s making a profit either way.
+
+The risk, apart from running out of money, is that the company might get caught. This month, Brightcom Group, an ad-tech company, got caught. \[1\] Here’s a [SEBI enforcement order](https://www.sebi.gov.in/enforcement/orders/apr-2023/interim-order-cum-show-cause-notice-in-the-matter-of-brightcom-group-ltd-_70159.html) describing the stuff Brightcom did, and one of the many things it did was to show profits which didn’t exist.
+
+**Some intangible assets are under development**
+
+If your company buys, say, a truck, the standard way to account for this expense in your books is by dividing the cost of the truck by the number of years you expect this truck to last, and then adding this number to your expenses every year. This is slightly weird because you do pay cash upfront for the truck. But still, it’s useful to not have to call it an expense just for the first year because it is an asset that lasts many, many years.
+
+If you buy a truck, account for it the standard way I described above, but then the truck meets with an accident and gets trashed the next day? Then that’s it. You have to now account for the full expense of the truck in one go and can’t split it into chunks every year.
+
+In short, as long as an asset is “alive,” you can split its expense into chunks and account for each chunk every year. If it’s “dead,” you have to account for it right away.
+
+Modern accounting is surprisingly thoughtful and there’s a weird in-between “alive” and “dead” that it allows for. Instead of buying an asset, if you’re *building* it, your asset is in some sense neither dead nor alive. So you can just, umm, add nothing to your expenses until you figure if your asset is actually dead or alive.
+
+Brightcom was spending a lot on salaries, marketing, and stuff, but it didn’t want to show these expenses. So it decided that it wasn’t “spending” but instead “investing” in building an asset. From SEBI’s order, [here’s](https://www.sebi.gov.in/enforcement/orders/apr-2023/interim-order-cum-show-cause-notice-in-the-matter-of-brightcom-group-ltd-_70159.html) Brightcom’s CFO:
+
+&gt;
+
+Brightcom was building software and this software would eventually be an intangible asset. But, until Brightcom could figure whether this asset would eventually be dead or alive, it didn’t count any of its expenses as expenses, instead put it under an “intangible assets under development” category. This way, the company could show a nice profit because all its expenses were apparently assets. In all, the company hid ₹863 crore ($100 million) and showed a profit of ₹440 crore ($50 million) in 2020. If its expenses had actually been counted as expenses, Brightcom would’ve shown a loss of ₹428 crore.
+
+https://preview.redd.it/a2xn3xc5bb1d1.jpg?width=762&amp;format=pjpg&amp;auto=webp&amp;s=8b9bfd5cd84b25807c6025ad9a26980abc57d2da
+
+**Asset’s dead but it’s not an expense**
+
+One problem with showing your expenses as an “asset under development” is that this asset can’t be under development forever. At some point, depending on if this asset is dead or alive, you have to account for your expenses in some way.
+
+… Or not. If your company makes any money, you put those figures in your profit and loss statement. This is simple and straightforward. But accounting isn’t simple and straightforward. If your company makes money, but it’s not a result of your *actual* business, then you can’t put it under the P&amp;L. Instead, you have to account for it under a separate subheading called “Other Comprehensive Income”.
+
+The idea behind this new sub-head is that the company's P&amp;L is supposed to reflect its actual ability to make money. If you hold a lot of dollars and the price of the dollar goes up (or down), your company didn’t really do anything to make that profit (or loss) so you’d put it under Other Comprehensive Income and not in your P&amp;L. So stuff like this wouldn’t affect your profit, on paper at least. \[2\]
+
+Yes, of course, Brightcom recognised the ₹863 crore loss that it had hidden under “intangible assets under development” by categorising it as Other Comprehensive Income. SEBI wasn’t excited about it.
+
+Share this post so that Boring Money can move from “asset under development” to P&amp;L
+
+**Sell your stake but keep quiet about it**
+
+If a company is doing well, its founders don’t usually sell stock. So if a founder sells some shares, they have to tell everyone about it by regulation, because it could be a sign that things aren’t well.
+
+There are three entities that need to know if a founder sells stock:
+
+1. The company itself, via its registrar and transfer agent (RTA)
+2. Depositories that hold stock on behalf of investors
+3. Stock exchanges
+
+#1 and #2 are important, but they’re obvious. The company *has* to know if its founders sell stock, and so does the depository that actually moves the stock from one account to another. #3 is how the rest of the rest of the world gets to know. A founder sells some stock, files a disclosure in a stock exchange, the exchange updates its records and screams out that this has happened, and that’s how public investors know.
+
+In March 2014, if you had asked Brightcom’s RTA, a depository, or a stock exchange about how much stake its founders owned, they would’ve all said, “about 40%”. If you asked them again in June 2022, the RTA and the depository would say “about 3.5%”, but the stock exchange would scratch its head and say “18.47%”.
+
+That’s because Brightcom’s founders—primarily CEO Suresh Reddy, his friends and family—sold their stock but didn’t inform the stock exchanges. Here’s what they said when SEBI asked what’s up:
+
+&gt;
+
+Man, I’m just some dumb guy writing about finance every once in a while, and even I know that if you pledge your shares as collateral to get a loan, you don’t transfer ownership. You just inform your depository and investors about it, and you still own the shares. Reddy &amp; Friends transferred some of their shares to someone else (that is, sold them) and decided not to inform the stock exchanges. Then they used pledging as an excuse and everyone had different answers about how much stock they really owned.
+
+**How much money they make tho**
+
+When a company’s stock price shoots up in a short period of time, and there’s no concrete reason for it to happen, in all likelihood, it’s a scam. The management of the company may or may not be involved, but it definitely helps if they are.
+
+Last month, [I wrote about Sadhna](https://boringmoney.substack.com/p/youtube-is-great-for-pump-and-dumps), a company that SEBI charged with running a pump-and-dump. The founders owned a lot of shares, they spread some false news, the share price shot up, then happily sold their stock to naive investors, and made a profit. If you see Brightcom’s share price trajectory without knowing any of the company’s other shenanigans, it might seem a similar story. The stock price was around ₹3 in January 2021. By December, it was at ₹117. 40X in a year is definitely not normal.
+
+In a pump-and-dump, it’s important for those running the fraud to own shares before the price goes up. The fraud that Reddy &amp; Friends are accused of, which I described above, was of selling stock and hiding the fact that they sold it. By early 2021, they had in fact sold 80% of their shares and it’s only *later* that the share price started going up.
+
+But wait, here’s more from SEBI:
+
+&gt;
+
+In 2020 and 2021, Brightcom sold a large chunk (almost 15% stake) of shares to a group of investors. \[3\] Later, Suresh Reddy—who had been selling Brightcom shares all these years—became a partner at these entities that had just bought a large chunk of stock.
+
+It’s all a bit confusing but here’s what I think happened. In late 2020 and early 2021, it had become apparent if you called yourself a tech company, investors would push your price up. The finer details didn’t matter. Brightcom, of course, happened to be an “ad-tech” company. So there was a decent chance that its share price would go up (or it could be made to go up, [there are ways](https://boringmoney.substack.com/p/adani-stocks-only-go-up)). But since Reddy &amp; Friends had already sold nearly all of their shares, they needed to buy more shares so that they could sell them when the price went up. But they couldn’t buy them directly—because how would they justify selling shares so soon?—so they got some proxy investors to do so on their behalf.
+
+As expected, the share price did go up. A lot. Around the same time, SEBI started investigating the company because of all the shady stuff it had done over the years. If the proxy investors were to sell this stock *now,* SEBI would definitely catch on, it was already investigating them! So instead of selling any shares at crazy high prices, Reddy instead came out with his association with those proxy investors so that the total founder ownership would go back up to the exact amount expected \[4\] by the public, that is, 18.47%.
+
+It’s possible that Reddy &amp; Friends made some profit but SEBI says it needs more information to be sure about just how much it would be. It would’ve been easier to know had they also run a pump-and-dump for good measure.
+
+**Footnotes**
+
+\[1\] Technically, Brightcom got caught earlier when SEBI actually started investigating. But it’s just this month that SEBI put a nice document out with whatever its investigation found.
+
+\[2\] This “Other Comprehensive Income” should be a small number. If it’s a huge figure more than your actual profit, there’s usually something fishy happening.
+
+\[3\] Brightcom didn’t directly sell shares to the group of investors. Instead, it issued warrants. What this meant was that the investors had the right, but not the obligation, to buy shares from the company at a fixed price at a later date. This was a good way for these investors (who are now part of the founder group) to not risk too much money buying shares in case the price went down.
+
+\[4\] Reminder, the reason that the public expected the founder group to own 18.47% was that they hadn’t informed the stock exchanges when they had reduced their stake.
+
+*Original Source:* [*https://boringmoney.in/p/brightcom-made-a-profit-by-hiding*](https://boringmoney.in/p/brightcom-made-a-profit-by-hiding)

@@ -1,0 +1,19 @@
+SUBREDDIT: r/india
+TITLE: Any idea how to contact Vibrant Gujarat organizers - website devs? There is a security (user data leak) issue in their website.
+DATE: 2019-01-20
+SCORE: 23
+URL: https://www.reddit.com/r/india/comments/ahxt8j/any_idea_how_to_contact_vibrant_gujarat/
+
+--- POST TEXT ---
+
+Hello!
+
+There is a security issue in their website which leaks user's details like full name, phone number, email, designation, etc.
+
+I tried contacting their event management company (KDCL Global) through email, call and sent sms to Samir Kapur. Did not get any reply.
+
+Later reported this issue to CERT Team, they noted all the details and provided their ACK that they will take care of the issue. But this issue is still present on the website.
+
+All this was done last week. Tell me whom should I contact next.
+
+The event is getting over today, but the data of visitor will be present on the Internet forever if this is not fixed.

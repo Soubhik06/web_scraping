@@ -1,0 +1,23 @@
+A research done by British security software company Sophos has found 19 applications available on Google Play involved in cryptomining without the user’s consent. A 13-page report by threat researcher Pankaj Kohli details the discovery of hidden Coinhive JavaScript mining code inside HTML files in the apps.
+
+CoinHive is a JavaScript-based miner which allows a user to mine open-source cryptocurrency Monero using a web browser – in this case the application’s inbuilt browser. All the apps in question seem to have been made by the same developer.
+
+In many of these apps, the page is loaded whenever the app is started. Well-developed apps even use CPU throttling to prevent heating up of the device and draining of battery to conceal its presence. A large percentage of CoinHive apps, which offered videos and information about wrestling, were published around Christmas from four different accounts, the report says.
+
+One such app had between 1-5 lakh installs. The report also details the threats from third-party mining module CoinMiner. This comes after the discovery of malware Loapi, which masquerades as popular antivirus apps or an adult content app.
+
+Bitcoin mining appears to be the gold rush of the 21 st century. Such malware have a long history in Google Play, with the first family — Andr/LepriCon-A — appearing in 2014, but recent discoveries present a worrisome expansion of the trend.
+
+British news website The Register has started running JavaScripts in the background as users load its web pages. Its Web Workers feature thus creates a distributed bitcoin mining operation. Medianama has also recently discovered that Salon, also a news website, is asking users to choose between viewing ads or allowing the use of “unused computing power” likely for cryptomining. The Salon web script will also be mining for Monero, but this will be done only with the user’s consent unlike the malicious apps mentioned above. The amount of CPU usage has not been revealed, however.
+
+Siladitya adds: Adblockers are having a major impact on publisher revenues and they are understandably looking for alternative sources of revenue. Publishers like Salon and Register are doing this via crypto mining after informing their readers. But even then the whole thing is a bit opaque on the amount of system resource that will be used and what is the potential impact on the longevity of the user’s device. What’s worse we might see publishers integrate this without a user’s consent and there are no laws preventing that.
+
+India’s income tax department has recently slapped tax notices on almost five lakh high net worth individuals transacting in bitcoin. The department had been looking to tax cryptomining since 2014.
+
+While cryptocurrencies are not illegal in India, the Ministry of Finance has likened it to a Ponzi scheme . The Reserve Bank of India has also cautioned citizens , saying that any user, holder, investor, or trader dealing with cryptocurrencies would be doing so at their own risk. Governments across the world are trying to regulate the use of cryptocurrencies, the US Treasury being the latest one to call to coordinated action .
+
+Social media giant Facebook has also banned the advertising of cryptocurrencies on its platforms, saying that these “financial products and services that are frequently associated with misleading or deceptive promotional practices”.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

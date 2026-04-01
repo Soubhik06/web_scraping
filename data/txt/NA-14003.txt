@@ -1,0 +1,77 @@
+With Additional Inputs from Chaitanya Kohli & Prabhanu Kumar Das
+
+“Safety cannot just stop at product design and safety by design. It must continue through monitoring, rapid response, child helplines, and compensation for survivors, because something will go wrong,” said Zoe Lambourne, chief operating officer (COO) at Childlight, warning that India’s current AI governance approach fails to address how children are harmed in practice.
+
+Lambourne presented Childlight’s research on child safety at the India AI Impact Summit in New Delhi during a session that examined how India’s emerging AI policy framework is responding to risks faced by children using generative and high-interaction AI systems.
+
+Notably, the session, titled Safeguarding Children in India’s AI Future: Towards Child-Centric AI Policy and Governance, brought together civil society organisations, platform representatives, academics, and legal experts. Speakers repeatedly pointed out that while India has horizontal digital regulations, including the Information Technology (IT) Rules and the Digital Personal Data Protection (DPDP) Act, it still lacks a child-specific legal framework to govern AI-mediated harms.
+
+Against this backdrop, Lambourne underscored how children themselves view AI.
+
+“So young people in India see AI as powerful and beneficial, but not safe by default,” she said.
+
+Additionally, she noted, “While many young people describe online life as enjoyable and helpful, only one in four say it feels safe.”
+
+Presenting Childlight’s research, Zoe Lambourne outlined multiple, intersecting reasons why child-specific AI governance is being proposed:
+
+Turning to policy responses, Gaurav Aggarwal of the iSPIRT Foundation explained that an Expert Engagement Group was constituted by the Ministry of Electronics and Information Technology (MeitY) to examine risks to children from AI systems and recommend governance measures. Aggarwal said he was speaking as a volunteer chairing the group on MeitY’s behalf.
+
+Aggarwal said the group deliberately chose to reframe the issue from child safety to child wellbeing, arguing that “safety” alone is too narrow a lens.
+
+“We should probably change the name from child safety to child wellbeing,” Aggarwal said.
+
+He added that safety can become a limiting and paternalistic concept, whereas wellbeing better reflects both the risks and the benefits AI creates for children.
+
+Importantly, Aggarwal pointed to children in rural areas, where AI tools can expand access to education and learning opportunities that are otherwise unavailable. Governance frameworks, he argued, must therefore account for positive use cases alongside harms.
+
+Chitra Iyer, co-founder of Space2Grow, said the recommendations focus on building institutional and policy infrastructure around child wellbeing in the context of AI.
+
+The proposed measures include:
+
+A slide listed the Expert Engagement Group’s key recommendations on child wellbeing and AI governance at the India AI Impact Summit.
+
+Explaining why youth participation is critical, Iyer pointed to research showing how high-interaction AI systems are increasingly filling emotional and social gaps for children.
+
+“One of the girls in Bangalore said, ‘I would rather speak to an AI chatbot and not even to my peers and my parents, because either I’ll be trolled or judged,’” she said.
+
+Platform representatives highlighted design-level safeguards but acknowledged their limits.
+
+“At Snap, our fundamental start point on product is that the design of the product or the architecture of the product has a far more powerful effect on the experience of the user than anything that we can do afterwards,” said Uthara Ganesh, APAC head of public policy at Snap Inc.
+
+Ganesh said Snapchat’s design as a primarily one-to-one messaging platform reduces certain risks by default, alongside features such as age-aware responses, location turned off by default, and parental controls.
+
+She described these measures as iterative, noting that risks evolve faster than product safeguards.
+
+Later in the discussion, Ganesh said Snap’s conversational AI, My AI, is designed to be age-aware, pause interactions if misuse is detected, and allow parents to disable the feature for their children through the platform’s Family Centre.
+
+At LEGO Education, Atish Gonsalves said the company avoids generative AI entirely in child-facing products.
+
+“If we don’t feel the tools are safe enough, they shouldn’t be in the hands of kids,” Gonsalves said.
+
+He added, “Nothing leaves the child’s computer device. Everything is done locally. Nothing ever leaves. There’s no login information. Nothing goes to the cloud, to third parties, or to us.”
+
+Several speakers cautioned against treating child safety as a transactional compliance problem.
+
+Responding to comparisons between AI safety and financial infrastructure such as payments systems, Ganesh said, “Children’s online harms are not a transaction between one account and another account.
+
+“It is inherently about behavioural, relational harms occurring in the real world,” she said, adding that this makes children’s digital safety “an order of complexity” that is difficult to address using existing compliance models.
+
+Others said harms facilitated by AI often spill into offline life and persist beyond the platform where they originate, limiting the effectiveness of general-purpose regulation under the IT Act and data protection law.
+
+N.S. Nappinai, senior advocate at the Supreme Court of India, said child safety frameworks must also account for harm caused by children themselves.
+
+“It’s important to keep children safe, but the second part is keeping children or others safe from children too,” she said.
+
+Nappinai said many instances of harassment or deepfake abuse in schools are dismissed as pranks despite constituting criminal offences. She stressed that minors are not outside the scope of the law and that juvenile justice mechanisms apply.
+
+On remedies, she advised schools and parents to pursue rapid takedowns through direct engagement with the police.
+
+“If you want speedy takedowns, go to a police station, sit there, and make the system work for you,” Nappinai said. “Take my word for it. I’ve done it. It works.”
+
+Taken together, the discussion exposed a core tension in India’s AI governance: platforms continue to iterate on design safeguards while victims rely on ad hoc remedies, even as regulation remains largely reactive. Speakers argued that without child-specific obligations, impact assessments, and accountability for AI systems, harms to children will continue to be addressed only after they occur.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,25 @@
+Zoho’s messaging platform, Arattai, confirmed to MediaNama that it will roll out the SIM binding feature in future updates, as mandated by the Department of Telecommunications (DoT). However, it did not provide a specific timeline for implementation.
+
+Arattai said it is aligning its plans with government requirements and will share updates through its official channel: https://aratt.ai/@arattai .
+
+Some Background: In November 2025, the DoT issued a directive to WhatsApp, Telegram, Signal, Arattai, Snapchat, ShareChat, JioChat, and Josh, mandating that users’ SIMs remain continuously linked to their apps in order to access messaging services. The directive also requires platforms to automatically log out users who log in via the web at least once every six hours.
+
+The DoT issued the SIM binding directive based on the Telecommunication Cybersecurity Amendment Rules, 2025 , which introduced a new category: Telecommunication Identifier User Entity (TIUE), encompassing apps that require a SIM number for user identification. The government says SIM binding can help prevent cyber fraud, such as “digital arrest” scams.
+
+No implementation occurred despite the compliance deadline passing . Platforms had 90 days to comply with the directive, which ended on February 28, 2026. According to a report by The Print, companies are required to submit their compliance reports by March 28, 2026.”
+
+Meanwhile, WhatsApp is currently testing the SIM binding feature , according to a report from WABetaInfo, which tracks features spotted in WhatsApp’s beta versions.
+
+However, The Hindu BusinessLine recently reported that the ministry may ease certain rules, particularly for platforms where one-to-one messaging isn’t the primary function.
+
+End-to-end Encryption on Arattai: After suddenly gaining popularity for a brief period following endorsements from Union Ministers, several privacy experts questioned Arattai’s security standards, citing the lack of end-to-end encryption (E2EE). At the time, its text messages and stories lacked E2EE, unlike those of rivals such as WhatsApp and Signal. Arattai then offered encryption only for video and audio calls.
+
+However, in November 2025, the company announced that E2EE had been implemented system-wide, including for individual chats, while giving users the option to enable it.
+
+“All your personal conversations and calls on Arattai are encrypted from the device before being sent to Arattai servers. This means only you and the person you are communicating with can read or listen to your messages and calls,” it said.
+
+Read more on the technical difficulties of implementing SIM binding and its real-life impact, if implemented:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

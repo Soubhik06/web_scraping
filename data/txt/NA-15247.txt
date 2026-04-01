@@ -1,0 +1,45 @@
+India has finalised and notified the DPDP Rules , which will operationalise the Digital Personal Data Protection Act, 2023 . While the Act and its rules enable the central government to control cross-border personal data transfers, including blocking transfers to specific countries, they also raise questions about how these powers will interact with existing agreements, such as the Mutual Legal Assistance Treaty (MLAT), and laws like the USâs RISA Act .
+
+For context, Section 16(1) allows the government to restrict data transfers to certain countries, Rule 15 requires data fiduciaries to follow government-imposed conditions before sending data abroad, and Section 17(2)(a) exempts certain state agencies from most compliance obligations when they process data for ânational securityâ or for âmaintaining friendly relations with foreign states.â
+
+While there arenât major changes, the Rules have been modified slightly, simplifying the framework for cross-border transfers of personal data by removing earlier conditions that detailed where and why data was processed.
+
+The previous draft applied to data processed in India and to data processed abroad when companies offered goods or services to individuals in India. Both jurisdictional clauses have now been removed. The final text states that a data fiduciary may transfer personal data outside India if it meets the requirements specified by the Central Government. The heading now reads: âTransfer of personal data outside the territory of India.â
+
+These changes streamline interpretation and place the burden of compliance with future government conditions on the process, rather than on determining processing locations or service boundaries. The government retains the power to decide which foreign states, entities, or agencies may receive personal data from India. The updated provision offers a clearer path: if data falls under the Act, its transfer abroad depends on government-specified requirements. This makes the rule more flexible, less ambiguous, and easier for domestic and foreign data fiduciaries to implement.
+
+Because the Indian government decides which countries may receive citizensâ data, a key question is how authorities will handle conflicts among different laws. India rarely has statutes mandating the sending of personal data abroad. Most cross-border transfers operate through multilateral agreements, extradition treaties, and cooperation arrangements that rely more on diplomatic relationships than on legally enforceable mandates.
+
+Referring to such potential conflicts, Shruti Kanodia, Managing Partner at Sagus Legal, said, âSub-section (2) of Section 16 of the Act stipulates that where any other law in force in India prescribes a higher level of protection or additional restrictions on the transfer of personal data by a Data Fiduciary, such law shall continue to apply.â This means that if any existing Indian law offers stronger protections or stricter limits on sending personal data outside India, those tougher rules will still apply. The DPDP Act does not dilute or replace any higher standard already set by another Indian law.
+
+In addition to Section 16, Section 38 of the Act also states that in the event of a conflict, the provisions of the DPDP Act should prevail, she added.
+
+Addressing conflicts involving foreign laws, Kanodia said, âThe Government may permit data transfers through mutually recognised frameworks, thereby enabling secure and lawful data exchange between India and such foreign states.â She referred to arrangements like MLATs, which allow allied nations to exchange information, including personal data, for criminal investigations.
+
+She also cited the SwissâUS Data Privacy Framework as an example of an arrangement that enables cross-border data flows despite Switzerlandâs restrictions on international data transfers.
+
+Kanodia added, âSimilarly, under the Act, where the processing of personal data is necessary for enforcing any legal right or claim, certain obligations of the Data Fiduciary and corresponding rights of the Data Principal may not apply.â She noted that Rule 23(1), read with the Seventh Schedule, allows state instrumentalities to process or disclose personal data to perform statutory functions or meet obligations under existing Indian law.
+
+Namita Vishwanath, Partner at CMS Indus Law, said the rule applies to anyone under the jurisdiction of a foreign state. She noted that the language covers âany foreign state or any person or entity under the control or agency of that state,â which includes private entities. Limiting it only to state instrumentalities, she said, would not address real-world data flows, because most data transfers are made to private companies, not governments.
+
+Ranjana Adhikari, Partner at Shardul Amarchand Mangaldas, said Rule 15 is broadly worded and restricts the act of making personal data available to a foreign state or to any person or entity under that stateâs control.
+
+Vishwanath said the law does not require the government to maintain a blacklist or whitelist, but she expects authorities to publish a single list of prohibited jurisdictions. She pointed to existing restricted lists under Foreign Direct Investment (FDI) and Federal Emergency Management Agency (FEMA) rules, where certain countries face investment prohibitions.
+
+She said authorities may also use an adequacy test that allows data transfers only to countries with protections comparable to the GDPR. These adequacy lists are reviewed periodically. She noted that before the DPDP Act, India was not considered âadequate,â so companies transferring data to India had to rely on contractual safeguards and certifications to meet GDPR-level protection standards.
+
+When asked how citizens would know if their data was shared with foreign entities, Vishwanath said undisclosed transfers eventually surface. Data principals may discover it themselves, cybersecurity audits may detect violations, or any security incident could expose non-compliance. Another data fiduciary involved in the transfer may also report a breach.
+
+For Significant Data Fiduciaries, she said, mandatory Data Protection Impact Assessments (DPIAs) would make violations even more visible.
+
+Vishwanath added that rising cyber fraud and misuse of personal data, both within and outside India, makes stronger safeguards essential. She said the DPDP Act addresses this by allowing the government to restrict or impose conditions on data transfers to foreign states that pose security risks. Rule 15 supports this by ensuring outbound transfers meet basic security and compliance requirements.
+
+Kanodia noted that India is following global data-protection frameworks such as the EUâs GDPR, Switzerlandâs Federal Act on Data Protection (FADP), and Chinaâs Personal Information Protection Law (PIPL). She said, âThese nations are becoming increasingly vigilant about protecting their citizens’ data, and in this context, no conflict with Indiaâs data protection framework is anticipated,â emphasising the possibility of globally standardised privacy-led cooperation.
+
+However, Vishwanath noted, âTill the government comes out with a list of jurisdictions where transfer is restricted or prohibited, it is difficult to fully understand what the impact of Rule 15 would be.â Adhikari agreed, adding that the real impact will become clearer once the substantive provisions of the DPDP Act and Rules come into effect and can be assessed on a case-by-case basis.
+
+Vishwanath concluded that Rule 15 aims to ensure that data fiduciaries meet basic conditions when they transfer personal data to another jurisdiction, while also offering alternative paths when those conditions cannot be met.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

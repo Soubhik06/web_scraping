@@ -1,0 +1,61 @@
+The lawsuit filed by the former WhatsApp security chief against Meta marks another pivotal moment in the long-running battle over digital accountability. By alleging that Meta ignored glaring security lapses, the case draws attention to the fragile balance between platform growth and user safety. Claims that 1,500 engineers had unrestricted access to sensitive data, without audit trails, strike at the heart of regulatory concerns that have dogged the company for years.
+
+Moreover, the reported daily account takeovers affecting around 100,000 users underline the real-world consequences of neglected safeguards. These figures suggest that millions could face exposure to fraud, identity theft, or surveillance while relying on WhatsApp for communication.
+
+Also, the allegation that management dismissed proposed fixes and retaliated against the whistleblower compounds the gravity of the matter.
+
+At the same time, Meta’s rebuttal, framing the former security chief as a disgruntled ex-employee, shows how the company seeks to recast the narrative. By citing poor performance reviews, Meta is attempting to weaken the credibility of the lawsuit.
+
+Nevertheless, this adds fresh scrutiny to Meta’s compliance with data and privacy regulations. As the case is examined, the broader debate over corporate responsibility in safeguarding billions of users will only intensify.
+
+A lawsuit filed by former WhatsApp Head of Security Attaullah Baig, in the US District Court for the Northern District of California, alleges cybersecurity and privacy defects against the messaging platform.
+
+For context, the lawsuit lays out multiple claims against Meta and its senior executives, including Mark Zuckerberg.
+
+Firstly, Baig contends that Meta’s WhatsApp platform exposed billions of users to risk by ignoring critical digital-security lapses. Specifically, he asserts that approximately 1,500 engineers enjoyed unrestricted access to sensitive user data without oversight, potentially flouting a 2020 US regulatory order and breaching the General Data Protection Regulation (GDPR), among other laws.
+
+Secondly, he maintains that WhatsApp failed to remedy daily account takeovers affecting around 100,000 users, despite advised improvements: a failure he says undermined accounts’ safety.
+
+Moreover, Baig claims that he faced escalating retaliation after raising these concerns, including downgraded performance reviews, restrictive oversight, and ultimately his dismissal in early 2025.
+
+According to The Guardian , Meta responded via WhatsApp Vice-President of Communications Carl Woog, stating: “Sadly, this is a familiar playbook in which a former employee is dismissed for poor performance and then goes public with distorted claims that misrepresent the ongoing hard work of our team”.
+
+Additionally, Meta emphasised that multiple senior engineers independently assessed Baig’s work as below expectations and that his performance was unsatisfactory.
+
+The company noted that the Department of Labor’s Occupational Safety and Health Administration (OSHA) dismissed Baig’s complaint, finding no link between Baig’s security warnings and his termination.
+
+In his lawsuit against Meta, Baig has highlighted critical security lapses. In September 2021, Baig discovered that roughly 1,500 WhatsApp engineers had “unrestricted access to user data”, including “sensitive personal information” without any “audit trail” to track their activity.
+
+This violated the US Federal Trade Commission’s (FTC) requirements that mandate limited access controls for employees. Furthermore, he identified a failure to maintain an inventory of users’ data.
+
+Baig’s discoveries also included the “lack of a 24/7 Security Operations Centre”: that prevented the detection of data breaches. He also noted a lack of systems to monitor user data access, hindering the detection of suspicious activity.
+
+Elsewhere, the complaint states that approximately 100,000 users suffered daily account takeovers (hacks or account theft),  with the company not implementing adequate preventive measures. Baig’s team built features to mitigate risks and protect users, but Meta “blocked the launch of these features”.
+
+According to the lawsuit, Baig’s concerns were “consistently ignored” by leadership, starting with his supervisor. In August 2022, he escalated the issues to senior executives, including Will Cathcart, the Vice President and Head of WhatsApp.
+
+Baig prepared a detailed document outlining six critical cybersecurity failures and “explicitly warned of legal consequences”. Despite a senior executive acknowledging the “gravity of the situation”, the company’s leadership failed to act.
+
+Ultimately, management retaliated against him by allegedly fabricating performance issues and terminating his employment.
+
+The lawsuit quotes an employee who says that “this company runs on PSC (Performance Summary Cycle)”. For context, this is WhatsApp’s performance and reward structure for engineers, suggesting that performance metrics are prioritised over security.
+
+According to the lawsuit, Meta and WhatsApp have allegedly broken and failed to adhere to several key regulations, most notably the 2020 FTC Privacy Order. This order mandates that Meta must maintain a robust privacy programme to protect user data.
+
+However, the lawsuit alleges the company violated this, as its engineers got unrestricted access to user data sans any audit trail. This contravenes the requirement for access controls to be limited to employees with a ‘documented business need’.
+
+Furthermore, Baig’s suit also references violations of the Sarbanes-Oxley Act of 2002 (SOX). For context, the law protects employees of publicly traded companies who provide evidence of fraud.
+
+Additionally, the lawsuit highlights non-compliance with the GDPR, a European Union law that sets standards for data privacy and security. In particular, the complaint states that WhatsApp failed to maintain an inventory of users’ data as required by GDPR.
+
+Significantly, the Irish Data Protection Commission (IDPC), which is the lead data protection authority in the EU, has already fined WhatsApp €225 million for similar issues in 2021, and an additional €5.5 million in January 2023.
+
+As a result of these alleged violations, Baig has requested that OSHA investigate his complaint and issue a determination that Meta violated the SOX Act by dismissing him.
+
+Furthermore, Baig is seeking appropriate damages to compensate for the economic and professional losses, as well as the emotional distress he has suffered.
+
+Also Read :
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,29 @@
+The French Government is considering a proposal to ban free and shared WiFi connections during a state of emergency, and block Tor permanently, reports Ars Technica . The proposals could be presented to parliament as early as January 2016.
+
+The legislatures are justifying the WiFi blocking by citing the difficulty faced in tracking people using public hotspots. The second proposal will make it illegal to access Tor networks within France, although it is not clear if the Ministry of Interior (France) will look to block the service as well.
+
+What is Tor? Tor is a free software that enables anonymous communication. It directs internet traffic through a free volunteer network concealing the user’s location. The routing is implemented by encrypting the data multiple times, including the destination IP address and sending it through randomly selected nodes of its network. The final node sends the original data to its destination without knowing the source IP address, thereby eliminating a single point at which the source and the destination can be revealed. However, due to all exit nodes of a Tor network being known, the entire network can be banned by blocking those IP ranges or specific servers.
+
+If Tor networks are banned, users using the network for legitimate purposes will suffer the most. There are other ways to encrypt and send data which won’t be as simple blocking ToR nationwide, making this a pretty shortsighted move.
+
+Of course, since the Paris terrorist attack, it’s not just Tor network that have come under attack. The EU and other governments around the world are looking to scapegoat encryption as the biggest point of failure causing terrorist attacks.
+
+EU’s stand against encryption : Earlier this month, firms including Facebook, Twitter, Microsoft, Apple and Google met with government and law-enforcement officials from the EU to discuss whether tech firms should build backdoors into encryption tools that could be used by terrorists to plan future attacks, a rhetoric, which has only grown stronger after the Paris attacks.
+
+US takes a similar stand : In October, FBI Director James Comey said that the government would not ask for a legislation requiring the tech sector to install backdoors in products to access encrypted data for now, but said it ‘made sense to continue conversations with industry.’ However, many officials in the country have called for backdoors in encryption, and post the Paris attack, Comey went as far as to say Silicon Valley’s encryption is a “business model problem” .
+
+Kazakhstan national security certificate : In Asia, the Kazakh Government recently mandated that from the 1st of January 2016, all devices that are capable of connecting to the internet will require a national security certificate . The certificate will essentially act as a man-in-the-middle attack , reading all packets sent from the device before they are encrypted, and keeping track of all incoming communication.
+
+Weakening security in the name of security : Making encryption the scapegoat, and a solution to terrorism is a wrong and dangerous idea. In case a mandate is passed to ensure that the HTTPS protocol has a backdoor, is there a reason why terrorists will be obliged to used the encryption in its weakened state? They can instead use the previous versions which did not have such a backdoor and nothing is stopping them from coming up with their own form of encryption.
+
+With weakened encryption, terrorists and malicious users will simply find an alternate encryptions to use, rather than use the globally accepted methods. This will lead to common users being forced to use insecure encryption, making them more vulnerable to terrorists and malicious social elements, while the actual culprits stay safe. As the Information Technology Industry Council, whose members include Apple and Microsoft, aptly put it , “Weakening security with the aim of advancing security simply does not make sense.”
+
+Also read :
+
+– Draft National Encryption Policy paper withdrawn, says telecom minister R S Prasad
+
+– Updated: India’s draft encryption policy puts user privacy in danger
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

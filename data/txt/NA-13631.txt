@@ -1,0 +1,91 @@
+The Election Commission of India (ECI) has expressed interest in instituting a video analytics system to profile voters and monitor their behaviour at polling stations, Sanjeev Kumar, chairman of the Telecommunication Consultants India Limited (TCIL) told MediaNama in an exclusive interview. This comes a week after there there were news reports that the ECI wants to commission an analytics-based system to monitor and study voter behaviour at polling booths.
+
+This development has raised concerns around privacy as well as the sanctity of elections. Read moreÂ reactions from stakeholders here .
+
+MediaNama dug further to try and understand the specifics of the project, and learnt that the idea for the project was first floated in December 2021, with a plan to do a Proof-of-Concept (PoC) in one of the many states where assembly elections are ongoing. Here are selected excerpts from the interview with Kumar.Â
+
+Sanjeev Kumar: Â They have only asked video analytics at polling stations and for profiling of the population and to observe their behaviour in polling stations. This would let them know how many women, men, senior citizens, youth are voting, etc. They would also be able to detect any suspicious behaviour, monitor the behaviour of the adult population who are coming to vote. However allowing voting there through Aadhaar-based and facial recognition requires a change in law.
+
+MediaNama: Is there some…(provision to change the law)
+
+Snajeev Kumar: I don’t know. The government has to take a call on that. See there was plan to conduct a POC of this solution in one of the States during this election. Initially the plan was for Uttar Pradesh, then later on particularly the West UP side. Then they thought in Punjab but it was not practical.
+
+MediaNama: Because?
+
+Sanjeev Kumar: Because of the final go ahead not received from Election Commission.
+
+MediaNama : Any reason why?
+
+Sanjeev Kumar: I can’t comment on that
+
+MediaNama : So now what are they planning to do with the POC?
+
+Sanjeev Kumar: Because the POC can be done only during a live election, we have to wait for another election to come.
+
+MediaNama: Right. But any indication by when they would want something like this?
+
+Sanjeev Kumar : No, nothing.
+
+MediaNama: Okay, so once it goes ahead, when you have a POC, would TCIL be trying to build it in house with state owned firms?
+
+Sanjeev Kumar: See video analytics is a very proprietary technology, it is based on artificial intellgience. There are few companies who have expertise in that. We have to take help of those companies. We are not into software development, but what we are into solution delivery where we say like we pick up from camera company. That way we integrate and provide a solution.
+
+MediaNama: Okay. When was this idea first floated?
+
+Sanjeev Kumar: See now video analytics is being used and it’s going to be used proactively for conducting online exam also, or any recruitment process also. Nowadays whether it’s a recruitment or online exam, you are submitting your application form online. So you are capturing your signature, your photo etc.
+
+So once we say put up a camera at the gate of the center it captures the face there and it is able to- through video analytics is already captured there at the time of application submission there – (confirm) that you are the right candidate, if you are not there then you are not permitted to enter that. That is –
+
+1. At the time when you are entering the center of the exam.
+
+2. When you are really in the exam so there also to ensure that you are not indulging in any activities, copying or cheating etc.
+
+So again this video analytics applications can be used there. So you have to put a camera in every hall where with your body language, your facial, it can be identified that you are indulging in cheating of some other activities. So from that this idea flowed that if it can be used for conducting online exam or recruitment in a secure way then why not use it in polling also?
+
+Even CBSE is considering that. CBSE has written us a letter and we are awaiting a call from them to give a presentation for providing this kind of solution. In fact they are just given an open case- sorry it was from SSC (Staff selection service)- how they can conduct the exam in a secure way. So this is one of the facial recognitions is one of the options there. Second is probably you capture your signature also there but then signature if you want to identify somebody through signature it has to be done at individual level. Whereas the facial recognition is just you’re moving and it monitor your behavior during (examination) hall also. Biometric, again, it will be time consuming. That you have to wait, put your thumb on that there, facial recongtion is very fast.
+
+In our own office, we have put out this facial recognition attendance system. These are old devices where you have to wait for 3 seconds to register your attendance. Nowadays the technology is so fast as you are moving into them, it captures your image and attendance is done.
+
+MediaNama: So the ECI initially came up with this in 2021 (or) 2020?
+
+Sanjeev Kumar: See, this discussion happened only the last month of the calendar, 2021 calender year and then it was thought that elections are coming up in three, four States. We can choose one of the state for POC purposes but somehow because – I can’t comment on that – it could not go ahead.
+
+Sanjeev Kumar: Â Through video analytics, you can do profiling of population can monitor the conduct and behavior of the people who are coming to pass their vote. Nowadays, what is happening? You are using this, you know, voting machines where you pass your vote and then those voting machines are transported to. Of course, election Commission has not asked for it, but this is how the technology can be used. Again, video analysis, when you have a voter card there, your photo is captured. So that video analysis also can help to identify that you are the registered motor for that polling station by comparing your face with the photo which is already captured in the-. Yeah. So if somebody else is coming to pass the vote there immediately, it will generate the alert there that this is not the valid voter there for this particular polling station.
+
+MediaNama: Okay, cross check it against the electoral roll…
+
+Sanjeev Kumar: Now, there are other technological solutions also there which can help in faster counting there. Like the voting machines are manually transported from polling station there to central warehouse where the counting takes place. If these voting machines can be connected online with the central data server, so immediately, as soon as you cast your vote, your vote can be securely saved in the data center when the last polling happens, you immediately know what is the result. Okay, so using encryption and proper security features, you can safely transfer the data online from the voting machine to the central database.
+
+“EC neither has asked this, it is my view then that how we can make it more efficient, more transparent” – Sanjeev Kumar
+
+MediaNama:Â Okay, so you mentioned – there was an ET telecom interview and you mentioned in that interview – that you’d want a GSM module?
+
+Sanjeev Kumar: Yeah. See like providing a physical connectivity through landline fiber or at all polling station. It may not be technically feasible and that too in a short span of time. So we can leverage the SD-WAN technology where have a combination of GSM module which is 4G module and wherever the easy connectivity of landline, fixed media is available. So that can be combined, and both the technology can be leveraged to provide online connectivity of the voting machine to the central server collating all the vote across the country. Second government though is thinking there that why not use Aadhaar also? Of course, it’s a political question. Aadhar is not used there. But if we make it possible now to cast vote there through your either face recognition technique or Aadhar-based, you can cast your vote anyway. You don’t require to be at that polling station.
+
+MediaNama: Yeah, but the privacy concerns around that from a lot of…
+
+Sanjeev Kumar: See for Aadhaar there may be privacy concerns, therefore faced recognition based techniques. What is the Privacy concern? You are being identified there, whatever the photo is captured there at the time your photo card is made, with that you are identified same person and you are able to cast your vote. Yeah, but here biometric becomes more foolproof there for the reason that your voter card might have been made 20 years before and with time, you know, the face changes so that issue will come in that. But if you add this Iris based or biometric-based identity proof in that, then it is made more foolproof.
+
+MediaNama : So there’s also a concern with solutions like this that the algorithm that you have for such face matching or something will come from the west or something and might not be suitable for the Indian ethnicity.
+
+Sanjeev Kumar: See that’s not the case there. But if you see what is happening in the world, most of the MNCs, they are opening their R&D or they already have R&D center in India. It is our guys who are doing, engineers, who are doing R&D either sitting in Hyderabad or Bangalore or Gurgaon or somewhere. The patent of those technologies are done by the company either of Europe or of USA and if it is a software product, then nothing else is required.Â  If its a hardware product then manufacturing done in China.
+
+“So this is how the cycle that our own guys are doing R&D but being patented by MNCs in foreign countries, getting manufactured in China and coming back again to India as a product there,” – Sanjeev Kumar
+
+Now the government is putting a lot of emphasis to break this whole cycle so that we have some manufacturing capability also here in India and we have our own R&D. This private-corporate, they are not able to invest more in RNA in India. So the government has come out with a budget of Rs 76,000 if you might have heard in the news which will be funded by USO funds for promoting R&D in the country. So for R&D USO fund support will be then for manufacturing. Also as you might have heard that the government is bringing lot of investment there for putting fab (production facility for manufacturing advanced electronic products) in country so that you are able to manufacture the chips in country, have production capabilities within country instead of depending on the foreign land for manufacturing. So whole cycle will now be in India- R&D also here, patenting also here, manufacturing also here. So it’s going to bring a paradigm change in our economic development. Definitely when you start from the scratch the challenge which India was facing in FAB setup in India was like this Taiwan PSMSE- it’s one of the biggest chip manufacturing company.- the technology which they were ready to give earlier that was older technology like 21 Nm technology. Nowadays you have nine nanometer technology available, they are not ready to give the latest technology. But then the government – PSMSE is manuafacturer of chip, but the chip which is designed by either the Mediatek or by Qualcomm or Samsung and who is designing for them? Its the Indian engineer there who’s sitting here in Bangalore and Hyderabad.
+
+So the problem was that enough investment was not being put up by the companies to facilitate R&D. Now government is saying, okay, we’ll provide this as infrastructure for us. Funding through you are so funded.
+
+MediaNama: But now you’re thinking with all of these impetus with a new system that you might implement with the ECI this problem would not be there anymore.
+
+Sanjeev Kumar: Â Because India has a stand in software designing, so there are many areas where we have within our own countryÂ  because it does not require hardware. We have strength software. So I don’t see much problem (with) software development happening here then once the support from the government is also going for funding that expenditure.
+
+The excerpts above have been lightly edited for brevity.Â
+
+Also Read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

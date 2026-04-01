@@ -1,0 +1,31 @@
+Update, June 3, 1:35 PM: In response to questions sent across by MediaNama, Vi explained that the service will callers from other networks too, not just its own. Initially, the company plans to limit the caller ID service to VoLTE customers. When asked about how the service will provide details of callers from other networks, Vi explained that the terminating network (network of the caller receiver) will fetch caller details from the originating network (the caller’s network) for all voice over LTE terminating calls. As such, no central repository of customer names is necessary for the service.
+
+With regards to customer consent, opt-out options, the company said that it will base service implementation on the Department of Telecommunications’ (DoT) instructions. The company believes that the government will take an appropriate call on user privacy-related decisions.
+
+Vodafone Idea (Vi) announced that it has launched calling name presentation (CNAP) for users on its network to be able to identify who is calling them, as per the company’s earnings call for the quarter ending March 31, 2025. This suggests that if you are a Vi customer, you see the caller IDs of people whose numbers you do not have stored on your phone.
+
+“We also implemented the initiative of identifying the calling name presentation, whereby the name of the calling party will be displayed with each call. In case of international calls, while the name will not be identified, the calls will be identified as [an] international call,” the company’s CEO, Akshaya Moondra, mentioned during the earnings call.
+
+Moondra informed investors of this implementation in the context of the company’s spam filter initiative for messages. Launched in December last year , the service uses AI and machine learning for real-time monitoring of spam messages.
+
+Moondra explained that through its spam filter Vi is blocking about 0.6 million SMSes per day. It also flags 1.8 million SMSes as suspected spam messages. “We have also implemented identification of suspected spam calls in Mumbai and Delhi, and are currently identifying around 12 million calls every day as suspected spam calls,” he said, adding that both the spam filter and the CNAP initiative would go a long way in safeguarding Vi customers.
+
+This comes after the Telecom Regulatory Authority of India (TRAI) recommended in February 2024 that the CNAP supplementary service should be introduced in the Indian telecom networks. The regulator had first consulted stakeholders about the idea of CNAP back in 2022 , as a solution to spam from unregistered telemarketers. It explained that people end up missing genuine calls because they prefer not to answer calls from unknown numbers. It noted that smartphone apps (like Truecaller) that identify callers, do not meet identification requirements because they rely on crowd-sourced data.
+
+Ever since the idea was first suggested in 2022, many have expressed concern about its impact on customer privacy. In fact, the Cellular Operators Association of India (COAI) had also flagged privacy concerns with the plan. The association suggested that the regulator should make CNAP optional because not every customer may want their name to be shared in such a way.
+
+Since the 2024 recommendation, there has been sporadic news about plans to implement CNAP. In June 2024 , The Hindu reported that Vi, Bharti Airtel and Reliance Jio had begun trials for CNAP in Mumbai and Haryana. It stated that the caller ID would only be available to 4G/5G users, adding that telcos had a mid-July 2024 deadline to start CNAP services.
+
+However, as July came and went, CNAP implementation was no closer in sight. In fact, when MediaNama filed an RTI in December 2024 to seek details of the status of CNAP implementation and any communication the Government had with telcos about implementing the service, the Centre said that TRAI was yet to finalise its recommendations.
+
+In March this year, Live Mint reported that the three private telcos have tapped into the services of  HP, Dell, Ericsson, and Nokia for servers and software needed to make this feature possible. Unnamed sources from the telecom industry told the publication that they are ready to launch the service and have ordered equipment from the above-mentioned vendors.
+
+Despite no clarity on official CNAP implementation, Airtel launched a fairly similar service in May this year . Namely, the Business Name Display (BND), this service adds to Airtel’s spam filter and shows customers the name of businesses that call them. To make this happen, Airtel collaborated with over 250 businesses across various sectors. Further, it reportedly allowed businesses that used the services of competing providers to register their numbers with Airtel for identification purposes.
+
+Note: MediaNama has reached out to Vi with the questions above to understand the service better. We will update the story once we hear back from them.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

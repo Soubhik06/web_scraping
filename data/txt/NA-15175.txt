@@ -1,0 +1,95 @@
+India’s Ministry of Electronics and Information Technology (MeitY) on November 18 released the much-awaitedÂ Digital Personal Data Protection (DPDP) Bill, 2022 [ PDF copy ].
+
+This fourth iteration of Indiaâs draft data protection law is a significantly shortened and revised version, which does away with or dilutes many of the earlier provisions. While companies are likely to welcome this simpler version, privacy advocates are expected to push back.Â MeitY has invited feedback from the public on the Bill by December 17, 2022. The feedback may be submitted on the MyGov website .
+
+Note that many provisions in theÂ Bill, and consequentially in this summary, have a clause saying “as may be prescribed” or its equivalence. This Bill essentially relies onâand gives the powers toâthe central government to issue Rules later on to clarify these provisions.
+
+For a section-by-section summary of the Bill as well as comparisons to previous iterations of the Bill, check out our Guide To Indiaâs Digital Personal Data Protection Bill, 2022
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+1. Personal data can only beÂ processed with consent or deemed consent:Â Fiduciaries can only process personal data for lawful purposes for which the Data Principal has given or is deemed to have given consent. The processing must be in accordance with this Act.
+
+2. Notice must be issued when seeking consent:Â When seeking consent, or as soon as it is reasonably practicable, Fiduciaries must give the users a notice that describes what personal data will be collected and for what purpose. The notice must be presented in a form “as may be prescribed.”
+
+3. Measures to adhere to while obtaining consent:Â
+
+4. When is it considered deemed consent: A Data Principal is deemed to have given consent to the processing of her personal data if such processing is necessary for the following purposes:
+
+5.Â Maintaining the accuracy of data:Â Data Fiduciaries mustÂ make reasonable efforts to ensure that personal data processed by or on behalf of the Data Fiduciary is accurate and complete, especially if the personal data is to be used to make a decision that affects the Principal or if it is to be disclosed to another Data Fiduciary.
+
+6.Â Preventing and notifying data breaches:Â Data Fiduciaries and Data Processors must “protect personal data in its possession or under its control by taking reasonable security safeguards to prevent personal data breach.” In case of a data breach, the Data Protection Board and concerned Data PrincipalsÂ must be notified in such as manner “as may be prescribed.”
+
+7. Retention of personal data:Â Data Fiduciaries must stop retaining personal data, or remove the means by which the personal data can be associated with particular Data Principals, as soon as it is reasonable to assume that:
+
+For example, if a user deletes a social media account, the personal data shared with the platform must be removed. However, this does not apply if required for legal purposes. For example, if a person opens a bank account and closes it within 6 months, the bank can store the KYC data for longer because they are required to do so under other laws.
+
+8. Appointing a DataÂ Protection Officer orÂ contact person:Â Data Fiduciaries must publish theÂ “business contact information of a Data Protection Officer, if applicable, or a person who is able to answer on behalf of the Data Fiduciary, the Data Principalâs questions about the processing of her personal data” in a format “as may be prescribed.” For significant fiduciaries it’s DPO, for others it can be any other officer.
+
+9. Grievance redressal mechanism:Â Data Fiduciaries must have in place “a procedure and effective mechanism to redress the grievances of Data Principals.”
+
+10. Measures to adhere to the provision: Data Fiduciaries must implement “appropriate technical and organizational measures to ensure effective adherence with the provisions of this Act.”
+
+The government will notify the criteria for Significant Data Fiduciaries based on the following factors:
+
+In addition to complying with obligations applicable to all Data Fiduciaries, a significant Data Fiduciary is required to:
+
+In addition to complying with obligations applicable to all Data Fiduciaries and Significant Data Fiduciaries, if applicable, a Data Fiduciary processing data of anyone under the age of 18 Â is required to:
+
+1. Right to information about personal data:Â The user has the right to know
+
+2. Right to correction and erasure of personal data:Â The Data Principal has theÂ right to request for correction and erasure of her personal data “in accordance with the applicable laws and in such manner as may be prescribed.” Erasure requests can be denied if data must be retained for legal purposes.
+
+3. Right of grievance redressal: Users have the right to register a grievance with a Data Fiduciary. And if the response from the Fiduciary is not satisfactory or a response is not received in seven days or “as may be prescribed”, the user may register a complaint with the Data Protection Board in a manner “as may be prescribed.”
+
+4. Right to nominate: A Data Principal has the right to nominate any other individual to exercise their rights in the event of the Principal’s death or if the Principal is incapacitated, in such manner “as may be prescribed.”
+
+5. Duties of Data Principals:Â
+
+Data Fiduciaries can transfer personal data outside of India to countries or territories that have been approved by the central government “in accordance with such terms and conditions as may be specified.”
+
+The central government can issue a notification to exempt any âinstrumentality of the stateâ from the provisions of the Bill in the interests of the:
+
+Additionally, the government and its agencies can retain personal data for an unlimited period of time regardless of whether the purpose for which data was collected has been served.
+
+1. Exemptions for a class of dataÂ fiduciaries:Â The central government has the power to exempt certain Data Fiduciaries or a class of Data Fiduciaries, based on the volume and nature of personal data they process,Â from certain provisions of the Bill. Specifically, these Fiduciaries will be exempt from:
+
+While this could be used to exempt smaller data fiduciaries from some onerous obligations, there is no limitation on who can be exempt.
+
+2. Exemptions for certain use cases: The Bill exempts entities from provisions of Chapter 2 (obligations of Data Fiduciaries) except sub-section 4 (provision related to securing data) of section 9, Chapter 3 (rights and duties of Data Principals), and Section 17 (transfer of personal data outside India) of this Act when:
+
+3. Exemption for research and statistical purposes: The central government can exempt entities when the processing of personal data is ânecessary for research, archiving or statistical purposes if the personal data is not to be used to take any decision specific to a Data Principal and such processing is carried on in accordance with standards specified by the [Data Protection] Board.â
+
+Establishment of the Data Protection Board of India (DPBI): Â The central government will establish the DPBI by issuing a notification.
+
+Functions of the Board:Â
+
+Process for the Board to follow while conducting inquiries:Â
+
+Review and appeal of Board orders:Â
+
+Alternate Dispute Resolution:Â If the Board is of the opinion that any complaint can be more appropriately resolved by mediation or other processes of dispute resolution, the Board may direct the concerned parties to the alternative dispute resolution option.
+
+Voluntary undertaking:Â The Board can accept voluntary undertakings from entities in respect of any matter related to compliance with provisions of this Act. The undertaking must include specific actions and timelines, and must be publicised. Board can request for the terms of the undertaking to be modified. If accepted, any ongoing relevant proceedings against the concerned entity must be barred unless the terms of the undertaking and not complied with.
+
+Applicable penalties according to Schedule 1 of the Bill:Â
+
+Board gets to determine the quantum of penalty:Â If the non-compliance by a person is deemed significant by the Board, the Board can determine the quantum of financial penalty to issue as long as it adheres to Schedule 1 published by the government. To determine the amount, the Board should consider the following factors:
+
+Penalties cannot be greater than â¹500 crores:Â The central government has the power to amend Schedule 1 by issuing a notification. But theÂ Schedule cannot be modified by the government to exceed â¹500 crores in any instance of non-compliance and the amendment must be presented to the parliament for debate after it’s notified.
+
+If any difficulty arises in giving effect to the provisions of this Act, the Bill allows the government to, within 5 years of the Act going into effect, issue an order to add provisions to the Act to remove the difficulties as long as the new provisions are not inconsistent with the existing provisions of the Act.
+
+Note (21 November, 10:50 am): Earlier weÂ stated that aÂ notificationÂ to update theÂ schedule of penalties must be presented to the parliament “before” it’s issued. It is, in fact, only required to beÂ presented for debate “after.” The error is regretted.Â
+
+Note (24 November, 10:00 am): Changed the header and content for exemption no. 1 under Â “Other exemptions from the Act” to clarify that it can be any class of data fiduciaries and that smaller data fiduciaries are just an example.
+
+Note (1 December, 9:00 am):Â Clarified theÂ provisions aroundÂ appointment of DPO or other officers byÂ fiduciaries andÂ provision around Consent Managers.
+
+This post is released under aÂ CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,69 @@
+“…The more meaningful [notice] is, the more engaging it is, the better it is curated and drafted, the more it’ll help the data subject or the Data Principal make an informed decision. And it will serve the two-fold purpose that is one, be compliant and two, ensure that the data subject is aware of their rights and it is in that sense, the empowerment, the data subject would be in a position to make that informed decision…” said Abha Tiwari, Legal Head and Data Protection Officer at Renault, when discussing how companies should create a format for privacy notices that are sent to users prior to processing of data.
+
+Tiwari spoke during MediaNama’s flagship event ‘PrivacyNama’ alongside other speakers such as Rajeev Sharma, Vice President of Tata 1 Mg, Richa Mukherjee, Director of Public Policy and Corporate Affairs at PayU, B. G. Mahesh, Co-Founder of DigiSahamati Foundation, and moderator Sreenidhi Srinivasan, Partner at Ikigai Law to discuss the next steps following the passing of the Digital Personal Data Protection Act, 2023 (DPDP).
+
+The full conversation can be seen here:
+
+This discussion was organised with support from Meta, PhonePe, Google, and Salesforce, and in partnership with CUTS and the Centre for Communication Governance.
+
+Notice has to ensure transparency for the user: Sharma said it is important that big platforms like marketplaces and companies make efforts to ensure that the user understands what the data will be used for, the duration of the use and the purpose. He asked that there be a balance between data accessibility and transparency to the user for informed consent, including information about the risk associated with the processing.
+
+“There needs to be very transparent messaging made to the user for that to be done and that’s something that we are not right now very clear upon, but I would say with just the premise of notice, I would really want companies to go one step ahead. And there are a few examples in the EU, GDPR and few other places where we can look up to for transparency and accessibility and affirmative tick in the box,” said Sharma.
+
+Is notice required if consent is not required? Yes, according to Tiwari. She argued that while the law mentions two basis of processing, consent-based and for legitimate uses, both would require that the user receive a notice prior to processing.
+
+“Consent, we are clear, you have to have a notice. It has to be, it can be processed only after a notice is provided. If you look at legitimate use, the interesting part in legitimate uses is that while it says that the data subject has voluntarily provided the data and has not indicated that the consent is withdrawn, but then it again talks about specified purpose. Now let’s go back and look at the definition of specified purpose. As far as I can recollect, the specified purpose again says that it is the purpose for which the notice has been provided to data subject. So, according to me, in both the circumstances, there are only two basis of processing the personal data and on these two basis, the data subject has to be provided with a notice,” said Tiwari.
+
+However, Srinivasan disagreed that the legitimate uses section required notices in the eight situations listed. Still she agreed there’s generally a requirement to adhere to organizational technical measures and give effect to the law.
+
+How can data processors send notices to users? While others discussed the format for privacy notices, Mukherjee asked how data processing companies like PayU can send notices to users when in a B2B space. She said that payments aggregators sit between the merchant and the bank, meaning that the data is transferred to the company via the merchant.
+
+“We do not have any interface with the end consumers who is making the purchase on the website or any online platform. So [considering] the entire premise that we are not able to have the direct interface with the customer, how do we give the prior notice or how do we seek the consent is a bit challenging… What I feel is, for intermediaries like us, there should be either a special carve out wherein we are either given an exemption or there should be a facility that the notice or the consent can be given at a later stage once the processing is done with the clear opt-out facility,” said Mukherjee.
+
+5 possible types of privacy notices: Tiwari listed five ways for entities to inform users about the data processing/ usage activities. These are:
+
+Layered notice : Tiwari called it a “flow down” document that at first “just the right amount of information” to the users followed by links containing more details if the user wants to read the same. While Tiawri said this is a universally recognised best-practice, she stressed that the notice should not contain more than three layers/ links.
+
+Just-in-time notice: Tiwari called these preferred modes of delivering notices wherein there are different stages at which the data gets collected. “So right before the data is being collected of the data subject, there is a notice which is delivered to the data subjects,” said Tiwari.
+
+Icons and symbols: Just as the danger/trigger/caution symbol is globally recognised by people, Tiwari suggested formulation of similar common symbols within the notices to flag various aspects of the document in a more relatable manner.
+
+QR codes: This makes it easier for users on smaller or wearable devices to scan the QR code and read the privacy notice on another device and so understand how the data is being handled.
+
+Privacy dashboard: This would be a single page where the data that is collected, processed, details of the data, entities and all the elements that are required for a notice can be stored and presented.
+
+“While I say, while I share these five methods, considering the experience that we have after GDPR or with CCPA or privacy laws across jurisdictions, we’ve also come across certain instances where the privacy notice is delivered in a form and format which is both audio visual so it’ll be a small clip which is playing,” said Tiwari.
+
+3 questions to remember when sending notices: Tiwari listed some questions to keep in mind when formulating notices for years. These are as follows:
+
+Purpose limitation brings in clear data retention obligation: Referring to sections 7 and 8 of the DPDP Act, another speaker Vrinda Bhandari, a Supreme Court Advocate, said the law brings in clear obligations to companies to erase personal data upon withdrawal of consent once the purpose of processing data is served. If the government actually introduces proper timelines, companies will have to update and review the records regularly and delete data that has served its purpose.
+
+“If you see section 7 which says that “a data fiduciary shall, unless retention is necessary with any law for the time being enforced, erase personal data upon the data principle withdrawing consent, or as soon as reasonable to assume that the specified purpose is no longer served.” So, generally, if you see any privacy policy today, it always says you can process the data for as long as the purpose is there, which is a very vaguely worded kind of obligation and effectively means that companies are allowed to keep your data for however long they believe that purpose is served… the next clause, which says that how you interpret this as soon as shall be deemed to have no longer be served means if I approach the date, if you have not taken any decision based on that data with me within a certain period of X months, or if I have not sort of benefited in any way in a certain period of X months, and the government will notify that X months, then that purpose is deemed to be served,” said Bhandari.
+
+Specified purpose cannot be infinite: Tiwari said that the specified purpose in the notice must be clearly defined by the organisation in a manner that is measurable, identifiable and able to demarcate the reason for the data collection. She said that the following rules can include certain parameters for the identification of the purpose.
+
+She also argued that consent when recorded can only be used in the context of the specific purpose and the third party other elements of the data usage will have to be differentiated. She also added that the definition of processing “is very huge,” since it could even cover data storage. This will mean that if the purpose is not specified or is too large then that may end up being in violation of the DPDP Act.
+
+High frequency platforms to be designed meticulously: Pointing out that currently consent-related information is in the fine-print that nobody really bothers to read, Sharma said a high frequency platform where people interact a lot will have to be designed very meticulously versus a low frequency platform. He gave the example of health data for a full-body health check-up, that is conducted annually., a relatively low frequency usage. Sharma said such platforms or entities don’t require as detailed a notice as others that interact with users on a much higher frequency.
+
+“I think if we can categorise into a couple of categories like low frequency, high, maybe mid frequency, and even if some sort of sectoral demarcation can be done to guide those industries, that will be helpful,” said Sharma.
+
+Notice currently need not contain granular information: Speaker Swati Punia, then Program Manager at the Centre for Communication Governance, argued that the notice provisions as they stand right now do not mandate to give third party sharing information. However, this may change in the following rules or codes of practice. In the GDPR, notice is expected to be unambiguous that obtains consent in a granular format.
+
+“It’s also problematic because if you’re getting so many of these kinds of notice consent formats where things are granular, are you that conscious and aware about, knowing exactly what leads to what. So, I think every time you get a choice, it’s also a burden in that sense. And hence, we all know about the consent fatigue, and that power asymmetry in terms of what you understand and what actually translates into. But I think there’s a lot of work also done around nutrition labels in different kinds of formats for notice and consent for people who have different accessibility needs,” said Punia.
+
+She said that the notion of “accessible” should be understood not just in the context of accessing infrastructure and connectivity, but by considering the various context and backgrounds of people.
+
+Notice can be formulated by considering other Indian laws: Bhandari talked about how it was a failure of policy-makers to not see the inspirations for formulating notice criteria from across sectoral laws in India. She gave the example of an RBI guideline that asks a digital lender toobtain a property document to provide a loan to a person. Once the loan terms ends and the purpose is served, the lender is obligated to return the original property document i.e., stop the using the data. If the document is not returned within the prescribed time, the person has the right to claim compensation to the extent of Rs. 5,000 per day of delay.
+
+Similarly, the Consumer Protection Act talks about product liability and compensation for service compensation to consumers if service providers do not adequately disclose the harms from the product/ service. The Act also has provisions that explain how inability to disclose potential harms or the entities that can process given data, can lead to compensation and product liability or violation.
+
+“So, we have that whole consent provision and it provides for different things notice needs to talk about,” said Bhandari, adding that lack of intermediaries to help consumers and lack of options for an alternate service provider are also elements that should be kept in mind with regard to the data protection law.
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,49 @@
+SUBREDDIT: r/india
+TITLE: Aadhaar data leak through Google search
+DATE: 2017-03-23
+SCORE: 295
+URL: https://www.reddit.com/r/india/comments/612i8j/aadhaar_data_leak_through_google_search/
+
+--- POST TEXT ---
+
+Hi,
+
+Admins wanted to remove the earlier post as it linked directly to the search. It is an important issue and most of the information can be found in this DNA news article, which has thoroughly explained the problem:
+
+&gt; * http://www.dnaindia.com/money/report-is-your-sensitive-data-like-aadhaar-pan-card-safe-with-the-government-2364851
+
+&gt; * https://thewire.in/118250/government-expose-personal-data-thousands-indians/ 
+
+&gt; * http://gadgets.ndtv.com/internet/news/government-departments-are-leaking-your-personal-data-and-you-should-be-worried-1672758
+
+The search shows that a lot of the data is on state government websites which uploaded them in plan text. Here are the first 10:
+
+1. Website of Joint Director, Higher Education, Konkan Region, Panvel.
+
+2. Website of Tripura Board of Secondary Education
+
+3. http://mhrd.gov.in/ (Ministry of Human Resource Development)
+
+4. MHRD again.
+
+5. National Payments Corporation of India
+
+6. DHLF Pramerica Life insurance
+
+7. APOnline.gov.in (Andhra Govt)
+
+8. Ambedkar Institute of Technology
+
+9. Employee Provident Fund, Kerala
+
+10. Zila Parishad, Maharashtra Govt.
+
+We are handing out sensitive information to government *babus* who are clearly not equipped to deal with it.
+
+In the previous thread, there was also discussion about how this data can be misused. [Here is an example](http://timesofindia.indiatimes.com/city/trichy/Aadhaar-card-misused-says-elderly-couple/articleshow/55447167.cms):
+
+&gt; Sunnambukara Street in Trichy were in for a shock when their request to exchange old currency notes was turned down by a nationalised bank, stating that their Aadhaar card number had already been used to exchange currency. 
+
+&gt;"I have no idea how it happened. The bank officials tried to help me but it was very clear that someone had misused my Aadhaar number," said Pandian.
+
+Please restrict the discussion to this thread and **do not share any link to any personal information**.

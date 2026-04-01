@@ -1,0 +1,26 @@
+SUBREDDIT: r/india
+TITLE: Redbus hack and db leak
+DATE: 2016-10-17
+SCORE: 187
+URL: https://www.reddit.com/r/india/comments/57vw76/redbus_hack_and_db_leak/
+
+--- POST TEXT ---
+
+Redbus.in was hacked last month All user data put up on darknet.
+
+No password reset/warning from the company,maybe they don't even know.
+
+Source:https://hacked-emails.com/leak/anon-redbusinlogs201609
+
+Made a separate thread,original comment here
+https://www.reddit.com/r/india/comments/57rr92/weekly_coders_hackers_all_tech_related_thread/d8ukw0y
+
+Also this seems like a good time to discuss website security,password reuse and accountability of the companies holding user data.
+
+EDIT:
+Redbus denies this leak
+https://twitter.com/redBus_in/status/787916312576229376
+
+EDIT 2:and later deletes the denial tweet
+
+EDIT 3:Redbus confirms hack but says passwords were not leaked,only a server containing logs were compromised

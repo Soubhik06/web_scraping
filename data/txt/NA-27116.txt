@@ -1,0 +1,25 @@
+SUBREDDIT: r/Scams
+TITLE: "New" Turbotax activation targeted scam
+DATE: 2022-04-12
+SCORE: 33
+URL: https://www.reddit.com/r/Scams/comments/u1f29l/new_turbotax_activation_targeted_scam/
+
+--- POST TEXT ---
+
+I wanted to create a post here as after doing some googling I was unable to find anything regarding a "Turbotax activation scam" going around at all and to hopefully help anyone who is trying to figure out if its a scam or not.
+
+To give a little context, I came in a little late to the situation but I was in my room when my mom called me telling me to see if I could come help with activating their Turbotax software as they were on the phone with "Turbotax tech support" and didn't know what they were talking about and to see if I could help understand what they were saying as I am much more tech savvy than they are. 
+
+She mentioned they were saying how they got a message saying there was a problem with the code and ("Turbotax") weren't able to activate it. (Code bought at Costco) and that apparently the person on the line was saying how "they weren't able to activate the code because there were some "foreign" connections on our network" and that Turbotax was connected to the computer trying to fix it. My ears instantly perked up as a lot of what they were saying just didn't add up. I went and looked at the laptop to see they were connected to TeamViewer and the Indian lady on the phone spouting out some stuff I can't recall, and I could hear another man in the background in the beginning of a pitch to another possible victim. But I noticed they had their command prompt open with the netstat command as well as the URL of the "Turbotax website" which wasn't actually an intuit URL and I instantly knew what was going on and had them mute the phone while I quickly killed the TeamViewer task and uninstalled the software so they wouldn't be able to get in again. I assume they are trying to run a "antivirus" scam on them or some other variation, it appears just like the Disney+/Amazon Prime scams going around as the pages they use are almost identical albeit the logo/company name is different.
+
+I asked them where my parents where they got the number to call and my dad (who is prone to getting malware/viruses) mentioned he saw it on the webpage and was adamant it was on the Turbotax website. After doing some digging in his recent history I was able to reasonably track his steps as I was not able to find anything online about a turbotax activation scam going on, and what I can deduce is he Yahoo searched "[installturbotax.com](https://installturbotax.com)" and a ton of the search results were all leading to a bunch of "[sites.google](https://sites.google)" which all lead to the page that my dad attempted to activate his code on. You can put any # there and it will fail no matter what obviously and lead you to a failed activation page which has the phone # to call. The representative on the phone also googled "Csrss.exe inkline" to try to say how that was malware of some kind. I copied all the pages and will post them below.
+
+Again I just thought I would put this out there for anyone else that might be trying to figure out if its a scam or not and hopefully save them from being tricked. (It definitely is)
+
+Links -
+
+[https://sites.google.com/a/installturbotax.online/intuit/installturbotax-com](https://sites.google.com/a/installturbotax.online/intuit/installturbotax-com) (page that you click on first thru search engine, then takes you to pages listed below)
+
+[https://turb.intutdown.me/](https://turb.intutdown.me/)
+
+[https://turb.intutdown.me/ActivationErrorFound](https://turb.intutdown.me/ActivationErrorFound)

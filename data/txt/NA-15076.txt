@@ -1,0 +1,55 @@
+The above were some of the key points raised at MediaNama’s Decoding India’s Data Protection Bill event held last week, where Nehaa Chaudhari from Ikigai Law, Ulrika Dellrud, Chief Privacy Officer at PayU, Uthara Ganesh, Head of Public Policy at Snap India, and Udbhav Tewari, Public Policy Advisor at Mozilla, shared their thoughts on the Data Protection Bill 2021 and the Joint Parliamentary Committee (JPC) report on Bill, both of which were tabled in the parliament in December 2021.
+
+This discussion was organised with support from Google, Flipkart, Meta and Star India, and in partnership with ADIF. To support future MediaNama discussions, please let us know here .
+
+Threshold of 18 years is too high: The Data Protection Bill 2021 sets the age of consent at 18 years, which multiple stakeholders have found to be too high. Commenting on this, Ganesh, pointed out that:
+
+Recommendation: The 18 years threshold for the age of consent should be removed from the Bill and should be left to the Data Protection Authority to come up with at a later stage after consulting relevant stakeholders, Ganesh recommended.
+
+Age verification poses privacy concerns: In order to verify age, platforms will have to collect some sort of ID, mostly a government-issued one. This has privacy ramifications because there will be mass collection retention of these IDs, Ganesh pointed out. This complexity has not been acknowledged by the Bill, Ganesh noted. And even if the age of consent was lowered, the concerns around how age verification will be carried out still remains.
+
+“I do think it’s something that that everyone in the ecosystem needs to get together to evolve a solution. […] But there are many things that you can do to try and ensure that people are in fact the age that they’re trying to say.” – Uthara Ganesh
+
+Recommendation: Ganesh recommended that age verification could be carried out by other means rather than government-issued ID and should be left for subordinate legislation by DPA. Examples of other methods include:
+
+Consent as the only ground for processing is inflexible and unlike GDPR: Noting that consent is pretty much the only ground for processing any kind of personal data, Chaudhari said that this is one of the major compliance burdens. Even though the Bill allows processing without consent for some “reasonable purposes”, these purposes are left for the Data Protection Authority to come up with at a later stage, which is not ideal, Chaudhari added.
+
+“I think this one of the instances where there is a fairly big sort of gap between how in India is thinking about grounds of processing versus what you have in the GDPR, where you have a legitimate interest ground, which can play out and be understood in several different ways like routines processing, direct marketing, network security, fraud detection, it could be a whole bunch of different things that could qualify as legitimate interest and we don’t have that kind of flexibility. ” – Nehaa Chaudhari
+
+Recommendation: There should be more grounds for companies to process personal data without consent such as legitimate interests, Chaudhari suggested.
+
+Removing trade secret exemption to data portability has unreasonably widened the scope of provision: Chaudhari strongly objected to the removal of the trade secret exception to data portability arguing that the provision is now wide enough to cover unreasonable cases. According to an earlier version of the Bill, users have the right to data portability, but fiduciaries could seek exemptions if the data in question contains trade secrets. Chaudhari explained that companies generate three types of data from users,
+
+The problem with the data portability provision as it stands is that it is wide enough to encompass all three kinds of data and the second and third types might fit the criteria of trade secrets, Chaudhari explained. In contrast, the GDPR restricted data portability to the first type of data, which is data that users have themselves provided, Chaudhari added.
+
+“There is a sort of underlying suspicion that I see playing out here if you look at the language that the committee has used to justify this change. […] I don’t know where that that deep distrust or deep suspicion is coming from because this is a question that the Srikrishna committee also examined in sufficient detail and very specifically noted in its report, not just in the text of the Bill, that you had the exception for trade secrets” – Nehaa Chaudhari
+
+Recommendation: Narrow the grounds for users right to data portability to reflect the GDPR standard or retain the exception to trade secrets and define the criteria for the same, Chaudhari suggested.
+
+What changes do you want in the Data Protection Bill from a company’s perspective. Do leave a comment.
+
+Data breach guidelines welcome, but not up to global standards: Speaking on the new data breach guidelines incorporated in the Bill, Tewari said that they are better than the current legal provisions that are there in India but still not up to global standards where there are shorter timelines for notifying customers.
+
+“Despite all of the data breaches that have taken place and inquiries that have been initiated both by the RBI and CERT, there still hasn’t been a time where a data breach has been been properly fined. So it’s very clear that even though provisions do exist under certain CERT rules, they aren’t really like working in practice. – Udbhav Tewari
+
+Recommendation: Consumers should be told that they were involved in a data breach in both shorter timelines as well as without the intermediation of the DPA unless there is a compelling reason otherwise, Tewari recommended. The penalty should be determined on a case by case basis by taking into account the extent of harm, size of the company, etc, Chaudhari added.
+
+Loaded term and that could even cover advertisements: Under the definition of harm, the Bill now includes “psychological manipulation which impairs the autonomy of the individual.” Tewari explained that the term “psychological manipulation” is a loaded term if you take the dictionary meaning.
+
+“Imagine you browsed a social media platform for one hour a day for a year, and at the end of it, you were radicalised, to what extent is the platform responsible for that and what role does the term psychological harm play there?”  –Udbhav Tewari.
+
+“This definition of harm could effectively mean all advertisements. […]  And I guess it’s worth saying that not all advertising is bad, medium and small businesses will often use targeted ads to get access to customers. Customers sometimes would prefer potentially relevant ads or non relevant ones as well. […] Pessimistic lawyers could interpret this to mean all advertising.” – Uthara Ganesh
+
+Recommendation: The psychological harm definition must be removed from the Bill and left for the DPA to come up with later. The DPA should define it more narrowly to address issues like dark patterns and consent, Tewari suggested.
+
+In its report, the JPC has recommended that all social media platforms, which do not act as intermediaries, should be treated as publishers and be held accountable for the content they host. Sharing her thoughts on this, Ganesh, said:
+
+“It certainly seemed as if just the broader mood music around tech policy at the time of JPC was having its conversations influenced some of these recommendations.” – Uthara Ganesh, Snap India
+
+Recommendation: Do not introduce provisions concerning content regulation into the Data Protection Bill and either let the IT Rules deal with it or introduce separate regulation after consulting relevant stakeholders, Ganesh recommended.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,93 @@
+Under the Mumbai Safe City Project, the Mumbai City Police wants to acquire over 30 cyber forensic tools and perform social media monitoring and analysis in response to ‘Nigerian frauds’, child pornography, fake profiles on social media platforms, and more.
+
+Like most cyber forensic tools, the ones sought by Mumbai City Police should be capable of creating an image of a device ; that is, they should be able to extract complete information from devices in a forensic evidence-worthy manner, according to a tender floated by the police recently. Additionally, the desired social media investigation tools should be able to analyse financial crimes from customer complaints on social media platforms, and carry out “anti-terror analysis” for identifying “sophisticated weapons and disruptive advances in technology,” the tender revealed.
+
+Mumbai City Police is also looking to appoint a senior cyber expert (who has “in-depth knowledge of investigations and analysis of forensic process”) and several cyber security experts for its labs that are scattered throughout the city.
+
+Despite its stated reason to tackle cyber crimes using these tools, some of the provisions of the tender spark concerns about privacy and surveillance that go beyond the Safe City Project. For instance, the Mumbai City Police tender requires cyber forensic tools to be able to profile people through social media platforms. But it does not define or specify who can be profiled through social media.
+
+The Ministry of Women and Child Development (MoWCD) in collaboration with the Ministry of Home Affairs launched Safe City projects in eight pilot cities in July last year. It had claimed that these pilot projects would promote the safety and security of women in these cities .
+
+Dear reader, we urgently need to build capacity to cover the fast-moving tech policy space. For that, our independent newsroom is counting on you . Subscribe to MediaNama today, and help us report on the policies that govern the internet.
+
+In the tender, the Mumbai City Police stated its requirement for establishing a Crime Data Analytics Cell which will have the capability to investigate various types of cyber crimes such as —
+
+Nigerian fraud: Mumbai City Police described Nigerian frauds as those carried out by “Nigerian organized crime, or Nigerian OC, may refer to a number of fraudsters, drug traffickers and racketeers of various sorts originating from Nigeria.”
+
+Data Theft: Mumbai City Police said that data theft in offices is “primarily caused by system administrators and office workers with access to technology such as database servers, desktop computers and a growing list of hand-held devices capable of storing digital information, such as USB flash drives, iPods and even digital cameras.”
+
+Online banking fraud: The police defined online banking fraud as, “Any type of banking related fraud scheme that may use email, web sites, chat rooms or message boards to present fraudulent solicitations to prospective victims.”
+
+D0S and DD0S attacks: “In computing, a denial-of-service (DoS) attack is an attempt to make a machine or network resource unavailable to its intended users…” the Mumbai City Police said. “A distributed denial-of-service (DDoS) is where the attack source is more than one–and often thousands–of unique IP addresses,” it added.
+
+Botnet attacks: The police said that a botnet is several Internet-connected computers communicating with other similar machines in an effort to carry out repetitive tasks and objectives such as sending spam emails or participating in distributed denial-of-service attacks.
+
+Cyber extortion: The police said that cyber extortion occurs when a website, e-mail server, or computer system is subjected to or threatened with repeated denial of service or other attacks by malicious hackers. “These hackers demand money in return for promising to stop the attacks and to offer “protection,” the police added.
+
+Apart from that, the Mumbai City Police also wants to detect —
+
+Although Mumbai Police did not specify the names of these tools, it did expand on what these tools should do. Some of their required functions are —
+
+Data extraction and analysis of mobile devices:
+
+Recommend best data extraction and analysis methods: Mumbai City Police said that this tool should automatically detect smartphone brands and models and recommend the best extraction solutions . Extraction processes should be available for Huawei, Xiaomi, Oppo, and ZTE smartphones.
+
+The tool should also have a “face matcher”. Mumbai Police described ‘face matcher’ as a tool that “ rapidly analyses large quantities of photos that users often have in their phones . Eliminate countless hours spent manually looking through photo albums. Simply supply photos of faces you want to find and let Face Matcher find the right photos on a phone or PC .”
+
+Examine evidence in mobile phones and computers: The police said that it requires an all-in-one forensic tool for acquiring, locating, extracting, and analysing digital evidence stored inside computers and mobile devices.
+
+Analyse browser activity and emails: This particular tool that Mumbai City Police wants, should be able to find browser activity, detect potential “ sexual conversations in addition to child luring ”. It should also be able to search pictures and text-based content to automatically identify nudity, weapons, drugs, and sexual conversations, the tender read.
+
+Extract data from devices running on macOS: This particular tool, the police said, should analyse Apple’s macOS devices to extract data. This tool should provide for live data acquisition, targetted data collection, and forensic imaging, the tender read. It should also utilise Apple timestamps. “Apple extended attribute timestamps allow for easy analysis of file use countries, last opened dates and times, date created and data modified metadata,” the police added.
+
+It is important to note that the police also floated requirements for several other tools, but its requirements and functions are similar to what has already been expanded above.
+
+“Social media monitoring gives you identical reports, current activities going on social media platforms, as well as gives you keywords results… It helps to find out all the illegal activity in the dark web such as selling weapons or drugs. some advantages are i.e., finding data breaches, Terrorism, bitcoin services, Darknet market, illegal financing, pornography, phishing & scams,” the Mumbai City Police said in its tender. However, several of its requirements go beyond the ambit of safeguarding women and children.
+
+For instance, the police said that social media monitoring and analysis should include an option for “Person Profiling”.
+
+“In social media person profiling with available list tools for monitoring and finding person profiling with following activities (i.e., via image of the person, email addresses of the person, geolocation of the person, by name of person, by files, phone numbers, telephone numbers, URLs, websites using search engine) on the internet. ” — Mumbai Safe City Project tender (emphasis ours)
+
+Mumbai City Police also said that social media analysis should be done by analysing —
+
+The tender also said that social media analysis should include keeping an eye on political activities across platforms.
+
+“Social media is a very effective place for communication among people for the discussion content, news, links, and other things can be shared via social media. Social media is an effective platform that provides democratic values to the public and is also effective for political discussion for political disclosures hence to keep on watch social media political activities is most important. ” — Mumbai Safe City Project tender (emphasis ours)
+
+It is important to note that law enforcement is a state subject in India (with some exceptions), and such monitoring of online political discourse may give rise to a situation where anti-government political voices are targetted. Additionally, through social media monitoring and analysis, the Mumbai City Police is looking to get an insight into “ communal views, festival views ” on social media platforms, according to the tender.
+
+Mumbai City Police also said that its Cyber Labs should be able to carry out social media threat intelligence analysis. “Social media threat intelligence is based on data collection, processing and analysis of data,” it said, adding that the intelligence is broken down into three categories —
+
+“The use of social media for profiling is worrying since it will lead to not just censorship but also self-censorship as people will be concerned about the posts they make on platforms, and if it can be used against them. This will hence interfere with the freedom of speech and expression,” Shweta Mohandas, Policy Officer at the Centre for Internet and Society (CIS), told MediaNama.
+
+“In terms of privacy, the concern also arises because not all social media profiles are public and the people who choose to keep their content private will also be subject to this . The concerns also stem from the data protection perspective where the name, email, phone number, etc., are considered as personal data under the draft Bill,” Mohandas added.
+
+Prasanth Sugathan, Legal Director of Software Freedom Law Center (SFLC.in) said, “Any kind of profiling is dangerous for the rights of the citizens. In absence of a data protection law, storage of such data can pose significant privacy harms for citizens. Social media for personal profiling also impacts the free speech rights of people at large. It could be misused by governments to target citizens who are critical of the Government’s policies . This will have an impact on democratic processes when dissenting voices can be targeted and silenced.”
+
+On the requirement that social media monitoring and analysis should also include political discourse on platforms, Sugathan said, “Right to dissent is the cornerstone of Democracy and this has been reiterated by various courts in India. It is important that citizens feel at ease while expressing their opinions both online and offline … While hate speech and misinformation are legitimate concerns, deploying tools that undermine privacy is not a solution .”
+
+“Surveillance of the digital world is absolutely justified considering that we are today dependent on the web for almost everything. Social media too at some level needs surveillance. However, there is a thin line between watching over to protect and to obstruct one’s privacy. Mumbai Safe City Project though seems to be a lucrative way to ensure safety yet it is also in a manner crossing into the lives of the public which in my opinion is definitely deviating from the basic fundamental right, ” Kritika Seth, Founding Partner, Victoriam Legalis – Advocates & Solicitors said.
+
+Seth also said, “It is hereby extremely critical to understand that one cannot regulate everything. These tools if used to protect illegal or wrongful acts leading to political disruptions and/or such adverse effects makes sense but it shouldn’t be at the expense of the public at large fearing being watched over every single detail . Having said that, implementation of any rules is the key to actually knowing if it is for the best or not so best.”
+
+Siddharth Jain, Co-Founding Partner, PSL Advocates & Solicitors, said, “Technology is a boon and bane at the same time. In today’s technologically dependent world, authorities need to be one step ahead. However, this entails a great responsibility . When it comes to social media for deep web and dark web, cyber forensic tools requisitioned by Mumbai Police are a boon but, for other requirements – open-ended profiling of people, political speeches, breaking into encrypted messages – these may prove detrimental to the privacy of individuals and free speech if allowed without checks and balances . In order for this to be effective, there must be restraints, both legal and self-imposed, so that the freedom of the citizens is not trampled upon.”
+
+On the Mumbai City Police’s requirement of acquiring cyber forensic tools that can bypass end-to-end encryption, Sugathan of SFLC.in said, “End-to-end encryption is an important tool when it comes to secure communication. Breaking end-to-end encryption is a major cause of concern and is highly detrimental to the privacy of citizens. Any kind of snooping on private communication between individuals goes against both the right to privacy and free speech which are fundamental rights.”
+
+“The risk to citizens will be that no conversation will be private, and if the chats are monitored then a lot of intimate and private information which is not necessary for the investigation will be exposed . Additionally, the chats and information of people who are not related with the incident will also be available, hence violating their privacy,” Mohandas of CIS said.
+
+In an earlier exclusive report, MediaNama had highlighted how cyber forensic tools are used by the police to extract not just data that’s essential to the investigation, but also other non-essential data from the device.
+
+Anoop Shetty, a DCP with the Bengaluru Police had said, “The process of copying data from a device is called imaging. It is the image of the original device. We can not separate it into useful data or otherwise. It has to be intact and no tampering is done…any unnecessary change in the state of the device may make evidence inadmissible.”
+
+However, this also raised privacy concerns. Experts found it troubling “that there can be avenues of using the existing information accrued from a device for a particular case in activities such as profiling or registration of subsequent FIRs.” They also called for limitations in issued warrants that restrict police from accessing non-essential information on devices during investigations, and an overhaul of the surveillance infrastructure in India.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

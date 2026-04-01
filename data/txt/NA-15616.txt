@@ -1,0 +1,73 @@
+How does Safe Harbor work for intermediaries like Dunzo? Our article on Dunzo versus the Excise department , which was a part of our reading list for Safe Harbor, let to some considerable debate about whether Dunzo should be treated as an intermediary. The app allows users to create tasks for activities, such as buying fish, and independent contractors execute the task. Does Dunzo hold no liability, as an intermediary who is connecting a vendor with a customer for what is perhaps not legal, such as alcohol delivery? This was a key part of the debate on MediaNama’s discussion in Bangalore on Safe Harbor.
+
+“I would have to take a step back over here, play the devil’s advocate, and say the intermediary’s only responsibility over there would be to provide the task information. There would be no responsibility to say that because this content was published on your platform, we’re going to hold you liable today.” In response to a comment that the IT Act only deals with information, and if you’re delivering an illegal good, IT Act shouldn’t protect you,” the response was that Dunzo isn’t delivering anything themselves. As Dunzo, “I’m just the platform connecting you to an independent contractor who who will deliver these goods to you. Given that you had raised the task for illegal goods on my platform, should I be held liable?”
+
+A part of the problem in case of the Dunzo situation, is that the law does not consider delivery to an individual: it only looks at the delivery of alcohol from the store to a user. “Therefore this was under gray area, since it was not illegal per se. Why Dunzo was caught at the end of the day is that the possession of alcohol with the runner was higher than the possession limit. It was not because transport is illegal.”
+
+But, “If something illegal like drugs or weed is being picked up by a runner and being delivered, who is going to be held responsible?”
+
+One line of thinking during the discussion suggested that only the user and the contractor should be held liable.
+
+Perhaps, as mentioned earlier ,it boils down to control that the intermediary has over the act. “To say that the delivery person I’ve engaged is a contractor and not an employee — you’re underplaying the level of control you have over the person. Technically he’s an independent contractor, but as a service provider, you have the full freedom and can very easily instruct them not to accept orders for alcohol. That’s where the question of intermediary liability comes in. What’s the extent of control you have?”…”If a user raises a task, you’re not going to sift through each and every task to see what is happening. Especially in pickup and drop task, where runner doesn’t look at what is being picked up and dropped”…”There’s a different expectation of control you have over a courier company.”
+
+HipBar came up as an example, in contrast to the Dunzo situation: “Users had to show they were of legal age to possess alcohol. Even in terms of control, the delivery boy could only carry an amount permitted under the Karnataka Excise Act.”
+
+Enabling an intermediary to determine liability becomes trickier when it comes to content, versus products: “Take an example of defamatory content. There we know that any content which is defamatory is unlawful, yes. But is it truly defamatory is not an objective answer. Even expecting an intermediary to exercise that control and take down content which is claimed to be defamatory becomes a gray area. There is no definitive answer as to whether it is actually defamatory or not.” One participant, however, is that we must look at this discussion about what is right and wrong, separately from that of how to control “wrong things on the Internet”. “First we need to have clarity on what is right and wrong.”
+
+“I think the issue is that we’re either allowing private companies to decide what is legitimate speech or governments. I don’t think either is right. If you let governments decide what truth is, we won’t have effective democracies. We need legitimate speech protected in ways that are consistent with constitutional law, or international human rights law, or whatever framework you want to use.”
+
+“If we look at an authority and say you get to decide, whether it’s a company in SF or Bangalore, that’s not the solution.”
+
+Platforms not acting on serious issues swiftly enough was highlighted as a major concern. “The way the internet in India operates,” one participant said, “it’s absolutely broken. Maybe not from users. What Shreya Singhal did in reading down is that you need a court order or government order. Imagine someone being violently doxxed or harassed. The only way to get Twitter to act against that is to get a court to take a few years to issue an order.”
+
+“If you look at empirical evidence on this factor, the— Rishabh Dara’s report is great, I agree on the over-removal part.” A participant pointed out that if you compare Google and Facebook’s transparency reports from 2011 to present, “there has been sharp decrease after Shreya Singhal [judgment], and it’s attributed to the judgement.”
+
+The opposite might happen under the current rules. “If you look at German law,” one participant said “which was a three year experimental law, which regulates what they call social media platforms”…”One year after the law was enacted, the number of takedowns, the content that the social media platforms took down is mind-boggling. They had a report, millions— it’s a very large number”…”Internet platform overregulation was reported, simply because of this law. So I don’t know what logic you were trying to – we should be worried if that is the case.”
+
+A part of the blame, participants in the discussion said, for the government looking at Artificial Intelligence, lies with Mark Zuckerberg. He “used the word AI tools 56 times when he was sitting in front of Congress over two days. He said they’d use AI tools to fix hate speech, election manipulations etc. When he was asked what the standard for hate speech was, he said ‘something that makes people uncomfortable’. Uncomfortable speech is protected— the standard of hate speech and election manipulation needs to be clear, and that doesn’t exist. And not just in terms of technology. “Hate speech” has no definition even in law. Lawyers try for their entire lives to figure out the meaning of the term.” Another participant later said that Zuckerberg had also pointed out that AI hadn’t evolved enough yet to be accurate.
+
+“Plainly, I wouldn’t be happy with Facebook mediating the public space, regardless of who owns that company.”
+
+Another participant said that “The companies may be smart and have amazing tools but you have to train those tools to take down content that is unlawful. And we’re still not at a place where we can teach tools to learn nuance or social complexities. We aren’t at a stage where machine learning can understand sentiment analysis, it’s very rudimentary, even at the most cutting edge AI lab.”
+
+“This is heavily misinformed in terms of what the technical and legal limitations are. There’s a tendency to treat AI like a magic bullet.”
+
+Another interesting point raised was about even if AI can proactively remove content – should it? “Say five or ten years down the line, the tech develops to train AI. Does that make it right to do it?”…”Why should we create any systems that have potential for further abuse?”
+
+“For example, WordPress.com, Wikipedia, Github will all get impacted by this, because they’re effectively giving people a platform to transmit content. How would you action proactive takedown of software on Github?”
+
+Another participant pointed out that Facebook uses AI mostly for detection of potentially violating its community standards, and not for taking decisions, except in cases where there are standards in terms of spam. Post detection, humans take a judgment call. “Hate speech, or harassment or bullying, it’s completely context-based, so AI doing much will be very difficult.”
+
+The fact that Facebook takes down content that violates community standards even without an order “is in fulfilment of their due diligence obligation. Rule 2(2) and 2(3) say that you should not tell your users to post ABCD, and not allow your platform to knowingly post that kind of content. Just because you follow due diligence doesn’t mean you lose the protection.”
+
+“Automated takedown of content happens on almost all social media platforms currently. The only distinction here is we don’t know how to do it. On most major platforms, Twitter, Facebook, YouTube.” That’s not the case for messaging services like Whatsapp and Telegram. Changes to the IT Rules “sort of forces them to do it.
+
+“Is it possible to have a regulated nuanced mechanism whereby, and this happens in the UK, where the IWF works closely with ISPs there to hash Child Pornography, and they all self-regulate and co-regulate with governments to take down that content with automated filtering. I argue that’s perfectly legitimate. ContentID (Google’s mechanism to detect copyright mechanism) is on the other spectrum. ContentID is blasphemous in fair use”, according to a participant.
+
+A participant said that we should have a problem with the usage of ContentID by YouTube – “a public forum controlled by a private entity”, “because the speech remains the same, but control is transferred from government to private party.” In case of ContentID, Google maintains a database of copyrighted content, and flags it to music labels, who can either take down the content or claim monetization over that content. Another sought restrictions on how ContentID is used.
+
+One participant pointed out that “Section 79 is framed in such a way that ContentID— if governments or courts were so inclined, it wouldn’t qualify as safe harbour. Because this amounts to selection of receiver of transmission. This is not being a mere conduit. This is censorship based on your own guidelines and doesn’t meet the actual knowledge test.”
+
+Another responded by saying that “Private parties have all the rights to take down content, provided that contract has been drafted that way. I’m sure that Facebook and Twitter reserve that right.”
+
+One participant pointed towards the fact that there “are no disclosure norms in these rules. My content is being taken down, I’m not informed”…”Proactive disclosure means that people’s right to know will get impacted in a significant way. Once you start doing that it’s part of the law.”
+
+A participant asked about the recourse in case of proactive takedowns. “Should there be a DMCA-like approach to this, so if content is taken down you have the right to appeal? We discussed this in 2011-12, when content was being taken down in 79, and there was no recourse. The Shreya Singhal judgement did not provide users with a recourse though we asked for it.”
+
+Another participant said that “What can be done is that, in Canada the process is a notice and notice, where the responsibility of the intermediary is just to forward a notice to the user. And only if they don’t respond you can take it down. That can intermediate between a judicial order framework and zero regulation.”
+
+There was a sense that we need to look at gradation of harms
+
+“There has to be a typology of harms that the regulator needs to come up with. Something like copyright is on the absolute other end of the spectrum [as compared with Child Pornography]. Notice how quickly platforms will take down copyrighted content versus how late they take down online abuse. It’s staggering. How can you take down a Justin Bieber cover within 30 minutes while doxxing stays up for hours? That’s unjustifiable and this area needs to be regulated”…”Live sports for example needs to be taken down immediately, since live piracy would be immediately infringement. Let’s stop judging everything by one particular standard. ”
+
+What the Shreya Singhal judgment did do, was that it “very clearly pointed out the distinction between the hierarchy between something that affects law and order and another being public order, the latter being a concentric circle that is bigger. However, by requiring intermediaries to take down content, based on something that is incidental to a cyber-security concern, may not necessarily meet with the standard Singhal talks about. Constitution doesn’t necessarily talk about the lower standard to permit a restriction on free speech, constitutionally problematic.”
+
+One issue with the judgment, though was that it apparently, on Section 79, “it says nothing about the constitutionality or why the rules were read down. There is some language to suggest that it was because you can’t expect private companies to comply with millions of takedown requests.”
+
+*
+
+MediaNama’s discussion on Safe Harbor in Bangalore was supported by Facebook, Google and Mozilla
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,195 @@
+SUBREDDIT: r/india
+TITLE: Support news sites that have challenged the new digital intermediary rules
+DATE: 2021-05-31
+SCORE: 27
+URL: https://www.reddit.com/r/india/comments/noyrmu/support_news_sites_that_have_challenged_the_new/
+
+--- POST TEXT ---
+
+Most of the recent news about the new digital intermediary rules focused on social media sites like FB and Twitter.
+
+&amp;nbsp;
+
+But the rules can be - and are intended to be - used to target a far wider set of sites, especially independent critical news sites.
+
+&amp;nbsp;
+
+Some of these sites have challenged these rules in courts on legal and constitutional grounds.
+
+&amp;nbsp;
+
+**Legal challengers:**
+
+As of now, I'm aware of 4 court challenges:
+
+1. Joint petition by FIJ (Foundation for Independent Journalism) + *The Wire*'s founding editor M.K. Venu + *The NewsMinute* editor Dhanya Rajendran in Delhi High Court. 
+
+2. *LiveLaw.in* in Kerala HC. Mainly on constitutional grounds.
+
+3. *The Quint* in Delhi HC
+
+4. A Karnataka NGO named TPFI (Truth Foundation of India) that publishes a Kannada news site named [*Pratidhvani*](https://pratidhvani.com/), filed in Karnataka HC
+
+&amp;nbsp;
+
+Read more about all 4 cases : https://thewire.in/media/kannada-news-portal-pratidhvani-challenges-new-it-rules-in-karnataka-high-court
+
+&amp;nbsp;
+
+**Nature of legal challenges**
+
+On legality, their objections are:
+
+1) that these are rules designed by the executive (ie, Modi govt) that expand their own scope and powers far beyond what the parent legislation (IT Act 2000) granted
+
+2) that any such expansion should only come through parliamentary debate and new legislation, not changes in executive gazette rules.
+
+3) that these are the same motives as section 66a which was struck down by SC
+
+&amp;nbsp;
+
+On constitutionality, their objection is that this expanded scope harms fundamental rights.
+
+&amp;nbsp;
+
+**Why these rules are problematic**
+
+By itself, regulation is not a problem under a fair liberal government. 
+
+The main problem here is that this is a malicious government that acts unfairly against critical voices while patronizing rightwing bigotry and disinformation. 
+
+[Example](https://thewire.in/communalism/sudarshan-news-tv-central-govt-upsc-jihad). 
+
+These rules will have chilling effects only on liberal critical voices. They'll make India more like China instead of liberal democracies. 
+
+Therefore, their attempts should be fought at every step in every way possible until fairness is forced upon them, even if unwillingly. 
+
+&amp;nbsp;
+
+# **Consider donating one time or regularly to these news sites regularly so they can continue to fight the good fight:**
+
+- [The Wire subscription](https://support.thewire.in/) or one-time payments by opening any article
+
+- [The News Minute subscription](https://www.thenewsminute.com/membership) or one-time payments by opening any article
+
+- [The Quint subscription](https://www.thequint.com/plan-selection)
+
+- [LiveLaw subscription](https://www.livelaw.in/pricing)
+
+- [Pratidhvani.com owner](http://truthprofoundationindia.com/donate-us/)
+
+- [Internet Freedom Foundation](https://internetfreedom.in/donate/)
+
+&amp;nbsp;
+
+==============================================
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+&amp;nbsp;
+
+**Some thoughts on the rules...**
+
+The rules cover entities it classifies as "intermediary" and "publisher of news and current affairs content". 
+
+There is no minimum threshold for these labels. Even if you are a solo liberal talking critical political opinions on Youtube or writing them on Medium, you too are a "publisher of news and current affairs content". 
+
+&amp;nbsp;
+
+**Who is an intermediary?**
+
+There is a defined list of entities but there is also a list of prohibited actions - "not to host, display, upload, modify, publish, transmit, store, update or share any information".
+
+So effectively, this includes all the following in my understanding:
+
+ + *Every* VPS / cloud hosting service such as AWS, Digital Ocean, etc ("not to ... host")
+
+ + *Every* SaaS such as WordPress, Medium, GitHub, SubStack, Wikipedia, YouTube, podcasting service ("not to... host, display, upload, modify, publish, store, update, share")
+
+ + *Every* blog 
+
+ + *Every* online discussion forum such as Reddit
+
+ + *Every* website, app, and portal of a social media network such as Twitter or FB
+ 
+ + *Every* media sharing website such as YouTube
+
+&amp;nbsp;
+
+**Who is a publisher of news and current affairs content?**
+
+Apart from the obvious independent news sites like Wire and Print, they include
+
+- international sites like BBC, CNN
+
+- Wikipedia since it covers both news and current affairs
+
+- any independent Youtube channels or podcasts which cover news and current affairs (Dhruv Rathee, Akash Banerjee, etc) 
+
+- any blog that covers news (including spaces on Medium, Wordpress.com, GitHub)
+
+- any intermediary that hosts or publishes such content - example Medium, Wordpress.com, VPS providers like Digital Ocean. I think for such cases, they have to comply not just with all the general rules for intermediaries, but also additional rules specifically for news content.
+
+&amp;nbsp;
+
+**Is an ISP an intermediary?**
+
+Although the prohibition says "not to...transmit", there is another rule that says 
+
+&gt; "temporary or transient or intermediate storage of information automatically by an
+intermediary in a computer resource within its control as an intrinsic feature of that
+computer resource, involving no exercise of any human, automated or algorithmic
+editorial control for onward transmission or communication to another computer resource shall not amount to hosting, storing or publishing
+
+I think it implies ISPs and intermediate networks are not liable under these rules.
+
+&amp;nbsp;
+
+**What is prohibited for an intermediary?**
+
+There is a list of stuff that intermediary is "not to host, display, upload, modify, publish,
+transmit, store, update or share any information". 
+
+Among porn, piracy etc, probably the most open-ended are:
+
+- any information that "**threatens public order**". This public order excuse has been used to arrest critical commentators and activists in the recent past.
+
+- any information that is "patently false and untrue", and is written or published in any form, with the intent to mislead or harass a person, entity or agency for financial gain or to cause any injury to any person.
+
+&amp;nbsp;
+
+**What should the intermediary do on receiving a grievance?**
+
+Censor it, of course. ASAP. Deadlines like 24 hours, 36 hours are mentioned in various places.
+
+&amp;nbsp;
+
+**Role of state governments**
+
+AFAICT, state governments have no role at all. Grievance goes straight to modi ministry portal first, then flows down to various redressal levels.
+
+&amp;nbsp;
+
+**Weaponizing the rules back against the rightwing**
+
+These rules are of course meant to be used and will most often be used by the rightwing to shut up critics.
+
+However, the wording provides ammo to be used against them too. On paper, it prohibits racially/ethnically objectionable content and disinformation. 
+
+RW sites like Swarajya and Opindia and String are also governed by the same prohibitions, at least on paper.
+
+IMO, the only way to protect liberal freedom of speech now is to weaponize their own censorship rules against them, turn it into an arms race of grievances and counter grievances, until it tires out the rightwing too. 
+
+If there are enough number of grievances, there will also be more and more examples of grievances being treated unfairly and higher chances of coming to the notice of the courts.
+
+This is of course an illiberal approach but if the court challenges fail, I don't see any way other option to counter them. 
+
+&amp;nbsp;
+
+**References:**
+
+- [IT (guidelines for intermediaries and digital media ethics code) rules, 2021](https://drive.google.com/file/d/1BEOhgR4dDWW9KSC3OfV30lB-JXqizl3P/view)
+
+- [Internet Freedom Foundation's explanation on digital news orgs and other intermediaries](https://internetfreedom.in/latest-draft-intermediary-rules-fixing-big-tech-by-breaking-our-digital-rights/#digital-news-media)
+
+- [Explanation of how the centralized grievance portal and grievance redressal process will work](https://inc42.com/buzz/digital-media-platforms-challenge-indias-intermediary-guidelines-in-court/)

@@ -1,0 +1,83 @@
+A few days ago, before the connectivity issue was resolved , several Internet Service Providers (ISPs) in India blocked access to Supabase, a backend infrastructure provider. Some users reported that Supabase’s domains were inaccessible on networks including Reliance Jio, Bharti Airtel, and ACT Fibernet since February 27, while others were able to access the same website on those networks.
+
+Later, after around six days, the company said the issue was resolved, thanking the Minister of Information & Broadcasting and the Minister of Electronics & Information Technology (MeitY) for “prompt action and constructive engagement.” During its inaccessibility period, Supabase also indicated that a blocking order could be the cause. However, it did not provide clarity on why it was inaccessible in the first place, and no such blocking order was publicly available at the time this report was written.
+
+This incident raises several questions: whether Supabase was formally blocked, whether such an order exists, why it was issued, and why it was lifted—if there was an order—or whether the disruption was simply a technical error by ISPs and, if so, why it took over six days to resolve.
+
+Unexplained website blocking is not new in India. Over the years, several legitimate platforms have faced access restrictions. For instance, Medium on Airtel’s network , and TheMovieDB, which BSNL described as a “pan-India” blocking issue , have faced access restrictions without clear public disclosure of the blocking orders, if there were any. The opacity surrounding such actions has repeatedly raised questions about how blocking directives are implemented and monitored at the ISP level.
+
+Amid this uncertainty, independent researcher Karan Saini has published a report examining domain-level blocking across six major ISPs. The study analyses tens of millions of domains to identify which are inaccessible at the Domain Name System (DNS) level and documents how different ISPs enforce blocking orders and sometimes block access to legitimate websites. Saini’s report, titled “Poisoned Wells,” reveals that ISPs in India block websites arbitrarily and inconsistently, with certain domains being inaccessible on some networks but available on others.
+
+There is no official repository of blocked websites in India. This led Saini to automate testing to determine whether a particular website was blocked. He used publicly available domain data from the Internet Corporation for Assigned Names and Numbers’ (ICANN) Centralised Zone Data Service and Active Domains to test whether websites were blocked at the Domain Name System (DNS) level across the following six ISPs, which together represent approximately 82% of internet subscribers in India.
+
+For some context, DNS is like a phonebook that maps website names (domain names) to their corresponding IP addresses.
+
+The six ISPs are:
+
+The report shows the following categories dominate the compiled blocklist:
+
+These account for over 83.9% of the overall websites blocked.
+
+The report later noted the list of possible legitimate websites blocked by the respective ISPs based on the Tranco list , an index of top websites used by researchers.
+
+The *. yokohama domain is a geographic top-level domain (TLD) for the city of Yokohama, Japan. Speaking with MediaNama over the phone, Saini said the .yokohama domain currently hosts over 5,000 websites, and it is not clear whether any or all of them received legal blocking orders.
+
+“So, in the absence of a blocking order and any evidence of other ISPs blocking anything related to this, it shows that Airtel may have unilaterally decided that something is wrong here and that it has to block it. Again, these are assumptions because the blocking orders themselves, in any case, are confidential,” he further commented.
+
+He also said authorities have blocked several Korean-based internationalised domain names in the Hangul script. He also noted that some of these domains may no longer be active, suggesting they may have expired.
+
+“MTNL uniquely blocks a set of domains beginning with the numeric pattern ‘1004.’ Supplementary measurements were not collected to verify whether these blocks were caused by a misconfigured regular expression-based blocking rule,” the report noted.
+
+Saini hypothesised that MTNL may include on its blocklist only the websites that government offices must block, since the Department of Telecommunications (DoT) reportedly asked state-owned public sector undertakings (PSUs) to use BSNL and its subsidiary, MTNL.
+
+Pointing to non-uniform compliance with blocking orders, if such orders exist, Saini argued that some ISPs may be over-complying, under-complying, or arbitrarily deciding to block websites despite the blocking orders.
+
+He referred to 2020’s ban on 59 Chinese apps, including TikTok.
+
+“Jio blocks not only the main TikTok domain but also the TikTok CDN (Content Delivery Network) domain (tiktokcdn.com), as well as the video service domain ( tiktokv.com ). This represents a wider implementation of the blocking order than other ISPs,” the report noted.
+
+“The blocking order is like Schrödinger’s cat. You don’t know whether it actually exists,” he said.
+
+He further argued that since only Jio additionally blocked these two TikTok-related websites, it could mean:
+
+When users began reporting accessibility issues to Supabase, the company asked users to either use a Virtual Private Network (VPN) or switch to alternative DNS providers such as Cloudflare (1.1.1.1) , Google Public DNS , or Quad9 .
+
+In a similar vein, Saini said a simple reconfiguration of DNS settings could do the trick. “You don’t necessarily need a VPN if you’re just trying to access a blocked website. And the report clearly shows that websites are sometimes blocked for no good reason,” he said, referring to the possible alternatives to blocking or censorship measures beyond VPNs.
+
+He further said that these settings could be built into browser systems by default. “If tomorrow Firefox decides, OK, I want to enable DNS over Hypertext Transfer Protocol Secure (HTTPS) by default for all users, a lot of people will start seeing websites that were previously blocked for them. They will just start working if DNS filtering is used,” he said.
+
+The report also noted that all ISPs continue to maintain lists of blacklisted domains even after they expire. This can prevent other internet users from accessing and operating the blocked website.
+
+In a phone call with MediaNama, Saini said he could purchase an expired domain from an ISP’s blocked list. But he questioned its utility if ISPs do not provide access to users.
+
+“It doesn’t seem like this is something ISPs are thinking about, purely because the law doesn’t require them to do so. So the law just requires ISPs to comply whenever they receive a blocking order, nothing beyond that,” he said.
+
+Neither government notices nor court orders specify the mechanism for blocking a website; they only list the websites or URLs to be blocked. “ISPs are free to choose and implement traffic filtering mechanisms according to their own technical abilities and operational needs,” reads the report.
+
+Therefore, ISPs use different mechanisms to filter specific websites. The report lists the following censorship techniques used by ISPs:
+
+Websites generally use HTTP (Hypertext Transfer Protocol) to transfer information between networked devices, such as web browsers on smartphones or laptops. When HTTP is not encrypted, anyone who controls the network, like your Internet Service Provider (ISP), can see what website you are trying to visit. If the URL ends in “S” (e.g., HTTPS), it indicates that the connection is encrypted. However, in the user request, the “Host” header clearly shows the name of the website you want to access (for example, medianama.com ). If the ISP notices that you are trying to visit a blocked website, it can take one of the following actions:
+
+This method works by interfering with the Domain Name System (DNS), analogous to the Internet’s phonebook. When a user types a website name into the URL bar, DNS helps to connect that name to an IP address, which is a unique identification number that helps to identify the device and allows it to communicate with other devices on the internet network
+
+ISPs can intervene at the DNS level in two ways:
+
+“But now the problem is that almost every website on the internet is using HTTPS. The blocking message is almost never shown. So people just see an error. Either they’ll see a domain not found error or they’ll see a domain not found error, like connection time out,” he said.
+
+This technique takes advantage of Server Name Indication (SNI) information available in the TLS (Transport Layer Security), which encrypts the data. However, before this encryption occurs, after the user enters a website name, the user’s browser sends a “ClientHello” message that includes the hostname the user is trying to visit. If this newly found hostname is in the ISP’s blocked list, then they can intercept the connection or drop or terminate the user’s connection request.
+
+Often, the ISP does this by sending a DNS-level blocking request, which also uses a TCP RST (reset) packet, a technical signal that forces your browser and the website to disconnect.
+
+“I feel like Jio uses SNI inspection-based TLS blocking. Even though HTTPS traffic is encrypted, ISPs can see the domain you’re trying to access through the Server Name Indication. If they can see the domain, they can drop the request,” he said.
+
+This technique does not examine the website name or its content. Instead, it simply blocks traffic to certain IP addresses, which are unique numbers assigned to each device connected to the internet.
+
+However, Saini said that this is not a widely used mechanism.
+
+He further said that there is no evidence of IP-based internet blocking in India. “If you block a certain IP address and also just the nature of how everything is in the cloud these days, IP addresses are no longer fixed property. You are leasing it for one day, and I will have it tomorrow. If you block an IP address, then it will affect other users with the same IP address,” he explained.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

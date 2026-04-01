@@ -1,0 +1,59 @@
+Some concerns about the TRAI consultation on Open Data, based on my reading of the paper:
+
+1. Concerns about jurisdiction: There are two concerns around jurisdiction issues here:
+
+2. Reminds us of the first Net Neutrality consultation paper: This reminds us of the first Net Neutrality consultation paper (an abridged version here ), where the TRAI had gone beyond telecom and looked at Internet issues . To paraphrase statements from that consultation:
+
+3. TRAI has bigger ambitions? Does TRAI want to be the data controlling authority of India? Or an internet regulator? Consider following two questions in the consultation paper:
+
+Why does the TRAI need to encourage data startups, or advise the government on setting up a data sandbox? Should we expect an ordinance from the government of India, or a law, changing the mandate of the TRAI? Given the TRAI’s current role (based on what I understood from the TRAI Act), this is clearly beyond its remit.
+
+4. Same service same rules again? The TRAI asks whether there is a need for parity in the data protection norms applicable to telecom operators and “other communication service providers offering comparable services (such as Internet based voice and messaging services).” This is the same telecom operator same-service-same-rules tripe that we heard from telecom operators for over year and a half when it came to Net Neutrality. The TRAI needs to look at content and its transmission separately. ISPs are exchanges of data, and the security of data in transit may be looked at by the TRAI. If telecom operators run content or IP based messaging and calling services, that’s the remit of the Ministry of IT, and not a telecom concern.
+
+5. What the paper should look at: There are enough issues when it comes to data protection in telecom, which haven’t been addressed for years:
+
+6. Consent architecture and Indiastack: One of the questions appears to be right out the IndiaStack playbook, and its pitch for enabling a consent architecture for personal data. The TRAI asks whether “Q4. Given the fears related to abuse of this data, is it advisable to create a technology enabled architecture to audit the use of personal data, and associated consent? Will an audit-based mechanism provide sufficient visibility for the government or its authorized authority to prevent harm? Can the industry create a sufficiently capable workforce of auditors who can take on these responsibilities?” Fits perfectly: DoT mandates Aadhaar linkage for mobile numbers, and TRAI suggests technology based consent architecture for users to consent to share personal data. Maybe we should clarify whether Q4 is a rhetorical question.
+
+That said, beyond these issues, the paper appears to be well thought out, and should serve as a framework for the MEITY committee to look into. The other important thing about the TRAI is that theirs is an open and public consultation, and aside from the final ruling, the process is more transparent than any other in India.
+
+Download the paper: here . Deadline: Comments by 08 September 2017. Counter comments by 22 September 2017 Email: [email protected] or [email protected]
+
+Questions:
+
+Personal Data, user rights and consent
+
+Q2. In light of recent advances in technology, what changes, if any, are recommended to the definition of personal data? Should the User’s consent be taken before sharing his/her personal data for commercial purposes? What are the measures that should be considered in order to empower users to own and take control of his/her personal data? In particular, what are the new capabilities that must be granted to consumers over the use of their Personal data?
+
+Q3. What should be the Rights and Responsibilities of the Data Controllers? Can the Rights of Data Controller supersede the Rights of an Individual over his/her Personal Data? Suggest a mechanism for regulating and governing the Data Controllers.
+
+Data protection: Internet and data startups
+
+Q5. What, if any, are the measures that must be taken to encourage the creation of new data based businesses consistent with the overall framework of data protection?
+
+Q9. What are the key issues of data protection pertaining to the collection and use of data by various other stakeholders in the digital ecosystem, including content and application service providers, device manufacturers, operating systems, browsers, etc? What mechanisms need to be put in place in order to address these issues?
+
+Q6. Should government or its authorized authority setup a data sandbox, which allows the regulated companies to create anonymized data sets which can be used for the development of newer services?
+
+Telecom and user data
+
+Q8. What are the measures that should be considered in order to strengthen and preserve the safety and security of telecommunications infrastructure and the digital ecosystem as a whole?
+
+Q10. Is there a need for bringing about greater parity in the data protection norms applicable to TSPs and other communication service providers offering comparable services (such as Internet based voice and messaging services). What are the various options that may be considered in this regard?
+
+Q11. What should be the legitimate exceptions to the data protection requirements imposed on TSPs and other providers in the digital ecosystem and how should these be designed? In particular, what are the checks and balances that need to be considered in the context of lawful surveillance and law enforcement requirements?
+
+Data localisation and jurisdictional issues
+
+Q12. What are the measures that can be considered in order to address the potential issues arising from cross border flow of information and jurisdictional challenges in the digital ecosystem?
+
+Auditing of use of personal data and regulatory intervention
+
+Q4. Given the fears related to abuse of this data, is it advisable to create a technology enabled architecture to audit the use of personal data, and associated consent? Will an audit-based mechanism provide sufficient visibility for the government or its authorized authority to prevent harm? Can the industry create a sufficiently capable workforce of auditors who can take on these responsibilities?
+
+Q7. How can the government or its authorized authority setup a technology solution that can assist it in monitoring the ecosystem for compliance? What are the attributes of such a solution that allow the regulations to keep pace with a changing technology ecosystem?
+
+Q1. Are the data protection requirements currently applicable to all the players in the eco-system in India sufficient to protect the interests of telecom subscribers? What are the additional measures, if any, that need to be considered in this regard?
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

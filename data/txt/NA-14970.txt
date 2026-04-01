@@ -1,0 +1,37 @@
+Why does a civic body need to know a particular individual’s previous complaint against potholes to solve their current queries on property tax?
+
+That question arises from the latest Request for Proposal (RFP) document issued by the Greater Chennai Corporation (GCC), which proposes an AI-driven grievance redressal platform built around a 360-degree citizen profile. This question is pertinent because resolving a property tax query does not necessarily require access to an unrelated pothole complaint. Additionally, citizens may reasonably argue that consolidating individual grievances can lead to unnecessary data aggregation and citizen profiling. If authorities misuse this platform, these features will not deliver real benefits to citizens.
+
+Nonetheless, depending on the real-world deployment and how it will be used, a platform for aggregating citizen issues can also help municipal corporations make better, data-backed decisions. For instance, they can identify the systemic issues across departments.
+
+Let’s take a hypothetical example: Chennai Metro is a joint venture of the Government of India and the Government of Tamil Nadu, with equal equity holdings, and is overseen by directors appointed by the Union Ministry of Housing & Urban Affairs. However, Chennai local buses are governed by the directors of the Metropolitan Transport Corporation, appointed by the state government.
+
+If transport-related data were integrated from the bus and Chennai Metro departments, it could help them make better decisions, such as choosing routes with less traffic or improving last-mile connectivity. Citizen-level inter-departmental information or grievances could help inform their decision-making when viewed through the lens of identifying systemic problems. However, all use cases and potential misuses will ultimately depend on ground-level deployment.
+
+The municipal corporation of Chennai wants to build a “Citizen 360 ° ” platform, a unified AI platform to generate citizen profiles and address their grievances through an AI chatbot that can converse in both Tamil and English.
+
+Greater Chennai Corporation (GCC) published an RFP titled “Design, Development, Implementation, Integration, and Maintenance of Citizen 360° Unified Citizen Engagement & Analytics Platform” recently. It asked the bidders to submit their bids via the Tamil Nadu government’s tender website for a contract lasting one year and 61 days. The last date for tender submission was February 27, 2026.
+
+Greater Chennai Corporation (GCC) wants to develop the Citizen 360 ° platform under the  Smart City Mission of the Ministry of Housing & Urban Affairs (MoHUA), which established and operationalised the Integrated Command and Control Centre (ICCC) as a unified digital nerve centre for city governance.
+
+This command and control centre has reportedly enabled 24×7 monitoring, surveillance, grievance tracking, interdepartmental coordination, emergency response management, data-driven decision-making and other civic management issues.
+
+And the proposed Citizen 360 ° platform aims to be a unified citizen engagement & analytics platform, serving as an integrated digital layer over the existing ICCC.
+
+According to the RFP, this platform should be able to do the following tasks:
+
+Apart from these, the RFP states that the platforms should seamlessly integrate with the current ICCC ecosystem via application programming interfaces (APIs), and low- or no-code workflow automation for inter- and intra-departmental processes. It should also have advanced analytics, Business Intelligence (BI) dashboards with predictive modelling and performance tracking. Additionally, the communication channels must include SMSs, WhatsApp, Emails, mobile apps, etc.
+
+The RFP further says that the following are the advantages of the Citizen 360 ° platform:
+
+The RFP asked specifically for the following AI features:
+
+The RFP states that the GCC intends to change the current siloed manner in which it operates. For instance, the RFP said that if someone complains about property tax, the grievance officer might not be aware of that very citizen’s complaint about potholes. The Citizen 360 ° platform aims to fill this information gap and offer services in a “more holistic and empathetic manner”.
+
+Further, the RFP explains why it needs a Citizen 360 ° platform with the following reasons:
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

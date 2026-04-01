@@ -1,0 +1,25 @@
+SUBREDDIT: r/india
+TITLE: China had it's largest data leak ever, What if something similar happens here in India?
+DATE: 2022-07-06
+SCORE: 259
+URL: https://www.reddit.com/r/india/comments/vsrt3v/china_had_its_largest_data_leak_ever_what_if/
+
+--- POST TEXT ---
+
+To those of you who do not know what this news is all about, you can read this [article](https://www.theweek.in/wire-updates/international/2022/07/05/fgn45-china-database-hack.html) or [watch this video](https://www.youtube.com/watch?v=Eb3E5vKFxrk&amp;t=344s) just to give you a TL;DR- Apparently some Chinese government software developer included login credentials of the National police Database *by mistake*, while writing a tech blog.
+
+# Information on the leak
+
+Where was it leaked- [https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
+
+Whats the problem?- The hacker also included a ***free sample*** of the data that was leaked to be downloaded for free on that website \[I personally downloaded it to check lol\]
+
+What was leaked-- Databases contain information on **1 Billion Chinese national residents** and several billion case records, including- Name- Address- Birthplace- National ID Number- Mobile number- All Crime / Case details, Literacy (This is useful for scammers)
+
+# What if such a thing happens in India?
+
+I am no cybersecurity expert, but I can confidently say that given the amount of data the government has, especially for Aadhar and given how we do not give two shits for our digital privacy and security, I think a leak of the kind that happened in china is imminent. The entire police database was protected by one single password, a big LOL. I wont be surprised if our bio metrics are saved this way as well in India.
+
+For one, some of our govt. websites are straight up crappy and do not support HTTPS and then there's already some of our Aadhar data leaked on the dark web with free samples.
+
+What do you think will happen if something similar happens in India but at a much larger scale?

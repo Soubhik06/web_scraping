@@ -1,0 +1,263 @@
+SUBREDDIT: r/india
+TITLE: Facebook - After AMA Discussion
+DATE: 2015-12-26
+SCORE: 130
+URL: https://www.reddit.com/r/india/comments/3ya7wd/facebook_after_ama_discussion/
+
+--- POST TEXT ---
+
+Let us discuss and review the responses given out by Mr. Daniels on our questions.
+
+In little more than an hours time Mr. Daniels has managed to give 12 replies. Questions and answers below:
+
+**Warning:** Long post with all questions &amp; answers. [Go to comments](https://www.reddit.com/r/india/comments/3ya7wd/facebook_after_ama_discussion/#siteTable_t3_3ya7wd)
+
+###[Question 1](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybr6hr?context=3)
+/u/neutralWeb
+
+ My question to you is the following:
+
+ There are quite a few options for providing free-of-cost internet access such as those provided by companies like Gigato[1] , Jana.com[2] and Mozilla[3] . They basically earn advertising revenue and in exchange for viewing ads/apps/sponsored products users get access to the ENTIRE internet, and these plans are neutral towards all websites/apps/services on the internet.
+
+ Why can't Facebook adopt a similar net neutral model for providing internet access? What is so special about Free Basics that Gigato, Jana and Mozilla models don't have?
+
+**Answer**
+
+ We're open to many models for connecting people to the Internet, and all of the ones that you list above may be valid ways to bring more people online. The difference with Free Basics is that we wanted to offer a program that gave people permanent access to a set of free basic services - so that the services were there for them when they were ready to come online - rather than something that was promotional or where they might use their MB allotment, and then the services weren't there when a person needed them. The key with Free Basics is that its a program that has proven to work to bring people online to the entire internet. We've released our stats on this - the rate of people coming online to networks that have launched Free Basics increases by 50% (vs before launching the program), and globally, 50% of people who come online for the first time are paying for the entire internet after just 30 days.
+
+###[Question 2](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybr734?context=3)
+/u/ribiy
+
+ Facebook says that the Free Basic benefits are clear in terms of 65mn new jobs. FB also says that its not going to earn any revenues from Free Basics.
+
+ As a shareholder of Facebook I am keen to understand why are you doing charity? I would rather have Mr. Zuckerberg do it with his personal wealth.
+
+ If it's not a charity what are the benefits to the company?
+
+**Answer**
+
+ We are doing this because our mission is to make the world more open and connected. If we wanted to make more money, we’d invest in more ad technology in lucrative advertising markets. We’re not making money on this, but if our efforts contribute to getting everyone online, we will fulfill our mission as a company. The mission is what drives people at Facebook. In the very long term, its true that more people online is better for Facebook, but it will be good for the whole internet ecosystem and for society too.
+
+###[Question 3](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybra12?context=3)
+/u/shadowbannedguy1
+
+ Hello Mr Daniels, it's good to have you here to answer our questions. In no particular order of importance:
+
+ - Will Facebook remain ad-free forever on the Free Basics platform?
+
+ - Will you allow all websites on the platform if they are compliant with the spec-sheet, even if you think they are non-essential to the target demographic of Free Basics, like religious or political propaganda websites?
+
+ - Can you provide us complete assurance that you do absolutely no examination of web browsing patterns on the platform that are profitable for Facebook and/or its partners?
+
+ - How do you feel about your India Free Basics partner Reliance advertising the platform as a way of ["Accessing Facebook Without a data plan"] (https://www.reddit.com/r/india/comments/3xbhrt/wtf_just_saw_this_facebook_ad_in_todays_hindi/)? 
+
+ - This question is about how the Free Basics platform works. Facebook has said that [carriers bear the bandwidth costs of the Free Basics platform](https://info.internet.org/en/top-10-facts-about-free-basics/). In that case, aside from developing the platform, what exactly is Facebook doing here? Does Facebook bear any financial cost whatsoever? (aside from advertising)
+
+ - Will the spec-sheet compliance appraisal be automated in the future? That is, will Facebook take steps to take itself out of the process of approving a website by completely making the process of checking whether an app or website complies with the spec sheet automatic? If not, why?
+
+ - Will the Free Basics platform gradually evolve to bring the entire internet online? Something along the lines of [GoogleWebLight](https://support.google.com/webmasters/answer/6211428?hl=en) seem appropriate for this.
+
+ - Will the spec-sheet be gradually liberalized to include video as network infrastructure upgrades?
+
+ - Free Basics added the spec-sheet approval process to move the platform closer to net neutrality. Were all your carrier partners internationally unconditionally fine with this change?
+
+ - Has Free Basics faced similar legislative threats from other countries? How did you deal with those there? How many of the countries you operate in have any net neutrality guidelines at all?
+
+ - How easy do you think it would be for an indie developer to make their apps or websites compliant with the Free Basics platform? How time-consuming is the process of optimizing a website or app for Free Basics?
+
+ - Are you sending the messages from Facebook users to TRAI to advisorfea1@trai.gov.in? If so, why? The stock template for the comment in Facebook is not a response to the consultation paper, it's an emotional appeal.
+
+ - What do you think of the alternate proposal to have data limits instead of website/service limits? Is this an idea that you are against, or is it one that carriers oppose internationally? In either case, what are the reasons?
+
+ - Is Facebook not asking Net Neutrality supporters on Facebook to send a message to TRAI in their favor? I didn't get a single notification or prompt from Facebook about saving Free Basics, and neither did many supporters I know. And no notifications from my 600+ friends either. Is Facebook using profile data (including posts) to determine whether or not a user will be asked to save Free Basics?
+
+ - I'm going to repeat a question from the TRAI consultation paper. Do you approve of differential pricing for apps and websites? Free Basics is a platform, so it's not in the scope of this question. Currently in India, differential pricing for data is allowed in the form of [WhatsApp-only](http://www.airtel.in/whatsapp/?cid=social21491444) or [Facebook-only data plans](http://www.medianama.com/2014/06/223-bsnl-starts-offering-whatsapp-and-facebook-data-bundles/). Do you think this should be allowed?
+
+ - Do you believe all carriers can afford to partner with you, and the bandwidth costs you entail?
+
+ - Internet.org used to be have a few partnered sites selected by Facebook, and is now an open standard that anyone can join. Did this transformation happen in reaction to criticism by Net Neutrality activists in India?
+
+ - How long does Free Basics normally take to evaluate a submitted site/service/app?
+
+**Answer**
+
+ This is a big list of questions! I'll do my best with a bunch of these and try to hit all of them as I answer questions that others have submitted too.
+
+ On your first, we've said that we don't put any ads in the version of Facebook on Free Basics, and we don't have any plans to put ads in the version of Facebook on Free Basics. However, many people (on these threads!) are recommending models to provide more of the internet for free in an ad funded way. While we haven't found any business model where ad revenue could pay for people's access to the internet (look at Facebook's revenue, its far, far less than revenue operators receive from data charges), if there is a way that we can do so, then we want to be able to explore that in the future.
+
+ On your second, the question about how open the platform really is is probably the most important question, and the one where people are rightfully most nervous that we’ll act in our interest rather than the interest of the entire internet ecosystem.
+
+ When we opened the program, we really opened it. In the first iteration of Internet.org – we were moving quickly and started with just a few sites in each country as part of the program. When we heard the fair feedback, we opened the program and have been tweaking it ever since to ensure its truly open.
+
+ We don’t reserve the right to reject apps for arbitrary reasons. We used to have a line that did grant us that right in our participation guidelines as a catch all for things like local law compliance, but that was causing consternation. Now we’ve simply made it clear that the apps have to comply with local law. Here are our participation guidelines: https://developers.facebook.com/docs/internet-org/participation-guidelines[1] . They're designed to ensure that the services on Free Basics work well on any phone (including feature phones), and that people aren't charged when they aren't expecting to be charged.
+
+ We are also happy to have a third party audit what apps we accept and reject and why, and we’ve proposed this to IAMAI and NASSCOM. For the record, we’ve never rejected an app that complies with the guidelines, and we’ve had the conversation with operators that we wouldn’t reject apps at their discretion and would not launch with them if rejecting apps was a condition of their participation. We’d also be happy to have Twitter, Google+, etc on the platform which many people have asked.
+
+**Answer II**
+
+ I wanted to get back to more of these questions that I didn't cover in my other responses because it was a good list and its at the top so I presume it was voted highly by the Reddit community: - On assurances of what data we use, see my response on our privacy policy for Free Basics. We say exactly what data we use and how. https://www.facebook.com/legal/internet.org_fbsterms - On Facebook's investment: we're investing a lot of time and resources in making this program work, partnering with developers and operators globally.
+ 
+ - On automating the compliance: we're going to make it more automated, and we're open to 3rd parties reviewing what is accepted/rejected. I covered this in another comment. - I don't know what it means to "bring the entire internet online" sorry. - On challenges in other countries - the answer is that India has been the outlier and more challenging. Other countries have embraced Free Basics with open arms. Have a look at the president of the Philippines and his recent support on his facebook page for the program. We've had many communications ministers and heads of state join our launch events and be thrilled with the benefits that bringing more people online are creating in their countries. - We've designed the program to be easy for developers who already have a mobile website to comply with. We're going to continue to work to remove as many technical requirements as possible over time that will still ensure that the program works, is bandwidth light, and free for consumers to access. - On whether we changed the name due to feedback from India - yes. It was good feedback. We're always open to good feedback.
+
+###[Question 4](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybrgvb?context=3)
+/u/___0__0___
+
+ In the recent past, you have blocked Telegram links on Whatsapp, a strange move. You have also done similar things in the past, banning competitors . Early today, Facebook was warning people when they clicked on a SaveTheInternet link (as /u/sainibhai[1] points out, this is wrong). In fact, instead of educating people about your offering, you were trying to take advantage of people who want a digital India by getting them to send an e-mail, or say yes to a prompt, without even understanding what they were getting into.
+
+ There’s a clear precedent in your actions here. You’re a private business and you are going to uphold your own interests, which is fair. So, questions:
+
+ a) Why should you be the gatekeeper of the Internet for a huge percentage of Indians when you clearly have a poor history dealing with any kind of resistance?
+
+ b) How is it digital “equality” when people are getting access to the a very, very tiny set of websites? They aren’t being connected to the marvel that is the Internet: they are getting access to a company — and a few others, who get approved by that company — that’s trying to find new ways to onboard users onto their platform and strengthen their hold on the market which, in itself, is very fair except for the misleading ads you’re putting up.
+
+ c) If your data says that 50% of the people who get Free Basics start paying for their data within 30 days, there surely has to be a much better way to advertise the Internet and its potential benefits to them, since that’s all they are lacking at the moment? Could the telecom operators not set up a 30 day free trial to all of the Internet after which those 50% would still start paying for their data unless there’s something off there?
+
+ I’m as eager for a digital India as anybody, but India can chart its own way, even if it’s slow in your view. We got a mobile phone in hands of pretty much every Indian within a decade. Internet will reach every Indian household too, and by the Internet, I mean the real Internet, where everyone has access to the same content — digital “equality” — without a private business gatekeeping.
+
+**Answer**
+
+ Thanks for the questions: a) See my answer to one of the (long lists of :) ) questions above. We really did open the platform and are not rejecting apps for any reason besides compliance with tech specs and local laws. In addition, its not really a gatekeeper if people are quickly moving onto the full internet which benefits everyone in the internet ecosystem. To tell a bit of a story...when we launched the program, we didn't know if Free Basics was going to be a "thin layer" where people come onto Free Basics and quickly move onto the whole internet, or a "thick layer" where people hang out on the free services for a long time before moving on. What the data has shown is that its a really, really thin layer. People move on very quickly to the entire internet and Free Basics has shown to be a really good introduction for people who may not understand why the internet is valuable or may not be willing to pay to try it. b) I think I answered most of this in my response above. People do move onto the entire internet quickly which is good for everyone.
+ c) It would be awesome if telcos decided to give away free internet...and many do as promotions. But a promotion means that useful services are not necessarily there when people need them. Free Basics is a program that is designed to be always on so that people can come online when they're ready to or need to.
+
+###[Question 5](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybrc7b)
+/u/gandu_chele
+
+ While we haven't found any business model where ad revenue could pay for people's access to the internet
+here is three ways you can do this
+
+ http://www.medianama.com/2015/10/223-aircel-free-internet/
+ http://www.thehindubusinessline.com/info-tech/net-neutrality-mozilla-suggests-equal-rating/article7177532.ece
+ http://www.digit.in/general/gigatos-toll-free-internet-28094.html
+
+ Please dont lie so blatantly. You are telling me you have literally no way to come up with a business model that will work other than Free Basics, while others have come up with better, working models that dont violate net neutrality? Dude please.
+
+ I just did a google search and got this.....oh wait.Cant even google in free basics
+
+**Answer**
+
+ I think the thing that we agree on is that multiple models are needed. Of the three that you point out, two haven't even rolled out yet nationally, so its pretty early to call these a success. We've rolled out Free Basics and its proven to be a success to bring people online. The Gigato one requires apps to pay to be included - I would think that would be a huge red flag if only companies willing to pay could be part of the program. That's one thing we've been firm on from the start - we wanted Free Basics to be free for developers that participate.
+
+###[Question 6](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybr7f5)
+/u/atnixxin
+
+ Why is it then that FreeBasics is offered to those users who already have data packs or active data connections? If they're already online, how is this bringing them online?
+
+**Answer**
+
+ Hey Nikhil! We didn't want to offer Free Basics to just segments of users. We wanted everyone to have access to it, and to be sure that if someone had run out of their data pack (or money to buy more data), they'd still have access to some basic services. The good news is that if a lot of people were using Free Basics who had previously been paying for internet access, operators would turn the program off because they'd lose revenues. This isn't happening. To your second question - you're right (by definition), the program isn't bringing people online who are already online and we wouldn't count a person who was online and then started using Free Basics as having newly come online.
+
+###[Question 7](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybr9bc)
+/u/atnixxin
+
+ Are you willing to give an undertaking that you will NEVER make money on FreeBasics? or never use the data gathered from FreeBasics users for monetization? How do we know this isn't a massive bait and switch - that you'll acquire enough users now, and then start monetizing it later? As AIB mentioned in their video, lots of services start free, and then companies start monetizing them later, once they have enough users.
+
+**Answer**
+
+ The only way we make money is if people convert to full paid internet because then we show them ads in the full version of FB. And getting people online is the purpose of the initiative. People always say we have economic interest. Most businesses do. Our economic interest is best served by getting people to the full internet in this case. So that's the purpose of the program. The reality is that globally 50% of people move off Free Basics to full net in 30 days - and most of the rest churn off.
+
+ As a practical matter, while we haven't explored it yet, I think operators would have a strong argument to turn the program off if we started showing ads to users in Facebook before they were charging those users for data.
+
+ On your data question, there are a lot of questions about what data we collect and exactly how we use it. Back in October, we released a privacy policy for Free Basics that specifies exactly what data we collect and how we use it. We're not using this data for monetization. Check out the policy here: https://www.facebook.com/legal/internet.org_fbsterms
+
+###[Question 8](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybrt5d?context=3)
+/u/galagogoi
+
+ Aircel too is giving 'Free Basic Internet'[1] , which lets new users on their connection to access the internet under limited bandwidth(for all sites), but not limited websites. So Aircel is letting new users use 'free' internet as they wish, they can surf whatsoever website they desire unlike 'Facebook's 'free basic' that only let's a handful websites to be used under Facebook's discrimination.
+
+ If Facebook really wants people who've never been on the internet before to show how it's like, why doesn't Facebook give them free data to surf whatsoever website they desire? Why is Facebook causing a monopoly in their favor by letting only a handful websites be used by the user for free? This is an evident breach of Net-Neutrality, and saying that new start-ups can apply to be in Facebook's 'walled garden' doesn't change the fact that Facebook can play the role of 'Big Brother' and decide who gets on their Free Basics and who doesn’t. Doing this, Facebook and it's sisters sites on 'Free Basics' already have an unfair advantage.
+
+ Facebook stood up for Net Neutrality in the U.S to the proposed 'fast lane and slow lane' . But openly violates it in over 33 countries and claims that this is different? Why and how is this different ? The only difference I see is that Facebook instead of trying to control speed like that of Comcast and AT&amp;T(because Facebook isn't an ISP) is engaged in trying to control content.
+
+ Controlling Content, is a fundamental breach of Net Neutrality.
+
+**Answer**
+
+ This is an important question because to answer it, you have to answer “what is Net Neutrality”?
+
+ Here’s my opinion: In the US and EU (and other nations), there have been long and detailed debates in mature regulatory environments that ended with the enactment of firm net neutrality laws. These laws allow for zero rating, having recognized the increased access to internet connectivity and other consumer benefits that zero rating can bring. While zero rating doesn’t sit within some people’s definitions of net neutrality, it fits within the definition of net neutrality adopted by many governments who listened to many sides of the debate and took an informed position.
+
+ Another opinion: Anything that favors one site over another in any way, whether throttling, blocking, differential pricing, is against Net Neutrality. I can understand this purist view, but I think that its fair to say that its not a view shared by many of the countries that have enacted legislation on Net Neutrality.
+
+ What many governments decided was that zero rating could be bad if it harms competition, but it isn’t in all cases because it can benefit consumers. That’s why they’re looking at zero rating “case-by-case” and we agree with that view.
+
+ So if we’re willing to have a regulator look at Free Basics if there is real harm happening (i.e. “case-by-case”) to anyone including people, operators and developers, then to me, it is entirely consistent with Net Neutrality as defined by many nations.
+
+###[Question 9](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybrud0?context=3)
+/u/ronan125
+
+ How do you justify such outrageous claims made using only a sample of 3000 people? 9 out of 10 net neutrality supporters support free basics? If you wanted a survey population of net neutrality supporters, you could have easily chosen r/india. Wonder what the numbers would be then? 
+
+http://www.adweek.com/socialtimes/wp-content/uploads/sites/2/2015/12/FreeBasicsIndiaSurveyInfographic2.jpg
+
+**Answer**
+
+ The poll was a door-to-door poll conducted by a third party where Free Basics was explained in detail, and both sides of the argument were discussed with the participants. As far as we know, this is the first poll conducted in this manner where the voice of people is being heard by explaining both sides of the argument clearly. You can read about it here. 
+
+http://www.prnewswire.co.in/news-releases/survey-suggests-widespread-support-for-free-basics-across-india-563227551.html
+
+###[Question 10](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybrx7s?context=3)
+/u/gandu_chele
+
+ How do you feel about trying to mislead every Indian citizen by running a malicious,misleading ad campaign that not only blurs lines between what is the truth and what is not, but also relies primarily on attacking a certain “group”?
+
+ I have noticed that you have run an ad campaign for free basics in print media, electronic media, youtube, facebook, hoardings, literally everywhere. Don’t you think this money could have been better used? Maybe you could have built a thousand toilets in India with that? Since its all charity anyway right?
+
+ If you dictate what the poor should get, you take away their rights to choose what they think is best for them? Why do you think Facebook should reserve the right to choose who can and cannot zero rated?
+
+ Why not add your competitors like google and twitter to Free Basics. Majority of india uses Android phones with android services, google search, Gmail, google maps would be great, right? Since Free Basics is like charity why not allow other social media platforms in as well?
+
+**Answer**
+
+ We aren't trying to mislead anyone. We want everyone to make an informed decision. We are spending money to market the benefits of the program because we know that it works and believe it would be a good thing everywhere - like the data shows it has been in many markets. We are also actively trying to correct inaccuracies we see about the program in press, on twitter and elsewhere. We tried to correct these directly, but it wasn’t working, so we turned to broader marketing. Newspapers are likely to reach more people than Twitter or other online platform.
+
+ The amount of money being spent is tiny compared to the effort we continue to put into the Free Basics program and other Internet.org programs like express Wifi and solar planes to spread connectivity.
+
+ On #s 3 &amp; 4 - our platform is open (have a look at some of my other replies above). We're happy to have any developer join the platform if they comply with the tech specs and local laws.
+
+###[Question 11](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybsbps?context=3)
+/u/rdiaboli 
+
+ You have partnered with RCom to deliver FreeBasics in India.
+
+ BUT all I see Rcom advertising only about the benefit of using Free Facebbok on their platform, no mention of other services. Don't you think the ulterior effects of FreeBasics is already becoming apparent.
+
+ Also, why Rcom, which has the one of the worst coverage inrural areas?
+
+ Facebook is running a huge campaign on its platform. How much this would have cost if some other user would like to run such a campaign on Facebook?
+
+**Answer**
+
+ Our partners can choose to market whatever aspects of Free Basics that they want to. Some choose to market Facebook, some choose to focus on services like maternal health, education or job listing sites.
+
+ We're happy to partner with any operator for Free Basics. We have an online portal where any operator can come sign the same contract and launch Free Basics on their own without any intervention from us.
+
+###[Question 12](https://www.reddit.com/r/india/comments/3ya52q/vp_internetorg/cybsiki?context=3)
+/u/adityasaky
+
+ These are questions the members of Free Software Movement Karnataka have.
+
+ If Free Basics allows access to only certain parts of the internet, how exactly does Facebook claim that it is in support of net neutrality? This very act of passive monopoly is quite the opposite of what the advocates of net neutrality believe.
+
+ What percentage of all web based services do they honestly see to be a part of Free Basics in about a year or so?
+
+ Facebook seems to claim that Free Basics is a charitable contribution to society, but activists have been opposing it for a long time and Facebook is actively fighting back. Why is Facebook spending so much money and effort on campaigning for something that people clearly do not want? If people don't want your "charity", why force it upon them? And what does that say about the true nature of Free Basics?
+
+ If providing connectivity is the goal of Free Basics, why is Facebook in control? Why not provide full Internet access instead (perhaps limited in speed and data usage)? Can Facebook explain why it needs to control (and potentially censor and spy on) users' Internet access for reasons other than its own financial gain?
+
+ It appears that Free Basics is a consumer connection which does not support creation of digital produce. How does FB feel about forcing people to become consumers?
+
+ How much has Facebook spent on advertisements and lobbying for Free Basics?
+
+ As an educationist I want my students to become creators rather than consumers as this will help the growth of the nation. Why is FB intent on forcing a technically substandard solution?
+
+ When you showed people a notification, asking them to support Free Basics, there wasn't a chance for the other side of the argument (activists, net neutrality etc.) to be heard, and hence the support provided by your users was just after hearing one side. Then how can you count that as unprecedented support?
+
+**Answer**
+
+ Thanks for these questions. Here are some thoughts on each: 1. Have a look at the response I gave which talks about the differing definitions of Net Neutrality across the world by various governments. 2. Within a month, 50% of people who started their journey with Free Basics are paying for the entire internet and have the ability to every service. Only single digit percentages of people are only on Free Basics after that month, and that number shrinks over time. 3. We believe that Free Basics is a program that is good for the entire internet ecosystem because it brings people online. We've seen it work elsewhere. We believe that many models for bringing people online should exist, so we are going to stand up for what we think is right in this debate. Free Basics is certainly forced upon nobody - everyone can choose to access it or not. 4. See my responses about the openness of our platform, as well as what data we collect and how we use it. 5. I don't undertsand this question, I appologize. 6. See my response on the advertising we've done, why, and its relative size versus all the effort and resources we're putting forth to connect people with Free Basics, solar planes, express wifi and other initiatives within Internet.org. 7. We want a solution that will be available to people when they need it, and can be technically made to be free. This is why we have the constraints that we do on the program. Once people are introduced to the internet via Free Basics, they quickly move onto the entire internet. 8. See my reply on our campaign to garner support and why we think it was important to get our word out. Also have a look at the survey that a 3rd party did which I linked to in another response.
+
+I think I have covered everything. Let me know if anything is missed or not represented right.
+
+---
+
+^^This ^^is ^^a ^^serious ^^discussion ^^- ^^please ^^keep ^^it ^^civil.

@@ -1,0 +1,51 @@
+Update (30 September 2025): As YouTube continues the auto-dubbing, it is now experimenting with the auto-translation of video titles as well. For instance, a YouTube Short , uploaded by Lionfield, an Italy-based duo, is automatically translated into Hindi. However, the title changes when the YouTube short is clicked. Nonetheless, like auto-dubbing, the translation is applied automatically, leaving users with little control.
+
+In December 2024, YouTube announced that it had started an auto-dubbing feature for content uploaded by YouTubers to make it more accessible. Recently, on September 20, 2025, YouTube expanded its multi-language features to “millions of creators” across the world.
+
+The streaming giant claims that watch time on YouTube videos with multi-language audio tracks enabled increased by 25% among viewers whose primary language is different from that of the video.
+
+However, while AI-based dubbing can help creators reach a wider audience and viewers access more content, the way YouTube has implemented this feature is concerning. Multiple viewers have expressed annoyance at YouTube forcefully pushing AI-dubbed audio tracks by default for videos in various languages, leaving viewers to manually change the audio back to the original language for each video.
+
+The feature was initially rolled out under the YouTube Partner Program for select YouTubers before expanding. For example, the India-based YouTube channel Zedi Trendy Fashion was among the few channels where the auto-dubbing feature was piloted in December 2024. The audio track for this Hindi-original do-it-yourself video is set by default in English.
+
+Currently, YouTube can auto-dub videos from the following Indian languages into English:
+
+However, as of now, YouTube only auto-dubs Hindi videos into English. In addition, there are several international languages that YouTube auto-dubs into English and vice versa. A detailed list is available on YouTube’s support website .
+
+According to YouTubeâs official documentation ( archive ), when a user uploads content, dubs are automatically generated and published. Viewers can manually change the audio track to another language via the videoâs settings. Surprisingly, this feature is automatically enabled for all “eligible users,” while others can enable or disable auto-dubbing through “ Advanced Settings ” in YouTube Studio.
+
+Google acknowledges that auto-dubbing is not perfect. It states that while dubbing may not be entirely accurate, it helps make content accessible globally.
+
+“Dubs are generated automatically, so they might contain errors due to mispronunciations, accents, dialects, or background noise in the original video. We may also have challenges translating proper nouns, idioms, and jargon. Other issues may arise with speech recognition, like matching the voice used for dubbing to the original voice.” – YouTube
+
+As AI-enabled features roll out across nearly every platform, concerns have grown over YouTube potentially using user data to train AI models. Questions arise about the ethical and legal implications of building such models and how forced “AI-fication” of creatorsâ content can be inconvenient. This sometimes occurs without creatorsâ consent and disregards viewersâ choice to watch content in its original language.
+
+For example, the YouTube video titled “ Maintenance tips for damage and prevention from E20 ” uploaded by Mukesh Chandra Goud is played automatically in English by default, even in Incognito mode . Similarly, YouTube has rolled out AI-dubbed videos on YouTube Shorts as well:
+
+MediaNama has verified this issue with multiple viewers who expressed frustration over YouTube pushing AI-generated versions, mostly in English, of videos originally made in Indian regional languages.
+
+The platform does not provide a universal option to disable this feature, requiring users to adjust the audio track for each video. Auto-dubbing is the default setting, forcing viewers to change the audio themselves. It is important to note that this auto-application is not standard for all users or all content; only select premium and non-premium users experience this feature. YouTube Premium subscribers, however, get early access to experimental features.
+
+In March 2025, Amazon Prime Video began “AI-aided dubbing” in English and Latin American Spanish as a beta feature for a limited set of 12 licensed movies and series.
+
+During their Annual General Meeting (AGM), Akash Ambani , Chairman of Reliance Jio Infocomm Limited (RJIL), announced several initiatives ahead of Reliance Jioâs planned IPO in the first half of 2026. Among them was Voice Print, an AI-driven voice cloning and lip-sync technology that automatically dubs content into multiple Indian regional languages. The technology will be deployed on JioStar, which will focus on its flagship sports streaming service.
+
+While there is no official information on Netflix’s “DeepSpeak” program, a paper by Dimitrios Telidis for The Localization Institute highlights several ways Netflix uses AI-based technologies for auto-dubbing and auto-subtitling, including generating audio descriptions for visually impaired viewers. Netflix also requires disclosures if producers, creators, or vendors use generative AI content in their work.
+
+Similarly, Warner Bros. Discovery has partnered with Google Cloud’s Vertex AI platform to auto-generate captions.
+
+While AI dubbing raises concerns about quality and authenticity, it also raises labor impact despite its efficiency in reaching a wider audience. As witnessed in the above-mentioned videos, AI-dubbing can sometimes miss cultural and linguistic nuances by creating AI-voices that lack emotional depth and can result in misrepresenting characters as well. This vocal and language standardizing may even risk eroding linguistic diversity as the AI models can homogenise the accents and prioritize certain dialects over others.
+
+Fearing job losses from AI-driven dubbing, translation, voice cloning, and synthesis, the French petition campaign TouchePasMaVF says, “It is the duty of public authorities to act, not to prevent innovation, but to regulate the development of generative AI in a way that protects artists, works, culture, and employment.” Similar concerns were raised by the US-based labor union, Screen Actors GuildâAmerican Federation of Television and Radio Artists (SAG-AFTRA) in 2023.
+
+MediaNama has sent the following questions to YouTube regarding its AI-driven auto-dubbing implementation:
+
+We will update this report once we receive a reply from YouTube.
+
+Note: The copy was updated to include the first paragraph on 30 September 2025, at 5:41 p.m.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

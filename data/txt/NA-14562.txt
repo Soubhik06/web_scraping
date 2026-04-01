@@ -1,0 +1,23 @@
+The Mumbai Police has filed an FIR against the owner of a gaming website, just days after former cricketer Sachin Tendulkar flagged a deep fake of him promoting the game percolating on the platform, The Indian Express reported on January 18. Charges filed against the owner and platform included defamation, as well as various others under the Information Technology Act, 2000 (IT Act). Police officers speaking to the media outlet said that the servers of “these portals” are often outside India, and the companies are generally reluctant to share data quickly with authorities.
+
+Tweeting on the video earlier this week . Tendulkar alerted users that the video was fake, while urging social media companies to be responsive towards deep fake-related complaints. “These videos are fake,” Tendulkar said. “It is disturbing to see rampant misuse of technology. Request everyone to report videos, ads & apps like these in large numbers. Social Media platforms need to be alert and responsive to complaints. Swift action from their end is crucial to stopping the spread of misinformation and deepfakes”.
+
+These videos are fake. It is disturbing to see rampant misuse of technology. Request everyone to report videos, ads & apps like these in large numbers.
+
+Social Media platforms need to be alert and responsive to complaints. Swift action from their end is crucial to stopping the… pic.twitter.com/4MwXthxSOM
+
+— Sachin Tendulkar (@sachin_rt) January 15, 2024
+
+India’s Minister of State for IT Rajeev Chandrasekhar subsequently tweeted that the IT Ministry will soon notify stringent rules under the IT Act to ensure platform compliance with takedowns, which may come in the form of amendments to India’s platform regulation laws, the IT Rules, 2021. After heightened regulatory scrutiny over deep fakes (which came straight from the Prime Minister’s Office), the IT Ministry recently issued an advisory to Internet platforms reminding them of their current obligations under the IT Rules to speedily take down deep fakes. Failing to do so will strip platforms of their legal immunity from being held liable for third-party content, otherwise known as the safe harbour protection.
+
+However, this regulatory approach puts the onus of liability for deep fake detection, a rather difficult task, on platforms—which may make this trade-off between compliance and safe harbour unfair. Writing on the conversations at MediaNama’s recent “Deep Fakes and Democracy” event, the team’s Nikhil Pahwa and Sarvesh Mathi had this to say:
+
+“Gautham Koorma, a researcher at UC Berkley School of Information, pointed out that the detection of deep fakes becomes much more difficult when they’re published on social media, because of the way platforms transcode the content. While researchers have been able to detect deep fakes with a 90 per cent accuracy in lab settings, once out in the wild, these numbers fall significantly, because of this. Moreover, he emphasized that even a 90 percent accuracy isn’t good enough given the volume of deepfake content. Consider this: out of a million pieces of deepfake content, if 100,000 genuine content is wrongly marked as deepfakes, it poses serious concerns as there is now a second level of disinformation. Additionally, techniques used to detect Child Sexual Abuse Material (CSAM), such as hash detection, do not work as well for deep fakes for various reasons including the volume of content, modifications, as well as concerns around how such an application can be misused by authoritarian governments. With minor modifications, comparing hashes can become a fruitless exercise.  This means that on the whole, detecting deep fakes on social media is not possible with 100% accuracy, even if the deep fake is being compared with an existing dataset. Holding safe harbour to ransom is thus not the right approach.”
+
+Read more
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

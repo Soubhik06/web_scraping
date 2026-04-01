@@ -1,0 +1,103 @@
+“They’re asking me how I expect to compete with the Indian government,” a worried founder of a  payments company told me.
+
+It was the first week of April 2017, five months after Demonetisation, and a year and half after the launch of UPI. Digital payments were on an upswing and another founder had been high on the demonetisation exercise and his own kool-aid to say that it his company’s “pious mission” to make India cashless.
+
+This founder, however, was worried about the future of his UPI company already. He was rapidly running out of funds and his investors were more worried about another competitor. India’s Prime Minister Narendra Modi had launched a UPI app called BHIM on December 30th,  2016 . While the Prime Minister committed money prizes for merchants and users who adopted digital payments , there was a sense, this founder said, that more money would be committed towards encouraging the usage of BHIM: It was, a month later .
+
+The National Payments Corporation of India (NPCI), a largely bank-owned private non-profit company, runs BHIM. Many mistake, misunderstand, or misrepresent NPCI as a government body because people don’t know better. People can mistake NPCI’s statement that it is “is an initiative of the Reserve Bank of India (RBI) and the Indian Banks’ Association (IBA) under the provisions of the Payment and Settlement Systems Act, 2007, for creating a robust Payment & Settlement Infrastructure in India” as suggesting that it is a government body. Not their fault, of course.
+
+NPCI actively sought to be recognized as a private entity, taking its case to the Chief Information Commissioner to argue that it is not a public authority and, therefore, not subject to RTI requests—and it won. The Competition Commission of India (CCI) also examined its use of the word “National” in its name, noting that, since 2014, only government-owned companies or those with government stakes could use the term.
+
+Despite all of this, according to a Moneycontrol report , NPCI CEO Dilip Asbe called the BHIM App “national initiative” in October last year, clearly a convenient misrepresentation of BHIM.
+
+NPCI, towards the end of last year, extended the deadline to limit market share to 30% for existing third-party apps on the Unified Payments Interface (UPI) network to December 31, 2026. It’s a regular thing for them to do , and is something they’ve done a few times after they announced this as a volume market-share per app.
+
+The NPCI had sought to “address the risks and protect the UPI ecosystem,” when it first announced the cap in 2020 , and gave companies till December 2022 to comply.
+
+In the eight years that have passed since Demonetisation, UPI has emerged as the largest payments platform in the country. There were 3.735 billion credit, debit and prepaid card transactions in the first half of 2024 , while UPI did multiples of that in the last month. Even within UPI, two players now dominate what was once a highly competitive market for acquiring customers:
+
+Paytm is just 6.93% of total transactions and 5.06% of transacted value, while BHIM is floundering at 0.2% of transactions and 0.37% of transacted value. Some have raised concerns about the dominance of two players. Unfortunately for the founder I referenced earlier, fears about BHIM’s dominance proved to be unfounded.
+
+More than that, there has been concern about the dominance of “foreign players”, given that Google owns Google Pay, and Walmart backs PhonePe.
+
+The RBI’s vision document for 2025 states:
+
+“4.2.9 ATTEMPT REGULATION OF BIGTECHS AND FINTECHS IN PAYMENTS SPACE
+
+BigTechs and FinTechs play an invigorating role in onboarding new users and customising payment experience. Given their increasingly dominant role in the payments ecosystem, the Reserve Bank shall publish a discussion paper on the need for proportionate regulation, covering domestic incorporation, reporting, data use, and other aspects.
+
+Last year, a Parliamentary Committee report also voiced concerns about Big Tech dominance , saying:
+
+“As the magnitude of digital payments increases in India, the use of fintech apps is slated to increase for digital financial transactions. In this context, the Committee recommends that there should be a focus on the promotion of local Indian players in the fintech universe. Indigenously developed BHIM UPI is a good example of it, however, its share in the UPI market is very low”.
+
+The RBI has been saying this obsessively , and so National Payments Corporation of India has been under pressure to act on this despite the fact that it is, erm, supposedly a private entity. There has also been confusing signaling by the RBI. Last year they said that they’ll leave the UPI market share problem to free market forces and the NPCI. The RBI Deputy Governor Rabi Shankar said that they will leave the UPI market share problem to free market forces and the NPCI:
+
+“It will be for the market to decide. The market forces have to play out such that this percentage is more evenly divided. We will not be interfering in the market process to ensure the 30% cap, [which] in any case, is an NPCI requirement,”.  The deputy governor also noted that there are no concerns about UPI apps becoming too big to fail because they are just third-party app providers and if funds don’t go through then there will only be a temporary inconvenience in terms of shifting over to another system.
+
+So, there’s pressure on NPCI to act on this dominance, but the RBI also wants the NPCI to decide.
+
+Last year, the CCI said that “We are looking into how technology is being leveraged by fintech players and whether they are impacting competition [in the market].” While it was probably referring to entities like PhonePe and Google Pay, I was wondering if it is missing the woods for the trees, and ignoring the dominance of NPCI in the fintech sector.
+
+1. NPCI is clearly a dominant private player in digital payments: It  runs UPI, Rupay, IMPS, NACH, AePS, FASTag and Bharat Bill Payment System (BBPS) as digital payment systems. UPI transactions dwarf any other digital payment mechanisms in the country. It was brought in to compete with other payment networks like Visa and Mastercard.
+
+The RBI failed to greenlight any local competition for NPCI, even though it had plans to allow competition via New Umbrella Entities . A reason as flimsy as “what we were looking for is some new innovative method, some innovation, some value addition to our payment systems, which we did not see”, doesn’t really cut it for me. I see it as dominant in digital payments, but for the competition regulator to see it as a dominant player, it will have to define the addressable market under consideration. It can conveniently define the addressable market as payments (including cash), and the evaluation would change.
+
+But what is also clear is that it was designed to be a private entity, and the fact that it would become a monopoly was recognised early. As Smriti Parsheera writes :
+
+“In 2011, the Technical Advisory Group for Unique Projects headed by India Stack proponent, Nandan Nilekani, articulated the idea of vesting the ownership of digital infrastructures in ‘private companies with a public purpose.’ The adoption of a ‘not-for-profit’ structure for entities like the National Payments Corporation of India and Open Network for Digital Commerce has become one of the ways to emphasise their public purpose. “…”The Technical Advisory Group for Unique Projects committee had observed that digital infrastructure operators, which they labeled as national information utilities, essentially operate as natural monopolies due to ‘upfront sunk-cost, economies of scale, and network externalities from a surrounding ecosystem.’”
+
+2. NPCI runs a marketplace for UPI apps and controls access to it: UPI has been incorrectly compared with email and SMTP both publicly and at events I’ve attended, because it’s not open access. You can’t just set up a UPI service like you can set up an email server, because UPI protocols aren’t open, unlike SMTP. The phrase “open” for UPI has also been used liberally, for example, “open architecture” here , and related initiatives such as NODE have been criticised by Mozilla for creating the potential for openwashing of projects . The fact remains that NPCI runs and controls access to the marketplace that is UPI. Some UPI apps have had firsts:
+
+It’s worth investigating whether these options were available to all UPI apps in advance (correlation is not causation), or whether NPCI allowed them to launch or launch these features first. It could be checked whether NPCI can thus choose when to allow a particular feature first for a particular player, and hence pick winners.
+
+3. NPCI has a player in its own marketplace: NPCI owns and runs BHIM app, and also runs the limited but dominant marketplace it operates in. As Times of India clearly pointed out when BHIM was launched in 2016:
+
+The app takes on the likes of Paytm, Mobikwik, Freecharge and other mobile payment apps which have become hugely popular since the government announced banning of Rs 500 and Rs 1000 notes on November 8.
+
+Moneycontrol reported in October last year that NPCI has hived off BHIM into a separate fully owned subsidiary:
+
+“The NPCI is also the settlement or clearing house and charges a switching fee for every UPI transaction from banks for running the operations. Ironically, the NPCI is now ploughing back the same profits to gain market share in the UPI ecosystem for its BHIM app. BHIM was spun off as a fully owned subsidiary a couple of months back. According to sources, the NPCI has given it Rs 300 crore in this financial year to attract customers and coax its former users to start using it again.”
+
+Effectively, UPI apps that pay NPCI a fee are made to fund their own competition, and NPCI has the opportunity for the marketplace to benefit BHIM. That issue will arise only if it is deemed to be benefiting BHIM over others. It’s also important to remember that UPI apps do not have any choice. If the RBI had allowed New Umbrella Entities (applicants for which included consortiums led by Reliance, Axis Bank, Tata Group, Paytm, and others), platforms would have choice. Of course, open protocols and interoperability would also have meant that the same user handles would work across service providers. But that would work for email service providers and SMPT, and not UPI and its closed protocols.
+
+In its initial years, NPCI actively chose to disallow wallet companies into UPI because of competitive reasons. As AP Hota, the then CEO of NPCI told MediaNama in 2016 :
+
+“Bank applications do not have such a great user experience. So the banks asked us to give us time to catch up and leave the wallets out of it.  It is just a competitive position. “
+
+This is significant because UPI was brought in as a Paytm-killer, and Paytm was the largest wallet around that time. I remember a senior payments industry executive telling me then that Banks weren’t in favour of UPI. Banks like to own everything, and they had been concerned about commoditisation by UPI, and of third party apps gaining control over payments from bank accounts. A relationship with a bank would shift to becoming a relationship with a third party app. Kiran Jonnalagadda, co-founder of Hasgeek, had also pointed out in 2017 ( screenshot ) that UPI also allowed a bank identity to be portable: I can have a UPI account with Yes Bank via PhonePe, and connect that identity to an ICICI or HDFC Bank account.
+
+In 2016, Paytm was rapidly nearing 200 million wallets ( it got there in 2017 ), around the time when SBI, India’s largest bank, had 337 million accounts . Here’s something from a slide deck that Paytm sent to me in 2015, after it crossed 100 million accounts (my email is a gold-mine), that should explain how significant Paytm had become by then:
+
+This was, of course, at a time when Sharma appeared on television, ranting and railing about WhatsApp being allowed by NPCI to set a differential interface. What happened next is also a concern with how the regulator (RBI) and the quasi-regulator (NPCI) acted. The government imposed data localization norms for digital payments, restricting WhatsApp’s UPI rollout for years. Initially, regulators limited WhatsApp to 1 million users when it entered the UPI ecosystem in 2018, later increasing the cap to 100 million users in 2022. Finally, on December 31, 2024, the NPCI allowed WhatsApp a full-fledged rollout, but by then, the foundation for UPI dominance. One can argue that WhatsApp’s digital payments rollout in India has failed on the account of failed governance of UPI, and a level playing field for participants.
+
+Back to the UPI rollout. Banks accepted UPI at the time because they feared Paytm more. As Hota’s statement indicates, NPCI excluded wallets to benefit banks. Since NPCI was—and still is—majority-owned by banks, this decision could be seen as a coordinated move by a banking cartel against Paytm. In 2017, the Payments Council of India called for “payments neutrality,” alleging that NPCI allowed only bank-led wallets to access UPI infrastructure.
+
+“Only bank-led PSPs (Payment Systems Providers) have direct access to payment systems. Non-bank PSPs (payment system providers) can access payment systems only through a member bank”…“Essentially, none of these can connect to the NPCI run infrastructure, and are effectively disenfranchised by the Banks that run NPCI”.
+
+Paytm Founder Vijay Shekhar Sharma had also alleged in 2018 that NPCI had “asked them to stop launching and delay the launch of Paytm UPI by nearly four months because Google has to launch Google Tez app.” This claim has not been independently verified, though.
+
+Today Paytm is a distant third, with 1.15 billion transactions per month (6.93% of total), had its Payments Bank licence canceled (for lack of proper compliance and not heeding RBI’s warnings for an extended period of time, allegedly), and is a shadow of the dominant payments player it once was. One could argue that the fact that it wasn’t allowed on UPI in the initial years hurt its marketshare, although the fact that it couldn’t raise more funding from Ant Financial is also probably to blame .
+
+Now, hypothetically, the NPCI were to impose a 30% market cap on platforms, while it wouldn’t be discriminatory against a specific entity, I think both PhonePe and Google Pay would have a case to make against it.Potentially, as a dominant player running a platform, they could allege that it is using this to benefit its own service, BHIM. There is a chance that this could be seen as an abuse of dominance by the platform against dependent entities.
+
+Secondly, if one were to apply the draft Digital Competition Bill to NPCI, it would find itself perilously close to the thresholds determined in the draft Digital Competition Bill for being classified as a Systematically Significant Digital Enterprise (SSDE): NPCI reported revenues of Rs 3,279 crore for FY24, and if it maintains its growth rate of 42%, it would have crossed the threshold required for it to be designated as an SSDE. It provides a core digital service (payments) under the draft law, and clearly has more than 10 million users and 10,000 “business users” for UPI. Remember that UPI apps only acquire consent from users. Even if one argues that these users belong to banks, without question, NPCI can be designated as an SSDE, on the basis of its economic power, integration with other markets, dependence of end users on it, barriers to entry (created by RBI in this case), lock-in effects and network effects.
+
+This means that under the draft law, hypothetically, NPCI may:
+
+Now if NPCI shuts down BHIM – at 0.2% of transactions and 0.37% of transacted value, nobody would notice its absence, just like nobody cares currently that it even exists – some of these issues would probably be addressed. Even then, in my opinion, in the absence of competition and NUEs, issues of discrimination would probably remain.
+
+If you zoom out, the problem really is that the RBI has failed on three counts:
+
+There is, however, no public consultation, and no recommendations are publicly sought for inputs for such a critical payments infrastructure, whether from civil society, or the broader merchant community of millions that is impacted by these payment systems.
+
+*
+
+Till issues of seemingly entity-specific decision-making, lack of competition, transparency and accountability, and of being a player in its own marketplace are addressed, for UPI payments apps, NPCI will continue to play multiple roles: a largely opaque quasi-regulator, platform and competitor. The success of UPI and the dependence of people, merchants and tech businesses as a payment system should bring to it greater scrutiny of how it operates, not distract from it.
+
+P.s.: As an aside, I clearly recall that at the first Startup India summit in January 2016, a little over nine months before Demonetisation, the payments panel had ended with a call for “Cashless India”. I remember because I was in Net-Neutrality-campaign mode then, and had asked them to end with a call for Net Neutrality.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

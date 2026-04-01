@@ -1,0 +1,37 @@
+Apple has added a new safety feature to FaceTime in iOS 26 that automatically freezes video and audio if it detects nudity during a call. X user @iDeviceHelpus first spotted the feature, and 9to5Mac later reported its behaviour. While the company initially introduced the tool as part of its Communication Safety suite for child accounts, it is currently active for adult users as well in the beta version.
+
+In iOS 26 FaceTime will pause the Video if you’re undressing while on a FaceTime call here’s the on screen prompt warning that you get asking if you would like to resume audio and video or End the call.👇 pic.twitter.com/fBs0aKUPCy
+
+The feature appears under “Sensitive Content Warning” in FaceTime settings and is switched off by default according to a report by Engadget. When enabled, it uses on-device machine learning (ML) to detect nudity. If triggered, the system pauses both audio and video, then displays a warning with two options: either resume the call or end it.
+
+According to Apple’s privacy documentation , FaceTime calls are end-to-end encrypted, therefore Apple does not store the contents of any call. However, the company may retain certain data for up to 30 days, including:
+
+The company says it may store information when users report spam or junk FaceTime calls, but it does not log whether anyone answers the call. But, if FaceTime calls use end-to-end encryption and Apple does not access or store their content, what enables the system to detect nudity in real time?
+
+Elsewhere, iOS 26 also introduces a new spam filtering feature in the Messages app. Users can choose to silence notifications and automatically move messages from suspected spam senders into a new Spam section according to a 9to5Mac report.
+
+The updated Messages app includes four filter tabs:
+
+When the feature is enabled, texts flagged as spam do not appear in the main inbox and do not trigger alerts. Notably, Apple has not disclosed how the spam detection works. There is no information in iOs 26 beta release notes about whether it uses ML, or other technology for this.
+
+Meanwhile, Google has introduced a set of scam protection features across Android devices. These include system-level restrictions that activate during calls with unknown numbers. The protections block app sideloading, prevent users from disabling Google Play Protect, and restrict changes to accessibility permissions granted to malicious apps during such calls.
+
+The system also displays screen-sharing warnings, when a user share their screen with an unknown number while operating a banking app. In addition, Google Messages now includes AI-based scam detection for fraud attempts involving cryptocurrency schemes, technical support, toll scams, and other phishing tactics.
+
+Apple and Google are actively embedding communication safety features into their operating systems, but they differ in how transparently they operate, how broadly the features apply, and how much control users retain.
+
+In iOS 26, users lack clear answers. Although Apple initially designed the nudity detection feature for children’s accounts, it currently also applies to adult users in the beta version. The on-device model’s criteria to detect nudity also remain undisclosed. Further, Apple has not confirmed if users will retain the choice to opt-in for such services after public release.
+
+These missing details raise broader concerns about content moderation inside private, end-to-end encrypted calls.
+
+Some questions that still need to be addressed are as follows:
+
+Furthermore, Apple’s Messages app now includes spam filtering, but the company has not explained how it detects spam messages.
+
+As operating systems begin enforcing content filters at the system level, the question is no longer whether moderation is necessary. The urgent issue is whether users can understand, control, or decline these features running silently on their devices.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

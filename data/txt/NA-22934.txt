@@ -1,0 +1,58 @@
+SUBREDDIT: r/LegalAdviceIndia
+TITLE: Company Falsely Accuses Employee of Data Breach After Abrupt Termination, Withholds Salary and Documents
+DATE: 2024-12-11
+SCORE: 1
+URL: https://www.reddit.com/r/LegalAdviceIndia/comments/1hbp0xk/company_falsely_accuses_employee_of_data_breach/
+
+--- POST TEXT ---
+
+Hi, my sister (1 YOE as a Software Engineer) joined as a Full Stack Developer Manager at a LLP 4 months ago.
+
+- Speaking about the job, they were on to providing an online platform for vendors and suppliers for leasing/renting heavy industrial equipment and machinery. The project was already in progress and was worked upon by previous teams. My sister was assigned to make a lot of changes in the frontend, integrate it with the backend database and deploy it to the cloud. 
+
+- Before joining, my sister was asked to bring her personal laptop to the work for few months stating the reason that they don’t have a laptop at the moment. After clearly denying, they agreed to arrange a work laptop.
+ 
+- Upon joining, my sister notices that the project she is supposed to work on was on a public GitHub repository and on top of that the .env file (file that contains sensitive information like credentials and access tokens that are not pushed to repository) was also pushed to this public repository, likely by the previous team (The company has little to no experience with technical aspects of software engineering projects). My sister immediately brought this to their attention (verbal) and made them aware of the possible consequences and security vulnerabilities. But they insisted my sister to not change anything and keep working on it as it is. After more attempts (verbal), they gave her permission to make the repository private and remove the .env file. 
+
+- She was also verbally told to keep backing up the project files onto both the company’s laptop and personal device.
+
+- She was also told that she would be managing a team, but there was no team upon joining and was told that they would be hiring developers sooner but for now she has to do the job (They never hired anyone later). 
+
+- Apparently they were using a free google cloud account to deploy the backend and once the free credits got over, she was asked to create a new email by giving her own personal number for the new google cloud account to which my sister denied. (This was on a WhatsApp conversation which unfortunately got accidentally deleted)
+
+- On 1st of this month, she received a termination email stating that she has been terminated “effective immediately” for missing several deadlines, timelines etc.
+
+- Later they accused my sister that she misunderstood the termination email and that she has to report to the office for the clarification and was also asked to continue working and complete the deployment (majority of the work was done by this time and only deployment was pending due to some errors). 
+
+- My sister asked them (on a WhatsApp conversation) to reply back to the same termination email clarifying about the extension of the termination with a proper date to which the CEO (appeared as helping me out) suggested that if I do so then they might withhold your salary, salary slips of all months (none received despite requesting) and relieving letter. He asked to rather trust him and he will ensure that my sister will get her salary, and the rest of the documents. 
+
+- My sister trusted the CEO and continued to work at home. She finally deployed the website on the night of 8th Dec, but the salary that was supposed to be credited on 5th of every month was not credited yet. She kindly asked about the same to which he ignored and asked me to come to office. At this point she got cautious and denied to go to office, told him a reason (bluff) for not coming to office as she got an important bank related work. He insisted that she has to come, to which my sister told that she would come but the salary must be credited before that (he ignored this again).
+
+- Later she changes her mind and decides to go get it settled for once and for all. Upon reaching office, the laptop was taken away from her and she was falsely alleged that she made the laptop malfunction by pouring water on it and also breached the data (she had informed that the company laptop was too slow and that she had to download the code on her personal laptop to test out where exactly the problem lies, whether it was a hardware or software problem). He also threatened her that he would put bad remarks on her certificate and that she would loose her career. This made my sister infuriated and she informed us about the whole situation. 
+
+- He then told her that he would be involving police into this matter and he left the office. We immediately reached her office and a constable called us to the station.
+
+- When speaking to the SP in the station, he also accused my sister that she threatened his life by saying she would bring me to kill him.
+
+- The SP understood the situation and in turn supported us by ordering the CEO to resolve the matter by giving my sister the required documents and the salary.
+
+- Outside the police station, the CEO (with his ego hurt) tried to grab hold of the situation by making calls and talking to people and constable. He also asked 10 days of time to gather evidence to his baseless allegation of data breach (after encouraging employees to use personal laptops , personal phone number for google cloud account and back up on personal devices).
+
+- Later two men, who seemed to be employees, stepped in support of the CEO and talked with us about how we could resolve this matter without involving police. He spoke calmly and told that even if this matter is taken legally, company will win and not the employee. He also told that if police is involved, they will have to upload this to their records which will have my sister’s name and my name affecting our careers during any BGV(Background Verification). This is where we had to reconsider and take a step back.
+
+- We rather had a declaration letter hand written by my sister declaring “Non-involvement in alleged data breach” and other points mentioning about the public GitHub repo and salary not credited etc.
+
+- The person who came in support also suggested that we sign this document outside the police station or else the police will put a police seal on the declaration letter and bribe both the parties later. He also suggested us to put a Resignation Letter from my sister’s side and he will ensure that she get’s all her documents and salary after that.
+
+- Laptop was submitted to the CEO (ensured to log out personal accounts) and the same is mentioned in the declaration letter. Me and the person who came on the CEO’s side signed the letter as witnesses along with the signatures of my sister and the CEO.
+
+- Contrary to the suggestion of putting a resignation letter, we realised the risk of voluntarily resigning and re-clarified with the person to which he denied saying that he did not guarantee the salary. Today, she replied to the termination email acknowledging the termination rather than resigning, and asking them to complete the exit formalities including the F&amp;F(Full and Final settlement), Salary slips and Relieving letter.
+
+TL;DR
+My sister, a software engineer, was abruptly terminated stating "terminated, effective immediately". However, later blamed it as a misunderstanding on my sister's part which is completely false as it's clearly mentioned "effective immediately". 
+After her termination, the company coerced her to continue working without clarifying the extension of her termination in writing, despite her repeated requests. They withheld her salary, documents, and threatened to ruin her career.
+My sister decided to complete the assigned work to get it settled smoothly. But upon finishing the assigend work and visitng the office, the company started falsely accusing of data breach and damaging company's laptop. 
+Then the company itself escalated the matter by involving the police, but after the police supported us and instructed the company to settle by providing her salary and exit documents, they tried to avoid further police involvement. 
+A settlement was reached, and my sister and the company’s CEO signed a written declaration stating her "non-involvement in the alleged data breach". However, the company remains unresponsive to her formal requests for salary and documents after acknowleding the termination. 
+
+They haven’t replied to the mail yet. Please help me out and let me know what options I have if they don’t cooperate.

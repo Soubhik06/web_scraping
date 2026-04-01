@@ -1,0 +1,31 @@
+The WannaCry ransomware was expected to affect several more computers on Monday, since that’s when most businesses and government organisations turned their PCs on for the first time after the attack started on Friday evening. Few instances of the ransomware seem to have been reported, however. Two reasons are possible for this. The first is that there has been no ‘second wave’ of the ransomware ever since the blogger named MalwareTech accidentally halted the spread of the attack. The second is that many businesses and government organizations are running unlicensed (pirated) copies of Windows, and are therefore reluctant to report the attack, as some analysts pointed out .
+
+Read: WannaCry ransomware rips through computers globally ; CERT-in webinar reiterates advisory
+
+The Cabinet Secretariat, which houses the Prime Minister’s Office, and the ministries of home affairs, external affairs, defence, and finance, told MediaNama that it was not affected by the attack . Responding to an RTI application, the Secretariat said that “all the necessary Firewalls are in place in Cabinet Secretariat.”
+
+The RBI has apparently issued an advisory that ATMs running out-of-date Windows operating systems need to remain closed until they’re updated. Note that this could not be independently verified: there is no such notice on the RBI website. An Ernst & Young consultant told Mint that a public sector banks ATMs had been affected by the attack. Many ATMs run Windows, so they’re vulnerable to the attack. Note that this doesn’t translate into a risk to overall financial security, since the malware encrypts and locks access to data, and doesn’t steal any .
+
+The Economic Times reported that banks have started restricting employees’ access to much of the Internet as they scramble to protect themselves from the attack.
+
+@Memeghnad My local SBI’s passbook printing machine got infected! this looks bad.
+
+— Hemant Gautam (@ideasfoundry) May 15, 2017
+
+Home Secretary of a India Rajeev Mehrishi cld not withdraw money in #Rajasthan due #ransomware .ATMs shut in #digital #India #WannaCry
+
+— Neeta Sharma (@NEETAS11) May 15, 2017
+
+After the Andhra police announced that it was affected over the weekend, the Maharashtra police also said that some of its computers were locked out by the attack. Separate from the Computer Emergency Response Team (CERT-in), the Maharashtra police has set up its own helpline for individuals and organizations, in collaboration with Quick Heal, a Pune-based cybersecurity firm. West Bengal’s power distribution company was also hit by the ransomware, affecting computers in some of their billing offices.
+
+The more connected you are… pic.twitter.com/6gmhpdSj1m
+
+— Mayur Shetty TOI (@mayurshetty01) May 15, 2017
+
+Some businesses in Gujarat and Tamil Nadu were reported to be affected by the attack too, as were the local manufacturing units of automobile giants Nissan and Renault — note that these companies were affected over the weekend globally as well. The IT Ministry dismissed these attacks as ‘isolated incidents’ that had “not only had minimum, but nearly zero percent impact,” claimed minister Ravi Shankar Prasad. CERT-in, which had set up an email helpline yesterday, received no reports of incidents. The Economic Times said that companies gave in and paid the ransom, but offered no examples.
+
+The WannaCry ransomware takes advantage of a vulnerability in out-of-date Windows machines to encrypt most of their data, and demands $300 in Bitcoin for decryption. Several organizations (both public and private) in India use unlicensed versions of Windows, and do not get updates and security patches from Microsoft. This leaves many of them exposed to ransomware attacks like WannaCry. The first wave of attacks was halted in the weekend, but a second wave that comes without a ‘kill switch’ that stopped the first could be equally if not more damaging. Even legal licensors of Windows software often do not update their systems with the frequency in which the updates actually release. The vulnerability that WannaCry takes advantage of was already patched in April, and Microsoft has released versions of the patch for OSes like Windows XP and Server 2003, for which they had discontinued official support.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,102 @@
+SUBREDDIT: r/india
+TITLE: Fake-NGOs and an example of how to spot one!
+DATE: 2021-09-21
+SCORE: 31
+URL: https://www.reddit.com/r/india/comments/psf9bt/fakengos_and_an_example_of_how_to_spot_one/
+
+--- POST TEXT ---
+
+The other day, someone on this sub mentioned that they're receiving continuous calls from so-called NGOs, citing small-baby's blood cancer and other ailments and requesting for money. They asked how to know if it's original or fake, and whether they should donate any.
+
+Remember - If you donate to any such NGO **once**, these guys get your details like Name and Ph-number and pester you with calls everyday, and you'd start getting calls from 20 other NGOs. (Based on personal experience)
+
+&amp;#x200B;
+
+**Example of a fake NGO -**
+
+I've been getting calls and even Whatsapp messages from this NGO - [Millennium India](https://themillenniumindia.org/). I've decided to dig a bit and this is what I found -
+
+&amp;#x200B;
+
+Firstly, taking a look at the website, this is their banner image -
+
+[Millennium Website Banner](https://preview.redd.it/09sndcmmqto71.png?width=1076&amp;format=png&amp;auto=webp&amp;s=7f15f5474e01b6c9ebae8845860755eabb7af3f3)
+
+We can see the registration id and PAN number (AAABM5517A). But a quick PAN search reveals something else.Another entity, that shares the same PAN. Want to guess what that entity is?
+
+Of course, it's another NGO. This time, it's [Life Line Care Foundation](https://www.lifelinecarefoundation.org/)
+
+[Life Line Care Foundation - Banner](https://preview.redd.it/lb9rrrssqto71.png?width=1086&amp;format=png&amp;auto=webp&amp;s=a0f76f050746d2dd8ef31d2bb773ebf519d9abd5)
+
+&amp;#x200B;
+
+And then I explored the website a bit more. This is on the main page -
+
+[Main-Page - Millennium India](https://preview.redd.it/v5l0ltvvqto71.png?width=1892&amp;format=png&amp;auto=webp&amp;s=b541ebd86ecfdf675b3f03b63a29304863dddbd4)
+
+Quick reverse image search on Google gave these results -
+
+* First image ([Wikimedia 2014](https://commons.wikimedia.org/wiki/File:Orphans_-_Debmalya_Seva_Mission_-_Orphanage_-_Howrah_2014-04-06_9901-9902.JPG))
+* Second image - first appeared in 2007 in [Sanjivini.org](https://Sanjivini.org). For all we know, the girl in this pic might have a kid this age now.
+* Third image ([Shutterstock image from 2010](https://www.shutterstock.com/image-photo/may-17th-2010-dindori-district-madhya-692282932))
+
+I guess I don't need to say more, you get the gist.
+
+&amp;#x200B;
+
+Now this is where it gets interesting. Going to the contact-us page, we see a phone number - +91 8446 333xxx. A quick search on Truecaller reveals the person's name (let's say - **Shubham Joker**).
+
+Dude has got a **LinkedIn profile** (link in comments). Looking at the top-3 credentials -
+
+* President, *Millennium India* \- Since **2002** (Maybe right from his birth)
+* Founder &amp; Director - *CRTVTY Media Pvt Ltd*
+ * A search for this org on LinkedIn provides just 1 result - same dude again.
+ * No credentials, no people, no website - Not a real company.
+* Founder &amp; Director - *Equidius Solutions Pvt Ltd.*
+ * Look who we have as Managing Director - Shashank Jharia, his brother.
+ * Website doesn't exist; No credibility of a real company.
+
+&amp;#x200B;
+
+Further more, the website also shows some **Partners**.
+
+[Partners](https://preview.redd.it/0t3hz87rvto71.png?width=2372&amp;format=png&amp;auto=webp&amp;s=62b055a77ea65e372f6bf3f772b5444cab566384)
+
+* **SJ** \- Doesn't take long to figure out it's not a company and just a logo created, coincidentally only containing the initials of Shubham Joker.
+* **Equidius** \- yep, that same company that has his brother as Managing-Director.
+* **CRTVTY** \- again, the same company who our SJ has founded, with no mention elsewhere.
+* Idea and Vodafone logos, because you can put them and who would even question?
+
+&amp;#x200B;
+
+Now coming to the actual verification of the details, one can search for the NGO registrations in India at Darpan ([ngodarpan.gov.in](https://ngodarpan.gov.in)). Here are the details for [Millennium-India (pdf)](https://mega.nz/file/HBtCVBwR#b2Nyz7rUBWYdAnO88BAXo6sIouRDN3_pbTWjxsK2nns) and [Life-Line-Care (pdf)](https://mega.nz/file/eYsklBDZ#0fBiVwj8eK7l8oddI3FeG0xO3wf9rnLe9v0ey7nOmKE) NGOs.
+
+Both the NGOs on their website mention that their inception was in 2001, but in reality they both were registered just a few months ago (Aug-2020 and Feb-2021). In fact, one can also check the Internet-Archive (Wayback Machine) to actually verify if the NGO existed many years ago. When I checked for this NGO, there was no mention of the website before Aug-2020, it's actual registration date.
+
+[Internet-Archive Results](https://preview.redd.it/hci1xorkbwo71.png?width=2464&amp;format=png&amp;auto=webp&amp;s=49fee8df80df1d52255263c48ad525895eea89cb)
+
+&amp;#x200B;
+
+Needless to mention, the **Key-Areas, FCRA Registration** (Foreign Contribution Regulation Act, 2010) and **Source-of-Fund** details are not available.
+
+After looking at one, it didn't even take me a second to guess where the other is registered- **Jabalpur, Madhya Pradesh,** just a few streets away from the Millennium India registration address.
+
+&amp;#x200B;
+
+Makes you wonder so many things -
+
+* Is it really that easy to loot the gullible public in India?
+* Is Jabalpur, MP becoming fake-NGO capital of India? I've seen close to 300+ NGOs registered in this city alone on Darpan, and almost all of them have similar stories.
+* How are these fake organisations getting successfully registered on a gov website? And why is it so easy?
+* What mechanisms does the government and Income-Tax department have in place, to verify the authenticity and transactions of these NGOs?
+* The part that's both hilarious and scary at the same time, is that some of these orgs have govt-funding, GST exemption and they even have the audacity to provide you with a 80G donation certificate for tax-exemption. Is our tax-system really that shallow?
+
+&amp;#x200B;
+
+Anyway, I hope this ordeal helps someone. Do not fall for false-advertisement, fake causes related to fatal diseases for small babies - be strong to say NO and call them out if needed. Also, if possible, ask for UPI id / payment details for any of the patient's relatives. I always ask for such details and almost always the reply is - "Sorry, we can't provide those details." Never transfer amount to the org's fund.
+
+Note - This [HC callout](https://www.hindustantimes.com/delhi/99-ngos-are-fraud-money-making-devices-hc/story-2AMyh5VMGA0edUtvtRnAMP.html) a few years ago says - 99% of NGOs in India are fake.
+
+**DO NOT** donate to these NGOs, unless you're very very sure of them, or have someone you know who's personally attached with them, or if you can verify their contributions and activities physically. In all other cases, stay away from them and donate to your local communities, old-age-homes, orphanages and adoption-centres and many more options out there.
+
+Cheers.

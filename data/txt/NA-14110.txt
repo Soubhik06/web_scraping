@@ -1,0 +1,23 @@
+The personal data of 301 million Vodafone Idea customers have been exposed over a two-year period, claims cybersecurity firm CyberX9 in a report released on Sunday. Vodafone Idea denied the findings, according to the Economic Times , describing the report as ‘false and malicious’ while defending the company’s regularly audited ‘robust IT security framework’.
+
+The data exposed includes personal data and call logs of all of Vodafone Idea’s 20.6 million postpaid subscribers. Other data exposed includes SMS records, residential addresses, phone numbers users spoke with, detailed call records, residential addresses, credit limits, and plan, Internet usage, and billing details,
+
+Why it matters : CyberX9 claims the exposure stems from ‘easy to discover’ vulnerabilities in Vodafone India’s systems and that the data may have been stolen by malicious hackers. ‘All of these discovered vulnerabilities were possible to be used for large scale automated exfiltration of sensitive and confidential user data without any restrictions by Vodafone Idea’s systems,’ the report claims. This data loss could result in ‘identity theft, extortion, threats, [and] national security threats.’
+
+CyberX9 reportedly shared the report’s 16 pages of findings with the telco’s ‘executive team’ including its CEO on August 22nd. The company acknowledged the weakness on August 24th, reports Economic Times, the same day CyberX9 escalated the issue with CERT-In and the National Critical Information Infrastructure Protection Centre (NCIIPC). On August 25th, CyberX9 confirmed that the system weaknesses were ‘no longer exploitable’.
+
+Acknowledging a ‘potential vulnerability in billing communication’, Vodafone Idea reiterated in a statement to Economic Times that ‘ this was immediately fixed, and a thorough forensic analysis was conducted to ascertain no data breach. We have notified appropriate agencies and made due disclosures. Vi customer data remains fully safe and secure.’
+
+CyberX9 has further requested an independent government-led security audit of Vodafone Idea in its report.
+
+This isn’t the first time the Chandigarh-headquartered cybersecurity firm has sounded the alarm on potential cybersecurity breaches in India.
+
+In November last year, CyberX9 reported that the Central Depository Services Limited (CDSL) had compromised the sensitive data of 4.39 crore Indian investors. The CDSL, which eventually fixed the system’s weakness, is one of India’s largest securities depositories, holding ‘shares, mutual funds, and bonds in [an] electronic format’.  The firm asserted that the data may have been stolen by ‘malicious attackers’ and requested a government-led audit of the depository.
+
+The same month saw CyberX report on how the Punjab National Bank (PNB) compromised the personal and financial data of 180 million customers for seven months. India’s second-largest public sector bank at the time, the vulnerability was reportedly fixed on November 19th after the incident was reported to CERT-In and NCIIPC. While PNB confirmed a server vulnerability, in a statement it ‘denied that any critical data was exposed or other systems were affected’.
+
+Read More
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

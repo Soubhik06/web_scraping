@@ -1,0 +1,31 @@
+Nebraska on August 8 recorded among the first incidents of a person’s Facebook Messenger interactions being used to incriminate people for abortion, reported Forbes . While the search warrant sent to Facebook mentioned the burning and burial of a stillborn baby, the police found messages between the 17-year-old and her mother about an alleged “self-managed abortion.” This case highlights why the end-to-end (E2E) encryption feature should be set as a default rather than an opt-in on Meta’s messaging apps like Messenger.
+
+Never miss out on important developments in tech policy, whether in India or across the world. Sign up for our morning newsletter , with a “Free Read of the Day”, to experience MediaNama in a whole new way.
+
+In the Nebraska case, police accessed a conversation between the mother and daughter that wasn’t related to the criminal allegations mentioned in the search warrant. Law and order may have won here but there is something to be said about the duo’s breach of privacy, especially the teen’s medical privacy. The conversation also extends beyond abortion rights because it shows that Messenger chats are still vulnerable to third-party scrutiny. A very effective way to solve this problem is for Facebook to simply enable E2E as a default feature. This will provide better privacy protection to its users, who are the first group of people the company is answerable to when it comes to privacy and data protection.
+
+What is E2E encryption? The E2E encryption is a highly appreciated security measure that ensures only interacting devices can decrypt messages. According to Facebook , this means that no one, not even the company, can access the messages. Another Meta platform WhatsApp boasts about this feature because it offers privacy protection to its users by default.
+
+However, for Messenger and Instagram, E2E encryption remains an opt-in feature rather than a default. Despite its introduction in 2016, the feature has to be enabled for every individual contact a person converses with. The encrypted messages then appear in a separate conversation box, sometimes appearing as ‘ Secret Conversations .’ In case of Instagram, this feature is enabled only in certain areas.
+
+Although privacy advocates hailed Facebook for introducing E2E in the case of Messenger voice and video calls, individual or otherwise, the impact weakens if the privacy feature has to be enabled for each conversation. In fact, as per The Guardian article, Meta said this feature isn’t likely to be defaulted until 2023.
+
+Where does India stand on this? There has been a longstanding debate between rights groups and government machineries on whether companies should enable E2E encryption, particularly on whether they should have to create a backdoor for law enforcement agencies. In 2019, as many as 58 civil society organisations across the globe urged Facebook Founder Mark Zuckerberg to extend E2E across the company’s messaging services. Signatories even asked him to resist backdoor demands dubbing the same as an “assault on privacy.” As it turned out, while the people supported the privacy feature, government had a thing or two to say against the move.
+
+As per India’s IT Rules 2021, messaging apps like WhatsApp and Messenger have to enable tracing the originator of a message – a provision the two companies opposed for breaking E2E encryption.
+
+Similarly, India and Japan backed a Five Eyes Intelligence’s (USA, UK, Australia, New Zealand, and Canada) statement in October 2020 that demanded backdoors to E2E for law enforcement agencies. The countries argued that without these backdoors, the E2E poses a threat to public safety, especially to children.
+
+Still, Meta and other companies should first prioritise the personal security of their users. Aside from security authorities, un-encrypted data leaves people and their vulnerable to hackers, who can manipulate such information for their benefit. The fact that Facebook and WhatsApp are fighting a lawsuit with the Government of India against the creation of backdoors in an E2E system argues the need for a default feature to protect user safety.
+
+Messenger update: Following the Nebraska incident, Facebook shared an update that it will begin testing default E2E encryption for its Messenger chats. As per Messenger News on August 11, the testing will take place “between some people” this week. This means that the most frequent chats of the selected people will be automatically E2E encrypted. Similarly, it said the global rollout of default E2E for personal messages and calls will be in 2023. Aside from this, the company also introduced the new ‘Secure Storage’ feature for Android and iOS. This feature will encrypt cloud back-ups of users chat history, protecting the chats from even Facebook.
+
+This story was updated with the news about Facebook’s new features for context.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

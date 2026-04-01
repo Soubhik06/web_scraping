@@ -1,0 +1,13 @@
+SUBREDDIT: r/india
+TITLE: PSA:Cryptojacking malware is rampant on Indian websites!
+DATE: 2018-02-13
+SCORE: 10
+URL: https://www.reddit.com/r/india/comments/7x9qyk/psacryptojacking_malware_is_rampant_on_indian/
+
+--- POST TEXT ---
+
+I posted [earlier](https://np.reddit.com/r/india/comments/7v89cw/psa_deccan_chronicle_and_asian_age_are_loading/) almost a week ago about Asian Age and Deccan Chronicle websites injecting MONERO mining javascript that was found by the twitter handle @banbreach. Few days ago an English security researcher Scott Helme found out that a number of UK gov websites are using similar miners. One of the wallet addresses matched with the one found on DC/AA websites. This increases the possibility that all these CDNs might have been infected by some kind of cryptojacking malwares. Today banbreach [posted](https://twitter.com/Banbreach/status/963399061591281667) more indian websites affected by the same. This includes the banking technology institute PNBIIT and the popular job search site indiangovtjobs with active miner. Also the popular online consumer electronics store theitdepot probably faced a similar attack.
+
+[Here](https://www.theguardian.com/technology/2018/feb/12/cryptojacking-attack-hits-australian-government-websites) is a Guardian article to this.
+
+So far we haven’t seen any Indian news outlet covered this.

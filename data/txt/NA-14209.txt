@@ -1,0 +1,21 @@
+We missed this earlier: Bharti Airtel, Reliance Jio, and Vodafone Idea have begun trials for the caller identification system recommended by the Telecom Regulatory Authority of India in February this year , according to a report by the Hindu published on June 14. After the implementation of this system, users will be able to see the name of whoever is calling them. As per the report, the three companies have begun trials in Haryana and Mumbai. The caller ID service will only be available to 4G/5G users and not those with only 3G/2G compatible devices. Sources told the Hindu that the government has given telcos until July 15 to start the CNAP services.
+
+This caller ID system (called Calling Name Presentation or CNAP) is similar to the service provided by Truecaller. However, unlike Truecaller, which relies on crowd-sourced data to identify callers, this service relies on the information filled out by telco customers in the Customer Acquisition Forms. TRAI first discussed the idea of implementing a CNAP service in a 2022 consultation paper , suggesting that it could be a solution to spam calls from unregistered telemarketers. It said that users have been forced to miss genuine calls in the absence of a CNAP facility because they prefer not to attend calls from unknown telephone numbers.
+
+This caller ID system has previously been called out for potential privacy violations. As we have previously mentioned, by revealing a caller’s name, this system makes it possible for bad actors to look up information about the person and harass them. It could also invariably give spammers/scammers more ammunition to tailor their scam to a specific person.
+
+Some have also expressed concern about whether it is a proportionate decision to violate the privacy of all telecom users to tackle spam. During the open house discussion organized by TRAI on CNAP in 2022, telecom companies had also expressed concern about user privacy, and also pointed out implementation issues such as latency in setting up calls.
+
+Just because a caller is identified doesn’t necessarily mean that scammers/spammers will stop calling. While you may choose not to answer, spam calls may persist just as before. Without penalties for spammers, there’s little incentive for them to cease operations.
+
+Presently, spammers, like all users, must undergo a Know Your Customer (KYC) process. TRAI itself has admitted that this KYC process isn’t entirely accurate and acknowledges that there is a need to have a robust KYC mechanism in place whereby a subscriber can be uniquely identified. As such, relying on customer acquisition forms to identify customers can prove to be ineffective in curbing spam.
+
+Note: The story was updated on June 20, at 11:38 AM to specify that the July 15 deadline is for CNAP rollout and not for initiating trials.
+
+Also read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

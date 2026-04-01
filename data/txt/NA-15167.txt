@@ -1,0 +1,35 @@
+Car technology firm Valeo on November 7 filed a lawsuit against Nvidia over the alleged theft of its tech secrets. Valeo alleges that these tech secrets were stolen by a former employee of its German arm, Mohammad Moniruzzaman, who gave his personal account unauthorized access to “t ens of thousands of files and 6 gigabytes of [Valeo’s] source code,” before he quit the company in August 2021 and joined Nvidia.
+
+Valeo claims that Moniruzzaman also stole “ scores of Valeo Word documents, PowerPoint presentations, PDF files, and Excel spreadsheets explaining various aspects of the technology to further facilitate his understanding of the stolen code, the operation of Valeo’s ultrasonic sensors, and the data obtained and transmitted by those sensors.”
+
+Valeo said that the data theft was confirmed when Moniruzzaman (as an employee of Nvidia) gave a presentation to a Valeo team over a video call and mistakenly displayed that he had Valeo’s verbatim source code files on his computer.
+
+So what happened?
+
+In its complaint, Valeo says that in 2021, Nvidia won a contract with an Original Equipment Manufacturer (OEM) to develop software for the OEM’s parking and driving assistance system. Valeo had worked with the OEM on previous iterations of the software but this time around, the company was only awarded the contract to provide ultrasonic sensors, a hardware component for the parking and driving assistance systems.
+
+Soon after the OEM awarded Nvidia the contract, Mohammad Moniruzzaman who was one of Valeo’s software engineers who helped build, code, and develop Valeo’s parking and driving assistance software, left the company and joined Nvidia. At Nvidia, he was promoted to a senior position working on software development of the same software.
+
+Moniruzzaman’s alleged data theft went undetected for six months. However, because both Valeo and Nvidia were working on the OEM contract (albeit for different parts of the project) the companies had to schedule virtual meetings so that Nvidia employees could ask Valeo employees questions about Valeo’s ultrasonic hardware and data associated with the hardware. It was during one such meeting on March 8, 2022, that Moniruzzaman minimized his presentation and allegedly revealed that he held Valeo’s source code in his possession. Valeo employees took screenshots of the same as proof of theft.
+
+In September 2023, Moniruzzaman was convicted by German authorities for the alleged data theft. According to the complaint, Moniruzzaman admitted to the theft during criminal proceedings and the German authorities also found stolen Valeo files in his Nvidia-issued computer.
+
+The screenshots taken by Valeo employees during the call allegedly show that Moniruzzaman had searched for certain keywords within the source code. The search for specific keywords, Valeo claims revealed that,”Moniruzzaman searched for a specific proprietary Valeo variable during the course of the meeting, suggesting that Mr. Moniruzzaman was regularly using the Valeo code in his work for Nvidia.” The search for these keywords has also been used by Valeo to establish that Moniruzzaman could have shared trade secrets from Valeo’s code with other Nvidia employees, including at least the senior software engineers and managers employed by Nvidia who were present on the video call on March 8, 2022.
+
+Further, Valeo’s complaint says that Nvidia has admitted to using its code, “to confirm how to interface Nvidia’s software with Valeo’s ultrasonic hardware.” It also states that Moniruzzaman admitted that he used the trade-secreted code multiple times while at Nvidia.
+
+According to a report by the BBC, Nvidia sent a letter to Valeo’s lawyers which states that the company has “no interest in Valeo’s code or its alleged trade secrets and has taken prompt concrete steps to protect your client’s asserted rights.”  This also mentions that the company did not know that Moniruzzaman had stolen Valeo’s data until May 2022 which is when he informed Nvidia that he was under investigation.
+
+Valeo’s complaint suggests that Nvidia has made attempts to remove M oniruzzaman’s additions to the code. However, Nvidia has also said that the additions Moniruzzaman made to Nvidia’s code underwent a peer review process of 10-30 iterations of feedback loops before the code was fully merged into Nvidia’s database to bring it in line with the company’s design. Valeo, on the other hand, claims that it is not feasible to remove Moniruzzaman’s additions to the code given the extensive edits it went through and the suggestions he might have made to other Nvidia employees.
+
+Valeo has urged the court to declare that Nvidia has no rights or privileges to use Valeo’s trade secrets along with financial restitution, damages,  profits obtained from the use of Valeo’s trade secrets, and the development costs Nvidia saved from using its code.
+
+Given that Valeo has proof to show that Moniruzzaman had stolen its data it remains unclear how Nvidia will be able to turn the situation in its favor. With Nvidia hitting the billion-dollar valuation mark in May, it could end up facing a major financial hit from covering all the financial costs if the courts rule in Valeo’s favour.
+
+Also read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

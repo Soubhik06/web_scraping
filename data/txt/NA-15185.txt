@@ -1,0 +1,65 @@
+Earlier this month, the IT Ministry notified the Digital Personal Data Protection Rules ( DPDP Rules, 2025 ) and, with them, operationalised parts of the Digital Personal Data Protection Act (DPDP Act, 2023). As India finally starts implementing its data protection regulation, a lot may change for the average internet user. From requiring businesses to seek consent for processing personal data to allowing deletion of the said data, the data protection regulation seeks to provide users more control over their data.
+
+Here is a practical look at what the key rights of a data principal (customer/internet user) will be under the DPDP Act and rules.
+
+The Digital Personal Data Protection Act and rules require companies to give their customers a consent notice that informs them of:
+
+Picture this, you sign up for a shopping app (say Myntra or Nykaa), before collecting information about you like your name, your address, date of birth, and contact number, the app must give you a notice with an itemised list of the data they are collecting about you and its purposes.
+
+However, if you are already a customer of these services, platforms will not have to seek fresh consent. “Platforms will just update their privacy policies to reflect that they are DPDP compliant, but will not seek a fresh batch of consent provided that they do not expand the scope of how they use data beyond what they previously sought consent for,” GV Anand Bhushan, founder of Bhushan Rajaram, Advocates and Consultants, mentioned in a conversation with MediaNama. He argued that the majority of companies today already state in their policies that they use customer data for platform improvement, customisation, and marketing purposes.
+
+Picture this: it’s your mother’s birthday, and you want to send her a cake and some flowers. To do so, you provide the delivery service with her address and contact number. However, the fact that platforms need to seek user consent before processing data could make this entire exercise challenging.
+
+A plain reading of the law suggests that you can only give consent for yourself, not your mother or your father, Bhushan explained.
+
+“To bypass this legal issue while still allowing gift giving, companies implement policies where they send a confirmation or follow-up message to the gift receiver. This message will state that ‘ABC is being delivered to your house’ and could have a consent flow where the receiver can agree to accept the order. This will be a secondary consent flow that the market may implement,” he pointed out.
+
+Bhushan emphasised that these sorts of scenarios are edge cases, and as long as there is no impersonation and there is lawful processing, one should not over-engineer complexities in a strict statutory interpretation.
+
+Companies have to provide their customers with a summary of the personal data they are processing and the processing activities they undertake with it. Companies will also have to inform the customer of all the third parties they share this data with as part of the summary.
+
+Picture this: you sign up for a post-graduate entrance exam, and suddenly, you are flooded with calls and SMSes from education consulting firms that help people with their higher education plans. If you want to understand how these firms got your number, you will be able to submit a request to the entrance exam registration site seeking this information as part of a data summary.
+
+One of the problems with the summary request provision that experts foresee is that companies would end up overloading users with unnecessary information. Imagine filing a data summary request with the exam portal to understand how your phone number reached dozens of education consultants. Instead of giving you a simple, readable list of the specific third parties who received your number, the portal might send you a 60-page PDF filled with:
+
+The data about which firms have your information is so deeply buried in these pages that you would probably not even bother sorting through and figuring out the details.
+
+Just because the information may come with a range of other things that you did not want to know does not mean companies can deny you clear details of third parties. For instance, an e-commerce platform cannot just tell you it is sharing information with marketing affiliates without identifying them in your data summary based on commercial confidentiality grounds.
+
+“Commercial confidentiality cannot be used to withhold the identity of third parties with whom an individual’s data has been shared with. The law is clear on this front. As part of a data subject’s right to access, they are entitled to receive identities of the third parties with whom personal data has been shared with, along with a description of the personal data shared,” Kalindi Bhatia, Partner, Technology, Media and Communications, BTG Advaya, told MediaNama. She argued that unless statutory exemptions like protections against disclosures pursuant to legal proceedings / criminal investigations are provided.
+
+Customers can ask companies to erase their personal data, unless they have to maintain this data for any specified legal obligations. The DPDP Rules specify data retention periods for e-commerce entities, social media platforms, and online gaming intermediaries, underlying that they may retain personal data for:
+
+Customers can also ask companies to correct any mistakes in the data if it is inaccurate, misleading, incomplete or outdated.
+
+Let’s say you signed up for an educational platform, and it infers your career interests from your browsing and exam registrations. Later, you decide you no longer want to stay on it. In such a case, you could potentially have the right to get that data deleted.
+
+“The ambit of processing is wide enough to capture activities like ‘adaptation’, ‘retrieval’, etc. In practice, the student whose data is shared ahead with a consulting firm shall be entitled to request access/deletion of their data shared ahead, which includes the ‘processing activities’ carried out on such data,” Bhatia explained.
+
+However, she added that the contours of ‘inferred data’ would depend on the nature of data collected, the platform’s features, and the purposes disclosed under the privacy notice (related to the personal data processing activities).
+
+Bhushan argued that companies spend precious time and money acquiring customers, and it takes a complex sales cycle to save their credit card information. “This [requirement to delete personal information after three years of inactivity] is a real risk for services like e-commerce startup platforms. However, they do have some grounds to retain data beyond this period for lawful reasons. They can maintain a limited set of information, such as login, user name, ID, credit card information, house address, for verification of regulatory compliance, tax and verification of their accounts and so on,” he explained.
+
+“Let’s say you bought a fridge off an e-commerce platform, and along with it, you also purchased a 5-year warranty for the fridge. In such a situation, a company would be well within its rights to retain your data to enforce your warranty”, Bhushan argued.
+
+Beyond this information, companies also want to maintain customer profiles and consumer analytics. “To tackle this, companies may try to re-engage with a customer within the first two and a half years, prompt sales activity through discounts or any other customer retention strategy. Hopefully, that will take them out of the three-year inactivity bucket,” Bhushan suggested.
+
+Besides this, in case information is anonymised or pseudonymised, Bhushan said that it goes out of the scope of the Digital Personal Data Protection Act because there is no real privacy risk for the customer. “This may allow companies to continue to do market analytics or website improvement, geographical profiling and so on,” Bhushan added.  He clarified that whether these approaches to reactivate a customer through discounts, etc, would stand scrutiny or a test of law is an open question.
+
+Companies have to obtain verifiable parental consent for processing the data of anyone under the age of 18. There are certain exemptions to this, for purposes such as medical care or education. However, the presence of the parental right to give consent on behalf of a child raises important questions, such as: what happens in situations where the platform has already onboarded a child? Can parents revoke consent on behalf of their child?
+
+With regard to under-18 users, companies may have to obtain fresh consent because of the term ‘verifiable parental consent’ mentioned in the law.
+
+“The law suggested that companies would first have to identify the children on their services, and most companies have not done that. Then, they will have to tie it to verifiable parental consent, and that consent will then need to be tied to documentation. Whatever consent companies previously obtained from a child, probably was not verifiable parental consent,” Bhushan pointed out. He mentioned that, based on his reading of the law, parents will also be able to withdraw this consent at a later stage, similar to how adults can revoke consent for processing their data.
+
+In case a company suffers a data breach, it has to inform its customers in a “concise, clear and plain manner” and without delay. The notice informing customers of a breach has to include:
+
+This means that if the shopping app you purchase electronics from gets hacked by a bad actor, and user data (like addresses and phone numbers) ends up on the dark web, the app would have to send you an email or a message about the breach with details of how it would affect you and how you should protect yourself now.
+
+Some worry that frequent data breach notifications would trivialise breaches , suggesting that companies should only inform their customers when there is an active risk. However, speaking from a user perspective, one of the participants at MediaNama’s discussion on the draft rules earlier this year, emphasised that they want information about every breach. “I honestly want to be informed every time there’s a personal data breach because otherwise, the companies lie all the time. They gaslight me as a user. So, I want them to report it every time because they don’t take fines seriously. At least they’ll take reputational damage seriously,” the participant mentioned.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

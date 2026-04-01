@@ -1,0 +1,59 @@
+The Reserve Bank of India (RBI) has set the goal of reaching one billion unique Unified Payments Interface ( UPI ) users by December 2029 in its National Strategy for Financial Inclusion (NSFI) 2025â30 ,
+
+For context, NFSI 2025-30 is a five-year roadmap for expanding access, usage and quality of financial services across the country, that builds on the outcomes of the previous NSFI 2019â24. And notably, the RBI says that the latter NFSI cycle delivered delivered near-universal bank account access and broad expansion of physical and digital service infrastructure.Â
+
+To explain, banking access had reached 99.9% of identified villages within a five-kilometre targeted radius by March 2024, supported primarily by the expansion of the Business Correspondent (BC) network. Furthermore, the number of village banking outlets increased to 1.59 million in March 2024, up from 597,000 in March 2019. Meanwhile, Basic Savings Bank Deposit Accounts stood at 705.9 million in March 2024, rising from 574.2 million in March 2019.
+
+Elsewhere, digital payment adoption metrics also strengthened. The RBIâs Digital Payments Index rose to 445.50 by March 2024, as compared to 153.47 in March 2019, while the Financial Inclusion Index (FI Index) increased by 14.3 in the same time period.
+
+Within the FI Index, the access sub-index rose by 11.8, usage sub-index by 16.8, and the quality sub-index by 13.2 between March 2019-24, highlighting that progress increasingly came from active use of financial services.
+
+However, surveys conducted during the strategy review identified persistent challenges. These included uneven quality of last-mile services, inactive or non-dedicated BC outlets, limited product ranges at access points, digital adoption barriers linked to education and income levels, and unmet credit demand.
+
+Consequently, NSFI 2025â30 shifts the policy focus from expanding reach to ensuring effective usage, aligning financial services with livelihoods, financial literacy initiatives, Digital Public Infrastructure (DPI), and stronger consumer protection frameworks.
+
+At the centre of NSFIâs digital payments agenda lies the continued expansion of UPI. The financial strategy document reports that UPI processed more than 130 billion transactions in FY24. And as of June 2024, there were 424 million unique UPI users, a number the RBI wants to increase to 1 billion by the end of the decade.
+
+One must not that UPI transactions far exceeded other retail payment systems in volume, although National Electronics Fund Transfer (NEFT) continued to dominate transaction value.
+
+Notably, UPI, NEFT and Immediate Payment Service (IMPS) together drove the growth of digital transaction volumes and values across India between 2019 and 2024.
+
+To explain, this expansion rests on Indiaâs DPI stack, which integrates Aadhaar-based identity systems, payment rails such as UPI, the Aadhaar Enabled Payment System (AePS), and data exchange layers including DigiLocker and Account Aggregators. These interoperable systems support low-cost onboarding and instant settlement for individuals and merchants.
+
+To further widen adoption, NSFI has scaled up the Expanding and Deepening of Digital Payments Ecosystem (EDDPE) programme. Under this, authorities aim to ensure that every eligible resident in identified districts has at least one operational digital payment mode, including UPI, RuPay debit cards, mobile banking applications, net banking platforms, USSD  services, and AePS terminals. Notably, the programme sets formal delivery milestones: that is 100% digital payment coverage in all designated districts by March 2027, with around 80% districts approaching full coverage a year earlier in the strategy cycle.
+
+Moreover, NSFI has linked payments infrastructure to welfare delivery. For context, during the COVID-19 response period alone, government departments digitally disbursed Rs 5.53 lakh crore across 319 schemes through DPI channels during 2020-21, while BC outlets facilitated 940 million ICT-based transactions amounting to Rs 2.25 lakh crore within the same time period.
+
+Although access has expanded geographically, NSFI acknowledges persistent weaknesses in service delivery. RBI surveys covering 13,274 BC outlets across 31 states and union territories identified multiple operational gaps, with 63% of BC agents operating in rural areas, 23% in semi-urban areas, and 14% in urban locations.
+
+Moreover, many outlets were not exclusively dedicated to financial services, which diluted service quality. Elsewhere, BCs most frequently offered only remittance and cash-in/cash-out services, while products such as insurance, pensions, Kisan Credit Cards (KCCs), overdrafts and micro-credit remained limited to selected locations.
+
+Furthermore, distribution challenges also emerged. BCs tended to cluster near market centres and bank branches, leaving remote habitations underserved. The survey further observed that inactive outletsâdefined as BCs without transactions or log-ins for more than 90 daysâwere driven partly by inconsistent remuneration structures and timelines. Moreover, transparency failures were common, including the non-display of service charges, lack of transaction confirmation alerts in vernacular languages, and inadequate grievance redressal signage.
+
+To rectify this, NSFI mandates that each revenue centre must host at least one regulated banking outletâeither a branch, a Fixed-Point BC outlet, or a Digital Banking Unit (DBU). DBUs function as digitally equipped centres providing assisted access to account opening, payments onboarding, digital transactions, and financial product distribution.
+
+Parallel reforms target the BC network, with NSFI seeking greater standardisation of service menus, expansion of authorised products â particularly insurance, pensions, deposits and credit facilitation â and enhanced regulatory monitoring.
+
+While payments adoption surged, NSFI recognises that credit inclusion remains uneven. A nationwide household survey of 9,147 respondents across 34 states and union territories showed that among individuals seeking loans, approximately 50% faced unmet credit demand.
+
+Respondents cited lack of procedural awareness, absence of nearby branches, and lack of collateral as primary barriers, while interest rates ranked lowest as a stated obstacle. Notably, informal borrowing remained common, with 16% of respondents relying on informal credit sources, particularly in rural areas.
+
+To modernise lending access, NSFI has ideated about the Unified Lending Interface (ULI) as a new DPI layer designed to streamline loan origination. For context, ULI will enable consent-based digital sharing of verified financial and non-financial data among registries, Account Aggregators, lenders and service providers, replacing fragmented bilateral data integrations.
+
+The platform will support straight-through digital processing of loan applications, lower underwriting costs, and expand credit access to micro, small and medium enterprises (MSMEs), tenant farmers, self-employed borrowers and first-time credit users.
+
+Notably, ULI is yet to be rolled out officially, with testing underway across multiple loan journeys and staged onboarding of banks, Non-Banking Financial Companies (NBFCs) and data providers. The NSFI has not set a defined timeline for the interface, saying it will be rolled out in a phasesd manner.
+
+The RBI wants financial service providers to reduce the burden on customers when they complain. It suggests âsimpler solutionsâ where an aggrieved user can give a missed call to a designated number and receive a call-back from the provider. That call should register the complaint, issue an acknowledgement and provide SMS updates on its status.
+
+RBI’s financial strategy also calls for simple apps and tools in regional languages to help customers lodge complaints more easily. In parallel, regulators must ensure that every financial service provider has a board-approved grievance redressal policy, prominently displayed online with a direct complaint link at all customer interfaces, and available in vernacular languages.
+
+NSFI asks banks to use the existing Citizen Financial Cyber Frauds Reporting and Management System (CFCFRMS) more effectively. For context, CFCFRMS receives cyber-fraud complaints via the 1930 helpline and the National Cybercrime Reporting Portal (NCRP), and the strategy says banks should maintain a near real-time mechanism to withhold or block funds once a ticket is raised on the CFCFRMS platform.
+
+Finally, the RBI proposes to establish a Digital Payments Intelligence Platform in order to mitigate payment frauds. It states that regulators will harness advanced technologies through a special platform designed for this purpose, which may be operationalised by December 2026. This platform will provide network-level intelligence, and also enable real-time data sharing across payment systems in order to sustain the general public’s confidence in digital services.
+
+Also Read :
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

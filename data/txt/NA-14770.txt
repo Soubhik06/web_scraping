@@ -1,0 +1,63 @@
+The Internet Archive (IA), a digital archival and library project, began its appeal process on June 28, against a 2023 judgement. The Archive seeks to defend its controlled digital lending (CDL) practices after book publishers won a lawsuit last year, forcing IA to remove 500,000 books from its collection. It alleged this removal had a negative impact on its patrons, many of whom do not have access to libraries or bookshops. The lawsuit was filed by some of the United States’ most prominent book publishers, including Hachette, HarperCollins, Wiley, and Penguin Random House against the Archive’s Open Library program. The publishers alleged that the program, which bought and digitised books before lending them to readers worldwide, violated copyright law and harmed their interests. On the other hand, the Internet Archive defended its practices as fair use.
+
+Founded in 1996 by Brewster Kahle, the Internet Archive is intended to be a library of the internet, with the purpose of offering permanent access to internet artefacts in digital form. It began as an ambitious project to archive the entire internet, then an infant medium, and offer access to the database through the Wayback Machine, today containing 835 billion web pages. As the archive grew, the platform began to provide digital access to other published works like books, newspapers and movies.
+
+It also started the Open Library project, an equally ambitious project to have a separate webpage for every book published. It also operated as a regular library but in digital format. Users could “borrow” digital copies of books for a set lending period, through encrypted files that became unusable after the period had passed. Each physical copy owned by the Archive corresponded to a digital copy available to borrowers. This is known as “ Controlled Digital Lending .”
+
+During the worldwide lockdowns due to COVID-19, the Archive decided to suspend its CDL practices of digital lending waitlists and allowed many users to borrow the same book at the same time as needed. This “National Emergency Library” was created to fulfil the needs of students and scholars at a time when schools, universities and libraries were shut down globally. They also provided an option for authors and rights holders to opt out of the program. The archive argued that since tax-payer-funded public libraries and universities were shut, students and educators were left without access to reading materials. The Emergency Library was thus necessary to fulfil that need.
+
+The initiative was criticised by publishing houses who termed it a copyright violation, culminating in the Hachette vs Internet Archive case.
+
+In their complaint to the New York District Court, the publishers took a sharply critical view of the entire project. They termed the Open Library an “unlicensed aggregator and pirate site” and the Internet Archive’s business model to be “parasitic and illegal.”
+
+“Without any licence or any payment to authors or publishers, IA scans print books, uploads these illegally scanned books to its servers, and distributes verbatim digital copies of the books in whole via public-facing websites,” claimed the complaint.
+
+They also argued that the Emergency Library and the Internet Archive as a whole infringed upon the interests of publishers by directly competing with publishers and distributing their copyrighted works for free.
+
+American copyright law allows for the use of copyrighted material, as long as it qualifies as “fair use.” Whether something is fair use or not is determined by courts using four factors:
+
+Factor 1: The Purpose and Character of the Use
+
+This factor favours nonprofit educational purposes, especially for activities like criticism, teaching, and research and “transformative” uses, where the work is used to create something new.
+
+Factor 2: The Nature of the Copyrighted Work
+
+The law allows for a wider or narrower scope of fair use, depending on the characteristics of the work. Unpublished works and commercially available educational materials are less likely to fall under fair use while nonfiction works may. It generally tends to give greater protection to creative works like art and music.
+
+Factor 3: The Amount or Substantiality of the Portion Used
+
+Using less of the original work generally favours fair use, but even small portions may not qualify if they represent the “heart of the work.” The amount is evaluated relative to the entire original and the purpose of use.
+
+Factor 4: The Effect of the Use on the Potential Market for or Value of the Work
+
+This factor evaluates how the unlicensed use impacts the existing or future market for the original work. Courts consider whether the use harms current sales or could substantially harm the market if the use becomes widespread.
+
+In the memo for summary j udgment filed by the Internet Archive, the organisation defended its CDL practices, including the National Emergency Library as an example of fair use, stating “CDL satisfies the ‘ultimate test of fair use,’  which asks whether the copyright law’s goal of promoting the Progress of Science and useful Arts would be better served by allowing the use than by preventing it.”
+
+Finally, the Internet Archive argued that the above analysis also applied to the National Emergency Library, which was an attempt to provide a public service. Given the massive number of books sitting idle on library shelves, they reasoned, removing the limitations on the number of copies borrowed would not increase the number of copies in circulation above the number of copies libraries had bought and paid for. Therefore, publishers did not experience any significant losses. And even if they did, the Archive believes the measure was justified as they were able to provide access to books to the general public during an emergency.
+
+In March 2023, the court ruled against Internet Archive, finding its fair use defence lacking. The judgement held that there was nothing transformative about IA’s copying and lending of books, nor did it expand the utility of the works as it claimed. The Archive’s argument about improving the efficiency of digital lending was also rejected. IA had cited an earlier Supreme Court judgement in favour of Sony, which had been accused of infringing copyright by selling Betamax machines to viewers who could record broadcasted shows on TV to view at a later time.
+
+The Court had held that the Archive’s actions were not comparable to those of Sony or the viewers in the earlier case, as it scans a massive number of copies of books and makes them available to patrons rather than purchasing ebook licences from the Publishers. “Although IA has the right to lend print books it lawfully acquired, it does not have the right to scan those books and lend the digital copies en masse,” stated the court. Furthermore, it is irrelevant that IA is a non-commercial operation, as such uses do not automatically make something fair use.
+
+The court also declared that as the works in suit involved creative fiction, which is considered to be close to the “core of copyright protection,” tilted the second factor in favour of publishers. Moreover, the Archive copied entire works and competed directly with an existing ebook licensing market where libraries had to pay fees to publishers. Thus, all four factors ruled against a finding of fair use.
+
+The Internet Archive disagreed with the decision and stated its intention to appeal, but agreed to comply with the court’s injunction in the interim. The injunction required the removal of commercially available books notified by the Publisher Plaintiffs from lending. The court limited the injunction to electronically available books, not the publishers’ entire print catalogue. The Internet Archive also reached an agreement with the Association of American Publishers (AAP) to prevent further legal action if takedown procedures were followed for AAP-member publishers. According to the Archive’s statement, the injunction significantly reduced public access to knowledge, particularly for those without access to elite institutions or well-funded libraries.
+
+The Internet Archive was required to remove 500,000 books from their Open Library project, which they stated “had a profoundly negative impact” on their patrons, particularly researchers and those from rural areas.
+
+According to a report by Ars Technica , IA lawyers argued against the common criticism that the library was equivalent to digital pirates sharing files illegally. Instead, they argued that the CDL loaning books it owns to users one at a time was no different from a regular library adapted to the digital age. “It’s not unlawful for a library to lend a book it owns to one patron at a time,” lawyer Joseph C. Gratz said IA told the court. “And the advent of digital technology doesn’t change that result. That’s lawful. And that’s what librarians do.”
+
+In an April 2024 filing , the Internet Archive had actually argued that the main purpose of copyright law is to promote the public availability of literature, which would be served better by allowing the Open Library instead of prohibiting it.
+
+The court ruling against the Internet Archive and its subsequent appeal process could have far-reaching consequences. The removal of 500,000 books from the Open Library project has significantly reduced public access to digital literature, particularly affecting those without access to well-funded libraries or elite institutions.
+
+Hoping that the judges would support digital libraries, Internet Archive founder Brewster Kahle said in Septemeber last year, “The core values and library functions of preservation and access, equal opportunity, and universal education are being threatened by book bans, budget cuts, onerous licensing schemes, and now by this harmful lawsuit.”
+
+The case may also set a precedent for digital lending practices, potentially limiting the scope of controlled digital lending and influencing how digital libraries operate. The court’s rejection of IA’s fair use defence could also shape future interpretations of fair use in similar cases. Financially, digital libraries may face increased burdens if required to purchase more expensive ebook licences rather than partnering with the Open Library as they could previously.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

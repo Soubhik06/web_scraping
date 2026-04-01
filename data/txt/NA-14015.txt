@@ -1,0 +1,127 @@
+India’s attempt to create a self-governance framework for e-commerce companies makes me wonder whether a platform like Gumroad , which sells digital goods, could even operate out of India. The framework seems designed with one company in mind (more on that later in the post) and either ignores or is unaware of the diversity that defines e-commerce business models.
+
+The Bureau of Indian Standards (BIS) drafted the ‘E-commerce Principles and Guidelines for Self-Governance’ under the Food and Consumer Affairs Ministry and has invited comments on it until February 15 . (Update: there’s an updated draft here )
+
+However, the draft policy contains a few oddities.
+
+Aside of an apparent lack of removal of track changes and commentary from those with seemingly prior access, here are some substantive questions related to this policy.
+
+But first, lets look at the definition of e-commerce.
+
+“ 3.7 E-Commerce Entity â E-commerce entity refers to a company or organization that operates an electronic commerce platform, such as an online marketplace or web store, where buyers can purchase products or services from third-party sellers. Note – Entity may be a separate electronic commerce platform that is run by the E-commerce entity. “
+
+While India doesn’t allow multi-brand retail for foreign e-commerce companies, which are largely marketplaces, this policy doesn’t take into account that several Indian brands have their own stores, and there’s a burgeoning and large D2C ecosystem* that looks at multiple channels for sales, whether it is marketplaces like Amazon, Flipkart, Nykaa, among others, but with the objective of driving traffic to its own e-commerce page. Not all e-commerce sites enable third party sellers. If the policy focuses only on e-commerce marketplaces, it should be renamed rather than altering the definition of an e-commerce entity.
+
+The definition of an e-commerce entity includes both products and services, but the document focuses entirely on e-commerce products. Some aspects, for example information that the e-commerce entity “shall” disclose, just cannot apply to services:
+
+Then there’s also the fact that the policy requires e-commerce entities to provide details of warranty, guarantee, and after-sale support for goods . What about services?
+
+The consumer-to-consumer (C2C) model, pioneered globally by the likes of Craigslist and eBay, (and in India by the now defunct Baazee.com), allows consumers to sell to each other. The BIS paper takes a myopic view, focusing entirely on B2C platforms while ignoring the existence of C2C models. It also overlooks the fact that people offer services as side gigs on platforms like Upwork or Fiverr, where their income may not meet the GST threshold.
+
+For example, the requirement for information collection by the e-commerce entity includes a registered place of business, which may not exist for someone selling their used bicycle on OLX or Quikr, GST details.
+
+The policy states that”all information pertaining to the platform of the e-commerce entity which is reasonably necessary for the consumer to make an informed decision about the transaction, and shall include”, among other things, a customer care toll-free number.
+
+Why is the policy being prescriptive about the platform keeping a customer-care toll free number? Why shouldn’t it be the platforms choice about whether they even want to have a number, or can make do with an email address or an AI chatbot?
+
+The policy appears to mandate that, among the information that needs to be provided to the customer, there should be:
+
+“Product Comparison: The ability to compare products based on features, prices, and other criteria can help customers make informed purchasing decisions;”
+
+How does this work for a platform that just starts, with a single third party listing? In case of C2C platforms, where the platforms do not control the listings, how will they show comparisons, where products may vary drastically? This is a bit outlandish as a idea, but what if I run a platform that only has curated lists the best-of, selecting only the best product and the best supplier, and I only have one product and one seller for each type?
+
+Similarly, the policy also states that there needs to be:
+
+“d) Similar product suggestions (upsell and cross sell) with comparative study without degrading any of the brand or product.”
+
+Another thing. Aakash Anand, the founder of Bellavita, a D2C perfume brand, has recently started Unikon.ai , a platform that allows users to buy access to investors, founders etc. They’re selling their time. How do you compare listings here?
+
+Companies like Shopify and Instamojo fit the definition of an e-commerce entity. But it has taken a decision of not adopting a marketplace model since inception. Instead, they want to enable users to create a store. They do not provide discovery and only allow third parties to set up their own store.
+
+Will the policy now mandate them to provide a search functionality for ‘products by name, category, and Country of Origin’?
+
+(As an aside. I think Instamojo should have a marketplace storefront and provide search, but that’s an old point of disagreement between Instamojo’s founder Sampad Swain and me.)
+
+The policy requires the display of :
+
+“ c) Product Social proof, including review and ratings “.
+
+What about a new platform or a new business that has no review and ratings? What happens if a platform chooses not to feature reviews and ratings because they are being gamed or faked, and the platform lacks the resources to effectively control or monitor them due to its small size?
+
+Under Anti-counterfeiting measures, the policy states that:
+
+“e) Any e-commerce entity/ seller which explicitly or implicitly vouches for the authenticity of the goods or services sold by it, or guarantees that such goods or services are authentic, shall bear appropriate liability in any action related to the authenticity of such good or service;
+
+The word ‘implicit’ derives from ‘implied’ and means something involved, indicated, or suggested without being directly or explicitly stated; it is tacitly understood.
+
+So platforms will have liability if a consumer thinks they have vouched for the authenticity of the product? How will this hold up in court?
+
+The BIS guidelines encroach on the domains of the Competition Commission of India and the Digital Competition Bill under consideration by the Ministry of Corporate Affairs. It states:
+
+“ 4.5.7 Unfair Trade Practices and Fairness in Competition: A consumer should have a choice whether to choose bundled services and or singular services. An e-commerce platform should allow customers to buy individually. The pricing of the bundled services should not be such that customers are not able to choose the specific products or services they want.
+
+Example: An e-commerce entity charges INR 999 for its e-commerce services subscription but adds a host of other features (not e-commerce related) within the subscription package of e-commerce like video streaming, unlimited music streaming, quickest delivery options etc without the consent of the consumer. In case the consumer wants to avail merely e-commerce related services, it is not available because the fee is bundled with other services.
+
+Explanation: Bundled fees for services that are not related to e-commerce like video streaming, music streaming, surrogate subscriptions of partner brands etc must be strictly avoided because this enables bigger players to subsidise the costs of e-commerce operations and is prejudicial to the interests of smaller e-commerce platforms and consumer interest .”
+
+This is clearly targeting Amazon Prime, with Prime Video and Prime Music. A few questions to consider:
+
+Additionally, bundling is a competition issue, and relies on the idea that dominant platforms can bundle various services for consumers in order to create a competitive environment. However, Indian e-commerce no longer has a competition issue. Amazon and Flipkart are not a duopoly anymore and quick commerce platforms are challenging e-commerce majors in metro cities. In Mamaearth, FirstCry and Nykaa, we have three public listed vertical e-commerce companies. ONDC transactions are growing (even it isn’t quite a J curve). So, why is BIS getting into competition issues?
+
+The drafting here is confusing (I had to read this multiple times), but the point that ‘No seller shall impose cancellation charges on consumers who cancel after confirming a purchase unless the e-commerce entity also bears similar charges when canceling the purchase order unilaterally for any reason’ is a strange one.
+
+It suggests that if a seller imposes penalties on consumers for canceling a purchase after confirming it, the e-commerce entity must also face similar penalties for canceling unilaterally for any reason.
+
+This appears to protect sellers against unilateral action by platforms, but it’s tricky. Lets say a platform finds that a certain seller, which has priced a product very low, has been sending damaged goods to consumers. Following several complaints, the platform decides to cancel all orders for that seller and enforce. An audit of inventory and processes is required before the seller is reinstated and allowed to sell on the platform. Does the platform now have to compensate the seller for canceling the orders? How does this make sense?
+
+The guidelines mandate that:
+
+b) Every e-commerce platform must publish APIs for enabling direct links for
+
+(i) warehousing service providers,
+
+(ii) logistic service providers
+
+(iii) any payment service providers and any other third-party service providers on their platform. This will allow every third-party service provider to register on the e-commerce marketplace platform giving consumers as well as sellers the option to choose from a wide range of service providers.
+
+The policy gives the following example for this: 1) A consumer wishes to buy a laptop on an e-commerce platform and the consumer selects the model he wants. At the time of choosing payment methods, the consumer realizes that there are only two modes of payment available â credit/debit card and EMIs and with 1-2 banks only. The consumer wants to make a cash payment for the order but is unable to do so and has to go to another e-commerce platform to do so.
+
+Does this mean that HDFC Bank cannot launch its own e-commerce platform (it has one called SmartBuy), where it may choose to limit purchases only to HDFC Bank cards? Or that CRED allows shopping on its platform using CRED affiliated payment mechanisms? What if someone wants to stop cash payments, and only allow digital payments?
+
+Why is this policy so prescriptive?
+
+The policy states that :
+
+a) No seller(s) on the platform should be given any preferential treatment;
+
+Let’s say that a platform decides that on Republic Day, it is going to highlight on its homepage, Made In India brands: would it need to update its terms and conditions governing its relationship with sellers before rolling out such offers?
+
+Again, this is a competition issue.
+
+The policy states:
+
+4.5.11 Fair Representation: Default Digital representation of sellers should be impartial and on the basis of pre-decided parameters like review, prices etc. Clear explanation of main parameters for determining the ranking of goods or services on its platform. Inclusion of terms and conditions governing its relationship with the seller and description of any differentiated treatment which it gives or may give to any good, service or seller.
+
+Recommendation engines are self-learning. While there is a need for explainability in case of dominant platforms, especially where there are risks of discrimination, must this apply to all platforms, including some startups who typically use third party recommendation engines where they may not have access to or understanding of recommendation parameters?
+
+This is also a competition issue that BIS doesn’t need to get involved with.
+
+The previous draft (and rather daft) versions of e-commerce regulations have not been a self regulatory framework, but more like directives for e-commerce companies. These are supposed to be a set of principles that guide self-regulation in e-commerce, by e-commerce entities.
+
+Even then, it’s very loosely drafted and vague in terms of how it expects the e-commerce industry to “self-regulate”. There appear to be no enforcement mechanism because it is, well, “self regulation”. Courts can, perhaps, rely on a self regulatory code while adjudicating a complaint, saying that a platform might not be following practices determined by the Indian government. However, non-observance of this policy is unlikely to land anyone in trouble, which means that the only people who will comply with it are those who want to avoid actual regulation, and face the brunt of regulatory scrutiny — larger entities like Amazon, Flipkart and Nykaa. Global ecommerce platforms which Indians buy from, will not probably not conform. This smells of kicking the can down the road, which might not be a bad thing in itself.
+
+The problem, however, is that the policy, instead of being a set of principles, appears to be very prescriptive. It’s as if they copypasted a regulatory directive into a self-regulatory policy, and removed the penalty clauses.
+
+how do these guidelines impact how safe harbor applies to e-commerce platforms?
+
+E-commerce platforms in India perform an intermediary function: they connect two users together: Just as India’s IT Act doesn’t distinguish between content creators or consumers, it also doesn’t distinguish between e-commerce users as buyers and sellers. This policy, just as the (illegal, in my opinion) IT Rules 2021, go beyond the scope of what the IT Act does, and creates entity (and not function) specific regulations:
+
+A recommended reading is the following report on a ruling by the Delhi High Court. It’s important to note that this was overturned by the division bench of the Delhi High Court.
+
+Disclosure: I have invested in a D2C company and a vertical e-commerce marketplace.
+
+Read more:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

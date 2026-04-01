@@ -1,0 +1,191 @@
+By Kaliya Young
+
+As the world’s largest democracies, with 1.3 billion and 326 million people respectively, India and the United States both need to support the abstract representation of individuals and entities and support their transactions with each other confidently in the digital world.
+
+In a 2013 lecture, Nandan Nilekani, founding chairman of Unique Identification Authority of India (UIDAI) stated, “the same thing happened in the 1930s in the United States when Roosevelt passed the Social Security Act as part of the New Deal.” (Source: Nilekani, Nandan ‘Technology to Leapfrog Development: The Aadhaar Experience’ Center for Global Development, The Eighth Annual Richard H. Sabot Lecture.) Because the United States is often admired as a large functioning democracy, the fact that it uses a national ID number means that there is an assumption that the U.S. system must be a good model.
+
+The United States began issuing Social Security numbers (SSN) to a small segment of citizens in 1935 . The system has evolved over the past 85 years and now numbers are issued to children at birth. Today, Social Security numbers are used by employers to verify employment eligibility and by the government to track the collection of taxes, social benefit contributions by people, and to support them receiving benefits. Most residents also have a state level driver’s license or ID card that an SSN is required in the application process. This type of ID has a photo biometric and is held by 87 percent of adults .
+
+Over the past 10 years, India has rolled out an identity system based on the collection of biometrics and simple demographic information from all of its residents. The system is called Aadhaar, meaning foundation in Hindi. To date, Aadhaar claims to have enrolled 1.3 billion residents.
+
+Both Aadhaar numbers and SSN are unique numbers issued to residents by their federal government. A card with the number on it is mailed to the resident. To this extent, the numbers are comparable. There are differences in the registration and enrollment processes, but this is not really where the major differences lie.
+
+The important differences center on how numbers serve as part of an overall identity system in both the public and private sector. This paper walks through the specifics of these differences comparing the U.S. and Indian systems throughout.
+
+The first section provides context for each ID and considers the historical and contemporary risks of identity systems.
+
+The second section considers the role of the number itself, and, further, explains how the creators of Aadhaar position the number within a sprawling system that continues to add new features, particularly in contrast with the limited role of the SSN within the U.S. context.
+
+The third section looks at the very different legal and regulatory frameworks that inform the operation of the agencies responsible for both Aadhaar and Social Security, along with contrasts in the visibility of operations through the court systems where challenges occur.
+
+The fourth section outlines how the national-level UIDAI worked with state-level governments and consultants in India to create vast databases of information about residents at the local level. These state-level databases are called State Resident Data Hubs. In the United States, there are no large scale databases of this type. This section walks through the range of regulations that have been put in place since the 1960s to guard against the creation of such databases in the United States.
+
+Finally, the paper concludes with a discussion in sections five and six about how the use of the SSN has become limited to employee enrollment and financial services in contrast to the ever-expanding use of Aadhaar in the private sector and employment context.
+
+Identity systems, one of the original public interest technologies, (Public Interest Technology is a field dedicated to leveraging technology to support public interest organizations and the people they serve. For decades, public interest organizations have worked to improve the lives of the general public. They work on issues that shape our everyday lives, including protecting the environment, human rights, child welfare, and reforming criminal justice. Source New America about Public Interest Technology) arose with the creation of contemporary nation-states (Source: Mawaki, Chango, “Becoming Artifacts: Medieval Seals, Passports and the Future of Digital Identity” (2012). The School of Information Studies- Dissertations. Paper 74.) The first identity documents were simply receipts that proved that an individual had been surveyed in a census or that they were registered by a local authority in return for a government service in response to a live event (e.g., birth, marriage, and/or death). As a result, these documents or statuses shaped a citizen’s perception of identity as a member of a common public or state .
+
+Identity technologies have tremendous power. They can enable the constructive engagement of citizens with their government, but can be used by the state in ways that cause great harm.
+
+Democracies benefit from diverse input into the design of identity systems and a broad consensus about their operation, transparency, and accountability to the citizens whose information is managed by these systems.
+
+Existing mental models of how identity and identification systems work are based on government registries for births, deaths, and marriages where events are recorded on paper in a ledger book and certificates issued. Identifier oriented systems like the SSN originated at a time when paper-based punch cards were the latest technology. There were limits to how far and wide a number could circulate when paper technologies like punch cards, index cards, and the physical mail system were the only means of circulation.
+
+Even when identity technology is limited to paper, its abuse could lead to horrific results. IBM’s punch card technology was instrumental in facilitating the Nazi genocide of Jews in Europe via the census records in various countries . Several Indian subjects interviewed for this research paper pointed out that there have been a number of significant events of communal and caste violence in India:
+
+Some of these incidents were facilitated by datasets from Voter IDs and Ration Cards, and some had implicit state involvement (Source: Kaur, Jaskaran; Crossette, Barbara (2006). Twenty years of impunity: the November 1984 pogroms of Sikhs in India (2nd ed.). Portland, OR: Ensaaf. p. 29. and Rao, Amiya; Ghose, Aurobindo; Pancholi, N. D. (1985). Truth about Delhi violence: report to the nation . India: Citizens for Democracy. Retrieved 4 August 2010.). Beyond these large incidents involving thousands of deaths at one time, there are also tens of thousands of reports of more isolated incidents of violence every year against Dalits .
+
+In the third millennium, computers became ubiquitous and we, i.e., society writ-large, must consider how identification-based systems translate into a new digital medium. There are new opportunities and risks created by the design and implementation of identity technologies and the systems they are connected to.
+
+Techno-Utopianism, (A Techno-Utopian strongly believes that technology allows mankind to make social, economic, political, and cultural advancements and that technology’s impacts as extremely positive.) the predominant stance of UIDAI, iSPRIT and India Stack proponents , does not address some of the real security risks. In India, security researchers and reporters who have brought to light the flaws, vulnerabilities, and leaks of the Aadhaar number system have been prosecuted by the UIDAI as criminals. This has led to groups of concerned critics collaborating and publishing under pseudonyms to ensure the public knows about the issues and vulnerabilities while limiting their own risk (Interviews with subjects in India who participate in groups to do research and publish their work either under the name of someone who has enough power to reduce the risk they will have a FIR (first information report) filed against them or under a group name.).
+
+Both the U.S. Social Security Number and Aadhaar Number are core to how the respective systems work but the way the number is seen and how the designers of the programs orient around it is quite different.
+
+In India, there has been a proliferation of digital services linked to and surrounding the Aadhaar number. Some examples include:
+
+However, security researchers I spoke with highlighted major flaws in the design of many of these services. 535 There has also been a stream of reporting about specific security vulnerabilities that have been uncovered, like API’s to the core demographic database that was reported to be completely open. 536
+
+The creators of Aadhaar and the India Stack led by iSPIRT, 537 a trade association of software makers focused on the Indian market, see the Aadhaar number as the center of a bottleneck in an ecosystem. The Aadhar system is built under the assumption that national identity numbers are the equivalent of IP addresses in a digital network. 538 This assumption creates significant correlation risks and the potential to amass vast datasets that can be used for commercial and government surveillance.
+
+In the United States, public concern about the possible use of the SSN for government surveillance has limited the use of the number and led to regulations about its use in both the public and private sector.
+
+On the other hand, in the India stack model, not only does the Indian government provide an identity card to citizens, acknowledging them and giving them a “proof” to share, but it also provides authentication services. 539 Indians can use their UID to log in to services and then either use a biometric or get a one-time password (OTP) sent to their phone which they then enter to complete remote authentication. This means that the UIDAI has a record of all of the places where a person authenticates their identity, and this information is kept in Aadhaar’s logs for six months.
+
+It is very difficult to imagine a proposal by private sector companies or government leaders in the United States that would require individuals to “log in” with their SSN. 540 U.S. government agencies, both as a matter of policy and law, are reducing or ending their reliance on the SSN as the canonical identifier of people. There is no way an SSN can be used for authentication against a factor of authentication (password, OTP, biometric) held by the Social Security Administration.
+
+There is ongoing work in the United States to develop ways for individuals to prove they are a particular person by leveraging government-issued identity documents in digital form. 541 An important feature of some of these systems is that they do not rely on a connection to a central government database to prove their veracity. 542
+
+UIDAI and its leadership have a culture of operating just beyond or just within a legal and regulatory framework. Two books about the story of the creation of Aadhaar have been written by journalists. 543 Both document how the project did not have a legal or regulatory basis for six years between 2009 and 2016 and operated with a startup culture. They describe how the UIDAI leaders pushed to build out Aadhaar despite this legal limbo.
+
+When it was finally made legal with the Aadhaar Act of 2016, the UIDAI was also left as its own regulator with enormous freedom to expand aspects of the system and build new “features” without any need to consult the public. UIDAI did not do privacy impact or security assessments that would bring transparency to how the system would work or change in the future and what the implications would be. In my interviews with UIDAI leaders, they described the next new features that were going to be appearing within the India Stack framework while at the same time saying that the UIDAI had no responsibility for how people were asked for their identity information or how that information was used by those requesting it.
+
+Unlike UIDAI, when the U.S. government changes any technology at the core of its operations, it moves with a deliberate and careful approach bound by the legal and regulatory framework of the government, particularly when working with the sensitive personal information of its residents. For decades, there have been extensive on-the-record hearings by various legislative committees and presidential commissions addressing government systems for registering citizens and collecting and using data about them. Hearings of this type are, by default, not public in the Indian parliamentary system.
+
+Another contrast between the two systems is a key mechanism for public accountability. Challenges to U.S. government procedures happen in the courts, where proceedings produce court transcripts. The 38 days of hearings about Aadhaar before the Indian Supreme Court produced no transcripts: the best we have are some summaries 544 and aggregations of live tweeting 545 done by observers in the courtroom.
+
+In contrast to the U.S. Social Security Administration, the UIDAI is its own regulator. This is in part because, in India, most legislation is written in a way that delegates significant regulatory power to the government while the law concentrates on legal and policy issues. In the case of the Aadhaar Act, substantial regulatory power was given not to the government but to UIDAI itself, 546 meaning it is not actually accountable to any other organization. And the UIDAI is exempted from Right to Information [RTI] requests and it sets the grievance mechanisms for itself. 547 The UIDAI is responsible for regulating the ecosystem around it. Many have questioned the revolving door that is seemingly connecting the UIDAI and private industry and question whether this limits the ability of UIDAI to regulate its own ecosystem. 548
+
+Governments register people into systems through enrollment. In the United States, enrollment systems are run entirely by government officials who are accountable to government agencies within which corruption is very rare. There is coordination between the local county and state levels that have the authority to register births and the federal Social Security Administration through a system called enumeration at birth (EAB). 549
+
+Enrolling people in more than one program or system at once is multi-context enrollment. In the United States, legislation at the federal level, colloquially known as the Motor Voter Act and officially as National Voter Registration Act 550 of 1993 mandates that states provide the opportunity for people who are signing up or renewing a driver’s license to also have the opportunity to register to vote in elections. Individuals getting a driver’s license must proactively choose to be enrolled in this second and very different system. A special process pushes data from the driver’s license registration process over to the government agency that manages the state-level voter list.
+
+In India, multi-context enrollment takes place with state-level registrars. States are incentivized to enroll their people because they get to collect more information than the basic four fields (name, birthdate, gender, and address) required by the UIDAI “Know Your Resident” rules. Different states have added additional fields, such as marital status, house status 551 , occupation, and VoterID number. 552 This data was intended to be reserved for the state and is known as “Know Your Resident Plus” [KYR+] data.
+
+Indian residents, when they go through the process of getting their Aadhaar number for the first time, are enrolled in the UIDAI Central Identity Repository and the State Resident Data Hub. 553
+
+Figure 3: Flow of Data from Enrollment into the CIDR and SRDH by Anand Venkatanarayanan https://medium.com/karana/the-360-degree-database-17a0f91e6a33
+
+UIDAI created the software and required that states use this software if they wanted to get UID information and additional KYR information. 554
+
+Several years into enrollment, problems surfaced. Some residents were bypassing State enrollment agents by enrolling through banks and other registrars, and states did not have access to that data. 555 In response, the UIDAI made a deal with states to share the UID and demographic data from residents of their states that enrolled with other registrars. 556
+
+It is claimed that this activity stopped with the passage of the Aadhaar Act in 2016 and that all the State Resident Data Hubs were destroyed. 557 However, there is evidence that these Hubs are still operating. 558 Even if the data is no longer sent directly from the UIDAI to SRDH, each of the states has agreements to access the KYC API of the UIDAI CIDR, so when they interact with residents they can pull the data from the UIDAI into their state-level databases (see Figure 5).
+
+Figure 5: SRDH – State Adoption Strategy Document & State Resident Data Hub (SRDH) Application Framework Adoption Guidelines by UIDAI
+
+The State Resident Data Hubs use the UID as the anchor to integrate all data from different state databases together. This happens in two ways. One is a linking process where residents who are recipients of a particular subsidy, benefit, or service go to the agency and assert their ID from a given system and provide their Aadhaar number. They may be asked to authenticate via a thumb print. This process is known as linking, or organic seeding. 559
+
+Another process, known as inorganic seeding, combines data from SRDH and UIDs together with existing databases from various subsidies, benefits, or services. This process occurs without the awareness or consent of residents. Authorities might check with residents/beneficiaries to see if they made the correct link or to find beneficiaries who “did not match” any particular Aadhaar number and ask them what their number was. This human resolution requires more effort to complete.
+
+The assumption is that only those with matching UID Aadhaar numbers are “real” beneficiaries. Everyone else is a ghost or fake and can be eliminated. Indian naming conventions are very fluid, 560 and the same people use different names in different contexts. 561 This strategy to address who is on different social services programs is causing disruption to clients who have their benefits cut off because their legitimate claims are not recognized by the system. 562
+
+The State Resident Data Hubs have applied a computer science data modeling idea of “single source of truth” 563 and sought to impose it on Indian society and bureaucracy, deciding that whatever is recorded 564 in the UIDAI database is the single source of truth about an individual.
+
+Rather than creating mass databases and integrating all data about citizens across all contexts, the U.S. government is actively taking steps to stop or reduce the use of the SSN, even in unlinked discrete databases. 565 Currently, the use of the number at the federal level is mandated for only a few agencies and services, such as the Internal Revenue Service (tax authority), Social Security Administration, passport applications, and for loans by any federal agency. Other agencies that request the number must inform residents that sharing it is voluntary, and they will not be denied services if they do not share the number.
+
+This was not always the case. Beginning with an executive order by President Eisenhower in 1953, there was a phase where using the SSN as a key to interact with various services was encouraged and even mandated. 566
+
+In 1961 the Internal Revenue Service required the use of SNNs when filing taxes. Increased digitization of records in the 1960s drove the need for common reference systems across government agencies and within the private sector, and they chose the SSN as a way to do this.
+
+In 1965, there was a proposal to create a National Data Center that would pool statistical information held by the Census Bureau, the Internal Revenue Service, the Bureau of Labor Statistics, the Social Security Administration, the Federal Reserve Board as well as a dozen other federal agencies. 567 The public reaction to merging all of these bureaucratic records caught proponents off guard because they thought that the composite data were necessary for a well-ordered society, and the benefits were self-evident. 568 But the reaction by the public was hostile and sustained when the proposal was floated in 1967, and again in 1970 when it was finally rejected. There was widespread press coverage that looked at the implications for the present and future by creating such databases (see Figure 8).
+
+Figure 8: (c) 1967 The Atlantic Media Co., as first published on the cover of The Atlantic Magazine.
+
+All rights reserved. Distributed by Tribune Content Agency, LLC
+
+Today, India has the type of database the American public rejected in the 1960s and 1970s. The process was started by the UIDAI and their approved consultants (among them Accenture, Ernst and Young, KPMG, PwC, Wipro, and Deloitte) with the software they developed and supported. 570 This is particularly true in Andhra Pradesh and Telangana, which have recently become separate states. They did intense surveys of their residents, linking all the data collected to a citizen’s Aadhaar number. 571 Andhra Pradesh used The People Hub (see Figure 9) to combine 29 different department databases. 572
+
+Figure 9: Screenshot of Andhra Pradesh online state survey http://prajasadhikarasurvey.ap.gov.in/PSS2017/index.html [this link is not live]. It is from this
+
+How did the United States move from public outcry against a National Data Center to developing actual laws and regulation that helped citizens accept the same data being collected by discrete agencies to guard against information sharing between agencies? While India adopted the use of Aadhaar across several agencies to deliver services, the U.S. was slower to move in that direction with the SSN, but did get there eventually.
+
+In this time period the late 1960s and early 1970s there were multiple hearings, task forces, and committees convened by various agencies of the federal government and committees in United States Congress. These included The Social Security Number Task Force in 1970. 573 In 1973, the Secretary of Health Education and Welfare Advisory Committee on Automated Personal Data Systems issued a report entitled, “Records, Computers and the Rights of Citizens.” 574 The committee developed a code of fair information practices, inspired by the code of fair labor practices.
+
+Below is the Committee’s original formulation of the Code:
+
+These were the starting points of what evolved to be the Fair Information Practices and Principles, 575 and later evolved into the Privacy Act of 1974, 576 that prohibits data sharing between government agencies. It states:
+
+No governmental agency can “deny to any individual any right, benefit, or privilege provided by law because of such individual’s refusal to disclose his social security account number” except refusal to disclose after a request pursuant to requirements of federal statutes or pursuant to pre-existing federal or state statutes or regulations through which a system of records had already (before January 1, 1975) been set up. (5 U.S.C. § 552a) (note, Section 7 Disclosure of Social Security Number)
+
+Over the next several years, the U.S. government began to move in a direction that would result in expanded use of the SSN. In 1976, the Tax Reform Act expanded the use of the SNN outside of Federal Agencies, by authorizing the direct use of the SSN in state and local government programs. 577 In 1977, Personal Privacy in an Information Society by the Privacy Protection Study Commission 578 was delivered to President Carter. It covered the relationships among government agencies across a broad range of services and had a special chapter on the SSN. 579 The Debt Collections Act of 1982 required that the SSN be collected as part of the applications for all federal loans (student, agriculture, small business—each administered by different departments) 580 as a standard practice.
+
+It is important to keep in mind that mandating the use of the SSN for privacy protection meant that each of these departments could not share data about residents with each other without consent. Many government departments that encompass workforces and programs like the military or Medicare (healthcare for the elderly), that relied heavily on the SSN as “the identifier,”made significant changes to their system and stopped using it altogether. 581
+
+The Driver’s License Protection Act of 1994 places strict limits on who can access the Department of Motor Vehicles’ data, and under what circumstances. 582 The e-Government Act of 2002 583 requires agencies that collect data about citizens to complete a Privacy Impact Assessment (PIA) for electronic information systems and to make the results public. The PIA must be conducted before developing or procuring an ID system that will collect, maintain, or disseminate information in an identifiable form or about members of the public. They must also conduct this assessment when merging databases, or when business processes change significantly by adding new uses or disclosures of information. Here is what the PIAs must analyze and describe: 584
+
+Conducting a PIA
+
+PIAs must analyze and describe:
+
+Major information systems. PIAs conducted for these systems should reflect more extensive analyses of:
+
+Throughout the last two decades, there have been more reports by the federal government about the SSN. 585
+
+Today, in the United States the use of the SSN is strictly regulated and culturally limited, while, in India, there is currently no privacy protection bill of any kind that applies to the government or the private sector. 586
+
+In the United States, several federal government statutes mandate the use of the SSN for particular financial service transactions, such as opening a bank account, 587 cashing a check over $3,000 USD, being the beneficial owner of businesses, or applying for a home loan. Because the SSN card is literally just a paper card with a name and number on it, agencies also conduct Know Your Customer (KYC) checks with identity documents that have photographs, such as driver’s licenses, passports, military IDs, and permanent resident cards. Laws require the collection of this type of data, but they also mandate the protection of this information. 588
+
+India, like the United States, has a KYC requirement driven by international requirements mandated by the Financial Action Task Force (FATF) 589 that put these requirements in place after the September 11, 2001 terrorist attacks. The original design of the UIDAI database would permit residents to do authentication of their name and address. This process would start with a resident sharing personal information with a bank. The bank would then send it to the UIDAI which would send back an affirmative or negative answer to whether it matched. While this design is commonly used to preserve individual privacy, it also limits the amount of information that leaves the database.
+
+Indian addresses are much more complex than U.S. addresses: each building has a name or number, within a block, within a district, and then a city. 590 In addition to this complexity, India has 22 official languages. Its administration uses English, which most residents do not read or speak. Language barriers make it difficult to get an accurate answer from the UIDAI database. Lastly, regulated banks require a copy of an identity document, and many people do not have an appropriate one.
+
+In 2014, the UIDAI made a significant design change and created a process known as eKYC, 591 where banks and telecommunications companies could ask people for their Aadhaar number on enrollment, do a biometric authentication with a fingerprint on a device, and the UIDAI would send the business a digital document with their name, birth date, Aadhaar number, and physical address. They could then use this address to populate their database and keep the digital copy on file.
+
+In the United States, there are very few services offered by any government that allows private companies to connect with a government database and extract private citizen data. 592 The Social Security Administration has set up a system known as Consent Based SSN Verification (CBSV). Various private companies have been granted a special license for $5,000 USD to connect to the government agency to do this type of check (CBSV).
+
+Businesses use one of these agencies to check against the database with the consent of the person whose information is being checked. They share the name, SSN, and date of birth. These are sent to the government, checked against the SSN Master File, and a Yes/No indicator is sent back to the business.
+
+Since it is uncommon in everyday life to have one’s SSN information checked by businesses, banks doing large numbers of transactions with people require a different license to participate in this system.
+
+In contrast, in India residents are regularly asked to show their Aadhaar “card” and this document is regularly photocopied. As a result of this process, a new convention has arisen where individuals take a photocopy of their card and write the purpose for which it was made across the image. This, users hope, is a way to prevent the photo copy from being used by someone else to open an account or to obtain a service in their name. 593
+
+When people seek employment in the United States, they are required to share their SSN with their employer. Employers are required by law to verify that the people they are hiring have valid SSNs. The CBSV is used for employee SSN verifications.
+
+Individuals can also self-check via the e-Verify system set up by the Department of Homeland Security on an online portal. Individuals can enter their SSN with their current citizenship status and receive a report about their current eligibility to work.
+
+Employers can enroll to use the e-Verify system too. They log into the system every time they want to check a potential employee’s status by using information listed in the I-9 form (legal name, SSN, date of birth, and current citizenship status). The employer will then receive a report about the applicant’s current eligibility to work.
+
+Employers who want to check if an SSN is valid for the purposes of tax withholding can register with the Social Security Number Verification System (SSNVS) to do so. Employers enter the names and SSN of employees that they want to check. The system reports back if they match a person in the system. Employers do this is to ensure that the taxes they are withholding from their employees actually lines up with records at the Social Security Administration.
+
+At the end of every quarter, employers send the government income taxes that they withhold from their employees along with the name and SSN. The government uses the SSN as an index to tax records and social benefit schemes into which they pay social security and Medicare.
+
+While these systems can potentially be used to extract information for other purposes, this is explicitly prohibited. 594
+
+In India, the Employees Provident Fund Organization requires Aadhaar (EPFO) 595 to open an account, and participation in PF is mandatory, so employees do not have a choice as to whether or not they want to share their Aadhaar number with their employer who will then pass it along to the EPFO.
+
+In India, several employers, particularly the government, connect to the Aadhaar Enabled Biometric Attendance System. 596 This means that every day, when an employee arrives to work, they are required to enter their Aadhaar number but it is authenticated with a fingerprint. The biometric template is sent to the CIDR and the authentication event is logged. This means the government not only has a record of what an employee earned and tax deductions they submitted quarterly, it also knows when the employee was at work in any given day.
+
+Figure 11: Authentication Process of Matrix that Integrates with the AEBAS server. https://www.matrixaccesscontrol.com/aadhaar-enabled-biometric-attendance-solution.html.
+
+The framing of how a national identity number can and must be used, along with the regulation of its use, often determines how companies, other governments, and citizens all use national identity numbers. It is vital that a global dialogue continues about the specifics of how the identity systems work in the two largest democracies.
+
+While in India I learned there were a lot of assumptions made about how the U.S. system works that are actually incorrect. I hope that this paper provides a starting point to understand the key differences between the U.S. and Indian systems and made clear to readers from both countries about how the systems work.
+
+In the United States, there is significant regulation around the use of SSNs, and extensive privacy protection rules about any personally identifiable information. 597 There is public dialogue, which has been ongoing since the creation of the SSN, about how much information is appropriate for the U.S. government to have on residents in order to provide them with services.
+
+The Aadhar system is more exclusively digital because it was created in the last 10 years. There are no privacy or data protection laws in place in India. The creators of the Aadhaar system chose to expand the features of the system without public input and feedback, and because they are their own regulator.
+
+In my research, I have not found any comprehensive government-led privacy impact assessments or evaluations about the use of Aadhaar in any context. Aadhaar proponents see it as having the potential to “solve” a vast range of problems. Yet, there tends to be insufficient consideration of the ways in which the proposed solutions that use Aadhaar might create risks for those individuals and institutions it intends to serve
+
+Identity systems are powerful tools that have the potential for good, but also for great harm. Those highlighting legitimate concerns in democracies should not be fearful that their criticism will be criminalized. Public engagement and robust public dialogue about identity systems in all countries should continue and be supported.
+
+*
+
+Kaliya Young also known as “Identity Woman” is the author of A Comprehensive Guide to Self-Sovereign Identity and the Domains of Identity. She holds a Master of Science in Identity Management and Security from the University of Texas at Austin. She currently serves on the faculty of Merritt College in Oakland California.
+
+Acknowledgments: The author would like to thank all the people she spoke with in India about Aadhaar. This paper would not have been possible without the support of New America and the guidance provided by Awista Ayub and Melissa Salyk-Virk. The author would also like to thank the 2019 India-U.S. Fellows.
+
+This article has been cross-posted with permission from New America under CC BY-4.0 licence. The original article can be found here .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

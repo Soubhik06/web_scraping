@@ -1,0 +1,21 @@
+We missed this earlier: An Andhra Pradesh House Committee on September 20 submitted a report ( final , interim ) before the state legislative assembly concluding that a large volume of data was transmitted from eighteen government servers to several external servers between December 2018 and March 2019 under the previous government’s regime. “The Committee has come to the conclusion that it appears that there was unauthorized and improper transmission of large amounts of sensitive data from State Data Centre,” the report stated.
+
+To whom was the data transferred: It is not certain to whom the external servers belonged. The IP addresses of the external servers were owned by Google but the company was not able to identify the users of these IP addresses, the report stated. The Committee Chairman MLA Bhumana Karunkar Reddy, however, claimed that the data was sent to an app called Seva Mitra used by the Telugu Desam Party (TDP), the former ruling party.
+
+Why does this matter: While presenting the report in the assembly, Reddy alleged that TDP used the data in question to rig elections. “The data has been directly sent to the TDP leaders who have used it to gain unlawfully during the elections held in 2019. The TDP leaders have misused the data. There was a large-scale deletion of voters’ names before the election,” Reddy claimed , suggesting that the data was used to delete names from voter lists of those who might have voted for the current ruling YSRCP party.
+
+What data was allegedly transferred to external servers: The State Data Centre (SDC) is the host to the state government’s servers and network devices and stores details of citizens for various purposes and under various schemes. As part of PSS (Praja Sadhikara Survey), the government collected various details of citizens including Aadhaar number, voter ID, ration card, electricity bill, driving licence, vehicle registration details, bank account details, water bill, caste certificate, birth certificate, income details, etc. But it is not clear what exact data was transferred from the state servers to the external servers. The interim report provides details on which IP addresses communicated with external devices and how much data was transferred but does not specify what data was transferred.
+
+Logs provided by APCSOC and studies by Intelligence Department: The Andhra Pradesh Computer Security Operations Centre (APCSOC), which monitors the servers and network devices in the State Data Centre, provided the relevant logs to the Committee for a detailed analysis and the Police (Intelligence) Department reviewed the logs as part of their investigation and submitted a preliminary report of their findings, which revealed that data was transferred externally, the report stated.
+
+Pegasus probe committee: The House Committee on “Unlawful Interception of Communications, Data Theft and Illegal Transmission, causing infringement of citizens rights during 2016-2019” was constituted by the Andhra Pradesh Legislature in March to primarily probe the use of Pegasus spyware on citizens by the previous Chandrababu Naidu government. The report submitted in September, however, did not mention Pegasus.
+
+What did TDP say: The opposition party denied the allegations and demanded a copy of the complete report. Party members also criticised the fact that the Committee only had leaders from the ruling YSRCP party and that it found nothing related to Pegasus.
+
+What next: The Committee Chairman told the assembly that a deeper investigation is required before a final report can be presented.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

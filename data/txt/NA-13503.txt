@@ -1,0 +1,77 @@
+Meta Platforms created and used an internal âplaybookâ to manage regulatory pressure over scam advertisements on Facebook and Instagram, while protecting advertising revenue worth billions of dollars, according to internal documents reviewed by Reuters .
+
+Pertinently, Meta did take action to remove scam ads, but it also deliberately altered how regulators, journalists, and investigators could find those ads. This made enforcement appear more effective than it actually was.
+
+At the centre of the strategy was Metaâs effort to avoid mandatory, universal advertiser verification, a step regulators believe would significantly reduce fraud. However, Meta calculated that this could cost the company up to $2 billion to implement, and lead to revenue losses.
+
+The strategy became clear in Japan, where regulators raised concerns in 2024 about a surge in scam ads promoting fake investment schemes and AI-generated celebrity endorsements.
+
+Meta feared Japanese authorities would force the company to verify the identity of all advertisers, which would have reduced fraud but also limited ad revenue. Consequently, Meta launched a short-term enforcement push while simultaneously making scam ads harder for regulators to find.
+
+Internal documents show Meta focused on how regulators were using the Ad Library, a searchable database of ads meant to promote transparency. In this case, Japanese officials were using keyword searches to assess the scale of fraud.
+
+Meta staff identified the most commonly searched keywords and celebrity names, and repeatedly ran the same searches. Ads flagged as scams were then removed so that future searches appeared cleaner.
+
+Internal documents described the effort as an attempt to reduce the âprevalence perceptionâ of scam ads and to make problematic content ânot findableâ for âregulators, investigators and journalistsâ.
+
+Within weeks, Meta reported internally that searches returned almost no scam ads. A Japanese lawmaker publicly praised the improvement, and Japan did not introduce the stricter verification rules Meta had feared.
+
+Sandeep Abraham, a former Meta fraud investigator, criticised his former employer’s approach and termed it ‘regulatory theatre’. âInstead of telling me an accurate story about ads on Metaâs platforms, it now just tells me a story about Meta trying to give itself a good grade for regulators,â Abraham said.
+
+Meta denied that the practice was misleading. Company spokesperson Andy Stone said removing scam ads from the Ad Library also removes them from Metaâs systems overall. âTo suggest otherwise is disingenuous,â Stone said. He added that advertiser verification âis not a silver bulletâ and that scam reports have reduced by 50% in the past year through multiple measures.
+
+Documents show that Meta later added the Japan approach to a âgeneral global playbookâ used across markets including the United States, Europe, India, Australia, Brazil and Thailand.
+
+This playbook advises Meta to:
+
+Meta staff described universal verification as a âblack swanâ risk, meaning an improbable but catastrophic event. Interestingly, another internal document stated that: âWe have built a vast keyword list by country that is meant to mimic what regulators may search for.âAnd even though Meta internally acknowledged that it could implement universal verification in under six weeks, it chose not to do so because of associated revenue loss.
+
+Elsewhere, Meta employees celebrated the relative lack of scorn heaped on the company in a London conference focused on addressing online fraud in March 2025.
+
+Interestingly, Reuters previously reported that ads Meta internally categorises as âhigh riskâ generate up to $7 billion annually. And Meta earned $164.5 billion in revenue last year, nearly all from advertising.
+
+Internal documents show that unverified advertisers cause most of the harm:
+
+And the tech giant estimates that blocking unverified advertisers could reduce total revenue by up to 4.8%.
+
+Instead of adopting full verification, Meta adopted what documents call a âreactive onlyâ stance, acting only when laws force it to. So far, only a few countries such as Taiwan and Singapore have mandated advertiser verification.
+
+Metaâs own tests showed that verification cut scam ads by up to 29% in those countries. However, the documents also reveal a âwhack-a-moleâ effect: scammers re-routed blocked ads to other countries where rules were weaker.
+
+Notably, one internal analysis noted that the company redistributed or re-routed revenue to the remaining target countries, adding that consumer injury gets displaced too.
+
+Taiwan offers a rare example of regulators successfully compelling Meta to act. After a spike in investment scams, Taiwan passed a law requiring platforms to verify advertisers. Meta initially sought delays but ultimately complied after facing fines of $180,000 per unverified scam ad.
+
+Taiwanese authorities reported:
+
+Interestingly, Taiwan has fined Meta to the tune of about $590,000 for four violations during the year 2025. Before verification, Meta estimated that 18% of its advertisements in Taiwan, which amounts to about $342 million, violated its own rules.
+
+Regulatory pressure is growing.
+
+Interestingly, Meta has said that it ‘strongly disagrees’ with allegations in the US Virgin Islands case.
+
+Meta introduced the Ad Library in 2018 to build trust after the political ads controversy linked to the 2016 US Presidential elections, but the Reuters investigation shows that the company now uses the same tool to manage regulatory perception rather than to fully reflect the scale of fraud on the platform.
+
+And while Meta says scam reduction remains a priority, its internal assessments show that the company has avoided stronger measures because of cost and revenue concerns.
+
+As regulators worldwide weigh tougher rules, the documents suggest the companyâs strategy has so far been less about eliminating scams globally, and more about controlling when, and where, action becomes unavoidable.
+
+India is already seeing the effects of weak controls over digital advertising. Data from the Advertising Standards Council of India (ASCI) shows that 97% of all ad violations investigated between April and September 2025 originated from digital platforms, with Metaâs platforms accounting for nearly 79% of those violations. Most flagged ads promoted illegal betting and unsafe personal care items. And interestingly, 91% of the problematic ads flagged to the concerned government authorities were sponsored.
+
+When one looks at the above data in conjunction with the recent Reuters investigation, the fact that scammers often re-route ads blocked in one country to others becomes a potential problem. For context, internal Meta documents reviewed by Reuters note that when enforcement tightened in a single country, ârevenue was redistributed/re-routed to the remaining target countriesâ, with consumer harm shifting as well.
+
+In Indiaâs case, the growing online influencer economy adds another layer of risk. ASCI found that 98% of influencer ads it examined required modification, and widespread failure to disclose paid promotions. And even before ASCI’s revelations, the Parliamentary Standing Committee on Home Affairs had warned that unverified creators and advertisers on social platforms pose serious risks to Indian investors.
+
+Taken together, this suggests that without stronger, platform-level verification and enforcement, India risks becoming a spillover market for scam advertising displaced from more tightly regulated jurisdictions.
+
+The latest disclosures build on earlier Reuters reporting from November 2025 , which found that Meta internally estimated around 10% of its 2024 revenue, roughly $16 billion, came from scam and illegal advertisements. These included fake investment schemes, fraudulent e-commerce offers, and ads for banned products. Metaâs internal systems classified many of these as âhigh-riskâ ads, but advertisers were only banned when the company was at least 95% certain fraud was taking place.
+
+Instead of removing all suspected scammers, Meta introduced what it internally called âpenalty bidsâ: a system where suspected scammers pay more to run ads. While intended to deter fraud, this arrangement allowed Meta to profit from suspicious advertisers.
+
+And internal documents reviewed by Reuters also acknowledged that âit is easier to advertise scams on Meta platforms than Googleâ. Interestingly, the company expected potential regulatory fines to be significantly lower than the revenue generated from such ads.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,81 @@
+This story is part 2 of our coverage of Telcosâ responses to TRAIâs consultation on OTT regulation. You can read part 1 here .
+
+Telcos unanimously agree that the implementation of selective banning of OTT services/websites comes with a whole slew of challenges that they canât address by themselves. Three out of four telcos that sent in their submissions to the Telecom Regulatory Authority of Indiaâs consultation on OTT regulation and selective banning believe that OTT platforms need to assist them for the bans to be implemented.
+
+The only outlier was Vodafone Idea, which suggested the banning of apps at the operating system provider level, whereas the others held that OTTs should be required to submit their IP addresses for telcos to implement bans and use the location data available to them in banning the service for a specific geographical region.
+
+TRAIâs consultation paper on the regulation of OTT communication services and selective banning of apps focused on the following broad themesâÂ
+
+This story focuses on Airtel, Jio, BSNL, and Vodafone Idea (Vi)âs comments on the selective banning of apps/websites. Each companyâs comments have been highlighted in their own specific section.Â
+
+Implementation of internet shutdowns leaves a lot to be desired: The companyÂ submits that the powers are being exercised for the flimsiest of reasons and pretexts, including but not limited to preventing cheating in exams, completely ignoring the public convenience aspect of such orders. Jio says that service-barring orders need to be issued for the most necessary cases and that massive service disruptions that impact all genuine users should be avoided. It was submitted that uniform instructions should be issued to all concerned authorities to use service-barring powers judiciously and only for security-related concerns, and other methods should be used for non-critical requirements.
+
+Selective banning is preferable over blanket bans: â Blanket ban on data services has a debilitating effect on [the] economy as all critical governance and utility services are also barred. Therefore, the Authority should recommend measures for selective barring,â Jio states.
+
+Issues with network-level selective bans: Jio said that in many cases, websites have dynamic IP addresses, are hosted in Clouds, and are difficult to bar using conventional methods. DNS blocking is implemented to handle such situations. This technology creates a gateway between the web and the access server and ensures that the browser does not recognize blocked IPs. This was developed primarily to prevent phishing activities and online gambling; however, it is an effective Internet filtering control. But when the targeted websites are using Hypertext Transfer Protocol Secure (HTTPS), it becomes difficult for service providers to block the content. [Quick context: HTTPS uses encryption techniques to protect the data being transmitted, making it extremely difficult for third parties, including network administrators or internet service providers, to intercept or block specific content.]
+
+Blocking of specific URLs/apps requires deep packet inspection: Jio submits that specific URLs and apps can be blocked, but to do so would require signature development on Deep Packet Inspection (DPI). [Quick context: signature development here refers to the process of creating and refining sets of patterns or rules that DPI systems use to identify specific types of content or behaviours within network traffic.] However, its implementation would depend on the complexity of signature development basis DPI. Moreover, smarter websites can change signatures, thereby preventing longtime barring. Users of said websites can also circumvent any banning attempts by using a virtual private network (VPN).
+
+Canât use a whitelisting approach for selective bans: The use of a VPN will also be an issue in a situation where a whitelisting approach (only allowing people access to certain websites) is used. âIt has also been observed in [the] past that VPNs are riding on the allowed sites to make a tunnel that gives access to [the] general internet to its users, thereby opening the channels of blocked websites to users. Further, under the current architecture of websites, a single URL invokes multiple plug-ins, and there are sub-links within the websites. Therefore, whitelisting only the main URL may not help in loading the website fully and may not be useful for the customers effectivity.â
+
+Need to go to OTT providers for selective banning: JJio submits that the objectives of selective banning can be best accomplished if the government approaches specific OTT service providers to do so. It says that the government has the powers to issue orders for selective barring of apps under the Indian Telegraph Act, 1885 and IT Act and that OTT providers generally take permission to access the location data of their customers, which can be used to ban an app/platform in a particular geographic location. It thus suggests that selective banning is carried out at an app level instead of at the network level.
+
+If Telcos have to ensure selective banning, OTTs must share IP addresses: âThe OTTs should be mandated to maintain the same IP and not change the destination IP address of the content during the barring process.âÂ
+
+Create a new chapter for OTTs under the Unified License: Jio suggests that OTT communication platforms should be brought under the unified licensing agreement by creating a new chapter specifically meant for them. This chapter, it says, should include âfull and absolute complianceâ with the financial and security conditions that telcos comply with. It should also ensure that OTTs conduct proper KYC (know your customer) of their subscribers and comply with provisions for blocking/restriction of websites and apps from a national security perspective.Â
+
+Need amendments in Temporary Suspension of Telecom Services (Public Emergency or Public Safety) Rules, 2017: This should be done to put the required regulatory framework in place for OTT services for selective banning. âThe classes of OTT services or specific websites that should be covered under such selective banning can be decided by security agencies with inputs from local administration, within the framework of the temporary suspension rules, as amended.â
+
+ISPs/TSPs need IP addresses to enforce selective blocking orders: AirtelÂ submits Â that all OTT services and websites work over Internet Protocol (IP) addresses, which send data to each other through secure protocols like HTTPS. Such protocols make it impossible to detect the type of communication being transmitted and categorize it among social media, video, audio, gaming, and file sharing, thereby making it impossible to block specific content. Further, it says that there is no repository of the complete list of OTT platforms/websites and their respective IP addresses, so telcos may not always know which IP address to block content access to.
+
+The challenge posed by dynamic IP addresses: Just like Jio, Airtel also says that dynamic IP addresses are difficult to trace and block. If an attempt to block such IP addresses is made, it can lead to the âblocking of URLs not intended to be blocked, and of the URLs which were actually targeted for blocking working normally due to the change in IP address.â
+
+Limitations in blocking solutions: Airtel explains that the URL blocking solutions available today only supportÂ TCP Â (Transmission Control Protocol, one of the main internet protocols in use) based communication. However, some websites today use QUIC (Quick UDP Internet Connections) protocol, which cannot be blocked by solutions that have been designed for the TCP protocol. Moreover, in cases where the HTTPS protocol is used, if the main URL of a website is successfully blocked, sub-URLs/sub-pages are still left accessible to the users.Â
+
+Another limitation Airtel mentions is that many OTT services use content delivery networks (CDNs). These are networks of servers that are distributed around the world. This means that even if the main server for an OTT service or website is blocked, users may still be able to access the content through a CDN server in another region.Â
+
+The issue of domain fronting and over-blocking: âSome OTT services and websites use domain fronting, a technique that allows them to appear as legitimate services while communicating with their servers over encrypted channels. Implementing advanced traffic analysis and pattern recognition techniques that can help detect and block domain fronting attempts is very difficult for a TSP/ISP, it requires continuous updates and improvements to stay ahead of new evasion Techniques,â Airtel noted. It also argues that selective banning can result in the blocking of legitimate websites, and to reduce this collateral damage, TSPs/ISPs would have to carry out regular monitoring and audit of the block list.
+
+âWe suggest that the Government should consider source-level blocking, i.e., it should directly engage with the OTT service provider or website or hosting server/operator in question so that the desired outcome may be achieved without any significant difficulties,â it mentions.
+
+Regulatory framework for selective banning: âEven currently, when certain content is to be taken down because it violates any laws/ rules, the Government issues orders directly to various OTT service providers and websites on which the content is present,â Airtel states. It suggests that the same approach be taken with the selective blocking of OTT services and websites. Just like Jio, Airtel also believes that the Temporary Suspension of Telecom Services (Public Emergency or Public Safety) Rules, 2017, should be expanded to include OTT services and websites.
+
+Airtel further mentions that all OTT platforms can increase cybersecurity threats because of the vast amounts of data they possess. As such, it suggests that all classes of OTT services (OTT communication services, application services and broadcasting services) should be covered under the selective banning framework. It says that there may be a need to ban specific websites (outside of OTTs) depending on circumstances, and as such, all websites should be included in the regulatory framework as well.
+
+The selective blocking process at the network level: âIn [the] digital and internet world, the traffic is identified through Origination-IP and destination-IP, just like in voice/SMS, the traffic can be identified through A-Party MSISDN [Mobile Station International Subscriber Directory Number] and B-Party MSISDN,â ViÂ says . (Quick context: MSISDN is a number that uniquely identifies a subscription in a Global System for Mobile Communications or a Universal Mobile Telecommunications System mobile network).Â
+
+Vi says that to categorize which platforms need to be blocked, they can be identified using their domain name and IP addresses and that this process should be undertaken by a competent authority, âas TSPs would have no control over the OTT services/websites to get such information.â OTT platforms/websites should be given suitable instructions for getting the list of IP addresses.
+
+Once the domain name and list of IPs are made available to TSPs (by the concerned authority), they can segregate the data traffic originating or terminating towards said platforms from the entire data traffic of a telecom circle. This segregation can also be done for a smaller selective region based on tracking access code and location access code (these identify a specific location in a telcoâs network).Â
+
+Challenges in implementing network-level blocking: Similar to previously mentioned submissions, Vi also said that imposing a selective blocking order would be a challenge given the use of dynamic IP addresses, use of VPNs and so on.
+
+Solutions to these challenges: Vi says that there are three options to effectively address these challenges â
+
+Of these three challenges, it says that instructing OS providers would be the most effective way and that suitable legal and regulatory provisions should be prescribed for the implementation of this solution.
+
+Regulatory framework for selective bans: Vi says that the following aspects should be considered when creating the regulatory framework:Â
+
+Bans should be by OTT players and not telcos: âThe selective banning of specific OTT services and websites in specific regions of the country for a specific period requires the support from the OTT service provider, as for banning their services in [a] network, [the] full range of URLs and IPs are required,â BSNLÂ says . Many of these OTT services are hosted on the cloud, which makes them difficult to ban selectively since the cloud hosting services that the OTTs use operate from multiple locations in multiple countries.
+
+BSNL says that the implementation of selective bans would require configuration changes to the Packet Data Network Gateway (PGW) and Policy and Charging Rules Function (PCRF) of the home mobile network. PGW and PCRF are parts of the mobile network infrastructure, while PGW handles data traffic, and PCRF manages policy control and charging rules for data services. It doesnât specify what these configuration changes would be but says that the need for changes makes banning OTT services for an in-roamer (someone using the services of an Indian telco) difficult.Â
+
+Further, there would also be issues with implementing selective bans on international in-roamers (someone who is using their Indian connection in another country) since that would require similar configuration changes in both the home network and the visiting network.Â
+
+Support needed from OTT services to ban them: For implementing the banning of OTT services/websites, support from the OTT service provider/website is necessary. As for banning their services in the network, a full range of URLs and IPs (used by the OTT/website) are required.
+
+All classes of OTTs should be considered for the banning framework: BSNL suggests that since selective banning/blocking is in the interest of national security, therefore, all classes of OTT services should be covered under the regulatory framework.
+
+How selective banning should be done:Â
+
+Bans by telcos will require deep packet inspection: BSNL said that the current dimension of TSP infrastructure had not envisaged deep packet inspection (which is the technique used to monitor internet traffic at a granular level). Implementation of selective banning of OTT services will impact the processing power of resources. It also mentions that implementing selective bans will be expensive for telecom companies.
+
+âIt is pertinent to mention that such type of selective barring can be done for [a] limited time for limited OTT services. There will be [a] need to define this time period and [set a] limit [for the] of number of OTT service[s] to be banned at a time,â BSNL says. This will give telecom companies guidelines on how to design and expand their infrastructure to meet the needs of a selective ban.
+
+No legal backing for selective banning: There is no specified provision for selective OTT banning in the Temporary Suspension of Telecom Services (Public Emergency or Public Safety) Rules, 2017. As a result, the TSP has not designed its network capacity for selective banning of OTT services in selective areas. Therefore, to bring about transparency, the requirements for selective banning of OTT services should be clearly stated in a regulatory framework under the Temporary Suspension of Telecom Services (Public Emergency or Public Safety) Rules, 2017.
+
+Also read:Â
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

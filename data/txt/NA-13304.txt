@@ -1,0 +1,41 @@
+MediaNama’s take: While the Rajya Sabha Committee on Delegated Legislation has flagged concerns with the broad nature of the term “any other data” under the Cybersecurity rules and asked for clarity on what falls within traffic data, the government is looking to expand the scope of regulation further with the draft amendment to the rules.
+
+If terms like fraudulent message, any other data, and telecom entity are broad according to the committee, one can only wonder what it would think about the inclusion of Telecommunication Identifier User Entities (TIUEs) under the amendment. This term is just as broad as the other aspects of the older rules that the committee had flagged, potentially even broader, given that just about any business, from a local retail shop to a fintech startup, could fall within its scope
+
+The introduction of TIUEs appears to contradict the committee’s recommendations for greater specificity and a clearer scope. Instead of addressing the existing definitional gaps that create compliance uncertainty and privacy risks, the government seems to have expanded the broad regulatory language that could capture unintended entities and activities.
+
+The Department of Telecommunications (DoT) should define the categories of “traffic data” that it collects under the scope of the Telecom Cybersecurity Rules, 2024, the Rajya Sabha Committee on Delegated Legislation said in its report released last week . The report adds that the government should ensure that this data collection is limited strictly to what is necessary for telecom cybersecurity. It observes that the inclusion of the term “any other data” within the scope of information that the government may collect for cybersecurity purposes is overly broad and raises concerns about potential privacy violations.
+
+This report analyses the Telecom Cybersecurity Rules, 2024 , which the government released last year under the Telecommunication Act, 2023. The cybersecurity rules state that the government or its agencies can ask telecom companies for traffic data or any other data for the purpose of ensuring telecom cybersecurity. The notified rules lacked any definition of the term traffic data, though they clarified that it does not include message data.
+
+The report comes after the committee conducted three separate meetings between February and March 2025, which included the Secretary and concerned Officers of the Department of Telecom, Ministry of Communications, the Telecom Engineering Centre, telecom industry body Cellular Operators Association of India (COAI), and other industry representatives.
+
+During one committee meeting, the Director General of COAI, Lt Gen Dr. S.P. Kochhar, pointed out that there is a lack of clarity regarding the scope of the traffic data telecom companies would have to share with the government. He also mentioned the ambiguity around the circumstances under which companies will be required to share this traffic data. The notified rules state that the government can share its analysis of telecom traffic data with law enforcement agencies, as well as with other telecom operators and users. Kochhar recommended that the government limit this data sharing to law enforcement agencies.
+
+Besides concerns around telecom traffic data, Kochhar also mentioned that the definition of security incidents under the rules should align with existing definitions in use. The cybersecurity rules define a cybersecurity incident as “an event having real or potential risk on telecom cybersecurity.” They require telecom companies to report security incidents to the government or any authorised officer. Kochhar argued that the government should conduct a specific consultation to determine the types of cybersecurity events that telcos should be required to report. He suggested that the government should only ask telcos to report major incidents.
+
+Regarding the specific purpose of the cybersecurity rules, the Secretary of DoT explained during one of the committee meetings that the rules serve as an overarching framework for telecom cybersecurity, covering telecom service providers and users misusing telecom resources (e.g., for digital arrests or fraud).
+
+Addressing ambiguities surrounding telecom traffic data, the Ministry of Communications clarified that the rules limit data collection to cybersecurity purposes. The government emphasised that the rules contain safeguards to prevent unauthorised access and that it may impose additional measures to that effect. Further, with regard to the scope of data and the circumstances for sharing it, the DoT clarified that the rules allow for government to share analysis of data, not the data itself. It said that sharing this analysis with other telcos and users is necessary to enable corrective measures and ensure cybersecurity. For example, users could be notified about targeted cybersecurity threats.
+
+Regarding concerns about the definition of a security incident, the government argued that its definition aligns with those of other frameworks, such as the National Institute of Standards and Technology (USA) and the Ministry of Electronics and Information Technology (MeitY) Notification from April 2016.
+
+The committee supports the government’s broad definition of a security incident as a necessary measure to safeguard critical telecom infrastructure. However, it added that the DoT could consider refining the definition to address concerns around scope and practical implementation. It also suggested introducing a tiered classification system to prioritise reporting of major incidents.
+
+With regard to disclosures of security incidents, the committee argues that the government should have clear guidelines on disclosure circumstances. These guidelines should prioritise direct notifications to affected persons, implement privacy safeguards, manage public perception, and prevent reputational damage to telcos.
+
+Another key concern raised was the definition of a telecommunication entity under the rules. This term includes “any person providing telecommunication services, or establishing, operating, maintaining, or expanding a telecommunication network.” This covers both authorised and authorisation-exempt entities. The committee noted that this definition is “broad, encompassing both service providers and network operators,” risking inconsistent application. It urged the government to revise the definition to clearly distinguish telecom service providers (TSPs).
+
+With regard to COAI’s concern around sharing traffic data analysis, the committee observed that telecom entities, end users both play a vital role in implementing corrective cybersecurity measures, justifying the data sharing mandate under the rules.
+
+“The Committee, however, recommends that a mechanism of having a periodic review of the data-sharing framework to assess its effectiveness in enhancing telecom cybersecurity and address emerging privacy or security challenges be set up. Besides efforts towards regular engagement with stakeholders regarding the sharing process and evolving cybersecurity standards shall also be beneficial,” as per the report.
+
+The cybersecurity rules also mention that the government agencies that collect data under the rules will implement adequate safeguards to ensure that the data is kept confidential. The committee suggests that the term ‘adequate safeguards’ is vague, urging the government to come out with detailed guidelines specifying the mandatory technical and procedural safeguards that telcos and agencies will employ for data confidentiality.
+
+The rules prohibit people from sending fraudulent messages via telecom networks. The committee noted that the term fraudulent is too broad and raised concerns about who determines whether a message is fraudulent. An innocent person may unknowingly forward a fraudulent message, it argued, urging the government to explicitly define the term. It also recommended defining the processes for determining fraudulence.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

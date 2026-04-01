@@ -1,0 +1,47 @@
+The Telecom Regulatory Authority of India (TRAI) should allow telcos to work with third-party apps for AI-enabled spam solutions, Truecaller suggests in its comments to the recent consultation reviewing Indiaâs spam regulations. As a part of this review, TRAI asked stakeholders for suggestions on proactive ways in which telcos can tackle spammers and the rules required for the effective use of AI-based spam detection systems. As per a regulatory mandate from last year , all telcos would eventually have to create such solutions.
+
+Truecaller argues that while TRAI suggests that telcos should use AI and machine learning (ML) to curb spam, all telcos may not have the resources to create these solutions independently. This can delay implementation and can also add to telcos’ compliance costs. “To address this, TRAI could allow Access Providers the flexibility to integrate with third-party applications and services that specialize in AI/ML-based spam detection, robocall identification, and call-blocking mechanisms,” the company says. This comes as a suggestion in the wake of Airtel and BSNL’s AI-based spam detection systems , which could prove to be a challenge to Truecaller.
+
+The company also urges TRAI to bring third-party applications (like itself) into its framework to curb spam. It argues that these platforms can provide user-friendly interfaces for consumers to report spam, and manage their communication preferences. âBy leveraging the capabilities of these platforms, TRAI can streamline the reporting process, making it more accessible and consumer-centric,â Truecaller adds.
+
+[Note: Truecaller has clarified with MediaNama that it does not argue in favor of adding third-party apps to the spam framework. Instead, it urges TRAI to facilitate partnerships between third-party services, telecom service providers and other technology companies to achieve a common end-objective i.e. to protect consumers from spam, scam,Â andÂ fraud.]
+
+Truecaller argues that to curb both spam and fraud, telcos, regulators, and third-party entities need to be able to share relevant data with each other in a secure and compliant manner. The regulator should require telcos to share necessary subscriber information, such as names and phone numbers, under “well-defined, non-discriminatory, and fair terms, and at a nominal cost.” The company argues that this would allow third-party service providers access to information they need to curb spam, adding that the European Union (EU) has adopted a similar approach.
+
+Similarly, Truecaller suggests that TRAI should consider a standardized framework through which telcos, third-party apps, and regulators can share real-time information about suspicious activities and fraud patterns. “Fraudsters often exploit gaps in information between stakeholders, making coordinated data sharing essential to closing these loopholes,” the company says, emphasising the need for collaborative efforts.
+
+Truecaller argues that while the new definitions TRAI has proposed for transactional calls and messages have the potential to reduce ambiguity, the regulator needs to do the same for other channels of communication as well. It urges for clear definitions for fraud calls and messages recommending that TRAI could consider defining them asâ
+
+âA representation of a material fact that is false and known to be false by the defendant, made with intent to induce the victim to rely on it and thereby part with something of value, over any voice call or message using telecommunication services.â
+
+By including a clear definition for fraud calls and messages, TRAI could provide clarity to telecom companies and increase their responsibility to prevent fraud and protect their customersâ financial interests, Truecaller says. It mentions that this definition would make fraud prevention âcentral to building customer trustâ and regulatory compliance. Further, it argues that TRAI could consider creating specific fraud-related obligations for telcos. This could include improved reporting protocols and mandatory fraud detection systems.
+
+In its consultation paper, TRAI mentioned that other jurisdictions like the US and the UK prohibit unsolicited robocalls without prior express consent. It argued that businesses should seek customer consent before making robocalls to their customers, which they need to verify via telcos’ Digital Consent Acquisition System (DCA) . Businesses should also inform their telecom service providers if they are using robocalls for commercial communication.
+
+Truecaller argues that such express consent could cause users to become desensitized to the consent process. “Over time, this excessive consent-seeking behaviour can reduce user engagement and trust, and instead of enhancing spam protection, it may erode the effectiveness of consent mechanisms altogether,” the company says. It urges the regulator to give deference to the Digital Personal Data Protection Act, 2023 (DPDPA) when suggesting requirements for consent seeking.
+
+Further, it highlights that creating a mechanism where users would have to “opt-in” for commercial communication, adversely impacts small and medium enterprises (SMEs) and the call centre industry in India. Instead of an opt-in approach, it suggests that TRAI should implement a well-designed “opt-out” mechanism, allowing users to easily avoid unwanted calls and messages.
+
+The DPDPA does not recognise spam and scam detection and prevention as a ground for processing data. Instead, it relies on explicit user consent for doing so. However, since it is unlikely that spammers/scammers will consent to spam detection systems, Truecaller argues that it is essential for the law to recognize spam and scam prevention as a lawful basis for data processing. “Although TRAI does not have jurisdiction to designate lawful grounds under the DPDPA, it could recommend [the same] to MeitY,” the company adds.
+
+Truecaller argues that even if a business obtains express consent from users before sending commercial communication, they can still spam said user by:
+
+The company suggests a flexible approach to consent management, which allows users to “dynamically manage their interactions with business entities.” For unregistered spammers, Truecaller says that telecom companies should collect the traffic data of such users and create a spam score.
+
+The company argues that if TRAI mandates a different tariff for those callers and messages who cross a certain usage threshold, it would have a detrimental impact on people in a range of professions. This includes those working in education, healthcare and social work, who need to make a large volume of calls on a daily basis. “Introducing higher charges based on call volume, these users may face unnecessary financial strain, simply for fulfilling their duties,” Truecaller says.
+
+Another problem with the differential tariff plan is that fraudsters at times use multiple SIM cards or spoofing technologies for their activities. The hiked tariff is unlikely to make such actors stop.
+
+The company argues that TRAI should define international traffic asâ
+
+Truecaller argues that defining international traffic is important because it will solve the issue of grey routes where international traffic gets disguised as domestic traffic. “This definition enhances security, traceability, and fraud protection by making it easier to monitor calls and messages originating from or terminating outside India,” the company argues, adding that improved traceability will allow authorities to detect fraudulent activities, such as phishing, smishing, and spam, which often exploit grey routes.
+
+TRAI conducted a consultation on international traffic last year in May . Besides the reasons Truecaller mentions, this definition is also important because the current regulation system allows telecom companies to determine termination charges on international SMS while regulating termination charges for domestic SMS. Truecaller argued in favour of defining international traffic during last year’s consultation as well.
+
+Note: The story was updated on October 30, 2024 at 4:51 PM to clarify Truecaller’s argument about third party involvement in curbing spam.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

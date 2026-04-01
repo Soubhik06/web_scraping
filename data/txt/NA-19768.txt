@@ -1,0 +1,13 @@
+SUBREDDIT: r/india
+TITLE: PSA: Don't save your credit/debit card details on Indian recharge sites. [np]
+DATE: 2015-03-19
+SCORE: 169
+URL: https://www.reddit.com/r/india/comments/2zlh5b/psa_dont_save_your_creditdebit_card_details_on/
+
+--- POST TEXT ---
+
+Throwaway for obvious reasons. I worked for Free Charge &amp; left the company very recently. The way they store your debit/credit card details and how they handle recharges using that info (API, app, HTTP) is laughable. I found lot of security problems. Some of them fixed, some are still exists. Even if you know basics of web security you can hack into it and add Free Charge credits to your account (not sure if this exploit is fixed now or not). We would find many log entries from various IPs trying to get into our systems. We once did have a security breach (early 2014), but I don't know how much of data was stolen.
+
+TLDR; Don't save your credit/debit card details on Indian recharge sites. These startups don't even know what 'secure' systems mean. Especially Free Charge.
+
+originally posted at http://www.reddit.com/r/india/comments/2zk6fg/fooling_the_startup_of_the_year_hacking_into_ola/cpjxk9h?context=3

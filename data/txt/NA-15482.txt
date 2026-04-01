@@ -1,0 +1,49 @@
+India’s AI governance will focus on innovation and may not lean heavily on regulation like the US and Europe, Minister of Electronics and Information Technology (MeitY) Ashwini Vaishnaw said.
+
+Speaking at the ET Startup Awards , Vaishnaw said that India’s approach to AI is to democratise technology and make it accessible to researchers, academia and startups. When it comes to regulating AI harms, he said, “We have two different models before us. One is the US model, second is the European model. I honestly don’t think that the way some of the countries have put so much regulation on AI is the right way to go.” India will adopt the same approach to AI regulation as it did to structure its data privacy law and telecom law, allowing “space for innovation to flourish” and also ensuring that “harms which can come to the society are fully controlled,” he said.
+
+India’s approach to AI
+
+India’s stance on AI has lately been inclining towards lighter regulation on liability and a push towards innovation. Last month, Abhishek Singh, Additional Secretary to India’s Ministry of Electronics and Information Technology and CEO of Digital India Corporation, said that the Indian government would focus on regulating applications of AI over AI technology i.e. it is more concerned with regulating the harmful applications of AI such as deepfakes or misinformation or child sexual abuse.
+
+Vaishnaw also seemed to echo the sentiment of NITI Aayog’s 2018 paper titled ‘National Strategy for AI.’ It held that the debate around the accountability of AI needs to be shifted to “objectively identifying the component that failed and how to prevent that in the future” instead of assigning “strict liability.” Strict liability is a legal concept where a person or entity can be held responsible for harm or damages without needing to prove negligence or intent. This means that, in certain situations, you are automatically responsible for any harm caused by your actions or something under your control, even if you took every precaution to avoid it.
+
+NITI Aayog has proposed a framework involving ‘negligence tests’ for damages caused by AI software over strict liability. This would entail self-regulation through damage impact assessment at every stage of the development of an AI model. Further, NITI Aayog also suggested formulating safe harbour protection to insulate AI developers from liability (for developers that have taken appropriate steps to design, test, monitor, and improve the AI product).
+
+For liability, it proposed adopting a framework for “apportionment of damages” rather than “joint and several liability” and developing a harm requirements policy to avoid lawsuits based on speculative damage or a fear of future damages.
+
+NITI Aayog also pushed to establish a new Centre for Data Ethics and Innovation, inspired by the UK, to ensure ethical, safe and innovative uses of data and consortiums of Ethics Councils at the various Centre of Excellences established across states.
+
+The EU’s approach to AI security
+
+Conversely, the EU takes a ‘risk-based’ regulatory approach to all AI systems and stringently regulates AI models that it deems “high-risk.” The ‘EU AI Act’ outright bans models that can negatively influence the behaviour of people, create risk assessments and predictive profiles,  biometric categorisation systems, social scoring systems and real-time biometric identification systems (outside of specific law enforcement use cases).
+
+Models that have “significant harmful impact on the health, safety and fundamental rights of persons” are classified as high-risk. These include:
+
+The Act also establishes AI regulatory sandboxes to allow developers and deployers to test models in controlled environments.
+
+The US’s approach to AI liability
+
+US President Joe Biden issued an Executive Order on October 30, 2023, outlining a list of measures for AI safety and security, citizen privacy, equity, protection of consumers and workers’ rights, and promoting innovation.
+
+The order mandated that developers of AI systems that pose a serious risk to national security, national economic security, or national public health and safety share their safety test results and other critical information with the US government in accordance with the Defense Production Act, before companies made these models public.
+
+It also directed the National Institute of Standards and Technology of the US to define standards for “extensive red-team testing” and create a Safety and Security Board to address the threat of AI systems to critical infrastructure. It also called for establishing an “advanced cybersecurity program” to develop AI tools to address vulnerabilities identified in critical software systems.
+
+It also charted out provisions for data protection relating to AI directing institutions to develop “privacy-preserving” techniques and calling for comprehensive data privacy legislation. It called to evaluate how agencies collect and use commercially available information and data procured from brokers, including personally identifiable data.
+
+Biden also directed the US Department of Commerce to develop guidance for content authentication and watermarking to label AI-generated content to prevent AI-related fraud.
+
+The US government’s Office of Management and Budget (OMB) has also introduced a policy establishing requirements from federal agencies for the responsible deployment of AI. It requires accountability from agencies in the form of AI Impact Assessment, risk evaluation and constant monitoring.
+
+Also Read :
+
+India plans to adopt a digital public infrastructure approach to AI: IT Minister Ashwini Vaishnaw said during Global IndiaAI summit
+
+US Govt Agencies’ Key Actions On AI Executive Order: NIST GenAI Platform for Detecting AI Content, AI Security Board and More
+
+European Parliament passes landmark Artificial Intelligence Act for transparency and copyright regulations
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

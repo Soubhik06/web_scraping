@@ -1,0 +1,59 @@
+Since September 2021, at least seven State Load Despatch Centres close to the Indo-China border in Ladakh were targetted by a suspected Chinese state-sponsored threat activity group, according to a report by cybersecurity group Recorded Future. The report also said that it had observed a “compromise of a national emergency response system” and the targeting of an “Indian subsidiary of a multinational logistics company”.
+
+Through this security compromise, TAG-38, the suspected Chinese State-sponsored threat activity group, may have had limited opportunity to conduct economic espionage or gather traditional intelligence, the report said.
+
+“We believe this targeting is instead likely intended to enable information gathering surrounding critical infrastructure systems or is pre-positioning for future activity.” — the report titled Continued Targeting of Indian Power Grid Assets by Chinese State-Sponsored Activity Group
+
+This cyber attack is reminiscent of another alleged China-backed cyber attack on India’s critical infrastructure systems such as power companies in Telangana and other states. Although it is not yet confirmed whether Chinese state actors are involved in the Ladakh cyber attack, or whether any major Indian telcos were affected, it must be pointed out that India still lacks a comprehensive cybersecurity policy as the National Cyber Security Strategy, which has been in the pipeline since 2019, is yet to be finalised.
+
+Dear reader, we urgently need to build capacity to cover the fast-moving tech policy space. For that, our independent newsroom is counting on you . Subscribe to MediaNama today, and help us report on the policies that govern the internet.
+
+“Based on our analysis, the adversary infrastructure cluster identified consists entirely of likely compromised internet-facing, third-party DVR/ IP camera devices.” — Recorded Future report
+
+The hacking of poorly-secured internet-of-things (IoT) devices such as IP cameras have previously been carried out by other Chinese State-sponsored threat activity groups such as Red Bravo, the report said. While Recorded Future could not confirm the exact way in which these devices were compromised, it speculated that the cyber attack may have involved the use of default credentials.
+
+Recorded Future said that it had unearthed a Command and Control (c2) infrastructure that had been targeting the critical infrastructure in Ladakh for months. This C2 infrastructure comprises the compromised DVR/IP camera devices (primarily geolocated in Taiwan or South Korea), the report said. It found that SLDC (a logistics company) and the national emergency response system were communicating with the identified c2 servers.
+
+Compromised ports: “Likely compromised devices were observed with the default open ports 80/554/9090 associated with the compromised device (sic), as well as an additional actor-controlled port(s) opened for malware C2 communications,” the report said.
+
+Fast Reverse Proxy: This command and control infrastructure had an open source tool called Fast Reverse Proxy, which Recorded Future said can read ‘predefined configurations and allows you to expose local services that are hidden behind a firewall to the internet’.
+
+Shared unique SSL spoofing certificate: Recorded Future also found that “the identified C2s shared a unique SSL certificate spoofing Microsoft on port 443.” “This certificate has multiple links to wider Chinese state-sponsored cyber espionage activity and is discussed in further detail below,” the report said. Kaspersky defines an SSL certificate as a digital certificate that authenticates a website’s identity and enables an encrypted connection.
+
+A large portion of the compromised C2 infrastructure was confirmed by Recorded Future as ShadowPad C2 servers. “While investigating the TAG-38 intrusion activity, we uncovered multiple links to other suspected Chinese state-sponsored activity. Of note, the targeting and use of ShadowPad is consistent with previously reported RedEcho activity, and this latest activity also includes a repeated SLDC victim,” the report said.
+
+In 2021, another report by Recorded Future found that the Unique Identification Authority of India (UIDAI), along with Bennet Coleman and Co Ltd (the parent company of Times of India) and Madhya Pradesh Police were victims of alleged Chinese state-sponsored cyber attacks. The hacker group temporarily named as TAG-28 by the cybersecurity firm, targetted UIDAI for its Aadhar database. It correlated TAG-28’s targeting of Bennet Coleman with the group’s long history of perpetrating intrusions against international media outlets.
+
+500MB of BCCL data stolen: Between February and August 2021, four IPs assigned to Bennet Coleman were identified as having been targetted by Chinese actors. “Although we cannot confirm what data specifically was accessed, we observed approximately 500MB of data being exfiltrated from the BCCL network to the malicious infrastructure,” the report said.
+
+UIDAI’s IP address in communication with attacker: Between June 10 and at least July 20, 2021, two IPs registered to UIDAI were observed communicating with one of the servers that allegedly targeted BCCL, the report said. “Data transfer sizes were comparatively modest from the UIDAI network based on our visibility. Less than 10 MB of data was egressed with an ingress of almost 30 MB, possibly indicating the deployment of additional malicious tooling from the attacker infrastructure,” the report said. No other information was provided on the alleged attack on UIDAI.
+
+This report came months after Recorded Future, in another report, said that a Chinese state-sponsored hacker group People’s Liberation Army Unit 69010 had targetted Indian defence research organisations and others.
+
+A Chinese state-sponsored hacking group referred to as APT41 compromised computer systems in at least six US state governments , cybersecurity firm Mandiant revealed in its report published on March 8. The report does not name the states but said that the hacking was carried out between May 2021 and February 2022 and reveals significant new capabilities of APT41.
+
+“The goals of this campaign are currently unknown, though Mandiant has observed evidence of APT41 exfiltrating Personal Identifiable Information (PII). Although the victimology and targeting of PII data is consistent with an espionage operation, Mandiant cannot make a definitive assessment at this time given APT41’s history of moonlighting for personal financial gain,” the report stated.
+
+According to the report, the hackers breached government networks by exploiting vulnerabilities in internet-facing web applications, primarily the following two:
+
+“We say ‘at least six states’ because there are likely more states affected, based on our research, analysis, and communications with law enforcement. We know that there are 18 states using USAHerds, so we assess that this is likely a broader campaign than the six states where we have confirmation,” Rufus Brown, a senior threat analyst at Mandiant, told The Verge .
+
+In a press release issued by the White House in July 2021, the USA along with its allies such as the United Kingdom and the European Union accused China of:
+
+Hiring criminal contract hackers: The US accused China of fostering an intelligence enterprise that includes “contract hackers who also conduct unsanctioned cyber operations worldwide, including for their own personal profit.”
+
+Ransomware attacks against private companies: The US also stated that China’s government-linked cyber operators have conducted ransomware operations against private companies demanding millions of dollars in ransom.
+
+Targeting government institutions and political organisations in the EU: The EU in its press release said that China-based hacker groups known as Advanced Persistent Threat 40 and Advanced Persistent Threat 31 targeted government institutions and political organisations in the EU and member states “for the purpose of intellectual property theft and espionage.”
+
+Government and telecom entities in China and Pakistan were targetted as part of a cyber-espionage campaign led by the Indian government, according to a report by Forbes. The campaign, using zero-day vulnerabilities sold to it by Exodus Intelligence, a zero-day exploit broker, based in Austin Texas, ran from June 2020 to April 2021 following which Exodus says it ‘cut off’ India from buying its zero day exploit research. According to the report, the Indian campaign —
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

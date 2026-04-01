@@ -1,0 +1,45 @@
+The Electronic Privacy Information Centre (EPIC) has filed a complaint against the Thomson Reuters with the US Federal Trade Commission (FTC) alleging development and deployment of faulty fraud detection system called ‘Fraud Detect’ through unlawful practices. On the basis of a three-year-long investigation carried out by EPIC, the organisation’s complaint states that Thomson Reuters—a multinational information services conglomerate—indulged in acquiring data unlawfully and using “harmful AI practices” in building Fraud Detect.
+
+What’s Fraud Detect?
+
+Fraud Detect is an automated tool, which is primarily used for detection and prevention of frauds in the government or commercial healthcare service delivery system. According to the complaint , Thomson Reuters’ Fraud Detect system has been provided to government agencies in at least 42 different states. These agencies rely on the system for determining “how much assistance public benefits recipients should receive, if any, as well as whether and when to initiate fraud investigations or overpayment proceedings”.
+
+EPIC has called on the FTC to investigate the company for “unfair and deceptive practices” in violation of provisions of the FTC Act and the US’ Fair Credit Reporting Act. More about the complaint discussed below.
+
+Why it matters:
+
+This case raises critical questions regarding deployment of automated systems for public delivery programmes. Who develops these systems and how? What guides the development of tools that are used for facilitating governance? What are the requirements that private companies are obligated to meet before launching products that cater to a larger public? Who will be held accountable for any potential user harms? These are some of the key questions that regulators across the world, not just in the US, must define standards for, especially amidst the wide-spread urge to experiment with AI systems for delivering important services like healthcare, education, etc.
+
+The Indian government has, on multiple occasions, indicated the government’s plans to use AI for delivering governance-related services across different sectors. Recently, the IT Ministry had issued a tender seeking proposals for building tools and frameworks based on responsible AI themes. In April 2023, the government also said that it is planning to spend around Rs 1,635 crores to develop the AI ecosystem and use AI to add to the knowledge system of e-governance platforms. This would include healthcare, IndiaStack applications, and for large language models like the Digital India Bhashini.
+
+From language translation and agricultural practices to data analysis and verifying applications for driving licenses , India is already using automated systems in different sectors. Given that these systems are developed and implemented in partnership with private agencies, here are some of the important points from EPIC’s complaint that the Indian government must take a note of.
+
+1. Is the training data acquired through legitimate means?
+
+EPIC’s complaint informs that the Thomson Reuters’ fraud detection system is built on its CLEAR investigation platform, which is a searchable database of government data and sensitive commercial data like consumers’ credit reports, criminal records, and social media profiles from at least 60 sources. The company’s CLEAR platform is already subject to another lawsuit alleging Thomson Reuters creates a “cradle-to-grave dossier” for each person in its database, which it sells to third parties. This calls attention to the vulnerabilities that people’s data–with government as well as private companies–can be exposed to.
+
+Under the National Data Governance Framework, the Indian government has emphasised on using and sharing citizens’ non-personal data for research and innovation in key sectors, including AI. While India’s data protection law does not cover non-personal data, there are possibilities of deanonymizing anonymised data posing privacy risks that remain addressed. We have covered this in detail here .
+
+2. Exclusion caused by data that further bias:
+
+Most importantly, EPIC has highlighted that the CLEAR database has been linked to racially-biased algorithmic outputs—a result of historical prejudices against specific communities and racial disparities in policing. While the company has marketed Fraud Detect for accuracy in detecting public benefits fraud, EPIC claimed to have found evidence that the system generated false fraud alerts, leaving many legitimate claimants without the benefits they are entitled to.
+
+The Indian government is calling for AI bias mitigation strategies like pre-processing data to remove bias, adjusting algorithms to account for fairness, or post-processing predictions to re-calibrate outcomes among others. However, as stated by David Leslie , the Director of Ethics and Responsible Innovation Research at the Alan Turing Institute during the Global Partnership on AI (GPAI) Summit, the problem of bias is a societal issue. According to Leslie, it is important to understand the historical context in order to understand where bias comes from and how it plays into the technology. The data representation issues can be addressed only by taking into account the larger context of discrimination that’s being furthered through generations.
+
+3. Transparency in contracts for public sector undertakings:
+
+In the Thomson Reuters case, EPIC has revealed that in its contracts, the company maintained complete control and ownership over the Fraud Detect system. A lack of transparency regarding the design, evaluation, and operation of the product meant that public agencies had little knowledge of how exactly the system worked, and whether it met minimum standards for responsible AI development and use.
+
+Currently, there’s little knowledge or clarity on the guidelines or procedures that govern usage of AI in India, in whatever capacity that may be, in different sectors, especially health and education. It is only recently, that the IT Ministry, in its tender, has asked companies to develop Explainable AI or XAI frameworks to make AI models more interpretable and transparent. These are expected to serve as a guide for scientists, regulators, and users to understand, examine, and flag issues about the functioning of complex AI models. Such submissions by companies, if made public, would offer clarity on the processes and enable stakeholders to flag critical points.
+
+4. Credibility of AI systems used for governance:
+
+In its complaint, EPIC has noted that multiple government agencies withheld access to information about the system stating confidentiality and trade secret restrictions. Whereas, in response to requests related to the system’s accuracy and reliability, some government agencies stated that Thomson Reuters has not provided such information to them. This underscores the importance of establishing stricter audit mechanisms by government authorities before issuing approvals for deployment of any AI system, especially if it is meant for significant tasks that can impact the larger public.
+
+The Indian government is looking for algorithmic auditing tools , which will play a key role in “evaluating and scrutinizing” the behaviour of machine learning models and their impact on communities. The government is also calling for proposals to build an AI governance testing framework, to establish a structured approach for evaluating and ensuring compliance with governance policies, ethical guidelines, and regulatory requirements in the development and deployment of AI systems. While the government is in the process of defining procedures or mechanisms to check the credibility of AI systems, a lot also depends on how strictly these rules are enforced and how much of such information is in the public domain for citizens to demand accountability.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

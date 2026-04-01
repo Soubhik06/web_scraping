@@ -1,0 +1,63 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: SEBI and SAT keep squabbling about the most basic issues. Here's a fun read about how they're unable to agree about what even constitutes securities fraud.
+DATE: 2023-11-06
+SCORE: 1
+URL: https://www.reddit.com/r/IndiaInvestments/comments/17p24q6/sebi_and_sat_keep_squabbling_about_the_most_basic/
+
+--- POST TEXT ---
+
+*Original Source:* [*https://boringmoney.in/p/sebi-thinks-trading-a-shady-stock*](https://boringmoney.in/p/sebi-thinks-trading-a-shady-stock?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=sebi+sat+small+trades)
+
+*If you like what you read, do visit the link above to subscribe to Boring Money and receive similar posts directly in your inbox.*
+
+\--
+
+Every now and then there will be someone accused of securities fraud who may not have defrauded anyone *enough.* They might do something that might technically count as fraud but they wouldn’t have made any money out of it. And since they did not make any money out of it, they will argue that they never intended to defraud anyone in the first place. And then there will be some squabbling about whether what they did was fraud at all. Here’s some squabbling that [Mint reported in September](https://www.livemint.com/news/india/fraud-tag-on-small-trades-sebi-moves-sc-11695663257628.html):
+
+&gt;The legal battle over the interpretation of certain fraudulent trade rules has reached the apex court. Market regulator, the Securities and Exchange Board of India (Sebi), has moved the Supreme Court in nearly a dozen cases. 
+The key question is whether trading a tiny portion of a company’s shares leads to fraudulent trading. 
+… 
+For instance, a case involving manipulation of shares of SFL Ltd, Sebi fined seven people for manipulating the stock. One of the accused, Maltiben Gandhi, purchased and sold 10 shares of the firm during the period of investigation. SAT set aside the ₹5 lakh fine levied on Gandhi saying the accused traded in a miniscule number of shares and Sebi had failed to establish connection between her and six other accused.
+
+Back in 2017 there was a listed company called SFL Ltd. SEBI noticed some shady stuff happening with its stock and ran an investigation. This was a small company with probably no business to speak of and its stock price was going up and down in a crazy way in a matter of months for no particular reason. On 30 December 2016, SFL’s stock price was at around ₹26. By April it was up to ₹43, and by July it was back down to ₹18.
+
+This has [pump-and-dump written all over it](https://boringmoney.in/p/youtube-is-great-for-pump-and-dumps#:~:text=Find%20a%20relatively,%3F%3F%20Profit.)! A small unknown company. Almost no shares trading. Inexplicable stock price movements.
+
+Now, every pump-and-dump has three parts:
+
+1. The pre-pump: the stock that you’re planning on pumping must appear legit. It should look like it’s actively traded, otherwise it’s too suspicious.
+2. The pump: the hype period. Make YouTube videos, send messages on Telegram groups, do whatever, convince randos to buy the stock.
+3. The dump: as the stock goes up because of randos buying, sell the stock. ??? Profit.
+
+Most pump-and-dump fraud investigations focus on the pump and the dump. The one [I wrote about](https://boringmoney.in/p/youtube-is-great-for-pump-and-dumps) back in March, for instance, was all about YouTube videos and the amount of money everyone involved made in the dump that followed. In SFL’s case, SEBI hasn’t really mentioned the pump or the dump but its focus has been entirely on the pre-pump. ([Here’s](https://www.sebi.gov.in/enforcement/orders/dec-2022/adjudication-order-in-the-matter-of-sfl-international-limited_66738.html) SEBI’s order from December 2022.)
+
+The pre-pump is an interesting period. The goal isn’t to make any money, directly at least, but to create an illusion of activity. One of the people who bought and sold shares in the pre-pump period was Maltiben Gandhi. From SEBI’s order, this was basically what happened:
+
+1. Maltiben bought 10 shares of SFL. This was the *only* trade that happened that day in SFL stock. No one else bought or sold any shares at all.
+2. Two days later, Maltiben sold those shares. Within 5 minutes of her placing the sell order, there was someone who bought those shares. Again, this was the only trade that happened in SFL shares that day. \[1\]
+
+I might be singling out Maltiben here but this is what the pre-pump activity looked like for SFL. Someone would buy and sell exactly 10 shares every other day and that would be the only trade in the company’s shares.
+
+So did Maltiben (and the others) commit securities fraud? They didn’t really profit from their trades. And from the looks of it there wasn’t even a pump-and-dump, probably just an attempt to do so. SEBI thought this was enough and penalised Maltiben and the others with a ₹5 lakh ($6000) fine. Maltiben and Co appealed the decision and SAT (which listens to appeals) overturned SEBI’s order. [Here’s SAT](https://sat.gov.in/english/pdf/E2023_JO2023280.PDF):
+
+&gt;Apart from one trade of 10 shares, there is no other trade executed by the appellants. In our opinion, one trade of the appellants cannot indicate any trading pattern which would result in giving a finding of any illegal act, collusion, meeting of minds or prearranged plan to inflate the price.
+
+“Apart from one trade of 10 shares, there is no other trade executed by the appellants”—but that’s the point!! Maltiben’s trade was unusual and suspicious *because* it was just 10 shares bought and sold successively for no reason in a stock that had zero buyers or sellers on a normal day. If there were more trades maybe it wouldn’t be suspicious in the first place.
+
+Also, what is with SEBI and SAT unable to come to any sort of agreement about something that seems so basic? Is it that a single trade of 10 shares cannot be fraudulent ever? If this happens to be the case, I can imagine a whole lot of dead stocks coming back to life in the exact same way as this.
+
+Or is it that to prove any sort of securities fraud SEBI would need to show a phone call or exchange of messages, etc. and the trading pattern isn’t enough? SEBI [already let go the McDowell’s](https://boringmoney.in/p/mcdowells-insider-insider-trading) guy because it couldn’t prove any active communication between the trader and the company insider, so maybe that’s what SAT wants for everyone. \[2\]
+
+We already know that [SEBI isn’t friends with SAT](https://boringmoney.in/p/sebi-feuds-with-sat-in-sc) but really what they need isn’t the Supreme Court but a schoolteacher to sit them down and make them talk to each other. “What is the minimum required evidence to prove securities fraud” seems like a question the two of them must have the same answer to.
+
+&amp;#x200B;
+
+**Footnotes**
+
+\[1\] This person then repeated the cycle again. He sold the shares in exactly the same way after two days to another buyer who appeared just as as this person wanted to sell.
+
+\[2\] If this really is the case, it would be crazy. SEBI might never be able to prove collusion if someone’s careful enough and people might get away with obviously fraudulent trades forever.
+
+&amp;#x200B;
+
+*Original Source:* [*https://boringmoney.in/p/sebi-thinks-trading-a-shady-stock*](https://boringmoney.in/p/sebi-thinks-trading-a-shady-stock?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=sebi+sat+small+trades)

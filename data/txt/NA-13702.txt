@@ -1,0 +1,19 @@
+The National Payments Corporation of India (NPCI) has sent a letter to various fintech entities warning them against using the UPI API for anything other than payments, the Economic Times reported. The letter sent to all participating members said that the NPCI had observed “unauthorised use of UPI APIs” such as entering into commercial arrangements with third parties for the provision of “APIs as a service” and has asked the companies to shut down such services.
+
+This warning is in reference to the fact that various fintech entities are using UPI IDs to provide UPI ID Verification services. This service allows merchants to validate users’ details through UPI ID and ensure payment returns.
+
+These fintech entities are UPI Service providers and are connected to the UPI API. They allow customers using UPI-enabled apps or Third Payment Application Providers (TPAPs) to make transactions.
+
+Some entities have leveraged this integration to provide an “API as a Service” wherein merchants/businesses can integrate their API with UPI’s API through these service providers. Customers can enter a UPI ID into the system to access the data available on the retail payment system. This allows them to access relevant information, such as their customer’s identifying details. Cashfree, IDfy, and Eko are some of the few entities providing this service. However, Medianama was unable to independently verify whether the NPCI has contacted Cashfree,IDfy and Eko. We have reached out to the companies for a confirmation and will update on response.
+
+However, the NPCI guidelines only permit the use of the UPI API  for the purpose of processing the financial or non-financial transaction initiated by the end UPI consumer or for the purpose of risk management and fraud prevention. “Any other use of APIs, especially, the stand-alone use of APIs for purposes other than it is intended for, is not permitted unless approved.”, say the guidelines.
+
+The letter said that the NPCI will deal with any violation of these compliance guidelines with the utmost severity, including the imposition of penalties or cessation of UPI services. Reportedly, member banks and third-party payment apps have also received a copy of the letter.
+
+Also Read:
+
+Update: The article was edited based on editorial input on 24/10/2024 at 4:54 PM .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

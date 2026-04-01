@@ -1,0 +1,91 @@
+In 2020, a cybersecurity firm alleged a massive data breach at Paytm Mall, but this was firmly denied by the company back then. Fast forward two years to July 26 2022 and Firefox began notifying affected users that the breach has been verified based on data provided by Have I Been Pwned, a website that allows people to check whether their personal data has been compromised by data breaches. Paytm once again doggedly denied any breach. A few days later, on July 29, Have I Been Pwned walked back on its claims and marked the data leak as “fabricated,” meaning the data did not come from Paytm.
+
+The case continues to remain interesting because there is a database of leaked data out there with sensitive personal information of over 3 million people. Where did this data come from and why was there a strong correlation to the data submitted by Paytm Mall customers remains a mystery.
+
+Never miss out on important developments in tech policy, whether in India or across the world. Sign up for our morning newsletter , with a “Free Read of the Day”, to experience MediaNama in a whole new way.
+
+August 2022: Cyble reports Paytm Mall data breach, Paytm denies
+
+On, August 30 2022, an Atlanta-based cybersecurity firm, alleged that a known cybercrime group called “John Wick” used a backdoor in the Paytm Mall website and application to gain unrestricted access to the company’s entire database. The company alleged that this “potentially affects all accounts and related information at Paytm mall”. Cyble got this information from a former member of the group “John Wick” and this member reportedly claimed that this hack was made possible by an insider in Paytm Mall. As per Cyble, “John Wick” demanded 10 ether (ETH), equivalent to US$4,000 at the time, as a ransom for the data.
+
+Paytm Mall denied that its databases were breached and called Cyble’s report about the hack and subsequent ransom “absolutely false”.
+
+“We would like to assure that all user, as well as company data, is completely safe and secure. We have noted and investigated the claims of a possible hack and data breach, and these are absolutely false. We invest heavily in our data security, as you would expect. We also have a Bug Bounty program, under which we reward responsible disclosure of any security risks. We extensively work with the security research community and safely resolve security anomalies.” — Paytm Mall spokesperson
+
+September 2022: Paytm sends cease and desist notice
+
+On September 4, Paytm sent a cease and desist notice to Cyble for publishing a false, “defamatory” and “slander[ous]” report. It further claimed that this piece of “disinformation” has “completely disrupted and terrified” its customers. Paytm asked Cyble to remove the report, publish an apology and notice that the previous report was false, not publish any “defamatory” posts about Paytm, and give Paytm a written undertaking that Cyble will not “indulge” in such activities in future. As of today, the Cyble report is not accessible.
+
+July 26 2022: Firefox starts notifying affected users after Have I Been Pwned confirmed breach
+
+Mozilla Firefox Monitor verified and added the breach to its database on July 26, 2022, and began notifying affected customers shortly thereafter.
+
+When @Paytm was about to inform users about the data breach? Probably NEVER. Nothing will happen to them obviously pic.twitter.com/0vrqxw9VXJ
+
+— Avinash (@avinashiitd) July 27, 2022
+
+Firefox noted that the breach was verified by Have I Been Pwned and the following data of nearly 3.4 million users was compromised:
+
+.⁦ @Paytm ⁩ data breach. That’s an awful lot of my personal info that Paytm has let out. pic.twitter.com/Jg5BDebhLe
+
+— Narayanan Hariharan (NithyaKarma.com) (@narayananh) July 27, 2022
+
+Troy Hunt, the creator of Have I Been Pwned, explained on Twitter that his website confirmed the breach by contacting affected customers who validated the accuracy of the data.
+
+Alrighty, here we go again (30x over…) pic.twitter.com/vihxi2c3BC
+
+— Troy Hunt (@troyhunt) July 26, 2022
+
+That’s 1 of 1 confirmations: pic.twitter.com/9HNJckUZUl
+
+— Troy Hunt (@troyhunt) July 26, 2022
+
+3 of 3. We’re well beyond mere coincidence now. pic.twitter.com/1OaWZAQSKe
+
+— Troy Hunt (@troyhunt) July 26, 2022
+
+As for why it took over two years to notify users of the reach, Firefox explained that “it can sometimes take months or years for credentials exposed in a data breach to appear on the dark web. Breaches get added to our database as soon as they have been discovered and verified.”
+
+July 27, 2022: Paytm denies breach once again
+
+As the affected customers brought up the issue on Twitter, Paytm Mall denied the breach, noting:
+
+Your data is completely safe & claims related to data leak in the year 2020 are completely false. A fake dump uploaded on https://t.co/ViZ88j43em appears to wrongly alert of a data breach on Firefox. We are getting in touch with Firefox and the platform to resolve the matter.
+
+— Paytm❤️ONDC (@PaytmSeONDC) July 27, 2022
+
+July 29, 2022: Have I Been Pwned marks the breach as “fabricated”
+
+“Further investigation into the data concluded that the breach was fabricated and did not originate from Paytm,” Have I Been Pwned noted on its website on July 29. Troy Hunt explained that Paytm’s infosec team reached out to him and they had a chat about the authenticity of the data, after which they “collectively believe it’s fabricated” for the following reasons:
+
+While Hunt said that the data did not come from Paytm, he noted that the data itself is accurate.
+
+So, where did the data *actually* come from? No idea. It may not be one source and might have been aggregated from multiple different sources, but based on the @haveibeenpwned subscriber feedback, that data itself (name, email, phone, etc.) is accurate.
+
+— Troy Hunt (@troyhunt) July 29, 2022
+
+Hunt further remarked that “this becomes just another set of data floating around being exchanged between an untold number of people. It’s not ‘dark web’ stuff either, it’s out there on public forums, just with a misattributed source.”
+
+Some users on Twitter have pointed out that the data could have come from a stock trading platform given the type of data that has been leaked:
+
+The “OCB-*” entries in the “Type of Account” column indicates the data is related to Demat Accounts. (Stock trading/ownership.). So the leak is probably from a stock broker/trading platform. @SEBI_India (market regulator) mandates income declaration too. https://t.co/Prc4Bt3JOr pic.twitter.com/1r9s2ivmlH
+
+— ؜ (@kingslyj) July 29, 2022
+
+As for the reason why some Paytm users were able to verify the data as theirs, Hunt tweeted:
+
+Their explanation for why @haveibeenpwned subscribers would confirm both the accuracy of their data and why they exist in this corpus is that users are likely common across multiple others systems and doesn’t mean the data *originated* from @paytm .
+
+— Troy Hunt (@troyhunt) July 29, 2022
+
+Paytm further submitted that the common users between the leaked data and its users amount to less than 5%. “I obviously have to take them at their word on the internal observations they’ve made, but they ran all the checks I asked for and based on the answers, I’ve now flagged this as ‘fabricated,'” Hunt tweeted.
+
+Separately, Paytm suffered from a data breach back in 2017. Some of the overlapping data could have been obtained from that breach.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

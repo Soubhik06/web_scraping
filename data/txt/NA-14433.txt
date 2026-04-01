@@ -1,0 +1,35 @@
+Download the lawsuit PDF here .
+
+Following the controversy over xAIâs Grok AI â undressing â feature, which allegedly generated child sexual abuse material (CSAM), a class-action lawsuit has been filed in the United States District Court for the Northern District of California on behalf of three unnamed minor girls. The lawsuit claims that Grok morphed their images to create sexually explicit content.
+
+The major claims of the lawsuit are:Â
+
+What counts has the lawsuit been filed under? The lawsuit includes the following counts against xAI:
+
+What relief is the lawsuit seeking? The lawsuit seeks a permanent injunction to stop xAI from generating illegal content. It also seeks damages for emotional distress and reputational harm, along with attorneyâs fees.
+
+Monetary relief sought includes:
+
+Who is liable, the user or the AI model?: “When a user prompts a generative AI model to create an image or video, the model draws upon its training data to create the new content, typically through a process called diffusion. In basic terms, the model iteratively refines visual static to create a coherent image. Each step in this refinement is performed by the model itself, and the user does not direct or control any individual step of this generation process beyond the original prompt .”
+
+Therefore, the lawsuit argues that the generated image is the modelâs own creation: âIt did not exist before the model generated it, and it could not have existed but for the model.â
+
+Is age-gating AI models possible? The lawsuit argues that age-gating is insufficient for image and video generation tools.
+
+Unlike text models, these tools cannot reliably distinguish or constrain age-specific outputs. As a result, the complaint claims that the only effective way to prevent CSAM generation is to prohibit all sexually explicit image and video generation.
+
+What do xAIâs safety guidelines state? The lawsuit references Grokâs Safety Instructions (v8) , including:
+
+Under disallowed content , the guidelines prohibit:
+
+What industry standards and reports are cited?Â
+
+The lawsuit cites several best practices, including:
+
+Regulators and policy professionals would find these guidelines useful and how this court case will progress . In January the Indian government has threatened to remove X’s safe harbour over Grok’s CSAM content . Referenced standards and reports include:
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

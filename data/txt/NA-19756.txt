@@ -1,0 +1,13 @@
+SUBREDDIT: r/india
+TITLE: [NP] How secure is my data with paytm, freecharge and mobikwik?
+DATE: 2016-08-03
+SCORE: 16
+URL: https://www.reddit.com/r/india/comments/4vyj6o/np_how_secure_is_my_data_with_paytm_freecharge/
+
+--- POST TEXT ---
+
+Today I bought 1password and went on changing all my password to 16 digit containing number, capital and symbol. 
+When I tried to change my password on paytm and freecharge they do not allow symbols in password for login. 
+While mobikwik allow to set up password with symbols but does not allow login on my IOS app with same password. 
+So in can case of database breach how secure is my data containing credit card info assuming that database must have easy password based on their password practice for customers. 
+Edit - at least paytm sends OTP for login.

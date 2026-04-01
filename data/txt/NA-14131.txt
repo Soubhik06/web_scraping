@@ -1,0 +1,23 @@
+While India is conducting what is probably the largest census in history, the country’s unique identification authority Aadhaar/UIDAI is working on making that data usable. It has released version one of its Aadhaar Authentication Application Programming Interface (API), which contain API data format, protocol and security specifications. The way it will work is: a user’s Aadhar number, alongwith other data (including biometric information) will be submitted to the Central Identities Data Repository for verification: authentication will only be in the form of a ‘yes’ or no response, and no personal identity will be released.
+
+The first Aadhar numbers would be issued between August 2010 and February 2011, and over five years, the UIDAI intends to issue 600 million UIDs.
+
+Aadhaar will support authentication using multiple factors, including demographic data, biometric data, PIN, OTP, or combinations of these. Initially it will support only exact authentication, though later it is expected to provide fuzzy matching as well. It appears that biometric authentication is going to be a key component of aadhaar authentication – one or many fingerprints and/or iris impressions along with the Aadhaar number, and this will help reduce the need for carrying other data, such as a passport, drivers license or a ration card. For example, a bank account may be opened using both demographic including address and biometric information, but after verification, once the bank account is opened, bank may use only the aadhaar number and biometric combinations to authenticate the resident for daily transactions.
+
+Biometric Barrier & Other Issues
+
+Now it may not be possible to scan and deliver biometric information in case of online and mobile transactions, so biometric information should clearly not be a compulsory pre-requisite for authentication for Aadhaar, for it to be applicable to most digital services; a biometric pre-requisite for authentication will make it dependent on physical devices.
+
+Also, not that given issues with authentication for payments, particularly as reported for the National Rural Employment Guarantee Scheme (NREGS), India is quite open to the concept of a national ID card. Unlike in case of the UK, where the scheme was terminated, and criticism of the cards ranged from an impingement of civil liberties and surveillance, the high cost of implementation, racial discrimination; identity theft is likely to be a big issue in India, where the risks related to the Aadhaar number may not be understood by many, particularly in Rural India. There have been reports of identity theft in the NREGS, and Aadhaar might serve only to legitimise it.
+
+Download: – Aadhaar authentication API specifications . (pdf) – Aadhaar biometric APIs
+
+UIDAI: – UIDAI Strategy Overview (pdf) – The Demographic Data Standards and verification procedure Committee Report (pdf) – The Biometrics Standards Committee Report (pdf) – From Exclusion to Inclusion with Micropayments (pdf) – AADHAAR-Communicating to a billion : An Awareness and Communication (pdf) – Demographic Data Standards
+
+Read: UID in UK – UK’s National Identification Plan (Wikipedia) – ‘Why I love my ID card’ – Identity Cards will be axed within 100 days
+
+India’s UID – India’s Unique ID Project Will Open Its API, Needs Connectivity – Nandan Nilekani – #UID: 12 Parameters For India’s National ID; Audit Trail; Pilot – Indian Government Constitutes Panel For National ID Project
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

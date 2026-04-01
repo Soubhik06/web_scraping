@@ -1,0 +1,19 @@
+Ten members of a gang that was counterfeiting Aadhaar Cards were been arrested by the police in Uttar Pradesh, reports NDTV. The gang was led by Saurabh Singh from Kanpur. We couldn’t find a note on this on the UP Police website or twitter handle.
+
+According to a note we’ve seen ( the same as this ), albeit unvalidated, the group had used biometric devices to get the fingerprint of authorised operators. They printed this scanned fingerprint on butter paper, and used UV rays on a photo polymer resin – first at 10 degrees temperature, then at 40 degrees – to create an artificial fingerprint similar to the original. They used this log into the Aadhaar website. The note also mentions that although the UIDAI also mandates iris scan for login, the group bypassed iris (retina) based authentication by using a tampered client application. Apparently, they were selling this application to others for Rs 5000. A single login was able to work on multiple machines, and create fake Aadhaar cards. The note also mentions that Registrars, Enrollment Agencies Supervisors, verifiers, and operators haven’t implemented new security policies instituted by the UIDAI.
+
+A few points to note:
+
+1. Biometrics aren’t only held by the CIDR: the UIDAI has been saying that the data base which holds Aadhaar information (CIDR: Central Identities Database Repository) is secure and data hasn’t leaked from it. The biometric information is safe, is something that has been specified repeatedly. But the truth is that the biometrics can be leaked from the source too: from people. We’re leaking fingerprints all the time: I’m currently typing on a keyboard. Detective stories point towards fingerprints taken from glasses of water. We’re leaking this data, and it can be cloned . Because it’s meant to be an irrefutable password that you cannot change, and because lots different services are being connected to it, fingerprints will be cloned . They have even been cloned from photographs . Users will be left compromised forever.
+
+2. Creating a policy isn’t the same as implementing it: The UIDAI may have an updated process to ensure that only authorised agents can log in for Aadhaar enrollment, but that doesn’t mean that the process will be followed.
+
+3. This problem will scale as Aadhaar scales: eKYC and the usage of Aadhaar for authenticating multiple services only expands the problem. As more end nodes get created with more services being linked to Aadhaar, the risks will increase.
+
+4. Fingerprint authentication doesn’t necessarily prevent corruption: Fingerprints were meant to provide the irrefutable proof of presence of an individual when claiming rations/payment for work done under NREGA. Clearly, they can be cloned, and do not provide proof of authorisation.
+
+5. How do you prove that you didn’t authenticate something? Imagine if fingerprints and/or aadhaar are used to withdraw money from bank accounts in the future. How does one prove that they didn’t authenticate the transaction?
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

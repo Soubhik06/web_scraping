@@ -1,0 +1,35 @@
+The government’s new toll payment rule, charging non-FASTag users 1.25 times the fee for UPI payments versus two times for cash, raises a lot of questions. The first and perhaps the most important point to observe here is that both the National Electronic Toll Collection’s (NETC) FASTag and UPI fall under the NPCI (National Payments Corporation of India) umbrella.
+
+This makes one wonder: if both systems run on NPCI rails, shouldn’t the government’s focus here be to encourage more people to use FASTag (the system which it intends to use for toll payments) and make that system consistently better, rather than incentivising UPI as a digital payment backup?
+
+Based on the ecosystem data that NCPI releases, there have been no incidents with FASTag anytime between January and August 2025. Moreover, data reflects that banks like IDFC First Bank, ICICI Bank, and the State Bank of India (SBI) are processing millions of FASTag transactions.
+
+These figures suggest that the issues with FASTag are not systemic problems, but rather perhaps operational issues that the government needs to crack down on. Interestingly, the National Highway Authority of India (NHAI) fined toll operators for wrongful FASTag deductions in at least 250 different cases, as per a Times of India report in March this year.
+
+Non-FASTag users will be charged 1.25 times the toll fee for UPI payments, the government said in the National Highways Fee (Determination of Rates and Collection) (Third Amendment) Rules, 2025.
+
+For context, under the National Highways Fees (Determination of Rates and Connection) Rules, 2008, the government charges users who enter a toll fee plaza without a valid functional FASTag twice the applicable fee. So, for instance, if a car driver has to pay a toll of Rs 100 via FASTag, the cash-based fee would be Rs 200 if their FASTag didn’t work or they did not have one.
+
+However, with the new amendment in place, non-FASTag users will only have to pay Rs 125 if they make toll payments via UPI. This means that it would be 37.5% cheaper for non-FASTag users to pay toll fees via UPI compared to cash.
+
+In a press release about the notification, the government explained that with this amendment, it wants to “strengthen [the] fee collection process, enhance transparency in toll collection, and promote ease of commuting for the National Highway users”. Further, it argued that the revised rules will encourage the adoption of digital payments.
+
+The notification comes into effect starting November 15, 2025, specifying that the government will issue receipts for people who pay toll fees via UPI, specifying the date and time of receipt of the fee, total amount received, and the class of vehicle for which the fee has been received.
+
+In August this year , the FASTag had a transaction volume of 381.96 million, with the total value of monthly transactions amounting to Rs 7,052.91 crore. The system had no unscheduled downtime and no incidents that led to any system issues.
+
+Across banks, IDFC First Bank appears to be leading as an issuer bank in terms of total transaction volumes, followed by ICICI Bank and SBI.
+
+Source: National Payments Corporation of India. Digital Payments and Transactions: Year-, Month- and Bank-wise Volume of NETC FASTag Transactions [Data set]. Dataful. https://dataful.in/datasets/18246
+
+On the UPI side, it is unclear whether people who did not have functioning FASTags have already used them to pay toll fees.
+
+Based on the merchant category classification of UPI payments that the NPCI has recently started releasing, toll payments are not separately listed as a merchant category.
+
+These transactions could potentially fit into the “Government Services Not Elsewhere Classified” category, which is a part of the medium transacting UPI category. This category had 107.75 million transactions in August 2025, and these transactions had a total value of Rs 10,589.67 crore.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

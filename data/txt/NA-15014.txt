@@ -1,0 +1,21 @@
+We missed this earlier: The Unique Identification Authority of India on May 20 put out a draft “Aadhaar (Authentication and Offline Verification) Regulations, 2021,” for public comment on its website. The draft is out for comment until just June 2, giving people hardly two weeks to respond. The Software Freedom Law Center, India urged the UIDAI to reconsider the deadline. We have reached out to a UIDAI spokesperson for comment on if they’d consider an extension, and will update this post if we hear back.
+
+The draft regulations, available here , include references to something called Aadhaar Number Capture Service Tokens or ANCS Tokens, which Aadhaar watcher Srikanth Lakshmanan said resembles OAuth, an authentication standard used on many websites. Lakshmanan also noted that in a first for the government, offline authentication of Aadhaar was being recognized.
+
+Any AUA or eKYC User Agency (KUA) that was appointed before these regulations come into force will continue to be considered a Requesting Entity. They will, though, have to comply with the new regulations.
+
+Authentication Service Agencies largely have to comply with the same requirements. Offline verifiers have the option of maintaining logs (with the consent of the Aadhaar holder) that contain non-sensitive information.
+
+Discontinuation of Aadhaar requester entity status can be obtained if UIDAI is satisfied that all outstanding monetary and procedural obligations are in the clear. It may also be meted out as a penalty for non-compliance.
+
+UIDAI says it will store authentication request data, response data, and any server-side configurations. The regulations say it will not store any “metadata (other than process metadata) about any transaction”. Auth transaction data will be stored for 6 months, and UIDAI says it will come up with processes to archive and anonymize data for further storage. Data may be preserved if ordered by a high court judge.
+
+Aadhaar holders can access their authentication data by paying a fee (to be prescribed) by the UIDAI. But this data would only be available within the retention period.
+
+Most regulations before this will continue to be in force. “Notwithstanding the repeal of the Aadhaar (Authentication) Regulations, 2016, anything done or any action taken under the said Regulations shall be deemed to have been done or taken under the corresponding provisions of these Regulations,” the draft says. These regulations supersede the 2016 ones.
+
+Also read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

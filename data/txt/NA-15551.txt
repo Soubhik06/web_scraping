@@ -1,0 +1,47 @@
+On March 27 evening, software engineer Nandan Kumar landed in Bengaluru and made his way home. But upon reaching home, his wife pointed out that he got the wrong bag. “My bag got exchanged with another passenger. An honest mistake from both our ends. As the bags [are] exactly the same with some minor differences,” Kumar said. So, Kumar did what anyone in his situation would do and reached out to Indigo to help him connect with his co-passenger and get his bag back. But after waiting and failing to get the help he needed, Kumar took matters into his own hands. That’s when he stumbled upon a data leak on Indigo’s website that allowed him to contact his co-passenger. Indigo defended itself by saying that it was not a data leak and Kumar was able to find the mobile number of the co-passenger due to a “norm practised across all airline systems globally.” But does a practice become right just because it is a common practice?
+
+Kumar shared his full story on Twitter (which is an entertaining read ), but to cut to the chase, he was able to obtain the contact details of the passenger who had his bag by using the PNR and last name he found on the bag with him.
+
+But it wasn’t as simple as it sounds because Kumar wasn’t able to use the “Edit Booking” page on Indigo’s site to access the passenger’s details. “Some people say, the email and number are shown on the screen, but in this case, I was not shown them. Now, I don’t know what kind of logic they use behind the scene. I think if you subscribe to WhatsApp update or something then the mobile number is shown on the screen. But I’m not sure,” Kumar told MediaNama.
+
+Instead, he had to rely on his software engineering skills to do the check-in flow with network log on, and amidst the trove of data that the server responded with, was the passenger’s mobile number and email address.
+
+And there in one of the network responses was the phone number and email I’d of my co-passenger.
+
+Ah this was my low-key hacker moment 😇😇 and the ray of hope.
+
+I made note of the details and decided to call the person and try to get the bags swapped. #dev #dataleak #bug pic.twitter.com/9l4pmNDk6V
+
+— Nandan kumar (@_sirius93_) March 28, 2022
+
+While Kumar was able to gain access to the mobile number and email address of the passenger, that’s not all. In a screenshot Kumar shared with MediaNama (shown below), we were able to verify that the Indigo servers responded with the complete address of the passenger as well as alternate contact numbers if any.
+
+“Any passenger can retrieve their booking details using PNR, last name, contact number, or email address from the website. This is the norm practised across all airline systems globally,” the airline stated in a tweet responding to the issue pointed out by Kumar.
+
+Indigo also said that it remains “fully committed to consumer data privacy and industry benchmark cybersecurity standards” and that its “IT processes are completely robust and, at no point was the IndiGo website compromised.”
+
+MediaNama has reached out to Indigo with additional queries and will update this post once we get a response.
+
+It’s true that almost all airlines allow you to get details of any passenger by entering their PNR and last name/mobile/email address. And in most cases, you don’t even have to go through the complicated process of using network logs to get these details. This is what allows passengers to conveniently web check-in, select dates, change contact information, change flight details, etc. But asserting that there is nothing wrong with this practice just because everyone does it is a logical fallacy known as Argumentum ad Populum or more commonly, the bandwagon fallacy. In other words, the fallacy is thinking something is true or better because the majority thinks so. After all, at one point in time, most people thought the earth was flat!
+
+“Whatever has been happening has for a very long time, but times have changed now. Now, is the era of data. You have to work on making the data as secure as possible. You cannot be as casual as you have been so far,” Kumar told MediaNama.
+
+Getting access to someone’s PNR and last name is not a complicated or hard task. For example, a passenger standing in front of you while boarding a flight is most likely holding their boarding pass, which has both these details prominently displayed. You can also just as easily take a photo of the information stickers on the bags while waiting at the baggage belt.
+
+“When the manager from Indigo called me, I gave him a very simple example. Let’s say I am Bill Gates and I am travelling by your flight. Now I have my boarding pass in my hand and someone is standing behind me. Now that person takes note of the PNR and goes back and gets my complete contact details such as phone number, email, and address,” Kumar said. While it is unlikely that Bill Gates is travelling on a commercial airline, the example nevertheless highlights the privacy-invasive nature of this data leak, especially for prominent personalities. It can also be an equally, if not more, serious concern when it comes to stalking because a stalker can easily misuse this feature to track down their victim.
+
+We also recently did a story on how hackers are increasingly relying on social engineering to target their victims. When sensitive personal data is so easily obtainable, the hackers’ job becomes so much easier.
+
+Update (30 March, 7:50 pm):
+
+In an emailed response, Indigo said:
+
+“We are reviewing this case in detail and we would like to state that our IT processes are completely robust and, at no point was the IndiGo website compromised. Our customer care team followed protocol by not sharing any other passenger’s contact details with another passenger. This is in line with our data privacy policies. Attempts were made by the customer care team to facilitate the exchange of baggage, but it could not be completed as the calls went unanswered. IndiGo remains fully committed to consumer data privacy and industry benchmark cybersecurity standards.”
+
+Also Read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

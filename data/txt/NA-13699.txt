@@ -1,0 +1,27 @@
+The Securities and Exchange Board of India (SEBI) has proposed the creation of unique UPI addresses for market intermediaries enabling investors to identify “legitimate” SEBI-registered market entities.
+
+In its circular on “Safe and Efficient Transfers on UPI”, the body suggested using an alphanumeric ID for the intermediary’s username followed by an abbreviation representing their segment, like “abc.bkr”, for brokerage business. The UPI handle would also contain a unique, “easily relatable” identifier linked to the registered intermediary’s bank. For example, a broker will use the handle name “@payright” with the bank name, generating a complete handle as “abc.bkr@payrighthdfc”.
+
+The public can submit comments for this proposal by February 21, 2025, here .
+
+SEBI introduced UPI as a payment mode in the securities market in 2019 after floating the idea in 2018 as an alternative payment option for purchasing shares in an IPO. This development follows SEBI’s claims that unregistered entities are misleading investors and siphoning off funds for personal gain.
+
+The market regulator identified the following process for the issuance of new UPI handles:
+
+Besides this, when verified registered market entities receive payments, a special green thumbs-up icon will appear.
+
+SEBI also proposed an increase in the upper limit of capital market transactions done through UPI to Rs 5 lakh per day, up from Rs 2 lakh per day. This proposal followed an analysis of UPI transactions by the clients of top brokers including investor fund transfer patterns and trends in the number of clients regarding the fund transfer during the day. SEBI concluded that individual transactions below Rs 1 lakh formed 92.9%, while those between Rs 1 lakh and Rs 2 lakh comprised 3.9%, and those between Rs 2 lakh to Rs 3 lakh constituted 1.3% of the total transactions. The limit will be evaluated periodically in consultation with the NPCI.
+
+This development is especially significant considering the average ticket size (transaction value) for debt-oriented schemes was Rs 14.53 lakh as per the 2023 data published by the Association of Mutual Funds India.
+
+In its consultation paper, SEBI also outlined the responsibilities of various entities as follows:
+
+Banks must issue UPI IDs after a verification process including the opening of the utility, generation of username, and generation of UPI handle as outlined by SEBI. Further, they should also obtain API access. Banks must also comply with the specific procedure for issuing new UPI handles as outlined previously.
+
+These entities must conduct similar investor awareness programs as defined for investor-facing intermediaries and create standard template-based communications like one-liner SMS, email communications, and FAQs for investors on their respective websites. SEBI provided the following as an example for the template: “We got a new UPI handle <<New UPI ID>>.”
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

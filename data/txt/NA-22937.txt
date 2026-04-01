@@ -1,0 +1,18 @@
+SUBREDDIT: r/LegalAdviceIndia
+TITLE: Can I take legal action against my university for exposing sensitive personal data due to poor security?
+DATE: 2024-11-19
+SCORE: 1
+URL: https://www.reddit.com/r/LegalAdviceIndia/comments/1guqp6z/can_i_take_legal_action_against_my_university_for/
+
+--- POST TEXT ---
+
+Hi there, 
+ 
+Last year, I completed my studies in an Indian university. I just found that the university's online grade card system has a serious security flaw. 
+ 
+The system is having trouble. All you need is a random pattern generator to create a pattern that follows the university register numbers, making it simple to obtain the student data. In fact, I can even have ChatGPT write a script to scrape it and allow it to be deployed in multiple clusters. You don't even need to know how to access their server, database, or anything of that sort. In addition, anyone can examine personal information including email, phone number, address, and Aadhaar. Anyone who sends a simple request, like regno=, can receive a PDF of the grade card. This shows important information without sufficient validation. 
+ 
+This is really concerning. The university previously experienced a data breach and were in the news and yet they are using weak it can't be even called security to be honest. Thousands of students' personal information was made public. Now, my private data as well as all the other students data are also at danger .There are phd programme's for computer science being taught at the university. It has cryptography a subject as well. However, their security is inadequate. This is quite concerning. 
+ 
+ 
+I'm thinking of doing something about it like legal actions I lack basic knowledge on legal procedures and stuff, and i would also like to create a video regarding this. I want to know if i will get in to any sorts of trouble.

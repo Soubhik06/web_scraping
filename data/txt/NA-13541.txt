@@ -1,0 +1,23 @@
+A hacker operating under the name “dawnofdevil” leaked a database allegedly belonging to the internet service provider Hathway on January 2. The hacker mentioned that Hathway suffered the data breach in December 2023, revealing the names, email addresses, phone numbers, and physical addresses of over 41.5 million customers with the total compromised data being over 200 GB. They said that the data breach resulted from a vulnerability in the company’s Laravel framework application— a free web application framework used for the development of web applications.
+
+According to Hack Read’s analysis , the actual number of accounts in the leaked database is 35 million of which a majority are duplicates and dummy accounts bringing down the number of affected accounts to 4 million. The hacker previously made attempts to sell the data but when that didn’t work. They then created a dark web search engine for the victims of this data breach to find out whether their data was involved in the leak.
+
+🚨Hathway Allegedly Breached: Data of 41.5 Million Customers Compromised🚨
+
+A threat actor claims to have compromised Hathway, one of India’s largest ISP providers.
+
+According to the cybercriminal, identified as “dawnofdevil” on a well-known cyber criminal forum, the company… pic.twitter.com/WXOj2FlXIs
+
+— HackManac (@H4ckManac) January 3, 2024
+
+It is unclear whether Hathway’s database was breached or not since the company has not publicly confirmed or denied it. We have also reached out (24 hours ago, at the time of publishing) to the company to confirm the news but they have yet to respond.
+
+Notably, dawnofdevil has previously claimed to have access to the data of Indradhanush Gas Grid Limited (IGGL) and the National Narcotics Coordination Portal . They have also posted on the data breach discussion portal BreachForum selling network access to incometax.gov.in. There have been no confirmations of any of these data breaches.
+
+According to the monthly telecom subscription rolled out by the Telecom Regulatory Authority of India (TRAI), between January and September 2023 , Hathway consistently ranked among the top five companies with the highest wired broadband connections with 1.12 million subscribers. If the breach is real, Hathway customers run the risk of being susceptible to scams and identity theft.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

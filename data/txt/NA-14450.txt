@@ -1,0 +1,63 @@
+Google’s Threat Analysis Group (TAG) revealed that it has observed “activity from a range of threat actors” belonging to Russia and Belarus targeting Ukraine in the last two weeks, according to a blog post by the group. The threat actors were found to have engaged in activities such as espionage and phishing, the post added.
+
+New TAG blog outlining what we are seeing with cyberattacks in Ukraine. Details of activity from APT28, GhostWriter, Mustang Panda and DDoS activity.
+
+Thanks everyone in TAG, Google and the wider security community working to counter these threats. https://t.co/0tkPVh3vCk
+
+— Shane Huntley (@ShaneHuntley) March 7, 2022
+
+TAG said that it has issued hundreds of attack warnings to Ukrainian users in the last 12 months. The warnings intimate users that they were a target of government-backed hacking emanating out of Russia primarily.
+
+Russia said that it does not use hackers to go after its enemies, Reuters reported. However, TAG’s blog post demonstrates that Russia has sustained its cyber attacks against Ukraine. But it did not reveal whether any attacks had been successful.
+
+The Russian invasion of Ukraine shows that conflicts have become multi-dimensional with the digital sphere playing a critical role in destabilising opponents. The conflict underscores the importance of cybersecurity especially for Ukrainians because government agencies, newspapers, and public service providers depend on the internet to safely communicate and carry out other functions.
+
+Cisco defines phishing as the practice of sending fraudulent communications such as emails that appear to come from a reputable source. The aim is to steal sensitive data like credit card and login information, or to install malware on the target’s machine.
+
+The post identified three groups who are conducting cyber attacks that primarily rely on phishing tactics:
+
+Affiliated to the Russia GRU— Russian military intelligence agency, the hacking unit also known as APT28 has conducted several large phishing campaigns targeting users of a Ukrainian media company— UkrNet.
+
+“The phishing emails are sent from a large number of compromised accounts (non-Gmail/Google), and include links to attacker controlled domains,” read the blog, adding that the attackers used newly-created Blogspot domains as the initial landing page, which then redirected targets to pages which stole their credentials.
+
+Here are the domains identified by TAG through monitoring:
+
+The domains have been taken down as per the blog post.
+
+It is a Belarusian group, which is also known as UNC1151, found to be behind phishing campaigns conducted in the past week against Polish and Ukrainian government and military organisations, as per TAG.
+
+These are some of the domains used in the campaigns targeting webmail users:
+
+TAG clarified that the phishing domains have been blocked through Google Safe Browsing . It is a service that identifies unsafe websites across the web and notifies users and website owners of potential harm, TAG explained.
+
+It is a China-based hacking group, which also carries the moniker of Temp.Hex, responsible for targeting European entities by tricking them with content related to the invasion of Ukraine. TAG identified malicious attachments with file names such as ‘ Situation at the EU borders with Ukraine.zip ‘.
+
+The examination revealed that the zip file contained a file with a programme of the same name that is a basic downloader. The programme, when executed, will download several additional files that deliver the final blow.
+
+The company revealed that it had alerted authorities of its findings. It also added that Mustang Panda has shifted its focus away from Southeast Asian targets.
+
+“We continue to see DDoS attempts against numerous Ukraine sites, including the Ministry of Foreign Affairs, Ministry of Internal Affairs, as well as services like Liveuamap that are designed to help people find information,” TAG said in the post.
+
+TAG said that it is expanding eligibility for Project Shield , its protection tool against DDoS attacks.The company hopes that the tool will help Ukrainian government websites, embassies worldwide and other governments stay online and protect themselves from such attacks.
+
+A DD0S or distributed denial-of-service attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of internet traffic, as per Cloudflare .
+
+TAG’s tool allows Google to “absorb the bad traffic in a DDoS attack and act as a ‘shield’ for websites, allowing them to continue operating and defend against these attacks”. More than 150 websites in Ukraine are using this service, TAG said, which includes many news organisations.
+
+Ukraine was a target of cyber attacks a day before the invasion wherein its organisations were subject to a form of disk-wiping malware called Hermetic Wiper . It affected websites of Ukrainian banks and government departments which became inaccessible, as disclosed by cybersecurity and antivirus companies Symantec and ESET.
+
+“HermeticWiper misused legitimate drivers of popular disk management software. The wiper abuses legitimate drivers from the EaseUS Partition Master software in order to corrupt data.” — ESET
+
+How did Hermetic Wiper gain access? Apart from misusing legitimate drivers of popular disk management software such as EaseUS Partition Master, the hackers used a genuine code-signing certificate issued to a Cyprus-based company called Hermetica Digital Ltd. According to Digicert , code-signing certificates are used by software developers to digitally sign applications, drivers, executables, and software programs as a way for end-users to verify that the code they receive has not been altered or compromised by a third party.
+
+How does it work? “The malware will drop the corresponding file according to the operating system (OS) version of the infected system,” Symantec said.
+
+What happens after the Hermetic Wiper infects the system? Once run, Symantec said that the wiper damages the Master Boot Record (MBR) of the infected computer, rendering it inoperable. “The wiper does not appear to have any additional functionality beyond its destructive capabilities,” it added. The MBR is the first sector on a hard disk that contains the partition table which holds information on the number of partitions, their size, and the operating system used to boot the machine, according to Kaspersky.
+
+Also Read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

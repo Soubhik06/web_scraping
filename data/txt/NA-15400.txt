@@ -1,0 +1,25 @@
+NASSCOM and DSCI (Data Security Council of India) have proposed that law enforcement agencies should only be allowed to decrypt data on the device that is already with them and not remotely access/decrypt other encrypted information. This will, their new discussion paper argues, form the basis for “formulating a strong legal mechanism that could restrict LEA to access information only in legitimate cases”. The paper believes that this will satisfy the needs of the law enforcement agencies and address concerns of mass surveillance that have been raised by privacy advocates.
+
+A strong encryption policy framework needs to address two concerns, as per the report, “state interception of information, and the citizen’s right to privacy and data protection”. NASSCOM-DSCI are inviting comments and responses to the discussion paper until September 30, 2020 at [email protected] .
+
+The report has been prepared by NASSCOM and DSCI with research by and inputs from Quantum Hub Consulting.
+
+The paper has asked several important questions related to encryption and the kind of measures that can be taken to check government surveillance:
+
+MediaNama comment: It is interesting that this discussion paper does not talk about the National Cyber Security Strategy which is also expected to be notified this year. The report mentions the Supreme Court petition by Centre for Accountability and Systemic Change (CASC) that has sought localisation of financial data of WhatsApp as well as appointment of a grievance officer within India. It is not clear how this petition, instead of the WhatsApp traceability case, “renewed interest in the debate surrounding encryption methods deployed by communication and social media platforms, and the feasibility of intercepting, or determining the originator of information, without decryption”.
+
+There are five types of laws and regulations related to encryption that the paper has identified that deal with:
+
+Both GDPR and PDP Bill recognise de-identification and encryption as necessary security safeguards.
+
+The report concludes that the Interception Rules under the IT Act mean that “there is no obligation [for the intermediary] to provide decryption, unless and until the intermediary itself is the holder of the decryption key”. Since that then inhibits the law enforcement agencies’ ability to get access to the encrypted communications, MEITY proposed the Intermediary Guidelines (Amendment) Rules, 2018 whose Rule 3(5) states:
+
+“When required by lawful order, the intermediary shall, within 72 hours of communication, provide such information or assistance as asked for by any government agency or assistance concerning security of the State or cyber security; or investigation or detection or prosecution or prevention of offence(s); protective or cyber security and matters connected with or incidental thereto. Any such request can be made in writing or through electronic means stating clearly the purpose of seeking such information or any such assistance. The intermediary shall enable tracing out of such originator of information on its platform as may be required by government agencies who are legally authorised.”
+
+As per the report, this means that intermediaries would be required to “enable tracing of originator, and provide any and all assistance sought for by an authorised Government agency”. The report reads it as an obligation for “all intermediaries to enable tracing of originators, irrespective of the intermediary’s ability to enable the same”. This rule has faced significant pushback from companies such as WhatsApp that use end-to-end encryption.
+
+Read more:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

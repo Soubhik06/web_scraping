@@ -1,0 +1,39 @@
+The Telecom Regulatory Authority of India (TRAI) recommends that Calling Name Presentation (CNAP) Supplementary Service should be introduced in the country’s telecommunication network and that all telcos should provide this service to their customers upon the customer’s request. CNAP is a supplementary service offered to the called party which provides the name information associated with the calling party. Essentially, if you get a call from an unknown number, CNAP will show you the name attached to that number based on the information given by the caller in their application for a SIM card.
+
+TRAI first discussed the idea of implementing a CNAP service in a 2022 consultation paper , suggesting that it could be a solution to spam calls from unregistered telemarketers. It said that users have been forced to miss genuine calls in the absence of calling party name presentation facility because they prefer not to attend calls from unknown telephone numbers. The regulatory body noted that apps that run on smartphones (spam-detecting apps like Truecaller) do not meet the identification requirement because they are based on crowd-sourced data which is not reliable in many instances.
+
+While curbing spam might seem like a worthy cause, it is important to look at CNAP in the context of the Puttaswamy judgment and consider whether it is a proportionate decision to violate all telecom users’ privacy to curb spam. Stakeholders have also previously questioned the need to identify all callers when there’s only a small subset of callers that are fraudulent or spam in nature.
+
+Create a mechanism for changed names:
+
+This should be done to accommodate those telco customers whose legal names were changed since submitting their application for a SIM. The amendment to a legal name should only be done based on the explicit request of the customer provided that such a request is supported by verifiable identity documents issued by the government. In this context, the Department of Telecommunications (DoT) should issue guidelines to telcos. Such guidelines should consider any possible misuse of a name change by bad actors.
+
+On implementation of CNAP:
+
+TRAI points out that the Indian telecom network is based on circuit-switched (CS) core and as such, CNAP should be implemented as follows:
+
+Once the circuit switch cores are phased out, the CNAP supplementary service should be implemented as follows:
+
+Before CNAP service is implemented on a pan-India basis, a trial and assessment should be conducted in one licensed service area (LSA) with the subscriber base of each telco in the LSA.
+
+Making CNAP available on devices:
+
+TRAI says that once the recommendations are accepted, the Government should issue instructions to make the feature available on all devices sold in India after a particular cut-off date. It suggests that this cut-off date could be six months from the issuance of the date of notification on the instructions.
+
+Instructions for telemarketers:
+
+In the case of calls originating from numbers allocated to telemarketers, the name of the calling entity should be presented to the called party. The telecom customers holding bulk connections should be given the facility of presenting their ‘preferred name’ in place of the name appearing in their application form. This preferred name could be trademark name registered with the Ministry of Corporate Affairs, or a ‘trade name’ registered with the GST (goods and services tax) Council, or any other unique name registered with the Government. The DoT should formulate guidelines for documents to be provided by those entities holding bulk connections for registering their preferred name with telcos.
+
+Additions to the Unified License:
+
+CNAP and CNAM should be added to the unified license that telecom companies must apply for. The license must also state that telcos would have to ensure that CNAP will be provided as per the guidelines issued by DoT.
+
+Note: You can read stakeholder comments on the CNAP consultation here .
+
+Also read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

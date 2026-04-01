@@ -1,0 +1,27 @@
+A suspected Chinese hacker group was allegedly behind the infamous ransomware attack on the All India Institute of Medical Sciences (AIIMS), revealed a joint report by cybersecurity firms Recorded Future and Sentinel Labs. The same group also targeted an unspecified aviation organisation in India. The report also suggested that the ransomware attacks may have been used to cover cyberespionage operations. The report identified the group as an Advanced Persistent Threat (APT) called ChamelGang which is possibly also responsible for attacks on other global targets, including the Presidency of Brazil.
+
+AIIMS was hit with a debilitating ransomware attack on 23 November 2022 that locked the instituteâs servers, preventing crucial hospital operations from being carried out. The attack affected a total of five servers and led to the encryption of 1.3 terabytes of data, with reports stating that a 200 crore ransom was asked.Â
+
+A later evaluation carried out by the Indian Computer Emergency Response Team (CERT-In) found that AIIMS servers were compromised by unknown threat actors due to âimproper network segmentationâ. While the government did not directly attribute the attack to any specific entity, IT Minister Rajeev Chandrashekhar claimed that the attack was a âconspiracyâ and planned by forces that were âsignificant.â
+
+The Sentinel Labs report identifies the specific ransomware used in the AIIMS incident as âCatBâ and states, âCatB is typically deployed using DLL hijacking into the msdtc.exe process, a known ChamelGang practice.âÂ
+
+The identification was done based on data gathered from police reports and publicly available information, which included two contact email addresses, the filename extension of encrypted files and a portion of the ransom note. âThe format of the contact email addresses, the filename extension of encrypted files, and the content and placement of the observed ransom note are consistent with the characteristics of CatB ransomware. This made us suspect that the AIIMS had been targeted using ChamelGangâs CatB ransomware,â explains the report.
+
+The report describes ChamelGang as a âpersistent player in the global cyber espionage scene,â that operates in regions of strategic interest to China like South Asia. It represents a growing trend of ransomware attacks being used during cyber espionage operations, blurring the lines between cybercrime and espionage.
+
+âThe healthcare and aviation sectors are prime targets for the theft of PII data. Adversaries can exploit this data for intelligence purposes, facilitate additional attacks, or extort individuals and organizations for financial gain,â says the report . Ransomware operations benefit APTs operationally as well, as they can help criminals hide their tracks by destroying intrusion and attribution-relevant artefacts in addition to interfering with systems. Moreover, responders usually focus on the recovery of encrypted data, possibly allowing for further malicious activities to go unnoticed. Adversarial countries are also afforded plausible deniability in such cases, as they can blame independent cyber criminals instead of state-sponsored cyber-spies. âMisattributing cyberespionage activities as cybercriminal operations can result in strategic repercussions, especially in the context of attacks on government or critical infrastructure organizations,â points out the report.
+
+ChamelGang was also most likely responsible for an attack on an unspecified aviation organisation in India, the Presidency of Brazil and another unspecified government organisation in East Asia. The report also identified another cluster of activity affecting US manufacturing, possibly linked to other Chinese and North Korean groups.
+
+State-sponsored cyber espionage operations are fairly common, with a Blackberry report last month revealing Pakistani spying attempts targeting the Indian defence industry. The group, called Transparent Tribe, mainly targeted clients of the Department of Defense Production (DDP), specifically those in the aerospace sector, through phishing emails.Â
+
+This is also not the first time the Chinese government has been accused of sponsoring cyber espionage campaigns against other nations. Just this month, Dutch intelligence agencies found a global cyber espionage campaign originating from China affected 20,000 devices worldwide.
+
+In February this year, leaked documents revealed hacking groups backed by the Chinese government were behind cyberattacks against various nations, including India. Similarly, a 2023 cyberattack on Microsoft that compromised the inboxes of many American officials was also attributed to China, leading to the Department of Homeland Security criticising the tech companyâs security practices.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

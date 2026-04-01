@@ -1,0 +1,23 @@
+The National Payments Corporation of India (NPCI) has prescribed a reduction in the response time of UPI transactions effective from June 16, 2025. As per a circular dated April 26, the entity has significantly brought down the response time of various UPI APIs to enhance customer experience.
+
+The new response times are as follows:
+
+The NPCI also directed payment service providers (PSPs) and other member banks to update necessary changes to accommodate the responses within the revised time limits. However, it cautioned against the changes impacting the technical decline (TD) threshold. Technical Decline arises from technical failures like connectivity issues, switch unavailability, and incorrect message data elements, among others.
+
+Besides these directions, the NPCI, in another circular, prescribed changes to its beneficiary name verification and display process during UPI transactions. With these changes, the corporation aims to boost customer confidence in money transfers to the correct beneficiary and avoid potential risks. Firstly, UPI applications should display only the ultimate beneficiary’s name to the user on the pre-transaction details page. Additionally, the NPCI prohibited the display of names extracted from QR codes, user-defined names of the payee, or any other logic within UPI apps.
+
+Secondly, UPI apps should disable any feature that allows users to change their beneficiary name for transaction purposes within the app interface. Members should adopt these initiatives by June 30, 2025.
+
+These directions come in the wake of four outages in the UPI ecosystem from March to May 2025. While the NPCI initially attributed the outages to “ intermittent technical issues “, it later identified the excessive and repetitive use of check transaction status requests by PSP banks as the root cause. Accordingly, the corporation issued new directions to limit this API and other usage of other APIs.
+
+The outages are significant considering the high volumes amassed by UPI transactions and its generally high uptake. To explain, the UPI ecosystem recorded a transaction volume of 18.67 billion and a value of Rs 25.14 lakh crore in May 2025, according to NPCI’s statistics. This represented a 33% increase in volume and a 23% rise in transactions’ value from May 2024. Furthermore, as per the Reserve Bank of India’s (RBI) Annual Report 2024-25, UPI volumes surged 41.7% and transactions’ value increased 30.3% from the previous fiscal year. Notably, UPI accounted for 84% of the total transactions processed in India’s retail payment systems in FY25. Interestingly, a likely driver of UPI adoption among merchants could be the zero Merchant Discount Rate (MDR) on UPI and RuPay debit cards, unlike the 2% MDR on credit cards.
+
+However, with the rise in such transactions, fraud has also grown. For context, fraud in UPI transactions rose by 85% in FY 2023-24 in comparison to the previous fiscal year, as per data shared in the Lok Sabha. Accordingly, this could also be categorised as the reason behind trust deficits concerning UPI usage among the public.
+
+In a different vein, these developments accompany indications about the Government reinstating MDR on UPI transactions above a certain amount. However, the Finance Ministry has promptly dismissed these claims, terming them “baseless speculations”. Recently, the Union Cabinet also approved a Rs 1,500 crore incentive scheme for low-value person-to-merchant (P2M) UPI transactions.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

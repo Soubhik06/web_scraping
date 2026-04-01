@@ -1,0 +1,99 @@
+Ad: Indiaâs Data Protection Bill is here, and your business needs to adapt. K&S Digiprotect, with its team of data protection experts, offers compliance services tailored to help you adapt to the new regulations, safeguard your data and build trust with your customers.Â ContactÂ us Â now!
+
+In an interview with the Indian Express published on August 14, Rajeev Chandrasekhar, India’s Minister of State for Electronics and Information Technology, “addressed” concerns around the Digital Personal Data Protection (DPDP) Act, 2023, which has been passed by both houses of the parliament and received the president’s assent on August 11. However, the minister’s responses to the questions posed by the interviewer are deceptive, evasive, and lacking in many ways. Here are selected excerpts from the interview and our take on the answers by the minister:
+
+Sec. 3 (c) (ii) The provisions of this Act shall not apply to personal data that is made or caused to be made publicly available byâ¦ the data principal
+
+[Question] Just because someone has published their personal data online voluntarily, why does the law exempt it from protections?
+
+[Rajeev Chandrasekhar’s response] It is a fair assumption that today a large amount of personal data has been published online. The moment the law is in effect, every company that has personal data with it will have to disclose it and at that stage, a person can ask them to delete it. Once that is done, you are at the starting point of this law.
+
+MediaNama’s Take: What the minister claims (company disclosing personal data and allowing users to delete them) is possible for personal data that is covered under the DPDP Act. But it will not apply to publicly available personal data, which is the type of personal data the question refers to, that the Act excludes from its ambit by way of section 3(c).
+
+[Question] We have seen examples of companies like Clearview AI whose entire business model is to scrape public images of people to build a facial recognition surveillance tool. Shouldnât people be protected from that?
+
+[Rajeev Chandrasekhar’s response] Letâs say this company has your personal data. They are obliged to notify you they have your data. You can ask them to delete it. The effect of this law is that regardless of where an entity might find the data, they cannot use it without consent. I want to clarify that when someone finds your personal data, no one can use it without your consent.
+
+MediaNama’s Take: Same as above. The consent requirements will not apply to personal data for which the DPDP Act doesn’t apply.
+
+Sec. 5 (1) Every request made to a data principalâ¦ for consent shall be accompanied or preceded by a noticeâ¦
+
+[Question] How would this change the way web browser cookies are collected?
+
+[Rajeev Chandrasekhar’s response] The way cookies are currently gathered on websites, we donât think that meets the test of informed consent. So there will be a lot of innovation required from the current three-page âI Agreeâ model of seeking consent to something that is much more informed.
+
+MediaNama’s Take: The notice seeking consent must show what personal data is being processed and for what reasons. It must also inform users how they can exercise their rights under the Act and the manner in which they can file a complaint to the Data Protection Board of India . Notably, unlike previous iterations of the bill, the Act doesn’t require companies to state how long they will store data, if they will share it with third parties, where the data was collected from, details on any cross-border transfer of the data, etc. So while it might be better than the status quo of no notice required at all, it is still short of the ideals of “informed consent” that the minister portrays. Moreover, under some instances considered âlegitimate usesâ, such as section 7(a), consent is assumed without any notice at all.
+
+Article continues below â¬ , you might also want to read:
+
+Sec. 8 (6) In the event of a personal data breach, the data fiduciary shall give the data protection board and each affected data principal, intimation of such breach in such form and manner as may be prescribed.
+
+[Question] Is there a timeframe in your mind for notifying data breaches?
+
+[Rajeev Chandrasekhar’s response] It has to be immediate. There is an incentive for platforms to show responsible conduct. In the jurisprudence that will evolve around the law in the coming years, if a platform says it has reported a breach ten days later, an impacted person can argue that ten days’ worth of damage has been caused to them.
+
+MediaNama’s Take: There are existing directions from CERT-In that require entities to report a breach to the agency within 6 hours. It is not clear if the timeline that will be specified under the DPDP Act will take precedence over the CERT-In directions and who must be contacted first in case of a breach, CERT-In or the Data Protection Board.
+
+Sec. 9 (1) The data fiduciary shall, before processing any personal data of a child or a person with disabilityâ¦ obtain verifiable consent of the parentâ¦
+
+[Question] Why have norms for persons with disability been clubbed with norms for children?
+
+[Rajeev Chandrasekhar’s response] Those are two categories of people who will need help. There was an argument for example, that for differently abled people, a consent manager would do. But the consent managerâs job would be to deal with a large group of people, and not in specialised situations like this. But also, a lot of this will evolve over time.
+
+MediaNama’s Take: The minister doesn’t really explain why people with disabilities have been clubbed with the requirements for children, especially given that people with disabilities have various levels of agency depending on the type of disability, age, etc. Putting them all in the same bucket and that too in the same bucket as children need a better explanation.
+
+Sec. 9 (5) The Central Government may, if satisfied that a data fiduciary has ensured that its processing of personal data of children is done in a manner that is verifiably safeâ¦ notify the age above which that data fiduciary shall be exemptâ¦
+
+[Question] Could social media companies be part of this relaxation? For instance, Meta has a Messenger Kids app which is to be used only by childrenâ¦
+
+[Rajeev Chandrasekhar’s response] 100 per cent not. Under this provision, the prerequisite is that a platform has verified that all of its users are youngsters. We do not believe that social media is an area where age-gating should be relaxed.
+
+MediaNama’s Take: Good that social media platforms will not be exempted under this provision, but maybe codify this in law.
+
+Sec. 10 (1) The Central Government may notifyâ¦ significant data fiduciary on the basis of an assessment ofâ¦ potential impact on the sovereignty and integrity of Indiaâ¦
+
+[Question] The MHA and NIA could be in possession of very sensitive data. Will government ministries and departments be classified as significant data fiduciaries as well?
+
+[Rajeev Chandrasekhar’s response] There is one standard that applies to all data fiduciaries. Anyone, including government institutions irrespective of their size, that collects data with consent is liable to safeguard it under this law. So, yes, even government institutions â big or small â will be classified as significant data fiduciaries.
+
+MediaNama’s Take: Sure, government agencies might be classified as significant data fiduciaries and be subject to additional measures applicable to such entities. But what is the point of this classification if the government can just exempt its agencies from all provisions of the Act using its powers under section 17(2)? For example, if MHA (Ministry of Home Affairs) and NIA (National Investigation Agency) are both exempted from the Act, their classification as significant data fiduciaries is only a label with no real practical effect. There are also instances, as per section 17(1), where government entities are automatically exempt from provisions of the bill such as for law enforcement, prevention of crime, etc. In such cases as well, the classification of significant data fiduciaries wonât matter.
+
+Sec. 17 (2) (a) The provisions of this Act shall not apply in respect of the processing of personal data by such instrumentality of the State as the Central Government may notify in the interests of sovereignty and integrity of India, security of the Stateâ¦
+
+[Question] Everyone agrees that the government will need exemptions. But the concerns around it emanate from the fact that there are no safeguards in the letter of the law for when the government decides to exempt itself from obligations. Why have words like âproportionateâ not been used as a safeguard to these exemptions?
+
+[Rajeev Chandrasekhar’s response] Proportionate as defined by who? We donât want issues of national security and law and order to be second guessed by the courts. If the police need data for these purposes, they should be able to do so. There will be checks and balances within the government to ensure that this power is not misused.
+
+MediaNama’s Take: How do we know that the government will not misuse this power? Why not include the checks and balances that the government will have in the law itself? Courts are likely to assess proportionality anyway, and putting it in the law will determine whether the law will apply if something is disproportionate. Also, proportionality is supposed to be part of the law, as per Puttaswamy and arguing that there is a security or law and order issue isn’t an excuse about whether proportionality should apply.
+
+Sec. 19 (1) The data protection board consists of a chairperson and such number of other Members as the Central Government may notify.
+
+[Question] Everyoneâs concerned by the control of the government over the selection of members of the DPB. Why not have judicial representation within the board or in the selection committee?
+
+[Rajeev Chandrasekhar’s response] Iâm not averse to having a retired judge on the board, but there are many options that we can consider. Why should we not have a young lawyer instead of a retired judge, for instance. Why not a young serial entrepreneur who wants to be part of the board for some time? The members must be willing to invent the new, rather than prescribe the old.
+
+MediaNama’s Take: The question was about the lack of independence of the DPB because of the government’s control over the selection of its members. Instead of addressing this concern, the minister talks about the qualities of people who might be on the board, which really does not matter if these members are biased towards the government because they will not be able to fairly hold the government accountable for non-compliance under the Act.
+
+Sec. 27 (3) The board mayâ¦ on a reference made by the Central Government, modify, suspend, withdraw or cancel its direction
+
+[Question] You have said that the board will be independent. But the Centre also has powers to cancel its directions. That seems like the Centre can sidestep the board whenever it wishes toâ¦
+
+[Rajeev Chandrasekhar’s response] The performance of the board should be measured on merit. To read into what the powers of the government are and to surmise that it is some sort of a conspiracy to trip up well established processes is pure speculation. The board will be transparent and responsive. If you see whatâs happening in the grievance appellate committees today, despite all the concerns that were initially raised, they are creating a culture of accountability.
+
+MediaNama’s Take: Again, the minister does not address why the government has powers that will affect the independence of the DPB when the DPB is also responsible for overseeing the non-compliance by government entities.
+
+37 (1) The Central Government could block platforms that have been fined on at least two occasions for violating the law.
+
+[Question] This is essentially a censorship provision that has been added to a privacy law, when the government already has that power under the Information Technology Act, 2000. What is the rationale for that?
+
+[Rajeev Chandrasekhar’s response] We hope that we never have to use it, but this has been kept to act as a deterrent for companies â many of whom have learnt how to game regulations â beyond the prescribed penalty of Rs 250 crore per data breach. It has also been kept to act as a signal for the data protection board for when it is dealing with matters related to voluntary undertaking.
+
+MediaNama’s Take: How do we know this is just to act as a deterrent for companies? Like Section 69A under the IT Act, this provision can be wielded unfairly and without constraint because it allows blocking of platforms merely based on the “interests of the general public,” as determined by the Data Protection Board.
+
+Note: Thanks to Lalit Panda, Senior Resident Fellow at Vidhi Centre for Legal Policy for his inputs.
+
+STAY ON TOP OF TECH POLICY:Â Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. ClickÂ here Â to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

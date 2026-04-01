@@ -1,0 +1,53 @@
+The Department of Consumer Affairs (DoCA) has published draft guidelines for prevention and regulation of dark patterns after a two-month long consultation with stakeholders including e-commerce platforms, law firms, government and other consumer protection organisations. The DoCA has also sought public comments, suggestions and feedback on the proposed guidelines, which can be e-mailed to [email protected] until October 5, 2023.
+
+The DoCA had first conducted a consultation session with Advertising Standards Council of India (ASCI) and stakeholders including Flipkart, Zomato, Amazon, Meta, Google, and MakeMyTrip, among others in on June 13, 2023. The meeting primarily focused on discussing types of dark patterns, their impact on customers, and on creating a framework for identification, prevention, and regulation of dark patterns.
+
+According a government press release , the DoCA subsequently constituted a task force comprising the ASCI, industry representatives, NLUs, VCO’s, and e-commerce platforms including Google, Flipkart, RIL, Amazon, Swiggy, Zomato, Ola, Tata CLiQ, Facebook, Meta, Ship Rocket and Go-MMT. The guidelines are drafted on the basis of deliberations with the task force members during a course of five meetings in the last couple of months.
+
+The proposed Guidelines shall be issued under section 18 (2) (1) of the Consumer Protection Act 2019 and may be called the ‘Guidelines for Prevention and Regulation of Dark Patterns, 2023’ . The guidelines prohibit individuals or platforms from engaging in dark patterns and will be applicable to sellers, advertisers, and all platforms that are “systematically offering goods and services in India”.
+
+What are Dark Patterns?
+
+A dark pattern essentially refers to a user interface or a web design that has been crafted to trick or manipulate users into making choices that are detrimental to their interest. These choices may include paying a higher amount for a product than originally disclosed, sharing data, buying expensive products over cheaper alternatives, or deciding consumption based on paid or fake reviews.
+
+The draft guidelines define dark patterns as:
+
+“…any practices or deceptive design patterns using UI/UX (user interface/user experience) interactions on any platform; designed to mislead or trick users to do something they originally did not intend or want to do; by subverting or impairing the consumer autonomy, decision making or choice; amounting to misleading advertisement or unfair trade practice or violation of consumer rights.”
+
+The DoCA has listed out specific dark patterns which are termed as “Specified Dark patterns” in the draft guidelines. Additionally, the guidelines will also cover additional patterns that the Central Consumer Protection Authority may specify from time to time.
+
+1. False Urgency: This method refers to tactics that create a sense of “urgency or scarcity” in order to convince a customer to make an “immediate purchase or take an immediate action” that may lead to a sale. A seller/platform may indulge in practices like displaying false popularity of a product or a service in order to manipulate user decision, or falsely stating that a particular product or services is for a limited time or quantity.
+
+For instance, a hotel-booking platform may present false and unsubstantiated data about demand of a particular room stating, “Only 2 rooms left! 30 others are looking at this right now”. Additionally, describing a particular sale as an “exclusive” one for a limited time and group of users, also creates a time-bound pressure on customers to make a purchase.
+
+Article continues below ⬇ , you might also want to read:
+
+2. Basket Sneaking: As explained by the DoCA, basket sneaking means “…inclusion of additional items such as products, services, payments to charity/donation at the time of checkout from a platform, without the consent of the user…”. This inflates the total amount payable by the user, which is more than the amount payable for the actual products or services. For example, automatic addition of a travel insurance while a user books a flight ticket or adding a subscription to a salon service while checking out, when the user has purchased only a single salon service.
+
+Importantly, free samples, complimentary services, and addition of necessary fees disclosed to the user, cannot be considered basket sneaking. The guidelines clarify that “necessary fees” will include delivery charges, gift wrapping, relevant additional taxes or any other charges that are explicitly disclosed to the consumer at the time of purchase.
+
+3. Confirm Shaming: This involves usage of elements such as a phrase, video, audio or any other means to create a sense of fear, shame or guilt to manipulate the customer, who would then end up purchasing a product or a service. As the DoCA illustrates, a platform for booking flight tickets may use the phrase “I will stay unsecured”, when a user does not include insurance in their cart or a platform may try to coerce a customer to donate for a charity by using the phrase “charity is for rich, I don’t care”.
+
+4. Forced Action: As the phrase suggests, forced action refers to practices that force a user to buy additional goods or subscription for an unrelated service in order to access a product or service that the user originally intended to buy. For example, a seller or a platform may prohibit a user from using a product or service that they have originally paid and contracted for, unless they upgrade for a higher rate or fees. Other tactics include, forcing a user to subscribe to a newsletter in order to purchase a product or to download an unintended/unrelated separate app to access a service originally advertised on another app.
+
+5. Subscription Trap: This pattern refers to a process wherein the platforms make cancellation of a paid subscription impossible or a cumbersome task for the customers. Such methods include hiding the cancellation option for a subscription on the user interface, forcing a user to provide payment details and/or authorization for auto debits for availing a free subscription, and making the instructions related to cancellation of subscription ambiguous, latent or confusing.
+
+6. Interface Interference: Platforms or sellers may indulge in manipulating the user interface to include a design element in a way that it highlights specific information and obscures other relevant details in order to “misdirect a user from taking an action desired by her”. As illustrated in the guidelines, this includes deliberately designing a light-coloured option for selecting “NO” for a notification asking for a purchase, offering lesser visibility to the cancellation symbols for such dialog boxes, changing the meaning of key symbols to mean the opposite etc.
+
+7. Bait and Switch: As defined in the guidelines, bait and switch means “the practice of advertising a particular outcome based on the user’s action but deceptively serving an alternate outcome”. For example, a seller may offer a quality product at a cheap price, but when the consumer is about to pay/buy, the seller may say that the product is no longer available in order to offer a similar but expensive product.
+
+8. Drip Pricing: Drip pricing refers to a practice of not revealing the total price of a product upfront to the customers, but revealing the elements of the cost “surreptitiously within the user experience” or stages of making a purchase. The guidelines inform that drip pricing also includes instances when platforms reveal the price post-confirmation of purchase and charge a higher amount than what was disclosed at the time of checkout. For example, a consumer may have chosen a flight ticket for a certain amount displayed on the checkout page, but is being charged a higher amount while making the actual payment.
+
+Drip pricing also includes cases wherein a product or service is advertised as free, but the platforms do not disclose that the continuation of use requires in-app purchase, and if a user is prevented from availing a service unless they make an additional purchase.
+
+Note: The DoCA clarifies that an e-commerce entity shall not be liable for price fluctuations to the extent that it is attributable to the price changes by third-party sellers or other factors beyond their control.
+
+9. Disguised Advertisement: The practice of portraying or masking advertisements as other types of content such as user-generated content, refers to using disguised ads for misleading consumers. The guidelines inform that the phrase “disguised advertisement” also includes misleading advertisement as provided under section 2 (1)(28) of the Consumer Protection Act 2019 and the “Guidelines for Prevention of Misleading Advertisements and Endorsements for Misleading Advertisements, 2022”. It further states that it is the responsibility of the seller or advertiser to make appropriate disclosures for advertisement-related content on the platform.
+
+10. Nagging: A dark pattern that involves overloading users with requests, information, options, or interruptions refers to nagging. These interruptions are unrelated to the original products or services that the user wants to buy, and disrupt the intended transaction process. For example, websites bombarding users with requests to download their app, or platforms asking users to share their phone numbers by stating that its for security purposes.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

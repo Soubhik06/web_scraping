@@ -1,0 +1,89 @@
+SUBREDDIT: r/india
+TITLE: India Security News Weekly: Edition 4 - June 03
+DATE: 2017-06-03
+SCORE: 25
+URL: https://www.reddit.com/r/india/comments/6f2il1/india_security_news_weekly_edition_4_june_03/
+
+--- POST TEXT ---
+
+Security Underflow (and this newsletter) is an attempt to break down barriers to knowledge about computer security among the general public. I wish to raise awareness about the risks around us and how to mitigate them or raise questions about them when we see them. Feedback/suggestions are welcome here or you can PM me as well.
+
+Last week's newsletter: [Edition 3](https://securityunderflow.com/learn/india-security-news-weekly-edition-3/)
+
+Subscribe at: [tinyletter.com/securityunderflow](https://tinyletter.com/securityunderflow)
+
+[Downloadable PDF for sharing](https://securityunderflow.com/files/newsletter/2017/india-security-news-weekly-4-03-june-2017.pdf)
+
+-------------------------------------------------------------------------------
+
+# The Ticker
+
+Ticker is a collection of interesting security news and happenings in Indian companies and startups.
+
+ - In rush to be GST ready, companies leaving security loopholes [[ET](http://economictimes.indiatimes.com/articleshow/58847967.cms)]
+ 
+ - Kaspersky Lab hires Stephan Neumeier as MD, Asia Pacific [[IndiaLive](http://www.indialivetoday.com/kaspersky-lab-hires-stephan-neumeier-as-md-asia-pacific/159190.html)]
+
+ - MD’s account hacked, quick thinking helps prevent Rs five lakh transfer [[IndianExpress](http://indianexpress.com/article/cities/mumbai/mds-account-hacked-quick-thinking-helps-prevent-rs-five-lakh-transfer-4678365/)]
+ 
+ - Wipro gets another threat warning of bio-chemical attack; demand raised for $500 mn in bitcoin [[FE](http://www.financialexpress.com/industry/wipro-gets-another-threat-warning-of-bio-chemical-attack-demand-raised-for-500-mn-in-bitcoin-currency/698883/)]
+ 
+-------------------------------------------------------------------------------
+
+# Policy Water cooler
+
+We cover the policies and other news that concerns the Indian government and citizens en masse here.
+
+ - The EVM 'Hackathon' that wasn't [[NDTV](http://www.ndtv.com/india-news/election-commission-evm-challenge-today-aap-hackathon-too-10-points-1707370)]
+ 
+ - All tax data will be completely secure, GST Network assures India Inc [[FE](http://www.financialexpress.com/economy/all-tax-data-will-be-completely-secure-gst-network-assures-india-inc/624371/)]
+ 
+ - India, Spain Ink 7 Agreements; To Boost Cyber Security [[NDTV](http://www.ndtv.com/india-news/india-spain-ink-7-agreements-to-boost-cyber-security-1706213)]
+ 
+-------------------------------------------------------------------------------
+
+# World
+
+This section takes a look at the top security news around the world which impact most of us.
+
+**[Hacked in Translation](http://blog.checkpoint.com/2017/05/23/hacked-in-translation/)**
+
+Thanks for the tip to: /u/pks016
+
+The way various media players process subtitles files is insecure. The vulnerabilities are all over the place and can easily lead to compromise your whole system. Couple this with the fact that many subtitle collection websites serve subtitles over insecure http and also may have unaudited security of the website itself. Even otherwise, there's a big risk from the subtitle files included within the pirated videos that many choose to download. Many of the popular players (including Kodi and VLC) have released fixes for this. If you use another video player, make sure to check if it has an update out for this and install the same.
+
+**[OneLogin suffers breach—customer data said to be exposed, decrypted](https://arstechnica.com/security/2017/06/onelogin-data-breach-compromised-decrypted/)**
+
+OneLogin is an identity management company whose systems are used by many other companies to maintain single-sign-on (SSO) systems. This attack leaves any company that uses OneLogin open to massive attacks and thus all such entities are now scrambling to invalidate and reset any credentials in use. As a user (if your company uses them), you can't do much except sit back and wait :(
+
+-------------------------------------------------------------------------------
+
+# Events
+
+Details on upcoming security conferences and other events around India.
+
+ - [Cyber Security Summit INdia](http://www.cybersecuritysummitindia.com/): Mumbai, 15th Jun '17
+
+ - [IFSEC India](http://www.ifsec.events/india): New Delhi, 16-18 Dec '17
+
+-------------------------------------------------------------------------------
+
+# Inquisitive mind
+
+Take the blue pill and save yourself. Or take the red pill and we'll show you how deep the security rabbit hole goes.
+
+&amp;nbsp;
+
+**References**
+
+*HTTPS*: A secure protocol to exchange data over the web. See below for more information.
+
+&amp;nbsp;
+
+ **Recommended reading this week**
+
+[Introduction to HTTPS](https://https.cio.gov/faq/)
+
+-------------------------------------------------------------------------------
+
+-SecurityUnderflow

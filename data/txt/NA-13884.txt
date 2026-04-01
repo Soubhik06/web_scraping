@@ -1,0 +1,47 @@
+The Centre recently released the Passports (Amendment) Rules, 2025 , deciding to store residential addresses in a barcode instead of printing them on passports.
+
+However, this raises privacy concerns, as unauthorized entities could scan an unencrypted or inadequately secured barcode, leading to potential misuse. If hackers compromise it, they could extract sensitive personal information and exploit it for fraud, identity theft, or surveillance.
+
+Moreover, will barcode-based data retrieval work smoothly across airports and embassies? Any failure in scanning systems or database access could lead to travel delays and inconveniences.
+
+We previously reported that enhanced QR codes embedded in PAN cards store sensitive personal information, and anyone can easily access them using QR code readers, raising serious privacy concerns about data security and potential misuse.
+
+An RTI request sought details on the functionality and technical aspects of the QR codes used in PAN cards, including the type of data embedded within them. It also requested responses from the Income Tax Department and its service providers regarding these concerns.
+
+The QR codes contain sensitive personal information, including the PAN number, full name, parent’s name, date of birth/incorporation, photograph, and signature.
+
+PAN QR codes store sensitive data in a machine-readable format, allowing anyone to access it using widely available QR code reader applications, such as those on the Google Play Store.
+
+Notably, user agencies can access enhanced QR code information through the freely available PAN QR Code Reader app for Android, which anyone can install on a compatible device.
+
+However, the term “user agencies” remains ambiguous, potentially referring to service providers, government bodies, or private businesses, leaving room for vast interpretation.
+
+Unauthorized individuals scanning the QR codes can expose users to potential risks.
+
+Moreover, the technical specifications, encryption algorithms, and verification processes for these QR codes are classified as confidential due to concerns over commercial sensitivity and fiduciary obligations.
+
+Similarly, if the government does not clearly define who can access and decode barcode information in passports, there could be ambiguity around data control—raising concerns about whether third parties, service providers, or malicious actors could exploit the system.
+
+Storing personal information in a barcode could enable mass data collection by both government and private entities. If multiple agencies—such as immigration, airlines, hotels, and financial institutions—begin scanning passports, it could create a digital footprint of an individual’s movements and activities, effectively facilitating mass surveillance without user consent.
+
+Without clear data retention policies, entities could store scanned passport details indefinitely.
+
+Moreover, who is liable for security breaches? If a private entity misuses barcode data or a cyberattack leaks it, who will be accountable—the passport holder, the government, or third-party service providers?
+
+Unlike a physical passport, where one can see the printed details, barcode-stored data is not visible to the passport holder. This also takes away individual control over how and where they use their personal details.
+
+This raises the question—does the barcode-based passport system, without user control over access, encryption safeguards, or a way to view and correct stored data, align with the DPDP Act, 2023?
+
+The parents’ names, traditionally printed on the last page of passports, will now be removed to protect personal information and support individuals who are estranged from their families.
+
+While beneficial for individuals estranged from their families, this could create verification challenges in processes where parental details are needed, such as financial transactions, inheritance claims, or background checks.
+
+Under the new rule, individuals born on or after October 1, 2023, must provide a birth certificate issued by the Registrar of Births and Deaths or the Municipal Corporation as the sole accepted proof of their date of birth.
+
+This could pose challenges for marginalized communities who may not register births immediately or face bureaucratic hurdles in obtaining official certificates. Earlier, multiple documents were accepted, providing flexibility. Now, a single-document requirement could exclude some applicants who lack proper records.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

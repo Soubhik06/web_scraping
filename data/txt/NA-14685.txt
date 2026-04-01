@@ -1,0 +1,43 @@
+Nagaland plans to roll out a facial recognition-based teacher attendance monitoring system across all the public schools in the state, MediaNama has learnt from a tender the state education department floated on March 2, 2022. The tender has since been taken up by unknown parties, a government source confirmed, and has been removed from both the Nagaland Education Department and Government of India’s e-Procurement websites.
+
+The scope of the project covers the entire public schooling structure which includes not only the 1,953 primary and secondary schools under the Nagaland Board of Secondary Education but also state-funded religious schools and single teacher academies which are prevalent in the mountainous state. Notably, the state’s 717 private schools are exceptions to the rule.
+
+“The Department of School Education realizes that while teaching positions at all levels of schooling were filled with regular teachers, there was a phenomenon of ‘proxy-teachers’ across the state, particularly in the more remote areas. This involved appointed teachers not taking classes themselves and instead sending unknown substitutes on their behalf,” the government said as the reason behind the roll-out.
+
+The tender expects the prospective service provider to be experienced in or have ongoing assignments of maintaining attendance monitoring system for schools, educational institutes or offices in the last five years. It also expects an implementation methodology proposal from the service provider rather than have the vendor follow governmental conditions. Put simply, the tender’s criteria specifications make it look as if the Nagaland state is looking to put the entire onus of the face recognition program and its management to the third party service provider, which is probably why there is a strict non-disclosure agreement attached with the project.
+
+Why this matters: The rollout of this attendance management system would mark the third case of facial recognition technology being implemented in Nagaland, according to facial recognition tracker Project Panoptic , with at least one of the projects being floated by the military. The implementation of facial recognition technology (FRT) is a severe breach of the Right to Privacy and from the information available on the tender, it seems like the Nagaland government is letting third party developers access to the personal and facial data of thousands of individuals without a solid privacy policy in place. Fears of theft and absence of legal recourse apart, the rollout of this technology has also raised concerns about state surveillance in the politically unstable border state.
+
+Never miss out on important developments in tech policy, whether in India or across the world. Sign up for our morning newsletter , with a “Free Read of the Day”, to experience MediaNama in a whole new way.
+
+How does facial recognition work? Face recognition systems use computer algorithms to pick out specific, distinctive details about a person’s face. These details, such as distance between the eyes or shape of the chin, are then converted into a mathematical representation and compared to data on other faces collected in a face recognition database.
+
+How do attendance systems use face recognition? An attendance system uses facial recognition technology (FRT) to identify and verify a person’s facial features and automatically mark attendance. This software can be used for different groups of people such as employees, students, teachers, etc. These systems record and store the facial and timestamp data in real-time.
+
+As seen in other states, such as Andhra Pradesh and Delhi, which have implemented FRT-based attendance mechanisms in their schools, the software usually comes in the form of a mobile application. The user (student or teacher) has to first upload their master identity (could be Aadhaar, school ID card, etc.) on the app. Once that is done, the user must take a photograph of their face with the app and the algorithm would mark them present or absent based on a combination of facial recognition and location data. In some programs, the higher authorities and parents are sent attendance notifications directly on their mobile phones.
+
+The tender’s primary criteria that the bidder needs to be able to “successfully complete an application based software development, system integration (specially projects involving central web-based solutions and hosting services), facility management services, real time data tracking etc. for entities like departments or PSUs or corporations in the last five years.”
+
+Below, we take a closer look at the broad characteristics of this proposed project.
+
+Which third party actors will have access to the data? The tender specifies that any potential vendor needs to be based out of or at least maintain an on-ground office in Nagaland. It mentions that the vendor would need to have at least 24 personnel members in the state during the project’s implementation. These include a project manager, four project coordinators, six on-site engineers, five software developers and eight managers to train teachers in the usage of the attendance app. The developers, engineers and project coordinators may have direct access to the back end of the app.
+
+MediaNama reached out to various officials of the state education department of Nagaland with questions regarding the rollout but they have not been answered yet. The story will be updated when the authorities send in their replies.
+
+MediaNama reached out to privacy rights lawyers and cybersecurity experts to figure out the concerns regarding this sudden implementation of facial recognition technology in attendance systems.
+
+The use of facial recognition systems in Indian schools is not new. Individual states have been attempting such rollouts since at least 2018. Many authorities have cited “teacher absence” and “student truancy” as the reasons behind the rollout but have faced with resistance during implementation. An RTI filed with the CBSE by digital rights organization, SFLC.in, revealed that CBSE uses facial matching as one of the authentication mechanisms in multi-factor authentication for providing digital marksheets, especially to overseas students. IIT Delhi also has a FRT enabled attendance app in place which is called Timble.
+
+Here we look at some of these programs at state levels and see how they have fared.
+
+Twenty four hours state surveillance is the primary concern that privacy rights experts have with the usage facial recognition technology. Currently, the Union government is inviting proposals for the creation of a National Automated Facial Recognition System which would be used to create a national database of photographs which would be used to identify criminals by gathering existing data from various other databases like Passport, CCTNS , ICJS and Prisons, WCD Ministry’s KhoyaPaya, NAFIS or any other image database available with the police or any other government entities.
+
+While this Central programme is still in its nascent stages, individual states have come a long way into implement facial recognition technology based surveillance networks with the help of public as well as private developers, depending on the scope of the software. Although, most of these technologies are still in the pilot stage.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Read also:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

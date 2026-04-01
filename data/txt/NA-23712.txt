@@ -1,0 +1,17 @@
+SUBREDDIT: r/bangalore
+TITLE: How does an OTP scam work: Bengaluru Techie Loses Rs 68 Lakh While Trying To Sell Bed Online
+DATE: 2023-12-15
+SCORE: 1
+URL: https://www.reddit.com/r/bangalore/comments/18iy0go/how_does_an_otp_scam_work_bengaluru_techie_loses/
+
+--- POST TEXT ---
+
+[https://zeenews.india.com/technology/bengaluru-techie-loses-rs-68-lakh-while-trying-to-sell-bed-online-in-otp-scam-2699143.html](https://zeenews.india.com/technology/bengaluru-techie-loses-rs-68-lakh-while-trying-to-sell-bed-online-in-otp-scam-2699143.html)
+
+*The techie was asked by the buyer to send him Rs 5, for which the latter sent Rs 10. Then he was asked to send Rs 5,000 for which the person returned Rs 10,000. Then he was asked to send Rs 7,500 for which the person claimed that sent Rs 30,000 by accident. The fraudster then asked the techie to return the money using a link and share OTP. Once the engineer fell into the OTP trap, he began losing his money to the tune of Rs 68 lakh.* 
+
+*Notably, banks, NCPI and RBI have repeatedly warned customers stating that is incredibly important never share One-time password with anyone. Users must use it only if you are in the process of placing an order, and on a trusted website or app.*
+
+\---
+
+I get the general idea: the scammer somehow initiates a bank transfer from your account to his and asks you for the OTP so that he can authorise it but how exactly does it work? What part does the **link** play? How exactly does a scammer initiate the bank transfer from your account?? Is this a disguised IMPS transaction? Won't the SMS contain the transfer amount and sender-SMS-header so you can guess this is a banking OTP that shouldn't be shared!

@@ -1,0 +1,43 @@
+“Therefore, there is no data leak, there is no systematic problem, but, if any one tries to be smart, the law ignites into action.” – Ravi Shankar Prasad, IT Minister, in the Rajya Sabha, on 10th April 2017
+
+Details of around 130-135 million Aadhaar Numbers, and around 100 million bank numbers have been leaked online by just four government schemes alone: the National Social Assistance Programme, the National Rural Employment Guarantee Scheme (NREGA), Daily Online Payments Reports under NREGA (Govt of Andhra Pradesh), and the Chandranna Bima Scheme (Govt of Andhra Pradesh), as per a research report from the Centre for Internet and Society.
+
+Download the report here .
+
+While the data leaked differs across schemes, it could include information such as Name, Aadhaar Number, Bank Account Number, Father’s/Husband’s Name, Age, Gender, among other things. In other words, a spammer/scammer/phishing-entity’s dream come true. The Aadhaar Number is a permanent irrevocable number which is being made mandatory, and is being forcibly linked to mobile numbers, bank accounts, tax filings, scholarships, pensions, rations, school admissions, health records and much much more, which thus puts more personal information at risk.
+
+Data Available
+
+1. National Social Assistance Programme:
+
+2. National Rural Employment Guarantee Scheme:
+
+3. Chandranna Bima Scheme, Govt of Andhra Pradesh:
+
+4. Daily Online Payment Reports of NREGA, Govt of Andhra Pradesh
+
+The report points out that while some of data has subsequently been masked, it does not mean that government agencies have purged the data, which leaves it open to both cyberattacks, and any potential leakages of data those with access to it.
+
+Also, “retrospectively addressing some of these concerns has little or no impact without data de-identification standards, information security protocols and proper access control to sensitive personally identifiable data collected.”
+
+Our Take
+
+1. It’s probably bigger than just 130 million: At MediaNama, we’ve documented other instances of government departments publishing Aadhaar data (and we’ve viewed this data, downloaded excel sheets to check), so the scale of the public disclosure of information, with no accountability, is truly frightening. Government competence is truly an oxymoron. It won’t be long before this data is sold. Apparently such data already is being sold:
+
+How easy is it to get personal data including aadhar no? Call and you can get in on email !! @nixxin @Memeghnad pic.twitter.com/2JDoBVceo5
+
+— surinderxx (@surinderxx) April 23, 2017
+
+2. Faulty by design: While Aadhaar creator Nandan Nilekani and the IT Minister Ravi Shankar Prasad might give assurances that the Aadhaar database is safe, the fact is that Aadhaar was poorly designed: it may have taken into account the security aspects of storing this data, but it didn’t take into account the systemic risks of incompetent government departments handling this data, and disclosing it, putting citizens at risk. To remind you: the Aadhaar Number is a permanent, irrevocable number which is being made mandatory, and is being forcibly linked to mobile numbers, bank accounts, tax filings, scholarships, pensions, rations, school admissions, health records and much much more.
+
+3. Faulty law: According to the Aadhaar Act, a citizen has no recourse in case of a data breach because your Aadhaar data doesn’t belong to you: it belongs to the government. While the UIDAI has acted in some cases against errant external agencies (around 34,000 of them), there is no information on cases being filed against government departments filing these cases.
+
+Also read:
+
+– Notes from hearings in the case linking Aadhaar to the PAN Card
+
+Download the report here .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

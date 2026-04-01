@@ -1,0 +1,65 @@
+We’ve updated two points below, following clarifications
+
+Why should youÂ build for UPI if individual banks can stop their users from accessing your application, by shutting off the apps bank account?
+
+It has been almost four days since ICICI Bank blocked its customers from using PhonePe, the Unified Payments Interface service from Yes Bank, which is managed by Flipkart owned PhonePe. PhonePe founder Sameer Nigam pointed this out on Twitter , saying, that “@ICICIBank is blocking all @ybl & @PhonePe_ txns since Friday. No intimation. No provocation. Not cool at all!”
+
+IÂ tried, and as an ICICI Bank customer, I couldn’t send money via UPI using the PhonePe app. @ybl is the Yes Bank Virtual Payment Address (VPA) address that is created for UPI users on PhonePe, given that PhonePe is essentially a YesBank application run by PhonePe.Â In the same way, the State Bank of India hasn’t allowed netbanking transfers to wallets for quite a while now; the payments industry is entirely dependent on the opinion of banks, not on principles or policies set byÂ a regulator .
+
+MediaNama readers should note that ICICI pulled the plug on PhonePe the same day that Flipkart became a merchant on UPI .
+
+ICICI Bank’s response and issues with it
+
+In response, ICICI Bank issued a statement to Mint , with the following key points:
+
+1. Security issues with data: ICICI Bank says “Some banks including us have raised security related concerns at appropriate forums about the access to UPI data to a non-banking applicationâ
+
+MediaNama’s take: Firstly, payments is not banking, and the UPI seeks to create that very separation between the account holding entity (Bank, Wallet), and the payments facilitation. If ICICI has these issues, it could have chosen not to sign up with UPI in the first place. Did it not do that assessment before signing up? If it had security concerns, it is not irresponsible for ICICI to sign up then? Now, with customers already on PhonePe, there are third party rights that also come into play. Also, it’s not clear which non banking entity ICICI Bank is referring to: PhonePe or Flipkart?
+
+2. Violation of NPCI norms (Updated): âFurther, this entity is following restrictive practices allowing users to make payments with only its UPI handle, which is in contravention to the UPI guidelines of interoperability and choice that empowers a customer to choose any app to make payments through UPI.â
+
+MediaNama’s Take ( Updated): it appears this refers to the merchant guidelines for UPI, as explained below:
+
+It is alleged that PhonePe violated the merchant guidelines (read this and this), and when it launched, it wasn’t easy for users to pay using a VPA other than the PhonePe one. In fact, instead of “pay via UPI”, the Flipkart App, as indicated in our story when it launched, uses “PhonePe UPI”. Apparently, it earlier allowed users to pay using other VPA’s with a link that said “ask friends to pay”. This has now been updated . So, until it was called out, Flipkart appeared to give PhonePe a distinct advantage over other UPI apps, in violation of the UPI guidelines, which state ( pdf ):
+
+and
+
+Thus, PhonePe and Flipkart were, it appears, at fault for not initiating a Pay by UPI option, that led directly to any UPI application opened, thus giving customers choice other than PhonePe. However, according to PhonePe founder Sameer Nigam, the deadline for doing this was January 31st 2017.
+
+In a note to MediaNama, Nigam says:
+
+Android Intent compliance deadline has been set for Jan 31st, per NPCI circular to all its members. So that is not a valid reason for any bank to block each others users. ICICI would need to be more specific about the alleged interoperability violations.
+
+This also means that in case apps aren’t Android Intent compliant at the time when this integration was launched, users may not have been able to use some of their existing UPI apps to make the payment, and that would have led to a transaction failure. In that context, PhonePe is within its right (and possibly opportunistic) to not follow the norms until the deadline. If it were to continue doing this beyond the January 31st 2017 deadline, PhonePe and Flipkart are in violation of the guidelines.
+
+That said, the issue is that ICICI Bank cut off PhonePe instead of askingÂ the NPCI to intervene, and that the NPCI allowed that to happen, without transparency or taking into account the impact on all PhonePe users – and not just PhonePe users on Flipkart.
+
+Governance issues within the NPCI
+
+That ICICIÂ bank can hold another banks application hostage, and customers (including me, and I checked again) can be stopped from making payments for this long a period time (four days), without any assurances, action or information from the NPCI leads us back to this question: Why should youÂ build for UPI if individual banks can unilaterally stop their users from accessing your application, by shutting off bank account access?
+
+From a governance perspective , we need from the NPCI, equitable treatment of shareholders; looking after the interest of non-shareholding stakeholders, especially given its contractual, social, and market driven obligations, disclosure and transparency, integrity and ethical behaviour; and a board with appropriate independence and commitment.Â Lets look at the NPCI and UPI in that context:
+
+1. The inadequacy of the NPCI, in terms of governance:
+
+1.1: Equitable treatment of shareholders: Â ICICI Bank’s larger user base, and the fact that it owns 7.47% of NPCI gives it more leverage than YES Bank. Unlike a regulator, NPCI has not been able to take swift action, and ensure that on principle, it enforces interoperability and adherence to norms.Â We doubt that the NPCI has any punitive powers against its own members, which makes it even weaker.
+
+1.2: Interest of non-shareholding stakeholders: Â as an entity, the NPCI has shown that can’t be depended on to ensure that petty disputes aren’t able to impact the sanctity of the digital payment operations in the country.Â (Almost) Four days is potentially millions of transactions in payments industry, and just because we had the weekend in the middle is no excuse: payments and businesses don’t stop for the weekend, and customers and now merchants are impacted, means that the NPCI hasn’t met its social, market driven and possibly contractual obligations here. As mentioned below, non-banking payment instruments aren’t allowed to connect to UPI.
+
+1.3: Disclosure and transparency: Â Again, four days is a long time in the payments ecosystem. People are impacted. In terms of disclosure and transparency, we haven’t heard from the NPCI since – there is nothing on their websiteÂ about this issue. Neither, it seems, had PhonePe heard from them, as much as a day and half after ICICI Bank blocked PhonePe. For an entity that runs UPI, and which the Watal Committee has said that should be classified as aÂ Critical Payment Infrastructure Company (CPIC) by the Government of India, Â this is clearly a failure in disclosure and transparency from what is effectively the regulator of the UPI.
+
+1.4 Independent board: Lest it be forgotten, the Watal Committee has highlighted issues of “ownership neutrality” at the NPCI, recommending the expansion of the NPCI’s board, saying “Ensure that the board of the NPCIÂ should have majority âpublic interest directorsâ â independent directors, representing the interests of consumers in payments markets and who do not have any association, directly or indirectly, which in the opinion of the regulator, is in conflict with their role.” This is because the NPCI is bank owned and bank run:
+
+2. The inadequacy of the governance of UPI as a payments platform Â is in question, if it is going to subject to the whims of individual banks, where there is no predictability and dependability about interconnection, and complete lack of accountability toÂ application provider (a customer) building on the UPI, and to each payment-usingÂ customer (user).
+
+Lets also not forget that the NPCI is wilfully preventing other RBI authorised (non-banking) payment instruments from connecting with UPI: users of 44 authorised PrePaid Payment Instruments (PPIs), including mobile wallets, prepaid cards, etc., 8 authorised Payments Banks, 8 Cross-Border Money Transfer operators, and 8 White-label ATM Operators, cannot connect to NPCI run infrastructure.
+
+All the issues applicable to the NPCI above are also applicable to UPI. The idea that UPI is government owned, or is a “public good”, is factually incorrect. It is a “private good”, because the UPI is owned by the NPCI, which is in turn owned by banks
+
+These are key governance issues, and this instance is another clear indication to developersÂ that technology cannot override governance, political and legal challenges ( more on that here ).
+
+(Updates: Headline changed for better clarity; changed an entire segment following some clarifications)
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

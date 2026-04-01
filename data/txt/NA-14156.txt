@@ -1,0 +1,23 @@
+At MediaNama’s Deepfakes and Democracy event held on January 17, Gautham Koorma, machine learning engineer and researcher from UC Berkeley, explained the various deepfake generation techniques available to users, the techniques available to detect deepfakes, the accuracy of these techniques, reasons why watermarking and methods like hashing, used for detecting child sexual abuse material (CSAM) don’t work for deepfakes, and more.
+
+Gautham Koorma outlined various methods available to generate deepfake images, videos, and audio:
+
+Deepfake images
+
+Deepfake videos
+
+Deepfake audio
+
+1. Detection using machine learning: This is when you identify evidence of manipulation in digital media using machine learning (ML). ML has better performance than statistical methods of detection used earlier, but the drawback is that the internal workings of this approach are less transparent and harder to interpret. You will get a “yes” or “no” answer, but not any explanation as to why the media is real or fake. The role of human analysts is important in this process because these models tend to get things wrong quite often, Koorma explained.
+
+2. Authentication based on provenance info: This technique involves identifying a deepfake based on the provenance of the content such as when the media was created, when it was edited, what software was used, etc. All this is embedded as metadata or imperceptible watermarks by the software used to make them.
+
+3. Hashing: Hashing is a commonly used technique in detecting child sexual abuse material (CSAM). Essentially, law enforcement and other agencies that receive reports of CSAM material, create a hash value for the reported material and store it in a database that is shared with social media platforms. Whenever a user uploads content on a social media platform, the platform compares a hash of the upload to the hashes in the CSAM database and doesn’t allow the upload if there is a similarity. This technique is resistant to minor modifications such as resizing and colour changes. Because of this, it is good at detecting CSAM or copyrighted content.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

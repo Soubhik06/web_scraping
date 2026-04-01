@@ -1,0 +1,31 @@
+At the 2025 Global Fintech Fest, the National Payments Corporation of India (NPCI) announced four new features for the Unified Payments Interface (UPI): UPI HELP, IoT Payments with UPI, Banking Connect, and UPI Reserve Pay. These features reflect NPCI’s push to upgrade India’s digital payments stack with AI and automation. However, if poorly implemented or left without oversight, these features could raise risks around unauthorized automated transactions, a lack of human oversight, and unclear liability. This, in turn, would test UPI’s reliability as a trusted financial infrastructure.
+
+The @RBI Governor, Shri Sanjay Malhotra, today unveiled New Generation of Digital Payment Initiatives at GFF 2025: UPI HELP – AI based UPI HELP Powered by NPCI’s Small Language Model (SLM) to assist with payments, mandates and dispute resolution. IoT Payments with UPI –… pic.twitter.com/XWIUx4knUV
+
+NPCI launched UPI in 2016 to enable instant, real-time, and inter-bank payments through a single mobile application. Its use of Virtual Payment Addresses (VPAs) eliminated the need to share sensitive bank account details. This allowed easy adoption for fund transfers, merchant payments, and peer-to-peer transactions .
+
+In less than a decade, UPI has come to account for over 80% of the country’s digital transactions . As per the latest NPCI data , UPI processed 19.63 billion transactions worth Rs 24.89 lakh crore in September 2025.
+
+Beyond India, UPI has gained global recognition as the foundational payments layer of India’s Digital Public Infrastructure (DPI). This digital payments model pioneered in India is now shaping systems across the world, such as Pix in Brazil. Nandan Nilekani, Infosys co-founder and Aadhaar architect, says that AI will “turbocharge the DPI that has already been built”. Against this backdrop, NPCI’s new features appear aimed at layering AI-driven services on top of UPI’s existing architecture.
+
+The combination of IoT Payments and UPI Reserve Pay could enable scenarios such as ordering groceries from BigBasket via ChatGPT. While this represents an advance in technology, it “can be a financial disaster for the end user if these systems are not built and maintained properly.”
+
+If an AI agent via Reserve Pay or IoT Payments makes an unauthorized or erroneous payment, who would bear the cost? Should it be the user, the merchant, the Payment Service Provider (PSP), or NPCI? As MediaNama has reported, similar questions came up in a 2017 case where Amazon’s Alexa ordered dollhouses after mishearing a news broadcast.
+
+AI agents may gradually expand permissions, moving from authorized to unauthorized tasks, such as making unrelated purchases. For agent-led payments, a key challenge will be ensuring that user consent remains meaningful, traceable, and revocable .
+
+Automation requires extensive user profiling so that systems can learn behavioral patterns and spending preferences. This raises questions about how such sensitive data will be stored, processed, shared, and governed.
+
+Would these AI-driven systems be auditable and explainable, i.e., can their decisions be traced and understood after it has occurred? In this regard, the Competition Commission of India (CCI) has highlighted the need to “monitor performance continuously, set up triggers for human review, and maintain audit logs” to avoid harm.
+
+UPI already faces performance issues and outages under heavy load. MediaNama has previously reported on how usage of “check transaction status” Application Programming Interfaces (APIs) has contributed to three UPI outages from March to April 2025. If IoT devices and AI agents begin generating more automated transactions, would UPI be able to function reliably? The infrastructure needs to be scaled and made resilient if AI features are to be meaningfully incorporated.
+
+While these new features could offer greater convenience, the integration of AI and automation in financial systems needs to be carefully scrutinized. Voices from within the industry have also echoed this need. At the same conference, the RBI Deputy Governor warned that AI poses “unprecedented threats” to the financial system if left unchecked.
+
+The four features mark a new phase of innovation for UPI by incorporating AI-driven assistance and automated transactions. But these same features can bring risks that need to be addressed through guardrails and human oversight. While NPCI’s push reflects a belief in innovating and expanding the DPI frontier, the real test will be whether regulation and safeguards can keep pace with that ambition.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,83 @@
+By Aditi Agrawal and Nikhil Pahwa
+
+“WhatsApp remains the same. Their end-to-end encryption remains the same. There’s nothing that we want to change. There’s nothing that warrants the change.”
+
+Dr V. Kamakoti, a computer science professor at IIT Madras, is clear about this. In the last two hearings (on June 27 and July 24 ) of the case, in which the Madras High Court is deliberating on how the originator of a message on WhatsApp can be traced, Kamakoti’s initial submission has heavily featured in the judges’ opinion of whether traceability is technically possible. His suggestions on traceability to the Madras High Court, however, had Senior Advocate Kapil Sibal, WhatsApp’s counsel in the case, practically palpitating at the last hearing, “If you open up the encryption, there is no platform.”
+
+A member of the National Security Advisory Board, which operates under the PMO, Kamakoti became a part of this case when the Chief Secretary of the Tamil Nadu government, Dr Girija Vaidyanathan, at the behest of the court order dated April 25, had convened a meeting between social media companies and law enforcement agencies on May 22. At the last hearing, Justices S. Manikumar and Subramonium directed the professor to make a formal submission (which he did on July 31, available below) and told WhatsApp to respond to it (by August 14).
+
+MediaNama spoke to Dr Kamakoti to understand the submission that he has made and what he thinks of the privacy related concerns:
+
+“The recommendation is that when a message is generated, originated, you take the message, and at that point, your whole number gets tagged with the message and it travels around with the message. As long as somebody keeps forwarding the same, the originator information also goes along with it. So anybody who receives the message, sees the originator.”
+
+Information need not be stored on the intermediary’s server: “[Information of an originator] should be tagged with the message. So that intermediately on your server, you need not store [the originator’s information]. This will keep travelling with the message as long as nobody modifies it.”
+
+On what constitutes the originator’s information: “Every user of WhatsApp will have a unique identity. It can be a phone number. It is this ID that we want to capture.”
+
+On privacy concerns associated with sharing mobile numbers without consent, especially on WhatsApp groups: “If you are saying that you don’t want [me] to forward a message, tell [me] explicitly that don’t forward [it].” In that case, “that [forwarding without consent] is a breach of contract between you and me. When you send me a message, and you say it can be forwarded, you don’t have any objection to me forwarding it.” “So you should have a basic trust with me. You should say you should not forward or you should forward. You should say I should not forward, and I will not forward. If you say I can forward, then I can forward. That’s just a breach of privacy between you and me if I forward it without your consent. Then I have to be responsible for it [maintaining that trust].”
+
+“Simple” new feature to WhatsApp where “you can have one bit [in the message] that says ‘not forwardable’, ‘forwardable’. One bit.” This is how it will work: “When you are originating a message, you can also be given the option [of making a message forwardable or not forwardable] when I am sending a message to you. I can set that bit and send it to you. That means you cannot forward it to anyone. Now you cut and paste and send it, that still you can do. When you cut and paste, then you become the originator, then you take the responsibility.”
+
+On whether the originator’s information would be visible only to the intermediary (and potentially law enforcement agencies), or to every consumer: “Both ways are possible.”
+
+On the possibility of encrypting originator’s information to preserve privacy: “There can be issues like privacy and other things. I am a computer scientist. I am not talking about that part. If there are privacy and other issues, then it can do an encryption and send that as a part of the message, wherever in this message. You can encrypt it. Whenever somebody goes to the LEA [law enforcement agency] and says that this message is very disturbing, or derogatory, or whatever, then the LEA can basically talk to WhatsApp and get it [the originator’s information, not the message] decrypted.”
+
+“So I say ‘not forwardable’, he should not be able to forward it. That is one part of the story. This is a case where I can see the number as the receiver of the message. I can also get a message in which I can’t see the number, but the law enforcement agency, with some due process being followed, [can] go to the court or whatever, can still see the number, the originator’s number. That is possible. … I store the number in an encrypted fashion which WhatsApp alone can decrypt, then there’s a [something] and there’s a due process followed. So these two are the suggestions. This can also be followed.”
+
+On the importance of due process and preserving anonymity: “That’s okay. See, here you are not violating anything. For example, you can still do this, the originator information in which the anonymity is [maintained]. Anonymity is relieved only in cases of if there is a violation of some rule, that there could be a court order, or there could be LEA, or there could be some due process followed where the originator information can be extracted. And still, I am still telling you, if I send a message to you, you still know who is the originator. So, even in this solution, even when the originator’s information is visible along with the message.”
+
+On whether these changes, when implemented at a global level, can be abused by totalitarian regimes: “In a TOTALITARIAN regime, the tagging of originator information with each message, either in encrypted form (decryptable only by Whatsapp) or unencrypted form (viewable by every recipient) is the best in the interest of the user community. It offers very high protection to the users who forward the messages. The reason can be best explained with the following example.
+
+“Let us assume user A originates the message and sends it to B, who in turn forwards it to C, who inturn forwards it to D. Now D finds this objectionable and reports to LEA of that TOTALITARIAN regime. In the current deployment of WhatsApp, where there is no originator information stored, the LEA of the totalitarian regime can find from the message of D that it has come from C, and then by interrogating C find it has come from B and then interrogating B find it has come from A, and interrogating A find the originator is A. Note again we are talking about a TOTALITARIAN regime.
+
+“The biggest problem now comes if inadvertently B has deleted the message after forwarding to C, then the LEA tracing will stop with B. Now B will be subjected to an interrogation of LEA of a totalitarian regime suspecting him to be the originator, which I don’t think B will welcome. As WhatsApp claims that it does not store any detail about the messages, B cannot even prove that it came from someone else and he/she just forwarded it and hence not the originator.
+
+“If our suggestion is implemented, that is, In the presence of originator information tagged with each message, either in encrypted or unencrypted form, both B and C are safe and will not be penalized for some information that they have not created.”
+
+(Readers, please note, that Kamakoti had not answered our questions about whether these changes, when implemented at a global level, can be abused by totalitarian regimes in the original interview conducted on August 5. MediaNama got this response via email on August 8.)
+
+Also read: Addressing WhatsApp’s Fake News problems
+
+On the need for traceability: “[If] somebody receives the bad message, or somebody receives a message that is suspicious, there needs to be a way to [establish] the authenticity of the message. And that is only for the message’s receiver. I am getting the message anyway today. Now I have some doubt about that message, or that message is creating some unrest. It can be personal, it can be social, it can be anything. Then I need to have a way by which I know who is the fellow [sic] who has generated [the message]. That’s automatic; that’s the immediate question.”
+
+“Somebody who is not, has not got that message will never know the originator. They will never know that such a message itself has been sent. It is only when somebody goes and complains that this is a derogatory message or some message which is crazy, you know, which is creating some civil disorder, it can be personal, it can be nationwide, it can be anything, whatever it be, something which is not acceptable on social media. At that point only, the LEA comes into the picture. When LEA comes into the picture, if [s/]he’s knowing the number, then it’s fine, otherwise, if the number is encrypted and stored, then we can do this end-to-end encryption and then I know that only WhatsApp server can find out what it is.”
+
+On the intermediary’s responsibility: “See, ultimately that is a communication between A and B. So how will a social media intermediary be responsible for it? I don’t think WhatsApp can be responsible.”
+
+Who is the originator? The protagonist, or the villain, in this whole case — the originator — has thus far remained undefined, both in the court and in the proposed Intermediary Liability Rules. For Kamakoti, “Originator is the creator of the message.” This includes three scenarios: first, “you type the message: Hello, Good morning, whatever, MediaNama.” Second, “I cut and paste some message and put it and send. … I can now change it,” because “when you cut and paste, rather than forwarding it as it is, then you become an originator.” Third, “you take an image, you take a media [file] and comment on it, and then forward it, you become the originator.”
+
+On taking responsibility for what’s shared on social media: Kamakoti likened the need for an originator to the need to know the source of a story in a newspaper. “Every newspaper you take, it is mentioned who is the reporter, who is the editor, who is writing this article that you will read wherever, you have to tell who’s writing this article, right? It’s news. When it’s news, I need to know what is the source. … I don’t know whether a newspaper thing that is followed can be extended to social media, I don’t know about it. But see, it makes sense for us because suppose I know the actual address, I know the thing, I know a way by which I can find out if this is a genuine message or not. So, that’s the pro.”
+
+When you modify a message, you become the originator: In “all these three [cases], see these people need to be the originator because all these three essentially mean that I can basically modify the message, and if a message is modified, the original originator who ha[d] sent the message, and which you have cut and paste, that person may not be responsible for this. … If I just get a message, I don’t do anything and just forward it, then the originator gets passed on. But if I do any change to it, in these three forms that I have told you, then I become the originator.”
+
+On the need to verify the originator: “See, when I receive a message, I should know who is the author, in many cases.”
+
+1. To verify potential scams: He gave the example of how on the death of a priest, a fake message was circulated asking for money for his cremation along with bank account details. This message was immediately followed by another message from the priest’s brother-in-law stating that the previous message was a scam. “So two things could have happened, I could have sent the money immediately [and] I would have lost the money. And I could have forwarded it to someone, in which case, I am assisting the crime. I am one of the persons responsible for that crime to spread. On the other hand, suppose I clear this thing that this maybe a fake account, I doubt this, and I don’t also forward, if at all a genuine case, then the social cause for which we have such a media is lost. So, in both these scenarios, it will be better if the originator’s number is there so that I could call that originator, or I could go to some, you know, some what is this, something is there right? this caller ID. Again, [to find out] who’s this. I could call the phone number and find out: ‘Is this true? Who are you? What is this?’ So, this is one scenario I can give you, but we can have multiple such scenarios. The originator’s number if I know, if I as a person who is reading the message, know.“
+
+2. Not possible to go to law enforcement agencies on every issue: “Every message I get, it says that somebody needs money. I can’t go and ask the law enforcement agencies who is the originator, can I? So I need to know who [it is]. That way everybody is having the good sense. Somebody says that I have a heart surgery, I need money. How will I [confirm] those things today? Right? So that’s a pro [of traceability]. So with every message, I have access to the originator information.”
+
+3. For a good cause, an originator should have no problem revealing their identity: “I don’t know what would be lost if I am doing it for a good social cause. … WhatsApp is a fantastic medium.” He mentioned how when a school was devastated by the Gaja cyclone, they were able to contact people as the wi-fi was still working. Mobile towers were affected, but underground cables were still intact. “And within 2 days, we were able to raise a significant amount of money to restructure the school. WhatsApp is doing good stuff like this.” “I would have no objection basically in putting my name there [for a good cause]. That is a good cause. So I don’t see if there is a good cause, why an originator should not want to reveal his[/her] identity.”
+
+For our complete coverage of the WhatsApp traceability case, please visit this link .
+
+Update (August 12, 2019 2:42 pm): The statements by Dr Kamakoti were lightly edited for greater clarity.
+
+Update (August 8, 2019 9:57 am): The article was updated with Dr Kamakoti’s response to our questions about whether these changes, when implemented at a global level, can be abused by totalitarian regimes that hadn’t been answered in the original interview conducted on August 5. MediaNama got this response via email on August 8 at 9:30 am.
+
+We also added the following answer that was given on August 7:
+
+On what constitutes the originator’s information: “Every user of WhatsApp will have a unique identity. It can be a phone number. It is this ID that we want to capture.”
+
+[embeddoc url=”https://www.medianama.com/wp-content/uploads/Dr-Kamakoti-submission-for-WhatsApp-traceability-case-1.pdf” download=”all”]
+
+Update (August 13, 2019 2:31 pm): Embedded Dr Kamakoti’s report.
+
+Update (August 7, 2019 9:58 pm): The headline of the article was updated. The original headline, “IIT Madras’s Kamakoti tells MediaNama how WhatsApp traceability is possible without undermining privacy”, was misleading.
+
+Update (August 7, 2019 9:27 pm): This article was updated with the following changes/corrections suggested by Dr Kamakoti for greater clarity and readability:
+
+The original article was published at 2:08 pm on August 7, 2019 .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

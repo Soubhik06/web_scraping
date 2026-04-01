@@ -1,0 +1,33 @@
+Simple yet malicious, this WhatsApp hack might be recently reported but the modus operandi is not entirely new and there still may be a way to prevent such attacks altogether.
+
+At least three people from Hyderabad over the past week have been a victim of a form of social engineering hack where malicious actors get unauthorised access to a person’s WhatsApp account.
+
+Hyderabad Cyber Crime Police Station station house officer KVM Prasad described this attack while talking to a local Telugu news channel V6. This is how it works —
+
+వాట్స‌ప్‌ను హ్యాక్ చేస్తున్న సైబ‌ర్ నేర‌స్తులు. జాగ్రత్త! @TelanganaCOPs @cyberabadpolice @HiHyderabad pic.twitter.com/SHC2fQPYUR
+
+— Economic Offences Wing Cyberabad (@EOWCyberabad) August 18, 2021
+
+“In the last few days alone we have received three cases. Even if its from your friend, don’t click on unknown links on WhatsApp,” Prasad told NTV. We have reached out to Prasad with our queries and will update the post when we receive a response.
+
+Unlike nation-state cyberattacks or attacks exploiting a platform’s vulnerability, social engineering attacks have to do with our susceptibility to such scams and our complacency when it comes to securing our devices.
+
+This type of attack where the actor hijacks one’s WhatsApp account is not new. Cybersecurity researchers have earlier recorded similar social engineering attacks where the actor gets access to the OTP of a WhatsApp account and gets access to it. Going by the account of the Hyderabad city police, the only bit that is new would be the manner in which the hacker has gotten access to the OTP.
+
+For instance, a researcher at Cygenta, a UK-based cybersecurity company, was targetted by a similar attack last year . Madeline Howard, the researcher in a blogpost said, “When you download and install WhatsApp on a new device, WhatsApp will then send the mobile number you have entered a 6-digit verification code. This code verifies that you possess the mobile number and device. Once the 6-digit code has been entered that device will then receive WhatsApp messages for that account.”
+
+This is how it works next, according to Howard —
+
+According to WhatsApp, one can set up a two-step verification process which is “an optional feature that adds more security to your WhatsApp account. You’ll see the two-step verification screen after you successfully register your phone number on WhatsApp.”
+
+In this two-step verification, one can enter their email address which will allow WhatsApp to email a reset link in case a person has forgotten their PIN number.
+
+“To help you remember your PIN, WhatsApp will prompt you to periodically enter your PIN. Unfortunately, there isn’t an option to disable this without disabling the two-step verification feature,” The FAQ section of WhatsApp said.
+
+Also read
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

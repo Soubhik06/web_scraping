@@ -1,0 +1,31 @@
+You are reading it here first: Between January and June 2021, 30 data breach incidents were reported to the Indian Computer Emergency Response Team, a response to an RTI filed by MediaNama has revealed. This new disclosure by the nodal agency comes after incidents at Pine Labs , Dominoes , Air India , etc., have compromised the data of millions of Indians in the last few months.
+
+As per the information reported to and tracked by Indian Computer Emergency Response Team (CERT- In) a total number of 30 suspected data breach incidents observed during 01.01.2021 to 30.06.2021 — RTI response
+
+CERT-In also revealed that it has taken cognisance of the breach at Pine Labs and said that the matter was currently under investigation.
+
+Earlier this year, a petition was filed in the Delhi High Court alleging inaction by CERT-In against various cybersecurity incidents reported to it. Meanwhile, India is still awaiting its new National Cyber Security Strategy which has been in the works since 2019.
+
+Pine Labs is an Indian merchant company that provides financing and last-mile retail transaction technology. In August, Pine Labs was attacked by a ransomware group called BlackMatter which has emerged as a new hacking group that extorts huge sums of money. According to an investigation by Cyble Research Lab , 5,00,000 unique records including sensitive information such as phone, name, and email ids were accessed.
+
+In its response, CERT-In said that it had published an advisory regarding data breaches in January 2021 which contained recommended best practices such as conducting cybersecurity training for employees, setting up reporting and incident response processes, keeping software and services updated, etc.
+
+In July, the Ministry of Electronics and Information Technology revealed in Lok Sabha that CERT-In observed a total of 6,07,220 cybersecurity incidents in the first half of 2021.
+
+What is considered a cybersecurity incident? According to the Information Technology (The Indian Computer Emergency Response Team and Manner of Performing Functions and Duties) Rules, 2013, a cybersecurity incident is any event related to cybersecurity that resulted in a breach of security policies and unauthorised access, denial of service or disruption, unauthorised use of a computer resource for processing or storage of information or changes to data, and so on.
+
+What is considered a data breach? A breach instead is defined as the unauthorised acquisition or use by any entity of data that compromises the confidentiality, integrity, or availability of information maintained in a computer resource.
+
+At present, security incidents and vulnerabilities can be reported to CERT-In by contacting the agency (through email, phone, or fax) and providing details. However, a recent update to its Responsible Vulnerability Disclosure and Coordination Policy laid down that incident reporters could be held liable for the methods through which they discovered a vulnerability.
+
+“Reporting a vulnerability to CERT-In does not imply being exempt from compliance. Discloser shall be responsible for any action performed by her/him discovering the vulnerability whatsoever,” the policy read.
+
+Cybersecurity researchers and experts have criticised the update, saying that it was equivalent to ‘shooting the messenger’ and could impede such reporting.  Last week, the digital rights group Internet Freedom Foundation wrote to CERT-In, raising concerns about researchers’ potential reluctance in reporting vulnerabilities in the future and asking for a change in policy.
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

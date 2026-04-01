@@ -1,0 +1,53 @@
+Ola has halted its food delivery service on both the Ola app and the Open Network for Digital Commerce (ONDC) network. Notably, Moneycontrol first reported the change after the Ola Foods interface went inactive in recent days.
+
+The feature is no longer functional for users, and restaurants are not taking new orders. Sources told Moneycontrol that the pause is part of a reassessment of the business, with the company reviewing whether Ola Foods fits into its long term plans. There is currently no indication if or when the service will restart. And, Ola has not issued a public announcement to clarify the status of Ola Foods.
+
+Notably, the pause sits within a wider reset of business lines outside mobility and electric vehicles. Over the last two years Ola has scaled back or shut down several non-core experiments including Ola Cars and the quick commerce pilot Ola Dash. And apparently food delivery is the latest vertical affected by this portfolio review.
+
+Importantly, this change also marks another shift in Olaâs ongoing attempts to establish a food delivery business. Earlier efforts included Ola Cafe in 2015 , the FoodPanda acquisition in 2017 and a cloud kitchen model under Ola Foods in 2022 . But none of these attempts sustained scale.
+
+Ola adopted ONDC as the core of its latest food delivery push, instead of building its own restaurant marketplace. ONDC’s seller apps like Magicpin and uEngage had already onboarded restaurants, and logistics could be fulfilled either through network partners or Olaâs own fleet. As a result Ola operated purely as a buyer-side interface, without investing in onboarding, merchant acquisition or fulfilment infrastructure.
+
+Steep pricing incentives drove early uptake for food delivery. For instance, users said Olaâs ONDC orders were significantly cheaper than Swiggy or Zomato, sometimes by 70% to 80%. Many users also noted that delivery fees were waived and restaurants said commissions were lower. These conditions helped Ola gain traction in Bengaluru, which continues to be ONDCâs most active food delivery market.
+
+However the current pause signals a shift in internal priorities. Ola has already deprioritised Ola Dash as well as Ola Cars, and food delivery now sits under the same review. A check of ONDCâs consumer-facing directory shows that Ola still appears as a buyer app. However, the tile no longer offers a ‘Shop Now’ action.
+
+Ola still appears as a buyer app on the ONDC website, but sans the ‘Shop Now’ button (Image source: MediaNama)
+
+Effectively, the listing remains live but non-functional, and there is no explanation or timeline for resumption. This presentation reflects how ONDC surfaces service availability changes across the network.
+
+Understanding ONDCâs structure explains why Olaâs pause matters. ONDC is a protocol rather than a platform. It distributes responsibility across multiple participants: seller apps onboarding restaurants, logistics providers delivering orders and payment entities processing transactions. However the buyer app is the only interface a user interacts with, and therefore it becomes the primary point of accountability.
+
+One must note that Ola operated as a buyer app. For context, under ONDCâs framework buyer apps are responsible for order placement, tracking refunds, and grievance handling even when issues originate elsewhere in the chain. Therefore the buyer side layer carries the duty of communicating with users when delays, failures, or cancellations occur.
+
+The ONDC directory shows Ola listed as a buyer app, indicating its role as the consumer-facing layer accountable for order experience and support (Image source: ONDC website)
+
+ONDCâs public dashboard shows retail order activity slowing after the initial spike. Between January and August 2025, total retail orders on the network declined by more than 5%. Karnataka continues to record the highest order volume, while Bengaluru Urban remains one of the most active clusters on the network.
+
+However the slowdown suggests the network is moving into a different phase. The early surge was fuelled by steep discounts and subsidy-driven experimentation. As those incentives taper, users begin to prioritise fulfilment reliability, predictable timelines and accessible support channels rather than exclusively price advantages.
+
+This shift matters because expectations in food delivery have already been shaped by Swiggy and Zomato, which offer established fulfilment and support systems. Moreover new entrants like Rapidoâs food delivery feature Ownly are trying to compete in the same space with targeted pricing and rapid expansion, especially in Bengaluru. This raises the bar for buyer apps participating via ONDC as users now compare the experience against platforms with well-developed service workflows.
+
+As ONDC matures, participation is no longer about listing inventory or offering price incentives. Instead buyer apps need to invest in the user-facing layers of accountability including tracking, refunds and grievance handling. The slowdown in network-wide order growth, and the concentration of activity in specific cities indicate that ONDC is shifting from experimentation to retention, where reliability and consistency become central to adoption.
+
+As Ola scaled participation on ONDC, users began reporting issues linked to fulfilment and support. One user on a Bengaluru forum on Reddit described waiting two hours while the delivery agent remained at the same location and blocked communication, with no support option visible in the app.
+
+Another reported receiving fewer items than ordered and said the support ticket closed automatically without resolution. Elsewhere, some users said orders were stuck in an out-for-delivery status for prolonged periods. While, others said that responses to escalation attempts were delayed or absent across the app and social platforms.
+
+Furthermore several users stated that refunds eventually arrived only after persistent follow-ups, or complaints through external consumer channels.
+
+Notably, these incidents align with buyer-side responsibilities defined in ONDCâs framework. The network distributes onboarding and fulfilment across participants. However accountability to the user remains centralised with the buyer app.
+
+Olaâs pause on Ola Food operations raises a broader question about how ONDC intends to maintain trust and user experience as the network scales beyond experimentation. ONDC makes it easier for new players to enter markets dominated by incumbents. However, food delivery is a category where user expectations around fulfilment visibility and dispute handling are already well established.
+
+Therefore participation on ONDC must require more than listing inventory. It must demand seamless operational investment in support, communication, and reliability across a distributed transactional system.
+
+Olaâs current status illustrates this tension. The company remains visible to users through the ONDC directory, while ordering is disabled and there is no explanation or timeline provided. As ONDC expands, clearer rules for communicating service availability, and setting buyer side expectations may become necessary.
+
+Pricing incentives helped ONDC gain initial adoption. The next phase will depend on whether the network can deliver consistent reliability, transparency, and accountability. Whether buyer-side applications invest in these elements will ultimately determine how sustainable participation becomes.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

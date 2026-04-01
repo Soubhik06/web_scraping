@@ -1,0 +1,25 @@
+On July 15, cybersecurity firm Symantec revealed that attackers can manipulate users’ WhatsApp and Telegram media files on Android because of a ‘Media File Jacking’ flaw in the apps. It affects WhatsApp for Android by default, and Telegram for Android if certain features are enabled. “It stems from the lapse in time between when media files received through the apps are written to the disk, and when they are loaded in the apps’ chat user interface (UI) for users to consume,” Symantec said.
+
+WhatsApp, by default, saves received media files in external storage. On Android devices, files saved to external storage are “world-readable/writeable, so they can be modified by other apps or users beyond the app’s control”, while files saved to internal storage can be accessed only by the app itself. Similarly, in Telegram, if a user enables ‘Save to Gallery’ feature, files will be saved in external storage.
+
+Consequently, when these files are saved to external storage, other apps with write-to-external storage permission can potentially manipulate these media files. Symantec found that nearly 50% of a given device’s apps have this permission.
+
+Here’s what WhatsApp told MediaNama:
+
+“WhatsApp has looked closely at this issue and it’s similar to previous questions about mobile device storage impacting the app ecosystem. WhatsApp follows current best practices provided by operating systems for media storage and looks forward to providing updates in line with Android’s ongoing development. The suggested changes here could both create privacy complications for our users and limit how photos and files could be shared.”
+
+This vulnerability affects media files. Thus, while your text messages sent on WhatsApp’s end-to-end encryption channels are secure (because they are encrypted), your media files, by virtue of being saved in an unsecure manner, expose the entire ecosystem to manipulation.
+
+There are 2 steps to handling media files: downloading them to external storage, and retrieving them from there for users to consume via the apps. The time between these two steps is when malware can instantaneously analyse and manipulate the files (or just replace them with the attacker’s chosen files) for malicious gain.
+
+Symantec pointed out that the the Media File Jacking vulnerability points to a bigger issue of app developers’ non-secure use of storage resources.
+
+Here are potential scenarios where this vulnerability can be abused:
+
+The main aim is to disable the feature that saves media files to external storage:
+
+*** Update (2:04 pm): This article was updated with WhatsApp’s response.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

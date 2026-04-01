@@ -1,0 +1,35 @@
+In line with the Online Safety Act’s provisions on age-gating access to pornography, the United Kingdom’s communications regulator Ofcom’s latest consultation paper includes steps on how online service providers publishing pornography can comply with these measures.
+
+To prevent children from accessing pornography, the Online Safety Act holds that service providers should implement “age assurance” measures that are “highly effective” at determining the age of the user. Age assurance can include age verification, estimation, or a combination of both.
+
+Ofcom claimed that these service providers are currently insufficiently age-gating online pornography. “Many grant children access to pornographic content without age checks, or by relying on checks that only require the user to confirm that they are over the age of 18,” the regulator observed.
+
+Responses to the consultation close by 5 pm on 5th March, 2024, and the guidance may be finalised within the next year. Once in force, pornography publishers will have to implement “highly effective” age verification tools or face penalties of up to 18 million GBP, or 10% of global revenue, whichever is higher. The question of who these rules may apply to remains uncertain for now, though, as The Verge sharply notes :
+
+“The guidelines being announced today will eventually apply to pornography sites both big and small so long as the content has been ‘published or displayed on an online service by the provider of the service.’ In other words, they’re designed for professionally made pornography, rather than the kinds of user-generated content found on sites like OnlyFans. That’s a tricky distinction when the two kinds often sit together side by side on the largest tube sites. “
+
+A few years ago, the United Kingdom introduced a plan mandating age verification before accessing online pornography, under the Digital Economy Bill, 2017. It was scrapped in 2019, after critics raised concerns over the privacy harms collecting age-related data could precipitate, among others.
+
+Ofcom’s guidelines for entities publishing pornography on their own services : This phenomenon is described under the Online Safety Act as “provider pornographic content”, a guidance accompanying the consultation paper explained. Such entities should ensure that children can’t “normally” access it, through verifying or estimating the user’s age. If found to be a child, access should be restricted. These entities should also keep written and simple published public records of the steps they’ve taken to restrict children from accessing pornography on their services, and how they’ve balanced users’ privacy interests against these measures. These entities should also prevent children from bypassing age-based access controls for pornographic content.
+
+Ofcom’s criteria to help decide on the best age verification tool : While the guidance doesn’t recommend specific technologies, it lays out various principles to help companies decide which age verification tool may be the most effective:
+
+The consultation paper also provides examples of tools that could be “highly effective” like open banking, photo-ID matching, facial age estimation, MNO age checks, credit cards, and digital identity wallets. Ineffective tools listed included self-declarations, payment methods that don’t require the user to be above the age of 18, contractual restrictions on children using the service, and Debit, Solo, or Electron cards.
+
+About the Online Safety Act : The Online Safety Act received royal assent (and came into force) in late October. It attempts to improve online safety in the United Kingdom by introducing various platform obligations to prevent online harms like anonymous trolling, the spread of child sexual abuse content, and scams, among others. Click here for our coverage of the law and its many surveillance controversies—like its proposal to weaken encryption on messaging apps to scan private messages for illegal content.
+
+Child verification in the Indian context : India’s recently passed data protection law holds that children should provide “verifiable consent” from their parents or guardians for their personal data to be processed. At MediaNama’s PrivacyNama conference earlier this year, public policy professional Manasa Venkatraman suggested different methods for platforms to consider, that balance the privacy of both parents and guardians in data processing situations. For example, ephemeral and tokenised verification systems are being considered by France’s privacy regulator:
+
+“They’re working with a think tank slash privacy expert, cryptography expert to devise a system where the age verification question is actually a challenge that’s posed to the minor. And it’s a cryptographic question-and-answer kind of challenge, there is a certain amount of friction. But it’s, if it’s answered correctly, then the assumption is that an individual over the age of majority would have only known the answer to this kind of question. For the life of me, I couldn’t figure out I couldn’t find an example of what this challenge would be. But that’s the idea. It’s also ephemeral and tokenized, meaning that only a hash is shared between the third-party verifier and the platform to which the minor seeks access.”
+
+Uthara Ganesh’s Snap added that platforms should think about the trade-offs of different age verification measures:
+
+“There’s self-disclosure, which is easily circumventable [by children]. The second is, of course, ID-based verification, which we know, of course, has data privacy risks, but then also the trade-off there is that some people may not even have IDs. There’s an access versus accuracy trade-off there. The third is, of course, using biometrics of some sort, which some experts think actually might be quite fine from an accuracy perspective, but then there are variances because of things like skin color and your physical features, etc.”
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Read more
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

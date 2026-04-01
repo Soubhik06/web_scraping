@@ -1,0 +1,329 @@
+SUBREDDIT: r/india
+TITLE: Found on Quora by an anonymous user, is it true ?
+DATE: 2018-08-29
+SCORE: 52
+URL: https://www.reddit.com/r/india/comments/9b52m0/found_on_quora_by_an_anonymous_user_is_it_true/
+
+--- POST TEXT ---
+
+On popular request
+
+Tldr: tele**con** companies activate VAS because not many people care to deactivate and issue fake recharge coupons because not many people care to talk to customer support for ₹20.
+
+Reposting this answer as I deleted the previous one. Read footage for more info.
+
+ 
+
+Long Answer, please be patient.
+
+ 
+
+I worked as a Customer Care Executive for Vodafone Mobile for a short period of time.
+
+ 
+
+\#Trick 1
+
+ 
+
+Most of the calls in the morning were about balance deduction. Customer calls and complains that they lose balance at midnight for some value added service (VAS).A typical conversation, it was in regional language.
+
+ 
+
+Me: "Good Morning, I'm X and how can I help you"
+
+ 
+
+Cust: "I lost balance from my account" (The tone of the customer changes according to their frustration)
+
+ 
+
+Me: "sorry for the inconvenience caused, can you please hold on while I check the details?”
+
+ 
+
+Cust: “Yes”
+
+ 
+
+Me: “Hello, I found out that service XY is activated yesterday that’s why the amount is deducted”
+
+ 
+
+Cust: “How it is activated? I didn’t activate any service”.
+
+ 
+
+Me: “Have you been receiving any telemarketing calls or messages where you respond to that calls or reply to messages?”
+
+ 
+
+(Trick question, you will always receive calls unless you enrolled for DND)
+
+ 
+
+Cust: “I have been receiving calls regarding Vodafone offers but I didn’t activated any.”
+
+ 
+
+Me: “Mam, the record shows that you have activated the service via telemarketing. Did any children play with the phone?”(Tricking customer)
+
+ 
+
+(Some people say yes, some no. If yes then they will think that’s the reason.)
+
+ 
+
+Me: “Mam, if you are not satisfied with service I can deactivate it and refund the amount.”
+
+ 
+
+Cust: “Please deactivate the service and initiate for refund”.
+
+ 
+
+Me: “Ok mam. I have created a request for your refund. You will get your refund within 24 hrs.”
+
+ 
+
+So where is the trick? There are 2 ways (at that time) a service can be activated. By Customer Request (Telemarketing / via Customer care / Sim Options / IVRS) or from Oracle CRM (Customer Relationship Management) Software, a software used by Vodafone for customer interaction.
+
+ 
+
+Every week on random day, a random services are activated for about 1.5 Lakh customers (for one state).
+
+ 
+
+While we address the call, in the software it shows the initiator of the service is CRM but we could never disclose the truth. We know the software automatically activated the service but cannot accept it. We blame it on children, in-experienced user or like accidentally pressed the button. That’s how we are trained to do.
+
+ 
+
+The service charges might range from Rs.1 to Rs.20 per day or Rs.1 to Rs.90 per week or monthly charges. Remember not all customer will notice the balance deduction. If it is a monthly service, and you haven’t found out the deduction. Next month it will deduct again. And the interesting rule is that refund is only for last 48 hrs. It means if it’s a monthly service and you are finding it on the 3rd month you won’t get the refund for past 2 months and if the amount is deducted on 1st day of month and you are calling the Customer care on 4th day, we will deactivate the service but no refunds.
+
+ 
+
+And how many people actually call customer care?
+
+ 
+
+How many are aware of deductions and refunds?
+
+ 
+
+1.5 Lakh customers was only for one state, what about the other states, this technique was practised in other regions as well.
+
+ 
+
+They were making billions of money with this technique until TRAI (Telecom Regulatory Authority of India) introduced double confirmation for value added service. It means even if you accidently activated a service it will ask for confirmation again via SMS, only then the service is activated. This method existed there for a very long period of time.
+
+ 
+
+\#Trick 2
+
+ 
+
+Every 6 months or something the company create around 5 Lakh recharge coupons that are not valid.1 Lakh of Rs.50 , 2 Lakh of Rs.20 and 2 Lakh of Rs.10 ,these scratch coupons won’t work.
+
+ 
+
+So you go to a store, buy a coupon and try to recharge it. It won’t work you call us. We will ask you how did you tried it, you will say with \*141\*&lt;number&gt;\#.
+
+ 
+
+We will say call 122 and select 2nd option, which was an IVR service for recharging. 
+
+ 
+
+It won’t work there you call us again
+
+ 
+
+We will say have you tried 555(I don’t exactly remember the number). 
+
+ 
+
+The third time we ask you to say the coupon number, we can access an excel sheet with 5 Lakh coupons number. We will search your number if it’s there will say I raised a request and will be credited in 24 hrs. (Usually within 1 hr)
+
+ 
+
+For the first 2 weeks we skip the first 2 step, straight to the excel sheet. After two weeks, we are requested to follow step 1 and 2.
+
+ 
+
+Remember, will every customer call more than two times for solution? When you call you won’t get the same person again. You will get angrier, some stop calling some won’t stop trying.
+
+ 
+
+After 1 month the excel sheet will become void, it means you cannot raise request even if the coupon number exist in the excel, we will ask you to contact Vodafone Store. If you are in a rural area, you are stuck with a void coupon. Even if you are in town and the Store is 6 km away will you go to store to change Rs.20 coupon spending around 20Rs or more to travel there?
+
+ 
+
+If the Vodafone store is near and then your coupon will be exchanged with a working one. But you will face this same issue if you unlucky because 2 Lakh of those coupons are already out in market. It happens every six month on every region, just think about the free money they are making
+
+ 
+
+After some months, when I received my university certificate. I left the company. I was never interested in BPO. I hated lying to people, tricking them, helping company to steal money from poor people. I went to my hometown. One day my uncle came to me and asked me for a help. That his recharge coupon is not working. I asked which network.
+
+ 
+
+He said: “Vodafone”.
+
+ 
+
+Whoa. Hold my beer. :)
+
+ 
+
+I called the customer care, heard all the tricks that I used to say, it was a girl. I asked her to open so and so software and check the status of the coupon number. Check in the excel that the number exist or not and asked her whether the excel is void or not. The rate of her breathing increased. I told her I know what it is and I know you can’t do anything.
+
+ 
+
+Then called my friend who was quality assurance lead in the company.
+
+ 
+
+Me: Bro, that scam they started it again?
+
+ 
+
+Him: yup.
+
+ 
+
+Told my uncle that you need to go to Vodafone store to make it work. It was Rs.50 coupon. He have a foul mouth, he cursed the manager a lot. Manager gave him a new one to his luck it worked.
+
+ 
+
+Note: The people (CCE) you call are really helpless people, they earn 5k to hear all the cursing from the customers for the unethical things that company does to the customer. Be nice to them. They are just like you and me, good people. If you have patience, they will help as much as they can. Shouting at them won’t solve your problem.
+
+ 
+
+While working there, I happened to know some people who worked at Idea, Airtel, Docomo.
+
+ 
+
+It’s same everywhere.
+
+ 
+
+Different techniques.
+
+ 
+
+Different execution.
+
+ 
+
+Result - more money from people.
+
+ 
+
+Update
+
+ 
+
+Thanks for the response.
+
+ 
+
+My advice to avoid being victims of balance deductions.
+
+ 
+
+Know your balance
+
+ 
+
+Even if its 50 paisa or Rs.1000 know your balance. Check the balance frequently. If you find that the balance is deducted, there is a USSD code for every network provider to check the recent balance deduction. Please refer following link, I am not sure whether they are correct are not. If it is wrong ask the customer care for the code.I believe its mandatory according to TRAI.
+
+ 
+
+USSD Codes of all Networks (Vodafone, Airtel, BSNL, Aircel, Idea USSD Codes etc) - Tech Maniya
+
+ 
+
+If there is any deduction that you are not sure of, call them within 48 hrs. There are different ways to convince its your fault. Don’t ever fall for it. There were no direct training for CCE(according to my exp) to lie to customer but indirectly they are forced to do so. Talk like you know more about tech. Learn more about the services that are provided by these networks from your friends or internet. Don’t ever hesitate to ask more questions if you are not clear. If you hesitate, they will take advantage of it and end the call.Remember, they cannot hang the call. According to our rule, we should ask do you understand what I have explained? Do you have any further questions? If you say yes. We are obliged to clarify it for you. We cannot cut the call. If we did it and those calls were considered for quality testing it will be a fatal (means 0 valuation) but please don’t misuse it.
+
+ 
+
+Keep only necessary balance
+
+ 
+
+You will easily understand this. If you have 500 rs as balance you lose 2 rs, will you care? Only some. What if the balance is only 20 rs? When I said these services are activated automatically, most probably it’s not by manually but pro-grammatically. If you are the person who are supposed to write an algorithm to activate such services whom will be your target. The people with more balance. So recharge only the necessary amount. If I am the programmer I would also consider the statistics for customer calls to customer care about balance deduction. I wouldn’t be considering a customer who called customer care more times for complaints regarding balance deduction. So again don’t hesitate. It’s your money.
+
+ 
+
+Stay away from value added sites
+
+ 
+
+For your own sake, do not access value added sites from your mobile. How to know whether it’s a value added site. Those sites are very attractive websites with lot of entertainment contents. Your mobile screen will be full of boxes with download buttons. These sites are exactly like excessive pop-ups websites, wherever you click it will create a popup or open a website in another tab. If you see a purchase or subscribe to this game/app, leave it asap.Use adblocker browser in your mobile if you can.
+
+ 
+
+What I don’t understand is that even after the rule of double confirmation, how these services are activated? The following is my speculation, feel free to contribute if you know more about it.
+
+ 
+
+Wherever the money is involved there is an account, like a bank account. Your mobile number have an internal account for money transaction maintained by the company. Like you have for electricity and land line, you pay the money to a specific account which is assigned to you by the respective company. When you recharge, this particular account get the balance. I believe these value added websites have affiliation with the network providers. When you access such sites and click one of their paid service, with the help of network provider the amount is deducted from your mobile account. The value added services before double confirmation rule was activated by the network while these are like you are paying for the service via your mobile account. See here the initiator is you, the customer not them.
+
+ 
+
+These VAS companies also have APIs (Application programming Interface) which basically means other soft wares can interact with company software and make you their subscribers. You don’t have to be on their websites to subscribe to their service but on any websites that uses their API. That’s why you shouldn’t visit non-trusted websites. We all uses different websites for downloading movies and songs. Fine. But use the sites that are famous. Not some shady websites. If you really want to visit those sites, then use your computer. Don’t visit on the mobile. Again if the amount is reduced, call them ASAP. If you are lucky you will get a refund.
+
+ 
+
+I think you visited one of the site I just mentioned. All modern websites works only with JavaScript. There are exceptions but it’s negligible. JavaScript runs in an environment which is a part of browser. If you visit a website the JavaScript in those website runs on your browser. The solution they provided is just bizarre. I remember some executives were using such statement while I was working there. If you disable JavaScript 90% of the website you visit won’t work. Avoid visiting such sites, and again if you ask me which sites? I don’t have an exact answer because web designers always come up with ideas to attract you to their websites. Now you know more about JavaScript, next time when something like this happens, ask them how a websites works if JavaScript is disabled. Tell them you are JavaScript Developer, if they call lie you can also.
+
+ 
+
+Important :
+
+ 
+
+There is a method to identify whether any VAS service is activated on your mobile.
+
+ 
+
+Send message : STOP to 155223
+
+ 
+
+or call 155223 This is a troll free number which should be extended by all network providers according to TRAI.
+
+ 
+
+Deactivate Unwanted Mobile Services By Calling 155223
+
+ 
+
+I checked both options and it works.
+
+ 
+
+Foot Note:-
+
+ 
+
+Hi guys, I realized my answer created a shock for the readers. Some people shared it into other social media sites and to the company itself. I have mentioned some specific details in my first answer that could trace it to me or my friends. Even though I updated those details, anyone could see it on the log of the answer, so I deleted that answer. First time writing an anonymous answer, so made some mistakes.
+
+ 
+
+I worked there for a short amount of time. There are lot of people working in these companies with more secrets. I realized that no one ever exposed such fraudulent activities to the customer. So the heat on me is very high.
+
+ 
+
+You can share this answer to anyone to make them aware of such activities. I don’t have any proof to support my arguments as no electronic devices is allowed on the work area, or even if it’s available I wouldn’t dare doing it as I just started my career then. What I am doing is professionally unethical! As you should never disclose your company secret to anyone. But then again, it is socially ethical.
+
+ 
+
+I read all your comments and surprised that these deductions will never end. Quora removed feature to reply to comment anonymously, I wish I could say more.
+
+ 
+
+If you think how can you lie to customers, when you genuinely know that you are helping the company to do unethical activities? We don’t want to, but that’s the job. If not us, they will hire some new people. Anyway I am out of there.
+
+ 
+
+Again thank you for the support.

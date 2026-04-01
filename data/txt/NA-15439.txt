@@ -1,0 +1,19 @@
+Public sector lender Indian Overseas Bank ‘s mobile banking application is susceptible to JavaScript Injection vulnerability also known as cross-scripting or XSS vulnerability, says Appvigil , a cloud-based Android security application. According to the company,  the vulnerability could become dangerous for the application’s users and if a fully permitted malware performs the same attack, it could steal users’ netbanking usernames and passwords.
+
+Indian Overseas Bank’s app saw mobile banking app saw 216 transactions and witnessed transactions worth Rs 13,81,980 in the month of October, according to the latest data by the Reserve Bank of India .
+
+It is also interesting to note that a recent repor t by security firm F-Secure also said that banking-related malware is still rampant in India. It mentioned that the “Ramnit” malware  steals bank user names and passwords and it mostly spreads through USB removable drives. Meanwhile another security report by Symantec said that India ranks fifth in financial Trojan infections in 2014 with a total of 1,77,000 compromised computers.
+
+Security report
+
+Appvigil conducted an experiment on the Android application and launched the same in an emulated local environment, accessing the WebView and executed some JavaScript code which dynamically changed the “About Us” page to a login page. Following which, a username and password was logged in which was accessible from outside the application.
+
+Appvigil also provided details of the JavaScrip that was injected:
+
+com.iob_phone.ui.IOBProductDetailActivitywith injection String: document.getElementsByTagName(‘body’)[0].setAttribute(‘style’, ‘background-color: red’);
+
+The report also added that JavaScript and plugin support should be disabled for any WebViews which is usually default while building an application and suggested application of filters for dangerous JavaScripts and using a whitelist over blacklist character policy before rendering.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

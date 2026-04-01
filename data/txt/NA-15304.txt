@@ -1,0 +1,29 @@
+“Instead of trying to regulate the [Artificial Intelligence] technology, we are looking at regulating [its] applications,” said Additional Secretary to India’s Ministry of Electronics and Information Technology and CEO of Digital India Corporation, Abhishek Singh, on Thursday at the two-day Global AI Summit 2024 organised by the Government of Telangana.
+
+Pointing out that AI technology can be used for multiple purposes, he clarified that the Government doesn’t want to be prescriptive and that the technology was free for “the researchers to develop.” It is the applications that need to be regulated, “if the need arises.” Expanding on how the government would approach this kind of regulation, he said that the way to look at it is from the point of view of user harm. “If there are some AI-based applications which are resulting in, for example, deepfakes or misinformation or child sexual abuse or something that has the potential of causing harm to a group of people or to a community of people, those are the applications that will be regulated,” he explained.
+
+In March, the IT Ministry came out with an advisory that stated that any under-tested or ‘unreliable’ AI models could only be made available to Indian users after receiving explicit permission from the Government. In addition, it also stated that such models must be “appropriately labeled” and must incorporate consent pop-ups which informed users that generated information was unreliable. Mere 14 days later, the Government issued another advisory preserving only the appropriate labeling provision while backtracking on the provision that directed companies to seek permission. The watered down version came after the industry expressed concerns that the advisory could “kill” AI startups in India.
+
+According to Singh, even though India is doing well, it is still “behind” in building AI-based products and AI-based solutions. The main reason, he said, for this is the lack of focus on research in the field. In terms of basics like investments in and quality of research in AI, “we are much, much behind US and China,” he said.
+
+The second area in which India lacks is access to compute. Comparing the access of companies like OpenAI and other frontier AI companies in the US to the order of 25,000 Graphics Processing Units (GPUs), Singh said that “we are an order of magnitude behind.” At the same time, he added that India was addressing these gaps with initiatives like IndiaAI Mission that promises to scale up the GPU capacity to 10,000 units . He also talked about a Memorandum of Understanding signed between the Telangana government and Hiranandani Group firm Yotta to set up 25,000 GPUs in AI City of Telangana government. (Note: The Telangana government has envisioned a 200-acre facility near Hyderabad called ‘AI City’ hosting multinational corporations, research institutions, and startups to ramp up its AI development efforts.)
+
+Reflecting upon the importance of datasets in the development of AI, moderator Shalini Kapoor of Amazon Web Services (AWS) remarked, “The data is all there. It’s all green. We people are the data. But then how do you clean the data? How do you make it available?”
+
+Singh said that while data is at the core of AI development, India lacks ‘AI-usable’ data currently. “We might just have lots of data sets. For example, OpenData, government has got 500,000 data sets. But how many of it is actually usable for the AI ecosystem? Very few,” he said.
+
+Pointing out the importance of setting standards to handle data, he informed that the Indian government, under the IndiaAI Dataset Platform , was setting up Data Management Offices which will be tasked with ensuring policy recommendation compliance and deployment of tools that make data AI-usable. He added that the government also has a framework for building Data Management Units in every government department, which will make sure that “they are able to work out the mechanisms and use the policies which are there, [and] put data on the AI dataset platform to make it usable.”
+
+IndiaAI Mission’s Dataset Platform pillar seeks to provide citizens’ non-personal data to researchers and startups. Back in March this year, the then IT Minister had announced that the government would create “a non-personal data collection platform” that will be available for Indian data, Indian startups and Indian companies. This becomes a point of interest and concern when read in line with the Digital Personal Data Protection Act, 2023 (DPDP Act), as “non-personal data” under the Act includes publicly available data like citizens’ data on social media platforms.
+
+Talking about voice data as a category of dataset that could take precedence in India, he said that the government was also looking at ‘cross-sectoral’ data. “For example, for all NLP [Natural Language Processing] projects, for Bhashini project, we need a lot of datasets in Indian languages with which people can build services in all languages and also voice enabled services. So that’s going to be the next frontier of service delivery, especially when you want to build the AI layer over DPI [Digital Public Infrastructure].”
+
+He mentioned that under Bhashini, datasets in all languages will be made available to enable companies who want to build AI applications in any sector in any language to use that data.
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

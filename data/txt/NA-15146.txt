@@ -1,0 +1,17 @@
+Italy has become the first country to block the Chinese AI Model DeepSeek R1 given the lack of information about how the model processes users’ data, according to a report by Reuters. In a tweet confirming the restriction, Italy’s data protection regulator Garante Privacy said that it has simultaneously also started an investigation into the AI model.
+
+This comes after Italy’s data protection regulator sent a request for information to the DeepSeek team on January 28 . It asked the company to confirm which personal data the model collects, its sources for said data, the purposes of said data collection, the legal basis for data collection, and whether the servers for storing said data are located in China.
+
+Besides this, the regulator also sought information about the model’s training data. In case the model was trained on data scraped from the web, the regulator directed DeepSeek’s team to clarify how users registered and those not registered to the service have been or are informed about the processing of their data.
+
+DeepSeek R 1, released on January 20 this year, has been rife with controversy from the very beginning. Many claim that it heavily censors its responses especially when said responses may go against the Chinese government. For instance, it refused to address questions about the changes in Hong Kong textbooks in 2019, which stated that the island was never a British colony. Besides censorship, there are also plagiarism accusations against the model with OpenAI reportedly stating that DeepSeek used OpenAI’s API to integrate OpenAI’s AI models into its models.
+
+Further, the data protection measures of the model are also under question. According to a recent blog post by cloud security firm Wiz, DeepSeek has a publicly accessible database that exposes the AI’s chat history, secret keys, backend details, and other highly sensitive information. “More critically, the exposure allowed for full database control and potential privilege escalation within the DeepSeek environment, without any authentication or defense mechanism,” Wiz noted. For context privilege escalation is when a bad actor exploits a vulnerability to gain additional control over a network/service.
+
+Given the range of concerns surrounding DeepSeek one has to wonder whether Italy is the first in the line of countries to investigate the model. Besides Italy, the US Navy has asked its employees to not use DeepSeek due to security and ethical concerns with the model’s usage.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

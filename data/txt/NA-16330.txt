@@ -1,0 +1,87 @@
+SUBREDDIT: r/india
+TITLE: India Security News Weekly: Edition 7 - July 29
+DATE: 2017-07-28
+SCORE: 59
+URL: https://www.reddit.com/r/india/comments/6q5fqb/india_security_news_weekly_edition_7_july_29/
+
+--- POST TEXT ---
+
+Security Underflow (and this newsletter) is an attempt to break down barriers to knowledge about computer security among the general public. I wish to raise awareness about the risks around us and how to mitigate them or raise questions about them when we see them. Feedback/suggestions are welcome here or you can PM me as well.
+
+Last week's newsletter: [Edition 6](https://securityunderflow.com/learn/india-security-news-weekly-edition-6)
+
+Subscribe at: [tinyletter.com/securityunderflow](https://tinyletter.com/securityunderflow)
+
+[Downloadable PDF for sharing](https://securityunderflow.com/files/newsletter/2017/india-security-news-weekly-7-29-july-2017.pdf)
+
+-------------------------------------------------------------------------------
+
+# The Ticker
+
+Ticker is a collection of interesting security news and happenings in Indian companies and startups.
+
+- NEET 2017 results hacked. Exam servers were hacked to fudge the results. [NewIndianExpress](http://www.newindianexpress.com/cities/delhi/2017/jul/27/neet-software-can-be-hacked-delhi-police-1634056.html) [IE](http://indianexpress.com/article/india/new-delhi-man-arrested-for-neet-hacking-helped-girlfriend-clear-exam-4768674/)
+
+- 70 pc of organisations in India transfer sensitive data to the cloud: study [ET](http://cio.economictimes.indiatimes.com/news/digital-security/70-pc-of-organisations-in-india-transfer-sensitive-data-to-the-cloud-study/59792535)
+
+- Kaspersky to launch free version of its antivirus software in India in September [IE](http://indianexpress.com/article/technology/tech-news-technology/kaspersky-free-antivirus-software-to-launch-in-india-in-september/)
+
+- Cybersecurity firm Trend Micro to provide network security for LIC Mutual Fund [FirstPost](http://www.firstpost.com/tech/news-analysis/cybersecurity-firm-trend-micro-to-provide-network-security-for-lic-mutual-fund-3855111.html)
+
+-------------------------------------------------------------------------------
+
+# Policy Water cooler
+
+We cover the policies and other news that concerns the Indian government and citizens en masse here.
+
+- Sebi to meet bourses, discuss cyber security, tech glitches [DNA](http://www.dnaindia.com/business/report-sebi-to-meet-bourses-discuss-cyber-security-tech-glitches-2515729)
+
+- Major ports asked to undertake cyber security audit [Hindu](http://www.thehindubusinessline.com/economy/logistics/major-ports-asked-to-undertake-cyber-security-audit/article9791189.ece)
+
+- Akamai aims to secure digital assets, in talks with government [ET](http://telecom.economictimes.indiatimes.com/news/akamai-aims-to-secure-digital-assets-in-talks-with-government/59773713)
+
+-------------------------------------------------------------------------------
+
+# World
+
+This section takes a look at the top security news around the world which impact most of us.
+
+**[Bad month for Ethereum. Heists worth more than $50 mn in total](http://wccftech.com/hacker-love-ethereum-8-4-million/)**
+
+Ethereum ecosystem is going through a rough patch. Ethereum is a blockchain based distributed computing platform and has a corresponding cryptocurrency called "Ether". Several hacks happened in this month totalling more than $50 mn. Apart from the bugs in the code leading to the hacks, another issue that came out to the front is hacking of the websites offering ICO (Initial Coin Offerings). At least one of these is also suspected to be an inside job/scam rather than being a hack. If you are thinking of investing in cryptocurrency, make sure to read up, A LOT, before investing and keep all your coins offline. I'd suggest to avoid ICOs in particular as can be seen in the above news and all over the bitcoin/other cryptocurrency forums and the news just keeps pouring in about malafide intentions behind most of them like this: https://medium.com/the-quantum-resistant-ledger/to-the-qrl-community-13c1e96e10c5
+
+**[Update to iOS 10.3.3 now: Apple patches serious Wi-Fi exploit](http://www.macworld.com/article/3209658/security/serious-wi-fi-exploit-patched-by-apple-before-its-found-in-the-wild.html)**
+
+Apple patched a bug recently, interestingly right before DEFCON 2017, that allowed an attacker to run arbitrary code on iOS devices over WiFi, without any interaction with the user. Make sure to update your devices asap. Most probably, you are not at DEFCON (if you are, you probably already know about this ;) ), but your friendly neighborhood teenage hacker may be out looking to get a guinea pig for his new attack :)
+
+-------------------------------------------------------------------------------
+
+# Events
+
+Details on upcoming security conferences and other events around India.
+
+ - [IFSEC India](http://www.ifsec.events/india): New Delhi, 16-18 Dec '17
+
+-------------------------------------------------------------------------------
+
+# Inquisitive mind
+
+Take the blue pill and save yourself. Or take the red pill and we'll show you how deep the security rabbit hole goes.
+
+&amp;nbsp;
+
+**References**
+
+*Blockchain:* A digital ledger in which transactions made in bitcoin or another cryptocurrency are recorded chronologically and publicly.
+
+*Cryptocurrency:* A digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank.
+
+&amp;nbsp;
+
+ **Recommended reading this week**
+
+[An Ethereum Guide for Beginners](https://blockgeeks.com/guides/what-is-ethereum/)
+
+-------------------------------------------------------------------------------
+
+-SecurityUnderflow

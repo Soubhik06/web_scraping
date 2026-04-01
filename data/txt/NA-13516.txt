@@ -1,0 +1,103 @@
+On August 25th, 1835, The New York Sun published the first of an extraordinary six-part series.
+
+Peering through the lens of a telescope, English astronomer  Sir John Herschel had discovered vegetation on the moon, the Sun reported. Bison-like creatures roamed the woods, while lead-coloured goats dotted the moon’s surface. The moon was even home to a beach of white sand.
+
+Copies of the newspaper sold like hotcakes, while the story was reprinted in Europe too. The problem was, it was a hoax.
+
+The stories were intended to be satire, but in this case, the writers and editors at the Sun had “underestimated the gullibility of the public”. Nevertheless, the “Great Moon Hoax” established The New York Sun as a “leading, profitable newspaper”.
+
+200 years down the line, fake news and sensationalism have hardly waned—technology has exponentially amplified the visibility and circulation of spurious speech, which can cause serious harm to individuals and communities . “Gullible publics” bombarded with information online have little means to tell fact from fiction.
+
+Platforms are reportedly committed to stomping out such misinformation, however, they aren’t doing enough —particularly in non-English speaking countries like India, where the lines between misinformation and hate speech can be blurred. There’s also a lack of research and data on hate speech in non-English languages, making academic research or informed policymaking a tall task.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+In this light, citizen-led initiatives have sprouted to build archives on how misinformation and hate speech operates online in these regions, and to help netizens claim ownership of a safer, respectful Internet.
+
+Tattle and Hatebase are two such projects. The collective behind Tattle builds “tools and datasets to understand and respond to inaccurate and harmful content” online. Hatebase’s community of volunteers, researchers, and NGOs is building a “regionalized repository of multilingual hate speech” to help entities “moderate online conversations and potentially use hate speech as a predictor for regional violence”.
+
+MediaNama spoke to Tarunima Prabhakar, Co-founder of Tattle, and Raashi Saxena, former Global Project Coordinator at Hatebase for the Sentinel Project, to learn more about their approaches to tackling misinformation.
+
+MediaNama: What was the genesis of the project for both of you? What were the specific regional issues pertaining to misinformation and hate speech online that you initially identified? How did your approach try to solve it?
+
+Raashi Saxena : At the Sentinel Project [the parent organisation behind Hatebase], we use an analogy to describe the relationship between the two phenomena: hate speech loads the gun, but misinformation pulls the trigger. While there are operational differences between hate speech and misinformation, they are aligned in a pre-existing environment of hostility that can eventually lead to violence. The objective of the work was to understand how our online world influences the offline world—which is usually in the context of conflict zones—and how to build community-centric resources [on hate speech] that could help keep people out of harm’s way.
+
+There’s also a consideration that content moderation by humans is not the best way forward [for monitoring hate speech online]. Looking at heinous content for hours together can have a detrimental effect on one’s mental health, alongside the fact that this work is poorly paid. The content moderators from Big Tech are also typically not local—which becomes a huge challenge when understanding the on-ground dynamics and localised context of why something is deemed hateful.
+
+In that light, the idea of Hatebase was to build a collaborative, regionalised repository of multilingual hate speech. We adopted a two-way approach for contributions towards the Citizen Linguist Lab [the collective of citizen linguists working on the project]. We worked with communities, linguists and individuals across the world to build/contribute towards the database. We also worked with communities to provide the necessary social, linguistic and cultural nuance the hate speech term originated from.
+
+This meant that we opened up the platform so that people across the world can contribute. They don’t have to be experts or linguists—as long as they speak the language and give us different inputs on a term. There are also many nuances to hate speech—different dialects might have contexts. Cultural phrases in one part of the world have different meanings in another cultural context.
+
+These inputs feed into our analysis of the content, which helps us give it a contextualised “offensiveness score” to understand it with. Individuals can also go to the platform to provide a rating of the term.
+
+Another primary goal was to not look at censorship as a means to counter hate speech. Hatebase is a huge advocate of having a clinical, analytical discussion on the issue.
+
+To be clear, we don’t consider any localised insults to be hate speech, but look at them as accompanying terms that broaden perspective and context in other ways. We are clear that people input terms that they’ve heard [being used offensively] in person, and not second-hand.
+
+Tarunima Prabhakar : Tattle has been working on misinformation in regional languages since 2018—with a mandate to focus on building tools and datasets that help civic responses to India’s information disorder.
+
+Initially, in 2018, we were focused on misinformation on platforms like WhatsApp and other regional social media platforms in India. Even though hate speech or abusive speech was not our priority to begin with, we realised as we were archiving misinformation from some of these Indian regional social media platforms, that there was almost little to no moderation of hate speech in Indian languages. And hate speech and misinformation are closely intertwined. We realised that though there’s been a lot of focus on content moderation on the likes of Twitter and Facebook, what was happening in Indian languages and on Indian social media platforms was generally under the radar.
+
+We wanted to make the data of misinformation searchable through an archive, and then open it up to the public for their access. But, at the same time, we didn’t want this archive to become a source to access instances of hate speech within the misinformation database. This needed us to filter out the hate speech that platforms hadn’t. But, we didn’t have the tools for it—and open source datasets on hate speech only exist for English. These were typically off-the-shelf APIs open sourced by academic researchers. On the other hand, we couldn’t find even rudimentary datasets like these for Indian languages.
+
+We took inspiration from Hatebase too—its “Slur List” for English had been around since the early 2000s. We thought that we’d start off by building a database like that for abusive speech in Indian languages. Instead of starting from hate speech writ large, we started off with filtering for gender-based violence on social media. And instead of focusing on all languages, we picked three Indian languages to parse through—Hindi, Tamizh, and Indian English.
+
+We also worked with activists to annotate [what they understood as] abusive or hateful speech online [for a plug-in called Uli that lets users control their Twitter feeds by archiving problematic speech, redacting slurs, and mobilising action].
+
+Typically, platforms moderate this content based on specific definitions and understandings of free speech. But, we want to underline that we are a civic tech project—and that this tool [Uli] was something citizens were going to use on their feed. We held focused-group discussions with around 30 activists and researchers working on gender issues to understand what features would be most useful for them. From this group, around 18 annotated around 24,000 tweets, which came up to 8,000 tweets per language. They marked whether they thought the tweet constituted gender-based violence or not [contributing to an informed, citizen-led approach to content moderation on social media platforms].
+
+MediaNama: Both your projects are driven by a community-centric, open source approach to regulating hate speech and misinformation online—as opposed to the top-down, if not close-lipped approach adopted by large platforms. Was this intentional and by design, or did the approach evolve with the projects? Why is an approach like this useful?
+
+Raashi Saxena : We don’t have the capability to police speech. We monitor hate speech from a clinical perspective—in that we’re trying to understand the landscape, what type of hate is out there, and then understand how citizens, researchers, and other stakeholders can use this multi-lingual repository to their benefit.
+
+In that light, for us, it’s really about partnerships [and building a community of practice]. Many stakeholders in this issue don’t have a common understanding that allows them to sit at the same table and talk about this issue. This is also perhaps a policy deficit. There is no legal definition of hate speech under international law and differences exist in national legislations.
+
+So, our idea with the Citizen Linguist Lab was to bring more people together, and for them to work with each other. We don’t have a preference for who to work with. The community of practice that evolved includes a significant number of organisations across the world who lent their expertise towards this. This helped us strengthen our databases, allowing them to be used in different aspects of research [Hatebase contains entries in over 98 languages and their dialects].
+
+This [speech online] is also a constantly evolving context and enhancing stakeholder capacity is important. We opened up our code because we knew that Hatebase would enable greater transparency. We wanted to be able to foster collaborations amongst people working on similar issues, have more conversations around the issue, and develop our understanding better. Opening up our code allows someone to build something better, or analyse it from a perspective that might combat hate speech more effectively.
+
+Tarunima Prabhakar : The role of government and platforms dominate the discourse on mitigating misinformation and hate speech. We were trying to understand how to make citizens claim more space [in this debate], how to be more aware of their concerns, how to make informed choices, and how to have informed opinions on [content moderation] proposals put forth by the government and platforms.
+
+Open source doesn’t guarantee transparency—but it’s a procedural step to achieve it [and the goals mentioned above]. It also helps build trust. It’s not necessary that Tattle has the best solutions for combating hate speech. But if we’ve done certain work, we would like any other person to be able to fork the code base and build another adaptation of it. We want to build public goods that everyone else can use as well.
+
+MediaNama: So the mandate of how you wanted to create your projects is fairly clear. But, how have users used your tools and in what use cases?
+
+Tarunima Prabhakar : Tattle has developed an open data set of fact-check sites—this has mostly been used in journalism and academic writing. For example, there was a story by the BBC that used the database to discuss the Islamophobic slant to misinformation in India. Another report used the tool to investigate the Sushant Singh Rajput case. The database has also been the subject of two academic papers. There are no overlaps with the government or private sector.
+
+Raashi Saxena : Hatebase has currently established partnerships with over 350 universities across the world. We’ve worked with the Qatar Computing Research Institute to identify different dialects of Arabic. Our dataset has also been used by Pollicy, a Uganda-based collective investigating the online abuses women politicians face during the Ugandan elections. Hatebase has also been incorporated into university curricula in the US.
+
+MediaNama: Given your experience working on these projects, what do you think an ideal regulatory approach to stemming online misinformation and hate speech can be? Is this something that governments can even successfully do alone, or does it require a mix of stakeholders?
+
+Raashi Saxena : I’m not sure if the government could be the sole regulator. It depends on who the perpetrator of hate speech is. We [Hatebase] did observe that a lot of speech shut down online is not necessarily hate speech, but unpopular speech. There was an ostracization of particular speech that goes against the overarching power, and in some cases, the subject of the speech has been the government.
+
+When it comes to the enforcement of policies, it really does come down to the service providers and social media companies. I believe that they should adopt a hate speech policy that adequately balances freedom of expression, and develop different notification schemes [that flag hate speech] based on responses from national contact points, trusted reporters, and users.
+
+The reason why Hatebase went ahead with the community-centric approach is that we don’t want a single point of contact to act as a fact-checker. We want behavioural systemic change—and to build a culture around verifying information, whether it’s misinformation or hate speech. So, we do believe that the development of policy should be done by a wide variety of stakeholders to create this standard practice.
+
+Tarunima Prabhakar : From a policy standpoint, what the government has been doing to regulate speech online feels detrimental to me. This [hate speech] is a socio-technical problem, and the threat models have evolved from what they were 15-20 years back, where the [cyber] attack was on a server, for example. Now, we’re using people’s social cognitive vulnerabilities and orchestrating large-scale [information] attacks.
+
+Given that the nature of the threat has changed, the [regulatory] approach also has to change. But a lot of the regulatory fixes, in my opinion, are very technocratic and are still tied to this older notion of security and threat models. They don’t align with the current state [of misinformation and hate speech online].
+
+As an alternative, I feel competition policy and platform economics are important to hunker down on. Changing economic incentives is more important to consider before regulating speech.
+
+One lever for government intervention [to mitigate hate speech] can be local law enforcement forces. They can use their networks, trust factor, and social connections to respond to misinformation scams. The work of the Sentinel project, for instance—and its framework [of monitoring abusive speech] can be used by local law enforcement [to combat the issue in their jurisdictions]. It’s a more challenging approach—and not as alluring, because it’s decentralised, and you don’t have one big centralised policy to solve the issue. But it’s another way to move forward.
+
+MediaNama: Moving forward, what’s next for your projects and where do you want to take them, especially given the rapidly evolving nature of the online information ecosystem?
+
+Raashi Saxena : There is a dearth of local researchers working on hate speech and there was a lack of training datasets on hate speech in different languages and dialects we [Hatebase] work in. While I’m no longer with the project, I can say that we always approach these issues from the side of counter-messaging, and more education too. One would want to build more with stakeholders and explore different ways of active participation with the public.
+
+Tarunima Prabhakar : We have a couple of ongoing projects on civic responses to misinformation. For example, Viral Spiral is an adaptive digital card game about sharing news on the Internet.
+
+For Uli specifically, we want to expand to more languages and media types [currently, the tool supports text in English, Hindi, and Tamizh]. This is because a lot of the abuse takes place in a multimedia format across platforms.
+
+Another feature that has emerged as an important one for Uli, is archiving. For example, when you report a tweet or account, I wouldn’t know that you’ve done it. But, if using Uli, four different people archive a post as abusive, and if these archives are searchable, they can be used to build advocacy around speech online, especially when engaging with platforms or law enforcement. An archive indicates that what someone is going through isn’t an isolated experience—they are not the only person who finds the information abusive. That’s one of the goals at Uli—we don’t want people to feel alone when facing harassment [online]. Because, when that happens, you feel isolated and exhausted and recede from certain spaces and don’t engage with critical topics [or speech].
+
+Note: this story was updated on 04/01/2023 to correct Saxena’s job title. The error is regretted.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Read More
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

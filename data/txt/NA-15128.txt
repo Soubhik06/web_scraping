@@ -1,0 +1,31 @@
+The hacker or hacking group that set up a website over the last fortnight to showcase user data that was stolen from MobiKwik ‘s servers has pulled all the data from the website, stating that all the data has been deleted from their servers.
+
+On Tuesday, MediaNama visited the website through The Onion Router, and queried the database for our personal information using their names, email addresses or phone numbers. We found that the data on the website, including card and bank account information, was accurate. However, by late Tuesday night the hacker pulled the database from the website stating that all users were now safe.
+
+The website allowed users to check if their data, stored by MobiKwik, was leaked as part of the data dump. The website, which is also available on the open web, allowed users to query the database and also displayed KYC information of individuals at random, like selfies they took. This included unredacted photographs of Aadhaar cards, PAN cards and other official documents which can be used to view the details of other users.
+
+In a post on RaidForum , the hacker, who goes by the alias ninja_storm, said that they have deleted all the data and two backups of the data from all their servers, including small copies of the data which a part of the TOR site. “We have very long and deep conversations with some independent security researchers about the consequences if data is leaked or sold and decided we will delete all data from our end as MobiKwik is incompetent in that regard,” they said.
+
+The hacker said that now all user data remains secure with MobiKwik, “no one can misuse it except of course Mobikwik for targeted ads or call which everyone does anyway.” While the hacker had initially sought to blackmail the company, and in return they would delete the data, they decided not to pursue that strategy.
+
+“Originally that was our idea. Later people wanted GDPR type rules in India, so we changed our stance by putting a msg in onion site footer. Now nothing. (Also I should say this fiasco helped our other ventures move faster to goals) So, we didn’t accept any ransom payment too in this deal,” they said.
+
+They provided the following statistics as well:
+
+Screenshots of messages exchanged between the hacker and users on messaging platform Discord reveal that the hacker had partially leaked parts of the data dump online in order to entice bidding from other hackers or hacking groups. The hacker also said that they are looking to sell the information back to the company as well. According to the website the hacker was willing to sell the entire dataset for 1.5 bitcoins or $84,000.
+
+MediaNama cannot independently verify if the hacker has deleted all the data from their servers, if they have only stopped public access to the database through the website, or if a ransom was paid to pull the data and delete backups.
+
+Cyber security researcher Rajshekhar Rajaharia, who was the first to report the data breach at MobiKwik, says that one should be cautious about believing the hackers’ claim that they have deleted all the data. “When I had reported the leak on February 26, this hacker said that they had lost the data. So can we trust them? The data can be uploaded again for all we know or they can share the data to another group or they could sell it in parts,” he said.
+
+In a separate post on RaidForum, dated February 25, ninja_storm said that while moving the data from one server to another they lost access to the primary server mid-way and “lost access to middle server and lost company access.”
+
+“We are looking at the data we currently have. Bad thing is we did zip on server into 100gb parts and we are moving data that way. Now my current understanding is to unzip that data we need to have all zip files. As we lost access to the sending server in midway we have some zip files in our secure server but can’t unzip them at the moment…”
+
+“We will see if we can access middle server somehow and get all data. We have all proofs which we sent to people and shared on discore but we don’t have actual data now… “
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

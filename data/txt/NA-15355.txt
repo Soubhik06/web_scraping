@@ -1,0 +1,23 @@
+Windows 7 PCs at the Tamil Nadu government’s Public Department were hit by a ransomware attack, according to reports by The Hindu , The New Indian Express , and IANS . Neeraj Mittal, the state’s Secretary of Information Technology, confirmed the hack to IANS, and reportedly told the wire agency, “It is true. Some computers suffered the ransomware attack,” adding that the government was “trying to get back the access [to affected PCs].”
+
+MediaNama has reached out to the Public Department for comment. Top officials of the department were not reachable by phone for comment. The Hindu cited an unnamed official as saying that the hack was click-based — indicating that someone with access to the computers may have opened a suspicious link they shouldn’t have — and that the impacted files include details of arrangements of high-profile visitors, a key function of the department. It is unclear if hackers merely locked access to the files or obtained copies too. The union-run Centre for Development of Advanced Computing (C-DAC), which has an office at Chennai’s Tidel Park, is said to be working with the state government to try and recover the files.
+
+A ransomware attack locks files on a target computer, demanding users for payment — usually in cryptocurrency that is hard to trace — to release access to the files; the malware usually encrypts the files, making recovery difficult without the attacker’s cooperation. Microsoft stopped providing even extended security updates to Windows 7 in 2020. This is the second major attack that the Tamil Nadu government’s systems have suffered this year, raising significant questions about the state government’s cybersecurity framework.
+
+In July, the Tamil Nadu government suffered a significant attack on its Public Distribution System, which has one of the richest databases of the state’s residents, as it is involved in providing access to subsidised commodities and welfare distribution. The government initially claimed that the breach was limited in scope and only affected public-facing parts of its website managed by a private company.
+
+But in the days that followed, it emerged that the Makkal Number, an Aadhaar-like ID for the state’s residents, had been exposed in the breach. That number is a key element of the Tamil Nadu government’s State Family Database (SFD) project, an ambitious attempt to digitise information on all families living in the state.
+
+The SFD is not the only database whose security is coming into question. Earlier this month, the state’s health minister announced that Tamil Nadu will create a Universal Health ID for citizens, potentially duplicating the union government’s own efforts to create a similar ID for patients in the country, while also raising questions on the security of information stored under such IDs. India doesn’t have a data protection law. Tamil Nadu has a Cyber Security Policy , released by the previous AIADMK-led government last year.
+
+That policy recommends a well-equipped and prepared Computer Emergency Response Team for Tamil Nadu. While this organisation exists on paper , its officers are currently just a committee of bureaucrats who also have other roles in the Tamil Nadu government.
+
+MediaNama had the following queries for the Public Department. We will update this story if we hear back from them:
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

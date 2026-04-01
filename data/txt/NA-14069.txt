@@ -1,0 +1,95 @@
+Swiggy has announced that it has integrated Model Context Protocol (MCP) across its platforms, a move that could allow users to place orders using AI tools such as ChatGPT, Claude, and Google Gemini instead of navigating the companyâs app. According to a report by Inc42 , the integration spans its food delivery business, quick commerce arm Instamart, and dining-out vertical Dineout.
+
+For context, MCP is an open-source protocol that allows AI models to connect to live systems and perform actions. As a result, conversational prompts can translate into real ordering workflows rather than remaining limited to recommendations.
+
+The company has positioned MCP as a platform-level integration rather than a chatbot feature, framing conversational AI as a potential new interface for commerce. However, the announcement raises an obvious question: how much of this actually works today?
+
+To answer that, MediaNama tested the MCP integration hands-on inside ChatGPT. The results show that while AI-driven ordering is live and functional in parts, the experience remains uneven across services and use cases.
+
+Notably, the MCP integration does not appear by default and remains hidden during normal use of AI tools.
+
+To access it, we switched ChatGPT into developer mode, manually added the MCP server by pasting the server URL, and then authenticated the account through Swiggyâs OTP-based login flow. Only after completing these steps did Swiggyâs service-specific tools surface inside ChatGPT.
+
+In practice, the setup required adding separate MCP endpoints for each vertical:
+
+Overall, this setup makes one thing clear. The integration is real, but gated. Moreover, it is not a consumer-ready feature that users can access unintentionally.
+
+Swiggyâs MCP integration appears inside ChatGPT only after developer mode is enabled and the MCP servers for food, Instamart, and Dineout are manually added. Source: MediaNama
+
+Once authenticated, the AI gained access to several core functions that normally sit behind Swiggyâs app interface. During testing, it could retrieve saved delivery addresses from the userâs Swiggy account, identify nearby restaurants based on those addresses, understand natural-language requests and customisations, attempt to build carts, and initiate checkout or reservation flows.
+
+The use of saved addresses is a useful example. Instead of asking for a location or guessing context, the AI could directly see the same delivery addresses that appear inside the Swiggy app and act on them. When prompted to order food or book a table, it could automatically select an existing address and proceed from there, just as a logged-in user would.
+
+This confirms that live backend systems are being exposed to the MCP layer. The AI is not scraping the website or simulating clicks in a browser. Instead, it is interacting directly with Swiggyâs internal Application Programming Interface (API)s, accessing structured data such as addresses, restaurant listings, menus, and order states. In practical terms, this means the AI is operating as a connected client within Swiggyâs system, rather than as an external assistant guessing what to do next.
+
+The AI can see and act on delivery addresses already saved in the Swiggy account, using them to find nearby restaurants and guide the ordering process . (Source: MediaNama )
+
+Among the three verticals, food delivery was the most developed use case during testing. The AI could locate restaurants, ask clarifying questions about items, and attempt to add products to a cart.
+
+However, a recurring issue emerged. In multiple cases, the system could identify a restaurant but failed to load its menu. This occurred across several cafÃ©s, including large chains such as Third Wave Coffee and Starbucks. When menu data failed to load, the AI could not add items to the cart, causing the ordering flow to stall.
+
+In these situations, the system often suggested switching to a different restaurant whose menu did load successfully.
+
+Importantly, there is no evidence that this reflects deliberate steering by the platform. Instead, it points to incomplete or unstable exposure of menu APIs to the MCP layer. Even so, the effect is significant. If the AI cannot access a menu, that restaurant effectively disappears from the AI-driven ordering experience.
+
+When a restaurantâs menu fails to load through the AI interface, the system can see the outlet but cannot add items, prompting it to suggest alternate restaurants whose menus are accessible. (Source: MediaNama)
+
+In the app, users browse freely. They scroll through restaurant lists, open menus, compare items, and decide what to order based on what they see.
+
+In an AI-driven interface, however, that dynamic changes. The AI can only recommend or act on what it has access to.
+
+Let’s consider a simple scenario. A user asks an AI assistant to order a coffee from a nearby cafÃ©. The AI identifies several cafÃ©s, but only one or two menus load successfully through the backend connection. Even if other cafÃ©s are open, popular, or closer, the AI cannot select items from them if their menus fail to load. As a result, the flow either stalls or nudges the user toward the cafÃ©s whose menus are accessible.
+
+From the userâs perspective, this may appear as a preference-based recommendation. In reality, the system is operating within a constrained view of the marketplace.
+
+This does not indicate intentional curation. However, it highlights a structural risk of AI-led ordering. Incomplete data exposure can narrow user choice by default. In such systems, what the AI cannot see effectively does not exist, even if it remains fully available in the app.
+
+Restaurant discovery remains available, but transactional actions stall when menu APIs are blocked. (Source: MediaNama)
+
+Another clear signal from testing was that AI-initiated orders currently proceed only via cash on delivery (COD). Attempts to complete transactions using online payment methods were either blocked or failed at checkout.
+
+Rather than a shortcoming, this appears to be a deliberate design choice. By limiting AI-driven orders to COD, the company can test agent-led transactions while keeping financial risk contained. If an AI misinterprets an instruction or places an unintended order, payment has not yet been captured, making reversals and dispute resolution far simpler.
+
+Furthermore, this approach reduces exposure to fraud and chargebacks at a stage when system reliability remains uneven. Seen this way, the COD-only flow reinforces the view that this is a cautious, safety-first rollout.
+
+COD restrictions prevent the AI from completing the order, reinforcing how payment controls limit financial exposure during early rollout. Source: MediaNama
+
+The company has claimed that Instamart is the first quick commerce platform globally to adopt MCP. In practice, however, the Instamart integration remains partial.
+
+During testing, the AI could understand grocery-related intent and suggest items conversationally. Instamart checkout, however, was not exposed, and grocery orders could not be completed end-to-end through the AI interface.
+
+In effect, this means Instamartâs AI integration currently functions as a guided assistant rather than an ordering interface.
+
+The AI identifies Instamart items but lacks checkout access, forcing the order to shift back to the app. Source: MediaNama
+
+Dineout followed a similar pattern, with one important update.
+
+Initial attempts allowed the AI to find restaurants, check availability, and suggest time slots. However, reservation attempts failed at checkout due to technical errors.
+
+The first Dineout reservation attempt runs into a Swiggy-side technical block. Source: MediaNama
+
+However, in later testing, a table booking was completed successfully.
+
+A successful booking through Swiggy’s Dineout MCP server. (Source: MediaNama)
+
+This outcome confirms that the transaction layer for Dineout exists and can function. The issue, therefore, appears to be reliability rather than capability.
+
+Across food delivery, Instamart, and Dineout, the AI integration follows a clear pattern.
+
+The system understands intent reliably. It parses natural-language requests, pulls saved addresses, and surfaces relevant options. What changes is execution. Food delivery and Dineout allow the AI to enter checkout or reservation flows, sometimes successfully. Instamart stops earlier, with the system recognising grocery intent but unable to place an order.
+
+Stability drops further along the flow. Menu access fails intermittently, payment options remain constrained, and checkout succeeds in some cases and fails in others. These issues repeat across verticals.
+
+Overall, the integration prioritises discovery over commitment. The AI can suggest broadly, but its ability to complete actions remains uneven and tightly limited.
+
+This sequencing mirrors how other Indian platforms are approaching AI-led ordering. Zepto and Zomato have both tested similar systems internally, sharing experiments publicly while keeping them out of consumer-facing products.
+
+By comparison, this rollout is more visible and integrated, but it still stops short of full autonomy. Gated access, confirmation steps, and COD-only payments indicate where platforms are drawing the line as they test how far AI systems can act on a userâs behalf.
+
+In effect, this marks a cautious step toward agentic AI. Platforms are testing what delegation looks like in practice, but only within boundaries they can clearly define and reverse.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,73 @@
+There are many ad funded “free” unofficial apps on the Google Playstore that provide basic services related with Aadhaar that are of little use, yet the Aadhaar number being the sensitive information that it is, the apps have the potential to fool ignorant users into providing sensitive information about themselves to unknown and untrusted third parties.
+
+Nikhil adds: Remember that Google does little or no quality control over what kind of apps are up on the play store, and what permissions they seek.
+
+Here are some examples.
+
+Here is a sample list of apps on the playstore that offer to link Aadhaar with mobile numbers, Banks or PAN cards; with an approximate number of downloads per app:
+
+On their own, a lot of these apps seem simple wrappers around the pages on the UIDAI website containing the form, but also relatively harmless ways to earn ad revenue from simple application frames.
+
+Link PAN Card to Aadhaar with 100,000 – 500,000 installs wants permission to:
+
+Reviews in recent days are largely disappointed and critical
+
+“ link Aadhaar to PAN ” by Naval Kishor wants permissions to:
+
+It has one 5-star review from an unnamed person that says “I think it the best”.
+
+The application “ Aadhaar Quick Links ” by kalvisethi wants permissions to:
+
+This app has 14 5-star reviews containing between 1 and 4 words each calling it either a good app or a useful app. And 4 1-star reviews, including one that calls it fake and one that says it can’t be uninstalled.
+
+Most of these apps offer to do really basic checks for linking and are frames for the UIDAI website. They have a large number of downloads, poor reviews and permissions that can compromise privacy/security.
+
+Providing two sample apps in greater detail, this time with screenshots of latest reviews and permissions:
+
+Aadhaar Card link to Mobile number (100,000 – 500,000)
+
+Permissions this app wants:
+
+Link Aadhaar Card to Mobile Number and SIM Online (100,000 – 500,000)
+
+Permissions that this app wants:
+
+Link Aadhaar with SIM Card (100,000 – 500,000)
+
+Permissions that this app wants:
+
+The common factors here are that the apps all seem to have a large number of installs and the latest people installing are all discontented with consistent 1-star reviews. This is probably because installing the apps does not achieve the goal of linking mobiles and the users also need a fingerprint reader in order to authenticate the Aadhaar using biometrics – the alternative is what was known to the mobile users all through – go to the nearest service provider and link the Aadhaar in person. This is mentioned in the descriptions of the apps. In essence, the apps are useless to most people installing them.
+
+These apps scan the QR code on an Aadhaar number and display the encoded data from the code (which, in authentic cards would be identical to what is printed on the card). Some example apps would be (estimated downloads in brackets):
+
+And variations along the same theme. There are dozens of these apps with near identical features. Reviews usually vary between 5-stars and 1-star with very few in between. Often, the reviews that rank the app low contain comments like “app does not work” “fake app – do not install”
+
+The general gist of features is that you can scan the QR code on an Aadhaar card to read the encoded demographic data. It is possible to download a pdf of the Aadhaar card from the UIDAI website and store it on the phone. And the occasional app will ask for permissions that have nothing to do with reading a QR code or downloading an Aadhaar. For example, the Aadhaar Card Scanner: Online Aadhaar Guide which wants permissions to access your location data based on network as well as fine location data based on GPS – in addition to permissions related to its features like accessing your phone camera to click pictures as well as videos and add, modify or delete data on your USB storage. This app is ranked 4.2, while its latest reviews are invariably critical and call it a fake app or a bad app.
+
+What is common to all these apps is that they do nothing beyond displaying the contents of the QR code showing relevant pages of the UIDAI website in a frame. Those who are aware of the mobile apps, are already aware that they can download their Aadhaar from the UIDAI website. Using an app to visit a website that is already well publicized and easily accessible from a browser is not much of a value add in return for the ads being displayed on the apps.
+
+Reading the QR code of own Aadhaar card is pretty pointless, as the data returned is identical to what is already printed on the card – it may have some value to those collecting Aadhaar cards of others and need a basic check to prevent fraudulent cards being accepted, but in reality, it isn’t very hard to generate a QR code and the apps don’t actually have API access to validate anything.
+
+Many of these apps call themselves fake apps or prank apps. Lacking access to an API, they usually simply wrap the relevant page on the UIDAI website for users to submit data on the UIDAI site to download their Aadhaar cards. Most of these apps do little more than let people enter and validate their Aadhaar details on relevant pages of the UIDAI website – something people do without apps anyway.
+
+These status checks are often a part of other apps as added “features”, so not listing apps here separately.
+
+There are also apps that appear to be useful and are widely installed, that ask for some very questionable permissions. For example, the “ *99# BHIM Aadhaar Pay offline ” app by PayQRde. This app allows SMS based funds transfers that don’t require being connected to the internet and allows the scanning of a QR code to make payments. The permission this app wants let it do a lot more than it strictly needs to function. This app could use your phone as spyware with these sort of permissions. You can check the permissions for a level of safety here . The permissions made bold can violate user privacy/security. These are the permissions it asks for:
+
+There are several apps of this type. Published by unauthorized developers, accessing sensitive information, and asking for permissions that would easily allow passing that information along to a central server.
+
+Additionally, it is important to understand that app permissions can increase with updates. If you have given permissions for one group, app updates can add more permissions from that group without warning you and specifically requesting for permissions.
+
+Once you’ve allowed an app to access a permissions group, the app may use any of the individual permissions that are part of that group. You won’t need to manually approve individual permissions updates that belong to a permissions group you’ve already accepted.
+
+For example, when you have given an app the permission to make outgoing calls, a future update can also add the permission to read your call log, make calls without your intervention (on its own) or reroute outgoing calls. Unless it adds a permission from a group you haven’t already consented to, you will not be prompted to give permissions again.
+
+An app asking for permission to read and write to your USB storage or external storage can get the permission to reformat it with another update without you noticing that the app has more permissions than you realized. Camera access to use a scanner could expand to recording video without you being warned that the permissions have expanded. This becomes even more risky when you give crucial permissions to apps without thinking – you could end up handing over control of your phone to someone else without realizing it. This is essentially how spying apps work – by getting you to install a seemingly innocuous or useful app without examining the permissions too much and then recording and reporting crucial information about your use of the phone to the person controlling the app.
+
+Consequently, it becomes very important to examine the permissions you are giving various apps and restrict the permissions to those strictly necessary. Even better is to not install unnecessary apps, particularly on phones where you access sensitive data like your bank accounts or containing a SIM linked with your Aadhaar.
+
+You may also want to turn automatic updates off and review available updates and permissions manually before accepting installation of updates.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

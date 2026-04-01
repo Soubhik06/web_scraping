@@ -1,0 +1,31 @@
+The Sanchar Saathi app will require permission to read one’s phone’s “state and identity”, Deepstrat Co-Founder Anand Venkatanarayanan mentioned in an X (formerly Twitter) post.
+
+This permission requirement is concerning as it allows the application to determine the device’s phone number, serial number, whether a call is active, and the number the call is connected to as well.
+
+For instance, you (X) are a journalist, and you call your source (Y) for a scoop on a major story, Sanchar Saathi would be able to determine whether you are on a call with Y and also the number of your source.
+
+What exactly is the List of Permissions for Sanchar Saathi – Here is MOB-SF report from the APK. Wild stuff… Why would anyone ever want this to be un-installable root? pic.twitter.com/VOJD9gnveq
+
+Notably, Venkatanarayanan’s post comes after the government sent directions to smartphone manufacturers to pre-install the government-run app “Sanchar Saathi” on their devices.
+
+To explain, this application allows users to verify the number of mobile numbers registered with their names, and check the genuineness of International Mobile Equipment Identity (IMEI) numbers (Know your mobile connection). It also provides services such as identifying fraudulent SIM subscribers (Artificial Intelligence and Facial Recognition powered Solution for Telecom SIM Subscriber Verification, ASTR).
+
+Importantly, with the government’s latest direction, smartphone users will be unable to uninstall or disable the Sanchar Saathi app.
+
+Screenshots depicting what all permissions the Sanchar Saathi app needs (Image source: MediaNama)
+
+The Department of Telecommunications (DoT) argues that these permissions allow the app to pre-fill details when reporting suspicious communications, send the required registration SMS, upload documentation for stolen-device reports, and scan IMEI barcodes.
+
+The Government has issued directions to pre-install Sanchar Saathi under the Telecommunication Cybersecurity Rules, 2024, and their 2025 amendment. Under the cybersecurity rules, the government can ask manufacturers of telecommunication equipment with IMEI numbers to provide assistance in case of tampered IMEI numbers and telecom equipment. Meanwhile, the rules also allow the government to use digital or other mechanisms necessary “to identify and report acts that may endanger telecom cyber security”.
+
+However, they do not mention any requirements to force the installation of these digital mechanisms. For context, the Sanchar Saathi platform has been around since 2023, which means that people already had a mechanism to report acts that endanger telecom cybersecurity.
+
+Why this mechanism needs to be pre-installed into smartphones is unclear, especially when one could accomplish the objective of tracking the genuineness of their IMEI numbers or checking the number of connections under their name on an app they can install (and delete) or even a website.
+
+Besides the force install, the number of permissions this app needs from your device, and the information it keeps track of, makes one worry about user privacy.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,29 @@
+By Asheeta Regidi and Reeju Datta Many Business-to-Business (B2B) service providers today perform a function much like payment aggregators (PAs), of on-boarding merchants into the digital ecosystem. Whether through easing access to financial services, markets access or resolving any other issue via a range of services, these players enable businesses of all shapes and sizes to explore their potential.
+
+PAs, banks, Business-2-Business (B2B) and Business-2-Consumer (B2C) e-commerce marketplaces, aggregators of offline retailers (like digital bookkeeping apps), non-bank lending to Small-Medium-Enterprises (SME), B2B neo-banks, and others (collectively, ‘Aggregators’) all play a similar role. While these players bring benefits like efficiency and financial inclusion, they also encounter the same problem, the scale of which is fairly unique to India, of tackling merchant fraud .
+
+Fraud during online transactions is very often associated with payment processing, and payment processors and PAs consequently. Today, as providers of indirect access to the financial system, effective end-merchant verification is an equally crucial challenge for all Aggregators.
+
+Transaction level fraud in payments, such as unauthorized transactions via stolen cards/phishing or false refund/chargeback claims, often occurs at the individual level, and is largely mitigated due to mandatory two factor authentication . However,  merchant level fraud occurs at the business level, and is rampant. The larger scale is because multiple users can be duped at once, also making merchant fraud the major cause of fraud induced losses for PAs.
+
+The fraud itself can occur through multiple means:
+
+Different service providers face different types of merchant frauds. For example, while e-commerce marketplaces face issues with sale of inauthentic products or non-delivery, lenders providing business loans can find that these are utilised for personal purposes or were disbursed to shell companies. The aim of the fraud can also vary, PAs, for example, face fraudulent transactions which aim to dupe users, and also money laundering and tax evasion tactics which aim to dupe the authorities. Identity, however, often forms the crux of merchant fraud, whether as a fake business or a legitimate business conducting fraudulent activities.
+
+The means of deception can range from forging identification documents, creating fake business profiles/storefronts, forging invoices/ receipts, restructuring transactions to fall below reportable thresholds and other techniques. To effectively monitor fraud, a holistic approach, involving the merchant’s entire portfolio and proper technological support is thus, required.
+
+Applicable regulatory mandates also require risk management frameworks comprising pre on-boarding Know-Your-Customer (KYC) and screening, and post-on-boarding monitoring of merchant behaviour and transactions. These do however permit risk-based flexibility with actual adopted solutions. Internal risk profiling, periodic updates, and fraud reporting (to the Financial Intelligence Unit of the Government (FIU-IND), Central Bureau of Investigation/Police , Reserve Bank of India’s (RBI) Department of Banking Supervision , and others) are also required. Even where there are no mandates, Aggregators carry out these via self-imposed checks. Different checks allow recognizing different fraud indicators, and in the process also encounter specific challenges:
+
+Along with the above steps that Aggregators can take, regulatory initiatives (that are balanced with ease of business) can also help. Currently, all ‘regulated entities’ (PAs, non-bank lenders and others,) have to conduct merchant due-diligence and KYC as per the RBI’s KYC norms . Applicable regulatory frameworks for specific Aggregators — PA Guidelines, Consumer Protection (E-Commerce) Rules, 2020 , NBFC-P2P Lending Directions , Trade Receivables Discounting System Guidelines, among others — also mandate steps to protect end-customers. There are a few further steps that regulators can implement to help ease verification processes:
+
+While fraud primarily impacts consumers, involved entities aren’t spared either, be it through regulatory sanctions/fines, legal action, chargeback liability, or significantly, damage to reputation and public trust . The Phatak Committee identified on-boarding as the biggest hindrance in bringing India’s 45-60 million merchants (including mom and pop stores and small format merchants) online. B2B services and aggregators play an important role, and the suggested steps work towards both effective fraud tackling and removing on-boarding friction.
+
+Digitisation with proper safeguards are thus essential on both counts.
+
+Asheeta Regidi is the Head of FInteh Policy and Reeju Datta is the Co-Founder of Cashfree, a payments and banking technology company.
+
+Edited by Advait Palepu
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

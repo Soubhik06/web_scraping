@@ -1,0 +1,39 @@
+The Indian Computer Emergency Response Team (CERT-In), which is the government’s nodal agency for cybersecurity-related matters, released the Guidelines on Information Security Practices for Government Entities on June 30.
+
+The “ infrastructure of government entities is one of the preferred targets of malicious actors, […] The purpose of these guidelines is to establish a prioritized baseline for cyber security measures and controls within government organisations and their associated organisations. The guideline shall assist security teams to implement baseline and essential controls and procedures to protect their cyber infrastructure from prominent threats,” CERT-In explained (emphasis ours) .
+
+These new guidelines are in addition to CERT-In’s cybersecurity guidelines issued in April 2022 , which apply to all entities (private and public) and cover aspects related to the timeframe for reporting cybersecurity incidents, synchronization of system clocks, maintenance of logs, maintenance of KYC and transaction information for crypto exchanges, and maintenance of detailed customer information for VPN, cloud service, data center providers.
+
+1. Appoint Chief Information Security Officer (CISO) and a dedicated cybersecurity team: All government entities are required to nominate a CISO and provide details of the person to CERT-In. The CISO should have a dedicated cybersecurity team. The entity should also formulate a cyber security policy and assign roles and responsibilities to the CISO and the cyber security team.
+
+2. Conduct audits and prepare cyber resiliency plans: Organisations should conduct internal audits of their entire ICT (information and communication technology) infrastructure once every six months and external audits once a year, including conducting vulnerability and threat assessments. They should also formulate plans for cyber resiliency, such as a Business Continuity Plan (BCP) and a Disaster Recovery (DR) plan. These plans should cover aspects related to preventing cyber security incidents; determining the occurrence of an incident, assessing its severity, scope, and type of an incident; containing the impact of an incident; and recovering from an incident.
+
+3. Improve cybersecurity awareness: Organisations should conduct cybersecurity awareness programs to educate end users on cyber threats like phishing campaigns, social engineering, and the roles and responsibilities of users. Such training must be provided to new joiners as part of induction training and to all employees every 6 months.
+
+Article continues below. You might also want to read: 6 strategies to improve cybersecurity in financial sector: RBI Dep GovÂ
+
+4. Social media security measures:Â
+
+5. Network security measures: Organisations should
+
+6. Identity and access management policies:Â
+
+7. Application security measures: Organisations should
+
+8. Data security measures:Â
+
+9. Third-party access and outsourcing policies:Â
+
+10. Security measures for cloud services:Â
+
+11. Hardening procedures:Â Hardening refers to the practice of reducing the potential attack options by turning off non-essential services, reducing interaction with other networks, etc.
+
+Note: Alongside the guidelines for government entities, the National Informatics Centre has also released (as part of the same document ) guidelines for Chief Information Security Officers of central government ministries and departments and guidelines for government employees, both of which aren’t covered in this summary.
+
+STAY ON TOP OF TECH POLICY:Â Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here Â to sign up today!
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

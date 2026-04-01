@@ -1,0 +1,11 @@
+The Reserve Bank of India (RBI) has allowed payment companies to maintain more than one escrow account with a scheduled commercial bank. At present, pre-paid instrument (PPI) issuers and payment aggregators (PA) are required to maintain one escrow account with a commercial bank. “With a view to diversify risk and address business continuity concerns, it has been decided to allow one additional escrow account in a different scheduled commercial bank,” the central bank said in a circular issued on November 17.
+
+An escrow account, used primarily in commercial transactions, acts like a holding account for funds while two parties complete a transaction. In the payments industry, an escrow account owned by a PPI or PA protects and the buyer from losing money in case the seller delivers unsatisfactory goods and services or if the seller is a fraudster. It also provides a safeguard in case of disputes or chargebacks between the parties.
+
+Let’s say a person buys ₹100 worth of goods online, the money is transferred from the buyer’s bank account via the PPI or PA to the escrow account and is held there for a temporary period, usually T+2 or 3 days. Once the seller delivers the goods and if no dispute is raised by the buyer, the PPI or PA can then transfer the ₹100 from the escrow account to the sellers’ bank account.
+
+According to the RBI’s circular:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,21 @@
+SUBREDDIT: r/Scams
+TITLE: An app to detect scams and frauds: your thoughts?
+DATE: 2024-04-04
+SCORE: 1
+URL: https://www.reddit.com/r/Scams/comments/1bv1z1v/an_app_to_detect_scams_and_frauds_your_thoughts/
+
+--- POST TEXT ---
+
+Recently we got scammed when we chose an online legal consultancy service provider to incorporate our startup. And since then, we have been working on building an MVP to detect such companies involved in scams and frauds. 
+
+With UpTrust, we want to build an extensive directory where scams and companies that engage in fraudulent practices are listed, with details of how many red flag (suspicious) keywords like "scam", "fraud", "fake", "unprofessional" etc. are mentioned by consumers who leave their reviews online. We aggregate all the publicly available reviews mentioning such keywords (from platforms like Trustpilot and Google), do a detailed analysis on them with sentiment analysis to derive what the general consensus is regarding that business. 
+
+We want consumers to report any scams or fraud they might have experienced so that we can list them on the site with supporting proof. This will help someone else who might become a victim of that same scam if they search it on the platform and get a result. 
+
+We want UpTrust to be the app where you can anytime search for a company/brand/product to check their credibility before doing any transaction with them, and get an idea if you can trust it or not, with the ability to further investigate it if you want to. The goal is to list all scams and frauds in all categories and industries, so these scummy businesses can no longer exploit a consumer's hard earned money. 
+
+Please give your feedback and suggestions on how we can improve it, what we can add, and most importantly if this is something you will use and this can solve the problems of frauds and scams or not. 
+
+Here's the [link](https://pcldemo.wixstudio.io/uptrust). Please note that the website is just a MVP or a prototype at this stage and we want to validate the potential of this idea. We are a very small team of 3 collecting reviews of companies from India and analysing them, so you may find some listings without complete details. We are working on them currently. Thank you!
+
+[https://pcldemo.wixstudio.io/uptrust](https://pcldemo.wixstudio.io/uptrust)

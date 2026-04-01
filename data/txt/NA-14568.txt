@@ -1,0 +1,21 @@
+On August 30, researchers at the Slovak cybersecurity company ESET’s research lab said that they had found two malicious apps— Signal Plus Messenger and FlyGram, targeting Android users and collecting data from their devices. These malicious apps were trojanized (malware) versions of the communication platforms Signal and Telegram.
+
+The apps had been uploaded to Google Play, the Samsung Galaxy store, and websites for side-loading (downloading apps directly from the web as opposed to using an app store). ESET says that the malware used in these apps belongs to the BadBazaar malware family, which has been used in the past by a China-aligned advanced persistent threat (APT, sophisticated malicious cyber activity) group called GREF.
+
+Since both Signal and Telegram are open-source apps, anyone can inspect, modify, or enhance the code of these apps. This ability to inspect the code (and check for vulnerabilities) of open-source apps is why some consider it security forward. However, according to a report by Ars Technica, these fake apps were built on Signal, and Telegram’s open-source code which makes one doubt the security that open-source software offers.
+
+ESET researchers say that the fake version of Telegram not only can get basic device information but also sensitive details, such as the contact lists on their phones, users’ Google accounts, and call logs. The researchers also said that the fake app had a specific feature that would back up the app’s data to a remote server controlled by the attacker and that at least 13,953 FlyGram accounts had activated this feature. They said that the backed-up information did not contain users’ messages.
+
+Concerning the fake Signal app, ESET researchers said that its primary goal was to “spy on the victim’s Signal communications”. The app extracted users’ Signal PINs (that protect people’s signal accounts) and used the “link device” feature (which allows users to link their mobile apps to Signal Desktop) to the user’s Signal account to the attacker’s desktop.
+
+Google and Samsung’s response to the malicious apps:
+
+According to the same report, the Signal Plus Messenger remained available on the Google Play store for nine months (till April 2023) and was downloaded about 100 times before getting taken down. Meanwhile, FlyGram was removed from Google Play in 2021. While it is unclear how many people directly downloaded the apps from their respective websites and the Samsung Galaxy store, it is safe to assume that a lot of people’s data has been compromised.
+
+We checked the Samsung Galaxy store, and it looks like the apps were taken down on it as well (although they were up until August 31, 2023, based on Ars Technica’s report). We have reached out to Samsung to understand how many people’s data was affected by the malicious apps, when it found out about them, and how soon the company responded to it. We have also reached out to Google to learn more about the compromised Google accounts mentioned by ESET. The story will be updated based on the companies’ responses.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

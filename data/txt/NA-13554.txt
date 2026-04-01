@@ -1,0 +1,53 @@
+YouTube has recently shut down two channels, India-based Screen Culture and Georgia-based KH Studios, for publishing AI-generated âfan-madeâ trailers. According to a Deadline report , which broke the story first, YouTube removed the channels on the grounds that they violated its âspam and misleading metadataâ policies.
+
+This move may offer a momentary sense of relief to critics of AI slop content, especially at a time when over 20% of the content shown to YouTube users is reportedly AI slop. For context, AI slop refers to low-quality, mass-produced AI-generated content that floods social media platforms with little originality, accuracy, or creativity, primarily created to grab attention and monetise engagement.
+
+However, this is not a relief for original copyright owners. The takedowns were not based on copyright or intellectual property (IP) violations, an area the entertainment industry is currently struggling to regulate. This is particularly significant as big tech companies push for broad copyright exemptions for AI training, while AI firms often treat online content as freely trainable and copyable unless rights holders actively resist.
+
+The copyright angle is critical because the policy YouTube invoked is insufficient to address the broader issue of AI-generated fan-made trailers, or GenAI content more generally. It leaves loopholes that allow creators to make minor tweaks and easily bypass platform enforcement mechanisms.
+
+As noted above, YouTubeâs action against these two channels rests not on copyright law or IP infringement, but on its spam and deceptive practices policy.
+
+Under YouTubeâs â Spam, deceptive practices, & scams â policy, content may be flagged if it is excessively repetitive, untargeted, or designed to manufacture engagement through false promises. This includes videos that lure viewers with claims of exclusive footage or dramatic reveals, only to deliver unrelated or misleading content.
+
+YouTube defines misleading metadata and thumbnails as titles, descriptions, or visuals that trick users into believing a video contains something it does not. This is especially relevant to AI-generated trailers that visually and linguistically mimic official studio releases but do not represent authorised or original productions.
+
+Under this logic, the violation occurred not because the content borrowed from copyrighted IP, but because it allegedly misrepresented itself. This approach is insufficient because, when YouTube previously stopped monetising these channels, they reportedly modified their titles to include labels such as âfan trailer,â âparody,â or âconcept trailer,â enabling them to regain monetisation.
+
+If AI-made trailers are regulated only through nomenclature, the deeper copyright problem remains unaddressed.
+
+The copyright problem surrounding AI-generated content arguably begins at the training stage itself, rather than at the point of output. Most AI models rely on industrial-scale scraping of the internet, much of which consists of unlicensed, uncompensated, and legally disputed content.
+
+As MediaNama reported following the launch of OpenAIâs second version of Sora, the internet was quickly flooded with AI slop that blatantly violated copyright provisions. More concerning than the proliferation of AI slop is OpenAIâs broader approach, which treats online content as copyable by default and places the burden on copyright holders to opt out, rather than requiring prior consent or licensing.
+
+In response, MediaNama questioned whether a YouTube-style Content ID system could be adapted to flag AI-generated copyright-infringing content.
+
+Further complicating matters, many generative AI platforms offer both commercial and non-commercial licences for AI-generated outputs. Users may attempt to claim copyright over AI slop by invoking the derivative works doctrine. However, copyright law generally requires demonstrable original creative input beyond the underlying training material to claim copyrights and potentially earn revenue protected by the respective copyright laws.
+
+Despite lacking originality, mass-produced AI slop can still generate revenue. The core concern is that creators may commercially exploit AI-generated content, which may have been based on the unlicensed copyrighted data.
+
+These unresolved issues are particularly relevant in India, where the Department for Promotion of Industry and Internal Trade (DPIIT) is framing policy on AI and copyright following the release of its working paper on generative AI and copyright.
+
+Industry bodies such as the National Association of Software and Service Companies (NASSCOM), representing major technology firms including Microsoft and Google, have argued for blanket copyright exemptions for AI training. In its submission to DPIIT, NASSCOM advocated exempting text and data mining (TDM) for both commercial and non-commercial AI training.
+
+DPIIT has also proposed a royalty-based, centralised mechanism to distribute payments to original creators through a proposed body, the Copyright Royalties Collective for AI Training (CRCAT). Under this model, creators may have limited control over pricing negotiations. While the working paper calls for greater transparency in AI training datasets, it also acknowledges the difficulty of negotiating licences with millions of rights holders without unified licensing bodies, similar to IPRS, ISAMRA, or PPL India in the music sector.
+
+Separately, against AI-generated deep fake content, the latest draft amendment to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, proposes mandatory metadata tagging and visual labelling for all significant social media intermediaries (SSMIs) to flag âsynthetically generated content,â including AI-generated material.
+
+If implemented, platforms like YouTube would be required to clearly label AI-generated or deepfake content. While this could address the misrepresentation issue YouTube is currently targeting, it still would not resolve underlying copyright concerns.
+
+YouTubeâs rationale behind these channel takedowns lies in a policy framework that treats such misrepresentation as a spam- or scam-related issue rather than as an IP dispute. Nowhere in the cited provisions for the removals does the platform invoke copyright ownership or licensing. Instead, it relies on whether metadata and thumbnails create false expectations for viewers, an internal policy standard rather than a legally grounded determination of ownership rights.
+
+Notably, not all studios want to pursue legal action against AI-generated content. For example, reports suggest that when Warner Bros. discovered YouTube channels monetising AI-made trailers based on its IP, it opted to claim a share of the revenue rather than enforce takedowns.
+
+In contrast, Warner Bros. later filed a lawsuit against Midjourney alleging copyright infringement. Similarly, Walt Disney issued a cease-and-desist notice to Google shortly after announcing a three-year licensing partnership with OpenAI .
+
+These instances highlight deeper, unresolved questions at the heart of the AIâentertainment industry: what does the entertainment sector actually want?
+
+While the commercial interests of entertainment companies, whether through revenue sharing or licensing, appear evident, there is no global or standardised consensus on how copyright law should apply to AI systems and the content they generate. Instead, the debate continues to raise more questions than the AI industry has answered so far.
+
+Therefore, YouTubeâs stated rationale does not address the real threat currently facing the entertainment industry. These channel takedowns reflect a platform-level enforcement of spam and misleading content policies, not a precedent-setting position on AI, copyright, or ownership. As a result, the IP-related copyright debate remains unresolved, and notably untouched, by the policy YouTube chose to invoke in removing these channels.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

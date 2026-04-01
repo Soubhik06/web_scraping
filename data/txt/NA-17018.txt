@@ -1,0 +1,23 @@
+SUBREDDIT: r/india
+TITLE: How should I go about Paytm Frauds - Possible Security Leak in Paytm APIs
+DATE: 2020-10-09
+SCORE: 20
+URL: https://www.reddit.com/r/india/comments/j7sxeu/how_should_i_go_about_paytm_frauds_possible/
+
+--- POST TEXT ---
+
+Around a month back, there were two fraud transactions happened in my **Paytm** account. I have written an article explaining the incident, **why do I think there is a possible security leak in Paytm APIs**, how **Paytm Care** handled this, and how I could relate this to an incident that happened with a crockery seller in my local area.
+
+Here are some references
+
+\- Medium Article which describes each and every detail [https://medium.com/@sachinjain024/secure-yourself-from-paytm-frauds-possible-security-leak-in-paytm-apis-ddd91f7dbb2c](https://medium.com/@sachinjain024/secure-yourself-from-paytm-frauds-possible-security-leak-in-paytm-apis-ddd91f7dbb2c)
+
+\- A Twitter post which I made immediately when I found the fraud transactions - [https://twitter.com/sachinjain024/status/1296261269410836480](https://twitter.com/sachinjain024/status/1296261269410836480)
+
+The conversation thread between Paytm Care and Me on Paytm App has roughly 50 messages after which they just closed the incident without doing anything. I have already done an FIR as suggested by Paytm Support but no progress in the case since then.
+
+Interestingly, this is not the first of a kind incident with Paym Wallet. If you search on Google/Twitter you can find abundant instances reporting the same and Paytm still doing nothing about it.
+
+I am more worried about how this happened rather than the money which is a lost case anyway. Paytm has all the information with them but still not providing how did this happen. They should at least tell how did this happen and how can I make myself more secure to avoid such things in the future?
+
+**I'd like to get some ideas on what next should I do?** Anyone here from YourStory, INC42, or any other media company, feel free to reach out to me if you have any specific questions.

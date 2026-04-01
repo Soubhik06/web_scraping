@@ -1,0 +1,13 @@
+SUBREDDIT: r/Scams
+TITLE: IBM Cloud Phishing Attempt
+DATE: 2022-07-28
+SCORE: 2
+URL: https://www.reddit.com/r/Scams/comments/w9ulaa/ibm_cloud_phishing_attempt/
+
+--- POST TEXT ---
+
+A few days ago, I signed up for an IBM Cloud account. After jumping through their strict credit card approval process yesterday, the account was good to go. I test-drove a bare metal server for an hour, incurred less than a dollar in charges, and shut the server down. The man I spoke with to help resolve the credit card issue was polite and was definitely an American, as his English was good and formal.
+
+Today, I get a call from a new number. This time, it's an Indian man claiming to be with IBM Cloud. He confirms that I had just set up my account but tells me that I don't have a credit card on file. He then asks me for my WhatsApp and Telegram number to keep in touch. I plainly told him that I don't give those out for business purposes. He then reads my email address off to me, but it's nothing like my email on file. At this point I realize what's probably happening: it's a phishing attack and he wants me to give up my personal info. I tell him I'll check the email and credit card on my account online and hang up before he can say anything more.
+
+What's really disturbing to me is that this was targeted. I have no idea how they got my number and that I signed up with IBM Cloud, yet somehow didn't get my email address or CC info. I would think that if my computer was compromised, they would at least have my email address. Does anyone have thoughts on how they could have pulled off this attack so soon after I signed up, yet were missing crucial registration information?

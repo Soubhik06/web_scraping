@@ -1,0 +1,125 @@
+This explainer is based on our #NAMA Bootcamp on Understanding Cryptocurrencies, held in New Delhi on August 23, and supported by Zebpay. The piece is based on sessions conducted by Pankaj Jain from Blockhack, and Ajeet Khurana from Zebpay, and questions and inputs from the audience. Read the rest of our coverage of the Bootcamp here .
+
+What is a cryptocurrency?
+
+Cryptocurrencies are a lot of different things; it can be digital money used to pay somebody; it can be a transaction on a Blockchain holding a record of something; t can be a stored value. Cryptocurrencies can be all three – a currency, a commodity, and a security, depending on how you use the technology.
+
+What is Blockchain?
+
+Blockchain is the underlying database layer of the technology behind cryptocurrency. It’s decentralized and spread out across the globe. Its too slow for fast transactions, but is very good for stability, because anybody can start an instance of a database, bringing verifiability and immutability.
+
+So are cryptocurrencies essentially value that’s noted on a Blockchain, which is immutable?
+
+The cryptocurrency is a token that says that a particular transaction has happened on this Blockchain. Bitcoin is the token that allows that transaction to happen. Its a digital representation of keys being exchanged for transaction to be written to the database.
+
+Can Blockchain can be used independent of any cryptocurrency?
+
+Yes, it can, but that’s foolish to do. You have ultra-fast databases; why would you use a really slow database? The power that Blockchain provides is that anybody can independently run a node of a database, providing immutability. If you are running a private Blockchain, you can change the records – you can do this on a regular database, why run a Blockchain?
+
+How do you derive/create value from a cryptocurrency? How is it exchanged?
+
+We need to ask how value is derived from anything? It’s between two parties deciding that there is some value ascribed to something. A shirt could be worth INR 1000, because you say it is. But somebody has to agree that it’s worth INR 1000. So, what two parties or multiple parties think has value and can agree with it, that’s what ascribes value. Gold has no inherent value whatsoever. Similarly, there is zero inherent value to gold or diamonds or to the rupee.
+
+Where the value of cryptocurrencies comes from
+
+Value is primarily related two things. One, there’s a system of beliefs. Second, it’s dependent on the demand and limited supply.
+
+When the Bitcoin white paper came out in 2009, it was an academic exercise involving researchers and cryptographers. Once the technology came out, people began using it in very small circles, but it remained academic. By 2013, Bitcoin had a value of a $1000 to a coin, because the demand for it suddenly rose. Illicit activities and Silk Road surely contributed to the rise in demand. But once you had that demand, the press caught on, and realised that Bitcoin’s value went from a millionth of a cent to $1000 dollars overnight. So supply and demand is an inherent part of what Bitcoin did.
+
+Currency or fiat money is rooted in government sanction, which is not the case with cryptocurrencies. So how do we understand cryptocurrency when we are accustomed to the idea that currency must be sanctioned?
+
+Gold itself was used as a currency for thousands of years, because it supply was low, and people agreed that it has value. Oil actually has usage, and gold eventually found usage. With cryptocurrencies, the question becomes whether people agree that it has value. Bitcoin has a limit of about 21 million, and that scarcity gives it value, and the difficulty in creating it gives it value. This difficulty continues to increase, and this comtributes to increase in value. This token is a currency when its traded or used to pay for something. Since people are investing in it, it’s also a security.
+
+Cryptocurrencies are a new asset class – and this make it more difficult to understand
+
+Cryptocurrencies are a new asset class. Some kind of existing asset classes are real estate, currency, shares, and loans. In our lifetimes, there hasnn’t been an asset class which came into existence. There have only been derivative assets, such as futures, options, domain names, vanity instruments, which ride on top other assets . No human being alive has seen a new asset class being emerged, which is why we have no choice but to understand cryptocurrencies by comparing it to existing asset classes.
+
+What is a public or a private Blockchain?
+
+A public Blockchain is like Bitcoin or Ethereum or any of the other cryptocurrencies. A private Blockchain is a closed Blockchain that is only being used between certain parties. JP Morgan is well-known have deployed private Blockchains internally, they’re using security transaction settlements on it.
+
+A public Blockchain meant to create immutability of information within the organisation?
+
+Immutability is questionable. But there are buzzwords, people and companies feel like they need to investigate certain technology and see how it is to be used, and whether it can provide certain benefits over existing technology. So, that’s why a lot large companies are researching this: IBM is at the forefront of building private Blockchains to be deployed within companies, or within a group of companies for certain industries. It’s still yet to be determined whether that is the right direction to go, or if they should be building private secure layers on top of public chains.
+
+Wouldn’t a private Blockchain negate the concept that a cryptocurrency shouldn’t be controlled by one party? Because theoretically if someone controls 51% of the Blockchain, they can overwrite it.
+
+Yes, exactly. The whole idea of a private Blockchain (for a lot of people) doesn’t make any sense. The real value from the Blockchain is the fact that it is public, and there are hundreds of thousands of nodes that are running, and it becomes very difficult to take over 51% of the network to create an attack.
+
+What are the public and private keys?
+
+You can give out your public key to anybody, let people send you money to that key. Private key is what you use to actually enable a transaction. You don’t want that getting out anywhere because if somebody has your private key, they can basically take your money. And if you lose your private key, you can never access your money again; it’s gone.
+
+Who are cryptocurrency ‘miners’?
+
+Miners are the people who are putting lots of money into very expensive and powerful computers that are creating Bitcoin. They’re creating Bitcoin by solving a mathematical puzzle, that keeps getting harder to solve. It’s not possible to predict what the solution is going to be, you just have to put a lot of horsepower behind it. Miners are proving that they’re are doing a certain amount of work to solve this puzzle, that they’ve have solved it before anybody else has, and so they get the reward.
+
+Is the underlying energy consumption, which has been reported to be very high, a valid concern?
+
+Computer chips use a lot of energy and give off a lot of heat. The harder they work, the more heat they give off and the more energy they consume. The first time you heard that too much power was being consumed was in September-October 2017, and then people stopped saying it in June 2018. Machines used for mining today as compared to June 2019, just a year-and-a-half later, are four times more powerful but have the same power consumption.
+
+Because of the rise in the price of Bitcoin, suddenly everybody in the world wanted to buy it. Mining is basically creating Bitcoin. The demand for the machines overshot the advancement in technology. Usually both these things move hand-in-hand as they did from 2009 to 2017. Until then, nobody cried about increased power consumption. Since mid-2017, people have stopped crying because despite of the difficulty of the mining going up, you can still solve with the same amount of energy. So, tomorrow a Bitcoin price let’s say goes down to one tenth or ten times, once again you will see people saying that it’s too expensive or too less expensive to do it.
+
+What is mining? What does a miner get for mining a cryptocurrency?
+
+Mining is solving a mathematical puzzle via the computer. That puzzle is available to everybody who is running a miner consecutively. And everybody is competing with each other to solve that puzzle first. Whoever solves it first gets the reward – which is 12.5 Bitcoin right now for a block.
+
+Okay, but what is the miner’s process? What would they be doing? What other stakeholders are they interacting with?
+
+Essentially, the first a miner does is download the software, understand how to install and set it up. Then you’re going to get a machine that can actually give you a chance of getting a reward; otherwise it’s pointless to run a miner. Mining is basically an accounting process just like in the bank, where someone verifies a transaction and allows money transfer.
+
+Do you mean it’s an incentive for any exchange?
+
+It’s primarily an incentive for the miner, but there’s a chance element. Solving the problem is not a lottery, but it’s a mathematical probability. The ‘puzzle’ is basically an encryption which is there in the block, which needs to be opened. A machine runs a puzzle, and competes to solve it. All the machines have to fight against each other to find out the ‘answer’ the fastest. Whoever arrives at a solution, gets the block in his name and the reward of 12.5 Bitcoins.
+
+Who decides the reward for 12.5 Bitcoin for mining?
+
+The network decides by itself. Once the difficulty reaches a certain point, it will halve. It will be 12.5 Bitcoin, which is the current reward, until the difficulty reaches a certain point that it will halve.
+
+There will only be 21 million Bitcoin — ever. What does this mean?
+
+There will only be 21 million Bitcoin ever. But every block that gets mined creates a certain number of Bitcoin. Roughly every 4-5 years, this number halves. The difficulty of creating a block continues to increase, and the reward for creating that block continues to decrease. So, supply is being constrained over time, and demanded is going to increase by itself. The next halving is going to be next year approximately, that’s when the ability to create a block will increase significantly, and the reward for creating that block would decrease by half. Typically, there’s a major spike in the price of Bitcoin when that happens.
+
+What is the only-21 million-Bitcoin-ever logic?
+
+The 21 million has been designed to get over in 2140, about 120 years from now. We don’t know whether Bitcoin will survive, but for now, the incentive lies in the fact that there’s a reward. By 2040, 90% of the Bitcoins will be over. What will remain will be hundred million fractions of Bitcoin, people predict that by 2040, the transactions fees will take over. Today for every 12.5 new Bitcoin that can be created, roughly one Bitcoin is being collected as fees from everybody. The mining reward is coming down, the transaction reward is going up. The expectation is that by 2022, Bitcoin effectively will become a self-governing currency. Meaning, the fees collected from everybody will be enough to incentivize the entire network.
+
+With the increase in the number of cryptocurrencies out there, will Bitcoin decline in value?
+
+The answer is yes and no. There are about 2000 different cryptocurrencies today, a vast majority of them are based on the original Bitcoin source code (and that’s why Bitcoin is used as a proxy for the whole industry). Even though there are 2,000 or so cryptocurrencies, Bitcoin is by far the largest in terms of market cap and usage. Most of the top 10-20 are still tiny, tiny fractions of what Bitcoin. More and more people have found bugs in some of these other projects, because they are newer.
+
+Bitcoin has been the most stable for the longest period of time from the software perspective . So, when Ethereum launched, there were people who sold their Bitcoin, and used that money to buy Ethereum really, really early on, and its value went up.
+
+What is a crypto-exchange?
+
+Crypto-exchanges are where people traditionally have bought and sold their cryptocurrencies. It’s not unlike a stock exchange or any other marketplace. Exchanges make money through a transaction fee, and in most cases through withdrawal fees; this means the exchange will usually take a percentage of the holdings as transaction fees for taking money out of the exchange.
+
+What’s an Initial Coin Offering (ICO)?
+
+IPOs have traditionally been ways of companies raising capital. Ethereum decided to launch a new Blockchain platform, it said its going to the world computer on which you can run all kinds of applications, and said they need some money to get started, and said people can donate Bitcoin to them. It wasn’t called an ICO at the time, but that set a pattern for people to announce new projects and ask for funding.
+
+ICOs largely shut down after regulators and FTC came down on them, after a lot of scams popped up. Now there’s a shift towards Initial Exchange Offerings or IEOs.
+
+Is Bitcoin/cryptocurrency similar to trying to find a really giant prime number? If I’m running a computer consuming lot of electricity and spending money on it, does finding that prime number become the value?
+
+It’s not the value itself but it’s a component in driving the value. Miners play a role in verifying the transactions and including them into a block that gets written to an immutable chain. They have to invest in resources for this, it’s an inherent to run a mine, currently it’s roughly roughly $4000 per coin. If the price of Bitcoin falls below $4000, miners wouldn’t have an incentive to verify transactions anymore. Miners would shut down their mines, and many miners did so in 2018.
+
+What determines the ability of an entity to be able to mine the Bitcoin successfully? How is fairness ensured in selecting the entity? Is it simply about throwing more guns at the problem, and winning?
+
+To a large degree, that’s what has happened. Power in places like China is cheap, you could get hydroelectric power. You can go to Iceland, where people are buying relatively inexpensive chips tuned specifically for mining, putting them in very cold places, next to very cheap power. Those people suddenly got a huge advantage over individuals.
+
+When the coin first started, it was mostly individuals mining on their laptops and home computers. That’s no longer the case. None of us regular people are going to be professional miners, because it’s just a cost-prohibitive for us to do so.
+
+So a lot of the decisions around Bitcoin are made by the community, effectively relies on consensus within the community? What is the process of decision making, who are the key players in the consensus?
+
+Exchanges and miners are the biggest players. The whole economy of Bitcoin, or any other token, runs on an incentive system and a governance system. The act of mining is doing several things: one is processing of transactions. Every time you mine, if you have a vote and there is an open question, your computing power is effectively your vote. For instance, if the computing power of my mobile phone is one vote, somebody with a much bigger computer will have 100 votes.
+
+But how did everybody vote for whether we accept this as Bitcoin or that?: Simply by the computing power that you attached when you were mining. Exchanges and Bitcoin owners don’t get a vote. Very simply, if you’ve created your own coin and all exchanges refused to list it, the coin is absolutely meaningless. But in terms of the technological governance, everybody who is mining (running a software) has a vote in the decision-making in proportion to how much computing power they’re using.
+
+This became very important on August 1, 2017, when somebody came and said that they’re creating their Bitcoin, “which is the real Bitcoin, your Bitcoin is wrong”. And on that day we created two types of Bitcoin. One of them is today called Bitcoin, the other one is called Bitcoin Cash.
+
+The nature of decentralised economy of cryptocurrencies is such that if a minority disagrees with anything , they can simply start their own Blockchain, which is how the 6500 coins got created. People went off and created their own coins. Its another matter whether that chain has any merit, whether anybody will buy it, or listen to the minority — that is a social phenomenal.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

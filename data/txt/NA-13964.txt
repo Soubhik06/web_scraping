@@ -1,0 +1,35 @@
+What the deepfake advertisement impersonating the Indian President exposes is not just a failure of moderation, but a deeper unwillingness by platforms to confront the predictable misuse of generative AI. Meta’s refusal to act on an AI-generated scam exploiting the likeness of India’s highest constitutional authority reflects how enforcement often collapses when harm sits uncomfortably close to engagement or revenue. In effect, platforms continue to treat impersonation as a policy edge case rather than an integrity breach.
+
+That posture mirrors the recent controversy surrounding xAI’s Grok, which drew global backlash after users asked the tool to digitally “undress” women by generating nude or sexualised images from ordinary photographs, which it did. Although xAI claimed such outputs violated its policies, the ease with which users bypassed safeguards exposed how weak guardrails had been baked into the system’s design. Crucially, the harm did not stem from rogue users alone, but from permissive defaults that allowed exploitative use to scale before intervention.
+
+Meta’s insistence that an obvious impersonation did not breach its standards, and xAI’s reactive tightening of Grok only after nudification went viral, reflect a governance model that treats harm as an acceptable externality. As generative tools collapse the cost of impersonation and exploitation, this approach becomes untenable.
+
+Meta allowed a deepfake scam investment advertisement featuring Indian President Droupadi Murmu to remain live on Facebook, stating that it did not violate its Community Standards, according to a LinkedIn post by IPS officer Dr Fakkeerappa Kaginelli. The advertisement used an AI-generated video falsely impersonating the Indian head of state to promote a fraudulent investment scheme.
+
+In his post, Dr Kaginelli said that he recently reported the advertisement to Meta after identifying it as a scam that misused the likeness of India’s highest constitutional authority. However, within two minutes, Meta responded that the content would not be taken down, concluding that it did not breach the platform’s policies. Instead, the response suggested managing content preferences, offering no acknowledgement of the impersonation itself.
+
+Dr Kaginelli criticised the decision, arguing that the refusal to act on AI-generated content impersonating Murmu raises serious concerns about the effectiveness of Meta’s moderation systems.
+
+Meta’s Community Standards and Advertising Standards are intended to restrict deceptive and harmful content, including scams and manipulated media. According to Meta’s Advertising Standards , the company states that it does not allow advertisers to run ads that promote products, services, schemes, or offers that use identified deceptive or misleading practices, including scams and misleading offers.
+
+Furthermore, under its misinformation policy , Meta requires disclosure for AI-generated or manipulated content that could mislead users, and it maintains separate policies addressing manipulated or synthetic media.
+
+Notably, the Meta Oversight Board has previously ruled specifically against the menace of deepfake endorsements. In June 2025, the Board overturned Meta’s decision to leave up a paid post showing an AI-generated video of Brazilian football legend Ronaldo Nazário appearing to endorse an online game. The Board found that it violated Meta’s Fraud, Scams and Deceptive Practices policy, which prohibits “attempts to establish a fake persona or to pretend to be a famous person in an attempt to scam or defraud”. Notably, the Board urged Meta to enforce this policy at scale.
+
+Here, it is also important to note that Reuters last year found that Meta attributed roughly 10% of its 2024 advertising revenue, which is around $16 billion, to money coming in from scam ads and banned goods, including fraudulent investment schemes and restricted medical products.
+
+Meta’s systems exposed users to around 15 billion “higher-risk” scam advertisements every day across Facebook, Instagram, and WhatsApp, even though internal systems had flagged many of these ads as involving a “high risk”. Meta’s automated enforcement framework reportedly banned advertisers only when it reached at least 95% certainty of fraud, allowing suspected scammers to continue running ads while charging them higher rates as a so-called “penalty”.
+
+India’s courts, particularly the Delhi and Bombay High Courts (HCs), have waded into the issue of deepfake impersonation of celebrities and other eminent personalities, ruling to protect their personality rights through takedown orders and injuctions. Some of these cases include those of Sadhguru, Nagarjuna , Karan Johar, Abhishek Bachchan, Jackie Shroff, Anil Kapoor, etc.
+
+Meanwhile, the Indian Government’s draft amendment to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, released in October 2025, seeks to provide a clear legal basis for oversight of “synthetically generated information”. For context, such information is defined as material algorithmically created, generated, modified, or altered by computer resources in a manner that such material appears to be authentic/true.
+
+Furthermore, under the draft, platforms that enable the creation or sharing of synthetic media must visibly label such content with prominent markers or embedded metadata. Visual markers must cover at least 10% of the display area, meanwhile audio markers must appear during the initial 10% of an audio clip’s duration.
+
+Intermediaries must also collect user declarations about synthetic origin and deploy technical measures to verify them. Failure to apply these disclosures could affect an intermediary’s due diligence obligations and safe-harbour protections.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

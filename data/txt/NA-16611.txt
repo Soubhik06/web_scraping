@@ -1,0 +1,27 @@
+SUBREDDIT: r/india
+TITLE: The Hindu subscription bug -- free 2 year subscription (not a scam)
+DATE: 2020-10-20
+SCORE: 14
+URL: https://www.reddit.com/r/india/comments/jem683/the_hindu_subscription_bug_free_2_year/
+
+--- POST TEXT ---
+
+Before you jump to conclusions and assume this is a scam: I'm not selling anything. I just discovered a bug (more like a loophole) in the The Hindu subscription page. The flaw allows one to buy 1 year or 2 year subscription of TH or TBL or FL for ₹0 (inc GST).
+
+This is for their web/app subscribtion; a similar exploit may work for their epaper sub too, but haven't tried yet.
+
+I'm no web dev haxxor, I barely know HTML. The flaw is stupid and would take a minute to fix.
+
+I sent a mail on their generic "contact us" mail, letting them know of the flaw, but haven't received any reply yet. This was a month ago. The exploit still works.
+
+Since they clearly don't care, and don't seem to offer any bug bounty either, and because I believe in the freedom of information and knowledge (especially when online subscription sales contribute to a fraction of the revenues of newspapers like TH) -- thought I'd just share the exploit with the good people of this sub.
+
+I don't seek anything in return, except a promise to not make public the exploit, lest it's commercialised by youtubers and bloggers and spread to a point that TH makes a net loss.
+
+That's all. DM, if interested.
+
+Edit: This is for strictly educational/experimental purposes. I'm not making any profits out of this. I'm not even making public the flaw. I advocate everyone to actually buy a TH subscription, because it's worth it. Supporting good journalism is our responsibility. Please don't sue me, TH. ;_;
+
+If anyone from TH is reading this and would like this post removed, DM.
+
+Edit 2: Deleting my account, because I'm getting slightly paranoid that TH might sue me. It might the medication I'm on, definitely it. Completely irrational, I know, but can't take any chances. u/ronaldronswanson may confirm that I wasn't scamming or lying.

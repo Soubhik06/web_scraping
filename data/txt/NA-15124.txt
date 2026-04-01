@@ -1,0 +1,21 @@
+An Observer investigation revealed that 20 National Health Service (NHS) trusts in the United Kingdom had shared patient data with Facebook using the tracking tool Meta Pixel. The data includes pages viewed, buttons clicked, and keywords searched, all of which-when linked to a patient’s IP address can reveal their medical details. Eight of these trusts have come out, and multiple others have said that the tool had been installed to monitor recruitment or charity campaigns and that they were not aware that patient data was being sent to Facebook. Some of the NHS trusts in question had been using the tool for several years.
+
+Pixel tracking is a process where companies place a small piece of code on their website or advertisement, which then tells them how users are interacting with their content, and Meta Pixel is one of the services that can make this happen.
+
+This disclosure of data infringes on patient confidentiality and also goes against what the NHS claims in its privacy policy. It says that it only discloses patient information to third parties for purposes like fulfilling contracts entered with the patient, search engine optimization, and supporting local councils in the delivery of their public health function. However, based on what Facebook says , it uses off-site activity data for showing users relevant advertisements or suggesting groups, events, and marketplace items they might be interested in. And thus, sharing data with Facebook falls under none of the disclosures mentioned in the NHS privacy policy.
+
+It is also important to mention that Meta Pixel, the tool used by the NHS, has also been under heat in the United States, with the law firm Herman Herman and Katz filing a class action lawsuit against its use by Louisiana-based LCMC Health System and Willis-Knighton Health System in February this year. Both these cases bring up important questions about the need to ensure data privacy in the medical space.
+
+Researcher Wolfie Christl tweeted that Facebook had informed him through a banner on his activity tab that it received his data from the Central London Community Healthcare Trust (a part of the NHS). He dug a little deeper to find that his data (including search queries and personal identifiers) were not only being shared with Facebook but also with Google, even after the leak became public knowledge. And all of this occurred even before he interacted with the banner asking users to accept or reject cookies. How will any of this be addressed legally remains to be seen.
+
+On Saturday, @shanti_das reported on how NHS trust websites share health-related personal data with Facebook via the Meta pixel: https://t.co/vRVXYoY726 FB now kind of confirmed to me that it uses data on my visit to https://t.co/XyrgTjJKjh for profiling and ad targeting. pic.twitter.com/DsiDV25Sy1
+
+As of today, it appears that https://t.co/XyrgTjJKjh is still sending personal data on my site visit, including the search query ‘depression’ and several personal identifiers (c_user, fr, fpb, datr), to Facebook, even before any interaction with the pseudo-consent banner. pic.twitter.com/OPoamSAOTi
+
+Btw. it appears that https://t.co/XyrgTjJKjh also sends personal data, including the ‘depression’ search query and a personal identifier (cid), to Google, also before any interaction with the pseudo-consent banner. No IP masking or disabled personalization, as far as I can see. pic.twitter.com/kmZkhQ5oTw
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

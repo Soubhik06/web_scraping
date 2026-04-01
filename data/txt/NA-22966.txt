@@ -1,0 +1,15 @@
+SUBREDDIT: r/LegalAdviceIndia
+TITLE: Data leakage from Ministry of Corporate affairs
+DATE: 2023-06-17
+SCORE: 41
+URL: https://www.reddit.com/r/LegalAdviceIndia/comments/14bmcdw/data_leakage_from_ministry_of_corporate_affairs/
+
+--- POST TEXT ---
+
+Background- I’m a Chartered Accountant and recently I was filing a form on the website of the Ministry of Corporate affairs. It was a routine filing for strike of a company’s name in Form STK-2. The website is very buggy and generally speaking we end up filing the same form multiple times before it gets submitted properly. They have started a new portal MCA v3 and in this portal you have to fill the form online, then submit the form, download a PDF, attach Digital signatures and upload the signed pdf.
+
+The incident- Today, after I submitted a form and clicked the download PDF button, I received files of an entirely different company which is not related to me- basically attachments of a form that was submitted by some other CA or Company Secretary from some other city. This really shocked me. The thing is that the website is really buggy and we do end up logging out and logging in numerous times before we get the correct PDF downloaded (first 2–3 times it downloads a corrupt PDF). However this time it was real documents of another company.
+
+Its also worth noting that when we do any filings for our clients we have to sign a non disclosure agreement and its also a clause in our engagement letters. This is a serious data breach but will never be treated seriously by the government nor by L&amp;T employees (the company which maintains the web portal).
+
+I want to know what laws are applicable to a government entity like the ministry of Corporate affairs and how I can escalate this kind of issue legally. I’ve already sent an email to them about the incident but they are certainly going to just try and hide the whole thing. I don’t want to do the tweet to Nirmala Sitharaman thing. Other than that, is there a way to teach them a lesson so that they take these things more seriously.

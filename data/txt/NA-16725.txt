@@ -1,0 +1,21 @@
+SUBREDDIT: r/india
+TITLE: When would Data Security be taken seriously?
+DATE: 2024-10-29
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/1genau0/when_would_data_security_be_taken_seriously/
+
+--- POST TEXT ---
+
+Recently while doing some work came across IRCON (Ircon International, or Indian Railway Construction International Limited, is an Indian engineering &amp; construction corporation, specialized in transport infrastructure. The public sector undertaking was established in 1976) employees highly sensitive details was exposed to Open Internet .
+
+From 1980 to 2024 , PF(Provident Fund) details of multiple employees could be accessible , fun fact is there is no restriction who can view those data. Those who don't know , IRCON is publicly listed company and security is ....
+
+This PF was linked to bank accounts . The Account Number as well as Employee ID almost quite a stuff was exposed .
+
+As usual being ethical Hacker , reported it to CERT-In (Indian Computer Emergency Response Team) and they acknowledged and fixed the issue .
+
+Sharing just one screenshot of data that was exposed there are more but lets keep it to later days. :)
+
+Ps: Wrote this post just to bring awareness about the situation in publicly listed companies. Be safe out there against scams you may never know from where your data may get leaked.
+
+https://preview.redd.it/1r994q3urmxd1.png?width=1915&amp;format=png&amp;auto=webp&amp;s=1ed9e5b6dd0d12eb3a0de396b00ea5704590cd04

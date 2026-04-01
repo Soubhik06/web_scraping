@@ -1,0 +1,23 @@
+As we reported earlier today, a website called magicapk.com went up last evening, allowing anyone to search for personal details of Jio customers . That website has now been taken down, but issues regarding security standards, the source of this information, and the amount of information that may be made public through such leaks still persist. Some points:
+
+1. The information was legit: There were a large number of people last evening who were tweeting that they had been able to access information that they could verify as legit. I tried it for a few people, and it worked. As did many others. Some people validated their own data. It was almost as if those tweeting saying the information is incorrect were a part of a campaign. It’s shameful that Jio is trying to deny that this ever happened, or that the data is inauthentic. It isn’t: we’ve got screenshots. Here are 2 redacted screenshots:
+
+2. We do not know how much data got leaked: All we know is that many people were able to validate this information. It isn’t like Aadhaar Leaks, where we saw government departments put up excel sheets available on google search, and entire sites making rows of data easily accessible. That data was far more problematic : names, mobile numbers, addresses, bank account numbers and Aadhaar numbers.
+
+3. We do not know why this site was put up: It could be someone trying to showcase how vulnerable the data is, and this was their way of alerting people about a breach/leak or vulnerability. We’ve had instances of security experts and ethical hackers try in desperation to get companies to fix vulnerabilities, and when ignored, they don’t know what to do. If the intent was bad, then this could have been a sort of proof of concept to show potential buyers that this data is legit.
+
+4. We do not know where this data leaked from: It could have been via a direct selling agent who could have kept this data unencrypted, or from an internal source who stole the data, or there could have been a vulnerability in the setup. Unless there is transparency from Jio about where in its ecosystem the data leaked from, we will never know.
+
+5. The site going down doesn’t mean new ones won’t come up again: If they have the data, they could potentially set up hundreds of sites, or dump that data online for others to take up.
+
+6. It’s not clear whether Aadhaar data was leaked: Aadhaar numbers are a part of the form, but no one has, as yet, found that Aadhaar numbers were leaked. It’s illegal to publish Aadhaar numbers (“The Aadhaar number of an individual shall not be published, displayed or posted publicly by any person or entity or agency”; AADHAAR (SHARING OF INFORMATION) REGULATIONS, 2016, point 6 )
+
+7. Who’s responsible for data via eKYC? Jio got this information using the Aadhaar eKYC process: users consented to give their information to Jio via fingerprint authentication when buying a SIM card. The UIDAI transferred personal identification information to Jio, but does its responsibility end there?
+
+8. We need a data security standard for Aadhaar eKYC: When you run a payment gateway or a site which uses credit card information, that has to conform to a certain data security standard (DSS), from an organisation called PCI, which specifies norms around data storage, transmission and retention, trying to limit the amount of data stored. For example, organizations have to have a particular security standard before they can store card information which is pre-filled. So, what kind of security and data protection processes and standards does the UIDAI mandate for entities like Jio before it allows for eKYC, to ensure that sensitive data, once procured, is kept safely? What kind of security does UIDAI mandate that Jio’s direct selling agents maintain? Who gets access to that data? Just like in case of credit card information, because a user has given consent, it doesn’t mean that UIDAI’s responsibility ends there. This problem will only increase as more businesses sign up for eKYC. There must also be penal provisions applicable if these standards are not followed.
+
+9. Mobile linkage with Aadhaar should be stopped unless security standards are specified, validated on a regular basis: The government of India has, while misrepresenting a Supreme Court order, has made it mandatory to link mobile numbers to Aadhaar numbers . This should be stopped.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

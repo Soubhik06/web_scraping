@@ -1,0 +1,27 @@
+The end of the last week was tricky for us at MediaNama: we shifted servers and were inundated with bot activity once we went live, and RAM usage was off the charts. What was interesting for us was that the activity we saw was substantially from bots looking to scrape content from MediaNama for training AI. A noteworthy bot was from bytedance, but there were several bots with the suffix AI. It’s likely that we’re not alone here, and most news publications get this too. That’s not what surprised us.
+
+What surprised us was that, over the weekend, even when we edited our robots.txt file to disallow all bots (even those for search), the AI bot activity continued. For the uninitiated, robots.txt is a web standard: a simple text file you can upload to your website servers to tell it to not index your website.
+
+A couple of months ago, when there was a high profile visit from a popular AI company to India, at a private meeting, I asked an executive about copyright issues and whether they have a robots.txt exclusion mechanism. They carefully evaded the question.
+
+Here’s the thing: just because something is public or publicly available, doesn’t mean that it’s not protected by copyright or privacy. This is at the heart of the issues with Clearview AI using social media images to train its facial recognition software , and publishers and content creators suing OpenAI for using copyrighted material as training data .
+
+To their credit, Google began a process earlier this month about figuring out robots.txt exclusion from AI , and while robots.txt is a web standard respected by search engine bots, based what we experienced at MediaNama last week, it doesn’t mean that robots.txt is necessarily respected by bots.
+
+While I support the idea of open-sourcing AI — it is essential for development of AI, and especially ensure that Indians can participate in building AI based tools for India (for example, allowing someone to write code in their local language, instead of English), I’m reminded about a comment someone made at that discussion, that open sourcing AI is like giving everyone a nuclear weapon. While that is an extremist position, there is a need for balance here. If tools can be used to translate Telugu into Bodo, they can also create deep fakes that could lead to violence in a country lacking adequate law enforcement resources. The uncanny valley is a thing of the past.
+
+Article continues below ⬇ , you might also want to read:
+
+There’s also talk of watermarking AI developed information, but there are also tools for removing watermarks. Something similar happened with DRM: just because you have tools for preventing copying of content doesn’t mean that tools don’t exist for removing technological safeguards. Bots can always choose to not respect the robots.txt exclusion, and that will mean that some parts of the web will choose not to be public.
+
+Should the tools be blamed? Is open sourcing AI enabling an exponential growth in the problematic use cases? While it’s easy to blame the enablers, the fact remains that technology tools cannot be held liable for how we use them. However, they do tend to be seen as enablers, and thus there’s a legal gap between responsibility and accountability of platforms, and with time, law will seek to fill that gap. Just wait for the volume of harms to escalate.
+
+I doubt that we have solutions right now. I definitely don’t think a solution lies in preventing open sourcing. Centralisation of AI with a few players will lead to an uncompetitive oligopoly, and the tech will leak anyway. At the same time, I do think it’s necessary to have these debates so that we can identify solutions. There will be no silver bullet, and we’ll need regulation to address issues related to intellectual property, competition, electoral interference, and multitudes of user harms. What shape those regulations take, and whether there should be a UN Body or local legislation is something that still needs to be fleshed out.
+
+P.s.: On the robots.txt exclusion, I queried ChatGPT and Bard a few weeks ago about how they might be excluded. Here’s what I got:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

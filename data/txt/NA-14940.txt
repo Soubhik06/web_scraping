@@ -1,0 +1,55 @@
+âWe believe that it will be premature to go for more regulations and controls, especially when [the] 5G ecosystem and its use cases in various industries; Metaverse and its applications etc. are still evolving and need all the freedom to innovate and deliver beneficial outcomes,â Reliance Jio said in its response to the Telecom Regulatory Authority of Indiaâs (TRAI) Digital Transformation through the 5G Ecosystem consultation . âTherefore, the Authority is requested to continue with its policy of light touch regulation and continued monitoring developments to ensure that any market failure is averted,â it added.
+
+This consultation aims to look at what regulatory changes have to be made to accelerate the growth of emerging technologies that rely on 5G including the Internet of Things (IoT), artificial intelligence (AI), augmented reality (AR), virtual reality (VR), mixed reality (MR), edge computing, and metaverse.
+
+Jio said that cross-sector collaboration on 5G use cases could only be brought about by initiatives by the concerned industries themselves. It mentioned that while the government cannot carry out regulatory interventions to strengthen collaboration, the government can set up an âopen, independent and non-obtrusive interactive platformâ (like a chat platform) to bring together all interested parties and encourage organic collaboration. Whenever required parties can form working groups to help identify common issues and share solutions. The government can also encourage collaboration between public sector enterprises/ government departments and private companies.
+
+âOnly dense and ubiquitous availability of 5G will help realize the potential of 5G use cases across sectors and industries,â Jio suggests. The most important part of the deployment of 5G is the availability and allocation of spectrum. All international mobile telecommunication (IMT) identified spectrum should be available to telcos and all available spectrum should be auctioned regularly. â This should be supplemented by a clear policy position against delicensing of spectrum to quell the regular noise,â it added.
+
+The regulatory framework should become more agile to accommodate 5G requirements. There is a need to address ârestrictive net neutrality and data charging rules,â it argues. Jio highlights that UKâs communications regulator, OfCom, recently conducted a review of net neutrality . It found that while net neutrality has worked in general, there are specific areas where OfCom could provide more guidance so that telcos can innovate and manage their networks effectivelyâ
+
+Jio suggests that the government could smoothen the approval processes and fees for right-of-way. It also recommends that the government should âcome out with a policy and glidepath for closing down the 2G and 3G networks completely so that unnecessary network costs should be avoided, and all customers can be migrated to 4G and 5G services.â
+
+It’s important to note that, both in the UK and India, net neutrality is enshrined in law. According to OfComâs website , â By law , [emphasis added] broadband providers must treat all internet traffic on their networks equally, and not favour certain websites or services.â OfComâs net neutrality review also mentions that the organization is âexplicitly required to promote the continued availability of non-discriminatory internet access services at levels of quality that reflect advances in technology.â Ofcom cannot make changes to net neutrality legislation . Any changes would be a matter of decision for the UK government. As such, OfComâs review should not be understood as a change in the UKâs position on net neutrality.
+
+There isnât any need to create any awareness in urban areas but many rural areas need this awareness. To do so, there is a need to create communication strategies that speak to the target audience. This will require association with local government bodies, schools, banks etc, so that their communication networks can be leveraged for 5G awareness. Policy measures promoting IoT:
+
+Jio says the following key issues need to be addressed for promoting IoTâ
+
+Review requirement for maximum number of public IP addresses: Data communication for machine-to-machine (M2M) SIMs can only be allowed to 4 predefined public URLs/ IP addresses. Jio submits that this restriction poses a major restriction for M2M solutions and goes against international precedents set by countries like the US. Most M2M solutions require collaboration between multiple entities âleading to a situation where the restriction of 4IPs effectively constrains the innovations and effective M2M solutions.â It gives the example of vehicle tracking (a use case of M2M SIMs) and says that it needs inputs fromâ
+
+âAll related information captured from the M2M SIM is required to be sent to multiple third-party applications/entities collaborating in the M2M solution, which is much more than the limit of 4 IPs,â it says.
+
+Exemption for M2M SIMs from Data barring orders:
+
+IoT and M2M applications cover critical sectors like manufacturing, telemedicine and healthcare. As such, they should not be covered under data service shutdown orders issued by government authorities. âIt is pertinent that as these SIMs comply with restrictive communication requirements, they cannot be used for any anti-social activities and can easily be excluded for data services shutdown requirements,â Jio adds.
+
+Industry body for strengthening IoT/M2M ecosystem:
+
+TRAI can recommend a consultative industry body for coordinating cloud services and traffic management practices.
+
+Non-applicability of periodic verification requirements for M2M SIMs:
+
+Verification requirements that are in place for person-to-person communication are not valid for M2M since they do not have any person as an end user. The present requirement of 6 monthly periodic verifications in case of bulk mobile connection does not have relevance in the case of M2M SIMs.
+
+Permit eSIMs and integrated SIMs from outside India:
+
+Jio requests TRAI to facilitate easy import of eSIM produced outside, a measure that will also facilitate the import of vehicles/devices from global manufacturers. It also highlights that integrated SIM technology is very cost-effective and a boon for low-power M2M devices. It submits that integrated SIM technology should be facilitated and ISIM personalization should be permitted from outside India since this implementation is tightly integrated with the modem chipset.
+
+Industry 4.0 consists of AI, robotics, big data, and IoT. Of these, Jio says that it’s the most important to upskill for IoT. This can be done through targeted training programs and initiating small and long-duration courses in educational institutions. The training modules can be prepared along with IOT industry players, device vendors, and solution providers.
+
+There are already provisions for testing and certification of IoT devices Jio says. It explains that while it understands TRAIâs concern for the lack of sector-specific focus on addressing the digital risks associated with IoT, the sectoral regulators would take appropriate actions once IoT deployment crosses the nascent stage.
+
+âWhile we believe that it is apt time to develop a regulatory framework for the responsible development and use of Metaverse, however, it will be better to have a multi-regulator body to tackle the issue regarding jurisdiction first,â Jio says. It suggests that regulatory efforts should be supported by awareness efforts to ensure that Indian consumers control their personal information and identity in the metaverse. Regulating the metaverse should be a gradual, evolving process and dedicated rules should be formed once there is more information about the use cases and threats posed by the metaverse.
+
+âWe understand that in the beginning the content moderation practices and rules by MeitY [Ministry of Electronics and Information Technology] should continue to prevail and we build onto this base, as more knowledge is available,â Jio says.
+
+Jio is not in favor of modifying the legal framework for intellectual property rights at this nascent stage of metaverse development. The prevailing IPR framework should be simplified and made conducive for R&D professionals and that should suffice for metaverse as well.
+
+Also read:
+
+STAY ON TOP OF TECH NEWS:Â Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. ClickÂ here Â to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

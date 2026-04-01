@@ -1,0 +1,45 @@
+SUBREDDIT: r/india
+TITLE: How to- unrestricted internet
+DATE: 2016-11-07
+SCORE: 33
+URL: https://www.reddit.com/r/india/comments/5bkraw/how_to_unrestricted_internet/
+
+--- POST TEXT ---
+
+Ok I wrote this article a while back but it didn't end up getting posted so I figured it'll be of some use to someone so here goes!
+
+So we had a recent scare on the Internet because of this message:
+
+https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqpbf2hx00QOhQ3WxwZatlfE8PwrpJS7V06GJZO6AkZ6PKX_NdbivKalfOEQ
+
+And now while the debate on piracy is endless most us of cannot say we haven't pirated a movie and a book or two.
+
+For starters, let me just say I do not condone using this anonymity for anything illegal,but considering you're reading this you probably are going to anyway. so lets not delay any further and get you into the Internet version of a trench coat and hockey mask!
+
+To begin, the most basic thing you will need is a Virtual private Network or a VPN. This encrypts all of your data going out and makes it seem like you are browsing from the country of your choice and not the one you are currently in, don't worry this is as simple as downloading an app onto your computer. While there are a few free VPN's out there like Zenmate, if you want to be better protected get some of these paid services that reroute to a place with strong privacy laws like Lithuania so even the FBI cannot legally call you out when you download Deadpool or the new season of Game Of Thrones. Try:
+
+hide.me 
+
+nordVPN  
+
+Ipvanish
+
+A webRTC blocker is the next step, this will stop any pesky IP address leaks your VPN might have. Get this from the Chrome webstore or manually turn it off on Firefox.
+
+Now while you're in the market for browser extensions, I'd recommend getting an ad blocker to avoid annoying full page ads and the ones that start playing audio that doesn't stop. This you'll need when you're browsing through shady websites for the new game of thrones book trying to figure out which download button is real and which one will make your face melt off.
+
+￼
+
+For the dessert of this piracy themed meal serving all the seasons of friends, get Privacy Badger. This cute li'l guy stops any webpages from tracking you, like the sketchy ones you'll be visiting. And you're done! Enjoy complete and unrestricted access on the interwebs including all the blocked and banned content from AIB to some of the more risque stuff, nobody's watching unless they're standing right behind you.
+
+So your browser is taken care of and you've found what you want to download. There's just one last thing left to do-
+
+The actual Torrenting part of it. For this all you need to do is set up a proxy and hide your ip adress, just follow the instructions on this video-
+
+https://www.youtube.com/watch?v=uzVvw3iHQZ0
+
+Just type in a couple things into your prefrences menu and you'll have a proxy for your torrent client. For an additional layer of protection get Peerblock, it'll block "unfriendly" IP addresses associated with snoopers, spyware, educational institutions and of course governments.
+
+Well that's all from me, now you're ready to embark on your journey as an Internet pirate. So raise the anchor, lower the sails, dont forget to seed, and eat your vegetables or you'll get Internet scurvy.
+
+Feel free to correct me if I've forgotten something or messed up anywhere, and sorry for formatting, I'm on mobile

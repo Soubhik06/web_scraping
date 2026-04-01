@@ -1,0 +1,77 @@
+Go Digit General Insurance Limited’s decision to deny an insurance claim using Google Timeline location history reveals a dangerous trend: platforms and insurers are quietly turning user data into evidence against the very people who generate it. This is not an isolated case: it’s a symptom of a system where opaque consent flows and buried permissions enable invasive data use without user awareness.
+
+Insurers like Go Digit routinely collect sensitive data like location, health, and financial data while hiding behind complex privacy policies and vague language. The Digital Personal Data Protection Act (DPDP Act) promises to fix this, but without implementing rules or design-specific standards, companies can still deploy dark patterns to extract consent without clarity. Privacy zuckering thrives in this vacuum, allowing platforms to meet legal thresholds while subverting user autonomy.
+
+Creating laws and assigning fiduciary responsibility isn’t enough. India needs sector-specific rules and user interface (UI) audits that assess not just what data companies collect, but how they obtain it. Without strict limits on data purpose, retention, and interface design, users will remain trapped in systems they don’t understand but must accept.
+
+Go Digit’s case should be a wake-up call, not just for insurers, but for regulators. Data protection must go beyond paperwork. It must meaningfully constrain how power operates in the digital economy.
+
+According to reports from the Times of India and Hindustan Times , a Silvassa resident was denied a mediclaim by Go Digit because his Google Timeline location history did not match his claim.
+
+The reports quote a July 14, 2025, order by the Consumer Dispute Redressal Forum in Valsad, Gujarat, that the man approached after his claim was repeatedly rejected. The case details say that one Vallabh Matka, who had a Go Digit mediclaim policy, was hospitalised in September 2024 for viral pneumonia at a hospital in Silvassa. The insurer rejected the claim after Matka submitted bills and other details for reimbursement, citing his Google Timeline history.
+
+According to the Hindustan Times , Go Digit told the forum that: “Upon internal verification of the claim, we noted that there are multiple discrepancies in submitted bills, indoor case papers, and we have also noted discrepancies from the insured statement to his verified Google Timeline.” They further said that the customer had his phone at the time he said he was in the hospital, but his visit was not found within his Google Timeline data. The insurance company thus rejected his claim on this basis.
+
+However, the consumer forum ruled against the insurance company after receiving the hospital’s statement and other records. They ordered Go Digit to settle the claim and pay 8% interest within 30 days of the order.
+
+The practice of companies obtaining users’ personal data by nudging them into giving consent without full awareness or understanding is called privacy zuckering . Coined after Facebook CEO Mark Zuckerberg, the term encapsulates design tricks like pre-ticked boxes, complex opt-outs, and consent buried deep within legalese-heavy terms and conditions.
+
+A 2024 Local Circles survey of over 36,000 insurance holders in India found that 57% of respondents felt forced to furnish unnecessary personal details to insurance platforms. The survey further added that people reported that such platforms misused their information.
+
+Go Digit , Acko Life , Tata AIA Life , and ICICI Lombard use dense policy texts that grant broad data rights with minimal clarity for consumers. Go Digit collects personal and sensitive information when users register or file claims. It links location to identity and tracks across apps and services without clear disclosure of downstream use.
+
+Acko Life states that by providing or allowing access to personal data, users consent to the collection, use, storage, and disclosure of sensitive data under its privacy policy. It binds consent automatically when users continue using the platform and reserves unilateral rights to update the policy at any time. Meanwhile, Tata AIA Life retains personal and health data “as long as it is necessary” to fulfil internal or legal purposes. It does not specify retention limits or secondary use conditions.
+
+Elsewhere, ICICI Lombard collects personal, contact, health, and financial data when users buy policies or submit claims. It shares this data with third parties for cashless claims and can update its policy without prior notice. Continued use signifies consent to changes, and users must monitor the page for updates.
+
+All four policies rely heavily on legal language, continuous implied consent, and vague retention allowances. They embed clauses that enable broad data access, alerts to policy changes without explicit notification, and limited provisions for data deletion access.
+
+Therefore, these features create a high risk of privacy zuckering by making it hard for ordinary users to know exactly what they approve, how long their data stays, and how they can revoke consent.
+
+India’s Department of Consumer Affairs (DoCA) released guidelines banning 13 dark patterns in November 2023. However, the list did not mention privacy zuckering or other forms of dark patterns around unnecessary data extraction and uninformed consent.
+
+Additionally, the Insurance Regulatory and Development Authority of India (IRDAI) does not explicitly recognise or use the term “privacy zuckering” in its regulations or guidance. IRDAI’s 2024 Master Circular on Protection of Policyholders’ Interests outlines obligations for transparency and consent, but does not address interface design pitfalls or manipulative consent tactics.
+
+IRDAI’s Cyber Security Guidelines classify and secure data, but they impose no restrictions on design practices that might mislead consumers into sharing excessive personal information. Importantly, IRDAI regulations emphasise policyholder confidentiality and require informed consent for data sharing with statutory entities, however, they do not cover dark patterns or forced consent flows, as typified by privacy zuckering.
+
+Salman Waris , a technology lawyer and Partner at TechLegis Advocates and Solicitors, says: “The Digital Personal Data Protection (DPDP) Act, 2023, requires that consent be free, specific, informed, unconditional, and unambiguous. However, in the absence of the implementing DPDP Rules being passed by the Government, the implementation of the Act itself is virtually in abeyance and hence it can be said currently [that] Indian law lacks a comprehensive regime governing privacy practices that resemble ‘privacy zuckering’.”
+
+He points out that the IT Act, 2000, and the IT Rules, 2011, offer “partial protection” in terms of obtaining consent. However, Waris remarked that: “The law does not clearly govern how that consent is to be obtained, leaving room for interfaces that nudge users into submission without informed understanding.”
+
+The DPDP Act, 2023 , introduces specific provisions that directly address practices enabling privacy zuckering. It mandates “free, specific, informed, unconditional and unambiguous” consent before collecting or processing personal data.
+
+Data fiduciaries must present consent notices in clear and plain language, reducing scope for obfuscation through legalese or manipulative design. The Act also empowers individuals to withdraw their consent under Section 6(4) and to access information about how entities process their data under Section 11.
+
+Mishi Choudhary, a technology lawyer and founder of Software Freedom Law Center ( SFLC.in ), remarks: “Consent under Section 6 of the DPDP Act defines the requirements for valid consent under the Act. The Act specifies that individuals must give consent freely, specifically, in an informed, unconditional, and unambiguous manner, demonstrated through a clear affirmative action.”
+
+“Combine this with sections 4, 5, 6(3) [to] provide legal methodology. What is missing is guidelines on UX design that can address issues like default opt-in, deceptive design practices, and bundled consent.”
+
+These provisions reduce information asymmetry between companies and users. Additionally, the Act imposes obligations on “Significant Data Fiduciaries” to conduct Data Protection Impact Assessments (Section 10), which could force insurers and health tech firms to audit whether their interfaces mislead users. Elsewhere, Section 8 requires data minimisation and purpose limitation, ensuring companies collect only the data necessary for a specified purpose.
+
+Violations can attract penalties up to Rs 250 crore, creating a financial deterrent against exploitative practices. Together, these features give users greater visibility and control over their data, pressuring companies to abandon practices that trick users into handing over sensitive information.
+
+The DPDP Act lays a legal foundation to counter privacy zuckering, but enforcement gaps remain. It lacks mandatory privacy-by-design requirements and does not explicitly prohibit dark patterns. Notably, the Data Protection Board has yet to operationalise granular oversight mechanisms, while consent notices may still hide manipulative design under formal compliance.
+
+“On paper, these provisions create a robust legal framework against privacy zuckering. However, the Act does not directly address manipulative interface design or the subtler behavioural tactics used to engineer user consent. As a result, companies can still present bundled consent forms or bury critical permissions deep within app interfaces, thereby formally complying with the law while violating its spirit.
+
+“Without explicit provisions/regulations against dark patterns, the DPDP Act’s consent regime may remain vulnerable to superficial compliance and data extraction tactics,” remarks Waris.
+
+Waris says: “While it (DPDP Act) emphasises ‘informed consent’, the Act does not require an audit or certification of how that information is conveyed in digital formats. Bundled consent remains a major concern, as the law does not explicitly forbid combining multiple permissions into a single checkbox, especially in sectors like insurance, where users may feel compelled to accept all terms to access essential coverage.
+
+“Moreover, the Act does not define or prohibit dark pattern interface designs that manipulate user decisions, leaving a regulatory vacuum in an area central to behavioural data protection”.
+
+He further points out that the IRDAI also needs to look at purpose limitation. “Sector-specific regulation by IRDAI must be strengthened to include rules on what data may be collected for underwriting, claims processing, and fraud detection, with a clear emphasis on purpose limitation and proportionality.
+
+“Additionally, insurance apps should be subjected to mandatory user interface audits that evaluate whether consent mechanisms are genuinely transparent and navigable,” Waris states.
+
+The European Union’s Digital Services Act (DSA) offer a regulatory model that India can study as it confronts dark patterns and privacy zuckering. The DSA explicitly bans interface designs that mislead or manipulate users into consenting to data collection or purchases they did not intend. It also mandates clear, accessible options to withdraw consent. Furthermore, the DSA goes beyond data protection laws by targeting the design of user interfaces, and not just consent mechanics.
+
+On the other hand, India’s DPDP Act focuses on formal consent, but remains silent on how companies manipulate user behaviour through dark patterns.
+
+MediaNama reached out to Go Digit with the following questions. The article will be updated when we receive a response.
+
+Also Read :
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

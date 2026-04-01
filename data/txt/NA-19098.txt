@@ -1,0 +1,83 @@
+SUBREDDIT: r/india
+TITLE: My experience with covid
+DATE: 2021-05-17
+SCORE: 273
+URL: https://www.reddit.com/r/india/comments/ndveov/my_experience_with_covid/
+
+--- POST TEXT ---
+
+This post is to document my experience of how covid affected me and my family. The hope is that I transfer my learnings and mistakes so that at least one person or a family reads this and gets use from me and my family's experience. I'll also post a tl;dr version if you don't want to read a lot but I urge you to spend 15 min reading the full post. 
+
+**Cases start rising in apartment building:**
+I'm from the city of vizag. This city got affected real bad in the second wave just like every other city in India. First case in our building got reported during the 2nd week of May. The case count started building up day by day from 1 to 3 to 6 to 9 to 12. I prepared myself and my family that I think this time we are going to get covid and we have to be extra careful with everything and everyone around us. We purchased n95 masks without a valve and were being super cautious about who leaves the apartment and for a purpose which is deemed very necessary. Basically we were going only for medications for my mom, and local groceries shops. We stopped gatherings in the building and isolated ourselves completely. 
+
+**Sister gets covid:**
+
+It was 24th april(saturday night), my sister got symptoms indicative of covid. Namely: fever, dry cough, weakness, body pains, etc. I suggested that we assume that she is covid positive and we isolated ourselves from her. She was given a room with exclusive bathroom access. We wanted to test her because at that time hospitalization required a covid positive report. That is no longer the case: [link](https://www.livemint.com/news/india/postive-covid-test-no-longer-mandatory-for-hospital-admission-govt-11620467205914.html). Since it was late in the night we decided to get me and my sister tested in the morning. My dad and mom didn’t want to get tested as they believed that they are fine but I decided to get tested just in case. 
+
+We came to a rude shock that there are no testing centers which operate on a sunday. At Least not the main ones, namely arilova vijaya diagnostics. So we waited a whole day to get tested on monday. Boy o boy: getting tested was a disaster. We reached the testing center at 5 am. Already to see a line worth a km parked outside. People have been queuing up since 9pm last night. It took 4 hours of queue moving for us to reach the stage of form filling. Then I figured out why it was taking a lot of time: all data collection/registration was being done manually. People who came after 6am were asked to come back tomorrow! 6am! So many visible bottlenecks in the whole pipeline. Can be very much better handled with a smoother onboarding system. There were just 3 people collecting samples for 2k people. Of course there are going to be delays. Positivity rate in AP is ridiculously high. Means there is design to keep the testing down. Who the fuck declares Sunday a holiday for testing in the middle of a pandemic! [Here are few photos from the covid testing center showing the crowds](https://imgur.com/a/38k48AA)
+
+On the 26th night we get our covid results. My sister tested positive and I negative. I still decided to isolate myself even though at that time I didn’t have any symptoms as I was not vaccinated. Thankfully both my parents were vaccinated with 1st dose. 
+
+**I get symptoms:**
+The next day I started developing symptoms. I think my covid test might’ve been a tad bit early. I started getting all the symptoms of a covid-19 infection. Fever, sore throat, dry cough, lots of it, fatigue, body pains, etc. I consider myself ok fit, but for 3 to 4 days I was struggling to get out of bed. I felt gravity to be 100x and I could barely find energy to just wake up, eat and sleep. It was hell for those days. On day 4-5 I began to slightly feel better. But I had general weakness/fatigue and I was having shortness of breath.
+
+**Covid monitoring:**
+These are the following parameters which we were monitoring every 6 hours for both me and my sister. You can use an excel sheet or just a simple plain notebook
+Body temperature
+Spo2 measurement
+BPM using the oximeter
+Symptoms currently experiencing
+Would suggest adding any comorbidities if you have any here. Thankfully no-one in our family had any.
+We used an oximeter, and a body temperature gun(You can use a thermometer) for noting down the measurements.
+
+If Sp02 &gt; 95, then you’re fine
+If Sp02 : 90-95, start looking for oxygen beds. Doesn’t matter if you’re feeling breathless or not.
+If Sp02 &lt; 90. Need to be put on oxygen ASAP. Might require an ICU bed. 
+
+**May 1st: Dad tests positive**
+
+Just when it felt like me and my sister were recovering, my dad started exhibiting symptoms. The same symptoms as me: fever, dry cough, fatigue, etc. I was not worried. I’ve read reports that a vaccine dose has some protection. My dad and mom got their first dose a month ago. I thought that they were safe. Alas I was proven wrong. We got him tested, this time at a different testing center which didn’t involve a gruelling 4 hour waiting time. He tested positive. I wasn’t worried because: he didn’t have any co-morbidities and he was a healthy person and he got a single dose vaccine. Couple of days later my mom tested positive. Thankfully her covid was gentle on her (thanks to maybe the vaccine ? She got side effects from the vaccine)
+
+A week passes. All of us were infected with covid. Me and mom had energy to take care of the whole family and bring in medicines/food etc. All of our temperatures were normal after taking paracetamol and our spo2 were hovering around 98-99.
+
+**Things go south for dad**
+
+On 8th may night, the spo2 reading fell down to 95. All of us checked: our reading was fine. We called up our family doctor and asked him about this. At this time he was having an incessant cough. Doctor said it’s fine, it will go down and up during this time and told me not to worry about this. In the back of my head I didn’t think it was fine but who was I to question the doctor. When I went to sleep, I thought we will check in the morning and hopefully the reading will go up.
+
+On the morning of 9th may, my mom woke me up at 530 am and told me that the sp02 reading was at 84 and dad was having non stop cough. I knew what it meant, we had to find a hospital bed for dad. He needed oxygen support. I needed someone qualified to assess his situation and come up with what needed to be done.
+	
+We quickly searched for leads and came up with two leads, few beds were available in VIMS hospital and a guy who can set up an oxygen cylinder at home. I suggested he needs to be looked at by a doctor and that setting up an oxygen cylinder would be self medication. We packed a bag and me, my dad and my mom started on a car to VIMS hospital. Upon reaching the triage area, I didn't find anyone. I went around looking for someone to talk to and finally found one counter open, and they said that there were no beds available. I begged them for 30 min to consider admitting to an oxygen bed at least but to no avail. Someone who saw my plight pulled me aside and told me that I can get a bed only if I have influence and that it was futile. So we got in touch with my dad’s company(An PSU: an oil company). They have donated crores of money to hospitals and they were the best chance we had to get a bed. We had told them of our need for a hospital bed. They said getting a bed right now is very difficult and that they'd try and asked us to keep trying.
+
+**Experience with 104**
+
+My experience with 104 was bad. My first call involved me talking to a lady and she put me on hold for 15 min. Then the portal which they were using to register details was down. Then they successfully registered our details but then said they could not help us as there was not a single bed available in the city. They claimed that they would give me a call as and when there would be a bed available. I didn’t get a call from them till 7pm that day!
+
+**Experience with searching for a hospital bed**
+
+Since my dad’s company was not of use, I decided to call in help from my friends at work. One of them had contacts at ANITS college(NRI hospital). I was relieved and concerned. Relieved because we found a bed at 8am in the morning, but concerned because we had heard reports of mismanagement and scams at the hospital and of very high death rates at the hospital. [Link to news article](https://www.yovizag.com/3-hospitals-in-vizag-booked-for-unethical-medical-practices-by-vigilance/). But I thought it might be a good idea to get my dad oxygen first and then later search for a better hospital. We reached ANITS and we were about to get in and then we got a call that a bed in the city had opened up and we had to reach there.
+With great difficulty I decided to leave this bed at ANITS and we set out to INDUS hospital. Once we reached there at 10 am, we admitted him to the pre casualty ward where he was set up with an oxygen mask and his saturation was at 95 with 12 litres per minute. A doctor came in later and explained to me that the situation is actually very bad and he needed an ICU ventilator not an oxygen bed and that there were no ICU ventilator beds available at the hospital. They said they were going to keep him on an oxygen mask which had capacity to serve till 15lpm oxygen and that we had to search for an ICU bed asap.
+I knew the best bet was my dad’s company folks so I pleaded with them for help but they were saying they cannot do anything and they suggested that I take a letter of recommendation from them and goto hospitals in person. Armed with a letter of recommendation from a top official from my dad’s company I started running from one hospital to another looking for an ICU bed. What I saw at those hospitals broke me and my spirit. I had seen scenes of hospitals brimming with patients on stretchers on TV from the comfort of my couch, but I found myself in the same situation. I never thought that I had to do the same. 
+I went around to a few hospitals around me. I called dozens of hospitals around me. Everywhere I got the same response: we have no beds, we’re sorry we can’t help you. Some folks asked for spo2 and refused to admit if the sp02 level was below 90. I felt helpless. My friends at work also kept trying but couldn’t find any luck. I visited a government hospital called KGH. There I visited a covid ward by somehow sneaking past a few guards and managed to talk to a top doctor there. I explained my dad’s predicament and pleaded for 30 min if he can somehow help me with a ICU bed. I pleaded for 30 min. I was exhausted and I couldn’t find any energy to stand or even to beg for anymore. Not because I was myself exhausted with fatigue from covid, not because I was dehydrated, not because I was out of breath because of my fatigue, not because of the 101 fever, but because I was begging alongside 100’s of people who were also looking for a hospital bed and the doctor had the same answer to each and everyone: we have no beds.
+
+That's when I realised how screwed the system was and that I was not close to securing a bed 6 hours after my dad’s spo2 level reached 85. At Least my dad had an oxygen mask keeping his oxygen requirement at the moment. Some of the folks brought their loved ones on a stretcher and kept them outside the hospital in the hot sun and were hoping that they could save their lives. I felt our system failed every one of them, including me. There I was begging with 100’s of people to save a loved one’s life and nothing could be done. I’ve never felt so helpless and in pain that I had experienced back then. I just wanted to sit and cry but I knew if I did that my dad’s not going to get any bed. I thought I’ll go back to my dad to check on him and also make a few calls to my dad’s company’s officials. I explained to them that they’re the only hope and there’s nothing I can do.
+
+Because of my dad's reputation in the company, his case went to top officials and some GM's got involved and they started pulling some strings and somehow at 1230pm we got confirmation that we were getting a hospital bed at INDUS hospital itself.
+
+We were then taken to a counselling room: me and my mom and we were told that my dad's situation is very weak and that his chances of survival are very slim. We were asked to sign a declaration saying that we were explained the same and that his chances of survival are low. Writing that letter and signing it myself was a very painful thing to do. All this time I wanted to burst out loud and cry out loud but didn’t want to do that in front of my mom as she actually had no clue about what was going on and I wanted to keep her in the dark about dad’s situation. My sister was at home asleep as she developed a fever and she wasn’t aware of the entire situation. I never felt so alone and helpless. After a few tests and scans, he was finally admitted at 130pm on that day.
+
+All this fight was for securing an ICU bed. At the time of me writing this, my dad’s still fighting for his life in the ICU. I truly hope that no one ever has to face what I went through and it sucks to have a loved one fighting for their dear life and you can do absolutely nothing unless you have influence. I know I’m privileged enough and I know that my dad has got a better chance at survival than the average Indian out there. But that just makes it even sadder. My heart goes out to all those people who can’t secure a bed because they didn’t have access to easy transport, insurance, money, or influence to secure a hospital bed. I truly witnessed the real nature of pandemic. I still haven’t cried so far and I wish I won’t have to. I have to stay strong for my dad and my family.
+
+Thankfully my sister, mom and I have recovered fully, albeit some weakness. The best medicine a covid patient can get is oxygen. An even better medicine is the patient's will power to survive. So if you know someone who is battling covid in a hospital give them and their family all the moral support you can. They’re going to need it. I spoke to the doctor who is treating my dad and told him this: I don’t believe in God, I believe in you. Their faces lit up and smiled and they said they will do the best they can to help my dad.
+
+I truly wish that no one faces the situation where they are helpless to save their loved one’s life. Please take care of yourself and your loved ones. Mask up and get everyone you know vaccinated if you can. I know I can’t be pissed at God because I believe God doesn’t exist, but I'm sure as hell pissed at the current government. For doing a shoddy job at vaccination when case count was low and for creating this second wave. I hope you're angry too.
+
+**Tl;dr**
+Whole family got covid at the same time.
+Dad’s position got really bad. But we were able to detect the need to hospitalised because we were measuring health indicators every 6 hours.
+These are the health indicators we measured: Body temperature, Spo2, BPM using the oximeter, Symptoms currently experiencing, any comorbidities if applicable(BP,sugar)
+Had a traumatic experience securing a hospital bed. Only thing which helped in the end was influence.
+Dad is still fighting for his life in the ICU.
+
+**PS:edit**
+I'm so happy to make this edit. My dad has been discharged from the ICU and he's on recovering day by day. Seeing my dad alive and doing well only emboldens the privilege we enjoy in this country.

@@ -1,0 +1,39 @@
+App-based communication providers like WhatsApp and Telegram can only implement device-level binding at most, not true SIM binding, telecom specialist and former Qualcomm Vice President for Government Affairs (India & South Asia), Parag Kar, told MediaNama.
+
+Kar’s comments come in the context of the recent SIM binding directive that the government issued to messaging apps like WhatsApp, Telegram, Signal, Arattai, Snapchat, ShareChat, JioChat, and Josh. To explain, the government instructed them to not allow users to access their services without a continuous SIM connection.
+
+Notably, the app-based communication providers also have to make sure that they log users out of web-based connections no later than six hours. Apps also have to provide users a QR code-based method to log back in on their web-based services.
+
+Kar noted that the way the Department of Telecommunications (DoT) has worded the SIM-binding directive requires apps to continuously verify the underlying identity of the SIM.
+
+“For example, if you registered WhatsApp using a Jio SIM, the app would need to ensure that the same SIM — with the same identity parameters — remains active on the device at all times.
+
+“To do this, the app would need access to SIM identifiers like IMSI (International Mobile Subscriber Identity) or ICCID (Integrated Circuit Card Identification Number). But iOS does not expose these identifiers at all, and modern Android versions restrict access for third-party apps,” Kar remarked.
+
+“Without deep OS-level support from Apple or Google, continuous SIM validation is technically infeasible,” he added.
+
+Instead, Kar said that the closest an app can get today is device binding, similar to what banking or UPI (Unified Payments Interface) applications use.
+
+“When you install a banking app on a dual-SIM phone, the app asks which SIM to register with and sends an OTP to that number. After onboarding, if you simply deactivate the registered SIM in settings but keep the SIM physically present, the banking app will often continue to work. This proves that the binding is to the device identity, not to the continuous SIM identity. SIM change is treated only as a security signal, not a binding anchor.”
+
+He emphasised that modern iOS and Android architectures are intentionally designed to hide SIM identifiers from apps for privacy and security reasons. “The technically correct way to achieve continuous SIM assurance is through a network-operator-level protocol such as GSMA Mobile Connect , where the operator verifies the SIM upon request. This avoids weakening OS (operating system) security models while still achieving strong identity assurance,” Kar explained.
+
+Similar to what Kar said, Saikat Datta, Co-Founder of Deepstrat, previously told MediaNama that the directions lacked clarity on the kind of binding the government expects. Just like Kar, he mentioned that to ensure SIM activity, apps would need OS support. “This is what happened with NPCI (National Payments Council of India). NPCI stopped supporting applications on Apple beyond iOS 17 because Apple didn’t agree to implement the measures they wanted retrospectively. A lot of devices became redundant because of it,” Datta argued.
+
+He also emphasised that even if the government were to onboard Apple and Google — the two key OS players in the market — it may be difficult to onboard other OS providers.
+
+“Other OS providers could also come up, making it a process to onboard. The system cannot work if one player in the ecosystem [like the app-based communication provider] is onboard and the other [the OS provider] is not,” Datta added, giving the example of Huawei’s OS, which does not rely on Android .
+
+While the government has pitched the SIM binding directive as a method to curb cyber-fraud , it is important to note that the solution is not foolproof. A 2020 University of Michigan paper that analysed the security of the UPI ecosystem, found that bad actors can bypass SIM binding. The paper explained that bad actors could cause failures in the SMS-verification step of the UPI workflow in order to bypass hard binding protections.
+
+To do so, they need to complete two steps :
+
+This failure triggers an alternative UPI verification workflow where the bad actor can now manually enter the victim’s number onto their own device and steal the one-time password (OTP) from the victim’s device. With the OTP, the attacker’s device gets successfully bound to the victim’s phone number.
+
+If such errors in hard binding are still present in 2025-26, the DoT’s SIM-binding directive may also end up having limited success against sophisticated fraud.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

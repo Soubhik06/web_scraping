@@ -1,0 +1,45 @@
+Banking and payment services across the country were disrupted from Monday onward as telecom companies began to “scrub” SMS messages that were not registered with a blockchain system maintained by telcos. The new system which went live on Sunday midnight, was designed to block fraudulent SMS messages but in the interim has interrupted regular financial services.
+
+From Sunday onward, telcos started enforcing the Telecom Telecom Commercial Communications Customer Preference Regulations, asÂ  required by the Telecom Regulatory Authority of India (TRAI), even though many merchants and payments companies didnât register their SMS formats in time. This led to to one-time-passwords (OTPs) and other important transactional messages getting blocked from delivery.
+
+A senior banker told MediaNama that 25 to 30% of all SMS’ deliveries to customers were not delivered, leading to payment transaction failures of at least 30-40% just on Monday across channels. “People have to login to their bank accounts, investment accounts and others everyday for important work. Such a disruption can have major affects on a person’s livelihood,” the banker said on the condition of anonymity.
+
+According to a senior payments executive, the transaction success rate was at 40% across the country. “It is ridiculous to suggest that every bank and payment company was not prepared for this change and that they did not update their details within database,” this person said on the condition of anonymity.
+
+“It seems like there is a technical glitch and the system was overloaded. Blockchain is a trust mechanism, it is not meant to handle millions ofÂ  transactions. If you look at Bitcoin, it takes several minutes for the underlying blockchain to process transactions because it depends on mining capacity. Nobody has been able to build a payments system on blockchain because it is too slow. Here we are trying to blockchain system for SMS’, which in volume terms is far higher than payments transactions. This the wrong solution for the problem that the regulator wants to address”âSenior Payments Executive
+
+On Tuesday, the TRAI defered the roll-out of the SMS scrubbing system by seven days. It said that telcos have to ensure that all SMS senders orÂ  principle entities should be on-boarded within the next few days to avoid a similar situation.
+
+The new system mandates telemarketers to register the SMS formats of their respective clients on the blockchain. But as banks, payment companies and other financial services players did not register their SMS formats in time with the telcos and on the blockchain system, many of customers did not receive OTPs in order to authenticate transactions.
+
+OTPs are a second-factor for authenticating transactions, as part of the Reserve Bank of India’s guidelines, and are used for authenticating payments and non-financial banking transactions as well as logging into net-banking services for instance. As payments were not being approved, several customers took to social media to raise their grievances.
+
+No OTPs coming through for either Axis or Kotak netbanking – guess the DLT SMS issue is real.
+
+Weirdly, Axis on-call OTPs aren't working either.
+
+— Vinay Kesari (@vinaykesari) March 8, 2021
+
+@pnbindia otp for sms n call for otp both service not working since afternoon..plz look urgently…
+
+— Girish Patel (@Girishptl) March 8, 2021
+
+The payments executive quoted above said that many companies use third party companies to manage their SMS deliveries. These services allow the company to switch networks when there are network issues from the telcos side. “TRAI is concerned that fraudsters were sending fake SMS’, which would be used for phishing or any other type of attack or harassment of the customer, since there was no oversight on who is sending SMS’ and in what format,” they said.
+
+“Under this system, all principal entities have to be registered on the blockchain. Essentially it is a centralised repository of all senders and and their SMS template, which telcos and telemarketers have to authenticate.Â  If the SMS does not comply with the registered template, it does not go through. Previously, the SMS template matching would be conducted at a local level, but under this system this matching function has been centralised. In my mind, the system was overloaded because of the high volumes of SMS’ being delivered to consumers on a daily basis”âSenior Payments Executive
+
+According to BloombergQuint , while some leading banks have managed to resume their OTP SMS deliveries, others are using alternative channels like emails, phone-banking and alternative authentication software/hardware to approve of transactions. Some are also using customer identification numbers as part of the two-factor-authentication requirement, the report said.
+
+While it was clear that banks and payment companies had to join the blockchain and ensure that their SMS formats were registered, the process may have run into delays either on the banks’ end or with the telemarketer, the banker quoted above said. “This should have been implemented in a phased manner, in consultation with banks and other players, because now we have a huge task of responding to every failed transaction and ensuring that the customer’s complaints are addressed,” they added.
+
+Dear Customer, we regret the inconvenience caused to you. Please note that the delivery of SMS can be affected due to network problem too. However, in case the issue persists, we suggest you lodge a complaint at https://t.co/FQRPosCATK under Existing Customer // Technology: (1/3)
+
+— State Bank of India (@TheOfficialSBI) March 9, 2021
+
+Also Read
+
+** Update (6:25 pm). Updated with statement from a senior payments executive who requested anonymity.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

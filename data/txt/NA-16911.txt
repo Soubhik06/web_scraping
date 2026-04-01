@@ -1,0 +1,21 @@
+SUBREDDIT: r/india
+TITLE: [AskIndia] If China hacks into aadhaar database and deactivate your aadhaar number, what will you do?
+DATE: 2020-06-08
+SCORE: 2
+URL: https://www.reddit.com/r/india/comments/gz2f3h/askindia_if_china_hacks_into_aadhaar_database_and/
+
+--- POST TEXT ---
+
+1. 49000 aadhaar agents generated more than 2 crores aadhaar numbers using fraudulent documents, bio-metrics exception, mixing bio-metrics(chaddichandan's index finger with someone else's middle finger, etc.) and many more techniques. ([https://timesofindia.indiatimes.com/city/delhi/49000-fraudulent-operators-blacklisted-says-uidai/articleshow/60470131.cms](https://timesofindia.indiatimes.com/city/delhi/49000-fraudulent-operators-blacklisted-says-uidai/articleshow/60470131.cms) )
+2. Aadhaar authority cancelled/deactivated more than 1 crores aadhaar numbers declaring them fraud/farzi/duplicate/ghost people.
+3. Now imagine China hacks into aadhaar database and deactivate aadhaar number of a particular group(e.g. people working in army, people who linked PAN with aadhaar, people who linked mobile with aadhaar, people who linked gas connection with aadhaar, people who linked bank account with aadhaar etc.). It will be just few database update queries like **update aadhaar set status="Deactivated" where category="&lt;category&gt;"**
+
+The moment, your aadhaar number is deactivated/cancelled, all services linked to aadhaar number may be automatically blocked, since you will be considered a fraud/farzi/duplicate/ghost person by aadhaar authority and they can block your PAN card, gas connection, bank account, etc.
+
+So question is what are you going to do, if one fine morning you come to know that, your aadhaar number has been cancelled/deactivated.
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+[View Poll](https://www.reddit.com/poll/gz2f3h)

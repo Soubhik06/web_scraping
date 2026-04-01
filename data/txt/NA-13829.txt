@@ -1,0 +1,61 @@
+“The problem is that the Digital Millennium Copyright Act (DMCA) is not very effective. It’s not a compulsion in many countries. People host their servers and market their content using that as a selling tool because they know that their content will not go out. They (pirates) are saying: ‘the regulation does not matter to me’,” Pankaj Gupta, Director – Solution Consulting, Synamedia revealed in a discussion at the ‘Future of Video India’ event organised by the Asia Video Industry Association (AVIA). The conversation was moderated by Shad Hashmi, APAC Partner Lead, Media and Entertainment, Amazon Web Services, in which the duo touched upon several facets of piracy and how it affects the bottom line of online streaming companies.
+
+What is DMCA? The DMCA is a part of the US Copyright Law and relates to a defined process of removing content from the internet. It addresses the rights and obligations of owners of copyrighted material who believe that their rights under US copyright law have been infringed on the internet.
+
+“The problem is the end user doesn’t even know whether they are consuming a pirate service sometimes. They think that they are consuming a legit service because they are so well set up,” Gupta remarked.
+
+Gupta warned that pirates were operating a consultancy of sorts. “They’re actually teaching people how to steal content and how to publish stolen content by providing support services free of cost. If you have a little bit of software knowledge and know some of the Python language, you can easily steal content and publish it. With Python, one can open Google Chrome, go to the source code, modify that source code, and start getting the content free of cost,” he explained.
+
+Piracy has become a sore spot for major streaming companies leading to a significant loss of revenue. The AVIA discussion sheds light on the pervasiveness of piracy in today’s world.
+
+Dear reader, we urgently need to build capacity to cover the fast-moving tech policy space. For that, our independent newsroom is counting on you . Subscribe to MediaNama today, and help us report on the policies that govern the internet.
+
+Hashmi cautioned that platforms dealing in pirated content have become “pretty advanced” as they even boast of parental controls. “These pirates are beginning to look legitimate and mask their activities to the end consumer, which I find to be disturbing,” he said.
+
+State of piracy ecosystem in India: “We have seen that content is really vulnerable when it comes to the Indian landscape. People are stealing left, right and centre. We have seen blockbusters released in India (on OTT platforms) being available on Telegram social media pages in just five minutes of their release. I have yet to come across content that is produced in India which is not available on the pirate network,” Gupta said.
+
+How pirates operate: “A marketing ad is placed on social media by one of the pirates. They are doing content aggregation. You look at the premium content from across the globe available at one place and that too at a fraction of the cost. They aggregate it and they put it on sites where it’s legitimately hard to take down.” Gupta said. He added that piracy in the broadcast days needed investment and skills to hack the content. “But now it has become so easy. Technology is available online and content is available online through a whole chain of distributors, wholesalers and resellers. They are distributing content using social media as their marketing tool. The technology to restream content is available for as low as $30 a month. It has high-end features in it including billing and payment systems to encash pirated content using electronic means,” Gupta said.
+
+Scourge of Telegram: Gupta said that pirates target most social media platforms but their DMCA is very effective which results in the swift takedowns of marketing campaigns as soon as they are highlighted. “But the problem with Telegram is that it’s not very quick to take down any such advert or any stream which is being distributed by the pirate,” Gupta added.
+
+The convenience of payments: “Pirates are using every possible mechanism, may it be regulation or payments, to remain anonymous. They use all the payment methods including bitcoin. They accept payments in other forms as well. You can pay them by PhonePe. You can pay them by JazzPay in Pakistan. All the possible payment methods are accepted by them making it easy for end subscribers to get their content,” Gupta added.
+
+Different players in the pyramid: Gupta stated that the pirates operate in a hierarchy where they pass the content down to those below in the food chain. “The aggregators are selling it to wholesalers at a discounted price, and then these wholesalers are passing it on to resellers using social media. So everybody in the food chain is taking a cut out of the subscription that people are paying to these social media admin panels,” Gupta disclosed.
+
+Importance of content audit: Gupta said that a content audit will help streaming services find out all the vulnerabilities in their video distribution ecosystem that allow pirates to steal content. “We have done such activities with some of our customers and they were amazed to see what we found and could directly relate it to the loss of revenue,” Gupta added. He also suggested that services should monitor their content across different platforms including social media, open web, closed IPTV networks, Telegram, and others.
+
+Credential sharing is a big problem, as per Gupta. He said that none of his relatives in India were using a legitimate subscription. “Friends are sharing passwords and sharing the cost of getting content among themselves. They are actually going to social media and buying credentials from a pirate because they do not want to pay the whole cost of it.”
+
+He said that there are fraudsters who are selling their credentials online.”They sell the credentials at a subsidised rate so that they can make some money out of it.”
+
+Netflix, the largest streaming company based on user count, recently announced a pilot in three Latin American countries, Chile, Costa Rica, and Peru, wherein it is asking users to pay a fee to add profiles outside of their own households. The fee will not be on par with what it charges usually and is available at a discounted rate. Users will be allowed to add up to two people outside of their house, the company said.
+
+“Accounts are being shared between households— impacting our ability to invest in great new TV and films for our members.” — Chengyi Long, Director, Product Innovation, Netflix, had reasoned in the company’s post.
+
+The additional users will get their own profile, personalised recommendations, login, and password.
+
+“We just did the first big country tests but it’ll take a while to work this out. My belief is that we’re going to go through a year or so of iterating and then deploying all of that so that we get that solution globally launched, including markets like the United States,” Netflix’s Chief Product Officer and Chief Operating Officer Greg Peters said during an earnings call .
+
+Apart from Netflix, there is no word on any other major OTT company exploring measures to stem sharing of passwords.
+
+Hashmi said that people are spending a lot of money on digital rights management to encrypt their content. Gupta offered the analogy of a gold reserve. “Gold needs to be transferred from a point to a bank or multiple banks. We are using an armoured vehicle to transfer the gold, and it is driven by a designated driver. The gold reserve is your CDN (Content Delivery Network). The armoured vehicle is your DRM (Digital Rights Management) and the driver is the token.” Gupta continued. The bank is the end-user.
+
+“You need to make sure that the driver is actually the driver and nobody is stealing the identity of the driver and taking the armoured vehicle to some other place. This is what happens in the real world. The identity, which is the token, is stolen, and then it is cloned, it is redistributed, and the content ends up at many other places rather than at the bank.”
+
+Gupta said that even if you secure the identity of the driver who takes the gold to a bank, “the bank itself could be vulnerable. You can easily impersonate a bank to be a legit bank by jailbreaking into the device and putting in mod APKs into the device.” The modified app behaves as a legit app that is provided by the service provider, he added.
+
+Hashmi explained that pirates are using high-quality cameras mounted on a phone to broadcast streams everywhere. There are 4K cameras available for a couple of $100s. This tactic is also known as the Analog Hole .
+
+Gupta proposed a way of protecting content from screen recordings using forensic watermarks. The forensic marker will insert some bits of its code into the video itself which cannot be recognized by anyone. “It is done for each and every user so that you (streaming company) can, by looking at the video or running that video through the system, can identify who the end user is,” Gupta said.
+
+Gupta advised that the monitoring of piracy cannot be done by people. The companies will have to leverage Artificial Intelligence (AI) and Machine Learning (ML) because pirates do not have one modus operandi, he opined.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,77 @@
+SUBREDDIT: r/india
+TITLE: India Security News Weekly: Edition 9 - August 12
+DATE: 2017-08-12
+SCORE: 22
+URL: https://www.reddit.com/r/india/comments/6t3cl1/india_security_news_weekly_edition_9_august_12/
+
+--- POST TEXT ---
+
+Security Underflow (and this newsletter) is an attempt to break down barriers to knowledge about computer security among the general public. I wish to raise awareness about the risks around us and how to mitigate them or raise questions about them when we see them. Feedback/suggestions/story-tips are welcome here or you can PM me as well.
+
+Last week's newsletter: [Edition 8](https://securityunderflow.com/learn/india-security-news-weekly-edition-8)
+
+Subscribe at: [tinyletter.com/securityunderflow](https://tinyletter.com/securityunderflow)
+
+[Downloadable PDF for sharing](https://securityunderflow.com/files/newsletter/2017/india-security-news-weekly-9-12-august-2017.pdf)
+
+-------------------------------------------------------------------------------
+
+# The Ticker
+
+Ticker is a collection of interesting security news and happenings in Indian companies and startups.
+
+- Internet Archive was blocked because of court orders obtained by Bollywood studios [[MediaNama](https://www.medianama.com/2017/08/223-internet-archive-blocked-court-orders-obtained-bollywood-studios/)]
+
+- Anand Prakash, India’s bug bounty champ, wants to create a HackerOne rival [[FactorDaily](https://factordaily.com/anand-prakash-bug-bounty-hackerhive/)]
+
+- Delhi CISF workers lose salaries from accounts to hackers [[ToI](http://timesofindia.indiatimes.com/city/delhi/cisf-personnel-lose-salaries-from-accounts-cops-look-for-leads/articleshow/59963317.cms)]
+
+- Fake news on agenda at IIT Kanpur's global cyber security competition [[BS](http://www.business-standard.com/article/current-affairs/fake-news-on-agenda-at-iit-kanpur-s-global-cyber-security-competition-117080700862_1.html)]
+
+- Game of Thrones leak: Star India promises ‘appropriate legal remedial action’ [[HT](http://www.hindustantimes.com/tv/game-of-thrones-leak-star-india-promises-appropriate-legal-remedial-action/story-SaanCY1AOJqsJfPv5vCfxH.html)]
+
+- Delhi Man's App Hacked, Cab Booked In Russia; One-Off, Says Uber [[NDTV](http://www.ndtv.com/offbeat/delhi-mans-app-hacked-cab-booked-in-russia-one-off-says-uber-1733422)]
+
+-------------------------------------------------------------------------------
+
+# Policy Water cooler
+
+We cover the policies and other news that concerns the Indian government and citizens en masse here.
+
+- Detailed Report on how AADHAAR data hack incident was carried out by Abhinav Srivastav [[AltNews](https://www.altnews.in/gois-national-informatics-centre-also-culpable-abhinav-srivastavs-aadhaar-data-hack-inciden)]
+
+*Ed Note:* NIC really failed on the basic security checklist for their API. Reusing/piggy-backing on unrelated interfaces, not using https, Weak authentication through a fixed secret; you name it, they had it. It's not a surprise to see someone get into the system so easily. The third party services for AADHAAR are really the bane of the whole system and any system is only as secure as the weakest link.
+
+- National Cyber Coordination Centre made operational: IT Mininstry [[IE](http://indianexpress.com/article/india/cyber-coordination-centre-made-operational-it-mininstry-4789272/)]
+
+*Ed Note:* It remains to be seen whether NCCC is going to be for national security or will start an ever-pervasive and intrusive surveillance of Indian citizens' internet activity.
+
+-------------------------------------------------------------------------------
+
+# World
+
+This section takes a look at the top security news around the world which impact most of us.
+
+**[Malware in the npm registry](http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry)**
+
+Beware of using packages even from "trusted" repositories like npm (node package manager). A malicious user uploaded packages with names very close to popular packages, which uploaded the system's environment variables to a remote server on being installed. This sets back the js community even more than the [leftpad](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/) fiasco that happened last year.
+
+-------------------------------------------------------------------------------
+
+# Events
+
+Details on upcoming security conferences and other events around India.
+
+ - [Meetup on Blockchain, Bitcoin and Cryptocurrency](https://in.explara.com/e/wtf-is-the-blockchain-factordaily-meet-up-on-blockchain-bitcoin-and-cryptocurrency/?AbhashSocial) Bengaluru, 19 Aug '17
+ 
+ - [IFSEC India](http://www.ifsec.events/india): New Delhi, 16-18 Dec '17
+
+-------------------------------------------------------------------------------
+
+# Recommended reading this week
+
+[SHA2017 Presentations](https://media.ccc.de/c/SHA2017)
+
+-------------------------------------------------------------------------------
+
+-SecurityUnderflow

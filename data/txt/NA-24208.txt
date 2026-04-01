@@ -1,0 +1,24 @@
+SUBREDDIT: r/bangalore
+TITLE: Oh no — pwned! Good morning Techies! YSK Dunzo data breach.
+DATE: 2020-07-29
+SCORE: 197
+URL: https://www.reddit.com/r/bangalore/comments/hzutye/oh_no_pwned_good_morning_techies_ysk_dunzo_data/
+
+--- POST TEXT ---
+
+Breach:	
+Dunzo
+
+Date of breach:	
+19 Jun 2020
+
+Number of accounts:	
+3,465,259
+
+Compromised data:	
+Device information, Email addresses, Geographic locations, IP addresses, Names, Phone numbers
+
+Description:	
+In approximately June 2019, the Indian delivery service Dunzo suffered a data breach. Exposing 3.5 million unique email addresses, the Dunzo breach also included names, phone numbers and IP addresses which were all broadly distributed online via a hacking forum. The data was provided to HIBP by dehashed.com.
+
+[Dunzo data breach](https://www.thenewsminute.com/article/dunzo-suffers-data-breach-launches-internal-investigation-128415)

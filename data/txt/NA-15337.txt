@@ -1,0 +1,33 @@
+SpiceJet said its systems faced an “attempted ransomware attack” late on the night of May 24, delaying flights and leaving many stranded at airports, according to a BBC report. Several flights were also delayed and cancelled on May 25 morning, with passengers complaining about the lack of service.
+
+#Update : Certain SpiceJet systems faced an attempted ransomware attack last night that has impacted our flight operations. While our IT team has to a large extent contained and rectified the situation, this has had a cascading effect on our flights leading to delays. >>
+
+— SpiceJet (@flyspicejet) May 25, 2022
+
+The airline has now shifted to a new server and delinked the old one so that flight operations could become normal, as per The Telegraph . Despite the new server, passengers said that services were very slow to resume.
+
+Why it matters: Airline servers store all kinds of personal data of their passengers, including names, bank and card details, phone numbers, emails, and even health information. Besides that, they also contain the company’s internal data, including financial data and the personal information of airlines personnel. As such, a server like this is a tempting target for cyber criminals. Indian airlines haven’t been targeted very often but a previous hack of the international airline data processor SITA had revealed the potential dangers of such an attack.
+
+What passengers had to say: The passengers stuck at the airports took to Twitter to express their frustration as the ground staff informed them that their flights were halted as “the server is down”. Mudit Shejwar, a Bhopal-based politician who had earlier flagged the delay of his flight to Dharamshala, tweeted in response to SpiceJet’s clarification that he and others had been sitting inside the plane without any food for nearly four hours.
+
+Operating normally?? We are stuck here since 3 hrs and 45 mins? Neither cancelling nor operating, sitting in the flight not even the airport. No breakfast, no response! pic.twitter.com/dAfdIjzVzH
+
+— Mudit Shejwar (@mudit_shejwar) May 25, 2022
+
+Meanwhile, others pointed out that operations had still not begun at around 11 pm, and that ground staff were not aware about the resumption. “We have kids and elderly people stranded without water and refreshments. There is nobody at the gates. No updates,” Yogesh Vasihnav, an engineer from Hyderabad, tweeted . Some passengers also complained that customer service helpline numbers were not reachable.
+
+How SpiceJet responded: SpiceJet did not confirm to the media whether any data was actually breached in the attack. It has only informed that it had shifted to a new server with the old one being investigated. CERT-In, India’s nodal agency tasked with performing cybersecurity-related functions, has not come out with a statement on the incident either.
+
+What is ransomware? It is a type of malware (malicious software) in which the attacker encrypts the victim’s data and key files and demands a ransom to decrypt it. This kind of attack takes advantage of human, system, network, and software vulnerabilities to infect target devices.
+
+Other hacking incidents: A similar attack was reported by Indigo in December 2020. The airline had acknowledged the attack and said some segments of data servers had been breached. It had mailed customers, assuring them that the only documents suspected to be stolen were internal documents. An official investigation was opened into the matter. However, little is known yet about the outcome of the probe.
+
+Scale of cyber attacks in India: In 2021, over 78 percent of Indian organisations surveyed were hit with ransomware attacks, up from 68 percent in 2020, according to a report by cybersecurity firm Sophos. The average ransom paid by Indian organisations to get their data decrypted was $1.2 million, it added. “Nearly 89 percent of mid-sized organisations had cyber insurance that covers them in the event of a ransomware attack and in 100 percent of incidents, the insurer paid some or all the costs incurred,” the report noted.
+
+Also Read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

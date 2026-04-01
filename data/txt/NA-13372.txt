@@ -1,0 +1,37 @@
+“Fraud is no longer episodic or manual. It is real-time, adaptive, networked, and increasingly cross-border in nature”, Suresh Sethi, Managing Director and CEO at Protean eGov Technologies, said at a session on “AI for Fraud Prevention and Financial Inclusion in BFSI” at the AI Impact Summit on February 16, 2026. He added that “traditional rule-based controls designed for slower and smaller systems are being stretched to their limits” as India’s digital financial ecosystem scales rapidly.
+
+Furthermore, Sethi emphasised that the scale of India’s digital rails has fundamentally altered risk dynamics. “Onboarding happens in seconds, not days. While this scale is a source of enormous strength, it also fundamentally changes the nature of the risk,” he said, noting that transaction volumes now run into billions monthly.
+
+Moreover, he argued that the industry must rethink how fraud prevention is built into financial systems. “AI must be reframed, not as a tool, but as an infrastructure,” he said, explaining that the real shift is from after-the-fact detection to what he described as “in-flight intelligence” across onboarding, transactions, and networks.
+
+Meanwhile, Neeraj Aggarwal, Managing Director and Senior Partner at Boston Consulting Group (BCG), said the conversation reflects a broader transition in digital finance. He noted that while digital onboarding and payments have matured, “trust is a place where AI can play a role in establishing the infrastructure by giving real-time risk intelligence and fraud prevention,” particularly as fraud becomes more sophisticated alongside rising transaction velocity.
+
+Notably, Sethi repeatedly stressed that static rules are increasingly inadequate in high-velocity digital ecosystems. “Rule-based mechanisms, while they are important to set a threshold, are just not good enough to work at scale in the way the transaction velocity is going,” he said. In other words, binary signals such as transaction limits or value thresholds cannot sufficiently capture evolving behavioural fraud patterns in real time.
+
+Furthermore, highlighting the speed of financial fraud, Sethi argues, “Fraud happens in milliseconds, and you would always be caught post-facto in trying to prevent it,” thereby underscoring the need for systems that are both reactive and adaptive. He consequently outlined three key capabilities AI brings to fraud prevention: speed and reactiveness, networked intelligence, and reduction in false positives.
+
+In addition, on networked intelligence between financial bodies, he pointed to mule account chains where funds are quickly dispersed. “Money is moved from the victim’s account into one or more accounts in milliseconds and then branches out into multiple accounts, including cross-border accounts,” he said, noting that a single institution may only see a seemingly legitimate transaction without broader behavioural context.
+
+Therefore, he added that AI enables institutions to analyse behavioural signals across multiple accounts and institutions, helping them identify “anomalies in those behaviours and catch it at source”, while also reducing false positives that can otherwise disrupt legitimate transactions and livelihoods.
+
+At the same time, Manish Agarwal, Business Head at Kotak811, Kotak Mahindra Bank, said the use of AI in finance must remain tightly governed due to regulatory and customer accountability requirements. “If AI has to be used in financial services, which is highly regulated, it has to be explainable, and the governance mindset has to be very much into the people who are building it,” he said.
+
+To that end, he introduced what he described as a “JCT” framework: justifiability, contestability, and traceability. “Any decision which has been taken, whether the credit has been denied or a transaction has been stopped, how do we justify that?” he said, adding that affected users should be able to contest automated decisions and institutions must be able to trace model reasoning and potential biases.
+
+Moreover, Agarwal also emphasised the continued importance of human oversight. “AI can continue to make decisions, but is there a human who’s looking at the decision being done?” he said, citing video KYC as an example where automated checks operate alongside human verification under regulatory expectations.
+
+Similarly, Saurabh Mittal, Country Head – Strategy, Transformation, Analytics and Research at DBS Bank India, said responsible data usage and governance structures are central to scaling AI safely. “Every fast car needs a brake for us to have a sense of safety. Similarly, any AI development will require guardrails to be in place,” he said, while noting that historical data biases can unintentionally exclude sections of society if not carefully managed.
+
+Beyond institutional deployment, the panel also discussed AI as a shared infrastructure for fraud prevention and financial inclusion. In this regard, Sethi said current defences remain fragmented while fraud networks are increasingly interconnected. “When fraud is happening, our defences are fragmented,” he said, thereby arguing for cross-border intelligence embedded into AI infrastructure.
+
+Accordingly, he suggested that shared, anonymised data signals could improve predictability in risk analytics while protecting user privacy. “The data which is being shared has to be anonymised. These are not customer data we are sharing, but anonymised signals and behavioural patterns,” he said, adding that such approaches could help break supply chains of fraud across institutions and geographies.
+
+From an investment perspective, Srijay Ghosh, Managing Director at Temasek, linked trusted AI infrastructure directly to capital allocation and inclusion outcomes. “If you have trusted data, you have trusted models, and if you have trusted models, you have trusted capital allocation. If you have trusted capital allocation, then you have trusted inclusion,” he said.
+
+However, Sethi noted that institutions must ensure that enhanced controls do not come “at the cost of exclusion or friction, especially for first-time users and MSMEs”, while also maintaining assisted digital models for users with lower digital literacy.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,19 @@
+SUBREDDIT: r/india
+TITLE: Why so many government websites do not have HTTPS?
+DATE: 2021-02-02
+SCORE: 111
+URL: https://www.reddit.com/r/india/comments/lavmz0/why_so_many_government_websites_do_not_have_https/
+
+--- POST TEXT ---
+
+HTTPS is a basic security measure that thwarts a lot of cyber attacks. It verifies that you are connecting to the correct website, and makes sure all your data is encrypted and secure so that it cannot be seen by third parties.
+
+HTTPS is not even that complex to implement. It should not cost extra, and it is so simple that you can even watch a 5 minute Youtube video and learn how to implement it.
+
+It is free to implement so why not do it? It looks more professional, especially for newer browsers which warn all http sites as "not secure".
+
+http://www.cybercelldelhi.in/
+
+They are cyber cell but do not use https. They have an https website, but it is not default. Even a simple Let's Encrypt certificate would be better than what they have right now. The current cert comes from "Velirs prt ltd." which is not trusted by any major browser so far. My firefox browser flashes a message saying "not secure" whenever I visit the website. If people see such a message, how will they trust the police to fix cybercrime?
+
+Some websites that require you to enter data like http://transgender.dosje.gov.in/ also do not use HTTPS. This means that all data transmitted is not encrypted and that hackers can see what you enter in the website. This is worse than the Delhi cyber cell website, because the site breaks when you use HTTPS.

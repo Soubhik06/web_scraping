@@ -1,0 +1,61 @@
+by St_Hill
+
+Most debates around UIDAI and Aadhaar focus on privacy concerns, security of the database and on the legality of making Aadhaar mandatory. Even if these three issues get sorted out, there are four other basic issues that need attention. In all these four issues, you will see the following common themes
+
+1. It is very likely that UIDAI knows the existence of the issue
+
+2. Entities other than UIDAI are using Aadhaar incorrectly and sometimes dangerously
+
+3. UIDAI has framed policies protecting itself from implications of these wrong usages
+
+4. UIDAI is unlikely to address these issues, because solving them may reduce the usage and acceptance of Aadhaar
+
+Issue #1: UIDAI knows that Aadhaar is not an address proof, and that the industry uses it as an address proof, but will choose to remain silent about it.
+
+Various entities allow Aadhaar to be used as both an identity proof as well as an address proof — banks, for example, use biometric eKYC to onboard new customers. But the reality is that UIDAI does not validate the address of every applicant. Though applicants are asked to provide an address proof for Aadhaar enrolment, it is optional — the enrolment process (and form) is designed to allow anyone to get an Aadhaar without any documents (mainly because Aadhaar is meant even for those sleep under the flyover)
+
+UIDAI is aware of this flaw, which explains why the Aadhaar Bill has multiple mentions of Aadhaar being a proof of identity but has NO mentions of it being a proof of address.
+
+It would be appropriate of UIDAI to clarify to RBI and other authorities that Aadhaar is not a proof of address, but that would mean banks and telcos would no longer be interested in eKYC — imagine if banks are asked to collect a second document as address proof despite performing a biometric eKYC. Thus if UIDAI were to “fix” this issue, eKYC (Aadhaar’s core feature) will become useless and Aadhaar’s acceptance will be impacted.
+
+Issue #2: Aadhaar is not a proof of citizenship, but it can be used to either apply for a passport, or obtain other identity documents which can then be used to apply for a passport.
+
+The Aadhaar Bill Section III.9 states the following:
+
+But this hasn’t stopped the Passport office from listing Aadhaar as an acceptable document — they go even further to state that “Furnishing of Aadhaar card will expedite processing of passport applications”.
+
+Even if Passport office were to stop accepting Aadhaar as a valid document, a non-Indian can apply for a bank account or water connection or electricity connection using an Aadhaar number, and then apply for a passport using the bank statement or utility bill as an acceptable document.
+
+The only way for UIDAI to address this is to declare that Aadhaar cannot be used for passport applications, public utilities, bank accounts and any other services which may then be used to apply for a passport. But of course, this would limit the usage and acceptance of Aadhaar, reducing its relevance.
+
+Issue #3: Possession of a physical Aadhaar card should not be considered as identification in airports, trains and other places.
+
+UIDAI does not include holograms or physical signatures or any other security information in the Aadhaar cards that are sent to applicants — it is just a colour printout of your Aadhaar information. You can also download and print your Aadhaar ( even in black and white ) as your Aadhaar card — print multiple ones and each one will be considered “original”.
+
+This is because UIDAI does not consider possession of an Aadhaar card as authentication that it belongs to you. UIDAI instead asks entities to authenticate the Aadhaar number based on OTP or biometrics by connecting to the UIDAI system, prior to usage.
+
+But in reality, the ticket checker in trains, the security guard at the airport entrance and many other places consider a physical Aadhaar card as a valid identity document.
+
+If UIDAI were to publicly clarify that the physical Aadhaar card is irrelevant and electronic authentication is required prior to being used, it would mean that the airport security guard or the train ticket inspector carries a biometric device with them for validation. This would slow down their entire process and they would instead insist that you provide an ID proof other than Aadhaar. So if UIDAI tried to fix this problem, it would mean reduced acceptance of Aadhaar in public life, again reducing its relevance.
+
+Issue #4: Aadhaar numbers are probably meant to be secret to avoid misuse, but UIDAI does not stop organizations from putting Aadhaar information out in public.
+
+Only a professional counterfeit artist can recreate passports or driving licenses — this is because there are security features like holograms in an original document. But this does not apply to Aadhaar — there is no concept of an “original” Aadhaar card (See Issue #3 above). A printout of Aadhaar information is being treated by various entities as a valid document, so it is easy for a fraudster (even an amateur) to print out your Aadhaar card if he knows your basic information like Aadhaar number and name), and start submitting in different places where the government asks us to.
+
+UIDAI is aware of this issue, and hence Section 29 of the Aadhaar Bill states that entities which use your Aadhaar number should ensure the following:
+
+This basically puts the onus on 1000s of different organizations to ensure that they do not make your Aadhaar number public. Do a Google search for “Aadhaar number name filetype:xls” and prepare to be stunned at what is out there. Among those multiple excel sheets in the results, you will even find a Ministry website which has uploaded many excel sheets of 1000s of people’s information including name, DOB, address, and Aadhaar number.
+
+Printing their Aadhaar cards will probably take a few minutes of effort for a fraudster with a computer and a black and white printer.
+
+UIDAI can stop this by identifying such entities and stopping them from putting out Aadhaar numbers in public, but it is a mammoth monitoring effort. The other solution for UIDAI is same as the solution for Issue #3, which will again reduce Aadhaar’s relevance.
+
+*****
+
+As is now evident, UIDAI is faced with two choices in each of these issues. They can either fix the issue running the risk of Aadhaar irrelevance in public life, or they can choose to stay silent running the risk that something may go wrong at a large scale in the future.
+
+Cross-posted with permission from Medium
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

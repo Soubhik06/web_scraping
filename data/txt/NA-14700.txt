@@ -1,0 +1,105 @@
+The Reserve Bank of India (RBI) has issued draft amendments to its Responsible Business Conduct Directions that would prohibit dark patterns in banking apps and websites, mandate audits and user testing of digital interfaces, tighten consent architecture, expand mis-selling liability, and require banks to assess product suitability before targeted marketing of financial products.
+
+The draft, released on February 11, 2026, applies to commercial banks and is proposed to take effect from July 1, 2026.
+
+The amendments expand regulatory oversight beyond disclosure compliance to the design, targeting, and behavioural architecture of digital financial product distribution.
+
+For the first time in sectoral banking rules, the RBI explicitly defines and prohibits dark patterns.
+
+The draft describes a dark pattern as a “practice or deceptive design pattern using user interface or user experience interactions… designed to mislead or trick users to do something they originally did not intend or want to do, by subverting or impairing the consumer autonomy, decision making or choice.”
+
+Importantly, the definition links such practices to “misleading advertisement or unfair trade practice or violation of consumer rights.” This connects banking regulation directly with consumer protection principles.
+
+The draft also requires adherence to the Central Consumer Protection Authority (CCPA) Guidelines for Prevention and Regulation of Dark Patterns. This alignment signals cross-regulatory convergence between financial supervision and consumer protection enforcement.
+
+The RBI provides an illustrative list of practices that may fall within the dark pattern definition.
+
+The draft identifies “basket sneaking” as the inclusion of additional products or services at the time of checkout without clear consent.
+
+In banking flows, this could involve adding loan protection insurance, fraud cover, or other optional services by default during a loan application. Even where such add-ons are disclosed somewhere in the flow, pre-selection or embedding them in the payable amount without affirmative user action may constitute manipulative design.
+
+The regulatory focus is on whether the user actively and deliberately chose the product.
+
+The draft flags countdown timers and phrases such as “Act Now” or “Offer Ends Soon” as potentially problematic.
+
+Digital banking apps frequently use urgency in pre-approved loan banners or promotional credit offers. The regulator’s concern is that artificial scarcity or time pressure may push users into financial commitments without adequate evaluation.
+
+Where urgency materially influences a financial decision, it may fall under scrutiny.
+
+Subscription traps refer to situations where enrolment is simple but cancellation is complex, confusing, or hidden.
+
+A user may be able to activate an add-on product within a few taps, while cancelling requires navigating multiple menus or contacting customer support without clear instructions.
+
+The draft treats such asymmetry between entry and exit as a manipulative practice.
+
+Interface interference involves structuring visual elements to steer users toward a particular outcome.
+
+This includes highlighting preferred options in bold or bright colours while making alternatives less visible, or defaulting consent settings to “Yes.”
+
+The concern is that visual hierarchy and layout may influence decisions even where information is technically present.
+
+Drip pricing involves revealing charges late in the transaction flow.
+
+A loan may be advertised at an attractive rate, while processing fees or additional costs appear only after the user has progressed through multiple screens.
+
+The draft signals that pricing transparency must be upfront and comprehensive, particularly for financial products.
+
+The draft identifies trick wording, such as confusing double negatives in consent checkboxes, and confirm shaming, where declining an option triggers messaging that frames refusal as irresponsible.
+
+The RBI’s framing suggests that linguistic ambiguity and emotional pressure can impair informed financial decision-making.
+
+The draft states that “user interfaces deployed by the bank shall be subject to user testing and periodic internal audit for identification of any unfair features, including dark patterns.”
+
+This is not merely advisory language. It formalises interface governance as a compliance function.
+
+Banks will need to conduct structured testing of digital journeys, document findings, and maintain internal audit trails. This requirement shifts enforcement from reactive, complaint-based scrutiny to ex ante governance of interface design.
+
+For digital financial services, user experience becomes a supervised domain.
+
+The draft defines explicit consent as “a specific, informed and unambiguous indication of an individual’s choice… given through a statement or by a clear affirmative action.” Banks must record and document such consent.
+
+Further, “consents for multiple products/services or purposes shall not be clubbed together but shall be obtained individually.”
+
+Banks must structure process flows so customers cannot grant consent without going through the applicable terms and conditions.
+
+These provisions directly affect bundled opt-ins and one-click cross-sell journeys.
+
+Before marketing or selling a financial product, banks must assess its “suitability and appropriateness” for the customer.
+
+The assessment must consider age, income, financial literacy, risk tolerance, product complexity, and fee structure.
+
+The draft clarifies that mis-selling includes the “sale of a product/service which is neither suitable nor appropriate in view of the customer’s profile, even if with his/her explicit consent.”
+
+Consent does not shield unsuitable targeting decisions.
+
+The draft defines compulsory bundling as making “availment of one product/service… conditional upon availment of another.”
+
+Banks cannot impose bundling that creates direct or indirect costs.
+
+They also cannot fund the purchase of a product or service from a sanctioned loan without explicit consent.
+
+Where mis-selling occurs, the bank “shall refund the entire amount paid by the customer” and compensate for losses.
+
+Banks must ensure that their policies “neither create incentives for mis-selling nor encourage employees/DSAs to ‘push’ the sale of products.”
+
+Employees selling third-party products cannot receive direct or indirect incentives from providers.
+
+Banks distributing third-party products must clearly disclose their role and cannot present such products as their own.
+
+The draft also restricts telephonic outreach and requires explicit consent for promotional communication. Unsubscribing must be as easy as subscribing.
+
+Banks must seek customer feedback within 30 days of product sale to assess understanding of features and risks.
+
+They must prepare half-yearly reports based on these findings and use them to review policies and product design.
+
+The draft changes how the RBI frames consumer harm in digital banking. Instead of focusing mainly on disclosure failures, it treats interface design, consent flows, and targeting practices as potential regulatory risks.
+
+This shifts compliance upstream. Banks will need to show not only that they disclose product terms properly, but also that their digital journeys do not steer customers toward unsuitable or bundled outcomes.
+
+By linking dark patterns, suitability checks, bundling limits, incentive structures, and refund liability within one framework, the RBI turns digital product design into a supervised function rather than a pure business decision.
+
+How far this reshapes digital banking will depend on the final version of the rules.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

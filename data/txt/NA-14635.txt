@@ -1,0 +1,41 @@
+On November 5, 2025, in Delhi, industry experts and policymakers convened at the MediaNama-organised panel discussion â Regulating for Deepfakes in India â to examine the evolving terrain of AI-generated media and proposed regulation in India.
+
+At the heart of the discussion lies a draft amendment to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, released by the Ministry of Electronics and Information Technology (MeitY). The amendment proposes a regulatory framework for synthetically generated content that mandates creators, platforms, and AI-tool vendors to embed visible or audible labels, watermarks, and invariant metadata in any AI-produced media, while expanding due diligence obligations for intermediaries.
+
+As the amendment is currently open to consultation and feedback, it becomes important to ask: is mandatory labelling the most effective way to counter the risks posed by deepfakes, or should emphasis shift toward detecting manipulated content through AI-powered forensics?
+
+A participant at the discussion highlighted how the draft amendment on deepfakes intersects with the constitutional right to freedom of speech and expression under Article 19(1)(a) and its limitations under Article 19(2).
+
+Furthermore, they explained that while the government can impose âreasonable restrictionsâ on free speech, such restrictions must have âa basis or a justification which stands upâ. The participant noted that the current justification, preventing misinformation and protecting reputations, appears âself-evidentâ but questioned whether this extends beyond what the Constitution permits.
+
+They argued that damage to reputations is not the same as defamation, pointing out a broader trend where the Union government attempts to expand the scope of Article 19(2). Recalling past cases, the participant referred to Shreya Singhal (2015), where the Supreme Court had firmly held that the government must âbe within 19(2)â, despite its request for more flexibility to regulate online speech.
+
+Yet, they noted, the government has continued to make similar argumentsâin the Kaushal Kishore and Kunal Kamra case â only to be struck down again. However, they cautioned that a recent Karnataka High Court ruling in XCOP v. Union of India has weakened that standard. âThe fundamental issueâ, the participant concluded, âis that we do not know why this regulation is being made.âÂ
+
+However, another participant argued that simply labelling synthetic media does not constitute a violation of freedom of speech. âMerely labelling content does not necessarily mean controlling speech. The idea of labelling is to give the user or whoever’s viewing that piece of content more context or more information to make a decision. What happens after a label, typically on platforms, is that platform enforcement kicks in,â they point out.
+
+Founders from Indiaâs AI and advertising sectors expressed serious concerns over the proposed 10% mandatory AI labelling rule, warning that it could stifle innovation and harm small enterprises.
+
+Sanket Shah, CEO of InVideo, said the requirement would have a great impact since âAI content will stop being created because all the platforms will show it in a particular way.â He cautioned that âyou will not get clicks and you will not get viewsâ, effectively wiping out creative professionals experimenting with AI. Shah added that such labelling would drive users and bad actors to open-source tools abroad, meaning âcreativity gets taken away.” “And when that creativity gets taken away, I don’t think it gets taken away from the world; it only gets taken away from India,” he added.
+
+Siddharth Puri, founder of ad tech platform Tyroo, shared that when his firm tested ads with logos covering 10% of the visual space, click-through rates âwent down by 15%â for smaller retailers. He further explained that while there were positive results with ads for larger brands, the overall findings were negative.
+
+Meanwhile, Poushali Dutta, founder of an AI voice solutions company for businesses, OttrCall, said that requiring a 10% audio disclaimer âruins the user experienceâ and creates a âsort of untrustworthiness for the brandâ. She pointed out that the rule is technically impractical for live-streaming calls, asking, âWhat is 10% of a live call?â She also warned that âthe cost for the business will increaseâ since her clients are billed per minute.
+
+Together, their testimonies underscored a consistent theme: that blanket labelling obligations, while well-intentioned, could damage trust, increase costs, and push Indian innovators out of the market.
+
+During the discussion, participants explored whether the detection of deepfakes could serve as a more scalable and feasible alternative to mandatory labelling. One participant explained that one detection technology has advanced significantly, giving an example of one that has reached âan accuracy of close to 99.7% in video, audio, and image detectionâ. They said the effectiveness of such systems depends on âhow robust the model isâ and âhow good the training has beenâ, emphasising the need for continuous retraining with âtens of thousands of terabytes of data, both real and syntheticâ.
+
+They also added that deepfake detection already supports major commercial use cases, saying, âWe are live with many banks and financial institutionsâ and are âhandling lakhs of KYC verifications per day.â On scalability, they claimed that their system manages âmillions of API hits every monthâ and is âscalable to tens of millions of detections per dayâ. However, they also raised questions about cost, remarking that âwho will pay for it?â remains an open concern, and suggesting that publicâprivate partnerships could make widespread adoption feasible.
+
+Furthermore,  participants acknowledged the technical and contextual limits of current tools. One participant noted that âdetection tools are as good as the training data they haveâ, explaining that some models perform better for specific formats such as audio or video.
+
+You can watch the event video here:
+
+This discussion was supported by Google, Meta, and Amazon, with community partners Internet Freedom Foundation (IFF), Centre for Communication Governance (CCG), NLU Delhi, and Broadband India Forum (BIF).
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

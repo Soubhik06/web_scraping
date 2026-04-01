@@ -1,0 +1,51 @@
+The ministry of electronics and information technology (MeitY) has issued a consultation paper ( pdf ) which calls for developing a framework for security of digital wallets operating in the country. Right now, wallets have no prescribed security standards to adhere to. Section 43 A of theÂ Information Technology Act which deals with data protection is applicable to wallets but itÂ allows corporations to determine what security practices and procedures are adequate.Â
+
+“With the Government promoting cashless economy and boost being given to various digital payment systems, a need is felt to develop a framework for security of various Prepaid Payment Instruments (PPIs) operating in the country,” the government said.
+
+Comments for the draft rules are open till March 20. Here is a look at what the draft rules entail:
+
+1. Information security policy: Every wallet will have to develop an information security policy of all the payment systems operated by it. The will have to abide by the rules set by the government and any other standards it sets.
+
+2. Privacy policy: Â All wallets will have to publish on their website and mobile app theÂ privacy policy but the crucialÂ part is that the government wants it to be in “in simple language, capable of being understood by a reasonable person.” The privacy policy will include the following details:
+
+3.Â Risk assessment and risk control : All wallets will have to review their security measures at least one year and will have to conduct a review after a majorÂ security breach.
+
+4.Â Customer identification and authentication:Â The Reserve Bank of India will set guidelines to make sure that customers are identified through adequate due diligence. Two points need to be noted on authentication:
+
+Authentication procedures should include mechanisms to:
+
+5. Personal information that can be collected by wallet:Â
+
+a) Name, address, telephone number of customer b)Â financial data of the customer, including bank account details, debit card or credit card or other payment instrument details, transaction history c) authentication data: passwords, patterns, PINs, biometric data etc.
+
+Wallets will contractually require merchants handling any authentication data to have security measures in place to protect such data. Access to confidential information by the employees of the wallet company shall be on a âneed-to-knowâ and âneed-to-useâ basis.
+
+6. Grievance redressal: Â  Companies will haveÂ to publish on its website and its mobile application the name and contact details of the Grievance Officer. It will also include procedures where customers can report violations of privacy and security. TheÂ Grievance Officer shall act within 36 hours and shall resolve the complaint within one month from the date of receipt of such complaint.
+
+7. Reporting of cyber incidents: Â There should be a mechanism for monitoring, handling, and follow-up of cyber incidents, cyber security incidents and cyber security breaches.Â CERT-In shall notify the categories of incidents and breaches that are required to be reported to it mandatorily . CERT-In may require wallets to notify customers of cyber security incidents or breaches if the incident or breach is likely to result in harm to the customers.
+
+****
+
+What we liked about the draft rules
+
+First , it is aÂ great step that the government is spelling out what security and privacy measures should be employed by wallets rather than leaving it up to the companies to decide what is an adequate measure. All wallets must participate in this consultation in the interest of customer safety.
+
+Second , the customer identification and authentication rules seem adequate at the moment. It is great to see that the government is specifying time-outs and the number of times a customer can attempt a transaction. Although, it remains to be seen how wallets will prevent, detect and block fraudulent payments before final authorisation. Note that State Bank of Â India (SBI) has removed the option of loading money on all major wallets through net banking due to rising online frauds. One of the conditions was that the bank put in was that there needs to be a buffer when a wallet transfers money to a bank account.Â It wil be interesting to see how wallets will enforce this.
+
+Third,Â CERT-IN will haveÂ categorize the types of security incidents that wallets will have to report. Though consumer groups and citizens will have to make sure that all bases are covered.
+
+What is missing
+
+The government hasnât clarified procedures required for a user to create multiple wallets or what kind of data is required to create them. It also hasn’t prescribed procedures on what kind of financial data can be put in the case of multiple wallets. Can a user use a debit card in multiple wallets or link the same bank account to multiple wallets?
+
+The government has brought up security measures for merchants handling a customerâs data, although one needs to see hw it is implemented.
+
+Also read:Â On Indian Mobile wallet apps and the sensitive user data they collect â Part 1
+
+On Indian mobile banking apps and the sensitive user data they collect â Part 2
+
+On UPI apps and the sensitive user data they collect â Part 3
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,13 @@
+SUBREDDIT: r/Scams
+TITLE: Grandpa got scammed. Need advice on what to do next and how to keep him safe.
+DATE: 2023-05-15
+SCORE: 67
+URL: https://www.reddit.com/r/Scams/comments/13hli36/grandpa_got_scammed_need_advice_on_what_to_do/
+
+--- POST TEXT ---
+
+So here's my grandpa's story: He gets hit by ransomware (no clue where he got it) and pays "Norton" $300 to fix it. Some time later, when trying to connect his PC to his HP printer, he gets an error message that looks convincingly like it's from HP telling him to call a certain number for tech support for his printer. He's put on the line with someone who sounds like they're from India who says they're from Florida. They tell him he has malware on his network and that they need remote access to his PC to fix it. They proceed to show him the "malware" by I assume running some command line prompts that look concerning to a non-technical user. They ask him to write a $200 check to "Geek Tech Care" and write down their billing info and "protection plan" details in Notepad. He writes the check, scans it, and sends them the scan. They "fix" his network, but he doesn't pay for the $1000 lifetime protection plan they offer him. They call back a day later asking if things are working out alright and ask again if he wants to pay for a protection plan, which he thankfully declines. He has not heard back from them since.
+
+Since then, we've disconnected his computer from the internet, had him change his important passwords with another device, and reset his router and changed the default login information. We're going to pull important photos and documents off his computer and then do a fresh install of Windows. My brother told him to contact his bank about the check he wrote, and we've told him to keep an eye on his financial accounts for suspicious behavior. 
+
+What else do we need to do, and what do we do to help protect him from these kinds of scams in the future?

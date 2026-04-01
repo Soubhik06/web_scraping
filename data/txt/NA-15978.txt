@@ -1,0 +1,33 @@
+SUBREDDIT: r/india
+TITLE: Indian banking system under attack!
+DATE: 2016-10-19
+SCORE: 170
+URL: https://www.reddit.com/r/india/comments/589exo/indian_banking_system_under_attack/
+
+--- POST TEXT ---
+
+I have a strong reason to believe that Indian banking is under systematic attack. The shit hole goes very deep and the problem is compounded by the fact that the media "tones" down its coverage (obviously to avoid panic). There are malware attacks (on ICICI which is siphoning of email contacts and sending its account holders phishing emails), Advanced persistent threats on Axis Bank (they disclosed this to RBI), ATM frauds as in State Bank of India and multiple accounts of phishing attacks on individuals. Union Bank has also suffered cyber heist. 
+
+A worrying trend is by use of SIM Swap. Fraudsters get your personal details (easily available through WhatsApp), your details through identity thefts and blocking your actual SIM's so that you cannot receive the SMS alerts. 
+
+Two factor authentication is very basic (dependent on passwords alone) which again can be easily retrieved because most users re-use their passwords. 
+
+Its getting scarier and worsened. 
+
+A simple remedy as of now is to change PIN of your existing debit card and get "CHIP and PIN" card which secures transaction because they cannot be replicated easily. Of course, moving away from WhatsApp is a sensible decision (use BBM/ Threema) so that your identity details through phone numbers is not compromised. 
+
+Edit 1: In response to "proofs" and so called "click bait"; here are the links. Please connect the dots. 
+Further, BBM and Threema allow you to be anonymous because outside the system, they can't do anything to your PINS. :-) 
+1) https://hacked.com/phishing-malware-strikes-one-largest-private-banks-india/ 
+2) http://www.zdnet.com/article/malware-targets-indias-largest-private-bank/
+3) http://www.moneycontrol.com/news/business/axis-bank-appoints-ey-to-probe-cyber-attack-report_7647221.html
+4) http://indianexpress.com/article/business/business-others/cyber-attack-on-union-banks-offshore-accounts-2930681/
+5) http://timesofindia.indiatimes.com/business/india-business/Security-breach-SBI-blocks-over-6L-debit-cards/articleshow/54926828.cms
+6) http://www.medianama.com/2016/10/223-axis-bank-and-sbi-hacks-security/
+
+I think it's objective proof enough. ICICI bank seems to have been affected with malware. Yes Bank, I think was also affected but I cant find the source. 
+
+The worst? National Payments Corporation of India being affected but they of course denied it. 
+http://www.financialexpress.com/industry/banking-finance/npci-denies-data-hack-says-systems-fully-secure/371544/ 
+
+So there. There is no concept of security audits; if its there, it's useless. Basically, I feel its a bunch of monkeys sitting over out hard earned money and clueless on how things are getting worse. I wish I could use stronger profanity!

@@ -1,0 +1,67 @@
+HDFC Bank ‘s senior executive vice president and head of digital banking, Nitin Chugh, sat down with MediaNama and spoke to us at length about the bank’s new wallet and digital initiatives. Chugh also spoke to us about how the bank’s staff used face-to-faceÂ conversations with customers and push the adoption for mobile banking. As of January, Chugh says the volume of mobile banking transactions has increased toÂ Rs 4,900 crore as a result of this. Answers have been edited for brevity. Part one of the interview:
+
+MediaNama: What is HDFC Bank’s strategy for wallets and when are you looking to bring out a wallet as a product for customers?
+
+Nitin Chugh: From a strategy point of view, a wallet will bring about more convenience. The very simplistic way to look at it is if you go to an ecommerce site typically you need about 10-11 clicks to complete a transaction. We are trying to see if it can be done through two clicks or three at the most. That’s where a wallet comes in as a high convenience platform. In addition. it will have discounts and offers embedded in it. Purely from our customers’ point of view, because we’re already the largest in issuance and acquiring in ecommerce transactions, this will be a significant value-add. We’re probably launching the wallet in a month’s time.
+
+MediaNama: You’ve also brought out a new application called Chillr to facilitate peer-to-peer payments. How has the traction been for that? What can we expect in the coming months?
+
+Nitin Chugh: We launched Chillr formally last week,Â  and we had soft launched it about four weeks back. It was trending some time back as the top most app on the Google Play Store for about two-three weeks amongst the free financial services. We’ve already seen about 75,000 downloads. And when we put it up on iOS it was trending as the top most searches on the Apple store. We have seen very good traction here. We’ve been seeing good feedback also coming in. And this is not a wallet, it’s just a plain and simple payments app using IMPS.
+
+As of now it’s only peer-to-peer payments so most people are doing very small value transactions. and right now the average value of transaction is about Rs 500 within one month’s of operation of the application.
+
+The key thing over here is ease of use. Look at the use cases. If we three people go dining out, and you have to pay the bill and we have to share, and you can use the request function and you can tell the other two what their share is and request a payment. A notification comes to me and I authorize it and the money goes into my account. Right now it’s peer-to-peer. And when you bring in peer-to-merchants, and that’s going to be very soon including the utility payments, then you will be able to pay your neighbourhood grocer or for home deliveries. We should be rolling this out in about 30 days.
+
+Right now we’ve capped the limits as Rs 5,000 per day and the number of transactions at 10. The monthly limit is capped at Rs 25,000. But these limits are dynamic and we’ll keep reviewing it and changing it.
+
+As of now it’s only peer-to-peer payments so most people are doing very small value transactions on Chillr. and right now the average value of transaction is about Rs 500 within one month’s of operation of the application.
+
+MediaNama: Why aren’t banks adopting IMPS as a mode of payments? And what are your thoughts on the NPCI’s unified payments interface?
+
+Nitin Chugh: I think everyone is taking it up. There’s always an adoption cycle and there’s a tipping point. But we’re seeing that IMPS is becoming a massively adopted platform now. Over time IMPS will replace NEFT and RTGS payments. We are doubling the number of IMPS transactions almost every six-eight months.
+
+The NPCI’s new offering is still early but I won’t be able to comment on how it will play out. But the important thing to understand is that everyone is trying to make convenience as a forefront theme in payments. IMPS by design offers you immediate settlement. So from that point of view, we are also confident that it is the future looking platform.
+
+MediaNama: The RBI also eased some norms for cards using NFC technology. How is HDFC Bank viewing contactless payments? Will it be tied-in with your new wallet?
+
+Nitin Chugh: So we’re working on those things. But for contactless payments, the handsets have to be compatible. Right now only the high-end phones are NFC compatible. The merchant also has to be NFC compatible to accept payments. So this will need some time, till the handsets are affordable. And again it’s another payments mechanism.
+
+As part of the wallet development plan, NFC is also going to be enabled in the future. Not when we launch it.
+
+MediaNama: What are the impediments for NFC adoption in the country?
+
+Nitin Chugh: Like I said, the first problem is the handset. If you want scale, NFC has to be available on the lowest of handsets, which it is not today. Second problem is the acceptance network. So the merchants have to be enabled for accepting NFC payments. POS terminal penetration in the country itself is not so much. Even if all of them had to be replaced, then that itself is a big task. But this will play out on its own as time comes. Because finally the whole idea is to make the transaction as seamless as possible. Whether you use NFC or use any other form of funds transfer. Whether you use IMPS-based products which is available today. I think everything will work. Things will fall logically in place where there is an Â acceptance network because there is a market for everything.
+
+Also read: Â No need of PIN for transactions below Rs 2000 using NFC cards, says RBI
+
+MediaNama: How do you see banks playing a role in security when it comes to payments? We’ve been seeing a number of reports that online services for payments can be easily hacked. How does a bank bring in trust with so many applications coming out for payments?
+
+Nitin Chugh: Everything goes through our rigor of security when we launch a product. For us security is a full framework. There is a set of things you will do to protect, a certain set of things to detect, and a set of things you do to prevent.
+
+We obviously need to protect our data. So there are multiple ways to do that like firewalls etc. We also have a lot of security inputs coming in through various forums we are a part of so that we are also abreast of what kind of trends that are emerging. We need to know what kind of new malwares or new techniques people are using. You need to stay two steps ahead as this is not a space where you can assume that you are so ahead that nobody can catch up. And finally to the point of preventing, you need to create a whole lot of policies of what you will allow, what you will not allow, what extent you will and will not take a risk in the realm of the security framework. So it’s an ongoing thing. And these trends also keep shifting. So now the new trends is on wishing and not phishing, where people are actually giving away information on a phone call. We don’t know what the next set of trends are going to be.
+
+I think it’s a good thing what the RBI has done. Because finally in India, it is not a fully mature market. And our feedback from our customers is that they prefer more security. Two-factor authentication in any form is generally appreciated by our customers.
+
+But the bank, by design, is extremely security conscious and will take steps that will even compromise on convenience to an extent. For example, we don’t allow updating your phone number details through internet banking. We have the option of doing it but we don’t allow that. We also don’t allow the option of updating your address through internet banking. If we do consider that there will be other checks too. Or if you want to transfer funds through net banking you have to add Â a beneficiary and only recently we’ve reduced the cooling period from 12 hours to 30 minutes. We had the longest cooling period and a lot of customers would complain sometimes saying “I’ve added a beneficiary and I need to transfer funds immediately, why are you making me wait so long.” So we’ve dropped it to 30 minutes but we kept the transaction limit capped saying you can’t transfer funds over Rs 1 lakh over 48 hours. Because usually the trends that we were observing somebody adds a beneficiary and immediately transfers money out.
+
+But you need to strike a fine balance between convenience and security. But even at the cost of convenience if something is to be done for security, we would be willing to take that call and we explain that to our customers. And they accept that.
+
+MediaNama: A number of ecommerce players favour relaxing the Reserve Bank of India’s insistence on two-factor authentication for card transactions. What is your view on the same?
+
+Nitin Chugh: I think it’s a good thing what the RBI has done. Because finally in India, it is not a fully mature market. And our feedback from our customers is that they prefer more security. Two-factor authentication in any form is generally appreciated by our customers. Yes there is always going to be a debate on how much more convenient you can make things and how much more secure you can make it. While the central theme for everyone is convenience, it cannot come at the cost of security and regulation.
+
+MediaNama: Sometime in October, HDFC Bank overtook ICICI BankÂ in volumes for mobile banking. How did you encourage customer adoption?
+
+Nitin Chugh: For us digital banking is not coming up with new products as much as it is about adoption of these channels which are platforms for use for our customers. So we’ve been working with all our touch points. Whether it is our branches, bank staff, contact centres, marketing analytics or anyway we can touch our customers. A lot of effort has happened with face-to-face interaction with customers in branches. Because our network is so large and we have these interactions on a daily basis, we’re actually able to physically give a demonstration for mobile banking or any new application that we would launch.
+
+You’ve seen the October numbers where we clocked in about Rs 3,400 crores and in January we registered volumes of Rs 4,900 crores. And a recent survey done by the Boston Consulting Group told us that the average transaction value for HDFC Bank’s mobile banking was three times than what it is in the industry.
+
+Now when we do that we’re also able to address any concerns on security, and then we encourage our customers to transact more. When they come to our branches for a certain set of transactions we tell them that it could be done on their own if they like to. So we are adding more transactions to our mobile banking platform. We’re going to be adding another 30 transactions and trying to make it as comprehensive as possible. Whatever transactions you would like to do, even if it’s once a year kind of transaction, it should be available on the mobile. Now that has pushed a lot of our adoption to happen, a lot of new downloads to happen.
+
+In our application, we also believe that functionality is needed more than design and that encourages people to come back and transact. It also has a number of sections which encourages people to use it on a daily basis like finding an offer, or a merchant where you can find a discount, or applying new products if you would like to. Once people start using we start seeing transaction volumes increasing. You’ve seen the October numbers where we clocked in about Rs 3,400 crores and in January we registered volumes of Rs 4,900 crores. And a recent survey done by the Boston Consulting Group told us that the average transaction value for HDFC Bank’s mobile banking was three times than what it is in the industry.
+
+Update: An earlier version of the story carried a different headline. The change reflects the same.Â
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

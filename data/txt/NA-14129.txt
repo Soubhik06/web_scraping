@@ -1,0 +1,29 @@
+Reserve Bank of India has advised all banks to include biometric sensor in all new credit card swiping machines and to improve their existing infrastructure to enable use of Aadhaar-based biometric authentication while making  card-based payments. In the circular, RBI has given banks an option to start using EMV chips and pin or shift to Aadhaar, as additional factors of authentication to secure the present payment infrastructure.
+
+As of now, one needs to only sign the transaction slip after the card is swiped, but in the future typing in a pin or using biometric authentication will be the norm. The circular follows a recommendation by a working group on Securing Card Present Transactions in 2011. The working group had then also recommended other solutions to secure payment infrastructure such as use of Unique Key per Terminal instead of using a common one for PoS terminals and setting up Derived Unique Key per Transaction (DUKPT), a one time key that are generated for every transaction, among others.
+
+Following the circular by RBI, banks will need to upgrade their infrastructure (connectivity and PoS hardware) to meet these new regulation. It needs to be noted that Axis Bank had partnered with Visa to launch first ‘eKYC’ facility in the country, letting anyone with an Aadhaar card can open bank account within minutes by using their biometric data through this service. It was also announced that Axis Bank will using Visa’s network to access Aadhaar information. So it is possible that financial service providers such as VISA have been investing on readying the infrastructure for Aadhaar roll out.
+
+This move, if implemented well can reduce the damage done in case of card theft. However, in reality we might end up being frustrated with the side effects of a biometric sensor malfunctioning or transaction failures caused during uploading of biometric data in the process of authentication.
+
+Aadhaar as authentication
+
+– Reliance Communications had said in May that it would be using Aadhaar’s online authentication to activate new connections. Vodafone had also carried out pilot project offering Aadhaar based verification in October 2012.
+
+– MakeMyTrip founder Deep Kalra had told Medianama earlier that they are looking forward to using biometric information as a second form of authentication.
+
+– The Unique Identification Authority of India (UIDAI) had launched three Aadhaar enabled services back in May this year: an authentication services using Iris, an authentication service using one time pin (OTP) and an electronic know your customer (eKYC) service.
+
+– Last month, NASSCOM Product Council had collaborated with Unique Identification Authority of India (UIDAI) to launch a new initiative called ‘ Aadhaar Diffusion Projec t’, which aims to step up the development of apps and services that use Aadhaar’s identity infrastructure for eKYC.
+
+Aadhaar for payments
+
+At the NASSCOM event, UIDAI chairman Nandan Nilekani had said that UIDAI partnered (.doc file) with National Payments Corporation of India (NPCI) to launch Aadhaar based remittance service, which enables money transfer from one Aadhaar number to another number or to bank accounts and vice versa. At TiEcon Delhi in October, he had said this facility will be rolled out in couple of months.
+
+Legal scope of Aadhaar
+
+The Indian government had tried to make Aadhaar mandatory, by linking essential services with it, and allowing government departments to make it mandatory for particular schemes: for example, in Delhi, it is mandatory for marriage licenses. It has also been linked to schemes such as LPG subidies. However, The Supreme Court of India passed an interim order that Aadhaar cannot be made mandatory for government services. The Centre, UIDAI and three oil PSUs — IOCL, BPCL and HPCL — had later on moved the Supreme Court seeking modification of its earlier order. The Supreme Court has now sought responses of all states in two weeks on the constitutional validity of the nationwide scheme being implemented by the Unique Identification Authority of India (UIDAI).
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

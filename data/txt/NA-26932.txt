@@ -1,0 +1,25 @@
+SUBREDDIT: r/Scams
+TITLE: This is Windows Support, Your Computer is Sending us Errors
+DATE: 2014-03-07
+SCORE: 10
+URL: https://www.reddit.com/r/Scams/comments/1ztelb/this_is_windows_support_your_computer_is_sending/
+
+--- POST TEXT ---
+
+I am beginning to lose my patience with the Asian (Indian?) scam artists who call me - sometimes four times per day - trying to perpetrate some nonsense with my PC.
+
+One variant of the scheme can be read [here on ARS Technica](http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/), and it's mildly entertaining... unless the calls come repeatedly.
+
+The call display is always spoofed; it either says "private name/private number", or has some gibberish numerical string where the phone number should be. The calls are auto-dialled, and frequently there is a long pause before the caller picks up.
+
+Today, for fun, I tried to combat them by wasting their time. I deliberately behaved as if I was intellectually challenged, and clicked/typed the wrong things. This worked well enough to frustrate the first "technician", who then handed me off to his supervisor. Both of these guys spoke as if they had a mouth full of marbles, so it was pretty easy to milk out the conversation by misunderstanding them.
+
+FWIW, the two sites they tried to get me to access were "support.me", and "ammyy.com" - both of which are basic pages that will allow you to download a ware that ultimately can get them remote access to your PC. Heaven only knows what will happen if one is crazy enough to do as they ask. But - after a call from my 81-year-old Dad asking me what to do when people like this call, I began to feel more alarmed and offended by these calls.
+
+And so here is my question: why aren't our telcos trying harder to intercept or prevent this crap? It seems like it would be simple to compare the call origin with the call dispaly data and filter out (at the very least) a good fraction of the calls. The sheer volume originating from one location would be a good indicator of the source of the irritation.
+
+I've read plenty about this online, seen articles saying the government(s) are working on a solution, but in the meanwhile the nuisance value continues to climb. Many of these calls are received on my cell phone, which bears a direct cost to me for every minute of use - so this constitutes fraud (in my opinion).
+
+Anybody out there know anything useful to bring to this battle?
+
+TL;DR - tired of the asian phone scammers, looking for solutions

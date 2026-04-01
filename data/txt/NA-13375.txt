@@ -1,0 +1,27 @@
+The Internet Freedom Foundation (IFF) called out the Indian Railways’ Aadhaar mandate for Tatkal bookings, claiming it infringes on privacy and legal safeguards. In a blog post, the organisation claimed that the “digital solution to scalping may lead to widespread privacy violations, ineffective enforcement, and increased exclusion without addressing the underlying issues in the Tatkal booking system”.
+
+The representation follows Union Minister Ashwini Vaishnaw’s announcement that Indian Railway Catering and Tourism Corporation (IRCTC) would deploy e-Aadhaar authentication for Tatkal bookings to assist genuine users in obtaining confirmed tickets from July 1. Additionally , Tatkal tickets booked through the computerised Passenger Reservation System (PRS) counters and authorised agents would also require OTP authentication from July 15. Finally, the government also prohibited authorised ticketing agents from booking opening-day Tatkal tickets during the first 30 minutes of the booking window. Similarly, the Railways launched an anti-bot system to curb unauthorised automated ticket bookings.
+
+IFF recounted IRCTC’s history of poorly addressed and under-reported data security breaches. In 2016, an IRCTC website hack reportedly compromised the data of over 10 million users. It was later revealed that IRCTC took two years to address a vulnerability that exposed the details of around 200,000 passengers. In 2025, the Railways deactivated 25 million fake accounts after uncovering a scam in the Tatkal ticket booking system.
+
+IFF argues that incorporating Aadhaar, a biometric-linked and centralised identity system, into this framework heightens the risk of data breaches and identity theft. This also furthers systemic abuse, considering the linkage between Aadhaar and banking, telecom, and welfare data. This claim is based on IFF’s repeated requests to IRCTC and CERT-In (Indian Computer Emergency Response Team) for vulnerability assessments, which were reportedly ignored.
+
+Besides security threats, the integration of Aadhaar also potentially violates legal precedents.
+
+Digital Personal Data Protection (DPDP) Act, 2023: While this law isn’t enacted yet, it requires entities to alert users quickly after any data breaches. However, IRCTC has failed to take such action in the past. Further, Section 6 of the Act mandates that data collection should be limited to a stated purpose, but demanding Aadhaar to book train tickets is beyond that need.
+
+Information Technology (IT) Act, 2000: As per Section 43A of the IT Act, any entity storing sensitive personal data should follow “reasonable security practices and procedures”. This includes integrating basic encryption, two-factor authentication, and timely breach notices, which IRCTC has failed to enforce previously. Accordingly, it may becomes liable under Section 43A of the IT Act. Furthermore, Section 72A penalises the disclosure of personal data under a contract like the IRCTC’s terms of service.
+
+Justice K.S. Puttuswamy vs Union of India judgment: The Centre’s mandate also infringes on the constitutional safeguards for privacy and the tests of legality, proportionality, and necessity for Aadhaar use as listed in the Justice K.S. Puttuswamy verdict. IFF explained that compelling users to adopt Aadhaar-based authentication for accessing a public service like train travel without clear opt-outs or privacy safeguards violates these constitutional tests.
+
+Notably, IFF is not the only organisation to express reservations against this new system. Earlier, the Software Freedom Law Centre ( SFLC.in ) wrote to the Railway Ministry urging the suspension of this system. The body argued that this move expands the scope of Aadhaar usage beyond the law’s bounds, without addressing the technical challenges faced by IRCTC users. Like IFF, SFLC.in also sought a technical audit of the website to address the cause of booking failures and past security breaches.
+
+These representations also highlight the integration of Aadhaar in multiple governmental systems. Responses to previous RTIs filed by IFF also disclosed similar findings. To explain, Aadhaar authentication was functioning as a necessary step in many governmental services. However, this obligation could exclude individuals from engaging with the government or impact anonymity on the internet in certain cases. Similarly, in 2025, the government allowed private entities to use Aadhaar for face authentication, deepening its use further.
+
+Elsewhere, frauds in the Aadhaar and Aadhaar-enabled payment system ( AePS ) scams raise questions on the effectuality of this integration. Overall, with the multiple pleas against the deployment of this system, it remains to be seen whether the government commissions any further scrutiny of the IRCTC website and app.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,31 @@
+The mobile web is the new frontier for the billing scam for mobile Value Added Services, and the Telecom Regulator needs to step in to put an end to this practice before it escalates, and more and more telecom customers get cheated. The TDSAT has already rejected a move by telecom operators to trying avoid seeking explicit consent of customers before subscribing to services.
+
+The TRAI Regulations, announced in July last year, and not implemented for 412 days before the TDSAT ruling, only took into account activation of the mobile services (VAS) through calls and SMS, specifically: “Out Bound Dialer or service provider initiated call or during pre-call ring back announcements (both voice as well as automated) and where a consumer dials a specified telephone number or short code or a telephone number providing interactive session for subscribing to a Value Added Service”.
+
+Telecom operators and VAS companies are now using the Mobile web to activate services, especially using ad networks which allow services to be purchased on the basis of a mere click – Click to buy. This is not new – we had written a couple of years ago about a similar billing practice on the mobile web, but this now poses a far bigger problem now: all telecom operators have reported a rapid increase in their mobile web base in India, and India is one of the fastest growing markets for Android, given low cost devices. Application usage in the country has increased, and with telecom operators providing better revenue shares for external applications, VAS companies have a greater incentive in advertising on the mobile web for subscription to services. The likelihood of an ad being clicked is greater now, even accidentally, especially because these are touch screen handsets – “Click to Buy” means that the consumer is more likely to “subscribe” to a service than ever before. Meanwhile, the telecom operator can claim that it is merely a billing platform, and has nothing to do with the subscription.
+
+It Happened Recently
+
+To illustrate, on 18th November, I picked up my phone to find that I had been subscribed to an Item Song service from Airtel. An Airtel screen was open on my phone. I’d never done this, will never do this, so I called up the call center to complain, and get the charges reversed. This is similar to an incident where I had been charged for downloading an animation at 3am while asleep. We all do this sometimes, no? Airtel had reversed the charges then, so I thought I’d try again.
+
+The call center told me I should call after 4 hours (i.e. around 1.30 AM) because the system was down, so I did what any socially aware Airtel customer does – I tweeted about this. Sure enough, someone from Airtel called, and the charges were reversed (as you can tell from the last message in the second screenshot above). I’ve been thinking about how I could have been subscribed to this service, and it is possible that I might have clicked on an ad (like in the screenshot below) while putting my phone down:
+
+So it’s possible that this is not Airtel’s fault, but frankly, it is not my fault either, since I did not intentionally click on that ad, and you can’t possibly expect me to be aware of where I’m touching a touch screen phone all the time.
+
+App Developers Suffer Too
+
+A few months ago, a mobile app developer wrote to us about his application, with over 200,000 installs, and serving ads from two top tier ad networks having received bad comments and negative ratings on the android app store. I’m quoting him verbatim: “Sometimes when a user clicks/taps on an ad in my app, his mobile phone account is automatically subscribed to VAS such as “Ask an expert” etc *without confirmation*. If one clicks on an ad related to a subscription, one wants to know more about the subscription, not to immediately subscribe to it. Some clicks are also accidental and there should also be a way to easily cancel/undo the subscription and get a refund. So I feel this is an extension of the fraud where users are automatically subscribed to VAS such as caller tunes, job ads, etc. Isn’t there also a regulation from TRAI which requires users to send an SMS message or dial a USSD code to subscribe to VAS?”…”So well, the VAS fraud has gone into mobile app ads as well and this negatively impacts app developers. Users don’t forget such incidents and then avoid all apps published by me. App developers don’t know how to prevent this from happening in their apps. I don’t know if the ad networks can prevent this.”
+
+Changes that need to be made
+
+I think it is in the consumers interest for the following thing to happen:
+
+– Ad networks need to suspend Click to buy ads, which integrate billing with telecom opertors – The TRAI needs to extend the VAS subscription guidelines to include the mobile web and mobile web advertising. – Telecom operators need to make sure that  service providers don’t cheat their customers. It’s their billing platform.
+
+The best way to address this is to have a two factor authentication, wherein the customer confirms the billing via SMS, although I’m not sure if even that will work – we’ve heard of collusion between VAS companies and telecom operators at a circle level to activate services, and one thing that I noted from the TDSAT filing (page 16) is that records for most telecom operators are available in an editable format, so they could have been tampered with to indicate activation, even when the consumer hasn’t initiated it.
+
+SMS verification is not the best solution for the ecosystem, but given the scale at which customers have been and are being cheated, it’s necessary for the regulator to step in and protect them. You can’t expect telcos to do it, because they benefit from this practice. TRAI needs to find a way. The billing scam has to stop.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

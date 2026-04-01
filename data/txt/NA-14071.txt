@@ -1,0 +1,105 @@
+“SIM binding is basically verifying that the device on which you are using an app actually has the SIM which is linked to that app,” said Parag Kar, former vice president for government affairs (India and South Asia) at Qualcomm, during MediaNama’s discussion on the Impact of SIM Binding on Social Media.
+
+The Department of Telecommunications (DoT) has positioned SIM binding as a fraud-prevention measure for app-based communication services. Under the directive, messaging and social media apps must function only when the SIM linked to a user’s account is physically present in the device. The directive also restricts persistent access through web and desktop interfaces.
+
+However, speakers at the MediaNama discussion argued that the directive’s framing of SIM binding relies on technical and regulatory assumptions that do not reflect how modern operating systems, mobile networks, or app-based authentication systems actually work.
+
+At a conceptual level, SIM binding assumes that an app can continuously verify whether the SIM card linked to a user’s account is physically present in the device and disable the service if that linkage breaks.
+
+“If some way that linkage breaks because the SIM has been taken out, the app should not work. That’s the intent,” Kar said.
+
+Importantly, Kar clarified that this is not a one-time verification at login. Instead, the directive assumes an ongoing or continuous check of SIM presence. However, he said apps cannot actually implement that kind of SIM-level verification because modern operating systems restrict access to SIM and hardware identifiers.
+
+The core constraint, according to Kar, comes from how modern mobile operating systems are built. These systems run apps in sandboxed environments and deliberately block access to SIM-level and hardware-level identifiers.
+
+Explaining why this matters for SIM binding, Kar said operating systems no longer allow apps to directly detect whether a specific SIM card is physically present in a device.
+
+“The first case, which I mentioned, is not allowed by the iOS system. The iOS system has prevented it long ago. Android used to allow that in the earlier versions, but now they are preventing it,” Kar said. “Apple has completely debarred any app to look into the device hardware and read the SIM.”
+
+As a result, apps cannot reliably determine whether a particular SIM is present in a device.
+
+“The only way it is possible to do it is through sending an OTP,” he said, referring to SMS-based authentication.
+
+This, Kar argued, leaves the directive effectively imposing SIM binding at the application layer, even though apps have no visibility into SIM or network identity.
+
+Building on this limitation, Kar clarified that OTP-based verification is frequently conflated with SIM binding, even though it only confirms control over a phone number at a specific moment.
+
+“How many OTPs you will send? When you will send? Will you send every minute? Will you send every day? Will you send every year?” Kar asked.
+
+Therefore, he said, attempting to approximate SIM binding through repeated OTP checks would be economically unviable and operationally disruptive, particularly in India’s prepaid-dominated market.
+
+“If DoT’s order has to be implemented on a continuous basis, then the user bill, mobile bill, is going to shoot up from the current level to maybe a disproportionate level,” Kar said.
+
+Against this backdrop, Anand Venkatanarayanan, co-founder of DeepStrat, said much of the confusion around SIM binding stems from multiple, distinct technical models being grouped under the same term.
+
+One model assumes continuous verification of whether a specific SIM is physically present in a device. According to Venkatanarayanan, this is what the directive appears to assume. However, he said it is not technically enforceable at the application layer.
+
+Another model is OTP-based phone number verification, which confirms control over a phone number at a point in time but does not establish ongoing SIM presence.
+
+A third model is device binding, which links an account to a device rather than to a SIM.
+
+“UPI actually supports device binding with SendSMS,” Venkatanarayanan said. “That is a device binding API, not a SIM binding API,” he added.
+
+To illustrate this distinction, Venkata Satish Guttula, a cybersecurity consultant at Allied Boston Consultants Pvt. Ltd., described a real-world test.
+
+“I took out my SIM card from my phone, which has a UPI app. I inserted another SIM card, and the UPI apps were working perfectly,” Guttula said. “It is doing a device binding. It’s not mapping to the phone number,” Guttula added.
+
+“No one in India is actually doing SIM binding,” said Nikhil Pahwa, founder-editor of MediaNama.
+
+In Panel 2: ‘Implications for Users and Businesses’, the discussion shifted to how the government has defined the scope of the SIM binding directive.
+
+For context, Nikhil Narendran, partner in the TMT practice at Trilegal, said the directive flows from the concept of a Telecom Identifier User Entity (TIUE) under the Telecommunications Act and related rules.
+
+“If an entity is using a telecom identifier, the classic example being a mobile number, for the identification of the customer or for delivery or positioning of a service, then that’s the TIUE that’s defined under the regulation,” Narendran said.
+
+To explain how the directive applies to app-based communication services, Narendran pointed to platforms such as WhatsApp or Signal, where mobile numbers play a central role in identifying users and routing communication within the service.
+
+He explained that when users message each other on these platforms, the service uses their mobile numbers to associate messages with specific user profiles and to enable users to find and contact one another. In this setup, Narendran said, the mobile number functions not merely as a login credential, but as an in-service identifier that the platform relies on to deliver communication.
+
+It is this use of mobile numbers for identification and delivery of app-based communication, Narendran said, that forms the regulatory basis on which the government has applied SIM binding obligations to these services.
+
+At the same time, Narendran emphasised that the directive operates as a functional regulation, applying to specific services rather than entire organisations.
+
+“It is not applicable to an organisation. It is applicable to a service,” Narendran said. “Only to the layer where an app-based communication service is using a mobile number as an identifier.”
+
+Additionally, Prasanth Sugathan, legal director at SFLC.in, said services that rely on non-telecom identifiers fall outside the scope of the SIM binding directions.
+
+“Email address is not a telecom identifier,” Sugathan said. “As of now, it is not covered,” he added.
+
+Furthermore, Narendran added that for apps offering multiple modes of identification, the directive would apply only to the specific service layer that uses a telecom identifier.
+
+“It should only apply to the TIUE layer, which is using the mobile number”, he said.
+
+Speakers across both panels said the SIM binding framework, as currently framed, does not meaningfully account for the realities of eSIMs, virtual numbers, or international SIM cards.
+
+Guttula pointed out that SIM binding does little to address fraud vectors that rely on non-Indian or virtual numbers, which remain easily accessible.
+
+“What is going to stop the fraudsters from using these international numbers?” Guttula asked.
+
+He noted that obtaining international or virtual numbers has become relatively frictionless, allowing bad actors to bypass domestic controls without needing a physical Indian SIM at all. As a result, tying app access to the physical presence of a local SIM fails to prevent the use of alternate numbering systems that fraudsters already exploit at scale.
+
+Kar added that eSIMs do not overcome the underlying technical limitation, because apps still cannot enforce SIM binding at the application level.
+
+“Whether it is eSIM or physical SIM, it does not matter,” Kar said. “Once an eSIM is created in the device, it is in the trusted zone,” he added.
+
+Venkatanarayanan said SIM binding is often presented as a way to strengthen account security by tying access to a specific SIM. However, he argued that a SIM’s presence in a device does not establish the user’s identity.
+
+Moreover, he said the directive assumes phone numbers function as a foundational identity layer, even though communication systems have historically not relied on them.
+
+“Communication never required a phone number,” Venkatanarayanan said. “Even going back to Skype, it never required a phone number.”
+
+He added that SIM binding does not prevent SIM replacement or SIM rental. Nor does it stop users from shifting to alternative communication platforms or other non-SIM-based channels.
+
+Across both panels, speakers repeatedly returned to the same conclusion: SIM binding reflects a gap between policy intent and technical reality.
+
+“If it was thought through, nobody would have issued such a notification,” Kar said. “This was a completely thoughtless order.”
+
+Overall, the discussion showed that while the government frames SIM binding as a security measure, it rests on assumptions about app access, SIM visibility, and identity assurance that modern operating systems and app architectures simply do not support.
+
+You can watch the event video here:
+
+Note: This discussion was organised with support from Meta and Snap. Our community partner for this event is the Internet Freedom Foundation (IFF), Software Freedom Law Centre (SFLC.in) and the Centre for Internet and Society.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

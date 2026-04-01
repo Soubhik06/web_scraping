@@ -1,0 +1,25 @@
+By Apurva Venkat & Salman SH
+
+Zomato has confirmed that its databaseÂ was compromised by hackers. In a blog post on Thursday, Zomato mentioned that its security team discovered a breach in its system wherein encrypted passwords and raw usernames/emails belonging to 17 million usersÂ were stolen by unidentified hackers. The company, however, claims that payment related data or credit card details have not been stolen or leaked since it is stored in an encrypted format. Note that Zomato says that “We hash passwords with a one-way hashing algorithm, with multiple hashing iterations and individual salt per password.Â This means your password cannot be easily converted back to plain text.”
+
+To fix the breach, Zomato has reset passwords and logged out the affected users from the app and the website, and that even though the encrypted passwords cannot be decrypted, it had advised users to reset their passwords.
+
+âSo far, it looks like an internal (human) security breach – some employeeâs development account got compromised. A layer of authorisation will be added for internal teams having access to this data to avoid the possibility of any human breach,â Zomato added. Â The company said that it will be rolling specialised updates for “enhancing security measures for all user information stored within our database”, but did not provide a timeline.
+
+Note that this isn’t the first time that ZomatoÂ has come across security issues in its system.Â In 2015, Â Zomato was hacked by an Indian ethical hacker named Anand Prakash, who not only discovered a critical security flaw in Zomatoâs system but alsoÂ pointed bug which could expose a Zomato user’s Instagram images. Zomato, however, fixed the issue after PrakashÂ forwarded the vulnerability report to the company.
+
+No protection for users without a privacy law
+
+Apart from Zomato, several Indian startups companies and government agencies have reported incidents of user data leakage in the past including Ola , McDonaldsÂ India , CloudFlare’s data breach affecting Indian sites, and even private c linical labs leaking patient data . Â In the case of the Mumbai lab attack in last December, the lab’s management in question, simply decided to ignore the leak stating that “we are not planning to do anything about this.” This can be fixed with a strong privacy law: i) Companies could be held accountable for negligence; ii) The government can even fix standard encryption protocol for storing sensitive data; iii)The law could also specify courses of action in case a company’s database is compromised.
+
+Reports of Zomato data being sold online
+
+According to a report by HackRead , a vendor going by the online handle of ânclayâ is claiming to have hacked Zomato and selling the data of its 17 million registered users on a popular Dark Web marketplace. The database includes emails and password hashes of registered Zomato users while the price set for the whole package is USD 1,001.43 (BTC 0.5587). The vendor also shared a trove of sample data to prove that the data is legit, the publication added. Note that this information could not be verified by MediaNama.
+
+Zomato Financials
+
+Zomato reported revenues of $49 million for the financial year ended 31st March 2017 (FY17), a growth of 80% over FY16. Â For the year FY17, food ordering accounted for $9 million in revenues, around 8 times of FY16. Meanwhile, ad sales accounted for $38 million in revenues in FY17, 58% higher than FY16.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

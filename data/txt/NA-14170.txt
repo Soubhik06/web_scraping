@@ -1,0 +1,55 @@
+India’s new copyright working paper proposes setting up a central organisation called the Copyright Royalties Collective for AI Training (CRCAT). This body would run licensing and royalty governance for AI developers. If implemented, CRCAT becomes the single gatekeeper that enforces rates, ensures compliance, and distributes payments to creators whose work trains generative AI models.
+
+For context, CRCAT sits at the centre of the Department for Promotion of Industry and Internal Trade (DPIIT) committee’s proposed mandatory licensing model. Developers would gain automatic rights to use any lawfully accessed copyrighted works for training, while creators receive revenue-linked royalties. Notably, rights holders cannot opt out.
+
+The system aims to simplify licensing by preventing developers from negotiating with thousands of creators. However, the proposal concentrates operational power in a single organisation that does not yet exist and depends heavily on copyright societies and collective management organisations (CMOs) that vary widely across sectors. Additionally, the framework assumes new CMOs will emerge over time to cover categories that currently have no collective representation.
+
+Here’s a closer look at how CRCAT is structured, who participates, and how it would work in practice.
+
+CRCAT would function as a nonprofit designated by the central government under the Copyright Act. Only one organisation can represent each class of copyrighted works. That representative must be either a registered copyright society under Section 33 of the Copyright Act or a newly formed nonprofit collective management organisation.
+
+Sectors without either structure would send government-nominated representatives to the CRCAT board until they form their own CMO. The governing board includes one representative from each member organisation and temporary representatives from unorganised sectors. The design aims to ensure that every creative category eventually holds a seat in royalty calculations.
+
+CRCAT handles four core functions: collecting royalties from AI developers, distributing funds to CMOs and societies, enforcing compliance, and operating the Works Database that determines payout eligibility. The framework positions CRCAT as the administrative funnel through which all money, data, and compliance flow. Developers never pay creators directly, and creators never negotiate with developers.
+
+A government-appointed Rate Setting Committee, not CRCAT, decides royalty rates. The committee includes senior officials, legal and financial experts, technical experts, one representative from CRCAT, and one from AI developers. It reviews rates every three years.
+
+The committee rejects granular valuation methods, such as per-use accounting, because AI developers cannot trace how individual works influence outputs. Instead, it proposes a flat percentage of global revenue earned from commercialising the AI system.
+
+Developers owe nothing during training. They begin paying only once the model starts making money. Furthermore, the obligation applies retroactively, which means any company that has already trained on copyrighted content owes royalties once this system takes effect.
+
+Developers must file a Training Data Disclosure Form summarising broad categories of content used during training. They must disclose the class and subcategory under Section 14, source, and general nature of content. They do not need to list specific works, datasets, or URLs.
+
+The committee argues that AI systems cannot reliably capture granular attribution and that detailed disclosures would expose proprietary processes. The disclosure therefore serves two narrow functions: verifying lawful access and helping CMOs divide royalty pools.
+
+This approach keeps compliance light but limits creators’ visibility into how their work appears in the training pipeline.
+
+Creators must register their works in a sector-specific Works Database. Only registered works receive payment, even though unregistered works can still be used in training.
+
+Each CMO controls its own distribution policy. It may distribute royalties equally across all registrants or use a value-based method relying on licensing history, citations, audience metrics, or awards. This mirrors how societies handle unlogged royalties.
+
+The paper anticipates fraud, duplicate works, and incomplete metadata. It expects CMOs to adopt verification tools such as fingerprinting or watermarking. Additionally, CRCAT will hold royalties for unorganised sectors for three years. If no CMO forms within that period, those funds move into a welfare pool.
+
+The framework does not create a new tribunal. Instead, it strengthens mechanisms already present in India’s copyright ecosystem and adds AI-specific triggers.
+
+The first layer sits within CRCAT. Each CMO or society must run a grievance cell to handle disputes about distribution, categorisation, ownership, or non-payment. Clear internal rules are meant to resolve most disputes early.
+
+The second layer activates when disagreements involve rate-setting or methodology. Courts can review royalty rates through judicial review.
+
+The third layer governs infringement and false-declaration disputes. If a creator challenges a developer’s claim that training relied only on proprietary or licensed data, the burden shifts to the developer. Courts decide whether the claim stands. This logic mirrors standard essential patent litigation, where a party’s willingness to license influences judicial outcomes.
+
+On penalties, the report keeps injunctions available. The committee notes that injunctions may become rare once a licensing mechanism exists but concludes that restricting remedies now would be premature. Courts will weigh injunctions case by case, including whether developers comply with registration, disclosure, and royalty rules. In practice, if a developer engages with the licensing system, courts may lean toward compensation rather than stopping a deployed model.
+
+CRCAT assumes a level of institutional readiness that many creative sectors currently lack. Journalism, regional publishing, stock images, memes, gaming, and social media creators do not have registered copyright societies under Section 33 or functioning collective management organisations.
+
+Under the proposed model, these sectors would have to create CMOs from scratch before they can become members of CRCAT, register works for royalty eligibility, or participate in governance.
+
+The revenue-based model also raises structural questions:
+
+Furthermore, the proposal creates a deeper policy tension. It aims to compensate creators yet removes their ability to refuse inclusion. The framework therefore treats access as the default and redefines consent as compensation, a shift that places AI development goals ahead of individual control.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

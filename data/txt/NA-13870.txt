@@ -1,0 +1,57 @@
+by Viswanath L
+
+The past 40 years of independent India’s history have probably not seen the government stamping its writ on the people of this country, in a way that the Aadhaar programme is doing. Started in 2009, the programme has continuously expanded in scope, in spite of restraining Supreme Court orders. Today it covers almost every conceivable facet of a normal civic life. While this has rightly fanned the fears of an Orwellian state subsuming the inalienable sovereignty of individual citizens, there is a need to revisit the basic problem statement that led to the germination of Aadhaar. This is important so that the “subjects of Aadhaar” understand whether there is anything at all in it for them.
+
+Aadhaar was conceived to solve the problem of fake and ghost identities. All the present uses of Aadhaar profess to leverage this purported capability of it. Thus we have Aadhaar getting linked to ration cards, NREGA payments, PAN cards, bank accounts, mobile SIMs, mid-day meals in schools, school admissions, university admissions… the list is endless. The hope is that Aadhaar will help eliminate fraudulent identities, thereby saving the direct and indirect losses to the nation.
+
+To correctly understand how far Aadhaar can go towards achieving its goals, it may be pertinent to list out the key features that we should look for in an “identity proof” and then see how Aadhaar stacks up against each of these.
+
+To be fair, this vulnerability afflicts all identity systems, which therefore became the justification for introducing Aadhaar. In the case of Aadhaar, the shield of invincibility was built on the promise of biometric technology, i.e. biometric deduplication would instantly throw out anyone trying to enroll more than once. This indeed is an undeniable truth (assuming we discount all those who have obscure biometrics). During the PAN-Aadhaar hearings, the then Attroney General Mukul Rohatgi made no bones about stating that the 115 crore strong Aadhaar database has no duplicates at all.
+
+The hidden script here is that a unique biometric profile is not necessarily a genuine one.
+
+How about a person interchanging his left and right hands when scanning fingerprints, or scanning the ten fingers in various different permutations, or pooling in biometrics from multiple persons? Each of these will also emerge as a unique biometric profile and pass the barrier of deduplication. Now, what stands in the way of creating such fake Aadhaar profiles? It is only the honesty of the enrolment operator, and possibly those above him in the chain, probably even reaching up into the officialdom of the UIDAI.
+
+As if reading from the same script, a racket that had successfully created thousands of fake Aadhaar IDs, against bogus biometrics, was recently exposed in UP . So the promise of Aadhaar, that to eliminate fake and ghost identities, is nothing more than an appeal to the honesty of concerned (or empowered) individuals. If it was the Food and Civil Supplies department that had abetted the creation of fake ration cards, the creation of fake Aadhaar identities only requires the cooperation of a different set of people. If anything, the involvement of private parties in Aadhaar enrolment has eliminated even the least of checks and balances.
+
+In all fairness, it seems the original designers of Aadhaar had anticipated the creation of fake profiles, which is why it was always meant to be a paperless ID, to be validated only through biometric authentication. But biometric authentication is a beast in its own right, afflicted by a range of variable factors that are beyond human control. So the guard has been selectively lowered, depending upon the target population. While biometric authentication is being enforced with a vengeance in PDS disbursals and NREGA payments, it has been neatly given the slip for the PAN-Aadhaar linkage! The distinction couldn’t be starker. Beneficiaries of PDS and NREGA are the “disposable people”, to be treated as guinea pigs, while the TV-debate watching middle classes shouldn’t be ruffled too much.
+
+The PAN-Aadhaar linkage should, therefore, be considered an exercise in nullity. All that is needed to validate a fake PAN is to generate a fake Aadhaar with matching demographic details.
+
+That the UIDAI has all but given up on biometric authentication is clear from the fact that Aadhaar is now allowed to be authenticated through mobile OTP, in some quarters even acceptable as a physical “Aadhaar card”. These improvisations are only to keep Aadhaar ticking for the law-abiding citizens, while they are powerless to stop the usage of fake Aadhaar IDs. A fake Aadhaar ID can jolly well be used in perpetuity, validated through mobile OTP or as a physical “card”. In fact, the prospect of using Aadhaar without biometric authentication has opened up a lucrative market for fake Aadhaar IDs.
+
+The curious fact is that while Aadhaar is as powerless as anything else in countering fake identities, the original myth about its invincibility has seeped deep within the officialdom. This is an explosive combination that has the potential to cause the complete ruination of our country.
+
+This is the most basic of all requirements. Of what worth is an identity proof if it cannot guarantee identity to its holder? The founding fathers of Aadhaar have placed the identity of all Indians on the thin ice of biometrics. Biometrics is not an exact science. It is suitable for forensic and surveillance purposes, where it is applied on a best-effort basis. But it would be perilous to leave the identity of an individual to the mercy of circumstances.
+
+Aadhaar identity is valid only if the individual’s current snapshot of fingerprints/irises matches the records in the database. It may trip any day, due to uncontrollable reasons like aging, manual labour (that causes fingerprints to fade), illnesses (like cataract), etc. Above all, an overwhelming section of our population does not have biometrics fit enough for the kind of rigour Aadhaar demands. This has already dispossessed large numbers of people of their legitimate welfare claims.
+
+It is not that only the poorer sections of our country need to dread biometric technology. Even the better-off sections are facing the reality of biometric authentication when attempting e-KYC for various purposes. The Aadhaar Act has provided an elaborate cover to the UIDAI, by making it the responsibility of the concerned individual to maintain his biometric records in the database. This is an unconscionable condition, as changes to biometrics are not cognisable events that the individual can comprehend (unlike say change of demographic details).
+
+Added to the above matrix is the dependency on power and network availability (for performing the authentication transaction). So from every angle, Aadhaar looks to be the most unreliable of all identity systems.
+
+As mentioned in the earlier section, the UIDAI has suggested palliatives like mobile OTP, to tide over the vagaries of biometric authentication. This effectively nullifies everything that Aadhaar stands for. The technology has no means of distinguishing a genuine person failing biometric authentication from someone trying to use a fake Aadhaar ID. The alternative of mobile OTP (or any other alternative) is uniformly available to both. Further, mobile OTP as a sole and sufficient authentication mechanism is too weak a security layer and should raise the hackles of genuine, law-abiding citizens.
+
+The strength of an identity system is determined by how difficult it is to misappropriate someone else’s identity. The key to unlocking Aadhaar identity is biometrics, which is neither secret nor changeable, hence not the least suited to serve as a password. It is trivial to discuss here the methods by which fingerprints, iris images or other biometrics can be copied; sufficient to say that it takes only slightly more effort than a photocopy.
+
+To understand the full import of this, let us consider the example of the BHIM-Aadhaar Pay app. The CEO UIDAI in recent media article sought to downplay the risks, saying that even other payment systems, like cheques, ATM cards, internet banking, etc. are susceptible to fraud. But is that a fair comparison? To break into internet banking, there is a need to hack the password and also intercept the second layer authentication. To make use of a forged signature, there is a need to either steal or replicate the bank cheque leaves. In all these cases, the aspect of security comes from that element in the transaction which is in the private possession of the individual.
+
+In the case of BHIM-Aadhaar Pay, all that are needed to complete the transaction are the Aadhaar no. and the fingerprint, both of which are revealed at the merchant site. So the CEO UIDAI’s assertions can be likened to saying that you shouldn’t bother about locking your safe at all, simply because no lock can assure 100% safety!
+
+Now extend this further to the full scope of Aadhaar. The combination of Aadhaar no. and biometrics is considered as a sufficient token for opening a bank account, taking a mobile SIM and for many other purposes. That policy administrators have begun to consider Aadhaar as the “single source of truth” is a big reason to worry for honest, law-abiding citizens.
+
+It is meaningless to talk about encryption because biometrics can be lifted by completely external means. It is also irrelevant to talk about penal consequences of such fraud. If the fear of law was sufficient to prevent fraud, Aadhaar would have never come into the picture. The truth is in fact far worse. Once the biometrics are copied, the Aadhaar identity is rendered unusable for life.
+
+In a dark sense, Aadhaar should indeed be considered a unique ID. It has the unique distinction of being a bogus ID on all counts. But surprisingly, not just policymakers but even large sections of the general population are in support of it. “If you have nothing to hide, what do you fear”, is the general refrain. The assumption among these sections is that the motions that they go through are also applicable uniformly to the fraudsters. The sentiment is similar to what was witnessed during the time of demonetisation. The truth is that Aadhaar is a perfectly crafted coup. While the honest and law-abiding citizens are plugged into a 24×7 surveillance engine, the wheels of corruption and fraud continue to roll uninterrupted. The entry of Aadhaar into banking should be seen as the setting up of an elaborate money laundering network, at the expense of the tax-payer.
+
+The conflict of Aadhaar against the fundamental right to privacy is a matter of utmost concern for the future of our republic. But that question should never need to be agitated, as Aadhaar fails right at its fundamentals – that to provide a system of identity.
+
+****
+
+Cross-posted with permission from the author
+
+Viswanath L is an engineering professional working in Bengaluru and has been following the Aadhaar program closely since inception. He is of the firm conviction that Aadhaar is the biggest con in the history of independent India.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

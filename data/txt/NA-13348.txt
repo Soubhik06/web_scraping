@@ -1,0 +1,29 @@
+The Reserve Bank of India released new draft directions on due diligence of Aadhaar Enabled Payment System (AePS) Touchpoint Operators to “streamline the process of onboarding customers”. The new directions aim to combat growing instances of AePS frauds usually caused through identity theft or compromise of customer credentials, by authenticating operators of micro-ATMs . The RBI has invited comments/feedback on the draft directions from stakeholders on or before 31 August, 2024.
+
+Operated by National Payment Corporation of India (NPCI), AePS is a payment system that enables financial transactions through Aadhaar number and biometrics or OTP authentication. AePS enables basic banking services such as cash withdrawal, balance enquiry, mini statement, cash deposit, fund transfer, etc.
+
+The RBI has provided directions for those operating AePS terminals. It stated that the bank responsible must carry out due diligence of all AePS touchpoint operators according to Master Direction – Know Your Customer (KYC) Direction, 2016.
+
+Largely, the directions call for conducting KYC through Aadhaar number or Permanent Account Number (PAN). A bank that onboards an operator can conduct KYC using business or financial documents or documents equivalent to Aadhaar, such as passport, drivers licence, etc. in certain cases. However, it must be able to authenticate the operator’s Aadhaar number offline or using e-KYC authentication facility provided by the Unique Identification Authority of India (UIDAI). It must also verify the digital signature on the passport, driver’s license, etc. or other such documents.
+
+A Bank can also follow the protocols of a Video Based Customer Identification process (V-CIP) to conduct KYC of an operator. An authorised official can conduct KYC over video using OTP based Aadhaar e-KYC authentication, Offline Verification of Aadhaar, KYC records from CKYCR or e-document of Officially Valid Documents (OVDs) such as  passport, the driving licence, Voter’s Identity Card , etc.
+
+The Bank must also carry out on-going due diligence. A bank must update an AePS touchpoint operator’s KYC, if they have not performed any financial transaction for a continuous period of six months. Further, the NPCI and the banks must ensure that an AePS touchpoint operator is onboarded only by one acquiring bank.
+
+The Indian Cyber Crime Coordination Centre (I4C) – a cyber-crime wing under the Ministry of Home Affairs – said 11% of all financial cyber crimes in 2023 were related to biometric cloning and the AePS, in January this year .
+
+Minister of State for Finance Pankaj Chaudhary shared that compromised Aadhaar numbers and fingerprint biometrics from land and property registration records were mainly responsible for AePS frauds, on July 30.
+
+The proliferation of Aadhaar numbers and other details into different datasets and in various forms, online or offline copies, has presented vulnerabilities that can be exploited by notorious actors, Member of Parliament John Brittas said in a letter to the Prime Minister, citing experts.
+
+The Unique Identification Authority of India (UIDAI) has taken action and provided a facility to lock a user’s Aadhaar, to prevent misuse of biometrics. However, as per Brittas’ letter , knowledge about features like this is “disturbingly low, particularly among the less educated segment of the population”.
+
+Further, the NPCI has advised AePS member banks to disable AePS for specific categories of accounts and to provide customers with multiple options to enable or disable AePS debit transactions. There is also a Rs. 50,000 limit for cash withdrawal and bhim Adhaar Pay via AePS.
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

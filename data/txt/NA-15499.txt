@@ -1,0 +1,27 @@
+In 2017, Google removed more than 700,000 apps that violated Google Play policies, that is 70% more than the year before. In a post on the Android Developers blog , the company shared details of Google Play’s efforts to protect Android users from misleading, inappropriate, or harmful apps.
+
+To put that number in context, Statista pegs the total number apps on the Play Store at the end of 2017 at 3.5 million. That is 900,000 more than what it was at the end of 2016.
+
+Google attributes these removals to its improved ability to detect abuse “through new machine learning models and techniques.”
+
+“Not only did we remove more bad apps, we were able to identify and action against them earlier,” Google Play product manager Andrew Ahn wrote in the blog post. “ 99 percent of apps with abusive contents were identified and rejected before anyone could install them. ”
+
+Another problem that Google says it tackled in 2017 was repeat offenders and “abusive developer networks at scale.” There were 100,000 such bad developers that were removed, with the company taking other steps to prevent the creation of new accounts.
+
+The blog mentions the three types of apps that Google went after in 2017:
+
+Last year , Google put all of its malware scanning and detection technologies under the label Google Play Protect . With Play Protect the Android operating system automatically performs scans on installed applications to scan for anything that may be malicious, and users can also manually trigger scans of their Android smartphones in the updates section of the Play Store. The Google Play Protect logo also appears on the download page of an app that Google has deemed harmless.
+
+There have been some glaring examples of apps giving Google’s security fence the slip though. In August 2017, the company discovered and kicked out 30 apps that were secretly using the devices they were installed on to perform DDoS attacks . In November it was reported that more than one million people downloaded a fake WhatsApp application within in a week. Earlier this month, the company removed 60 games from the Play Store — some of them meant for children — that were found to display pornographic ads.
+
+Security firm Check Point, this month alone reported malicious flashlight adware apps on Google Play. The issue spanned 22 different flashlight and utility apps with up to 7.5 million downloads.
+
+Google acknowledged that a few bad apps and malicious developers “still manage to evade and trick our layers of defense.” But said that it takes them “extremely seriously, and will continue to innovate our capabilities to better detect and protect against abusive apps and the malicious actors behind them.”
+
+Copycat app pose the biggest threat as they sometimes show up in search results on the Play Store. This is especially true for apps that are region locked where the original app doesn’t even appear in the search results. This could be solved showing the original app in the search results while making it clear that it is not officially available in the region.
+
+The other key issue remains side loading of malicious apps, being an open platform Android allows users to download and install apps from outside its Play Store and the only layer of security is a single setting (enable unknown sources). This has led to users downloading and installing malware masquerading as legitimate apps that steal critical information from their phones. The only way to resolve this issue without compromising the openness of the platform would be to present warning screens on the Chrome browser while downloading unknown APKs (Android app installers).
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

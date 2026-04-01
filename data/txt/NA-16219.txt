@@ -1,0 +1,33 @@
+SUBREDDIT: r/india
+TITLE: Tech for 2020 US Census comes into focus -- What a[R]e India's plans, for our own census in 2021?
+DATE: 2015-01-14
+SCORE: 2
+URL: https://www.reddit.com/r/india/comments/2sdzsd/tech_for_2020_us_census_comes_into_focus_what_are/
+
+--- POST TEXT ---
+
+Drawing your attention to [this](http://fcw.com/articles/2015/01/09/tech-for-2020-census.aspx) story.
+
+Given that sheer number of things that depend on the demographic information in the census - from economic, to social, to administrative strategies... hell, all the way to the manifestation of proportional representation (constituency sizes, and number of representatives allocated for an area in a decision making body) which is the pillar of democracy itself: we are obligated to (or should be at any rate) to put a lot of effort into (continually) improving the census.
+
+The US is already thinking of using technology - even though their census is (only?) 5 years away, and their population is a *fraction* of ours - for the following advantages
+
+of cost savings
+
+&gt; The Census Bureau plans to use the Internet as the primary self-reporting option (as opposed to mail-in forms), and mobile technology to optimize the efforts of the army of field workers who will follow up.
+
+&gt; Officials estimate that improved self-reporting could save $548 million, and that technology to improve the management and productivity of field workers could result in $2.3 billion in savings.
+
+...and fraud protection, (using GPS)..
+
+&gt; It also gives managers the ability to validate the work of enumerators in real time.
+
+&gt;"If we have an interviewer at McDonald's filling out their forms, sitting in one place, we'll know," Blumerman said.
+
+..
+
+&gt; The application approach is also designed to improve the quality of the data collected, by varying the order of questions and possible responses in interviews.
+
+If I was in charge of "Global Business Development" at Infosys, or TCS, I'd seize on this opportunity (the article mentions an RFP having been released) to create the mobile apps, the website, as well as the data handling backend; and then pitch it to the USG. (Not all that far-fetched given they had [major issues in 2010](http://fcw.com/articles/2010/01/25/qa-brian-mcgrath-census.aspx?s=FCWtxt), when they presumably contracted a US IT company :P). If it gets selected, then you've basically gotten paid (on Uncle Sam's dime) to do something which you can then extend to the Indian government - free of cost - and thereby fulfill your CSR responsibilities for 2021 (saving on the CSR budget). Win-win all round, while doing honest work.
+
+Anyone have any ideas on census challenges unique to India? Or even views regarding [sampling data versus standard data](http://www.westwingtranscripts.com/wwscripts/1-06.txt)? Here's the [wikipedia](http://en.wikipedia.org/wiki/2011_Census_of_India) page for our latest census (15th Census in 2011)

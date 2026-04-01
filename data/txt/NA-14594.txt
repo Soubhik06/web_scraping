@@ -1,0 +1,37 @@
+June has turned out to be an eventful month for Microsoft’s security patching team as India’s Computer Emergency Response (CERT-In) brought the Albuquerque-based multinational technology corporation up to task twice in the same month for vulnerabilities across multiple platforms including the new flag ship Windows 11 operating system (OS) and its Edge browser. Microsoft has patched these vulnerabilities since then with two updates, one on June 17 and the other on June 20.
+
+Interestingly, Adobe, the publisher of creative software such as Photoshop and Premier Pro, has also been flagged by the Indian cybersecurity watchdog as having equally severe vulnerabilities as the Microsoft products on the same day (June 16) particularly in creative suite applications inDesign and Illustrator, but according to its security patch notes , Adobe has yet to complete patching all the vulnerabilities described by CERT.
+
+Why it matters: Cyber-attacks have been on the rise since the pandemic started with the Ministry of Home Affairs reporting 12 lakh cyber security incidents in 2020 alone. Some of the more common patterns in attacks all over the world include the exploitation of vulnerabilities in commonly used creative applications, web browsers and operating systems. The fact that CERT-In has flagged these bugs in software used widely around the country should prompt a deeper look into other popular applications, browsers and OSs as well.
+
+“Multiple vulnerabilities have been reported in various Microsoft products, which could be exploited by an attacker to access sensitive information, bypass security restrictions, perform a denial of service (DoS) attack, escalating privileges and perform spoofing attacks or executing arbitrary codes on the target system,” CERT-In said on its vulnerability notes blog.
+
+CERT-In has flagged 90 sensitive bugs in various Microsoft products on June 16. Among these, 36 vulnerabilities were reported in the Windows operating systems including Windows 7, 8.1, 10 and 11. According to the Microsoft security team’s notes , most of these OS vulnerabilities were traced back to the Windows Server 2019 and 2012, both of which are used by Windows 10 and 11.
+
+The chinks and bugs in Microsoft products’ armours also extend to the company’s other popular applications and platforms including the 28 bugs found in the widely popular Azure cloud computing infrastructure, which is used by hundreds of application developers to host their product as it supports dozens of different programming languages, tools, and frameworks.
+
+Microsoft Office and Office 365, which consist of daily usage programs such as Word and Excel, was also reported for having five “high” vulnerabilities between the two of them that could let an attacker execute harmful code that could take over an entire system or disclose sensitive information from a document or spreadsheet without the user’s knowledge.
+
+Listed below are the Microsoft programs and platforms in which CERT-In found these vulnerabilities:
+
+According to CERT-In, there are nine major vulnerable chinks in across six of their most popular applications. If an attacker were to access these weak spots, they could wreak havoc on the user’s system by executing arbitrary code which could in turn allow the attacker further access to the victim’s computer, even allowing them to plant dangerous malware in the system or leak important files from the targeted hard drive. Alternately, the attacker could also mess with the victimized users’ privileges and use them to launch a wider attack on Adobe’s servers. These weak spots are present in both the Mac OS and Windows versions of these products.
+
+“These vulnerabilities exist in Adobe products due to improper input validation, improper authorization, heap-based buffer overflow, out-of-bound write, out-of-bound read and use after free flaws,” the CERT-In vulnerability notes said, adding, “An attacker could exploit these vulnerabilities by persuading the victim to open a specifically crafted file or application.”
+
+Corrupted versions of an Adobe product can appear eerily similar to the real thing and users should practice some caution when using these applications, especially if it is a free or pirated version downloaded from a third-party website.
+
+The vulnerable versions of Adobe products are listed below:
+
+With seven out of the nine vulnerabilities securely patched , Adobe says that updating to the newest versions of these applications would help reduce chances of an outsider attack
+
+While going over CERT-In’s reports, a few probable attack patterns stood out as being common in both the Microsoft and Adobe products. They are listed and described below.
+
+The CERT-In has been in the news over the past couple of months due to the issuance of new cybersecurity directives on April 28 which are applicable for service providers, intermediaries, body corporates, data centers and government organizations. The new directions are listed below.
+
+On June 21, a group representing small and medium scale enterprises reached out to CERT-In and its parent the Ministry of Electronics and Information Technology (MeitY) asking for an extension on the time given to comply with the latter’s cybersecurity directions to 300 days, clarity on how CERT-IN would secure data it has collected, its data logging requirement, and so on.
+
+Read also:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,21 @@
+A forensic investigation of Star Health Insurance’s Data Breach last month has disproved allegations that the Chief Information Security Officer (CISO) colluded with the hacker to leak customers’ personal information, according to a LiveMint report. The hacker group that claimed to possess 7.24 terabytes of data related to over 31 million Star Health customers had also claimed that they had communicated with Star Health’s CISO to access the data.
+
+The forensic investigation found that the hacker fabricated the alleged communication between themselves and the CISO. It found no evidence of wrongdoing and no links between the CISO and the data breach.
+
+In a BSE filing , StarHealth shared that the Risk Management Committee (RMC) and IT Committee (ITC) of the Board of the Company (Committees) held a meeting on October 28, 2024. The committees suggested some additional measures to enhance the information security posture and standards of the company.
+
+The insurer had also appointed an independent firm that was an expert in cybersecurity matters to conduct a forensic investigation into the incident. Star Health shared an executive summary of the report on the completed investigation with the committees.
+
+The company also shared that all known websites and Telegram bots that the hacker used to publicly expose the data were taken down, following orders passed by the Madras High Court and Indian Cyber Crime Coordination Centre.
+
+In September, a hacker group, operating under the alias xenZen , created chatbots providing random samples from the database it allegedly obtained from Star Health. They offered to sell all the data for $150,000. These data samples included Personally Identifiable Information (PII) like policy and claims, documents featuring names, phone numbers, addresses, tax details, copies of ID cards, test results, and medical diagnoses.  At the time, Star Health had shared that there was no widespread compromise of their systems in the data breach and that sensitive customer data remained secure.
+
+The hacker also claimed on their platform that they had colluded with Star Health’s CISO to get access to data. They posted screenshots of both parties allegedly cutting a deal for access to personal data.
+
+The insurer filed a complaint with the Madras High Court against social media platform Telegram for hosting the chatbots that leaked the alleged personal data and also named Cloudflare in its lawsuit for its role in hosting the hacker group’s websites on its service. Subsequently, on October 25 the Madras High Court directed Telegram to delete the chatbots on its platform that the hacker was using to share data, Bar and Bench reported.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

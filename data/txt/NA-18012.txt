@@ -1,0 +1,97 @@
+SUBREDDIT: r/india
+TITLE: India Security News Weekly: Edition 3 - May 26
+DATE: 2017-05-26
+SCORE: 41
+URL: https://www.reddit.com/r/india/comments/6dhl28/india_security_news_weekly_edition_3_may_26/
+
+--- POST TEXT ---
+
+Security Underflow (and this newsletter) is an attempt to break down barriers to knowledge about computer security among the general public. I wish to raise awareness about the risks around us and how to mitigate them or raise questions about them when we see them. Feedback/suggestions are welcome here or you can PM me as well.
+
+A relatively quiet week this time. [Last week's newsletter](https://www.reddit.com/r/india/comments/6c850h/india_security_news_weekly_edition_2_may_20/)
+
+Subscribe at: [tinyletter.com/securityunderflow](https://tinyletter.com/securityunderflow)
+
+[Downloadable PDF for sharing](https://securityunderflow.com/files/newsletter/2017/india-security-news-weekly-3-27-may-2017.pdf)
+
+-------------------------------------------------------------------------------
+
+# The Ticker
+
+Ticker is a collection of interesting security news and happenings in Indian companies and startups.
+
+ - Indian hacker found vulnerabilities to get free tickets across a number of Indian airline companies but sadly no response to ethical disclosures [[Medium](https://medium.com/@kanishksajnani/how-i-could-have-travelled-the-world-for-free-5bb10ac46ae5)]
+
+ - Cloudbric &amp; MahaBharta bring WAF security to Indian IDCs [[SecurityBrief](https://securitybrief.asia/story/cloudbric-mahabharta-bring-waf-security-indian-idcs/)]
+ 
+ - Fledgling Indian cyber security company TAC security onboards ex-IBM VP. [[ET](http://tech.economictimes.indiatimes.com/news/people/tac-security-appoints-ibms-william-h-may/58716800)]
+
+ - Zomato explains how the hack happened (Spoiler Alert: Password reuse) [[Zomato](http://blog.zomato.com/post/160986258541/security-update-what-really-happened-and-what)]
+ 
+ *Ed Notes*:
+ 
+ 1. No mention of the really inadequate password protection schemes Zomato used
+ 
+ 2. Some "Industry experts" are naive enough to try to blame a single employee for this as Deepinder mentions in the blog post
+ 
+ 3. Readers should read the last week's newsletter to know more about password management. Seriously, go do this now if you aren't using a password manager.
+ 
+-------------------------------------------------------------------------------
+
+# Policy Water cooler
+
+We cover the policies and other news that concerns the Indian government and citizens en masse here.
+
+ - No takers for EVM hacking challenge yet: AAP, BSP, Cong quiet as deadline looms [[HT](http://www.hindustantimes.com/india-news/ec-sources-say-no-party-has-come-forward-to-take-part-in-evm-hackathon-yet/story-ZqqhXyta6mMnVGx4A2U2gL.html)]
+ 
+ - India likely to sign cyber security pact with Spain, Germany during PM Narendra Modi's visit [[ET](http://economictimes.indiatimes.com/articleshow/58831565.cms)]
+ 
+ - India, Israel to enlarge web of ties, institutionalise cyber security dialogue [[HT](http://www.hindustantimes.com/india-news/india-israel-set-to-enlarge-web-of-ties/story-zE5EZAxjGDTvRXmHMXwWEO.html)]
+
+-------------------------------------------------------------------------------
+
+# World
+
+This section takes a look at the top security news around the world which impact most of us.
+
+**[Hacking the Samsung Galaxy S8 Iris Scanner](https://media.ccc.de/v/biometrie-s8-iris-en)**
+
+Hackers were able to bypass Galaxy S8's Iris Scanner by using a picture of the owner’s eye with a contact lens placed on top of it, to mimic the curvature of a physical eyeball. Unfortunately eye/face detection technology has been marred with loopholes and controversies often. They were trivially bypassed with simple photos earlier. Industry has added "liveness" detection to thwart it but it seems that those can be bypassed as well given sufficient interest in the hacker community. 
+
+**[Linux Sambacry](https://arstechnica.com/security/2017/05/a-wormable-code-execution-bug-has-lurked-in-samba-for-7-years-patch-now/)**
+
+After a torrid couple of weeks of the world reeling with the impact of WannaCry worm, it's turn of Linux now. Culprit this time is Samba (an implementation of Windows SMB protocol). As in Windows' case, this was an old flaw (7 year old to be precise) and patches exist as well. But as is usual, many folks didn't apply them. Hardest hit though are some NAS vendors who hadn't even released a patch for this yet. Synology released a patch couple of days ago now. If you have a linux system or NAS, make sure to install the patch NOW.
+
+-------------------------------------------------------------------------------
+
+# Events
+
+Details on upcoming security conferences and other events around India.
+
+ - [Cyber Security Summit INdia](http://www.cybersecuritysummitindia.com/): Mumbai, 15th Jun '17
+
+ - [IFSEC India](http://www.ifsec.events/india): New Delhi, 16-18 Dec '17
+
+-------------------------------------------------------------------------------
+
+# Inquisitive mind
+
+Take the blue pill and save yourself. Or take the red pill and we'll show you how deep the security rabbit hole goes.
+
+&amp;nbsp;
+
+**References**
+
+*Iris Scanner*: A camera based technology based upon a premise that every person has a different iris and thus detecting these different patterns can uniquely identify the owner of the device.
+
+&amp;nbsp;
+
+ **Recommended reading this week**
+
+[What is phishing](https://www.microsoft.com/en-us/safety/online-privacy/phishing-symptoms.aspx)
+
+[How was Barclay's CEO phished](http://www.businessinsider.com/barclays-ceo-jes-staley-email-pranked-by-fake-chairman-john-mcfarlane-2017-5?IR=T)
+
+-------------------------------------------------------------------------------
+
+-SecurityUnderflow

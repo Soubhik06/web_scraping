@@ -1,0 +1,17 @@
+SUBREDDIT: r/india
+TITLE: About Aadhaar.
+DATE: 2018-03-11
+SCORE: 0
+URL: https://www.reddit.com/r/india/comments/83nwjm/about_aadhaar/
+
+--- POST TEXT ---
+
+Can we just keep aside the hate for a while?
+
+UIDAI is right about that fingerprints that exists on their server hasn't been compromised, only people's data was taken in an illegal way using authentication, but that doesn't mean the database of people's biometrics data is compromised. 
+
+A marchant can only access people's details using demographic (banks, telephone companies) or using otp, biometrics authentication. The fingerprint shouldn't be stored at merchant's side.
+
+Though I still don't find their database to be secured as they claim but there hasn't been any claims on their biometrics database leak, the details were obtained in an illegal way to which they responded back with FIRs after finding out. 
+
+UIDAI's statement: https://twitter.com/UIDAI/status/972828886097526787

@@ -1,0 +1,25 @@
+A Pakistan-linked hacker group has been targeting critical sectors in government, defense, and aerospace sectors in India, revealed a report from Blackberry , a cybersecurity intelligence firm. The group, which is labeled as an Advanced Persistent Threat (APT), is called Transparent Tribe and targets clients of the Department of Defense Production (DDP), specifically those in the aerospace sector, through phishing emails. “Transparent Tribe’s targeting during this time has been quite strategic. The group’s primary focus during this period was on the Indian defense forces and state-run defense contractors. Historically, the group has primarily engaged in intelligence gathering operations against the Indian Military,” said the report.
+
+Blackberry discovered the group’s activities through its continuous hunting efforts across the Asia-Pacific region and reported that the malicious attempts had occurred from late 2023 to April 2024. The unnamed targets included one of largest aerospace and defense companies in Asia, a state-owned aerospace and defense electronics company, and Asia’s second-largest manufacturer of earth moving equipment, alongside key individuals within the DDP.
+
+It is unknown how successful the cyber attack was, as is the volume and nature of the documents extracted. However, Blackberry expects the group to persist in its activities. The report also mentions that the group has rapidly been adapting and evolving its toolkit over the years.
+
+“Our investigation reveals Transparent Tribe has been persistently targeting critical sectors vital to India’s national security. This threat actor continues to utilize a core set of Tactics, Techniques, and Procedures (TTPs), which they have been adapting over time. The group’s evolution in recent months has primarily revolved around its utilization of cross-platform programming languages, open-source offensive tools, attack vectors, and web services,” stated Blackberry.
+
+The report states, “Based on the sample set we looked at, Transparent Tribe primarily employs phishing emails as the preferred method of delivery for their payloads, utilizing either malicious ZIP archives or links.”  The payloads would then install programs onto the target system that would extract documents.
+
+Blackberry also discovered a new “all-in-one” espionage tool, which is a downloader written in that, upon execution, retrieves two files – a PDF that acts as a lure and a payload with the capacity to exfiltrate a wide range of files.
+
+Also known as APT36, ProjectM, Mythic Leopard, or Earth Karkaddan, Transparent Tribe is a cyber espionage group operating with a “Pakistani nexus”. According to the report, the group has a history of conducting cyber espionage operations against India’s defense, government, and education sectors.
+
+Blackberry observed a significant overlap in this campaign with previous Transparent Tribe activities, including code reuse and a similar network infrastructure. The analysis indicated that the threat actor set the time zone in one of their files to “Asia/Karachi,” which is Pakistan Standard Time. Additionally, an ISO image from one of their attacks, first seen in early October was traced to Multan, Pakistan. The researchers also discovered a remote IP address embedded within a spear-phishing email that was associated with mobile data network operator CMPak Limited, which is Pakistan-based and owned by China Mobile. Further, the strategic targeting of India’s defense sector is in clear alignment with Pakistani geopolitical goals.
+
+The report also argued that the group was related to the deployment of malicious ISO images against entities in India by uncategorized threat actors, which occurred earlier this year. The target of these attacks was believed to be the Indian Air Force, occurring around the same time the Indian government decided to modernize its air force capabilities, including procuring new jets and upgrading its existing fleet.
+
+Transparent Tribe also appeared in an Amnesty International report in 2018, where it was alleged to have compromised the personal devices of Pakistani human rights activists.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

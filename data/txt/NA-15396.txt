@@ -1,0 +1,31 @@
+“End-to-end encryption of messaging directly enables the right to privacy, which in turn enables other rights such as freedom of expression, association, opinion, religion, movement, and bodily security,” Business for Social Responsibility (BSR) said in its report on the impact of end-to-end encryption (E2EE) published on April 4.
+
+While end-to-end encryption is being promoted by companies and civil groups for its privacy benefits, governments and law enforcement agencies have been against it because E2EE makes it hard for them to track down criminals. The BSR report lays out the arguments that exist on both sides of this debate.
+
+BSR’s report was commissioned by Meta (formerly Facebook) in October 2019 to undertake a human rights impact assessment of extending E2EE across Meta’s messaging services–WhatsApp, Messenger, and Instagram DM–based on the UN Guiding Principles on Business and Human Rights .
+
+Dear reader, we urgently need to build capacity to cover the fast-moving tech policy space. For that, our independent newsroom is counting on you . Subscribe to MediaNama today, and help us report on the policies that govern the internet.
+
+Without getting into the technical aspects of it, end-to-end encryption can be seen as a way to scramble messages such that only the sender and the recipient can decipher them. Messages are encrypted using complex cryptographic methods on the device of the sender and decrypted on the device of the recipient, and even the company providing the messaging service cannot view the contents of messages.
+
+Currently messaging services like WhatsApp and Signal have E2EE enabled by default, Facebook Messenger offers voluntary opt-in for each message thread, and Instagram DM is testing E2EE.
+
+In order for third parties to gain access to the contents of a message sent using E2EE, they must go directly to a party in the conversation, have physical access to the device, or have hacked into the device itself via spyware or other means, the report explained.
+
+The report also examined the possible human rights risks that end-to-end encryption makes difficult to detect:
+
+“This debate sets two opposing groups against each other in the name of two potentially competing human rights—privacy and security. In this debate, a “privacy side” makes the case that end-to-end encryption provides vital protections to users in an age of mass surveillance and pushes law enforcement toward more targeted and rights-respecting intelligence and evidence gathering; meanwhile, a “security side” argues that end-to-end encryption provides a safe haven for criminals, terrorists, traffickers, and child abusers, and makes it more difficult to bring these groups to justice,” the report stated.
+
+“BSR’s assessment is that in and of itself, end-to- end encryption does not “cause” or “contribute” to (i.e., enable, facilitate, incentivize, or motivate) harm because nearly all the adverse human rights impacts that could be attributed to end-to-end encryption already occur in non-end-to-end encrypted messaging.” – BSR report.
+
+One of the most challenging debates related to end-to-end encryption is whether companies should scan messages to detect and report child sexual abuse material, the report stated.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,31 @@
+The Indian Banks’ Association (IBA) sought greater authority from the Reserve Bank of India (RBI) to freeze bank accounts operating as money mules in cyber fraud and other illegal activities. IBA’s suggestions came as part of its broader framework , “To Protect the Interest of End Users from the Menace of Money Mule Accounts.”
+
+For context, money launderers typically deploy mule accounts to transfer money acquired through illegal fronts like drug and human trafficking. Such accounts are identifiable through unusual transaction patterns like frequent international transfers, high-velocity transactions, sudden spikes in activity, and multiple counterparties.
+
+As per IBA’s paper, several regulatory guidelines tackle the misuse of bank accounts in India:
+
+Besides KYC and CDD, banks and financial institutions use a variety of systems to combat mule accounts. These include deploying a Transaction Monitoring System (TMS), Suspicious Transaction Reporting (STR), sanctions screening (cross-referencing entities against blacklists of sanctioned parties), and cross-border transaction alerts. However, these actions are beset with challenges like high false positives, limited data integration, the sophistication and evolution of criminal networks, and resource constraints.
+
+After outlining the mechanism for tackling fraud, the IBA suggested measures to better tackle mule accounts involved in cyber fraud.
+
+The Association called on the RBI to permit the usage of Voter IDs as officially valid documents (OVDs) to open bank accounts only if they have been validated with the Election Commission of India (ECI) database. Moving forward, the IBA also recommended a cap on the volume of transactions allowed through accounts opened with Form 60, since annual income is a major parameter for red flag indicators, as per the body. This form is used by citizens who lack a PAN card to undertake financial transactions or create bank accounts in India.
+
+Further, banks can freeze accounts or the fraud amount upon directions from the cyber police based on a complaint filed on the cybercrime portal. In certain cases, they can also freeze or block accounts based on internal triggers, provided they obtain proper authorisation from law enforcement agencies (LEAs) beforehand. Consequently, the association suggested accommodating all bank cyber teams under one line to enable faster access to freezing accounts on a real-time basis depending on immediate fraud reporting.
+
+The IBA also urged the Union Government to grant customers hassle-free access to the I4C portal, with minimal input requirements. Additionally, customers should have the ability to file a dispute with transactions in the respective bank’s e-platform while reporting the same to the I4C portal in real time.
+
+Finally, the IBA recommended that the Telecom Regulatory Authority of India (TRAI) restrict the issuance of multiple mobile numbers to a single individual and impose a limit on the same. This was based on the Association’s observation that individuals can open several bank accounts using combinations of different OVDs and separate mobile numbers.
+
+Besides these sector-specific suggestions, the IBA proposed data-driven detection systems, strengthening of pre-onboarding checks, portfolio and transaction monitoring, and real-time data sharing, among other measures, to curb the usage of mule accounts. The Association also advocated leveraging AI/ML technologies to improve detection capabilities and alert generation. To facilitate this, it called on banks to adopt such transaction monitoring systems, ensure staff training to comprehend AI-generated alerts, and adhere to existing regulatory standards while doing so.
+
+IBA’s framework comes as the Union Government froze approximately 4.5 lakh mule bank accounts exploited for laundering cybercrime proceeds, as reported by The Indian Express. Recently, India’s Directorate of Enforcement (ED) also filed a supplementary prosecution complaint in a 2024 cyber fraud case wherein criminals laundered Rs 303 crore to crypto wallets via mule accounts through the UAE-based payment platform PYYPL.
+
+Taking stock of these rising complaints, in December 2024, RBI’s subsidiary unit, the Reserve Bank Innovation Hub (RBIH), unveiled MuleHunterAI as an alternative to the previous static, rule-based system to tackle financial fraud. Notably, the issue has also been spotlighted by the judiciary recently, with the Delhi High Court urging the MHA to develop a uniform policy and standard operating procedures (SOPs) to address the blanket freezing of bank accounts. Further, the Court observed that âinnocent recipients bear the bruntâ of such freezes, which cause adverse financial consequences and other hardships.
+
+Overall, as concerns around the indiscriminate freezing of bank accounts connected with cyber fraud rise, it will be interesting to see how banks and other authorities incorporate the IBA’s recommendations, and how customers navigate the growing menace of mule accounts.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

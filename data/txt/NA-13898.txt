@@ -1,0 +1,43 @@
+Update (6 September, 1:40 pm): MeitY has taken down the draft MSG guidelines from its website. It’s not clear if the guidelines are still open for consultation or/and if MeitY will reupload the draft.Â
+
+The Ministry of Electronics and Information Technology (MeitY) on July 20 released draft security guidelines for mobile devices open for public consultation until September 21, 2022. Called the Mobile Security Guidelines (MSG) , the document outlines various voluntary measures that participants in the mobile ecosystem can adopt to ensure the security of mobile devices, applications, networks, and services and the privacy of users.
+
+“Mobile application-based services in every domain including education, health and social media have become integral part of daily life of Mobile Users of all age groups and genders. The exposure risk of Mobile Phone Users gives rise to security threats of sensitive information loss and misuse of personal data by adversaries. Therefore, privacy and personal data protection of mobile user are of utmost importance. […]Â The central objective of MSG is to ensure privacy, protect sensitive data and provide security of transactions of every mobile device user, by following the mobile security control measures prescribed for various stakeholders involved in the mobile service ecosystem.” â MSG Draft
+
+Who prepared the draft:Â The draft has been prepared by the Working Group on Mobile Device Security (WG-MDS), which was set up by MeitY, in coordination with the Centre for Development of Advanced Computing (C-DAC) and Standardisation Testing and Quality Certification (STQC).
+
+How to participate? : Interested stakeholders can submit their feedback toÂ Pallavi D, Joint Director, CDAC Pune and Member Convener of the Working Group at the email-id: pallavid[at]cdac[dot]in and cc to headits[at]stqc[dot]gov[dot]in .
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+Mobile Security Guidelines (MSG) are prescribed to ensure the achievement of “ mobile security goals ”Â and protect the “ data privacy of mobile users “:
+
+The MSG draft state that the personal data of a mobile user is to remain private to the mobile user and protected as per the Personal Data Protection (PDP) Act 2019. Interestingly, the PDP Bill was withdrawn from the parliament a few days after these guidelines were published. Nevertheless, the MSG draft adopts many of the data security and privacy measures proposed in the PDP Bill including rules around consent, purpose limitation, transfer of sensitive personal data, transfer of data to third parties, etc. A few of the privacy measures include:
+
+Threat actors, which includes adversaries, attackers, hackers, intruders, interceptors, impersonators, eavesdroppers, malware, spyware, virus etc. intend to identify vulnerabilities in the mobile ecosystem and exploit them to gain unauthorised entry into mobile devices.Â Vulnerabilities are weaknesses, gaps or loopholes in protective systems or mechanisms or interfaces, which can be exploited by threat actors. The MSG draft classifies mobile device security vulnerabilities as:
+
+Mobile Security Control Measures (MSCM) are countermeasures to prevent mobile security threats from adversaries and to avoid exploitation of mobile security vulnerabilities. These measures are classified into three categories
+
+The MSG draft predominantly focuses on technology-based measures, which are further classified as:
+
+Mobile Device Security:Â These measures apply to mobile hardware, firmware, operating system, and pre-installed apps. The measures especially focus on threats applicable to the operating system and SIM. “As Mobile Operating System and Subscriber Identity Module (SIM) are significant, so their security threats, vulnerabilities and control measures are presented in separate sections. SIM is a gateway for a mobile device connected world and a potential target by adversaries to steal mobile user identity and commit frauds, so it needs to be properly protected,” the draft states. Some of the prescribed measures include:
+
+Mobile Communication Security:Â These measures aim to address mobile communication-based vulnerabilities. “In general, mobile devices are constantly connected to the internet. The end-users might use untrusted public networks, which may enable malicious parties to access and intercept transmitted data through rogue access points,” the draft states.Â Communications security involves defence against the interception of communication transmissions through means like crypto security (encryption or decryption), transmission security, emission security, and physical security.
+
+The guidelines state that the evolving and latest standards issued by standard-setting bodies like the ITU, IMT, 3GPP, ETSI, TSDSI, IEEE, NIST, LORA, NFC Forum, and Global Platform need to be followed for the various aspects of mobile and wireless communication such as WiFi, Near Field Communication (NFC), Radio-Frequency Identification (RFID), Bluetooth, QR code, GPS, GSM (3G/4G/5G), SMS, Voice over Internet Protocol (VoIP), etc.
+
+Mobile Services Security:Â Mobile service-based vulnerabilities include security vulnerabilities present in old versions of mobile web browsers, operating systems, applications, APIs and mobile interfaces, unencrypted data storage, etc. Measures to address these include:
+
+The draft guidelines outline requirements and operating procedures for mobile device security testing and mobile device forensics. These are primarily targeted at mobile device security testing organizations and labs.Â “Mobile Security Testing is necessary to gain the confidence that the mobile device, Firmware, OS, mobile communication and mobile apps within the mobile device are able to counter the various threats and vulnerabilities highlighted in MSG,” the draft states.
+
+In addition to outlining how to carry out testing and the various methods and tools, the guidelines also discuss how to carry outÂ mobile forensics for data recovery for cybercrime purposes and cryptanalysis, which is the study of cryptographic security systems to gain access to encrypted messages, even if the cryptographic key is not known.
+
+The MSG draft guidelines conclude by providing comprehensive checklists (based on measured outlines throughout the MSG) for all the various affected stakeholders such as device manufacturers, mobile users, app developers, network providers, regulators, testers, etc. Â “The adoption of the prescribed guidelines with checklists provided for each category of entities would ultimately ensure enrichment of mobile userâs experience towards secure and trust-worthy mobile services with privacy protection,” the draft states.
+
+This post is released under aÂ CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

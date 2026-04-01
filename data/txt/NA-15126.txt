@@ -1,0 +1,29 @@
+Sensitive data of over 280 million Indian citizens was allegedly left exposed for an unknown period of time, Bob Diachenko, a cybersecurity researcher at SecurityDiscovery.com, reported on August 2. According to Diachenko, the data appeared to be part of the Universal Account Number database. UAN is allotted by the Employees’ Fund Organization (EPFO), which is one of the two government bodies responsible for the regulation and management of provident funds in India. MediaNama has not been able to independently confirm the veracity of this disclosure. MediaNama has reached out to EPFO to confirm or deny the allegations and will update this piece once we get a response.
+
+The exposed database was taken down within 12 hours of Diachenko tweeting about it, but it’s not known for how long this information was exposed before search engines indexed them, the researcher said.
+
+[BREACH ALERT] 280M+ records in this Indian database, publicly exposed. Where to report? @IndianCERT ? pic.twitter.com/lkY55epCyy
+
+— Bob Diachenko 🇺🇦 (@MayhemDayOne) August 2, 2022
+
+Why does this matter? If the allegations are true, this could be one of the largest data breaches given that over 280 million records were exposed. These records contained sensitive details like address, bank account number, income levels, Aadhaar details, etc. Even though the records are no longer exposed, it is not known if someone had accessed and downloaded them during the period that it was. This incident also sheds a bad light on the security and privacy practices of government institutions, who collect and store a trove of personal data of Indian citizens.
+
+“From what I understood, information from the database could have been used to put together a complete profile of an Indian citizen and make them a target for a phishing or scamming attack.” — Diachenko told TechCrunch .
+
+What do we know about the data breach? “On August 2nd, 2022, an internal report caught my attention. Our systems identified 2 (two) separate IPs with passwordless Elasticsearch clusters containing indices called “UAN”. After quick review of the samples (using a simple browser), I was sure that I am looking at something big and important. First IP with Elasticsearch cluster contained 280,472,941 records. Second IP contained 8,390,524 records,” Diachenko explained. According to the researcher, each record had the following structure:
+
+Who is the owner of the data? “It was not immediately clear as of who is the owner of data. Both IPs were Azure-hosted and India-based. No other information was obtained though reverse DNS analysis as well. Both Shodan and Censys search engines picked them up on Aug 1st,” Diachenko said. “As of Aug 3rd, I did not hear back from any agency or company who would claim responsibility for the data found,” Diachenko added. Elsewhere on Twitter, cybersecurity experts have pointed out that this data could be from the e-Shram database for gig workers or from a 2018 breach involving EPFO.
+
+28 crores of migrant and informal workers data, likely registerted part of e-shram card creation process was publicly available. Waiting what CERT-IN does to investigate it. #cybsersecurity
+
+— Srinivas Kodali (@digitaldutta) August 3, 2022
+
+https://twitter.com/divijualsuspect/status/1554968899246034945?s=20&t=nxLmCiwXRBokbjs-FYpmXg
+
+What happened in 2018: In March 2018, the Central Provident Fund Commissioner wrote a “secret” letter to the Ministry of Electronics and Information Technology revealing that EPFO data was stolen by hackers exploiting the vulnerabilities prevailing in the Aadhaar seeding website of EPFO. The Commissioner asked for immediate assistance in fixing the vulnerabilities. EPFO, however, issued a press release on May 2 rejecting claims of any data breach.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

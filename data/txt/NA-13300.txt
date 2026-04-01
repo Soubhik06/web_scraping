@@ -1,0 +1,21 @@
+The Unique Identification Authority of India (UIDAI) has advocated for the use of the Aadhaar biometric database for face authentication to process high-value financial transactions, according to a report by the Economic Times. “UIDAI is the foundational infrastructure. It’s the only way to surely know who is who. We have the world’s largest biometric database. We advocate very strongly the use of face authentication as a modality in the multi-factor assessment,” UIDAI’s Deputy Director General Abhishek Kumar Singh said during a panel discussion at the Global Fintech Festival in Mumbai.
+
+Singh mentioned that the National Payments Council of India (NPCI) is already in the process of implementing this system, urging banks to onboard face authentication via Aadhaar as well. His comments come in the context of the recent Reserve Bank of India (RBI) directions on authentication mechanisms for digital payments. As part of these directions, the RBI mandated two-factor authentication for all domestic payments starting April 1, 2026.
+
+Based on the directions, the factors for authentication can fall under three key categories:
+
+With UIDAI being on board for Aadhaar data-based face authentication, this form of authentication could start becoming more common. Already, companies are starting to incorporate this form of verification, with fintech firm Razorpay collaborating with Yes Bank to use fingerprint and face ID authentication to process transactions.
+
+The reliance on Aadhaar’s biometric database for processing transactions is not new. In 2011, the NPCI launched the Aadhaar-enabled payments system (AePS), which relies on biometrics to authenticate transactions. The AePS system includes micro ATMs operated by banking correspondents to deliver last-mile banking services and reach the unbanked and under-banked masses in rural India. Speaking to MediaNama in 2020, Srikanth L, of Cashless Consumer, mentioned that, in most cases, people authenticate transactions using fingerprint readers, since bank correspondents do not typically have iris scanners.
+
+The existence of such a system gives us a window into the effectiveness of relying on biometrics as a means of processing financial transactions. From the data available in the public domain, such systems are far from foolproof. AePS contributed to 11% of cyber-enabled financial crimes in 2023 , according to the Indian Cyber Crime Coordination Centre (I4C), a cyber-crime wing under the Ministry of Home Affairs.
+
+Besides this, there have been reports of bad actors across multiple states in India cloning Aadhaar-linked fingerprints to withdraw money from people’s bank accounts. While the government has denied reports of fingerprint cloning, it has confirmed that leaks of compromised Aadhaar numbers and fingerprint biometrics, mainly through land and property registration records, were key reasons behind AePS fraud.
+
+No matter how these frauds occurred, they are indicative of a systemic vulnerability in biometric-based authentication systems, raising serious concerns about expanding their use for high-value financial transactions. The push for face authentication through Aadhaar, while positioned as a security enhancement, may inadvertently amplify existing risks rather than mitigate them. Unlike passwords or PINs, which can be changed if compromised, biometric data is immutable. Once someone’s fingerprint or facial biometric is cloned or their Aadhaar data is leaked, they cannot simply reset their face or fingerprints. This creates a permanent security vulnerability for affected individuals.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

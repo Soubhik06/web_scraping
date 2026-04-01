@@ -1,0 +1,43 @@
+Meta is facing a cease and desist from the advocacy group None of Your Business (NOYB) in the European Union for relying on user data to train its AI models. This comes after Meta announced in April this year that it would start training its models on public content from its platforms—such as public posts, comments, and people’s interactions with Meta AI.
+
+NOYB explains that Meta is using an opt-out approach for processing personal data—in which users automatically agree to let the company process their data. To implement such an approach in the EU, companies must show that they have a legitimate interest in their data processing activities. For instance, a bank may install CCTV cameras to prevent theft because it has a legitimate interest in keeping money stored at its locations safe.
+
+Meta has argued that it has the same legitimate interest for processing user data through the opt-out approach. However, NOYB says this justification is not applicable in this situation. It cites a previous case where the Chief Justice of the European Union held that Meta cannot rely on legitimate interest for personalized advertising within a platform, as users do not have a reasonable expectation that their data will be used for such a purpose.
+
+“The European Court of Justice has already held that Meta cannot claim a ‘legitimate interest’ in targeting users with advertising. How should it have a ‘legitimate interest’ to suck up all data for AI training? While the ‘legitimate interest’ assessment is always a multi-factor test, all factors seem to point in the wrong direction for Meta ,” NYOB founder Max Schrems says in the press release discussing Meta’s move.
+
+This cease and desist comes as the EU released its AI Action Plan , which speaks of the significance of AI companies having access to usable, high-quality data. As part of the plan, the European Commission wants to build Data Labs and launch a Data Union Strategy to bring together datasets from across sectors. This conflicts with the GDPR which places restrictions on how companies can use personal data. Even NYOB acknowledges that the EU is currently “pushing hard for less regulation and more ‘innovation’ at any costs.”
+
+This isn’t the first time that NOYB has pushed back against Meta’s attempts to train its models on people’s data in the EU. In June last year, the advocacy group filed complaints against Meta in 11 countries in response to its plans to train models on user data using an opt-out approach.
+
+Soon after, Meta delayed plans to train models on EU users data following a request from the Irish Data Protection Commission. The company directly addressed the fact that it had relied on the legitimate interest defence for model training, stating that other industry players had also used the same. Further, Meta mentioned that its opt-out approach was easier than those of other AI companies already training models on EU user data.
+
+In July, the company said it would not release its multi-modal Llama model in the EU, citing the region’s unpredictable regulatory environment as the reason behind its decision.
+
+NOYB argues that Meta’s opt-out approach will likely prevent compliance with GDPR rights such as the right to be forgotten, the right to rectify incorrect data, and the right to access one’s data in an AI system. It further adds that Meta provides its models as open source, which means it will not be in a position to recall or update a model once it is published.
+
+NOYB says that while Meta claims compliance with GDPR would make AI training in the EU impossible, all it needs to do is switch to an opt-in approach. If the company provides users with clear conditions for model training, many users are likely to give consent. Even if only a small percentage of users opt in, Meta’s massive user base means that consent from just 10% would still allow its models to learn EU languages and regional information.
+
+“Meta’s absurd claims that stealing everyone’s personal data is necessary for AI training are laughable. Other AI providers do not use social network data—and generate even better models than Meta,” Schrems said, seemingly in response to Meta’s claim that other AI players also rely on opt-out approaches.
+
+NOYB mentions that many data protection authorities have informed Meta that it should urgently opt out of AI training. Meta itself has said that it is engaging with EU regulators on using social media data for training. However, according to NOYB, data protection authorities have largely remained silent on the legality of such training without consent. This creates uncertainty about the regulatory stance.
+
+“We are currently evaluating our options to file injunctions, but there is also the option for a subsequent class action for non-material damages,” Schrems said, explaining how the group plans to proceed with its cease and desist letter.
+
+“Noyb’s arguments are wrong on the facts and the law. Our approach complies with the clear guidance set out by the European Data Protection Board – which reflects consensus among EU data protection authorities – and follows extensive and ongoing engagement with the Irish Data Protection Commission,” A Meta Spokesperson said in a statement shared with MediaNama.
+
+They mentioned that the company has provided EU users a clear way to object to their data being used for training AI at Meta, adding that the company notifies people via via email and in-app notifications that they can object at any time. “Noyb’s copycat actions are part of an attempt by a vocal minority of activist groups to delay AI innovation in the EU, which is ultimately harming consumers and businesses who could benefit from these cutting-edge technologies,” the spokesperson added.
+
+In India, Meta updated its policies in December 2023 to indicate that it would use public data for model training. Unlike their EU counterparts, Indian users do not have the right to opt out of data processing. Under India’s Digital Personal Data Protection Act, 2023, companies can use publicly available personal data without consent or adherence to the act’s other provisions. However, Indian users can request that companies stop using their personal data shared with third parties . The company does not automatically accept these requests, but rather reviews them based on local laws.
+
+AI companies must seek user permission to process non-publicly available personal data. Furthermore, draft rules released earlier this year to operationalize the act state that social media companies will have to delete the personal data of inactive individuals after three years.
+
+MediaNama has sent questions to Meta about its model training approach and will update this story with their responses.
+
+Update, May 17, 2025, 11:16 AM: The story was updated with additional context based on editorial input and with a statement from Meta’s spokesperson.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

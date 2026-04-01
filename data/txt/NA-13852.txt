@@ -1,0 +1,37 @@
+The Reserve Bank of India (RBI) has asked Visa and Mastercard to stop card-based business-to-business payments routed through fintech firms, Reuters reported on February 14. This only impacts commercial payments routed through certain third parties and not all corporate card payments, the report added.
+
+The central bank has not publicly shared any circular on this. Because of this lack of transparency, it is difficult to understand the reasons behind this move and which fintech companies and services stand to be affected.
+
+Update (February 16, 7:30 am): RBI on February 15 evening issued a press release related to this development. As per this release, the central bank issued directions to one card network because the arrangement between the card network and fintech entities operated in violation of the Payment and Settlement Systems (PSS) Act, 2007. While RBI did not name the card network, it appears to be Visa since it has confirmed receiving the direction.
+
+Financial journalist Arti Singh, who first broke this news on X , reported that Business Payment Service Providers (BPSPs) are affected by this direction, and fintech companies like EnKash, Paymate, Karbon, Happay, and Kodo operate in this segment.
+
+BPSPs allow businesses to use cards to make payments to non-card-accepting vendors and suppliers. Essentially, businesses can pay the BPSP using a credit card, and the BPSP transfers money to the suppliers via regular bank transfer channels such as NEFT and RTGS.
+
+If only BPSPs are affected, corporate card payments to entities that directly accept cards should go through as usual.
+
+According to an unverified copy of RBI’s instruction to Visa and Mastercard, the central bank has sought the following details from the two card networks:
+
+“Visa received a communication from the RBI on February 8, in what appears to be an industry-wide request for information on the role of business payment solution providers (BPSPs) in commercial and business payments. That communication included direction that we hold all BPSP transactions in abeyance. ” a Visa India spokesperson told Reuters.
+
+“There’s some miscommunication or misrepresentation to RBI, otherwise there’s no reason they would be doing this. This is coming from a point of view that there are quite a bit of transactions happening in the ecosystem in the name of tuition fees, rental payments and the likes of it…which is becoming too large to manage. RBI’s concerns might be the source of the money and where it is going,” a senior official, whose fintech company is impacted by this decision, told journalist Arti Singh.
+
+Representatives from Visa, Mastercard, and some banks met with the RBI officials on February 14 to clarify its concerns, MoneyControl reported.
+
+For more on this, check out the following reports:
+
+This is the latest move of the RBI impacting the fintech ecosystem and it comes a few weeks after the central bank clamped down on Paytm Payments Bank, leaving its associate company Paytm in dire straits. Over the last few years, multiple actions by the RBI have created uncertainty for the fintech and payments ecosystem. Last year, RBI’s surprise ban on 94 lending apps left the fintech lending ecosystem worried . The year before that, RBI’s norms on credit lines through prepaid payment instruments (PPIs) disrupted the wallets and prepaid card ecosystem. In 2022, we got the recurring mandates and tokenisation requirements for credit and debit cards that impacted all businesses that took payments via cards. Even before that, RBI introduced the data localisation mandate that left card networks unable to issue new cards for a long period.
+
+Again, very disruptive stance by RBI. Very uncharacteristic. I believe better to identify errant folks and warn or work with them… When the startups are like hello we haven't even received any communication from RBI, it is concerning.
+
+Big banks need to be disrupted, dear @RBI . https://t.co/oRsVx34dQh
+
+— Deepak Shenoy (@deepakshenoy) February 14, 2024
+
+Also Read
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

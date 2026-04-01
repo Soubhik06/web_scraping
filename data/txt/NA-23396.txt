@@ -1,0 +1,69 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Paytm sells PayPay, a company close to IPO, probably as a favour to SoftBank. A fun read.
+DATE: 2024-12-20
+SCORE: 19
+URL: https://www.reddit.com/r/IndiaInvestments/comments/1hij6gb/paytm_sells_paypay_a_company_close_to_ipo/
+
+--- POST TEXT ---
+
+*Original Source:* [*https://boringmoney.in/p/paytm-sells-paypay-weird*](https://boringmoney.in/p/paytm-sells-paypay-weird?utm_source=reddit&amp;utm_medium=social+media&amp;utm_campaign=paytm+sell+paypay) *(my newsletter Boring Money. If you like what you read, do visit the original link to subscribe for free and receive future posts directly in your inbox)*
+
+\--
+
+If you were to plot the risk of owning a company’s stock against its lifetime it would look something like this:
+
+[Image URL](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9a1eab7-1814-4a30-b011-319fe6b9a314_1024x768.png)
+
+The younger a company, the riskier its stock. As it lives its life, figures its lessons, makes some money, that risk tends to go down. It’s still risky to own the stock! Just a little bit less. Somewhere in between its transition from extremely risky to a little-less risky, there is a magical blip in a company’s lifetime where its stock is probably the least risky to own. Right before it goes public! \[1\]
+
+One reason a young company has more risk is that its future is uncertain. The founders might fight! Or the product might be a scam! But another reason is that the stock of a company is illiquid. If you’re an investor in a young company, you can’t just go out in the open market, sell the company’s stock and call it a day. \[2\]
+
+But once a company has decided to go public and done all the good stuff—brought in bankers to market the stock, decided on how much money it wants to raise, agreed on a valuation—there is a brief period where the investor avoids the second kind of risk. You’re still an investor in a private company with illiquid stock, but now you know for sure that there are buyers lined up for you to sell your stock to. That liquidity makes your stock less risky and more valuable.
+
+If you own a company’s stock in this pre-IPO period, I don’t know, you probably want to sit tight and revel in this magical feeling of risk-free(ish) stock ownership?
+
+Well, earlier this month, Paytm sold its stake in PayPay, a Japanese fintech company which is the country’s largest mobile payments app. Here’s a snippet from its stock exchange [filing disclosing the sale](https://www.bseindia.com/xml-data/corpfiling/AttachHis/12109acb-b6c7-49e5-b4b4-bb1e0170ea94.pdf):
+
+&gt;\[…\] One97 Communications Singapore Private Limited (Paytm Singapore), has approved sale of Stock Acquisition Rights (SARs) held in PayPay Corporation, Japan (PayPay).
+
+&gt;These SARs, acquired by Paytm Singapore in September, 2020 will be sold to a SoftBank Vision Fund 2 entity for net proceeds of JPY 41.9 billion. Through this deal, PayPay is valued at JPY 1.06 trillion and accordingly, PayPay SARs held by Paytm Singapore are valued at net proceeds of JPY 41.9 billion (after netting off the exercise cost of SARs).
+
+Paytm held some stock options, which the Japanese [refer to as](https://group.softbank/en/news/press/20230728_0) stock acquisition rights, of PayPay for the last 4 years. Exercising those stock options would give Paytm at least a few percentage points of stake in the company. It could have waited for its IPO, but instead it chose to sell to SoftBank. Oh that’s while SoftBank already owns a controlling stake in PayPay.
+
+Paytm’s sale of its PayPay stake isn’t quite the same as the hypothetical I began with. But it’s close! SoftBank has wanted to take PayPay public for [longer than a year](https://www.reuters.com/markets/deals/softbank-considering-us-listing-paypay-payments-business-sources-2023-07-12/) now, so its IPO might not happen right away. But the specific timeline isn’t important. PayPay is doing pretty well, is somewhat close to an IPO, and its owner is more than willing to increase its stake in the company. And Paytm is in no desperation for cash—it’s got [₹10,000 crore](https://economictimes.indiatimes.com/tech/technology/paytm-to-add-rs-2364-crore-to-its-kitty-through-sale-of-paypay-shares/articleshow/116084709.cms?from=mdr) ($1.2 billion) in the bank. It would make sense to just hold on and sell it in the IPO. Such a weird sale.
+
+# Confusing stake
+
+In 2021, Paytm [reported](https://paytm.com/document/ir/ipo-documents/paytm-red-herring-prospectus.pdf) that its stock options would give it a 7.2% stake in PayPay. Earlier this year in its June quarter [results](https://paytm.com/document/ir/financial-results/Earnings-Release_INR_FY25-Q1.pdf), it said that its stock options would give it a 5.4% stake.
+
+Totally understandable! There’s more than three years between these two disclosures. Maybe PayPay raised more money, or gave more stock options, and Paytm’s expected stake reduced as a result.
+
+But what is the stake that Paytm sold this month to SoftBank? Paytm didn’t share the figure so let’s look at the numbers. It says it got ¥41.9 billion (₹2,364 crore) and that PayPay was valued at ¥1.06 trillion (₹59,360 crore)—so that’s only about a 3.95% stake? That’s 28% less than its disclosure just a few months ago.
+
+I’m confused. And it’s not just me, here are news articles reporting Paytm’s stake as 3.95%, [5.4%](https://economictimes.indiatimes.com/tech/technology/paytm-to-add-rs-2364-crore-to-its-kitty-through-sale-of-paypay-shares/articleshow/116084709.cms?from=mdr#:~:text=is%20selling%20its-,5.4%25,-shareholding%20in%20Japanese) and somehow even as [7.2%](https://www.telegraphindia.com/business/paytm-sells-7-2-per-cent-stake-in-paypay-transaction-stimated-at-rs-2000-crore/cid/2068933) (though that’s obviously incorrect). Let’s look at Paytm’s stock exchange filing again:
+
+&gt;These SARs, acquired by Paytm Singapore in September, 2020 will be sold to a SoftBank Vision Fund 2 entity for net proceeds of JPY 41.9 billion. Through this deal, PayPay is **valued at JPY 1.06 trillion** and accordingly, PayPay SARs held by Paytm Singapore are valued at net proceeds of JPY 41.9 billion (after netting off the exercise cost of SARs).
+
+The last two times Paytm mentioned PayPay, it was sure to mention its stake in the company. But when it actually sells its stake, it mentions the PayPay’s valuation instead? It almost feels like Paytm is speaking to PayPay’s investors here in place of its own.
+
+# Do me a favour?
+
+That’s two unusual things Paytm did. Sold its stake in PayPay when it didn’t need to, and didn’t mention what its stake actually was.
+
+Before Paytm went public in 2021, SoftBank owned a large 18% stake in the company. But Paytm’s stock did badly after its IPO, and it also had [some run-ins](https://www.livemint.com/market/stock-market-news/rbi-ban-on-paytm-payments-bank-one-97-communications-stock-trades-nearly-80-lower-than-the-ipo-price-11706863311082.html) with the RBI causing its price to crash. SoftBank, being the shrewd investor that it is, ended up selling its entire stake when Paytm’s stock price was low. It ended up making a $544 million [loss](https://www.moneycontrol.com/technology/softbank-vision-fund-records-544-million-loss-on-full-exit-from-paytm-article-12790131.html) on its $1.6 billion investment. (Paytm’s stock price has since recovered from its crash but is still below its IPO price.)
+
+SoftBank was the reason Paytm got PayPay’s shares in the first place. SoftBank owns PayPay and it wanted to replicate in Japan exactly what Paytm did in India. So it just asked Paytm to help out PayPay with its tech and paid Paytm with PayPay shares instead of cash.
+
+I don’t know if these events have anything to do with each other, but here’s how I’m looking at it. Paytm [seems to like](https://boringmoney.in/p/paytm-is-returning-excess-cash-before) its pre-IPO venture capital investors better than its public investors. Softbank and Paytm’s founders are probably buddies meeting up with each other at [weddings](https://www.moneycontrol.com/news/trends/masayoshi-son-is-happy-enjoying-india-trip-says-paytms-vijay-shekhar-sharma-10214331.html) and stuff. But Softbank lost quite a lot of money on Paytm! $544 million! Awkward.
+
+PayPay was a very successful investment for Paytm. Sure, it could have got more out of it, but eh, who cares. SoftBank lost a lot of money on Paytm and why not just let it make some of it back with PayPay instead? \[3\] Paytm’s public investors [don’t seem to mind](https://www.livemint.com/market/stock-market-news/paytm-share-price-jumps-3-hits-52-week-high-on-stake-sale-in-paypay-corp-to-softbank-11733716972942.html).
+
+**Footnotes**
+
+**\[1\]** Not that it needs to be said, but there is no remotely scientific basis for me to say this.
+
+\[2\] Lots of exceptions! If you’re an investor in a highly sought after private company such as OpenAI or Stripe, their stock is pretty liquid! You can’t sell their stock as easily as you would that of a publicly listed company, but it would be pretty close.
+
+\[3\] By reporting PayPay’s valuation in its stock exchange disclosure, Paytm also set an external benchmark for its valuation when it eventually goes public.
+
+*Original Source:* [*https://boringmoney.in/p/paytm-sells-paypay-weird*](https://boringmoney.in/p/paytm-sells-paypay-weird?utm_source=reddit&amp;utm_medium=social+media&amp;utm_campaign=paytm+sell+paypay)

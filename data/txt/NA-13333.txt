@@ -1,0 +1,29 @@
+The Department of Telecommunications (DoT) has launched a new tool called the Financial Fraud Risk Indicator (FRI) that flags mobile numbers suspected of being linked to financial fraud. UPI platforms like PhonePe, Paytm, and Google Pay—which together handle over 90% of India’s UPI traffic—have begun integrating this system into their fraud prevention mechanisms.
+
+Announced on May 21, the FRI assigns a risk score—Medium, High, or Very High—to phone numbers based on data drawn from cybercrime complaints, telecom surveillance, and inputs from financial institutions. These scores are shared in real time with UPI platforms, which can delay, block, or warn users before payments are completed.
+
+DoT has placed the FRI within a broader system known as the Digital Intelligence Platform (DIP). The platform allows financial institutions to identify potential fraud before it takes place. FRI reviews mobile numbers using data pulled from multiple sources, including cybercrime complaints filed through the National Cybercrime Reporting Portal (NCRP), user reports submitted via DoT’s Chakshu platform, and alerts shared by banks and NBFCs (Non-Banking Financial Companies).
+
+When a number is flagged, a “multi-dimensional analysis” is performed, and a risk score is assigned. This information is then passed on to financial platforms and banks, who can take action to intercept fraudulent transactions before they occur.
+
+PhonePe has started blocking transactions to numbers labeled “Very High” risk and is building warning systems for those tagged “Medium” risk, as part of its PhonePe Protect feature .
+
+Paytm and Google Pay are also integrating FRI alerts. One platform has reportedly introduced short delays and extra confirmation steps for transactions involving flagged numbers. Meanwhile, banks are also using FRI inputs to strengthen their own fraud detection processes.
+
+The FRI rollout follows a similar pattern seen in the telecom sector. Earlier this month, Airtel launched a network-level tool that blocks malicious links shared through SMS, WhatsApp, browsers, and email. That system also uses an internal scoring mechanism based on threat signals from banks and global repositories. It operates across platforms, including encrypted services, and blocks access to flagged websites before they load.
+
+Airtel claims the system does not log user data and that it has achieved near-total accuracy in trials. However, it has not explained how the tool identifies risky links inside end-to-end encrypted messages. Like FRI, Airtel’s tool functions without user-facing transparency or public documentation of how scoring works or how users can contest it.
+
+A major concern is the absence of user-facing safeguards. The DoT has not clarified:
+
+This is particularly significant in a country where UPI is one of the primary payment infrastructure for millions. Without a grievance redressal process, there’s a risk that legitimate users could be blocked from making payments with no explanation or recourse.
+
+The Financial Fraud Risk Indicator changes how India deals with online fraud. Instead of waiting for fraud to happen, regulators are pushing platforms and telecom companies to stop it early. This approach might protect users from financial loss. But it may put decision-making in the hands of systems that few people understand or can question.
+
+MediaNama has reached out to PhonePe with questions about how it uses the Financial Fraud Risk Indicator in practice. We have specifically asked whether users are notified when their number is flagged, whether a grievance redressal mechanism exists, and what data the platform retains or shares with authorities. This story will be updated if we receive a response.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,25 @@
+The Parliamentary Standing Committee on Finance on July 27 presented its report on cybersecurity and cybercrimes to the parliament, proposing various cybersecurity policy recommendations for the Indian government to consider, among which are the following measures targeted at app stores (Google Play, Apple App Store, etc.) and operating systems (Android, iOS, Windows, etc):
+
+You can find a summary of all the other recommendations made by the Committee here .
+
+Why does this matter: The Parliamentary Committee made these recommendations noting the rampant rise in the number of cyber frauds and cybercrimes through fraudulent apps installed from app stores, especially involving payment apps and fake digital lending apps. You can find a round-up of the Committee’s concerns here .
+
+Article continues below ⬇ , you might also want to read:
+
+Does this go against CCI’s stance on opening up Android to third-party app stores and sideloading? While the Parliamentary Committee is asking app stores to be more stringent on what apps they allow onto phones, the Competition Commission of India (CCI) in October last year issued antitrust orders directing Google to support the installation of apps from outside of Play Store (sideloading) as well as third-party app stores, both of which Google has argued could affect user security and lead to a rise in fraudulent apps. In other words, if Google has to maintain a higher level of security as demanded by the Parliamentary Committee then it might have to violate the antitrust watchdog’s orders. This puts the company in a catch-22 situation.
+
+Recent instances of Apple App Store featuring fake lending apps on the Top Finance Apps chart: Fake digital lending apps previously used to target Android users primarily, but recently, they have also been targeting iOS users. Last month, it was pointed out that Apple featured some of these fake lending apps on the Top Finance App chart on the App Store, further increasing the reach of such illegal apps. Apple took down these apps subsequently but new fake apps cropped up on the same list a few days later. Apple also took down the second set of apps, but only for newer ones to pop up soon after. Moreover, the developers behind the fake lending apps are impersonating the names of legitimate businesses that might have the appropriate regulatory permissions to provide loans. In light of this, the additional rules proposed by the Parliamentary Committee could put pressure on Apple to have a more stringent app verification and modetation process.
+
+But what if app stores are already doing their best? However, it is not clear how much more Google and Apple can do in moderating apps. For example, in an earlier statement sent to MediaNama on the fake lending apps issue, Apple pointed out:
+
+“We do not tolerate fraudulent activity on the App Store, and have stringent rules against apps and developers who attempt to cheat the system.
+
+As our recent analysis showed: the App Store stopped over $2 billion in fraudulent transactions in 2022, rejected nearly 1.7 million app submissions for failing to meet Apple’s standards of quality and safety, and terminated 428,000 developer accounts for potetially fraudulent activity.”
+
+Given that it is already in the best interests of companies like Google and Apple to keep fraudulent apps out from their platforms, we don’t know how much of a difference any additional rules, as proposed by the Parliamentary Committee, will make.
+
+Whitelisting framework for digital lending apps: Separately, the Committee has also recommended the establishment of a whitelisting framework for digital lending apps. Essentially, only apps that are on the whitelist should be listed on app stores. You can read more about this proposal in our summary of the recommendations here , although the Indian government already has something of this sort .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

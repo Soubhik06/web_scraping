@@ -1,0 +1,35 @@
+Over the last week, there have been multiple news reports on a 1.1% interchange fee being applied for certain Unified Payments Interface (UPI) transactions. But there’s a lot of confusion on who pays the fee, who gets it, whether UPI will become expensive for consumers and merchants, what the term “interchange fee” means, who the new fee will benefit, etc.
+
+What did NPCI announce:
+
+On March 29, NPCI issued another circular clarifying some of the aspects related to the interchange fee, such as which transactions it applies to—after news reports incorrectly suggested that all UPI transactions above ₹2000 will be subject to interchange fees.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with top stories from MediaNama and around the world, delivered to your inbox before 9 AM. Click here to sign up today!
+
+What is an interchange fee and who pays the fee to whom: Traditionally, an interchange fee is a fee that a merchant’s bank (acquiring bank) pays a customer’s bank (issuing bank). In this context, it is the fee that a merchant’s UPI payments solution provider pays the customer’s UPI wallet provider. For example, if a customer pays using his Paytm wallet by scanning a QR code provided to a shop by HDFC Bank, then HDFC Bank will pay the interchange fee to Paytm. There can be two scenarios that arise from here:
+
+This does not just apply to banks. For example, if the merchants have adopted the QR code service of Phonepe, then Phonepe will pay the interchange fee to Paytm. However, if the merchants availed the services of Paytm and the customer pays using a Paytm wallet, then Paytm might decide to waive the interchange fee. Notably, the interchange fee is not levied on customers .
+
+Which transactions does the fee NOT apply to:
+
+Can merchants avoid paying fees? If the merchant decides to adopt a QR code from a company that does not pass on the interchange fee, then the merchant can avoid paying any interchange fees. UPI QR code providers will likely compete on the fees they charge merchants. Additionally, Paytm’s Vijay Shekhar Sharma explained on Twitter that merchants can decide what instruments to accept through their QR code, but it is not clear how exactly this will work because QR codes are expected to be interoperable with all UPI wallets and apps.
+
+So It is NOT by default that merchant’s QR is accepting some instrument that is charged by QR company. QR now will offer many payment sources just like on card machine. Merchant will pick and choose payment instruments (with or without charges) to accept payment from ! (17/n)
+
+— Vijay Shekhar Sharma (@vijayshekhar) March 29, 2023
+
+The same fee does not apply to all merchants: The 1.1% fee does not apply evenly to all merchants. NPCI has set different fees ranging from 0.5% to 1.1% for different categories of merchants based on the industry they operate in. For example, merchants in the agriculture and education sectors are charged a lower 0.5% fee, Economic Times reported.
+
+What’s the purpose of an interchange fee: The fee is likely to encourage PPIs to actively promote UPI adoption by merchants and users as they now have an incentive in terms of revenue from interchange fees. The government has so far been providing financial incentives to UPI ecosystem players to keep UPI free for users and merchants, but this is not sustainable forever.
+
+PPIs also have a fee to pay for wallet loading: Apart from the interchange fee, NPCI has also mandated the PPI issuer to pay 15 basis points (0.15%) to the account holder’s bank (remitter’s bank) whenever a wallet is topped up with a value greater than ₹2000 using UPI. For example, if you use your ICICI Bank account to top up your Paytm wallet with ₹4000, then Paytm will pay ICICI Bank a fee of ₹6. Prepaid wallets could decide to pass this cost to users by charging a wallet loading fee, but this is unlikely to happen as it would disincentivize users from using wallets.
+
+“Based on February 2023 annualised wallet payment transactions of ₹2 lakh crore, we estimate wallet loading charges could be over ₹100 crore across all wallet issuers, (assuming 30 per cent of wallet transactions are eligible given transaction-size rule and an estimated 60 per cent share of UPI in wallet-loading), and will be paid to banks.” Citi Research to The Hindu Businessline
+
+What are the pros and cons of paying using PPI: To pay with wallets, users have to first top up their wallets, which is a con because it’s an added step. But wallets have a few benefits as well. For example, wallets have a lower limit on the value of transactions reducing the potential loss from any fraudulent transactions. Wallets also reduce the clutter on bank statements as only wallet top-ups will reflect on the statement, whereas an individual’s UPI transaction will only reflect within the wallet app and not on the bank statements.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,78 @@
+SUBREDDIT: r/india
+TITLE: I want to solve the Indian dating problem and I need your help
+DATE: 2021-04-14
+SCORE: 12
+URL: https://www.reddit.com/r/india/comments/mqelvx/i_want_to_solve_the_indian_dating_problem_and_i/
+
+--- POST TEXT ---
+
+Hello everyone. I am writing this at 4:30 in the morning right before sleeping and I had this thought for the last couple of days and I want to do something about it.
+
+There is an inherent dating problem in apps like bumble or Tinder and the problem is that they are money making machines, they see the problem, they have the data but they won't do anything to fix it because it's not in their business interest to fix it.
+
+Bumble had its IPO few months ago giving it's CEO to the youngest female billionaire tag and now the app is going to shit. And I am tired of this dating business. I believe it's time to fix it and I want to start with India
+
+Let's first discuss some problems in the landscape
+
+1. We have a huge number of men on dating platforms who are all swiping right on everyone and that just ruins the experience for other men, the more men there are, lesser is your chance of being seen
+
+2. People get validation a lot because of this platform. This is a dating platform not a validation platform. We shouldn't be giving that to people to show it off.
+
+3. Because women are always getting swiped right, they now have lot of choice which just adds to the confusion, should I choose this one or that one, who is better? Fuckin NO
+
+4. There is no conversations, there is no result for many, people get matchzoned because they are forgotten, these apps destroy the mental health of people depending on it, especially in the Corona time
+
+And many more intricate things that I am sure you guys can figure out
+
+So what do I propose
+
+I propose a new app but we are not looking for the monetary benefit. We will have payment options and donations which will directly go to support infrastructure costs and nothing more. I want this app to be FOSS.
+
+What are some of the features I expect in the app
+
+I expect this app to quantify data so that we can give real value to the user. Some of the things I expect
+
+1. We will collect statistics on the picture/bio/questions view time just like every other app, but we will show it to the user, that on average people spend some X amount of time on this part. I want to show statistics to the user so that they can improve their pictures, their bio to make it more appealing. I want to give suggestions on what the other gender generally likes, but we won't tell them what to write. I don't want them to show what they are not(people are already doing it)
+
+2. For the people who get likes less than a defined threshold, we will directly show them who liked them so that they can directly match and start talking with them. This idea would be helpful to thousands who get that one like from that person but they miss out on because they left swipe them and then regret. If they don't like the person they can choose to not match
+
+3. If you are above that threshold, we won't show you who is liking you, you can play the game and talk if you match with them. Not here to support any studs.
+
+4. Girls will anyway get a lot of likes right, so we limit the number of people they can actually match with and swipe right on, there is a match limit and swipe right limit, you need to choose from Y these X that we have given, otherwise go home. Girls you ain't gonna raise hopes for no reason.
+
+Let's bring in the ML/AI in it a bit. I have 0 experience but I think AI can do a darn good job here.
+
+We will let people express what they want and will try to match similar people using our MLAI in case it's possible.
+
+Well since I don't know it's possibilities I won't go into it with much detail
+
+There is one last thing. Privacy
+1. All pictures being sent need to be E2E encrypted, nothing leaks on our servers
+
+2. If this becomes success, I want all chats to be exposed to internet after some time so that this data can be preserved for making better machines and learning for others. Any chats that happen, we will publish those on the internet for all to see after removing the names and identification, you can go into a complete E2E mode for complete privacy but by default we will have acess to the chat, just not to person who is sending that(what protocol do we use?)
+
+I believe building this app doesn't require a long time and I want this to be a project which is published on github and we keep updating it.
+
+I want this to be FOSS please so that we can actually fix a problem.
+
+Who do we need
+
+1. Redditors here as focus groups
+2. UI/UX Devs
+3. Backend Devs
+4. App devs
+5. Security people
+6. Big data Software architecture designers
+7. MLAI Devs
+8. People in Ethics
+9. Finally someone who can bootstrap some money so that we can actually deploy it.
+
+Ofcourse mine is not just idea, I don't want to reveal my skills right now but I am gonna be useful
+
+It's time we fix this issue.
+
+If you are interested comment below/DM or email me at doejohnjanedoe[@]protonmail.com
+
+Or you can join me at my discord 
+
+https://discord.gg/9XMwsVqcAG

@@ -1,0 +1,25 @@
+The Delhi High Court has issued directions for deleting the website NivaBupaLeaks.com in the health insurance company Niva Bupa’s case against a hacker who gained access to the company’s customers’ sensitive data. The company urged the court for a John Doe order against the unknown hacker, stating that if the court did not restrain the hacker from leaking this information, it could cause irreparable loss to Niva Bupa.
+
+It stated that if the hacker disseminated its customers’ personal data, bad actors might impersonate people for fraudulent transactions, causing reputational harm to Niva Bupa. Furthermore, bad actors could use the leaked personal information of Niva Bupa customers to obtain loans, make purchases, or carry out social engineering attacks. The company informed the court that it had a legal obligation to keep customer data confidential, and the leakage of sensitive customer information posed a risk to its brand and reputation, customer trust, and regulatory obligations. If the hacker made this information public (or shared it with Niva Bupa’s competitors), it could impact the company’s competitive position in the market.
+
+On February 20, the hacker (identifying themselves as xenZen) sent an email to Niva Bupa executives stating that they had gained access to the company’s customers’ sensitive data and insurance claims until February 2025. The hacker shared a link to the website “NivaBupaLeaks.com,” where they had uploaded this confidential customer data, along with a password to access it. They demanded a ransom to prevent the breached data from being revealed to the public.
+
+A day later, on February 21, the hacker contacted the company again, sharing details of a policy that Niva Bupa had issued that very day. xenZen followed this up with another threat the next day. Niva Bupa argues that after discovering the breach, it took measures to investigate and prevent further leaks of confidential information. This included invoking its “cyber crisis management plan and engagement with qualified external security experts and cyber incident investigators to conduct technical assessment of the suspected systems to identify the source and take affirmative actions to stop future leaks.”
+
+Taking the matter to court, Niva Bupa claims that the hacker unlawfully acquired confidential information for the purpose of misusing it. It states that it has filed an FIR and a cybercrime incident report against the hacker and has reported the matter to the appropriate regulatory authorities.
+
+This is not the first time xenZen has targeted a health insurance provider. In September 2024, the attacker leaked Star Health’s customer data, including policy and claim details, documents featuring names, phone numbers, addresses, and tax details. As a result, in November 2024, Star Health approached the Madras High Court, seeking injunctive relief against the hacker, which the court granted.
+
+These incidents raise questions about the effectiveness of measures to protect against health data breaches. While other countries have implemented specific regulations to secure health dataâsuch as the U.S.’s proposed security rule under the Health Insurance Portability and Accountability Act (HIPAA) of 1996 âIndia’s Digital Personal Data Protection Act, 2023 (DPDP Act), does not even mention health data as a separate category.
+
+The court stated that Niva Bupa had demonstrated a prima facie case for an injunction against the data hacker. Accordingly, until the next hearing date, the court has ordered the permanent blocking of the leaked data site and the takedown of all the emails xenZen used to contact Niva Bupa. The court also restrained xenZen from disclosing Niva Bupa’s confidential information and infringing its trademark by circulating information with the trademark in any manner whatsoever.
+
+Furthermore, the court directed authorities and xenZen’s domain name registrar to disclose the “KYC details, names, associated addresses, email addresses, contact details (including phone numbers), organization and associations, URLs, and IP addresses” linked to the website NivaBupaLeaks and the email address used to contact Niva Bupa. The court also instructed the domain name registrar not to register any future websites with “Niva Bupa” as part of the domain name.
+
+MediaNama has reached out to Niva Bupa to confirm whether it has reported the incident to India’s cybersecurity regulator, CERT-In and sent out information to the affected individuals as required under the DPDP Act. Separately, we have also reached out to CERT-In to confirm the steps it is taking in response to the breach.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

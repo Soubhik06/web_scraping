@@ -1,0 +1,123 @@
+This is a record of the proceedings in the Supreme Court bench hearings on the Constitutional validity of Aadhaar. You may read the previous days here: Day 1 , Day 2 , Day 3 , Day 4 , Day 5 , Day 6 .
+
+Senior Advocate Shyam Divan began the day’s presentations with reading out the affidavit of Mr. Siraj Dutta who did an investigation into of starvation deaths of Premani Kunwar , whose pensions were transferred to another account and Etwariya Devi , who was deprived of rations and pensions in Jharkhand because of Aadhaar linking failures. Justice Sikri said the point was taken asked Mr. Divan to frame the factual points in constitutional terms. Mr Divan briefly summarized Santoshi’s case .
+
+Justice Chandrachud brought up an affidavit about exclusions caused to people with leprosy and how by the very nature of their disease they have no fingerprints or erased or distorted fingerprints. Mr. Divan read from the affidavit. He described these as extreme situations – exclusion, death, and dignity. He stressed that in a democracy, there has to be an element of choice. There can’t be just one method of identification imposed.
+
+Justice Chandrachud noted that the Court would also need to look at the level of internet penetration in the country.Mr. Divan says that is an issue. And the only answer, the other side has is a buffered authentication where all auth packets are uploaded later. Mr Divan explained that the PoS machine has a memory, so if the internet fails, the machine is often taken to another place which does. He repeated that all Aadhaar can do is stop a very limited kind of misuse (identity fraud), and there are other ways to weed out leakages.
+
+Justice Chandrachud noted that the affidavit showed that citizens remained dependent on the PDS dealer even after Aadhaar and noted that while that argument may not provide constitutional grounds, Aadhaar itself causing exclusions would, under Article 14 of the Constitution of India.
+
+Kapil Sibal showed a report of IndianExpress today on how thousands are excluded just in Delhi. He said global business wants to push for Aadhaar. The poor do not want Aadhaar. Mr. Divan said that the people who couldn’t authenticate were treated as “ghosts” and mere statistics and this could not meet the tests under Articles 14, 19 and 21, especially as the system is coercive.
+
+He next brought up the point that Aadhaar doesn’t allow an opt-out and that an opt-out is a necessary right for informational self-determination. He presented affidavits fromMeghalaya People’s committee and Melroy Fernandes of Mangalore who have asked to be able to opt-out, on the ground that there was no genuine informed consent at the time of enrolment. About the collective affidavit from Meghalaya from people who want to opt-out of Aadhaar, Justice Chandrachud asked what the position was in the North-East. Mr. Divan said that there are exemptions where the roll-out is low.
+
+Mr. Divan then presented an affidavit of Rakesh Mohan Goel, a computer industry expert who audited enrolment centres. He found that the UIDAI had no way of knowing when operators were retaining biometrics and that biometrics were being retained. He stated that the biometrics of Indians are available to private entities, can be and are being stored in logs. The affidavit says that because of the architecture of Aadhaar, UIDAI has very little control over this. An annexure to the affidavit, based on 25 audits, talMr. Sibal about six ways of hacking. He asserts that there is no way of knowing, after an audit, whether the storage is continuing or has stopped.
+
+Mr. Divan stressed that there has to be a fiduciary relationship when it comes to sensitive data of this kind. “How can you trust a system like this?”
+
+Justice Chandrachud asked about the purchase of the authentication machines. To this, Mr Divan explained that the purchases were private as per specifications provided by the UIDAI.
+
+Justice Chandrachud asked whether there were safeguards against fraud similar to credit card fraud. Mr Divan responded with quotes from Rakesh Goel’s academic article that explained the six ways of hacking.
+
+Mr Divan emphasized that biometric data is easily compromisable and people do not want to be on Aadhaar, and they should not be *mandated* to get into the system.
+
+Justice Sikri asked whether Rakesh Goyal’s letters to UIDAI were replied to. Mr. Divan stated that after he filed an affidavit he got notices from UIDAI. Mr. Divan also described this as the UIDAI style of functioning and described how Rachna Khaira of The Tribune got an FIR filed against her for her expose of illegal sale of unauthorized access to the Aadhaar data .
+
+Mr Divan cited the biometrics leak in Surat as an example of the faulty design of Aadhaar in depending on biometrics. Biometric data of ration card holders was stored and then used to siphon off rations. He described the method of cloning fingerprints and how operator fingerprints were cloned for fake enrolments. When UIDAI added iris authentication to prevent access with cloned fingerprints, hackers bypassed that by modifying the software in the Kanpur Enrollment Scam – he read out the press release by the police. Referring to the 49000 enrollers being blacklisted, he questioned the integrity of the system and asked why anyone should be forced to trust it as a question of the right to protect own body and identity. Trust is to be earned..not made mandatory by law.
+
+Mr. Divan next made a point about false positives in biometric deduplication. Says 6 crore and 23 lakh people have been denied Aadhaar as a biometric deduplicate according to a reply to an RTI query from 2017. He said this was more than the population of Gujarat or Karnataka and asserted that it is impossible that such a large number of people queued up to defraud the government of India to enroll twice over. He said these were false positives and it is a major problem. He said that this being a probabilistic system, the probability of matches will only grow as enrolments increase. This leads to exclusion and unjustified rejections due to system saturation.
+
+Mr. Divan presented affidavit of Prof. Reetika Khera on the school attendance audit in Jharkhand and described how there are more children than what the attendance records states. Because other girls either donot have aadhaar or cannot authenticate. This would be a problem two months later when the teachers would be hauled up for giving midday meals to “ghosts”. He raised three crucial points about this: The exclusion of real girls as ghosts, the surveillance aspect of school attendance being linked to a permanent ID, and lack of statutory sanction for such use.
+
+Mr. Divan proceeded to the question of whether an individual’s body belongs to her or to the State and how control over own body is exercised. Citing an article by Peter Benson in the Oxford Handbook of Jurisprudence, he asserted that individuals have an innate right over their bodies. The right to the body is placed at a higher pedestal than the right to property. In a liberal democratic culture, the basic value is the prohibition of slavery, which means that an individual’s body cannot be used for purposes that she does not endorse. “Every individual is a self-authenticating source of valid claims.”
+
+Mr. Divan says that this is at the core of Article 21 about the relationship between the individual and the State. If a person exists in flesh and blood, where is the question of denying her anything? He questioned the right of the state to put conditions on the manner of identification in order to recognize the very existence of a person. There is no concept of eminent domain as far as the body is concerned. The body cannot be used as a marker for every service.
+
+Mr. Divan acknowledged that the State has a legitimate interest in identifying a person, and that there could be a set of limited, narrowly tailored circumstances where you are required to give up fingerprints, such as for a passport or a driving license or a criminal investigation. “Personhood under the Indian Constitution flows from being alive, and not from registering oneself in a central database.”
+
+Mr. Divan concluded with quoting Mahatma Gandhi on the Transvaal Ordinance. “This degrades free individuals.”
+
+What’s at stake here? First, personal autonomy is at stake. Are we going to cede complete control of the body to the State? In a digital world, personal autonomy extends to protecting biometrics.
+
+The second point is constitutional trust. We have created the State, and now the State trusts us as unworthy unless we cede our biometerics. The Aadhaar program treats the entire nation as presumptively criminal.
+
+The third point is the rule of law. Look at how this project has been rolled out.
+
+The fourth point is surveillance and privacy.
+
+Lastly, if this program is allowed to roll on unimpeded, think of the domination The State will have over the individual.
+
+With this, Mr. Divan concluded his presentation of the case. Mr. Divan has been a part of the legal challenge to Aadhaar in public interest from the beginning, in 2012 and has appeared in every hearing for the last six years.
+
+Senior Advocate Kapil Sibal, appearing for 2 writ petitioners and 1 intervenor continued presenting the cases. Mr. Sibal complimented Shyam Divan on the passion and hardwork he has put in in this matter. Justice Sikri agreed. CJI smiled in agreement.
+
+Mr. Sibal began with noting the unprecedented magnitude of the case with far reaching consequences. Power of information is immense. No tool is more powerful than information.
+
+Mr. Sibal said he agrees with what Prime Minister Narendra Modi said in Davos – he who controls data of the world controls the world. Mr. Sibal said it is likewise in India.He said that Aadhaar was nothing but an inversion of Right to information Act, except Aadhaar makes the individual more accountable! “It is the power of information that makes discoveries patentable,” Mr. Sibal commented.
+
+Mr. Sibal went on to argue that there was no safe technology in the world and anyone saying that was lying. Justice Sikri enquired whether he was then saying that we should do away with every technology. Mr. Sibal said that Aadhaar was different because it transfers the power of information.
+
+Mr. Sibal again stressed the gravity of the case in the context of India since independence. Nothing would affect us and all future generations as this one. He urged the bench  to reflect on why most powerful corporations now such as google or uber own few assets other than information.
+
+Mr. Sibal said that the heart of Article 21 of the Indian Constitution is choice. The State seeks to deprive individuals of the choice of manner of identification. Article 21 necessitates that any measure of state must both be procedurally and substantively reasonable. “My thumb impression is my property. Can I be asked to part with my fingerprints without any reciprocal promise of safeguards?” Mr. Sibal contended that the process of enrolment and authentication is procedurally unreasonable.
+
+He argued that identity is independent of one’s entitlement or status. Identity is only a mode of proof. He reminded the bench that it is bound by 9-judge bench decision of St.Xaviers judgment where no condition can be made that abridges Fundamental Rights.
+
+Mr. Sibal then argued that biometrics are a western concept. Countries are either mono or at best biracial and their biometrics are clear etc. Here most people’s biometrics are frail.
+
+Comparing the Indian Constitution favourably against the US Constitution, he said that state action has to be tested against Articles 21, 14, 19…and also 20 (3) of the Constitution.
+
+With Aadhaar all information of individuals is already tracked and retained. Mr. Sibal pointed out that retention of data makes Article 20(3) of the Constitution (right against self-incrimination) completely illusory. Referring to the American debate around the government compelling Google or WhatsApp to yield information, he emphasized that if the State wants Google to give information, it will have to get a court order. Aadhaar bypasses that safeguard.
+
+Mr Sibal made the following points:
+
+Referring to information as the market, Mr. Sibal said that Aadhaar wants it handed on a platter.
+
+Justice Chandrachud said that in the Act, Section 3 is an entitlement and empowering by nature, so where the notion of mandatory Aadhaar originated from.
+
+Mr. Sibal read both Section 3 and Section 7 and says that Section 7 makes it mandatory. He also commented that no one who has enrolled has been counselled in the manner as specified under Section 3.
+
+Justice Chandrachud said that Section 3 confines itself to subsidy, benefit or service drawn from the consolidated fund of India. Mr. Sibal agreed and said that there was no power to make it a condition. He contended that Section 7 is wholly unconstitutional, but it also had a separate challenge. He agreed with Justice Chandrachud that the Section 7 deals only with the Consolidated Fund of india. However, he said that problem arise from parallel legislations like income tax act, PMLA rules etc being amended to require Aadhaar.
+
+Mr. Sibal then read the definitions of subsidy, benefit and service under the Act. Referring to Section 8, which talks of consent, Mr. Sibal asked where the consent was when every interaction in teh civil society required an Aadhaar. He said that the provision for consent was completely illusory, giving the example of children – how would their consent be?
+
+Mr. Sibal termed Aadhaar a monolith. A system of no choice. An RTI Act for the state.
+
+He went on to allege that the CIDR is controlled by a foreign entity and that UIDAI have no control over it or its source code. (This resulted in some commotion among the Respondents section.)
+
+Justice Chandrachud wanted to know who a requesting entity  was, and said that defintion 2 (u) is broad and includes any person who submits auth requests. To this, Mr. Sibal read out the list of all requesting entities from Schedule under Auth Regulations.
+
+Justice Chandrachud said that 8 (3)(c) does not make it mandatory for a requesting entity to insist on aadhaar.
+
+Mr. Sibal said that the alternatives there are among biometric and demographic.
+
+Justices Chandrachud and Sikri disagreed. Mr. Sibal invited them to interpret 8 in such a manner that it is not mandatory. Regardless, the Aadhaar act is about Aadhaar and not alternative modes of identification.
+
+Section 57 and PMLA Rules were discussed briefly. Justice Sikri observed that the presumption appears to be that every citizen is a money launderer. Mr. Sibal smiled and said that all these tall claims are good politics.
+
+Mr. Sibal then read Regulation 26 of Authentication Regulations. He listed the types of data that is stored in the CIDR. Pausing at “metadata”, heexplained the difference between metadata and data, saying that ultimately, it is metadata that reveals information about a person. He pointed out that after six months even the individual loses his right to access authentication history, but is archived and usable by the State.  Justice Chandrachud points out that data is to be archived for five years.
+
+Mr. Sibal brought up the element of choice – that you have the right to opt-out of Google, FB, Twitter. There is no such right with respect to Aadhaar. Justice Chandrachud remarked that the distinction may not be persuasive, because in today’s world, you have only notional consent even with respect to private players. Mr. Sibal distinguished further between the State and Google describing open source alternatives to Google as well as choices and control even within Google and the qualitative value returned. Google uses data to offer more choice, while Aadhaar restricts it.
+
+Mr. Sibal challenged the Aadhaar Act being passed as a money bill but taking provision after provision. Justice Chandrachud said that that link comes from Section 7 and the Consolidated Fund of India. Mr. Sibal disagreed, but said he’d defer the argument to P. Chidambaram on the issue of money joking that Chidambaram knows more about money than him. Some humorous banter followed.
+
+He proceeded to read out the regulation 28 regarding the deactivation of Aadhaar. He said that deactivation of Aadhaar and rectifications of wrong deactivations were unimplementable in a polity as large as India, making special reference to rural India.  He pointed out the arbitrariness of the regulation in allowing deactivation for “any other reason deemed appropriate.”
+
+“What kind of power is this? This is the power to cause civil and digital death.”
+
+Justice Chandrachud pointed out that the validity of an Act could not be judged by the potential for abuse.Mr. Sibal said that in IT it is never a question of whether something is misused, but only a matter of when. So the general principle of possibility of misuse not being a ground of challenge to legislation does not apply. Mr. Sibal says that it is about how much power you are giving up to the State. In the information age, it’s not merely about “possibility” any more. It exists.
+
+Justice Chandrachud repeated that the constitutionality of a law has to be judged on the generality of cases and not on exceptional cases. He asked how the Court was to decide what level of risk was proper or not and if the court should get into this or leave it to the legislature. Mr. Sibal said that he would address both.
+
+Justice Sikri asked what information the bank will have when you link your Aadhaar. Mr. Sibal described the use of Aadhaar in banking fraud cases.
+
+Mr. Sibal said that different principles need to be evolved in dealing with digital issues. The principles used to adjudicate other statutes don’t map with accuracy.
+
+The hearing will continue tomorrow at 11:30am.
+
+Summary of hearing based on tweets by Gautam Bhatia and Prasanna S
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

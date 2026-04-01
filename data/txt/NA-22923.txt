@@ -1,0 +1,56 @@
+SUBREDDIT: r/LegalAdviceIndia
+TITLE: Need help: have info of Indian voter data sellers
+DATE: 2025-04-12
+SCORE: 1
+URL: https://www.reddit.com/r/LegalAdviceIndia/comments/1jxive1/need_help_have_info_of_indian_voter_data_sellers/
+
+--- POST TEXT ---
+
+I’ve uncovered a network of multiple individuals and companies selling complete voter data, including:
+
+Aadhar numbers (Mapped from separate database)
+PAN card details (Mapped from separate database)
+Phone numbers
+Full names
+Relative names
+Complete home address 
+Email
+Photos of voters
+
+They somehow managed to get direct MSSQL database dumps from Election Commission of India (ECI).
+There are some sort of codes they use for data, like: S22, S10 etc…
+
+My findings:
+1. Some of these entities have irregularities in tax and GST filings, which raises even more red flags.
+2. The operation is being supported by insiders within the Election Commission of India (ECI).
+3. These guys have backings from local politicians, builders etc. Somehow they managed to be in contact with very high level politicians. And from multiple political parties and even some journalists.
+4. They don’t deal with unknown people, first they deny that they have any data etc, they will only work if you have reference person and they will verify the reference first.
+5. Apparently some of them have published some kind of apps on the play store under communication category. These apps require some kind of code in order to access the data.
+6. They have data like Sugar Factory voters, Grampanchayat (I’m unaware of this thing), corporation, assembly, lok sabha
+7. They have multiple states data (some might not be updated) 
+8. They sells assembly/corporation wise.
+9. These people are mid-aged people, don’t even use any social media actively (apart from facebook)
+10. They don’t do any kind of marketing which makes they nearly impossible to tack online.
+11. Still upon digging in internet archives, found out they were having websites for marketing etc. But they removed mid 2023, the same time when some guys were arrested in Karnataka in the assembly election time, arrest reason: data selling.
+12. Even the officials arrested multiple people but still they didn’t reached some top level people.
+
+What I have:
+1. One of the groups/ company’s Windows Server IP addresses (Don’t have password, stuck on login screen)
+2. MSSQL ip address, password 
+3. Some urls, which directly downloads zip file having SQLite database with no password.
+4. From the point 2 , There are multiple numbers of party workers.
+5. List of these data sellers with contact number,company name.
+
+Notes:
+1. THIS POST WILL NOT ALERT THEM.
+2. There are multiple database, some are being stored offline mainly ECI original data, and others are processed (removed some fields.
+3. I haven’t downloaded / stored anything on my computer.
+4. I’ve only discovered particular city based data sellers, but they have strong network across India.
+
+If you’re a journalist, legal expert, or someone in a position to take action, reply here or reach out via a burner email (DM for email). No personal info will be shared here.
+
+Edit: Some might brush this off as "normal" — it’s not. This is illegal, dangerous, and a massive breach of citizen privacy.
+
+Edit 2 : Even though this post won’t alert them, I don’t want any troubles, might delete this post in few hours, I don’t want to risk my career/ life. And if you read this complete post you might wonder how did I got this info, source, how can we trust this info etc. You are right in your place, but unfortunately I can’t disclose publicly. Please let me know which info can I make public about without getting any trouble.
+Also let me know should I keep quiet or raise this issue.
+Also let me know if this is legal and I’m worried for nothing.

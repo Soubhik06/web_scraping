@@ -1,0 +1,57 @@
+SUBREDDIT: r/LegalAdviceIndia
+TITLE: More Answers on Bank Freezes and How to Handle Them
+DATE: 2025-03-22
+SCORE: 1
+URL: https://www.reddit.com/r/LegalAdviceIndia/comments/1jh918t/more_answers_on_bank_freezes_and_how_to_handle/
+
+--- POST TEXT ---
+
+This is a follow up for my previous post about how to unfreeze an account which is debit freezed by police or cyber cell. Here let's discuss the FAQs.
+
+When a bank freezes your account due to a cybercrime complaint, it’s usually because your transaction got flagged in a certain "layer." Now what is a layer? For example, if a scammer scams someone and sends the money to A, A sends it to B, B sends it to C, and C sends it to you, then you are in Layer 3. Even though you have no direct link to the scam, your account can still get flagged and frozen. Police typically freeze accounts up to Layer 5/6, which means hundreds of innocent people could end up with frozen accounts for just one ₹1 lakh scam.
+
+Now, people were asking why police freeze the entire account instead of just holding the disputed amount. The honest answer is that many officers don’t even understand the legal difference between Sections 91 and 102 of CrPC (now Sections 94 and 106 of BNSS). Some freeze full accounts out of laziness, instead of carefully tracing and freezing only the disputed transaction, they just block the entire account because it’s easier. One possibility is Human Factor (Jealousy) – If they see a big balance, there might be a "human emotion" involved (you know what I mean). Another one is harassment, let's be real, it's is a long standing kink or tradition of the Indian police to harrass innocent citizens. There is another angle, which we can say bribes I have seen many police ask for chai-pani ka kharcha (bribes) to sort it out while others do it because of the lack of clear guidelines. In states like Tamil Nadu and Telangana, the DGPs have issued circulars instructing officers to only freeze the disputed amount on High Court's directions, but most other states haven’t done the same. As a result, officers freeze accounts recklessly, causing unnecessary trouble for innocent people. 
+
+Now, who is to blame for this mess- the government, the bank, or the police? Bank managers usually have no idea about the laws or guidelines. When the police send a freeze request, they blindly follow it. The nodal officer (the person handling legal matters for the bank) just tells them, “Freeze this account,” and they do it without question. Banks are legally required to comply with law enforcement orders, so they don’t bother verifying whether the freeze is actually valid. However, when there are lapses on their side, which we can use to our advantage (discussed in my previous post).
+
+The police, on the other hand, have a reputation for not following proper procedures. They are short-staffed and overburdened, handling thousands of cyber fraud cases daily. Instead of tracing a specific fraudulent transaction, they freeze the entire account to stop the money trail instantly. They don’t care whether you’re innocent or not.
+
+The government has introduced strict anti-fraud measures because online scams are rising like crazy. Scammers don’t keep stolen money in one account—they move it quickly across multiple accounts to make tracing harder. So, police need to act fast before the money disappears completely.
+
+There have been cases where police successfully recovered stolen funds and returned them to the victims. But in trying to catch real scammers, they end up freezing accounts belonging to innocent people too
+
+There’s a saying: "Anything that is too good isn’t good for India." 
+
+This system was designed to fight cyber fraud, but Indians have started misusing it for personal gain. 
+
+Crypto buyers on P2P platforms – The buyer pays, gets crypto, then files a fake complaint to freeze the seller’s bank account and get the money back. 
+
+We have a lot of scams going on around us and we have normalised them just like 
+
+Ola/Uber drivers tell you to cancel the ride and take them offline, scamming the company.
+
+Zomato/Swiggy delivery scams. Some riders tell you to cancel the order and offer to give it to you for Rs. 200/300. They scam the company that gives them a chance to earn.
+
+People don’t care if they are scamming a big company, but these businesses have employees and teams to pay. If scams continue, companies increase their charges, and in the end, we all pay the price.
+
+At the end of the day, our own people are misusing the system, which is why innocent account holders get caught in the mess.
+
+Now how to file a RTI. The best way to do this is online. You can just Google "National RTI Portal" or search for your state’s RTI portal by typing "(state name) RTI portal." You have to file the RTI in the state and district where the complaint was filed or where the freeze order came from. Filing it in your home state or district won’t work because you need to prove you have no direct connection to the case. 
+
+Filing the RTI is simple. In the ministry section, select "Ministry of Home Affairs." If you get an option for a department, choose "Department of Home Affairs," and in the category section, select "Office of the SP." When writing the RTI, just keep it simple: 
+
+"I request information under the RTI Act, 2005, regarding whether there is any FIR or complaint registered against me in [District/State]. If yes, please provide the FIR number, case details, and a copy of the complaint."
+
+They have to respond within 30 days. 
+
+Now, what if the bank isn’t giving you a copy of the police letter or the freeze notice? First, write an application to the Branch Manager requesting it. Mention the Madras High Court judgment (W.P. No. 25631 of 2024). If the bank ignores your request, follow up by sending the same request via email to higher officials like the CEO, nodal officer, zonal head, and regional head. You can also use X (Twitter) to call them out by tagging their official handles, along with RBI. In most cases, this will work. But if it doesn’t, you can file a complaint with the RBI Ombudsman as it’s the bank violating court guidelines or consumer court for deficiency in service.
+
+If nothing works, the only option left is to go to the High Court with a Writ Petition. For this, you will need an advocate who practices in the High Court and has experience handling these cases. The cost varies based on location, case complexity, and the advocate’s experience, but generally, Rs. 10,000–Rs. 25,000 should be enough. When filing the petition, you will need to make at least three parties (respondents): the authority that issued the freeze order (police), the bank, and RBI. You can file it in the High Court of the state where the bank is located or in the High Court of the state where the original complaint was filed. 
+
+A lot of people were asking how to avoid getting their account frozen in the first place. There’s no 100% effective way. In my case, my ICICI account was frozen just because a delivery guy paid me Rs. 175 via UPI. I had given him Rs. 500 cash for a COD order, but he didn’t have change, so he returned me the extra amount using UPI. That Rs.175 got flagged in Layer 3, and even he got flagged in Layer 2. Neither of us knew where the money originally came from, but both our accounts got into trouble. 
+
+That’s why I say this system is unpredictable. If you’re doing crypto P2P trading, the risk increases significantly, so avoiding it is the best option. If you still want to do it, use a separate account with a low balance. But don’t send money from that account to your main account via any online method, or else it’s the same thing, you’ll get flagged in layers. Avoid using your salary or main account for daily transactions. If you’re looking for a safer bank, I’d suggest SBI. Even though I’m not a fan of them, I’ve never seen SBI freeze entire accounts. They usually just hold the disputed transaction amount instead. 
+
+Many people were also asking if they can take action against the bank or police. The bank isn’t directly responsible because they’re just following police orders, even though there are clear lapses in how they handle it. As for the police, if you take legal action against them, they’ll just say “sorry” in court and promise it won’t happen again. In reality, they won’t face any consequences, and you’ll just make yourself a target for the future. So it’s better to just get your issue sorted and move on. 
+
+I hope this clears up most of the common doubts. This post is specifically about unfreezing an account if it’s debit frozen. Removing a lien or hold from a disputed fund is a different topic, and maybe I’ll talk about that another day.

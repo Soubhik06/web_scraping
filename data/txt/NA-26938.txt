@@ -1,0 +1,77 @@
+SUBREDDIT: r/Scams
+TITLE: I got scammed - they got me good :(
+DATE: 2023-09-22
+SCORE: 1
+URL: https://www.reddit.com/r/Scams/comments/16pahkb/i_got_scammed_they_got_me_good/
+
+--- POST TEXT ---
+
+TLDR - got phished good and I 100% should have known better (but got everything reversed at the end). 
+
+Yesterday I got scammed and they got into my cell phone account. I’m an IT professional of 20+ years, security is part of my job, I mess with the scammers that call me, I laugh at the people in r/scams who ask “is this a scam,” and they still got me.
+
+How they got me is twofold.
+
+1. Timing. I had recently called my cell phone provider and told them I had been offered a good deal from the company that does my home internet, which was almost half my current bill, and could they beat it. They said they’d see and get back to me in a couple of days.
+2. They offered me a “loyalty reward” of a new iPad Pro. 
+
+The scam worked like this. I got a call from a guy with a thick Indian accent who said he was from my cell provider and had a deal to offer me. The deal was $50/m, with a phone, 50G data, unlimited call/text/etc. Told him I have a phone already, for BYOD it’s only $30/m, oh, and no expiry for the deal, so the price isn’t jumping back up after a year or 2. 
+
+Then he said that because I was a loyal customer and they didn’t want to lose me, and because I already had a phone and didn’t need a new one, he was authorized to include a promotional gift of a new iPad Pro. This obviously perked my ears up.
+
+Because I had literally signed up with a different cell provider the day before and I didn’t want to deal with conflict and saying no, I told them to send me the details in an email and I’d think about it (translation: ignore it). At some point in here the call disconnected (as will sometimes do on calls - no idea if this was part of the scam or just your normal random thing that happens occasionally).
+
+Huge pain in the ass because now I had to call back in and navigate the phone tree, find someone and explain the deal I’d been offered and get things back on track. Also the more I got thinking about the $30 price suddenly it seemed like a deal too good to pass up.
+
+I called back into the 1800 number for my cell provider and explained that I had a call from the loyalty department and I had been talking to “Steve” (or whatever American sounding name he had given me) and could they send me back to someone who knew about this. As I was talking the email came in with the details I’d asked for, and I saw it had a call back number in it, so I told the lady never mind I’d call the direct number.
+
+Called the number back (and I’m sure this is where they knew they had me) and got back to “Steve” and told him I’d take the offer. 
+
+He said he’d apply it to my account, just need to verify my account details and send me an authorization code to my email (this was my password reset 2FA of course) which I happily gave, even though it had “customer service will never ask for this number don’t share it with anyone” on it. He said because this was a special deal (god it’s so obvious looking back I feel like even more of an idiot) they’d have to do some changes on my account, and it’d be put under “observation” and unavailable for 2-3 business days until the iPad arrived, so don’t log in until they call me back. 
+
+I got a password change notification in my email (weird but I guess if they were doing the account changes sure). Also a plan change (this was expected of course) but it was from my current $84/m plan to a new $85/m plan. Odd but I thought maybe this was part of the account change, some sort of intermediate step. 
+
+Still on the line he told me he was sending out the confirmation for the iPad and it should arrive in 2-3 days. He said though he accidentally put in the wrong order and had it for a phone but ignore that he was going to send the right one. Sure enough a “bad” email came in for a Samsung something-or-other and then a minute later the “right” one for the iPad with shipping details and plan details.
+
+When I asked about how to deal with the provider I signed up with the other day he said that they’d do the cancellation on their end. How was a bit of a hand wave, but at the time I figured the providers have some sort of back channel they work through the same as how numbers are ported.
+
+All done, thank you Steve for the amazing dea. Hell, I even bragged on my work slack that I’d now gotten an even better deal than before.
+
+Then about an hour later I had a tiny little tingle. Took a look the email again and noticed it came from _providermobile.org_ and *not* provider.com. Kinda weird, but sometimes companies have multiple domains for their promotional stuff. Domain didn’t got anywhere though and whois showed it was registered by google with all the information set to private. Ok, definitely not smelling right.
+
+Then I called into my provider and asked them to confirm the deal. Lady looked at my account and said nope, fraud.
+
+Fuck.
+
+She was able to cancel things, undo the changes, and get me back to where I was. I did a password reset and got myself logged back in.
+
+She said that they had ordered an expensive phone on my account (would have cost another $95/m on my current bill), but she cancelled that. This was the “oops sorry we sent the wrong order out” email was of course the real notification that a phone was ordere, and by the time I’d have seen the bill they’d have the phone and be long gone.
+
+Luckily it doesn’t look like any other changes were done to my account (which frankly looking back I’m surprised - if I’d been them I’d have changed the email, contact phone number, and taken it over completely).
+
+So 20/20 hindsight I feel like a complete idiot, and rightly so, the signs were *so* obvious you’d have to be an idiot to fall for it. But the timing and the lust for a new free $1000+ iPad had me blind. They got me good. 
+
+Some other things I didn’t notice:
+
+* The callback number was local, not a 1800 number.
+* The formatting and branding on the iPad order email was different than the password reset and 2FA emails.
+* Spelling mistakes in the email that were completely obvious. “Agent I’D”. A name of “Steve Adam’s”, etc.
+* Different domain and from name on the emails.
+* Deal too good to be true (but like I said not _that_ far away from what I was getting).
+* A free tablet that wasn’t the complete bottom of the barrel POS android worth $70 that you normally got as a promotional offer.
+* When talking to “Steve” he kept on talking about sending me out a phone and I had to keep reminding him it was the iPad. No idea if this was intentional to keep me thinking about that sweet free iPad, or just him making mistakes.
+* “Steve” also seemed to forget if I was an existing customer or not in the initial sales pitch.
+
+Like I said, **lots** of warning signs.
+
+Also, I honestly don’t remember how much of my personal info I offered. It felt like they were giving me my info and I was confirming it, but it’s more likely I offered it throughout the call and they were able to just read it back like they had it from my account info.
+
+Two things I still don’t know. 
+
+First thing is how they planned to get the new phone because it was going to be shipped to my real address. Maybe they’d use my personal info and call in and redirect the package?
+
+Second thing is the timing. If this was a cold call I’d have hung up, but my provider *had* told me they’d call me back in a couple of days and this was someone claiming to be from my provider calling me back a couple of days later. Maybe just completely coincidental timing, or maybe someone in a back room is passing phone numbers for people calling into retention to their friends in a scam call centre?
+
+I wonder now what I need to look out for. A scammer has my name/address/phone number and knows I’m a customer of my provider. I’ll call and put a PIN on my account, but are there other things to watch out for? Credit cards taken out in my name, anything like that?
+
+Anyway, hopefully this might help someone here who, like me, is completely confident they’d never be one of those people who gets caught in a scam…

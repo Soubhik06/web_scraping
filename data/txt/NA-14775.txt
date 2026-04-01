@@ -1,0 +1,75 @@
+Ad: India’s Data Protection Bill is here, and your business needs to adapt. K&S Digiprotect, with its team of data protection experts, offers compliance services tailored to help you adapt to the new regulations, safeguard your data and build trust with your customers. Contact us now!
+
+In what may come as a relief to India’s IT industry, personal data transfers abroad will be allowed unless to countries restricted by the government, reads a draft of India’s latest data protection law tabled in parliament on August 3.
+
+Read the Bill Summary here .
+
+The transfers will be restricted on factors currently unspecified in the Digital Personal Data Protection Bill, 2023 (DPDP Bill). Breaches of the draft’s provisions on data flows could cost data controllers up to Rs. 50 crore.
+
+Doing away with sub-categories of sensitive and critical personal data found in previous bills, the bill adds that it will not conflict with prevailing Indian laws with higher protections or restrictions on personal data transfers by data controllers outside India. SEBI and the RBI’s data localisation mandates for specific businesses, including foreign ones, are likely to continue . The law defines personal data as “any data about an individual who is identifiable by or in relation to such data”.
+
+The move comes after the previous draft ‘s controversial provisions on cross-border data flows, which only allowed personal data transfers to countries notified by the government, and which some interpreted as personal data localisation in India by default. The government reportedly began considering the current approach earlier this year following industry feedback. The government’s past approach was expected to increase compliance costs for foreign and Indian businesses, virtually stalling businesses and start-ups dependent on global data transfers to keep their operations running.
+
+There are 200-230 countries in the world, and notification evaluations for each could end up being a long exercise, said a speaker at MediaNama ‘s event exploring the last draft data protection law . The process could also result in some diplomatic chaos. If the government develops a positive list of countries, then it’s a mammoth exercise. If it develops a negative list, it’s suddenly calling out countries and telling them they don’t trust them.
+
+The DPDP Bill, 2023, is the fifth iteration of India’s much-awaited data protection law, with previous versions released in 2018 , 2019 , 2021 , and 2022 .
+
+Are any transfers exempted from the bill’s provisions? : Cross-border personal data transfers are exempted from the law’s provisions if the processing:
+
+Article continues below ⬇ , you might also want to read:
+
+The government can also exempt processing (and seemingly transfers) for government ‘instrumentalities’, such as those in the interest of India’s sovereignty, integrity, security, foreign relations, and public order, or to prevent inciting a cognizable offence. Also exempted: processing necessary for research, archiving, and statistical purposes as long as the data is not being used to make decisions on the individual, and is carried out according to government-prescribed standards.
+
+Within five years of the law’s enactment, the government can also notify provisions that are not applicable to data controllers for a specified period.
+
+The approach over the years has become less complicated, but arguably more ambiguous. For example, unlike their predecessors, the 2022 and 2023 bills deal with ‘personal data’—they do not have specific provisions on sensitive or critical data, nor do they explicitly mandate data localisation. On the flip side, much is left by the government ‘to be prescribed’, making it unclear as to how cross border data flows policies will actually be executed.
+
+Also, the 2022 and 2023 bills give the government wide powers to exempt cross-border data flows from the bill’s privacy protections, which has raised surveillance concerns in the past.
+
+2018 : Data fiduciaries are required to store at least one copy of personal data on a server or data centre located in India. However, certain categories of personal data may be exempted from this requirement based on the necessity or strategic interests of the State, except for sensitive personal data which must always be stored within India.
+
+2019 and 2021 : Both only included provisions for sensitive and critical personal data transfers.
+
+2022 : Personal data could be transferred outside of India to countries that have been assessed and notified by the Indian government. In certain cases, cross-border personal data transfers are exempted from the Act, such as when the processing is necessary: to enforce legal rights or claims; to prevent, detect, investigate, or prosecute offences or violations of laws; for Indian courts, tribunals, or other bodies performing judicial or quasi-judicial functions; and when the personal data is outside of India and processed under a contract with a person outside India by someone based in India.
+
+The 2023 bill departs sharply from its predecessor in 2022—shifting from a whitelist approach, to something that appears less restrictive. Whether the government will introduce an explicit data localisation mandate appears unclear. However, both bills are wholesale overhauls of the 2018, 2019, and 2021 provisions, where data localisation was dependent on the type of personal data you were dealing with.
+
+2018 and 2019 : Nothing explicit, although both bills mandated storing mirrored copies of sensitive and critical personal data in India.
+
+2021 : Mirrored copies of sensitive and critical personal data in foreign hands should be brought to India within a specific time frame. Once the Data Protection Authority is established, all of the law’s data localisation provisions should be followed. The Joint Parliamentary Committee advised the Centre to draft a standalone and extensive policy on data localisation.
+
+2022 : Although the Bill’s one-line section wasn’t explicit about data localisation, many commentators observed that the government had adopted a ‘whitelist’ approach to data flows. That is, unless and until a country is ‘approved’ by the Indian government for cross-border transfers, the data will necessarily have to be stored or localised in India.
+
+Unlike the 2018, 2019, and 2021 bills, the 2022 and 2023 bills do not contain specific penalties for violating provisions on cross-border data transfers. However, both bills state that violations with other provisions, apart from those specified in the law, will incur fines of Rs. 50 crore.
+
+2018 and 2019 : Violating provisions on “personal data” transfers outside of India earns penalties of up to Rs. 15 crore, or 4% of the data fiduciary’s total worldwide turnover for the previous financial year, whichever is higher.
+
+2021 : Violating provisions on “personal data” transfers will be liable to such penalties as may be prescribed by relevant authorities.
+
+2022 : To be determined by the Data Protection Board of India according to the scheme laid out in Schedule 1. While penalties specific to cross-border data flows are not listed, non-compliance with “other” provisions of the Bill can invite penalties of up to Rs. 50 crore. The Board’s decisions can be appealed within 60 days of being pronounced.
+
+The Central government also had powers to amend the Schedule by notification, under Section 27(1), although “no such notification shall have the effect of increasing a penalty specified in Schedule 1 to more than double of what was specified in Schedule 1 when this Act was originally enacted”.
+
+2018 : Sensitive personal data, as determined by the Centre, can be transferred outside of India to individuals, entities, countries, sectors within a country, or organizations under specific circumstances and conditions.
+
+2019 : Sensitive personal data can be transferred outside of India, but a copy of the data must be stored within India. The transfer is allowed if the data principal has explicitly consented, and it is subject to a contract or intra-group scheme approved by the Data Protection Authority (DPA). Additionally, the transfer can be approved by the Centre, in consultation with the DPA, if the receiving country, entity, or international organization ensures an adequate level of protection and doesn’t hinder law enforcement. The DPA can also permit transfers for specific purposes.
+
+2021 : The Joint Parliamentary Committee (JPC) made amendments to the 2019 Bill, further emphasizing India’s national interest in determining cross-border flows of sensitive personal data. In addition to obtaining explicit consent from the data principal, data processing and transfer abroad could occur under specific conditions. For example, if the transfer is subject to a contract or intra-group scheme approved by the Data Protection Authority (DPA) in consultation with the Central government. However, transfers will not be approved if they go against India’s State or public policy. Furthermore, the transfer must be approved by the Centre, in consultation with the DPA, considering that the sensitive personal data will not be shared with a foreign government or agency without Central approval. The DPA, in consultation with the Centre, can also permit transfers for specific purposes.
+
+2022, 2023 : No such category defined in the Bill.
+
+2018 : In addition, certain categories of personal data, known as critical personal data and specified by the government, must be processed and stored exclusively in servers or data centres located within India.
+
+2019 : Critical personal data, as determined by the government, must be processed exclusively in India. Transfer outside of India is only allowed in specific circumstances that do not adversely affect India’s security and interests.
+
+2021 : Same as 2019’s.
+
+2022, 2023 : No such category defined in the Bill.
+
+Note: The headline was changed on August 3 at 5:31 PM for clarity.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

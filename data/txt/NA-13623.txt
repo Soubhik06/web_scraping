@@ -1,0 +1,53 @@
+What’s the news: To “monitor” the activities of Telangana Public Service Commission aspirants, the government body will capture fingerprint , iris and facial recognition data of around 25.80 lakh candidates across the state.
+
+As many as 1,07,600 CCTVs and 43,400 biometric devices will be set up across approximately 8,530 examination centres to “make the process robust.” According to a tender released by the Telangana State Technology Services (TSTS), the objective of the project is to induct “transparency and accountability in the examination process.”
+
+Why it matters: Over the years, use of surveillance technology has increased in India. Already, Jammu and Kashmir police has issued tenders that imply the introduction of such technologies in government policing. Similarly, Meghalaya , Nagaland , Andhra Pradesh and Telangana have reported use of facial recognition in education. Now, the latter intends to use these systems to collect information of aspiring state civil servants. Aside from the possibility of a surveillance state, such a move gives third party access to potentially sensitive data of state officers.
+
+Biometric Authentication to help with “impersonation control”, says government
+
+The request for proposal (RFP) for selecting a service provider said that at least one integrated biometric device must be available for every 60 candidates during different examination stages. There are seven levels of Telangana State Public Service Commission (TSPSC) exams.
+
+“Additional Hand-held devices should be made available as per normal practice in case of emergency,” said  the tender.
+
+Every candidate will receive an admit card with a QR code and Bar code which will be scanned by the system to retrieve their information from the Application Database, provided by the TSPSC. The biometrics of the candidate appearing for the Level-1 exams will be captured at the examination center and stored in the TSPSC application. This data will be stored in the ‘Department Application’ on real time basis.
+
+“No local storage of biometrics is permitted  to avoid mis-use /tampering with the captured data. Any violation /deviation to this will attract strict legal and penal action by the TSPSC /State Government,” said the tender.
+
+If said candidate then goes on to appear for Level – 2 exam, their biometrics will be verified while entering the exam hall. In case of the iris and fingerprints, the identified bidder will authenticate the same through Aadhaar Services and integrate their service with the TSTS Authentication User Agencies (AUA) system.
+
+Meanwhile, facial recognition will be carried out in a “completely stateless transaction” of one image provided during the online registration and the other captured on the day of the exam. The tender states that “biometric activity shall not be stopped on any ground” and that all activities should be completed before the exams conclude.
+
+Past reports show flaws in Aadhaar biometric verification and facial recognition
+
+In 2017, the UIDAI suspended over 100,000 Aadhaar numbers in Telangana and Andhra Pradesh due to mix-up of biometrics with family members and staff at Aadhaar enrollment centres, apart from other reasons like false biometrics and attempts to enroll for a second time. Then in 2018, another report showed that between 1-1.5 percent of all Aadhaar enrollment in the last seven years had mixed biometrics. Sources estimated around 13–19 million mixed biometrics across India. Despite these instances, the Telangana government is keen to integrate Aadhaar authentication services in recruitment government job aspirants.
+
+As for facial recognition, the American Civil Liberties Union (ACLU) in 2018 tested the technology and concluded that even an 80 percent accuracy by the system did not provide a satisfactory threshold practically. Until recently, teachers in Andhra Pradesh were protesting against the use of facial recognition for attendance as technical issues cost them their day’s attendance. Yet, the Telangana government has marshalled on with the introduction of such surveillance technology in education and other fields. In an interview with MediaNama , Jayesh Ranjan, the IT and Industries Principal Secretary, said that when government work is concerned, “consent is implicit.” This push for facial reocgnition and other technologies has worsened since the pandemic .
+
+CCTVs to keep a watch on aspirants
+
+The TSPSC recommended that every examination centre have around one CCTV camera in every class room, two CCTVs on entry and exit gates and four CCTVs in the centre’s control room. Another proposal was to have one CCTV camera at each centre in charge room of concerned examination centers.
+
+The installed cameras must be integrated to local district police command control centre or the local police station as well as the TSPSC headquarters. Further, the CCTV feed data will be stored locally in NVR, while the cameras will be connected to internet.
+
+“Bidder has to ensure that at least 95% live camera feed is made available at HQ control room at all times during the entire duration of examination,” said the tender.
+
+As mentioned before, the Jammu and Kashmir police have been working towards creating a CCTV surveillance network all over the region. Such widespread visual prowess allows the state police to invest in future plans of surveillance by integrating facial recognition with the CCTVs. In this case, the government will already have the biometric data of all future government recruits by the end of the TSPSC exams.
+
+No clarity regarding penalties on violating data privacy
+
+While the tender warns the service provide from locally storing biometrics data, there is no specified government action in case candidate’s data privacy. It only mentions that the created, stored, database, processed, archived etc. data will be the property of TSPSC and cannot be used/transfer in any format without written permission /authorization from TSPSC.
+
+Meanwhile, the service provide will be made privy to the examination date, aspirants’ roll numbers, photos, names, etc. at least one week before the date of commencement of examination. For all this, the tender disallows the bidder from taking away any data either in hard copy or soft copy and states that the work is to be carried out in the designated exam centres. The application software must be in compliance with SSL/Security Audit as per data center norms and the devices should be Geo Fenced within the prescribed examination centre.
+
+Technology and exam candidates: a broader look
+
+In the past, Assam, West Bengal, Gujarat, Rajasthan and Arunachal Pradesh have attempted to suspend internet in parts of its regions using the excuse of ‘preventing cheating during exams.’ The Software Freedom Law Center (SFLC) estimates that there have been at least 15 exam-related shutdowns, amounting to more than 80 hours of internet service disruption. While high courts in the region have given various orders and judgements on such moves, the Supreme Court on September 9  issued a notice to the Indian government after the SFLC filed a plea challenging such use of internet shutdowns. It may be noted that India records the highest number of internet shutdowns as per an Access Now report.
+
+Similarly, an Ohio federal judge deemed online proctoring that uses surveillance-like methods to be a violation of the Fourth Amendment of the US constitution. The proctoring in question scanned the room where the students would carry out their online exams. Such systems can involve analysis of facial expressions, body movements and other biometrics. Ironically, the judge in his verdict said that people are ‘wary of sharing fingerprints, facial recognition data,’ as an example to justify privacy of personal computers. Yet in India, the government seems intent on the opposite, highlighting the need for strong data protection legislations.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

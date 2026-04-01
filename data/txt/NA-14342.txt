@@ -1,0 +1,77 @@
+On August 19th, Justice Julian Knowles of the Queen’s Bench Division ruled that UK-based Saudi dissident Ghanem Al-Masarir can proceed to sue the Saudi government for allegedly infecting two of his iPhones with the Pegasus spyware in June 2018, and for coordinating a physical attack against him in London in October of the same year. The case put forth by Al-Masarir was first greenlit by the UK courts in 2020.
+
+At the heart of Ghanem Al-Masarir v Kingdom of Saudi Arabia is the legal question of whether foreign states can claim immunity from being tried for claims of Pegasus hacking in the United Kingdom. Al-Masarir seeks damages for personal injury in the form of ‘psychiatric injury’ after learning that he had been subjected to state-sponsored surveillance, and the physical harm he was subjected to during the attack.
+
+Currently, foreign states enjoy immunity from legal proceedings in the United Kingdom under the State Immunity Act, 1978 (the Act). However, Section 5 of the Act details certain exemptions to this legal immunity—states lose immunity if an ‘act or omission’ of theirs in the United Kingdom causes death or personal injury, or damage to or loss of tangible property.
+
+Testing the parties’ arguments, evidence, and claims against five legal questions, Justice Knowles’ verdict overwhelmingly sided with Al-Masarir. With the ruling, the Saudi Arabian government’s immunity under the 1978 Act, in this case, stands lapsed, opening the doors for a legal investigation into its extraterritorial spying of civilians using sophisticated spyware.
+
+Why it matters : The Saudi government is unlikely to take the Judgment lying down, with reports suggesting that an appeal can be expected. Nevertheless, as commentators note , it serves as a significant legal ‘blow against states seeking judicial protection against victims of their transnational repression’. While investigations into the Indian government’s alleged use of Pegasus are moving at a pace typical of the judiciary, the Queen’s Bench ruling may offer food for thought for those rallying against the subversion of privacy across the subcontinent.
+
+A human rights activist and a satirist (with a YouTube channel of over two lakh subscribers), Al-Masarir is a vocal critic of the Saudi government and the monarchy. Al-Masarir has resided in the United Kingdom since 2003. He was granted asylum in October 2018—and was notified of an official threat to his life by the UK police the same month.
+
+Text messages were sent to two of Al-Masarir’s iPhones by the Saudi Arabian government in June 2018. When Al-Masarir clicked on the links within the message, Pegasus spyware was installed on the devices. Detections of a Pegasus infection were independently verified in an analysis by an expert computer scientist working for Citizen Lab.
+
+On August 31st, 2018, Al-Masarir was attacked on the street in Knightsbridge, London, by two men for allegedly insulting the Saudi government and ruling monarchy in public. This is despite the fact that Al-Masarir had been in the area to meet an acquaintance for coffee—and had not been speaking about the monarchy at the time at all. Bystanders attempted to break up the fight. Al-Masarir claims that he had been surveilled by the Saudi government, and it was likely that they were responsible for the attack. Video footage of the scuffle was taken by bystanders.
+
+The legal question at hand : ‘Did the act of installing Pegasus on the Claimant’s iPhones and the assault fall outside the scope of s 5 as acts done in the exercise of the Defendant’s sovereign authority, or does s 5 extend to any act of whatever type done by a foreign state in the UK which causes personal injury?’
+
+What the plaintiff argued: Section 5 of the Act applies to both sovereign/governmental acts (known as jure imperii ) and acts of private law (known as jure gestionis ).
+
+What the defendant argued: The spying via Pegasus claim is an act entirely sovereign or governmental in nature. This renders it outside the purview of Section 5, which only covers acts of private law.
+
+What the Judge reasoned : Based on a plain reading of the Act, Justice Knowles reasoned that Section 5 means ‘“all acts or omissions”, without any restriction as to the nature of the act being read into it’. This means that the section applies to all acts or omissions committed by a foreign state (whether jure gestionis or jure imperii ), provided that they took place in the United Kingdom and caused personal injury.
+
+The outcome : The Judge ruled in favour of the plaintiff, noting that the injuries raised (being targeted by Pegasus as well as bodily harm) fall within the exemptions to immunity noted in Section 5 of the Act.
+
+The legal question at hand : ‘Does the claim fail to meet the requirements of s 5 because the alleged personal injury resulting from the spyware claims was not caused by an act or omission in the UK?’
+
+What the plaintiff argued : Section 5 applies provided that a ‘substantial and effective act’ pertaining to the injury has been committed within the United Kingdom. This is despite the fact that other such substantial and effective acts may have been committed against the plaintiff in other jurisdictions too.
+
+What the defendant argued : Section 5 only applies if the entirety of the offence takes place in the UK. As a result, if ‘the alleged personal injury resulting from the spyware claims was not caused by an act or omission in the UK within the [supposed] meaning of s 5’, then immunity is retained.
+
+What the Judge reasoned : The Act clearly states that ‘ an Act or omission [emphasis added]’ by a foreign state needs to take place in the UK for immunity to lapse. A plain reading indicates the legislature’s intent to consider any substantive act or omission related to the claim taking place in the United Kingdom. If it had intended that the Section only applies to cases where all omissions and acts took place in the UK, then it would have phrased the provision differently.
+
+Such reasoning is particularly pertinent in transnational spying in the digital age, where precisely pinpointing jurisdictional ambits can be challenging. Among other cases, the Judgment cites a case of hacking in Ashton Investments Ltd v OJSC Russian Aluminium (2007) to support its rationale:
+
+Ashton’s computer server was in London. That is where the confidential and privileged information was stored. The attack emanated from Russia but it was directed at the server in London and that is where the hacking occurred. In my view, significant damage occurred in England where the server was improperly accessed and the confidential and privileged information was viewed and downloaded. The fact that it was transmitted almost instantly to Russia does not mean that the damage occurred only in Russia. If a thief steals a confidential letter in London but does not read it until he is abroad, damage surely occurs in London. It should not make a difference that, in a digital age of almost instantaneous communication, the documents are stored in digital form rather than hard copy and information is transmitted electronically abroad where it is read . (..) Substantial and efficacious acts occurred in London, as well as Russia. That is where the hacking occurred and access to the server was achieved. This may have been as a result of actions taken in Russia but they were designed to make things happen in London, and they did so. Effectively the safe was opened from afar so that its contents could be removed. It would be artificial to say that the acts occurred only in Russia. On the contrary, substantial and effective acts occurred in London.
+
+The outcome: Justice Knowles ruled in favour of the plaintiff, affirming the argument that the fact that his phone was targeted by Pegasus in the UK from Saudi Arabia was sufficient grounds for a Section 5 lapse in immunity.
+
+The legal question at hand : ‘Does the claim fail to meet the requirements of s 5 because there is insufficient evidence of the Defendant’s responsibility for the persons responsible for the alleged spyware?’
+
+What the plaintiff argued: Expert evidence provided by Dr. Bill Marczak (a post-doctoral researcher in Computer Science at the University of California, Berkeley and a researcher at Toronto-based Citizen Lab) sufficiently indicates that the plaintiff’s phone was targeted with Pegasus by the Saudi Arabian government. Through technical analyses, Dr. Marczak was able to identify with a ‘high degree of certainty’ that interception requests for a particular Pegasus ‘control and command’ server could be linked to Saudi Arabia (for a detailed overview of the analysis, please click here ). The plaintiff also contends that this claim is supported by Saudi Arabia’s known use of spyware (such as Pegasus), the fact that he was targeted online repeatedly through other media, and the characteristics of the texts he received that led to the software’s installation on his device.
+
+What the defendant argued: The defendant is not ‘vicariously responsible’ for the spyware allegedly installed on the petitioner’s device. The evidence provided is circumstantial, and the analysis does not prove that the Pegasus control and command servers are ‘under the control of a person or persons for whom the Defendant is responsible’.
+
+What the Judge reasoned : Describing Dr. Marczak’s qualifications as ‘impeccable’, Justice Knowles reasoned that his technical evidence supported the claim that the plaintiff’s phone was infected and that the Saudi Arabian government was behind this act. Additionally, no other foreign state was likely to benefit from targeting an individual like the plaintiff with spyware as intrusive as Pegasus. That the Saudi government is well known to track dissidents (and target them online) is also established, as is evidenced by the treatment the plaintiff has been subjected to at times. In the past, the plaintiff has been subjected to waves of Twitter trolling for his views on the Saudi monarchy, his website was hacked, his Facebook account access was temporarily blocked (and reinstated after the Western press caught a whiff of the matter according to the ruling), and he received threatening messages in Arabic over phone calls, videos, and in YouTube comments.
+
+The outcome: The Judge ruled in favour of the plaintiff. Given that the defendant failed to provide sufficient counter-evidence, even describing its counters as ‘modest’, Justice Knowles accepted ‘Dr. Marczak’s evidence in full’.
+
+The legal question at hand : ‘Does the claim fail to meet the requirements of s 5 because there is insufficient evidence of the Defendant’s responsibility for the persons responsible for the assault on the Claimant?’
+
+What the plaintiff argued : There is sufficient evidence to prove the defendant’s ‘vicarious liability’ for the attack.
+
+What the defendant argued : While the Saudi embassy in London was aware of the incident, it reiterated that the attackers were not agents of the government. ‘They acted independently as private individuals out of their own sense of patriotism,’ according to the defendant. As to how the embassy found out about the incident at all: one deposition suggests that the men approached the embassy themselves for immunity, while a subsequent one suggests that their mother called the embassy to report the incident arguing that the attackers were provoked by the petitioner’s alleged comments.
+
+What the Judge reasoned : The Judge was satisfied with the claim made out by the petitioner on various grounds:
+
+As for the defendant’s divergent claims on the incident, while critiquing it for relying on hearsay as opposed to actual statements from the attackers themselves, Justice Knowles had this to say:
+
+I am not wholly sure what ‘help’ the mother was seeking or expecting. Nor am I clear why these grown adult men needed to rely on their mother. Whatever the men heard, it was part of a private conversation between the Claimant and his friend, and so to say the men were ‘provoked’ seems to me to be far-fetched. There was no question of them requiring consular assistance, as all foreign detained people are entitled to under the Vienna Convention on Consular Relations 1963, as they had not been arrested nor were they likely to be (and so far as I know, were not). I am also not entirely sure what the mother feared the Claimant’s dissident voice – or his statements about the attack referred to in Given 2 at [9] -could do to Saudi Arabia. Those who come to this country, on whatever basis, need to realise that here, there is a long and rich history of freedom of speech, especially when uttered privately.
+
+The outcome : Justice Knowles ruled in favour of the claimant, satisfied that he’d sufficiently proved the Saudi government’s involvement in the attack. He noted that if the case goes to trial, a ‘proper disclosure’ and cross-examination may affect this reasoning.
+
+What the petitioner argued: The first four questions of law should be ruled in his favour—so, naturally, the fifth should rule in his favour too. The case does not indicate a ‘misuse of process’.
+
+What the defendant argued: The petitioner’s case is so ‘weak’ and ‘speculative’ that it does not make sense—the Court should exercise its jurisdiction to halt the proceedings.
+
+What the Judge reasoned: An exercise in brevity, Justice Knowles reasoned in a single line that ‘given I have resolved the first four issues in the Claimant’s favour, it seems to me this fifth issue also must also be determined in his favour.’
+
+The outcome : The defendant’s application to halt the case stands dismissed. With this, Justice Knowles’ verdict opens the doors for the UK-based dissident to sue the Saudi government for spying and privacy breaches.
+
+Read More
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,17 @@
+The personal data of 1.5 million customers of Tata-owned Taj Hotels might have been exposed in a data breach, the Economic Times reported on November 23.
+
+A threat actor going by the name “dnacookies” claims to have possession of this dataset and is selling it on BreachForums for $5000.
+
+MediaNama was able to verify the dataset listing on the leaked data marketplace BreachForums in a post dated November 5, but we are unable to confirm if this dataset indeed contains customer data leaked from Taj Hotels and if so, what is the amount and granularity of the data at stake here.
+
+We have reached out to the Indian Hotels Company Limited (IHCL), which owns Taj Hotels, for a statement on this breach and will update this post once we receive a response. IHCL told the Economic Times that they are just “investigating this claim and have notified the relevant authorities”. According to the post on BreachForums, the dataset contains information on 1.5 million customers from 2014 to 2020 including their name, email, phone, date of birth, and address. The hacker has shared a small sample from the dataset on the post. A link to a larger sample of 10k users does not work.
+
+The hacker has stated that they will not provide any more samples. The hacker has also noted that they will sell all the data to a single buyer and will require a middleman or guarantor to carry out the transaction.
+
+Also Read
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

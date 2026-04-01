@@ -1,0 +1,71 @@
+A recent threat intelligence report from Anthropic revealed the emergence of “vibe-hacking” , where cybercriminals used AI coding agents like Claude Code to launch cyber attacks against at least 17 international targets. Vibe-hacking is a play on “vibe-coding” which refers to the use of generative AI programmes to write code for applications, instead of human programmers writing each line of code themselves.
+
+“The operation demonstrates a concerning evolution in AI-assisted cybercrime, where AI serves as both a technical consultant and active operator, enabling attacks that would be more difficult and time-consuming for individual actors to execute manually,” said the report.
+
+The hacks involved the theft of sensitive personal data, with the hackers threatening to release it unless a ransom is paid.
+
+According to the report, the threat actor provided Claude Code with their preferred operational TTPs (Tactics, Techniques, and Procedures) in their CLAUDE.md file: which the programme use as a guide to respond to prompts. The hackers used Claude Code to make both tactical and strategic decisions like determining how best to penetrate networks, which data to exfiltrate and how to craft psychologically targeted extortion demands.
+
+The attack compromised numerous personal records like healthcare data, financial information, government credentials, and other sensitive information, with some ransom demands of over $500,000.
+
+The first step was to use Claude Code for automated reconnaissance. The attackers used the AI agent to create scanning frameworks that could detect vulnerable systems across thousands of VPN endpoints. The AI then provided real-time assistance during network penetration operations, guiding them in identifying critical systems, including domain controllers and SQL (Structured Query Language) servers. The AI-powered tools extracted multiple credential sets, facilitating unauthorised access in addition to comprehensive network enumeration.
+
+The attackers also employed AI to create custom malware with evasion capabilities, designed to bypass Windows Defender detection. The AI-generated malware included obfuscated versions of the Chisel tunneling tool and novel TCP proxy code. When initial evasion attempts failed, the AI provided alternative techniques, such as string encryption and anti-debugging code, to disguise malicious executables as legitimate Microsoft tools.
+
+In the next phase, AI facilitated the systematic extraction and analysis of sensitive data from various organisations, including defence contractors, healthcare providers, and financial institutions. The stolen data encompassed social security numbers, bank account details, patient information, and documents controlled by the US State Department. AI organised the data for monetisation purposes, extracting thousands of individual records.
+
+Finally, the attackers leveraged AI to craft customised ransom notes based on the exfiltrated data’s analysis. These notes included victim-specific details, such as financial figures and employee counts, along with tailored threats referencing industry-specific regulations.
+
+The attackers demanded payments ranging from $75,000 to $500,000 in Bitcoin, with AI-generated “profit plans” outlining multiple monetisation options, including organisational blackmail and targeted extortion of individuals.
+
+According to Anthropic, the case represented a cybersecurity scenario where:
+
+“These operations suggest a need for new frameworks for evaluating cyber threats that account for AI enablement. Traditional assumptions about the relationship between actor sophistication and attack complexity no longer hold when AI can provide instant expertise,” said the report.
+
+Anthropic responded by banning the accounts associated with this operation and began developing a tailored classifier specifically for this type of activity and a new detection method to catch similar behaviour earlier.
+
+The company also incorporated this case into its broader set of controls, improving its detection methods and safeguards.
+
+AI is making it easier for cybercriminals to carry out attacks by compensating for lacking technical ability, said Saikat Datta, the CEO of DeepStrat: a consultancy firm working in the cybersecurity and risk management sectors.
+
+“Earlier, you needed a decent set of tools and a decent set of skills to carry out exploits,” said Datta. “Now, even if you don’t have a decent set of skills, AI can help you plug in that gap,” he added. However, Datta pointed out that just like with vibe-coding, you still need a large amount of human guidance for vibe-hacking to work.
+
+And speaking about the potential impact of AI-assisted cybercrime on businesses, Datta stated that most Indian enterprises still lack with respect to their cybersecurity practices, doing only the bare minimum to comply with regulations.
+
+“Oftentimes, we see that official policies are either outdated or not followed in practice,” he said. “Additionally, businesses often don’t do their due diligence when working with third party vendors, who may not have adequate security practices,” Datta added.
+
+Notably, black hat hackers – people who perform hacking activities to commit crimes – aren’t the only ones using AI to break into secure networks. Sai Krishna Kothapalli, Founder of AI-assisted cybersecurity startup NoHackLabs, explained how his team has built AI agents that are able to detect vulnerabilities at a rate much faster than humans.
+
+“If you want to secure anything, you need to know what the loopholes are. Until now, in my old company, we used to manually find bugs. People like me are security researchers. We do the hacking, we understand the logic of hackers, and then we try to break it. We do that manually. There are restrictions to that. It’s not scalable to tens of thousands of companies and all. But with AI agents, we can scale these things,” he said.
+
+Restrictions on AI agents could prevent security researchers like Kothapalli from building helpful tools, but are needed to prevent genuine cyberattacks. Meanwhile, he believes that while some things, like creating malware, should always be restricted, there is a need for models to support research and learning within the security field.
+
+Anthropic’s investigation also uncovered a UK-based ransomware development commercial operation, tracked as GTG-5004, which leveraged AI to create and sell advanced ransomware through a Ransomware-as-a-Service (RaaS) model.
+
+Active since at least January 2025, the threat actor operated across dark web forums like Dread, CryptBB, and Nulled. This operator, who lacked technical expertise, relied entirely on AI—specifically Claude—to develop malware that could evade security systems. They marketed multiple ransomware variants with sophisticated capabilities, including ChaCha20 encryption, anti-EDR techniques, and Windows internals exploitation. Despite limited technical knowledge, the actor successfully sold ransomware packages priced between $400 and $1,200.
+
+The actor maintained anonymity through a .onion site and a ProtonMail contact, marketing their tools while falsely claiming they were for educational use. Analysis of the malware revealed a robust system of encryption, anti-analysis, and anti-recovery mechanisms.
+
+The operation’s reliance on AI eliminated traditional barriers to ransomware development, allowing a non-technical criminal to launch sophisticated cybercrime ventures. According to Anthropic, this shift is “democratisation” of cybercrime, where actors with minimal technical expertise can launch wide-ranging ransomware attacks.
+
+Anthropic also uncovered a number of other AI-assisted cybercriminals, like a sophisticated Chinese threat actor who exploited Claude to enhance cyber operations targeting critical Vietnamese infrastructure. Over a nine-month campaign, the actor integrated Claude into nearly all phases of their attack lifecycle, using it to develop custom reconnaissance tools, file upload fuzzing frameworks, and optimise credential harvesting operations.
+
+With Claude, the actor was able to compromise major telecommunications providers, government databases, and agricultural management systems in Vietnam, likely for intelligence gathering with implications for Vietnamese national security and economic interests. Their methods align with Chinese APT operations, and their targeting patterns suggest a strategic interest in Southeast Asia.
+
+Elsewhere, Anthropic thwarted a North Korean malware distribution campaign by automatically detecting and banning accounts linked to it. It also identified a Russian-speaking developer using Claude to create malware with advanced evasion techniques.
+
+India has faced a number of cyberattacks in recent years, with Indian companies often lagging behind in adequate cybersecurity protections
+
+India faced over 10 million intrusion attempts within days of the April 22 Pahalgam terrorist attack, according to a report from the Computer Emergency Response Team-Maharashtra (MH-CERT).
+
+These attacks consisted of a mix of DDoS (Distributed Denial of Service) floods, website defacements, phishing campaigns, and exploit attempts targeting the public, critical infrastructure, and defence portals.
+
+Notably, the Ministry of Electronics and Information Technology (MeitY) released India’s first Digital Threat Report on April 7 this year, which highlighted that criminals were increasingly using AI-powered tools to exploit vulnerabilities in the cybersecurity systems of financial firms.
+
+The report mentioned large language models (LLMs) like FraudGPT and WormGPT, which allowed even less skilled operators to craft convincing phishing emails, generate malware, and exploit other vulnerabilities.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,42 @@
+SUBREDDIT: r/india
+TITLE: Scamming people to sign up to their platform using the name of SURAKSHA STORE ?
+DATE: 2020-04-19
+SCORE: 11
+URL: https://www.reddit.com/r/india/comments/g3z60v/scamming_people_to_sign_up_to_their_platform/
+
+--- POST TEXT ---
+
+Hi guys,
+
+So my father has an essential store and he gets this message on whatsapp saying that govt has launched a website to register your company as Suraksha Store so that they can get govt benefits.
+
+Website: [surakshastore.com](https://surakshastore.com) (very believable domain for the average non tech guy)
+
+Here is what made me suspicious:
+
+1. The website didn't open for me as I had high-security settings for chrome (ERR: Too many redirects)
+2. No mention of website in any news
+3. Powered by SafeJob at the end which is a private company
+4. Copyright to suraksha circle (i.e. the circle that GOI has asked us to make where people will stand)
+5. After filling the form, it asked us to get a certificate so that we can get approved faster and that certification needs us to login to their website [safejob.in](https://safejob.in) where we need to create account and do a suraksha certificate course
+6. The course is a video where they explain how to make your store a suraksha store and then asks a basic quiz (which is a good deed they're doing acc. to me)
+
+Here are my findings:
+
+1. Terminal command I used:- whois [surakshastore.com](https://surakshastore.com) (Only for tech guys)
+2. The domain is being bought by Vineet Tiwari of Safeducate
+3. There was no information that I could find linked to GOI
+4. I checked socials of both safejob and safeducate (none of them have posted about it)
+5. On website of safeducate, it says Ministry of rural development but on surakshastore, it's ministry of home affairs (This might be against my hypothesis)
+
+Link of whois result: [https://in.godaddy.com/whois/results.aspx?domain=surakshastore.com](https://in.godaddy.com/whois/results.aspx?domain=surakshastore.com&amp;recaptchaResponse=03AHaCkAYKFQoubZUr1si98nAJnDn0VM5x5Z43VMMjUoyLO1OfY6lZsxqf1KTMRFuBsIi-l1TfdDBlHZ8lnGsQITNwXSt0vzgA9qzvXb0vT-855S7tRKA89dveP9obUN1_-4h7_BMwDaHKbO10AhbG4UDY6cgIKuESpGtZuoB0ButrjvBGiUqvDeaZ0rheIJiXAfst1Ur0jfVO2kLAyWXtK06gIqJ91T5GNjTbLLFxLxiJDlMY_Xw_Z13ms4xI2exVKuKWLsEF6CxdGASDWCqJFs6ZRmhX3i32QIYVxC0Q5n-p1qHW8r1-Q0KfTP3SML-_LYUisjC8ov5kzPWswqFk2fP3l_p5gNwCPxZ57_NWY6SPL4NO1zck4RvLec_PsHxBc3siRu0R1RArgdRwKA3YzlcyD_kvPxKpcQ)
+
+(Link cut off in the text as was too long , don't copy-paste text please)
+
+Although I highly think this is a scam, I would want to ask you guys if you think otherwise and if you also find that this website is a scam, please notify your Whatsapp groups. (Lies circulate through WhatsApp, so let the truth tackle it there itself)
+
+I'm open to any sources that prove that this is not a scam. If it is a scam, then you have to be the lowest of scums to make profit in these times scamming people.
+
+&amp;#x200B;
+
+PS A request please, let's not blame any political party/group until we have concrete evidence (no, photo with any party isn't concrete, investments of a party in the company is) that they're involved as I don't want this to become a political thread.

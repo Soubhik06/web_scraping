@@ -1,0 +1,29 @@
+The RBI has called upon banks to enhance customer awareness and to make required investments in suitable technology for security risk mitigation to ensure optimal levels of banking security while delivering appropriate customer convenience. Although, the focus is on ensuring a secure online banking experience, the central bank has also expressed concern over the rising number of offline frauds.
+
+Speaking at the Annual Conference on Secure Banking 2011, G. Padmanabhan , Executive Director, RBI, said that in the IT enabled banking environment, it has to be recognized that fraud possibilities have assumed international dimensions and that the so called “Safety” must be continuously benchmarked against international standards. The threats which bother the banking sector range from password hacking, card copying/cloning to data and identity theft at various levels of transaction, information storage as well as transmission stage:
+
+– Online, Mobile Challenging: Managing security is more challenging in online and phone banking as compared to other delivery channels.Online threats in the form of phishing attacks, spyware, viruses, Trojans, key loggers are frequent. Threats from ATM take the form of ATM skimming, eavesdropping, spoofing, service denial.
+
+– Identity theft in the electronic transactions is a growing cyber crime. Innovative methods of hacking and stealing come to the fore regularly and the industry needs to take prompt action to safeguard business and customer interest.
+
+– Impact Of Two Factor Authentication: The introduction of Second Factor of Authentication for all Card Not Present transactions has ensured greater security in online card transactions and instances of online frauds has considerably dropped .
+
+– Offline Spoofing Of Cards: This has resulted in a significant growth in card transactions in this mode reflecting the enhanced level of customer confidence. However, as a consequence, the focus of fraudsters has shifted to card present (offline) transactions .
+
+He mentioned a case in Hyderabad where fraudsters posing as merchants offered Baskin Robbins/mobile recharge voucher talk time worth Rs.250 against payment of a mere Rs.50 . The condition being only debit cards would be accepted. The kiosk machine set up was configured to prompt for PIN and print a charge slip indicating approval of the transaction by the Bank. The Magnetic Stripe Card data and the PIN were captured from the unsuspecting customers and later used to make counterfeit cards for withdrawal of cash. The same modus operandi was used at a Petrol Pump in Ranchi ; only this time instead of mobile recharge voucher, customers were offered car wash liquid and air freshener. He said that although banks were hardly at fault in these cases, they need to educate customers against such possible frauds.
+
+– Alerts: The Reserve Bank has mandated with effect from July 01, 2011, a system of alerts for all card transactions, irrespective of the channel used. Banks need to ensure that customers are persuaded to register their mobile phone numbers for receiving the alerts .
+
+– Phishing: The RBI also expressed concern over phishing attacks or fraudsters soliciting information by directing unsuspecting customers to a website purported to be that of an authentic institution, through a link in the email . While RBI has cautioned the public through advertisements in the media, banks also need to be watchful.
+
+– KYC Process: The RBI also questioned banks’ KYC processes, since in many of these cases money has been paid by the unsuspecting public into bank accounts from where the funds have been withdrawn.
+
+– It also emphasized on the need to have effective control over the actions of third party vendors/ service providers , in addition to internal threats as often computer criminals are employees of the same financial organization/bank. So, banks have a new threat, inside violations concerning data at rest, since Employees can easily export sensitive files and information via email, FTP or by copying data to portable media. Banks have to control over where their sensitive information is, how it is used, and who obtains it.
+
+– Aadhaar Authentication: A working group was constituted by RBI under the Chairmanship of  G. Gopalakrishna, ED, RBI on Information security, Electronic Banking, Technology Risk management and cyber frauds which has has noted that Aadhar biometric data would serve as a secure second factor of authentication even for Magnetic Stripe Cards eliminating the need mandating a switch over to EMV Chip and Pin card regime , which has cost implications for the industry. The Group has recommended that the need for a move to EMV Chip cards could be considered after 18 months depending on the progress of Aadhar.
+
+While the RBI is processing the report, it is aiming at a secure second factor of authentication for all card present transactions without being prescriptive about the technology to be deployed for the purpose.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

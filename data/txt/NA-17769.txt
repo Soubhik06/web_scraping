@@ -1,0 +1,42 @@
+SUBREDDIT: r/india
+TITLE: A techie's rant about demonetization &amp; 'cashless digital'
+DATE: 2016-12-15
+SCORE: 45
+URL: https://www.reddit.com/r/india/comments/5ig2zj/a_techies_rant_about_demonetization_cashless/
+
+--- POST TEXT ---
+
+A telecom techie here. Let's run through the scenario of going digitally cashless, shall we?
+
+I think everyone agrees that if cashless has to go anywhere, it has to be on the back of the mobile phone. The evangelists of cashless/less-cash are preaching that since of the approximately 1.25 billion people in India about 1 billion have mobile phones, so it should be easy. Not so fast ...
+
+In fact, that is just over 1 billion active mobile *connections*: see [here](http://trai.gov.in/WriteReadData/PIRReport/Documents/Indicator_Reports_April_June_01_12_2016.pdf). Thanks to the magic of 'dual-SIM' phones and prepaid, these connections (SIM cards for GSM) actually inhabit only about 616 million actual mobile phones in June 2016: look for 'unique users' [here](http://www.gsma.com/newsroom/press-release/new-gsma-study-projects-almost-one-billion-mobile-subscribers-india-2020/). Let us be generous and say take that number to be 625 million: 50% of the population.
+
+But the 1.25 billion counts people who do not **need** to handle cash anyway -- small children, say, below 7 years of age typically, which is about 15% of our population. I suppose that 15% do not have their own mobile phones either. So we have 50% of the population with mobile phones and 85% of the population who need to handle cash, ok?
+
+50/85 = 58.8% ... say 60%. So 40% of our population who need to use cash **do not** have mobile phones. And what's more, the 'population coverage' of mobile networks in India stands at about 90% today, which means we can divide that 40% into 10% who **cannot** get a mobile because there is no coverage where they live, and 30% who don't own a phone for other reasons (presumably they simply cannot afford it).
+
+And I am not even talking about smartphones (18% of our population) and the 3G/4G networks that they require. Or network congestion ... five-bar signal but app can't reach server in the middle of swanky Gurgaon when I'm in the middle of a traffic jam.
+
+It is to **this** setup we are trying to push 'less cash'? I suppose today 'Sweden' is to 'cashless' what 'soldier' is to 'queue due to demonetization', so let us compare:
+
+* Sweden has a population of 9.6 million, which is less than that of Delhi, and Mumbai ... and even Kolkata if you consider the contiguous urban area.
+* Sweden has a per-capita income of USD 47000 (per year, PPP)
+* India has a population of 1250 million
+* India has a per-capita income of USD 5500 (per year, PPP). This is of course just the *mean*: given the high income inequality in India, the more relevant *median* per-capita income is some USD 700 p.a. or so.
+
+And by the way, even if we can be proud of being the world's second largest mobile market, the current governing party cannot really claim any credit for that. If any is due, it is to our 'weak' and 'silent' former PM -- it is during his tenure as FM the first mobile networks were set up in India (1995), and during his tenure as PM the number of mobile connections grew from 48 million to 919 million. 
+
+Sure there were scams -- remember Sukh Ram in 1995/96? And the 2G scam -- but while that was going on (2008-2012), the number of mobile connections actually zoomed from 340 million (2008) to 894 million (2011), dropping to 865 million after the Supreme Court intervention in 2012. Go figure ... 
+
+Actually, it just may be that a **weak** government works better than a strong one with brute majority in such matters.
+
+**Edit:** Of course, due credit goes to the NDA-1's [New Telecom Policy 1999](http://pib.nic.in/focus/fomar99/fo3103991.html) which, through liberalization, brought the cellular call rates crashing down to affordable levels for everyone, providing a springboard for what happened next. Thanks to @Randiathrowaway1 for reminding us of that. He also wants us to look at Kenya's [mPesa](https://en.wikipedia.org/wiki/M-Pesa) revolution, which with Kenya's 45 million population and USD 2800 per-capita income, is a counterpoint. However, going through [this article](http://www.orfonline.org/expert-speaks/kenyas-mobile-money-story-and-the-runaway-success-of-m-pesa/) it appears that while 68% of Kenyans use mPesa, only about half this number actually have an actual 'formal bank account'. What's more, according to the article, before mPesa this number was 25% -- so that needle hasn't moved that much. Another thing, the mPesa model depends on 'dealers' who accept and disburse **cash**, a-ha!
+
+In any case, anything like mPesa is available to only someone who has a mobile phone which, as I say above, is 60% of all Indians who need to transact. Our '\*99#' USSD service *could* become something just as effective -- especially with the ability to send money to a mobile phone number (MMID), without requiring a smartphone and 3G/4G (or even GPRS). But the cash-in cash-out component is missing so far: currently I believe we still need a 'formal bank account' to be associated with the phone number. 
+
+'Less cash' in *urban* areas ... sure! Only if someone had given it a good thought **beforehand**. But right now?
+
+**More Edit**: And now there is [this](http://www.economist.com/blogs/economist-explains/2016/12/economist-explains-13) article that expresses similar doubts about mobile penetration in Africa, discussing mPesa as it goes.
+
+Cheers!

@@ -1,0 +1,15 @@
+Criminals can hijack WhatsApp accounts by social engineering their way into getting the phone number verification code, an advisory released by Maharashtra Cyber reveals . Mumbai Mirror first reported this.
+
+When a user installs WhatsApp, they have to provide a mobile number which is verified through a verification code sent to the number. This process is repeated if a user changes their phone but not the number. As per the advisory, in this attack, “the hacker knows your mobile number and this whole series of attacks starts with one person (Mr. A), giving out his verification code and allowing his account to be hijacked”.
+
+Once the fraudster has access to Mr A’s WhatsApp account, they also have access to his contacts and groups. The fraudsters figure out the most contacted people on Mr A’s list and message them, as Mr A, saying that they haven’t received the verification code and hence they are sending it to the most contacted people. But verification codes cannot be redirected this way. When the most contacted people share verification codes with “Mr A”, they are actually sharing verification codes for their own phone numbers, thereby making it easier for fraudsters to take over their accounts. The advisory said that in several instances, the fraudsters then sent obscene photos on WhatsApp groups the victim is a member of.
+
+It is not clear what compels this Mr A to give out the verification code — is his phone number spoofed because of which the verification code is also sent to the fraudster? Is there certain amount of social engineering at play through which Mr A is tricked into giving his verification code to the fraudster? We have reached out to the office of Yashasvi Yadav, the Special Inspector General of Police who heads Maharashtra Cyber, for clarification.
+
+Prasad Patibandla, cybercrime and digital intelligence analyst, who has worked in the Maharashtra Cyber in the past, told us that different phishing techniques exist which can be used to mirror a user’s WhatsApp screen. In such a case, a fake QR code is sent to the victim in a spear phishing message (“Scan it and you will win money”, etc.) on scanning which, the WhatsApp screen is duplicated on the fraudster’s screen. The fraudster then has access to all new conversations that the victim has, just as WhatsApp Web does. The malware duplicates only the WhatsApp app screen, but does not give access to other data on the phone.
+
+Once the fraudster has such visibility, they send messages, faking the identity of the victim, to their close contacts, Patibandla told us, and seek the contacts’ verification codes.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,45 @@
+Disney+ Hotstar is phasing out passwords for login authentication, saying that some of its users’ accounts were compromised because of “data breaches on other platforms”, the company said in emails to users that it started sending at least earlier this month. The company did not go into details of what exactly these breaches were. A copy of Hotstar’s email to users is shared below.
+
+Will this have an impact on password sharing? In all probability, Hotstar will benefit from premium users facing more friction in sharing their accounts with others, as OTP-based authentication requires account holders to provide a new code for each login. This approach makes password sharing, while not impossible, much more burdensome.
+
+Some users have been complaining to Hotstar about their accounts being compromised for some time now. Hotstar has been responding to them that reused or weak passwords were causing these incidents, not a breach on their own servers. The company has been providing this templated response to users since May 2019, when their current head of information security, privacy and trust joined the company.
+
+Hi! Hotstar's systems, sensitive information about users and their payment modes continue to remain secure. We have observed a trend where email-based users with shared accounts, weak/common passwords or compromised systems tend to be targeted by hackers.(1/2)
+
+— Disney+HS_helps (@hotstar_helps) June 21, 2020
+
+The company has not been allowing new accounts to be created with email addresses since February, Gadgets 360 had reported . It is unclear if any of the breaches cited by Hotstar came from organisations that were working with the OTT platform; Dunzo disclosed a breach earlier this month where vulnerabilities on third party platforms exposed their users’ data. We have reached out to Hotstar for comment (see our questions to the company below).
+
+It is not uncommon for password reuse to lead to users’ accounts being compromised accounts elsewhere. Since at least 2016, Netflix notifies users whose login credentials they find on security breaches. The Naked Security blog by Sophos notes that Amazon does the same thing.
+
+It’s unclear if Hotstar did such audits on data breaches on the web and alerted affected users. Disney+, which is headquartered in the US, faced the exact same issue mere hours after it launched, but continues to provide email address and password-based login as the primary way for users to login.
+
+Of course, OTP-based logins are not without risk either, since SMS is more vulnerable to interception than, say, end-to-end encrypted messaging or password-protected emails. The service continues to allow users to sign up and sign in using Facebook, but requires an additional click to access this feature:
+
+We reached out to Hotstar with the following questions on the breach:
+
+Here’s Hotstar’s email to users on the move to OTP-based logins.
+
+Action Required: Link your mobile number
+
+Hi there ?
+
+We are here to make your account more secure. As we begin phasing out email logins, we strongly recommend you to link your mobile number with this account registered with Hotstar for future logins. To do this, please follow the link below.
+
+Link Your Mobile Number
+
+Linking mobile number will log you out of all devices, so you can use this mobile number for all your future logins. We assure you it’s all for a secure and seamless experience moving forward.
+
+Why is this important?
+
+In light of the recent events where few Hotstar accounts were found to be compromised due to data breaches on other platforms, we want you to have an unhindered entertainment experience. Linking your mobile number ensures that OTP (one-time pin) is required for authentication on every login which unlike password cannot be reused. Be rest assured, the linked mobile number will only be used for internal purposes.
+
+Please note, the link will expire within 24 hours. For any other queries or complaints, write to us at [email protected] .
+
+Thank you for using Disney+ Hotstar! Team Disney+ Hotstar
+
+Also read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

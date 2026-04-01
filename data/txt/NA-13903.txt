@@ -1,0 +1,45 @@
+We missed this earlier: The Reserve Bank of India (RBI) amended its Master Direction on Know-Your-Customer (KYC) norms on Monday, allowing regulated entities like banks and other lenders to on-board customers using video-KYC technology. The RBI has instructed financial companies to allow customers to use video-KYC across all types of services, while customers can use any communication channel to update their KYC.
+
+With the pandemic raging across the country, in an unscheduled public address on May 5, RBI Governor Shaktikanta Das announced several moves to ease conditions in the financial system. “Taking forward the initiatives of the Reserve Bank for enhancing customer convenience, it has been decided to rationalise certain components of the extant KYC norms,” he said. So far the RBI had permitted banks and other entities to use video-KYC in some use-cases and adoption was limited retail deposits, and now banks can expand the use of video-KYC to different types of loan products, for instance.
+
+The RBI has also instructed financial companies to provide their customers with a notice acknowledging that the company has received KYC documents, self-declaration form and other requirements. The notice has to be provided at the time of on-boarding and whenever the company needs to do a Re-KYC or a KYC update, the central bank said.
+
+By relaxing KYC norms, every player from banks, non-bank lenders to fintech lenders, payments firms to neo-banks, and the end customer stands to benefit as purchasing banking and financial services can be done virtually through video rather than physical contact. This reduces the cost of acquisition for companies, while giving consumers multiple options to buy new banking products or avail credit without the effort-time and risk associated with physical KYC processes. Of course, lenders and banks would still need to conduct physical verification of their customers depending on the type of banking service and the type of risk. For example, personal loans can be sold fairly quickly and without the need for physical checks over the life of the loan, a home loan would require considerable more physical due-diligence by the lender.
+
+The RBI also has told regulated entities, like banks, payment firms and non-bank lenders, to encourage the use of digital channels so that customers can periodically update their KYC details. Further, the entities have been instructed to not place any punitive restrictions on customers’ accounts, if they have not been recently updated, until December 31, 2021. The RBI also has directed account holders and users to update their KYC over the coming months.
+
+Monish Salot, Co-founder and Chief Product Officer at Think360.ai said that it is an arduous task to implement video-KYC technology correctly and institutions should build their services keeping user experience, time-duration and drop-off rates in mind. “When VCIP/Video KYC was allowed, it was anyone’s guess that it would be rolled out to numerous use cases, as the technology improves and stabilises. Today VKYC is as close as it can get to having an in-person conversation with a live person and hence drastically reduces fraud risks,” he said.
+
+The RBI instructed financial companies to adopt a risk-based approach for periodic updating of KYC and to carry it out once in every 2 years for high-risk customers, once in every 8 years for medium-risk and once in every 10 years for low-risk customers from the date of opening their account, or since their last KYC update. The RBI now allows customers to update their KYC through any of the following methods: email, mobile, ATMs, digital channels or letters.
+
+The RBI issued a set of general principles to regulated entities on existing KYC records:
+
+Individual Customers :
+
+Non-Individual Customers:
+
+The RBI issued a specific procedure for conducting the video KYC process and has instructed each regulated entity to create and follow a standard operating procedure. It said that the officer conducting the video-KYC should carry out liveliness check and detect any fraudulent manipulation or suspicious activity and that the sequence of questions asked by the officer should be varied to ensure that the interactions are real-time and not pre-recorded, among other requirements.
+
+Identity checks:
+
+Aadhaar protocols:
+
+“The entire data and recordings of V-CIP shall be stored in a system / systems located in India. REs shall ensure that the video recording is stored in a safe and secure manner and bears the date and time stamp that affords easy historical data search. The activity log along with the credentials of the official performing the V-CIP shall be preserved,” the RBI said.
+
+Video-based Customer Identification Process (V-CIP) or Video-KYC allows regulated entities to identify customers through facial recognition technology, through a “seamless, secure, live, informed-consent based audio-visual interaction”, the RBI said. The central bank has allowed customers and financial entities to use video-KYC for both deposit and borrowing products.
+
+Any deposit or borrowal account that is opened through the One-Time-Password based e-KYC process, will not be allowed to continue functioning for more than 1 year unless a video-KYC is carried out, the RBI said. “If Aadhaar details are used under Section 18 [of the Master Directions], the process shall be followed in its entirety including fresh Aadhaar OTP authentication,” the central bank said.
+
+Regulated entities are allowed to conduct video-KYC under the following conditions:
+
+The RBI said that all regulated entities undertaking video-KYC processes, needs to abide by regulatory guidelines on cyber-security and other IT risks and that they need to ensure there is end-to-end encryption of data between the customer device and their V-CIP hosting software. “The technology infrastructure should be housed in own premises of the RE and the V-CIP connection and interaction shall necessarily originate from its own secured network domain. Any technology related outsourcing for the process should be compliant with relevant RBI guidelines,” it said. Further, the technology infrastructure for video-KYC needs to be periodically upgraded and undergo tests like Vulnerability Assessment, Penetration testing and a Security Audit, the RBI added.
+
+Video recordings need to  contain the live GPS co-ordinates (geo-tagging) of the customer and date-time stamp, while the software they use needs to have face liveness / spoof detection as well as face matching technology capabilities. “Appropriate artificial intelligence (AI) technology can be used to ensure that the V-CIP is robust,” the RBI said.
+
+“The V-CIP application software and relevant APIs / webservices shall also undergo appropriate testing of functional, performance, maintenance strength before being used in live environment. Only after closure of any critical gap found during such tests, the application should be rolled out. Such tests shall also be carried out periodically in conformity with internal/ regulatory guidelines.” – RBI
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

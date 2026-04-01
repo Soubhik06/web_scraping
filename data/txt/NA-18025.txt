@@ -1,0 +1,15 @@
+SUBREDDIT: r/india
+TITLE: Randians, which password manager do you use and why? How did you set it up?
+DATE: 2016-06-14
+SCORE: 3
+URL: https://www.reddit.com/r/india/comments/4o0wtk/randians_which_password_manager_do_you_use_and/
+
+--- POST TEXT ---
+
+I was thinking about migrating all my accounts into a password manager.They offer good random password and protect against keyloggers(auto fill). I did some research and found that if you are poor(which I am) and willing to invest time, Keepass is the best password manager. Otherwise, Lastpass is the best one for its ease of integration, two-factor authentication(phone OTP not there in Keepass), account recovery.I have this setup.
+
+* Keepass2 database in my Ubuntu system(no encryption on hdd), keefox in firefox and ckp for chrome with a keyfile in my android phone(no encryption on my android phone) and another two in 2 usb sticks(also no encryption).
+
+* Keepass database synchronized to dropbox. I have enabled 2FA on my dropbox account.
+
+This is the best system that I could come up with. I was thinking about buying raspberry pi and setting up an encrypted owncloud on it. But I don't have money to do it and I didn't know if I could have my android phone synchronized with it. I never do online banking on my phone. I only do online banking on my ubuntu system. What else can I do to protect against this rig against keyloggers, viruses, phishing etc.? Should I rather use Lastpass free as I mainly check my email, use my dropbox and browse reddit on my phone? There are some people concerned about cloud storage also.

@@ -1,0 +1,57 @@
+Twitter announced on February 15 that two-factor authentication (2FA) using text messages (SMS) will only be available to Twitter Blue subscribers. Non-subscribers who want 2FA for their accounts will have to choose between using an authentication app or a security key by 20 March 2023.
+
+This announcement received a backlash, with many users arguing that Twitter should not charge for an essential security feature (that was previously free). But the other side to this debate, which is also Twitter’s side, is that SMS-based 2FA is costing the company millions because fraudsters are scamming the company using this feature, and other forms of 2FA are more secure anyway.
+
+What is two-factor authentication (2FA): “Instead of only entering a password to log in, 2FA requires you to also enter a code or use a security key,” Twitter explains. The code is typically either delivered to a user on their registered mobile number or on an authentication app set up by the user. Having 2FA for all types of accounts is considered more secure because even if bad actors obtain your password they will not be able to log in without the second authentication credential. 2FA is also referred to as multi-factor authentication (MFA) as it can sometimes include more than two levels of security.
+
+It is costing Twitter $60 million a year: In response to criticism of this move, Twitter CEO Elon Musk claimed that supporting SMS-based 2FA is costing the company $60 million a year because of fake messages:
+
+Twitter is getting scammed by phone companies for $60M/year of fake 2FA SMS messages
+
+— Elon Musk (@elonmusk) February 18, 2023
+
+Wait, but why does it cost so much? Well, to start with, sending an SMS costs money. But this is an acceptable cost if messages are only sent for legitimate login attempts. SMS 2FA, however, has a bad reputation for being misused by fraudulent phone companies. Essentially, some fraudulent phone companies pay scammers to put in fake requests for one-time passwords (OTP) and earn from this as they send Twitter the bill for sending these messages. Elon Musk claimed that around 390 telcos were defrauding Twitter in this way.
+
+“Basically, there are telcos who are not being super honest out there, in other parts of the world, who were basically gaming the system and running, like, two-factor authentication SMS texts over and over again, and just creating a zillion bot accounts to literally run up the tab so that Twitter would SMS text them, and Twitter would pay them millions of dollars, without even asking about it.” — Elon Musk, CommsRisk
+
+I know everybody hates Elon right now, but turning off 2FA makes a ton of sense. Our Twilio bill at @getsentry was quite substantial because bad actors in foreign countries abused it to rake up profits from paid numbers. Twilio has as far as I know also no solution for it.
+
+— Armin Ronacher (@mitsuhiko) February 18, 2023
+
+The following Twitter thread expounds on this issue, as well as other ways Twitter could’ve addressed it:
+
+I think I have a pretty good idea what happened with the SMS decision yesterday.
+
+Some people are mentioning Elon talked about fraud creating high costs for SMS 2FA. (Account security via login codes sent to your phone.) This is known as Toll Fraud and is nothing new.
+
+1/14
+
+— Eric Aschner (Parody) (@EricAschner) February 18, 2023
+
+“While historically a popular form of 2FA, unfortunately we have seen phone-number based 2FA be used – and abused – by bad actors.” – Twitter
+
+Are other forms of 2FA actually better? Some are praising Twitter’s move by claiming that SMS-based 2FA is not as secure as it appears and that authentication apps and security keys, which Twitter is pushing users towards, are more secure. There is merit in this claim because SIM swap attacks allow a hacker with a stolen password to be able to get the code sent to the user’s number. Although not common, it is possible , and therefore, 2FA using SMS is strongly discouraged for people who face a higher threat of hacking such as celebrities, politicians, CEOs, and journalists. But all this doesn’t mean eliminating SMS as an option (or charging for it) is the best move here.
+
+Charging for SMS 2FA will put millions of users at risk: Notwithstanding the above pro-Twitter arguments, Twitter should not charge for SMS 2FA because:
+
+By making SMS 2FA an unattractive option, Twitter might be making 2FA itself an unattractive option as there will be millions of users who don’t know how to use authentication apps or security keys and would go back to password-only login by default.
+
+“Many people struggle with digital literacy and don’t yet understand app-based MFA — SMS 2FA is all they know, and very few people know *that* at all! Remember, only 2.6% are enrolled in 2FA at all! In security bubble, MFA seems obvious but to everyday folks it’s still confusing.” – Rachel Tobac, CEO at SocialProof Security
+
+The following Twitter thread explains this issue:
+
+This Twitter 2FA change is nerve-racking because: 1. Only ~2.6% of Twitter users have 2FA on at all (it’s essential for preventing easy account takeover) Of those 2.6%, 74% use text message based 2FA ( https://t.co/WXuFydZk17 ) If they don’t pay for Blue they auto lose 2FA on 3/20. https://t.co/LneQojvjbi pic.twitter.com/PgySF3Qyag
+
+— Rachel Tobac (@RachelTobac) February 18, 2023
+
+As for the fraud issue that Twitter is facing, the company should try to come up with other ways to address it such as limiting maximum number of code generation attempts, educating users on shifting to authentication apps, etc.
+
+Is there no happy middle ground? Like every account gets 5 free texts a month? I’m guessing the offenders are generating many text per account
+
+— henry levak (@HenryLevak) February 18, 2023
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,35 @@
+Google’s Threat Intelligence Group (GTIG) issued an advisory on August 26 about a widespread data theft campaign targeting Salesforce customers that ran from August 8 to August 18.
+
+A rogue actor, identified as UNC6395, carried out this data theft by using compromised OAuth tokens linked to the Salesloft Drift third-party application.
+
+For context, an OAuth token is a digital key that grants a third-party app (Salesloft Drift in this case) access to a user’s data and/or resources on another platform without requiring passwords.
+
+Meanwhile, Salesloft Drift is an AI-powered chat agent that interacts with customers through “real-time personalised conversations,” aiming to deliver “a better buyer experience and more qualified leads.”
+
+The GTIG advisory says that UNC6395 exported large volumes of data from multiple corporate Salesforce customer instances, with the apparent intention of gaining unauthorised access to users’ credentials.
+
+To explain, a customer instance refers to a unique and isolated environment of a software product or service that a particular customer uses, often in the context of cloud computing. Each customer instance is separate, which prevents interference with other users and provides data privacy and security.
+
+As per the GTIG advisory, the rogue actor targeted sensitive user credentials such as Amazon Web Services (AWS) access keys, and passwords, among other information.
+
+UNC6395 also deleted the history of the query jobs they ran. However, this did not impact the larger database of activity logs. As such, Google said that affected organisations “should still review relevant logs for evidence of data exposure.”
+
+Salesloft became aware of the data theft on August 20, revoked all connections linked to Salesforce, and asked “Drift admins to re-authenticate their Salesforce connection.”
+
+Notably, the third-party AI chat agent informed all users that the data theft would not impact Drift customers who have not integrated with Salesforce.
+
+“We are continuing to investigate and will provide more information as it becomes available. We apologize for any disruption this incident may have caused and appreciate your patience,” read the Salesloft website .
+
+The rogue actor UNC6395 used compromised OAuth tokens connected to the Salesloft Drift third-party app to execute this data theft. And one must remember that Drift is, after all, an AI agent whose task is to interact with customers.
+
+Notably, MediaNama reported in September 2024 that Salesforce was developing its own independent AI agents capable of functioning without human supervision. These agents were expected to increase productivity at Salesforce during busy periods without the need to onboard additional workers.
+
+However, in the latest instance, one can see that the Salesloft Drift AI agent became the means by which UNC6395 successfully performed the data theft.
+
+This raises several pertinent doubts about customer-facing AI chat agents and the cybersecurity risks they pose, in addition to concerns about the privacy rights of customers, rights that are undermined when malicious actors are able to exploit AI chat agents.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

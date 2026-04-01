@@ -1,0 +1,73 @@
+In its briefing paper ‘Unlocking Value from Generative AI: Guidance for Responsible Transformation’ , the World Economic Forum (WEF) tackles one of the most urgent questions rising amidst the AI boom—how do we ensure its adoption by companies is done responsibly ?
+
+According to WEF’s AI Governance Alliance, some of the focus areas of discussion in this respect should be — identifying the opportunities and application areas for generative AI, new challenges and downstream impact of AI use cases, and determining best practices for scaling responsibly and exponential transformation.
+
+As organisations seek to capitalise on the opportunities offered by AI, the paper charts out ways in which companies can evaluate business impact, organisational readiness, and investment strategy to ensure responsible adoption of AI.
+
+Currently, companies are already adopting AI for varied purposes involving, product and service enhancement, daily operational activities, and for personalised offerings. The AI Governance Alliance divides use cases of generative AI into categories such as those meant for “enhancing enterprise productivity, creating new products or services and, eventually, redefining industries and societies” .
+
+As listed in the briefing paper, an example of enterprise productivity would include IKEA’s experimentation with generative AI to explore furniture design concepts, and training a model on 1970s and 1980s catalogues for students to create future-focused designs inspired by the past. Here, furniture designers collaborate with AI to expand design possibilities and speed up cycles.
+
+On the other hand, the use of generative AI by Insilico Medicine during preclinical drug discovery process to identify a novel drug candidate for “idiopathic pulmonary fibrosis”, can be categorised under use cases that are instrumental in redefining industries and societies.
+
+However, the paper notes that organisations are now shifting towards smaller, use-case-based approaches that “emphasize ideation and experimentation.”  “Smaller use cases with low complexity are often applied first, allowing leaders to find value while minimizing downstream implications. In either case, leaders start with diverse POCs [proofs of concept], which are scaled across the enterprise once value is proven,” the paper noted. A proof of concept is essentially the result of a demonstration of a product that help companies determine whether a design concept is feasible, based on the experiment results.
+
+The paper recommends that organisations must assess generative AI use cases based on the evaluation of business impact, organisational readiness and the company’s investment strategy before adoption. While the approach may differ for different organisations, the paper suggests that the above-mentioned three filters comprise the “most common approaches” adopted by industry leaders to check the feasibility and value-generation potential of use cases.
+
+1. Business Impact: The paper suggests that leaders must evaluate whether generative AI is the most suitable technology to address a specific use case and whether the outcomes align with the organisation’s strategic objectives. The impact of each use case, as recommended, can be categorised as follows:
+
+“When generative AI performs administrative tasks that previously required significant time and effort, the workforce can repurpose their time from rote activities to those that allow them to explore their creativity and hone their unique skillset,” the paper added.
+
+2. Operational Readiness:
+
+The paper recommends three major steps that determine the operational readiness of a company to adopt generative AI. These include:
+
+Further, the paper highlights that “organizations need a plan to enhance stakeholder trust with a technology that can elicit great scepticism to ensure their workforce, customers and other critical parties responsibly adopt generative AI.”
+
+3. Investment Strategy:
+
+While deliberating upon the investment strategy, the paper states that criteria for model selection must be taken into account while prioritising use cases for which AI is being adopted.
+
+“…leaders must consider if each merits the use of models adopted from open-source communities, acquired from other third parties or developed in-house. Model selection must account for alignment with the use case, speed to market, requisite resource investments, including capital and talent, licensing and acceptable use policies, risk exposure and competitive differentiation offered by each option,” the paper explains.
+
+In order to offset development costs, company leaders must evaluate the reusability potential of a use case across the organisation. It is also advisable to check whether a use case can operate viably in line with existing regulatory requirements and whether the organisation can effectively monitor compliance to tackle legal risks.
+
+Another investment category includes upskilling, re-skilling or hiring additional employees with appropriate generative AI skills, such as content creation, model development, or model tuning to enhance the company’s talent availability.
+
+Adopting practices for responsible adoption of generative AI is important to prevent negative consequences which can be “multi-fold and compounded,” the paper notes. From the impact on workforce and employment opportunities, perpetuating biases, introducing security vulnerabilities to spreading misinformation, and hurting an organisation’s reputation, irresponsible generative AI practices can have a larger impact on the organisation as well as the society at “speed and scale.”
+
+The paper details functions that can support organisational effort in balancing out the benefits of generative AI with its “downstream impacts” while implementing them at scale.
+
+1. Governing downstream impacts and ensuring accountability:
+
+“Multistakeholder governance with distributed ownership is central to responsible transformation in the age of generative AI. This approach is characteristic of industry leaders, with legal, governance, IT, cybersecurity, human resources (HR), as well as environmental and sustainability representatives requiring a seat at the table to ensure responsible transformation across the organization,” the WEF highlights.
+
+It also recommends the formation of an AI ethics council in an organisation, which may include stakeholder members or shareholder groups, or an external council depending on the size of the organisation. These councils must take into confidence a diverse set of members to ensure responsible adoption of AI for not just individual use cases, but also for “intersecting strategies on open technologies, artificial general intelligence (AGI), 5G and quantum technology.”
+
+The paper suggests that “rigorous self-regulation and internal governance” are key to ensuring human oversight over responsible adoption of rapidly evolving generative AI capabilities and in tackling risks while maintaining quality outcomes.
+
+2. Addressing trust through transparency:
+
+According to the paper, the communications teams are instrumental in educating stakeholders and shareholders on the “capabilities and fallibilities” of the technology. Through effective communication strategies and transparency, organisations need to assure stakeholders that while innovation is important, it is not done at the cost of ethics and trust.
+
+The paper recommends: “Internal accountability and advocacy are needed from top leadership to obtain buy-in from the workforce and establish a culture that benefits from generative AI. Examples of effective trust programmes include taking a prominent ethics stance in policy or the executive community, buddy programmes for all employees seeking (generative) AI immersion and novel career pathways that can lead to increased trust and ownership from the workforce.”
+
+3. Diverse and agile operational structures:
+
+As the initial adoption of generative AI across organizations may be focused on targeted or isolated use cases, scaling these use cases comes with a diverse set of challenges. The paper notes that, in the initial stage, use cases require a diverse operational structure to ensure a multistakeholder approach to extracting, realizing, replicating and amplifying value. Whereas, when use cases are integrated or implemented at scale, “an interlocking and agile operational structure is needed” to determine how compound value can be unlocked while anticipating the impact on other parts of the workforce or other lines of business.
+
+4. Addressing human impact:
+
+“Technologies that develop as rapidly as generative AI require adoption by a workforce that evolves at pace,” the paper highlights. To ensure talent transformation at the organisation, the management must ensure that the staff have access to the required technological tools and training. The top leaders must communicate their vision for generative AI pilots with desired benefits to the customers as well as employees.
+
+It is also the responsibility of the HR professionals to manage ongoing changes by proactively assessing the impact on staff and putting workforce transformation plans in place.
+
+Lastly, the paper emphasises: “Including employees in idea generation for use cases and encouraging them to own their career paths can increase engagement. Hackathons and company-wide training days are effective in upskilling the workforce while also encouraging experimentation and innovation.”
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

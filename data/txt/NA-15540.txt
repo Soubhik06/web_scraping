@@ -1,0 +1,69 @@
+The newly launched AI models of OpenAI, o3 and o4-mini, can figure out where photographs are taken- image locations. A TechCrunch investigation showed the AI models could guess cities, streets, and even specific restaurants using only visual cues. They did not need GPS metadata.
+
+Users on X have turned this into a game. They upload menus, street scenes, and selfies, asking ChatGPT to guess the image locations. The model often comes close. Sometimes too close.
+
+this is a fun ChatGPT o3 feature. geoguessr! pic.twitter.com/HrcMIxS8yD
+
+HOLY **** ChatGPT's o3 model might have THE coolest feature ever! After reading about it, I had to try it myself. I took a screenshot of an image to strip any EXIF info and told it to "geoguess" the location. AMAZING! pic.twitter.com/108eekW31b
+
+This is not just a one-off success. Testers found that both o3 and earlier models like GPT-4o were able to guess some locations correctly based on visual clues. One example included identifying a bar in Williamsburg based on a distinctive purple rhino head on the wall. The trend has picked up momentum, with more users uploading images and treating the model like an AI-powered version of GeoGuessr , an online game where players guess real-world locations based on Street View images.
+
+OpenAI released o3 and o4-mini after running them through its internal safety process. The company said the models did not meet the “high risk” threshold in any of its three tracked categories: Biological and Chemical, Cybersecurity, and AI Self-improvement.
+
+While the AI models are described as having strong visual reasoning capabilities, OpenAI does not address their ability to infer location from images in its system cards or safeguards . It does not warn users that the AI model can guess image locations. The company does not offer a way to disable the feature or control how it is used.
+
+The AI models do not rely on metadata. They draw conclusions from visual elements in the photo, such as signage, logos, languages on menus, or street layouts. That makes them harder to detect and harder to regulate. A photo taken on a public street, with no identifying text or caption, could still reveal where the user was.
+
+In a screenshot from a user interaction with ChatGPT o3, the AI model explained that it checks for GPS metadata if present, but this is rare since most apps strip it.
+
+The model also listed cultural and architectural cues as common tools for “geoguessing” when metadata is missing.
+
+The company has not disclosed any restrictions on the use of image location inference, and the capability is currently accessible without warnings, rate limits, or opt-out options.
+
+India’s Digital Personal Data Protection Act (DPDPA), 2023 gives people the right to access, correct, or erase their personal data. The draft DPDP Rules, 2025 explain how users can make those requests using customer IDs, application numbers, or other identifiers.
+
+The rules require data fiduciaries to share what data they collect, how they process it, and who they share it with. They also require companies to delete data if a user becomes inactive, after giving 48 hours’ notice. These protections, however, only apply to data a user has knowingly shared, such as a phone number on a bank form or an email address used to sign up for an app.
+
+They do not apply when AI models, like ChatGPT o3, infer image locations from a photo posted online. For example, a person might upload a street selfie with no tags or GPS data. The model could still identify their city or neighbourhood using signs, architecture, or even the side of the road vehicles are driving. The law doesn’t recognise that visual inference as personal data. It doesn’t require platforms to disclose that such analysis is taking place, nor does it offer users a way to opt out or challenge the output.
+
+There is no grievance mechanism for someone who finds their location has been inferred from visual details in an image. They cannot request an audit trail, ask for deletion, or file a complaint under the current law because no data was explicitly “shared” in the first place.
+
+That gap gives companies like OpenAI freedom to build and release features that can extract sensitive insights without explaining how they work. It also leaves individuals unable to detect, dispute, or control what AI tools are inferring from their content.
+
+These AI models released by OpenAI do not need GPS data. They do not need a location tag. They rely only on what is visible in the image.
+
+People often post photos from public events, protests, marketplaces, or personal spaces. Most do not expect AI to extract location information from them. There is no way to know if or when that happens. There is no option to opt out, and no legal basis to ask for the data to be erased.
+
+This capability also creates real risks for stalking, harassment, and targeting. A bad actor could upload a photo from someone’s public post and use the model’s output to guess where they are. Even if the model is not perfectly accurate, a close-enough guess could be enough to track someone down, especially in cities or smaller towns with identifiable landmarks.
+
+OpenAI has built safeguards for threats like biosecurity and hacking. But it has not treated visual inference with the same urgency. The feature is already live. There are no warnings, no disclosures, and no policy category tracking its use.
+
+India’s data protection law does not address this kind of AI behaviour. Until it does, users remain exposed, even when all they have shared is a photo.
+
+MediaNama asked corporate lawyer Pundrikaksh Sharma whether AI-generated visual inferences, such as location from images, are covered under India’s data protection laws and what recourse individuals have if such inferences are misused.
+
+Q: Does using AI to infer someone’s location from a photo without their consent violate an individual’s right to privacy under Indian law? Can any current laws, like the IT Act or DPDP Act, be applied to hold someone accountable if they misuse AI for stalking or doxxing?
+
+Currently, the best understanding of the contours of privacy as a right may come from the Supreme Court’s decision in Puttaswamy , which recognized that privacy had multiple facets – including bodily privacy, decisional privacy, and informational privacy. The SC described informational privacy as individuals having the right to control the dissemination and use of personal data about themselves. Justice S.K. Kaul, in a concurring opinion, observed that an individual’s privacy encompasses the right to control the spread of their personal information and set boundaries from others in society. Justice D.Y. Chandrachud’s plurality opinion similarly noted that “informational control empowers the individual to use privacy as a shield to retain personal control over information pertaining to the person.” The Court explicitly acknowledged that the unauthorized use of personal information – i.e., collection or analysis of someone’s private data without consent – can infringe the right to privacy.
+
+This principle directly applies to AI-driven location inference: deducing a person’s whereabouts from their photo (without consent) is effectively an unauthorized use of personal data, undermining the individual’s control over their information. It can thus be seen as an intrusion into their informational privacy, and by extension a violation of their fundamental right to privacy in spirit. Thus, it can be argued that individuals in India have the right to preclude unauthorized processing of information relating to them.
+
+However, it should be noted that fundamental rights like Article 21 are primarily enforceable against the State. If a government agency used AI to track someone’s location from images without legal basis, it would likely be unconstitutional absent a valid law that is just, reasonable, and proportionate. This remains to be tested though, especially given the severe limitations on informational privacy that the DPDP Act conveniently places.
+
+The DPDP Act, given that it excludes “personal data that is made or caused to be made publicly available,” may not offer much protection in this regard. If the photo in question was posted publicly by the individual on social media (i.e., they “made it publicly available”), then the location information derivable from that photo might be considered publicly available personal data. In that case, processing it (even without consent) could be outside the scope of DPDP’s protections.
+
+In other words, the law assumes some lower expectation of privacy for data a person themselves published openly (though one might argue the person did not explicitly publish their location). This is a grey area: inferring new data (location) from public data (photo) might not be the use the individual anticipated. However, until regulations clarify this, it remains a potential loophole. This exclusion in itself also raises a question as to the treatment of publishing through a restricted profile (private profiles on Instagram, for example).
+
+Further, the DPDP Act’s enforcement mechanism involves a Data Protection Board that can levy fines on data fiduciaries for non-compliance. It is not primarily geared toward criminally punishing individuals. Misuse of data for stalking or doxxing would more likely be dealt with by police under criminal laws, rather than the data protection authority.
+
+Nonetheless, the DPDP Act signals the legislative intent to protect personal data. If an entity (for example, a tech company or a data broker) offers an AI service that processes people’s photos to reveal locations, that entity would be a data fiduciary subject to DPDP Act obligations. They would need valid consent from the individuals in the photos to use their personal data (location) in that manner, unless an exception applies. Without such consent, the organization could face hefty administrative fines for unlawful processing. The Act prescribes penalties up to ₹250 crore for serious breaches.
+
+Additionally, if the misuse causes or is likely to cause “significant harm” (a term used in earlier drafts for severe impact), authorities could take notice. While the DPDP Act does not create a private right to sue for damages, the affected individual could complain to the Data Protection Board for redressal if a company’s AI service misused their data.
+
+As opposed to the extraction of such data in itself through an AI system, Indian law is currently more capable at governing and making users of such extracted data and the manner of their criminal usage in check. For example, a case of cyber-stalking and criminal intimidation could be made out against the criminal user publishing the sensitive information on other networks. For now, harm through AI-based tools requires a human user in the mix to execute the criminal enterprise in the real world, and nine out of 10 times, the human user will bear the criminality for the same.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

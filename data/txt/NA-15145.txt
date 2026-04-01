@@ -1,0 +1,49 @@
+The Unique Identification Authority of India (UIDAI) has “successfully conducted” a test run on the use of face authentication for verifying the identity of candidates during the National Eligibility cum Entrance Test (NEET UG) examination, the Ministry of Electronics and Information Technology (MeitY) announced in a press release . The UIDAI claimed that it conducted the PoC to evaluate the “feasibility and effectiveness” of the system to identify candidates.
+
+The government authority conducted the “Proof of Concept” (PoC) test at a few exam centres in New Delhi in collaboration with the National Informatics Centre (NIC) and the National Testing Agency (NTA).
+
+This comes a year after the NTA faced significant criticism due to the NEET UG 2024 paper leak debacle. Although the government claims the integration of the new system will make the process “contactless and more streamlined,” it could also put citizens’ important biometric data at risk. The move also raises concerns regarding the privacy of Indians, which the Supreme Court ruled as a fundamental right under Article 21 of the Indian Constitution.
+
+MeitY, in its press release, claimed that the “results of the PoC” showed a “very high level of accuracy and efficiency” in identifying the NEET UG candidates. But it failed to mention the methodology it employed to measure the success rate.
+
+On top of this, the authority has also not addressed the concerns regarding the privacy of the students. On future use cases, the MeitY did hint that it might use the system in the future, but it failed to mention where.
+
+Hence, MediaNama has reached out to the UIDAI and NTA seeking answers to the following questions –
+
+This move by the government essentially subjects children under the age of 18 to facial recognition technology (FRT). It raises concerns about whether the government took informed consent from the medical exam candidates, and whether it goes against their fundamental right to privacy.
+
+Medha Garg, a Freedom Innovation Fellow at the Internet Freedom Foundation (IFF), told MediaNama that the government’s move raises several fundamental, legal, and ethical concerns that one cannot overlook.
+
+“India currently does not have an operational data protection law. We do have one, but since the rules are not out, it remains unoperational. This means that there is no regulatory framework governing the collection, processing, storage, or sharing of sensitive biometric data that they [private and government agencies] are collecting through facial recognition scans,” Garg said. “Particularly in the case of the NEET [UG] exam, it is troubling because many of the candidates are under the age of 18. Hence, they cannot legally give consent [for data collection].”
+
+She said that, as per the Supreme Court’s K.S. Puttaswamy judgment , the entity that is collecting the data must take consent from children whose data it is collecting. “The government also made this mandatory [in the select exam centres of New Delhi]. So effectively, the authorities did not give them an alternate way to mark their attendance,” Garg told MediaNama. So, neither did the government authority take informed consent from the candidates, nor did it give an option to opt out of it, she added.
+
+Garg told MediaNama that the K.S. Puttaswamy judgment also requires the government to put such moves through the proportionality test.
+
+“The government argues that this [use of FRT] increases efficiency, especially since there have been some cases of irregularities in the past,” she said. “One of the metrics for the proportionality test is to check whether there are any other less stringent alternatives that can be used. But I don’t think that has happened here.”
+
+The UIDAI is using old facial biometric data to mark the attendance of candidates, Garg said. Many candidates might not have been able to mark their attendance as they might not appear the same as they looked when the authorities took their pictures for the Aadhaar card.
+
+“Facial features in adolescence change significantly in a short period of time. In fact, FRT is historically consistently exclusive of (or biased against) certain groups like women or people with darker skin tones. This bias can further lead to the exclusion of certain people appearing for the exam,” she added. “It also caused last-minute panic among the children appearing for the exam, as just days before the exam, they were abruptly asked to provide their Aadhaar details for verification, and due to glitches, a few couldn’t complete the process.”
+
+In case of a data leak or a cyberattack, hackers can potentially misuse the facial biometric data available with the UIDAI. Bad actors can morph pictures of the students with the help of artificial intelligence (AI) tools.
+
+On this, Garg told MediaNama, “Of course. This is also a concern, especially given the fact that India does not have any regulations on AI and deepfakes.”
+
+In the past, civil society has raised concerns about the use of biometric technology for identification that can potentially put the vulnerable data of Indians at risk. According to a report , in April 2025, the National Medical Commission (NMC) revised its 2023 guidelines that required medical colleges to implement Aadhaar-based biometric systems for faculty attendance. The new guidelines mandated the adoption of face-based authentication for faculty attendance.
+
+The non-profit organisation IFF, in September 2024, wrote a letter to the NMC raising concerns about their Aadhaar-enabled biometric attendance system (AEBAS).
+
+“There have also been instances where private companies are being hired by government agencies to facilitate [the] implementation of schemes without any checks. A private firm in Chennai came under scrutiny in January 2023 for collecting sensitive biometric data of thousands of people to authenticate beneficiaries of a welfare scheme for the Greater Chennai Corporation, without the latter’s knowledge,” the IFF said in its letter.
+
+The rise in the adoption of biometric attendance systems by the Union and state governments has raised human rights concerns, as stated by the IFF in its letter to the NMC, which also highlighted that the use of such technology to identify and monitor individuals could lead to “harmful breaches” of privacy, especially since the Digital Personal Data Protection Act, 2023 (DPDPA) is yet to become fully operational.
+
+Historically, Aadhaar data has been subject to several data breaches. The IFF shed light on this and said that such instances call into question the “vulnerability of any potential biometric system,” specifically in the case of Aadhaar.
+
+“Issues of individuals’ Aadhaar data being made publicly available and being accessible to government officials who lacked proper authorisation represent just some of the cybersecurity issues that any future database will be required to overcome,” as per the IFF letter. “We believe that the proliferation of AEBAS and facial recognition attendance systems, as well as the move to make biometric attendance compulsory in various organisations, patently violates the fundamental right to privacy of individuals.”
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

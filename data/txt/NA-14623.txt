@@ -1,0 +1,51 @@
+“Experts believe that additional regulation of OTTs [over the top platforms] through proposed means like licensing, would potentially stifle innovation and hinder economic growth, and could also have implications for privacy and data protection of consumers,” CUTS Centre for Consumer Action, Research & Training argues in its submission to TRAI’s consultation on the regulation and selective banning of online communication services.
+
+The Telecom Regulatory Authority of India (TRAI) released a consultation paper on the regulation of OTT communication services (like Whatsapp, Telegram, etc.) in July this year. In the paper, the authority discussed ideas such as charging communication platforms a network fee for their use of telcos’ infrastructure.
+
+In its submission to the consultation, CUTS pointed out that OTT platforms in India are already regulated under the Information Technology Act, 2000 (IT Act) and the Digital Personal Data Protection Act, 2023, and will also be regulated under the upcoming Digital India Act. “Further regulation will lead to increasing the cost of compliance and business uncertainty, which will have an indirect impact on consumers,” it explained.
+
+Besides its individual submission, CUTS, along with 10 other consumer organizations, wrote to TRAI saying that the regulation of OTT services could have negative repercussions for customers.
+
+Also Read: A Summary: TRAI Releases Consultation Paper On Calling And Messaging App Regulation
+
+Here’s a round-up of the key issues that consumer organizations have highlighted so far.
+
+Communication platforms are not substitutes for telcos:
+
+“While there are demands of ‘same services, same rules’, based on the idea of substitutability of telecom and OTT services, they are not substitutes,” CUTS said. It argued that the two differ on an operational and functional level: while OTTs cannot be accessed without using a telecom company’s services, the reverse isn’t true. “Also, they operate at different layers as TSPs can acquire the spectrum, build network infrastructure, and thus have control over the layer,” CUTS mentions. Therefore, “according to OTT service providers the licensing requirement and similarly regulating carriage and content, might result in over-regulation.”
+
+Network fees trickle down to the end consumer:
+
+Consumer organizations feel that if a network fee is levied on OTT platforms it could lead to “differential pricing for different sets of consumers, which can impair consumer choice for the desired service,” the abovementioned letter states.  Further, they mention that there is a possibility that the consumer might face a “double whammy” since they might have to pay twice, once to the telcos for broadband access and a second time to OTT providers for access to content.
+
+Network fees could lead to lower content quality:
+
+Taking the example of the imposition of network fees in South Korea, CUTS emphasizes that the imposition has created unnecessary costs and bottlenecks in the country’s digital system. It mentions a study conducted by the Internet Society, which showed that network fees resulted in “inefficient traffic flows, higher costs of data transmission, and a more hierarchical, less resilient network topology.” Another result was the exit of players from the market and increased data costs and latency (the amount of time it takes for a data packet to go from one place to another). CUTS mentions that according to a study conducted by OECD, South Korea’s latency has gone from approximately 120 milliseconds in 2018 to 160 milliseconds in 2020.
+
+Mandatory revenue share agreements will hinder smaller OTT platforms:
+
+According to consumer organizations, if telcos receive a network fee based on how much traffic a platform creates, it disincentivizes telcos from giving smaller platforms access to their network. “Such a mandatory revenue-sharing mechanism will force the OTT service providers to compete for better deals with TSPs [telecom service providers],” CUTS said in its submission. It mentioned that this could also inadvertently affect customers who would be unable to access customized/local content that might be specific to smaller OTT platforms.
+
+Alternatively, it argues that larger OTT players would pay greater network fees and would thus be given higher priority by telcos. This, CUTS argues, would lead to a fragmentation of the internet, which is violative of the terms of net neutrality. CUTS says that it could be argued that the regulation may require “TSPs [to] provide [a] minimum guaranteed network to smaller OTT providers, but this will be difficult to monitor and the extra regulation will pose its own challenges.”
+
+Also Read: Revenue Share Agreements Will Violate Net Neutrality: IAMAI On TRAI’s OTT Regulation Consultation
+
+Not all consumer organizations agree with CUTS:
+
+Contrary to the anti-network fee argument we saw from CUTS, the Voluntary Organisation in Interest of Consumer Education (VOICE, the consumer protection group set up by teachers and students of Delhi University) seems to argue in favor of network fees. “The economic advantages enjoyed by OTT at the cost of ISPs/TSPs (almost like a parasite) needs to be equitably shared with ISPs/TSPs preferably with mutual understanding between ISPs/TSPs and OTT providers, ” it said in its submission .
+
+VOICE also argues in favor of licensing OTT platforms. It suggests that there should be “a regulation for sub-licensing (or use any other name) of OTT communication services by ISPs [internet service providers]/TSPs under [the] strict supervision of say DoT.” It says that this sub-licensing regime will take care of all commercial aspects between these entities including revenue sharing.
+
+While none of the other consumer organizations mentioned selective banning in much detail, the Consumer Protection Association of Himmatnagar, Gujarat stated that selective blocking of apps is “practically not possible to execute on the ground.” It mentioned that for the selective blocking of apps, the government would either have to approach specific OTT players or would have to execute the ban at the telecom operator level.
+
+Problems with OTT-level bans: “For the OTT player to block services in a specific geography it will need the location information of all the users. The location information can be at the GPS level or at the Cell ID level. Accessing both these pieces of information will pose significant challenges,” it stated. It explains that to access location information at the GPS level, all devices would have to be GPS enabled when, in practice, most of them aren’t. And even if they are, the OTT player needs users’ permission to access their location. The association argues that if the government mandates location sharing, it would negatively affect user privacy. Using Cell ID to receive location information would be equally difficult since this information is currently only present with telcos and they wouldn’t share it with OTTs because of privacy concerns. Lastly, if the government decides to bypass the location information and attempts to block users’ access to certain apps using IP addresses, that would prove to be challenging as well because anyone can use a VPN (a virtual private network) and camouflage his/her IP address.
+
+Problems with telecom operator-level bans: “At the network level, blocking can be done using the destination IP addresses of all the servers used by the OTT player,” the association says, but to do so, the network operator would have to obtain users’ IP address from OTT players and the OTT players are unlikely to share this information to prevent hacking and cybersecurity attacks. If a telco is able to obtain IP addresses even after these challenges, it would still be difficult to block certain apps because to do so telcos would have to conduct deep packet inspection (a method of examining internet traffic and weeding out specific information packets) to identify the platforms that have to be blocked.
+
+Despite specifying the difficulty associated with selective bans, the association suggested that certain websites such as the ones containing pornography, websites being used for fraud and phishing, invasion of privacy, or for insult, slander, and defamation can be prohibited. It also mentioned that all OTT apps operating in India should be “mandatorily registered in India and should be easily accessible by the government.”
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

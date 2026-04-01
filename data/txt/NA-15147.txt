@@ -1,0 +1,55 @@
+At MediaNama’s roundtable discussion on ‘Governing The AI Ecosystem’, experts debated the importance of easily accessible datasets that developers could use to train AI models and their inherent privacy risks.
+
+C Chaitanya, Co-Founder and CTO at Ozonetel Communications, stated that modern AI systems require tremendous amounts of data.
+
+He also highlighted challenges in accessing existing government datasets, stating that he had already asked the Telangana government for access to data. “They won’t give it. It’s as simple as that,” he stated.
+
+Nikhil Pahwa, Editor of MediaNama also brought up key questions about the accessibility and control of government data. He asked what framework should govern the release of government data, who should have access to it, and under what conditions. “If the government releases its data, who should it go to, how should it go, and what should the licensing framework be?” he asked.
+
+Kesava Reddy, Chief Revenue Officer at E2E Networks, stated that a lot of quality datasets were available across various sectors and provided healthcare as an example. He noted that states already provide free healthcare services and possess a wealth of data, such as DICOM images of X-rays and radiologists’ reports, awaiting the government’s willingness to share this data with researchers.
+
+He also mentioned the vast amounts of geospatial data available in India, stating, “Each and every geolocation in India has 200 layers of data.” However, he stated that the government needed to consolidate and make the data accessible for research and model development.
+
+Ajay Kumar, a partner at Triumvir Law pointed out that governments in India hold vast amounts of data, including extensive records from legislative assemblies, courts, and archives. However, he criticized the inaccessibility of this data, citing barriers like Captcha restrictions on Supreme Court judgments and the lack of one-click PDF downloads. “The government sits on the largest dataset in this country,” he said, urging easier access to public data.
+
+Adarsh Lathika, the Project Anchor for the Policy Working Group at PeoplePlusAI, raised concerns about the Government of India’s ability to aggregate data effectively across states, districts, and other subdivisions. He noted that while data might exist in isolation within various bureaucratic layers, consolidating it into a unified dataset remains a challenge.
+
+He also criticised the quality of the existing datasets. “In the last 15 years, I have probably gone through statistical websites of close to 80 to 100 countries in the world and I can very confidently say that the Indian government has the poorest quality of data at this point of time,” he claimed.
+
+However, Sneha Priya Yanappa, Team Lead at the Vidhi Centre for Legal Policy, brought up the government’s ongoing efforts to bridge data silos within government departments. She pointed out that some municipal corporations, particularly in Karnataka, were adopting open data policies and facilitating conversations between departments to better utilize available data. However, she raised concerns about the legitimacy of data scraping as a practice and its implications for privacy.
+
+Sourabh Roy, a Research Fellow at the Vidhi Centre For Legal Policy emphasised the potential of government data collection attempts. He highlighted initiatives like Haryana’s Parivar Pehchan Act, which collects detailed family-level data to enable targeted service delivery. “Just imagine the impact that can have in improving our AI models with this kind of dataset,” he said.
+
+Vasanthika Srinath, a partner at Kosmos Partners, referred to the efforts of states like Telangana and Karnataka in developing significant projects to ensure the usefulness of datasets. Many states possess data, but departments scatter it across their systems, and they have a limited understanding of its potential uses.
+
+She also pointed to Karnataka’s extensive data lake project, which integrates data from various departments and could serve as a valuable resource for broader applications.
+
+Paresh Ashara, VP at Quinte Financial Technologies, emphasised the importance of using government-held data while ensuring privacy through anonymisation. “I would want that data to be anonymized to an extent where the privately identifiable information is not made public,” he stated.
+
+However, he supported making aggregated datasets available, such as health sector data, to train models for predictive analysis. Referring to examples like X-rays and MRI scans mentioned earlier, he stated that the information was of a very high quality and could be used at an aggregate level to train models that predict health information.
+
+Nikhil Pahwa, Editor of MediaNama, brought up a key distinction in India’s data protection framework. He noted that the Data Protection Act does not protect publicly available personal data, such as photos or information shared on social media. However, the Joint Parliamentary Committee had recommended privacy protections for anonymised and non-personal data, arguing that risks of re-identification exist when someone layers such data on personal data. “Completely contrasting views exist on how even anonymized private data can be used,” he remarked.
+
+He also highlighted the limitations of differential privacy, noting that even in its early days, instances of re-identification demonstrated its imperfections. “For everything that you do, there is a counter. It’s essentially an arms race,” explained Pahwa.
+
+Addressing privacy concerns, Vasanthika Srinath noted that these data lake programs often utilize anonymized data, not just pseudonymized data. “They pull out all the metadata, identify various identifiers, and ensure the data is fully anonymized,” she explained, adding that this approach removes privacy constraints and makes the data more usable. She emphasized the importance of all states investing in similar programs to create a unified system that benefits the entire country. “All states need to perhaps invest and get there to make it useful for the entire country,” she concluded.
+
+Umang Jaipuria, a San Francisco-based engineer, argued that neither governments nor private companies handle privacy concerns perfectly. He stated that private companies prioritize their incentives over individual privacy, while government measures, such as GDPR, often lead to excessive user friction, like cookie banners.
+
+Jaipuria suggested that India should aim for a balance by combining government-led privacy protections with advancements in private-sector technologies. He highlighted homomorphic encryption as a promising solution, which allows computation on encrypted data without decrypting it. According to Jaipuria, privacy concerns shouldn’t stop us from using data effectively, but leaving unencrypted data sitting anywhere was a massive liability.
+
+Another speaker referenced the UK’s NHS initiative OpenSAFELY as an example of a secure approach to data use. He explained that this program allows researchers to analyze data for public good without accessing the raw data directly, significantly reducing re-identification risks. “That is a very high bar in terms of, you know, making sure privacy concerns are addressed and you don’t have to worry about leaking re-identification and so on,” he said. He also noted cultural differences in the private sector, where companies like Zomato were sharing certain datasets, including weather and climate data.
+
+Kesava Reddy expressed his view that private data should not be a part of AI training datasets. However, he felt that private citizens should be able to share their data voluntarily for public good purposes.
+
+C Chaitanya shared an example from his own experience with Chandamama stories, where the property had been owned by another publisher since 2013. To avoid unauthorized scraping, his team approached both the original creators and the new rights holders for permission. However, he noted the ongoing lack of clarity in navigating such licensing and data-sharing issues. “We don’t want to be OpenAI; we don’t want to scrape data without telling them,” he said.
+
+Sourabh Roy suggested California’s AB 2013 as an example, which requires disclosing detailed information about datasets, including their categories, characteristics, the number of data points, their intended purpose, and descriptions. “I think more transparency and clarity in datasets is going to help because that’s the building block after all,” they stated. Hari Bhardwaj, an independent lawyer, suggested that the starting point for discussions about data should involve developing a credible taxonomy. He proposed classifying data based on common characteristics such as whether it is private or public, anonymous or non-anonymous, for commercial or non-commercial use, and verified or non-verified. “You would need to think about a whole bunch of things before arriving at a taxonomy,” he said. But once established, it could inform how to license or use the data.
+
+Sameer Krishnamurthy from Element Technologies emphasised the challenge of monetizing large and small language models, warning that without viable monetization strategies, only the compute providers would profit. He shared an example from his work, where his team developed a model capable of detecting brain tumors with high accuracy using 30,000 brain scans. Despite this achievement, they struggled to find buyers, even among large hospital networks, as they had their own AIs. He suggested that the issue might stem from supply outpacing demand.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,37 @@
+“Therefore, there is no data leak, there is no systematic problem, but, if any one tries to be smart, the law ignites into action.” – Ravi Shankar Prasad, IT Minister, in the Rajya Sabha, on 10th April 2017
+
+This claim from the IT Minister is factually incorrect. As the list below indicates, there is a systemic problem, and there have been data leaks by government departments, and a Minister. The law hasn’t ignited into action against them, so far. With Aadhaar being made mandatory, the data collection, storage, and leaks are likely to only increase, affecting more and more citizens.
+
+A list of AadhaarLeaks (a work in progress, so do point us towards more)
+
+Note: these are instances of people whose details have already been compromised. Plugging these leaks doesn’t mean that this permanent information hasn’t already been accessed and recorded by a third-party.
+
+April 2017:
+
+March 2017:
+
+February 2017:
+
+(We’ll update as more instances surface, or are pointed out)
+
+Things to remember
+
+1. Aadhaar’s database may be secure, but its data isn’t: Prasad may have emphatically said in Parliament that “Let me say proudly that data is secure”, but that is factually incorrect. The obfuscation used often is to suggest that the database is secure, even if the data publicly available. As indicated below, several government departments have already published Aadhaar data online, making it easily accessible. In many of these instances, the data could have easily been scraped, and stored. Parallel databases some of this data can be created and stored, and replicating biometrics is going to be remarkably easy: college students have done this . Fingerprints can even be replicated from photographs . In fact, the instances mentioned above are cases of Aadhaar linked personal information.
+
+2. Personal data isn’t just biometric data: Your demographic information, including your name, date of birth, address, fathers name and mobile number are often important personal information, which is linked to Aadhaar. Prasad might say that “anything with which you can be profiled is not there”, but this is factually incorrect: demographic information is used for profiling. This is personal information that is sufficient to identify you for several services. As an example, click here to read how BJP member and current UIDAI member Rajesh Jain , who also runs a digital marketing firm Netcore, talked about using demographic data for targeting for election campaigns.
+
+3. Law and regulations don’t seem to be applicable to government: While the UIDAI has filed FIRs against private parties, there doesn’t appear to be any filed against government officials releasing this data. This arbitrariness raises questions of whether government departments are getting preferential treatment, and are, for all practical purposes, above the law. The rules are very clear:
+
+(source: AADHAAR (SHARING OF INFORMATION) REGULATIONS, 2016, point 6 )
+
+4. You have no rights over your own data: When a minister violates the law, is the law applicable to them? What happens when a government department violates the law? Should the law be applicable to them? What if the law that is violated by the minister or government agency impacts you? Shouldn’t you be able to take them to court? Who polices the government and its departments here?
+
+The Aadhaar rules only allow for a grievance redressal mechanism (page 34, section 32 here ), and the Aadhaar Act explicitly denies you the right to go to court to seek damages for the release of your personal data. The Aadhaar law says: “No court shall take cognizance of any offence punishable under this Act, save on a complaint made by the Authority or any officer or person authorised by it”.
+
+Thus, only the UIDAI can act against the government.
+
+5. No active monitoring of Aadhaar leaks: Government appears to only dependent on social media complaints and press reports, and there doesn’t appear to be any move to prevent leakage of data at a state or agency level.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

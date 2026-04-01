@@ -1,0 +1,59 @@
+According to the new draft amendment to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (IT Rules, 2021), AI-generated content, including deepfake material, on social media and the internet will be regulated by the Ministry of Electronics and Information Technology (MeitY).
+
+The draft defines synthetic content as “information which is artificially or algorithmically created, generated, modified, or altered using a computer resource, in a manner that such information reasonably appears to be authentic or true.” MeitY is seeking public comments on the draft amendment. People can send their comments via email to [email protected] by November 6.
+
+India is not the first country to implement a mandatory labeling system for AI-generated content, including deepfakes. China is among the first countries to have formulated legislation around the labelling of “Deep Synthesis Internet Information.” While the original Chinese act in Mandarin can be accessed on the government’s official website , the translated version is available on ChineseLawTranslate .
+
+The People’s Republic of China’s Ministry of Industry and Information Technology and the Ministry of Public Security govern deepfake content through the act titled “Provisions on the Administration of Deep Synthesis Internet Information Services.” It was created to “carry forward the Core Socialist Values, preserve national security and societal public interests, and protect the lawful rights and interests of citizens, legal persons, and other organisations.”
+
+China defines deep synthesis technology as the use of advanced tools, such as deep learning and virtual reality, that employ AI-based algorithms to create or alter text, images, audio, video, virtual scenes, or other digital information.
+
+According to the law, deep synthetic content includes:
+
+The law defines deep synthesis service providers as organisations or individuals offering AI-based technologies or related services.
+
+Deep synthesis service providers must clearly label or watermark AI-generated or modified content in a way that identifies it as synthetic without affecting how users view or use it. They should also label any AI-generated or AI-edited content that could mislead or confuse the public. Platforms must additionally allow users to self-label AI-generated content.
+
+To curb the spread of fake news, the law prohibits generating false information using deepfake technologies. It also covers services that mimic real people’s text, voices, or images; create synthetic or altered media of individuals; generate realistic virtual scenes; or significantly alter information content.
+
+Providers are required to maintain detailed logs, including user activity and system operations data, and store them in compliance with China’s existing laws.
+
+India’s draft amendment takes a different approach from China’s law, which targets both AI-generated false information and deepfakes. India’s proposal requires synthetic content to be labelled and identified through metadata. It also mandates visible or audible markers covering at least 10% of the visual area or appearing at the start of the audio to indicate when content is synthetic.
+
+The draft further directs major social media platforms to use technical tools to verify whether uploaded content is AI-generated and label it accordingly, creating a transparency-focused accountability system similar in intent to China’s framework. It also mandates platforms to verify users’ self-declarations regarding AI usage.
+
+Key differences between China’s legislation and India’s draft rules include:
+
+According to Article 3, the State Internet Information Department is responsible for overall planning and coordination of the nation’s governance of deep synthesis services, along with related oversight and management. The Departments for Telecommunications and Public Security are responsible for specific oversight and management efforts.
+
+The law mandates that the Deep synthesis services shouldn’t be used to endanger the “national security and interests, harm the image of the nation, harm the societal public interest, disturb economic or social order, or harm the lawful rights and interests of others.” Similarly, deepfake content must not be used to produce or distribute fake news.
+
+Unlike India’s draft, China’s law requires platforms to verify users’ real identities and forbids providing services to unverified users. Verification systems may use mobile phone numbers, ID card numbers, uniform social credit codes, or the state’s public online identity verification system.
+
+Platforms must also review algorithms that produce synthetic content and implement strict security measures to protect users’ personal data. Under this law, they must notify users if someone attempts to synthetically edit their biometric data, including facial or voice information.
+
+Additionally, platforms must conduct security assessments for tools that allow users to generate non-biometric information involving national security, the nation’s image, or the public interest.
+
+Deep synthesis service providers that can influence public opinion or mobilise large groups must register their platforms with authorities. This registration allows the government to track companies operating powerful AI tools.
+
+After registration, providers and their technical partners must display their official registration numbers and include a public link to the filing information on their websites, apps, or other platforms to ensure transparency.
+
+Providers and their partners must update or cancel their registration if they modify or shut down their services.
+
+Under the law, deep synthesis service providers are responsible for information security and must maintain systems for user verification, content and data oversight, fraud prevention, emergency response, and other safety controls.
+
+They must publicly release management rules and platform policies, update service agreements, and carry out management duties in line with the law. They are also required to clearly post the security obligations of technical providers and users of deep synthesis services in a visible and accessible manner.
+
+Deep synthesis service providers must not only label content but also review user inputs and AI-generated outputs to support regulatory inspections, detect illegal or harmful content, and clearly mark all synthetic materials. Providers must monitor both user-uploaded material (including prompts) and AI-generated content produced on their platforms.
+
+They must also create portals for users to file appeals and complaints. In addition, app stores must enforce security measures through early app reviews, regular oversight, and emergency responses. Stores must verify the security assessments and registrations of deep synthesis service providers.
+
+Government regulators responsible for internet, telecommunications, and public security can determine whether a deep synthesis service provider poses serious information security risks, such as spreading harmful or misleading content or creating vulnerabilities. They can then order the provider to take corrective action.
+
+Corrective measures may include suspending content updates, pausing new user registrations, or temporarily halting certain services. If found guilty, companies and their technical partners must comply with government orders, implement the required corrective measures, and resolve the identified risks.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

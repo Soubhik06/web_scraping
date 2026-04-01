@@ -1,0 +1,91 @@
+Written with inputs from Sarvesh Mathi.
+
+Ad: India’s Data Protection Bill is here, and your business needs to adapt. K&S Digiprotect, with its team of data protection experts, offers compliance services tailored to help you adapt to the new regulations, safeguard your data and build trust with your customers. Contact us now!
+
+The Digital Personal Data Protection (DPDP) Bill, 2023, tabled in the parliament on August 3, 2023, requires companies to present a notice to users and seek consent before processing any personal data, maintain the accuracy and completeness of the personal data, implement safeguards to prevent data breaches, delete personal data once the purpose is served, set up a grievance redressal mechanism, among other things. In case of failure to fulfil these obligations, companies can be fined anywhere between Rs 50 crores to Rs 250 crores depending on the nature and severity of the non-compliance.
+
+As per the Bill, a company is considered a Data Fiduciary (called entities hereon), which is defined as “any person who alone or in conjunction with other persons determines the purpose and means of the processing of personal data.”
+
+Additionally, a Data Processor is defined as “any person who processes personal data on behalf of a Data Fiduciary.”
+
+Read full summary of the bill here .
+
+Consent and legitimate uses: Entities can process a user’s personal data only for a lawful purpose that the user has given consent to or for “legitimate uses” as laid out in the Bill. We’ve covered what qualifies as “legitimate uses” separately here .
+
+Informing users with a notice: When seeking explicit consent, entities must present a notice to the user, which should be in clear and plain language, containing a description of personal data that will be collected, and the purpose for processing this personal data. The notice should also contain the manner in which the user may exercise their rights and how to make a complaint to the Data Protection Board.
+
+Consent must be free, specific, informed, and affirmative: The consent must be a “freely given, specific, informed and unambiguous indication” of the user’s agreement, made with a clear affirmative action to the processing of her personal data for the specified purpose.
+
+Consent is limited to the purpose specified in the notice: The 2023 Bill states that an entity may only process personal data “for the specified purpose and limited to such personal data as is necessary for the specified purpose.”
+
+It can be argued that this phrasing for purpose limitation is better than the 2019 version’s clause that allowed the processing of data that is “incidental or connected” to the purpose provided to the user and the 2022 version, which did not have any limitation spelt out.
+
+In a previous MediaNama discussion , a discussant had stressed the importance of purpose limitation by saying, “It shouldn’t be that once it’s [consent for processing personal data] out the door, anyone anywhere can do whatever they want with it because effectively, that’s the difference between it being my data, and the data of the organization that collects it from me for serving a purpose of which I’m allowing it to do.”
+
+What should be shown in the notice? The 2018 version had the following detailed list of what sort of information should be given to the user in these notices:
+
+However, we do not see such details in the latest version of the Bill. Instead, the 2023 Bill only requires entities to show what data is collected and for what purpose. Last year, the Internet Freedom Foundation (IFF) criticised the 2022 Bill for not requiring entities to inform users when their data is shared with third parties, the duration for which their data will be stored and if their data will be transferred to other countries.
+
+“Unlike previous iterations of the bill, it does not require data fiduciaries to inform principals about the third parties with whom their data will be shared, the duration for which their data will be stored and if their data will be transferred to other countries. Thus, data fiduciaries can continue to obtain the consent of principals by providing limited information and then using their personal data in a manner principals might not have anticipated,” said IFF.
+
+Entities can involve Data Processors and other third parties without user consent: Notably, the notice does not have to mention if the entity is sharing data with any third party, a data processor, for example. The 2023 Bill merely says an entity can engage, appoint, use or otherwise involve a Data Processor to process personal data under a valid contract.
+
+In the 2022 version, an entity was allowed to share, transfer, transmit the data with another entity or involve a Data Processor only when “consent of the [user was] obtained.” With this clause removed, users will now give consent without knowing who all the data is going to be shared with.
+
+Using Consent Manager to manage consent: Users can give, manage, review or withdraw their consent through a Consent Manager. Consent Managers are accountable to the users and must be registered with the Data Protection Board of India.
+
+The burden of proof lies with the entity: If challenged in the courts, entities will have to prove that a notice was given and consent was obtained from the user to carry out the processing of personal data.
+
+Article continues below ⬇ , you might also want to read:
+
+Preventing and notifying personal data breaches: Entities must protect personal data under their control or under the control of Data Processors engaged by them by taking “reasonable security safeguards to prevent personal data breach.” In case of a data breach, the Data Protection Board of India and each affected user must be notified.
+
+The IFF last year called the requirement for entities to inform users in case of a data breach a welcome change . “A significant issue with previous iterations of the bill was that they did not require data fiduciaries to notify data principals in the event of a breach. Thus, users whose data has been breached, would not have even known that their data has been compromised. Clause 9(3) of DPDPB, 2022 addresses this concern by mandating fiduciaries to notify the Board and Data Principals whenever there is a breach, irrespective of its nature. Clause 20(3) then empowers the Board to issue directions to Data Fiduciary to adopt urgent measures to remedy personal data breach or mitigate any harm caused to Data Principals,” IFF noted.
+
+For more on the provision around data breaches, check out our detailed post here .
+
+Erasure of personal data once the purpose is served: Entities must erase the personal data once the user withdraws their consent or as soon as it is reasonable to assume that the specified purpose is no longer being served, whichever is earlier, unless retention is necessary for compliance with any law. The entity must also ensure that the Data Processors involved erase the data.
+
+The purpose is no longer being served, if the user, for such time period “as may be prescribed,” does not:
+
+In the 2022 version of the Bill, entities could retain data for “business or legal purposes.” This was criticized for being worded too broadly. While the business aspect has been removed from the clause above, we are not completely out of the woods yet, due to exemptions included in the latest Bill relating to business activities like mergers, etc. (covered below).
+
+Appointing a Data Protection Officer or contact person: Entities must publish the business contact information of a Data Protection Officer or a person who can answer questions that a user might have about the processing of their personal data. For Significant Data Fiduciaries, it’s Data Protection Officers, for others, it can be any other officer.
+
+Maintaining the accuracy of data: If the personal data processed by an entity is likely to be used to make a decision that affects the users or if the data is going to be shared with another entity, then the entity should ensure the “completeness, accuracy and consistency” of the personal data.
+
+Grievance redressal mechanism: Entities must establish an “effective mechanism” to redress the grievances of users.
+
+Failure to take reasonable security safeguards to prevent personal data breach: Up to ₹250 crores.
+
+Failure to notify the Board and affected Data Principals of a personal data breach: Up to ₹200 crores.
+
+For all other non-compliances under this Act: Up to ₹50 crores.
+
+This is the same as the 2022 Bill, but different from the 2021 and 2019 Bills, both of which capped the maximum at ₹15 crores or 4% of the global turnover, whichever is higher.
+
+The exact amount of penalty will be determined by the Data Protection Board of India based on a variety of factors.
+
+The Board can also recommend the government block access to an entity’s website or content in case of repeated offences or in the “interests of the general public.”
+
+The Bill creates a special class of entities known as significant data fiduciaries based on the assessment of relevant factors like the volume and sensitivity of the data being processed, the risks to user rights and electoral democracy, the impact on India’s sovereignty, security, public order, etc.
+
+Significant data fiduciaries have additional duties under the Bill.
+
+Penalty for non-fulfilment of these obligations by a Significant Data Fiduciary: Up to ₹150 crores.
+
+Under the 2021 Bill, Significant Data Fiduciaries had to maintain accurate and up-to-date records of important operations in the data life-cycle, review of safeguards, etc. This is no longer required.  The 2021 Bill also considered adding all social media platforms as Significant Data Fiduciaries. This is no longer an explicit criterion, but large social media platforms may nevertheless come under this category because they qualify for the other criteria.
+
+When processing the personal data of anyone below the age of 18, entities have to undertake additional measures, which we’ve covered separately here .
+
+Failure to fulfil the obligations in relation to processing data of children can attract a penalty of up to ₹200 crores.
+
+To explain this exemption, the Bill gave the example, “X, an individual, takes a loan from Y, a bank. X defaults in paying her monthly loan repayment instalment on the date on which it falls due. Y may process the personal data of X for ascertaining her financial information and assets and liabilities.”
+
+In the 2022 version, the last two purposes (mergers and debt recovery) were included under deemed consent. By putting these under exemptions, the Bill gives entities more leeway in processing data for these purposes.
+
+STAY ON TOP OF TECH POLICY: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

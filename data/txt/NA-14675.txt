@@ -1,0 +1,21 @@
+All telecom companies have implemented suffixes  ‘-S, -T, -G, and -P’ in commercial message headers, the telecom industry body, Cellular Operators Association of India (COAI), mentioned in a recent statement. These suffixes identify the various types of commercial messages, namely, service messages, transactional messages, and promotional messages.
+
+“This implementation has enhanced transparency and consumer protection as such categorisation enables subscribers to easily identify the nature of incoming messages, reducing spam, strengthening compliance and improving overall trust and convenience for users,” COAI said in its statement about the suffixes. The industry body mentioned that the suffixes allow customers to identify promotional messages and avoid unwanted marketing communication. It also allows regulatory authorities to easily monitor, track, and enforce compliance by distinguishing between types of messages.
+
+Interestingly, while COAI is showing support for the suffixes, not all its members were in favour of the move when the Telecom Regulatory Authority of India (TRAI) initially recommended it in its consultation on the spam regulation amendment. Vodafone Idea (Vi) had argued that suffixes would reduce the flexibility for companies sending commercial messages to adequately represent their brand name. It mentioned that companies have a limited number of characters at their disposal as part of the message header, and the suffix would further reduce this character limit.
+
+Besides elaborating the benefits of the suffix system, COAI has reiterated its concern around spam on over-the-top (OTT) communication platforms. “The success of any consent framework or spam mitigation measure is incomplete if large parts of the communication ecosystem remain unregulated. This regulatory gap is increasingly being exploited, with a growing share of scams and unsolicited promotions now originating on OTT apps, adding to customer woes,” the industry body mentioned. It added that the regulator should consider bridging this gap through a unified consent management framework that brings all platforms, including OTTs, under its purview.
+
+The process for rolling out these suffixes dates back to May this year , following an amendment to the spam regulation —Telecom Commercial Communications Customer Preference Regulations (TCCCPR). Under Schedule I of this regulation, telecom companies have to formulate the structure and format for the headers of commercial communication.
+
+Further, the companies sending out commercial messages have to register their message headers and templates with telecom companies’ DLT (Distributed Ledger Technology) platform . The goal behind including these ‘-S,-T,-P,-G’ suffixes to commercial messages is to make them easier to identify and help curb spam.
+
+While COAI has pointed out the benefits of this suffix addition, it is unclear whether the average user even knows the meaning of the suffixes or pays attention to them. In such a situation, one has to wonder how effective these are in helping users avoid spam. Without widespread understanding of what ‘-S’ (service), ‘-T’ (transactional), ‘-G’ (government), and ‘-P’ (promotional) mean, consumers may continue to treat all commercial messages the same way, potentially diminishing the intended benefits.
+
+Further, when one considers Vi’s comments, it seems that these suffixes could make it harder for businesses to adequately include their name in the message header, making it challenging for them to clearly identify themselves to their customers.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,21 @@
+SUBREDDIT: r/india
+TITLE: Aadhaar &amp; other data of 130 million Indians leaked by 4 Govt websites : Report by CIS
+DATE: 2017-05-01
+SCORE: 88
+URL: https://www.reddit.com/r/india/comments/68mgzh/aadhaar_other_data_of_130_million_indians_leaked/
+
+--- POST TEXT ---
+
+Centre for Internet and Society just released a report titled: [Information Security Practices of Aadhaar \(or lack thereof\)](http://cis-india.org/internet-governance/information-security-practices-of-aadhaar-or-lack-thereof-a-documentation-of-public-availability-of-aadhaar-numbers-with-sensitive-personal-financial-information-1) - A documentation of public availability of Aadhaar Numbers with sensitive personal financial information.
+
+The report claims that data of 130 million Indians, including their bank details, Aadhaar numbers &amp; other demographic information is publicly available and can be easily accessed.
+
+This leak is happening primarily on 4 websites:
+
+A. National Social Assistance Programme, Ministry of Rural Development, Govt. of India
+B. National Rural Employment Guarantee Act (NREGA), Ministry of Rural Development,
+Govt. of India
+C. Daily Online Payment Reports under NREGA, Govt. of Andhra Pradesh
+D. Chandranna Bima Scheme, Government of Andhra Pradesh
+
+This is the largest documented leak till now but there have been more previously. Here's a report by Medianama which is keeping a track of these: http://www.medianama.com/2017/04/223-aadhaar-leaks-database/

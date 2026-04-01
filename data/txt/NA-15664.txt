@@ -1,0 +1,69 @@
+“Applying a visible watermark across all AI-generated videos will reduce how much AI is used for creative work. Engagement will drop. Creators and businesses will move to tools in other countries. So the harm falls on legitimate users, while bad actors will continue using open-source tools. [Ultimately], India becomes the one that loses,” InVideo’s Chief Executive Officer (CEO) Sanket Shah remarked.
+
+For context, Shah made this remark on November 5, 2025, in Delhi as part of MediaNama’s panel discussion ‘Regulating for Deepfakes in India’.
+
+To explain, the Ministry of Electronics and Information Technology ( MeitY ) recently released a draft amendment to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, proposing a legal framework for synthetically generated content, commonly referred to as deepfakes.
+
+The amendment introduces obligations for platforms, creators, and AI companies, including mandatory visible or audible labelling of AI-generated content, watermarking, and embedding metadata that cannot be removed. It also expands due diligence responsibilities for intermediaries that host or distribute synthetic media.
+
+To understand how these changes may affect AI-supported creative workflows, MediaNama spoke to Shah during the panel discussion. For context, Shah’s InVideo is an online tool that allows users to create videos using templates and AI-based editing features.
+
+Nikhil Pahwa (Founder, MediaNama): To begin, could you explain what InVideo does and the kind of content users create on your platform?
+
+Sanket Shah (CEO, InVideo): InVideo is a video creation software that uses AI to assist with different tasks in the workflow. We have been building the product for around eight-and-a-half years. We have users in 190 countries, and around 9 million videos are created every month. These include explainer videos, avatar-based videos, ads, promo videos, and YouTube content. People create many types of videos on the platform.
+
+Nikhil: The draft amendment proposes that AI-generated content must carry a visible label that covers at least 10 percent of the video. What would this mean in practice?
+
+Sanket: It would have a very large impact. The concern about misuse is real. But applying a visible watermark across all AI-generated videos will reduce how much AI is used for creative work. Engagement will drop. Creators and businesses will move to tools in other countries. So the harm falls on legitimate users, while bad actors will continue using open-source tools. [Ultimately], India becomes the one that loses.
+
+Nikhil: You said there are bad use cases. How do we prevent those while allowing useful applications to continue?
+
+Sanket: There is no single solution. It needs multiple layers. One approach is a likeness or face verification step before allowing someone to generate a video that uses a person’s face or voice. We already use real-time camera verification and we reject about 80% of such attempts. Another approach is not allowing political impersonation or celebrity likeness unless there is explicit consent. And there needs to be moderation at the publisher stage [as well], because if users switch to open-source models to create content, the platform where the content is shared becomes the only enforcement point.
+
+Nikhil: Some users mix real footage and synthetic footage. How do you detect that?
+
+Sanket: The core question is whether a likeness is being used. If so, you can require real-time verification from the person whose likeness appears in the video. This is the same check we use before allowing face-based content creation.
+
+Nikhil: But sometimes content is created on behalf of someone by a team. Does that require the person to be on camera each time?
+
+Sanket: No. It can be a one-time consent and verification. The person verifies once, and then that verification can be linked to the account or workflow.
+
+Nikhil: Can a camera verification system be fooled?
+
+Sanket: If it is live and matched against the uploaded likeness, it is difficult to fool. There will always be edge cases, but it works effectively in most situations.
+
+Nikhil: You mentioned a celebrity check. How would that work?
+
+Sanket: You can maintain a list of public figures whose likeness should not be used without authorisation. This can include government officials, actors, influencers, and others. The list can scale to thousands of names. If a likeness matches someone on the list, the system stops the generation. This prevents impersonation of individuals whose identity carries significant influence.
+
+Audience Question: Does this not leave out ordinary people who are targeted through deepfake harassment? Celebrity-only checks do not protect them.
+
+Sanket: That is a moderation issue. If the content is sexual or harmful, platforms should not allow it to be uploaded at all. Many platforms already have policies to block non-consensual intimate content. Those enforcement systems need to be stronger. The celebrity check is specifically for impersonation at scale.
+
+Audience Question: People can use multiple tools across platforms to create content frame by frame. How do you detect that?
+
+Sanket: This is why moderation must also happen where the content is published or shared. Creation tools can only do so much. If someone wants to bypass restrictions, they will use open-source models. The hosting platform becomes the point of enforcement.
+
+Audience Question: Satire uses public figures. Will these controls block satire?
+
+Sanket: That depends on how the publisher sets policy. The creative tool cannot decide satire. Enforcement will sit with the publisher who sees the context of use.
+
+Audience Question: If the list of public figures scales into thousands, who maintains it?
+
+Sanket: The platform that hosts the content is responsible. The database can be updated frequently and automatically. Such systems already exist in other moderation workflows.
+
+Nikhil: If the draft amendment is notified in its current form, what would InVideo have to do?
+
+Sanket: We would have to create a separate India-specific version of the product or stop serving users in India. The requirement for a visible label across all AI-generated content would make standard workflows difficult, and users would simply move to tools outside India.
+
+The video of the session is available here:
+
+This discussion was organised with support from Google, Meta and Amazon. Furthermore, the community partners for this discussion are the Internet Freedom Foundation (IFF), Centre for Communication Governance (CCG), NLU Delhi, and Broadband India Forum (BIF).
+
+Also Read:
+
+Note: The first paragraph of the story was edited at around 2 pm on November 10 to increase clarity .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

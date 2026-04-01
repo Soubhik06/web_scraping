@@ -1,0 +1,61 @@
+“[On a regulatory framework for companies to deal with deep fakes] different strokes for different folks… So, those who are creating tools which can be used because it’s mostly for free…there should be certain degree of regulation for them. Then the platforms which could be misused, then another set of regulations for them. And then look at also how we can deploy certain degrees of traceability, which again is challenging, but we’ve seen it work to an extent in CSAM [Child Sexual Abuse Material]. So, can we use some of those techniques that we could employ here? So that’s one set of things, but generally also not look at it only as a technology problem, but also look at it from a psychological, sociological and political science problem… a lot of these things are working because we live in polarized times…which is why deepfakes have succeeded,” said Saikat Dutta, CEO and Co-Founder of DeepStrat, during MediaNama’s Deep Fakes and Democracy event on January 17, 2024.
+
+Dutta along with fellow speakers Rakesh Maheshwari, Former Sr. Director and Group Coordinator, MeitY, Shivam Shankar Singh, Data Analyst and Campaign Consultant, Gautham Koorma, Researcher, UC Berkley School of Information, Tarunima Prabhakar, Co-Founder of Tattle Civic Technologies and Jency Jacob, Managing Editor, Boom Fact Check, talked about the role of government and platforms in addressing harmful deep fakes, current and future methods to deal with the issue, challenges with differentiating such content from satire and its impact on safe harbor. Nikhil Pahwa, Founder of MediaNama, moderated the event along with journalist Kamya Pandey.
+
+The full conversation can be seen here:
+
+Ministerial jurisdiction will depend on context: When asked which Ministry will oversee the use of AI-driven deep fakes, Maheshwari said the responsibility may fall either in the hands of the Ministry of Information and Broadcasting, or the Ministry of Consumer Affairs depending on the context. Further, the Department of Telecommunications would not have regulatory power in such cases unless there is some malware which is impacting their own networks.
+
+Degree of self-regulation varies from platform to platform: Dutta advised that rather than a blanket approach, self-regulation will depend on the tools provided by platforms. For example, platforms allowing content generation and platforms that could be used for the spread of deep fakes should adhere to separate regulatory norms.
+
+Autonomous body required to regulate cross-border flow of deep fakes: Dutta said that regulation of cross-border flow of such content will require heavy investment in autonomous bodies like the Election Commission of India. This is because the ruling party may have certain biases regarding the content, said Dutta. He suggested that the autonomous body should have the tools, investments and a broad coalition of people with whom to address the various topics of deep fakes. For example, he said the body would need psychologists, sociologists, political science experts, and technologically capable people to work as a coalition to address some of these issues.
+
+Restriction on content amplification more effective than banning: Koorma said platforms “living under the protection of safe harbor” still use algorithmic amplification of content to drive engagement. He argued that it is more important to control such algorithms that observe certain salacious content or misinformation/ disinformation driving engagement.
+
+Building on this, Pahwa suggested restricting such content rather than banning the account altogether while the investigation continues. This helps address the time-sensitivity issue of having to take action within a 24-hour or 12-hour timeline.
+
+No detection models at the source by platforms: Koorma said he is not aware of any platform that uses detection processes at the source. This is because of computational complexity associated with such an exercise. For example, a video would have to be analysed by multiple models and even then the accuracy would not reach a level that companies would want.
+
+“The approach I’ve seen here generally around deep fakes is kind of the takedown or like after post-fact some forensic expert or fact checker or someone finds out that it’s a fake and makes a claim that it’s a fake… it’s also worth noting that typically the shelf-life of a social media post is considered to be a few hours, like within four to five hours, 50 percent of viewers have seen that post. So, that’s another thing to keep in mind that makes this problem harder for platforms to kind of do detection,” said Koorma.
+
+Traceability required at the level of content generation: Regarding the countering of deep fakes, Dutta said there needs to be a certain degree of traceability at the time of generation of such content. He advised that the government work with platforms that provide such services, and at the same time regulate platforms which it cannot work with at the national level.
+
+“A company like Microsoft will have its content regulation policies and moderation teams and so on and so forth, where they will say, okay, certain text will not generate [deep fakes], although hackers have found a way to bypass that and still generate the kind of deepfakes they want to do so. But then you have something like stable diffusion, which is one of the largest sort of deepfake generators and there is no control, no policy at all. So, at that generation level, can we create a certain degree of traceability?” asked Dutta.
+
+Koorma pointed out that X Corp’s CEO Elon Musk had also talked about getting detailed labelling for deep fakes to maintain a public record of sorts of everything that happens around the content.
+
+“But then that puts the onus on the person consuming the content to kind of review the history and make up their mind on it,” said Koorma.
+
+Labels on satirical deep fakes can be removed: On the topic of labelling deep fakes as satire, Jacob said that miscreants often remove the label and clip the content in a way to convey a message different from what the creator wanted. The content is even mixed with other content pieces to make people believe that it is true.
+
+Fact-checking satire can land you in trouble: Jacob said that fact-checkers have a clear principle to avoid satirical content because “there is a legitimate space for them [such content] to exist.” He gave the example of a quote that was wrongly attributed to Raghuram Rajan, which went viral in 2023. Boom Fact Check wrote a story fact-checking this incident and then received a legal notice from the creator of the content alleging that the article defamed them.
+
+“We had to then give a legal reply to the person who sent it to us. So, it’s not just [whether] the one who has created that satire is crossing the lines of defamation versus misinformation, but that even fact-checkers, if we attempt to fact-check, even we face the danger of probably being accused of defaming those who intended it to be satire. So, it’s a line that we have not been able to figure out yet,” said Jacob.
+
+This is a slippery slope to navigate since Jacob also pointed out how some accounts claim to be satirical but act as political shills pushing out a political narrative.
+
+Does media literacy help with fact-checking? Speakers were divided on the efficacy of media literacy. Dutta said that a lot of research showed media literacy has failed. However, Berges Malu from ShareChat pointed out that the efforts for media literacy cannot be dismissed altogether. He gave the example of how campaigns by actors to educate the masses on online frauds helps people know how to detect lies. He argued that rather than being dismissed, media literacy should be made more direct using unique methods.
+
+“It could be little clips like those ads that are going about or more awareness that there is misinformation on the internet and that people will then figure out that even watching a video where the voice sounds a little funny may actually be a deep fake or synthetic media or whatever else you want to call it. So, there is a level of requirement of educating people of how the internet actually functions. And that would actually push this discussion further on fighting this kind of bad content on the internet,” he said.
+
+Venkatesh HR, who runs media literacy at Boom FactCheck, said that media literacy cannot be left to educational institutions and rather needs to be made mainstream. Prabhakar discussed the idea of attention conservation where a person stops, evaluates whether a content is worth spending time on and conserves attention by focusing only on the worthy content.
+
+“I feel like that is something that is even relevant for deep fakes, right? We are now in this space where there’s so much content on the internet and our attention is saturated, it is precious. And so let’s all evaluate how do you, or think about why, where we spend it,” said Prabhakar.
+
+Safe harbor suspended if deep fakes remain on platforms: According to Maheshwari, a platform’s safe harbor immunity may be withdrawn if it continues to be in clear violation of the intent of the IT Rules and IT Act. However, the final call on the withdrawal of safe harbor will be taken by the relevant court and not by the government.
+
+Platforms should encourage accountability from users: When asked about consequences for other players involved in a harmful deep fake, Maheswari pointed out that a user is liable to be de-platformed if their content is found to be harmful or misleading. However, he still stressed that platforms must push users to confirm that there is nothing contentious in the content.
+
+“[There are] penalties or criminal penalties as have been provided under the IT Act. But then to have it implemented in the timeframe that we are talking of, the only thing which you [the platform] can convey is at least ask the user to agree that there is nothing mala fide from the user’s perspective when anything is being uploaded by the user. So, at least there is a bit of deterrence is created, a bit of awareness is created,” he said.
+
+Non-users can also raise grievances to platforms: Maheshwari clarified that individuals who may not be users on a specific social media platform can still raise grievances about a deep fake involving them to the relevant platform. He said that regulations like the IT Rules do provide for such an action. The individual will only have to approach the platform through an authorised representative like a parent, lawyer, or law enforcement agency.
+
+He gave the example of “irresponsible” platforms like adult sites where a person can complain about impersonation. In such a case, even if the person is not a registered user on the website, the platform still has to take action.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

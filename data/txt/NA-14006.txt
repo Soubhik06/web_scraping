@@ -1,0 +1,61 @@
+The Unique Identification Authority of India (UIDAI) will soon require hotels, event organisers and other private entities to register before using Aadhaar for identity verification, according to a PTI report.
+
+UIDAI plans to notify this rule shortly, and aims to curb the widespread practice of collecting photocopies of Aadhaar cards at entry points.
+
+The authority has maintained that storing photocopies violates the Aadhaar Act and increases the risk of misuse when these copies sit in files, phones or unsecured digital folders without any deletion timeline.
+
+Once registered, entities must use UIDAI-approved verification methods such as offline QR checks, Application Programming Interface (API)-based authentication or the upcoming Aadhaar app. UIDAI Chief Executive Officer (CEO) Bhuvnesh Kumar told PTI that the goal is to phase out photocopy-based verification and replace it with app and QR-based authentication that shares only the minimum required information, and does not require storing Aadhaar copies.
+
+Notably, the shift reflects UIDAIâs attempt to build a controlled, auditable and privacy-preserving verification ecosystem rather than allowing informal ID collection to continue.
+
+Today, Aadhaar based verification across private spaces is fragmented and informal. Hotels and housing societies routinely request photocopies of Aadhaar or take pictures via WhatsApp, which then circulate through vendors, security guards and front desk staff with no structured policy for deletion. The upcoming registration system formalises this process. Once onboarded, private players will become Offline Verification Seeking Entities (OVSEs) and must integrate UIDAI approved verification flows instead of collecting physical or digital ID copies.
+
+UIDAIâs new app will play a central role in this transition, as it will allow selective disclosure, meaning residents can choose what information is shared. For context, a hotel may only require one’s name and age bracket, a telecom operator may only need one’s address, and a delivery hub may only need one’s photo and name.
+
+The app will also allow residents to store Aadhaar details for family members, lock or unlock biometrics instantly, and update demographic information directly rather than through paper-based forms.
+
+This change shifts control to the resident. Instead of service providers collecting and storing Aadhaar photocopies indefinitely, residents will decide when verification happens and what information they share. The new app design means entities only receive the specific fields required for a service rather than holding a full copy of an identity document.
+
+Before rolling out the requirement, UIDAI conducted a November webinar with over 250 companies including hotels, logistics firms, real estate management companies and event organisers.
+
+During the session, officials demonstrated selective data sharing, offline face authentication, QR flows and app-to-app verification pathways. Participants were encouraged to begin integration planning early and prepare for compliance.
+
+This requirement also aligns with an amendment earlier this year, allowing private entities to use Aadhaar authentication under the Aadhaar Authentication for Good Governance Amendment Rules. The registration mandate appears to be the operational mechanism to enforce safeguards created under that expansion.
+
+This shift sits within a broader overhaul of Indiaâs digital identity framework. At Aadhaar Samvaad, IT Minister Ashwini Vaishnaw urged UIDAI to align the Aadhaar Act with the Digital Personal Data Protection Act (DPDP Act) and redesign it as a modern identity law that prioritises user autonomy and interoperability. He also positioned Aadhaar as foundational infrastructure within Indiaâs expanding digital public infrastructure.
+
+However, a long-standing legal nuance continues to shape how Aadhaar is used. In practice, hotels, banks and private service providers often default to Aadhaar as the primary identity document. Yet UIDAI has repeatedly clarified that Aadhaar does not establish citizenship and does not independently serve as valid proof of date of birth unless supported by additional records.
+
+Moreover, this distinction becomes important as Aadhaar-based verification expands into private-sector environments, where alternative IDs should remain equally acceptable.
+
+Alongside policy shifts, UIDAI has launched an innovation programme to develop next generation authentication systems including face liveness detection, deepfake resistant presentation attack detection, and contactless fingerprint verification. It has launched the programme with the MeitY Startup Hub and the National Association of Software and Service Companies (NASSCOM).
+
+Elsewhere, UIDAI has already piloted face authentication in exam settings such as NEET UG. Meanwhile, National Payments Corporation of India (NPCI) is reportedly exploring Aadhaar linked biometrics in high value digital payments, especially since the Reserve Bank of India (RBI) has mandated two factor authentication for all domestic digital transactions starting April 2026.
+
+However, the Supreme Court (SC) previously warned that certain biometric prompts like blink-based liveness checks may exclude persons with disabilities (PwD). The Court directed regulators to ensure accessibility audits for authentication flows.
+
+Even with planned controls, existing patterns show vulnerabilities. Aadhaar Enabled Payment System (AePS) transactions accounted for about 11% of cyber enabled financial fraud in 2023, according to data from the Indian Cyber Crime Coordination Centre (I4C).
+
+Several states have reported cloned Aadhaar-linked fingerprints used to withdraw beneficiary funds, often because biometrics or Aadhaar numbers leaked through public land records or poorly secured systems.
+
+Unlike passwords, biometric identifiers cannot be reset. Privacy researchers argue that expanding Aadhaar authentication into private access environments may magnify systemic consequences unless safeguards develop at the same pace.
+
+Earlier this year, Medha Garg at the Internet Freedom Foundation told MediaNama that anonymised Aadhaar linked datasets remain vulnerable to re-identification because true anonymisation is functionally impossible. Meanwhile, Pallavi Bedi from the Centre for Internet and Society told MediaNama that the DPDP Act does not regulate anonymised data, creating a regulatory hole for reuse and downstream processing.
+
+These concerns connect to UIDAIâs recent decision to publish aggregated Aadhaar usage datasets on the Open Government Data platform. Without a non personal data governance framework or regulator, researchers say safeguards are incomplete.
+
+This registration requirement shifts how Aadhaar functions in routine private interactions. Hotels, gated housing complexes, logistics hubs and exam centres may now use UIDAI registered verification instead of collecting photocopies or photos over WhatsApp.
+
+Moreover, the model gives residents more control by enabling selective disclosure and creating verifiable audit trails. A defined registry of verifiers also simplifies oversight compared to the current informal ecosystem where Aadhaar copies circulate without deletion rules or accountability.
+
+However, the expansion raises concerns about Aadhaarâs growing role. Service providers widely treat Aadhaar as a universal identity document even though government guidance clarifies it does not prove citizenship and does not independently validate date of birth without additional documents. But, by formalising Aadhaar verification in private settings, the rule may reinforce this perception and make Aadhaar appear mandatory even when alternatives remain acceptable.
+
+There is also the risk of private entities defaulting to Aadhaar for convenience. If Aadhaar-based verification becomes the easiest option to process information, residents without Aadhaar or those who do not wish to use it may experience delays, friction or reduced access even if other documents remain legally valid.
+
+Finally, whether this shift strengthens privacy or creates long term dependency will depend on enforcement. UIDAI is expanding authentication use cases, redesigning the technology stack and publishing aggregated Aadhaar data. However, even with the DPDP Act and its notified Rules in place, regulators have not yet fully tested retention limits, consent mechanisms, alternatives and oversight models for Aadhaar-based verification in private environments.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

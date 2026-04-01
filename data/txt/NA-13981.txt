@@ -1,0 +1,77 @@
+Imagine a map of India, where each and every plot of land is neatly demarcated to display its dimensions, local geography and boundaries. Now, imagine if this map was dynamic and could reflect each and every transfer of real estate ownership in real-time.
+
+The National Informatics Centre (NIC) has now put together a working version of this concept, titled: Bhu Naksha.
+
+Pitched as a boundary mapping and spatial measurement (aka, cadastral mapping) solution for the computerisation of land records, Bhu Naksha can not only store and secure the digitised maps but can also be used to edit them to reflect the actual changes arising out of property divisions in both G2G (govt to govt) and G2C (govt to citizen) domains. Each land parcel on Bhu Naksha is identified by a Unique Land Parcel Identification Number (ULPIN) , also known as the â Aadhaar for land â.
+
+To achieve this nationwide project, each state and union territory in India is working with Bhu Naksha to create a unique map of the region, since land records fall under state jurisdiction. So far, Bhu Naksha has been used to update 3,58,194 maps around the country.
+
+Why does it matter? When the Digital India Land Record Modernisation Programme (DILRMP) was introduced in 2008-09 to computerise and safely store land ownership data, individual states which had been working on their separate digitisation drives were brought under a centralised standard. Bhu Naksha, one of the DILRMP’s newer projects, is supposed to make it easier for citizens and officials to track property mutations as well as ease processes such as transfer of ownership titles or mortgaging. However, what is important to note is that Bhu Naksha is based on digitised records which are scanned from a paper trail that is not very reliable.
+
+The physical demarcation of areas can be vastly different from their portrayal on digital or paper maps. Similarly, the mutation history attached with the records of a plot may be contested leading to further conflicts over ownership. Additionally, Bhu Naksha currently does not have a mechanism to identify or prevent malicious manipulation leaving many mutations vulnerable to contesting claims .
+
+While land records digitisation does not by and in itself constitute state encroachment, an effort on Bhu Naksha’s scale and detail may be viewed as overreach into privacy, and creates the scope for dispossession. Consider this: once Bhu Naksha is implemented across all states, a citizen’s online footprint will include what properties they own, as well. The fact that Bhu Naksha’s data, which along with maps contain some personal information, is available in the public domain also leaves citizens open to the possibility of consumer profiling.Â Â
+
+Never miss out on important developments in tech policy, whether in India or across the world. Sign up for our daily newsletter with a free read of the day Â to experience MediaNama in a whole new way.
+
+Created using open-source applications and libraries, Bhu Naksha is the NICâs contribution to the DILRMP , one of whose primary objectives over the years, has been the creation of a digitised land parcel mapping solution that can also be integrated with the plotâs ownership data.
+
+It is available for citizens to view online, with each state maintaining a separate website. For example, there is a Â Bihar Bhu Naksha , a Â UP Bhu Naksha , a Â Rajasthan Bhu Naksha and so on. Each website can be asked to show the user the exact shape and size of each and every land holding in any given district or tehsil. Should the user click on any of the land parcels, they can navigate the land owner’s Records of Rights details and view whether they had been any mutations to the property in recent history.
+
+In order to display such details, the data on Bhu Naksha needs to be maintained in real-time by teams of government officials and data operators. The back end of every Bhu Naksha map features a distributed architecture which allows data operators to perform all kinds of map management, plot division etc. from their respective office units. This data is then stored on a local server which communicates it over to the main NIC database.
+
+“The integrated programme would modernise management of land records, minimize the scope of land disputes, enhance transparency in the land records maintenance system, and facilitate moving eventually towards guaranteed conclusive titles to immovable properties in the country,” the Bhu Naksha manual says as the initiative’s scope.
+
+Services offered: As per the Department of Land Revenue , a cadastral map of Bhu Nakshaâs scope provides all the flexibility to manipulate textual data and spatial data without any constraint and provides a platform for various improved citizen-centric services and MIS reports. Some of them are given as follows:
+
+Below, we take a deeper look into some of Bhu Naksha’s characteristics. what kind of data it collects and how it works.
+
+Verification of paper maps: The first function of Bhu Naksha is the verification of existing state digitized la maps. In order to do so, Bhu Naksha data operators compare them with the original paper maps, most of which are available at the tehsil and village levels. Once verified, the data operators upload the images of these maps and the accompanying Record of Rights collected from courts, panchayats or local level officials on their local server.
+
+Geo-referencing cadastral maps: âIt is possible to geo reference (matching paper map coordinates with satellite shots) a village map with the help of village boundary layers from NIC Maps and other online services offered by Bing, Google, Bhuvan etc,â the Bhu Naksha user manual says. After they are scanned and digitized, the cut-outs of the paper maps are overlaid on a “universal” mapping solution to double-check the geographical accuracy of the plots and demarcate them into individual parcels. Once Bhu Naksha has been implemented by all states and union territories, the complete Bhu Naksha map is supposed to be able to accurately pinpoint land parcels all over the country.
+
+Integration with Records of Rights: The dynamic Bhu Naksha maps are supposed to reflect boundary mutations as soon as possible after the changes are recognized by the courts. For this reason, these maps are integrated with the owner’s Record of Rights which includes data such as:
+
+Unique Land Parcel Identification Number (ULPIN): In states where it has been implemented, Bhu Naksha land plots are assigned Unique Land Parcel Identification Numbers (ULPIN) . The scheme is already underway in ten states and will roll over to the entire country by mid-2022, The Hindu reported in April 2021. The government said that it will not only integrate land records with revenue court records but also add bank records, as well as Aadhaar numbers on a voluntary basis. To carry out this integration, as well as to pursue other new initiatives, the Land Revenue Department sought an extension to the DILRMP to 2023-24.
+
+Inherent bad information apart, experts are also worried about the accuracy of the maps and the fact that land records could be seeded with soil health information and financial information to create commercial profiles of farmers, among other issues:
+
+Digitised land documents have been the norm for at least a decade now with each state having its own methodology. However, this doesn’t mean that the quality of data on these maps or the associated Record of Rights is completely accurate. In fact, an analysis in the State of Indiaâs Environment in Figures, 2021 by the Delhi-based Centre for Science and Environment stated that the quality of land records has declined in 14 states over the past decade.
+
+MediaNama accessed 1,380 pages of rejected right to information (RTI) requests made by Indians to their states’ respective land revenue authorities and reached out to some of the complainants in order to get a better idea of the problems posed by digitized land records.
+
+“I have run from pillar to post, from one government office to another, for over two years. I have filed at least six RTIs, so far, but all of them have been rejected or diverted. Meanwhile, the college has expanded itself into my father’s land and I can’t do anything about it,” Gopal Dhakate, a clerk from Jamshedpur, Jharkhand, told MediaNama.
+
+Dhakate had been working in Jamshedpur for over a decade when his father passed away at his native village of Bhusia in Bihar. The elder Dhakate had been fighting a local public college’s encroachment on his property since 2018 when their land documents were digitised.
+
+According to Dhakate, the digital records do not match the paper records. The new data allegedly shows a significant tract of land belonging to the Dhakates as part of the college’s parcel.
+
+Binod Kumar, a teacher at Talad village in Muzaffarpur, had first written to the state real estate authority in 2019 when highway development officials came and told the villagers that they would extend National Highway 22 through the village. According to Kumar, the land that the officials were talking about was residential land and the owner had documents to back it up. However, the digital data shown by the government officials did not match the documents in Kumarâs possessions.
+
+“While the highway extension has been slowed down by the pandemic and elections, it is set to resume soon. I have requested the plotâs ownership information a few times in various departments but the government sends back the newer digital dataâ Kumar told MediaNama.
+
+âIt looks like they are not willing to accept any contradictions to the digitised data. If such errors exist, then what is the point of computerising all of this information?” Kumar asked.
+
+In March, this year, Avilash Jha, an entrepreneur in Revelganj town, had written to the local land revenue authority, asking for an updated map of his village. In the request, he claimed that there was private construction on public land in his village and while the entity seemed to have its land permits in order, panchayat papers noted that the construction land is ânon-sanctioned.â
+
+A common theme in all these complaints seems to be that the digital data doesn’t match the information on the older paper records.
+
+âThe root cause behind these issues stems from the fact that the digital records have inherited the bad data from the old documents,â said Dr Bhagat-Ganguly.
+
+Since land is subject to state-specific laws, the computerisation of land records have been individual state efforts. These efforts can be traced back almost 30 years to the 90s with Karnataka (1994) and Rajasthan (1998) being two of the first states to begin scanning and digitally storing land revenue records. The ongoing DILRMP of 2008 attempts to centralise these projects to create a stable nationwide database with initiatives such as Bhu Naksha.
+
+In 2019, the DILRMP mandated the digitisation of maps based on each state’s database. The Karnataka government’s Bhoomi project was the first programme to feature updated land mutations on its maps.Â
+
+West Bengal had also developed a system for digitizing cadastral maps at a village level, a few years back, called Bhuchitra. According to a 2018 consultation paper by the DILRMP, Bhu Nakshaâs entire process of digitization of spatial maps and their integration with RoR documents is based on this programme.
+
+Meanwhile, Assam became the first state in India to begin a pilot project, assigning ULPINs to each and every plot of land within its borders. Although, Assam has yet to put up a dynamic map on the same.
+
+At the end of the day, land is a state subject, which means every state has its own special laws to govern land. Bhu Naksha may be a means to centralise this data but at the end of the day, its the states and not the Centre, who will have the final say in how this data is used in on-ground schemes. As per data published by the DILRMP , the following states have completed (or are very close to completing) mapping each land holding in the state based on the previously digitised RoR data.
+
+This post is released under aÂ CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

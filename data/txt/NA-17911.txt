@@ -1,0 +1,23 @@
+SUBREDDIT: r/india
+TITLE: Internet Users JFYI, Google won't show https icon anymore in Chrome and will be replaced with a variant of the tune icon.
+DATE: 2023-09-15
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/16jaycj/internet_users_jfyi_google_wont_show_https_icon/
+
+--- POST TEXT ---
+
+Google started rolling out this change this month. From the article 
+
+&amp;#x200B;
+
+&gt;We know that the lock icon does not indicate website *trustworthiness*. We redesigned the lock icon in 2016 after our research showed that many users misunderstood what the icon conveyed. Despite our best efforts, [our research in 2021](https://research.google/pubs/pub51481/) showed that **only 11% of study participants correctly understood the precise meaning of the lock icon**. This misunderstanding is not harmless — nearly all phishing sites use HTTPS, and therefore also display the lock icon. Misunderstandings are so pervasive that many organizations, including the [FBI](https://www.ic3.gov/Media/Y2019/PSA190610), publish explicit guidance that the lock icon is not an indicator of website safety. 
+
+&amp;#x200B;
+
+&gt; We’ll be replacing the lock icon on Android at the same time as the broader desktop change. On iOS, the lock icon is not tappable, so we will be removing it entirely. On all platforms, we will continue to mark plaintext HTTP as insecure. 
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+Source: [https://blog.chromium.org/2023/05/an-update-on-lock-icon.html](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html)

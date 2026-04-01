@@ -1,0 +1,33 @@
+Dr V. Kamakoti’s proposals to enable traceability in WhatsApp will instead erode users’ privacy, says Dr Manoj Prabhakaran , a computer science professor at IIT Bombay, who submitted his expert analysis on behalf of Internet Freedom Foundation (IFF) to the Madras High Court. He has said that traceability will not be an effective means of fighting fake news. Even with modifications to Kamakoti’s proposals, they are not very effective. Fact-checking, filtering spam, and media literacy are far more effective alternatives, as per Prabhakaran.
+
+MediaNama readers might recall that Dr V. Kamakoti, in his technical submission made on July 31, had made two proposals:
+
+In his submission for IFF, Prabhakaran has argued that these proposals, even with modifications that he himself suggests (given below), are not very effective because:
+
+These are the modifications that Prabhakaran suggested to Kamakoti’s proposals to mitigate some of the problems, while acknowledging that Kamakoti’s suggestions have limited utility:
+
+Prabhakaran has instead suggested that viral messages, not the users, could be “outed” and made available publicly so that fact checkers could add comments to them, and the WhatsApp client can display these comments alongside these messages. This can be done by:
+
+The expert from IIT Bombay specialises in cryptography and is also a part of a group of computer scientists in the Department of Computer Science and Engineering at IIT Bombay that has attempted to come up with a set of technical and policy guidelines for a national identity scheme such as the Aadhaar.
+
+Read: Dr Kamakoti’s solution for WhatsApp traceability without breaking encryption is erroneous and not feasible
+
+Prabhakaran’s analysis was submitted by Internet Freedom Foundation (IFF), the intervener in the ongoing Madras High Court WhatsApp traceability case, in its response to Kamakoti’s submission on August 20. Arguing that traceability would have limited effectiveness, IFF cited harm to vulnerable groups and chilling effect on speech as demerits of Kamakoti’s proposals. IFF has been represented by Suhrith Parthasarthy in this case.
+
+IFF also included the UN Special Rapporteur on Freedom of Expression David Kaye’s Report on Encryption, Anonymity and the Human Rights Framework that argues that “the security of the key escrow system depends on the integrity of the entity entrusted with safeguarding the key”.
+
+IFF’s submissions, on the basis of Prabhakaran’s inputs and those of the technical experts on its Board of Trustees (unnamed in the affidavit), are:
+
+Problems with Dr Kamakoti’s proposal , as highlighted in IFF’s submission dated July 19 and reinstated in the August 20 affidavit:
+
+(NB: Please note that IFF was made an intervener in this case on June 27, and Kamakoti submitted his recommendations to the court on July 31. Being the intervener, IFF was provided all documents related to the case, including the minutes of the May 22 meeting between law enforcement agencies and social media companies, convened at the behest of the Madras HC, where Kamakoti had made his suggestions for the first time. IFF was not present at that meeting, but presumably responded to Kamakoti’s oral suggestions post facto as the intervener on July 19. MediaNama has reached to IFF for further clarification.)
+
+Follow our extensive coverage of this case here .
+
+[embeddoc url=”https://www.medianama.com/wp-content/uploads/Affidavit-filed-on-behalf-of-intervenor-in-response-to-V.-Kamakotis-report-.pdf” download=”all”]
+
+[embeddoc url=”https://www.medianama.com/wp-content/uploads/Typed-Set-Volume-II-filed-by-Intervenor-.pdf” download=”all”]
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

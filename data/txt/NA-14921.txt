@@ -1,0 +1,59 @@
+A recent statement by the Ministry of Electronics and Information Technology (MeitY) addressed a Rajya Sabha question regarding ‘Guidelines for Organisations working on AI’. The response noted that NASSCOM (National Association of Software and Service Companies), along with stakeholders from industry, is working on voluntary AI regulation guidelines.
+
+It further added that “Government’s aim is to create a supportive environment that encourages organizations to follow good practices voluntarily”, hinting at a self-regulatory approach.
+
+The information came as a response to the following questions asked by Derek O’Brien:
+
+In response, the Minister of State of Electronics and Information Technology, Jitin Prasada stated “The Government is cognizant of the need to create guardrails to ensure that Artificial Intelligence (AI) is safe and trusted.”
+
+Last week, NASSCOM launched The Developer’s Playbook for Responsible AI in India to provide a comprehensive framework aligned with the India AI mission’s principles of safe, trusted, and inclusive AI. The playbook offers sector-agnostic guidelines to identify and mitigate risks across AI’s lifecycle, including conception, design, deployment, and monitoring.
+
+It emphasises ethics, accountability, transparency, and inclusivity in AI practices while addressing data privacy, model robustness, and security challenges.
+
+The playbook addresses a broad range of risks—ethical, legal, and technical—across the AI life cycle.
+
+However, while the playbook provides sector-agnostic prompts, it may lack specificity in addressing nuances across industries, making its adoption challenging in highly specialised fields. As it states “The risk mitigation guides provided in the playbook are designed to be sector- and use case-agnostic and do not prescribe exhaustive guidance on risk mitigation during the development and deployment of any specific type of AI model or application.”
+
+Furthermore, it adds “Safe and responsible AI practices rely on the coordinated involvement of multiple actors throughout the AI lifecycle and may require different levels of control from various actors over specific AI safety functions. Therefore, the playbook should not be construed as an accountability framework for assigning responsibility among different actors for specific safety functions”. Here, the playbook stops short of defining clear accountability for various stakeholders in the AI lifecycle, potentially leading to gaps in responsibility. This lack of clarity in accountability can lead to confusion among stakeholders about their roles in ensuring responsible AI practices.
+
+The playbook’s emphasis on voluntary adoption raises concerns about its enforceability: “The playbook is designed to provide a voluntary framework for developers to systematically identify and mitigate the potential risks associated with the commercial development, deployment, and use of AI in India”. Without enforceable mandates, smaller enterprises or less motivated actors might not adopt the framework.
+
+Furthermore, “Develop documentation to enable public transparency about the model’s architecture, capabilities and limitations of the model, computational resources, mechanisms and datasets utilised for training the model, safety and security evaluations conducted on the model, etc.” This level of detail could overwhelm startups or resource-constrained organisations.
+
+Earlier this year, Minister of Electronics and Information Technology (MeitY) Ashwini Vaishnaw said that India’s AI governance will focus on innovation and may not lean heavily on regulation like the US and Europe.
+
+Minister Ashwini Vaishnaw further highlighted that India’s approach intends to mirror its data privacy law and telecom law. The government aims to regulate harmful AI applications, such as deepfakes or misinformation, rather than the technology itself.
+
+NITI Aayog’s 2018 paper titled “National Strategy for AI” advocates frameworks like negligence tests for AI accountability and safe harbour protections for developers.
+
+The paper held a debate around the accountability of AI. It said that the accountability of AI needs to be adapted to “objectively identifying the component that failed and how to prevent that in the future”, instead of prescribing “strict liability.”
+
+Strict liability is a legal standard where an individual or entity is held accountable for the consequences of their actions, regardless of fault, negligence, or criminal intent. It applies when harm arises from certain activities or situations, even if all reasonable precautions were taken to prevent it.
+
+In 2023, the Union Cabinet approved the India AI Mission, allocating Rs. 10,371.92 crore over five years to promote the development of artificial intelligence in the country. Under this ambit, Safe & Trusted AI was allocated a financial outlay of Rs. 20.46 crore.
+
+Rs. 20.46 crore represents approximately 0.2% of Rs. 10,371.92 crore.
+
+Moreover, in October this year, under the India AI mission, the ministry announced a selection of eight proposals from educational and research institutions across the country to promote the development of safe and trusted AI.
+
+In response to a question on ‘Formulation of Law to Regulation AI and Generative AI’, the ministry asserted that it is committed to fostering AI for all sectors while also establishing an advisory group to develop a responsible AI framework that ensures safe and trusted deployment.
+
+The information came as a response to the following questions asked by Dola Sen:
+
+Moreover, in response to the following question on ‘Legislation to Regulate Use of AI’, asked by Vaiko and M. Shanmugam:
+
+The government stated that there is no information available with this ministry regarding cases booked for violations of the provisions relating to breach of privacy and confidentiality.
+
+Additionally, in response to a question on ‘Challenges posed by AI’, asked by Kartikeya Sharma:
+
+The government added that the advent of Artificial Intelligence is not leading to any job losses, instead, it is being used as a tool for augmenting capability. “AI may result in automating some routine jobs but will also result in job creation in various data science, data curation, etc.”
+
+Furthermore, in response to a question on ‘Individual Privacy and Data Security Amidst AI’ asked by Vivek K. Tankha:
+
+The government responded, stating that, as per the National Crime Record Bureau, no information is available on AI-related data breaches or misuse of personal information.
+
+Further questions related to ‘Initiatives to Counter Deepfake Technology’ and ‘Laws for Regulation of Use of AI’ in the Parliament can be found here , and here .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

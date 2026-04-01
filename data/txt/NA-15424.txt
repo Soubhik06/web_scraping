@@ -1,0 +1,49 @@
+Hyderabad’s Commissioner of Police, V.C. Sajjanar, last week, raised some important issues about AI Agents, and the security risks that emerge from their proliferation .
+
+The idea that AI agents that can take decisions and execute tasks independently create security and accountability problems, but his proposed solutions (mandatory Digital IDs for all AI agents, exhaustive logging of every action, strict governance rules about their freedom, and “Trust Frameworks” requiring human permission before crucial decisions) are largely not feasible.
+
+A few points about what he gets right, and what he doesnât:
+
+1. The accountability problem is real. The question “Which agent opened which file? When did it make changes?” is a valid concern. As autonomous systems make more decisions, establishing clear chains of causality and accountability is a fundamental challenge, especially given multi-step decision making. We discussed at a MediaNama event a year and half ago about liability in agentic actions , which are even more significant than attribution of liability in AI outputs.
+
+2. Amplification of errors at scale is a genuine risk. His point that “agents, which take thousands of decisions in minutes… can lead to massive danger if they make even a small mistake” is valid in principle. While his stock market example is alarmist (more on this below), the underlying concern is correct: deploying autonomous systems at scale in interconnected environments can amplify the consequences of errors or flaws. This makes robustness and safety testing critical. Also read: What happens when AI buys or sells for you , and When AI Acts as you, not for you .
+
+3. Adversarial attacks are a known security concern. The warning that “cybercriminals [could] hijack the behaviour of these agents” is valid. While not unique to AI, AI systems can introduce new attack surfacesâdata poisoning, model evasion, prompt injection for LLMs and agents. Prompt injection is a known OpenClaw security issue. Securing AI systems against malicious manipulation should be a top priority.
+
+4. The governance gap exists. His statement that “there must be strict rules (Governance) regarding how much freedom these agents should be given and what data they are allowed to access” identifies a genuine policy challenge. India appears to be among the countries looking to actively not regulate AI because regulating too early may hamper innovation, it seems. Meanwhile, we donât have governance mechanisms, safety standards, and regulatory frameworks, especially for high-stakes applications.
+
+5. Human oversight for critical decisions is necessary. The idea that “human permission is sought before making crucial decisions” (often called “human-in-the-loop” or “human-on-the-loop”) is necessary condition, but like I wrote in When AI Acts as you, not for you : Once an agent has acted competently a few times, we stop supervising it closely. This isnât blind faith: itâs a learned response to consistency, the same way we stop checking email delivery once it works reliably.
+
+Human in the loop isnât always going to be there, and often decisions will be taken and actions performed faster than we can actually insert a human in the loop.
+
+The Commissioner has identified real challenges, but Iâm not so sure about his solutions. At the same time, his solutions actually help us identify challenges in regulating AI Agents.
+
+1. A Universal “Digital ID” for AI Agents? Three issues here:
+
+1.a: The Definition Problem: there is no clear, globally agreed-upon definition of what constitutes an “AI agent.” The term could range from a simple script to a complex neural network, to an n8m sequence that pushes something to an LLM, determines an action, and then proceeds forward. How do you create an ID system for such a vast and ambiguous category? Is a cron daemon an agent?
+
+1.b. The scale problem: A Universal âDigital IDâ for AI Agents doesnât work when agents and teams of agents can be deployed at scale in minutes. Millions of automated processes and models are created, modified, and destroyed daily in cloud environments. Issuing, managing, and tracking unique IDs for each would be a bureaucratic and technical nightmare of incomprehensible scale.
+
+1.c.: Enforcement and jurisdiction issues: AI models and agents are developed and deployed globally. A local or national ID regime would be impossible to enforce on foreign entities or open-source projects. What happens when someone in the US deploys an AI agent that interacts with an India hosted application? Does the Commissioner expect global compliance with his Digital ID system?
+
+Heâs just trying to fit a human-created constraint into a system built to avoid human limitations and constraints (of time, physical presence, energy, capacity and capability)
+
+2. Complete logging of every action would cripple these systems: The proposal to log “every such movement” (which file, what changes, where information was sent) for every AI process would generate an astronomical, unusable volume of log data. This would overwhelm storage systems and make forensic analysis like finding a needle in a haystack. Constant, granular logging would severely degrade the performance and speed of these systems, making them highly inefficient. The logs would themselves probably end up being security vulnerabilities. Remember Ravi Shankar Prasadâs proposal in 2015 to ask Internet users to create text based logs of their messages? The daft draft encryption policy was just as infeasible as this.
+
+3. The proposed “Trust Framework” is too vague to implement. The call for rules on “how much freedom” and requiring “human permission before crucial decisions” raises the question: what is a “crucial decision”? Would we want to bring a human in the loop when a vehicle’s collision avoidance system making a “crucial decision” when it brakes or swerves to avoid a pedestrian? What about when we use algorithms for trading?
+
+Trying to identify when humans need to be brought into the loop is almost a decision best not left to regulation.
+
+The Commissioner also misunderstands a few things:
+
+1. The Commissioner describes “Agentic AI” as a present, widespread threat in critical infrastructure. This is a significant exaggeration. While autonomous systems exist, the level of general, decision-making AI he describes operating independently across banks, hospitals, and power grids is actually not in place. Iâm not sure where he got this idea from, but itâs true that this is possible in the near future.
+
+2. He oversimplifies how AI “autonomy” works: His exampleâ”realising the weather is bad, it might close the windows itself”âsuggests a perception of AI with proactive intent. Current automation and AI operate on predefined rules, models, and human-set objectives. They can act without direction and make mistakes- for example, someones AI agent deleted their files when asked to organise them, but there isnât enough diffusion of AI agent usage for this kind of alarm or this kind of expectation of autonomy. Yes, boundary conditions are important, and that will boil down to creating awareness.
+
+3. He treats AI security risks as unique to AI: The concern about cybercriminals hijacking agents is invalid as a concern specific to AI agents, but thatâs a general cybersecurity concern true of all systems. I would agree that at least with OpenClaw, how itâs being deployed, and how people arenât aware of how to ensure security, this is a concern, but itâs still not a risk that requires large scale regulatory action yet. The stock market example he gives isnât just an AI agent risk. The RBI already has guidelines on robo-trading.
+
+At the same time, I think the Commissioner has done well raising concerns that the Central Government appears to be ignoring, probably because MeitY has largely been in event management mode for quite a while. We probably should get a Ministry of Events, to ease the burden on existing ministries.Â
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

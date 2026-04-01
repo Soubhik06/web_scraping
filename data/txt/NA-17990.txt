@@ -1,0 +1,13 @@
+SUBREDDIT: r/india
+TITLE: (Illegal?)LPT: Send a fake email for times when residential societies ask for an email from the flat owner
+DATE: 2019-04-25
+SCORE: 17
+URL: https://www.reddit.com/r/india/comments/bh3ayx/illegallpt_send_a_fake_email_for_times_when/
+
+--- POST TEXT ---
+
+As most of you already know, a lot of housing societies police tenants all the time. A common practice is asking for an email from the owner when you want to let someone stay overnight. What I did when I used to live in one of those housing societies was use a fake email app (there should be tons on google play) to spoof the email headers and make it look like the mail was actually from the flat owner.
+
+&amp;#x200B;
+
+The twist is that since the headers are spoofed, they usually end up in the recipient's spam folder (or are marked as phishing emails). However, most security guards don't bother checking anything beyond the email address so you should be good to go.

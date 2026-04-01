@@ -1,0 +1,69 @@
+MediaNama’s Take : YouTube’s AI-driven age estimation in the US reflects a global trend toward proactive verification, but India’s adoption will be more complex. The DPDP Act mandates verifiable parental consent for under-18s, bans behavioural targeting of minors, and imposes steep costs for large-scale ID checks, making YouTube’s model attractive in theory. Yet its reliance on behavioural patterns risks bias, false positives, and poor accuracy in shared-device environments common in India’s rural areas.
+
+Globally, regulators are demanding “highly effective” systems, with the UK’s Online Safety Act and Australia’s social media age bans setting the bar high. But India still faces unresolved trade-offs between privacy, cost, and accuracy. Tokenised DPI-based checks, facial estimation, and gesture-based AI offer alternatives, but each needs rigorous safeguards to prevent exclusion and misuse.
+
+Age verification, however, is only the first barrier. Without safety-by-design systems, rapid human moderation, and stronger harmful content detection, platforms will treat the symptom, not the cause. NCRB’s rising child cybercrime numbers underscore the urgency. If India limits its policy response to age gates alone, it will fail to address the ecosystem of exploitation that thrives beyond the login screen.
+
+Starting August 13, 2025 , YouTube will begin rolling out a machine-learning age-estimation model for a “small set of users in the US” as part of an effort to ensure “teens are treated as teens and adults as adults.” This system will analyse signals such as users’ search behaviour, video categories viewed, and account longevity to infer age, disregarding self-declared birthdays where necessary.
+
+As noted on YouTube’s blog by James Beser, the video service’s Director of Product Management, “YouTube was one of the first platforms to offer experiences designed specifically for young people, and we’re proud to again be at the forefront of introducing technology that allows us to deliver safety protections while preserving teen privacy.”
+
+Once flagged as a minor, users will automatically receive built-in protections, including disabled personalised ads, enabled digital well-being tools, and restricted recommendations, measures consistent with the platform’s broader safeguards. The system functions only for logged-in accounts, leaving logged-out viewers subject to some general age content restrictions without individualised verification.
+
+Users have the right to appeal an incorrect identification as a minor by uploading a government-issued ID, a credit card, or a selfie.
+
+Around the world, lawmakers and regulators are increasingly mandating proactive age verification to shield minors from harmful online content. In the United Kingdom, the Online Safety Act has come into force as of July 25, 2025, compelling social media and content platforms to deploy “highly effective” age-assurance systems.
+
+These include facial age estimation, ID scans, credit card checks, or digital ID services. Platforms failing to do so can face fines of up to 18 million pounds or 10% of global revenue. Platforms like Reddit, X, and Discord have already begun enforcing these systems.
+
+Meanwhile, Australia is introducing a law that bans children under 16 from using social media altogether. Starting December 2025, platforms such as Facebook, Instagram, X, Snapchat, and YouTube must verify users’ ages using methods like photo ID, facial estimation, or AI. Platforms that fail to comply risk penalties of up to AUD 49.5 million.
+
+In the United States, several states have enacted or proposed laws requiring age verification. Tennessee’s “Protecting Kids on Social Media Act ,” effective January 1, 2025, mandates age checks and parental consent for minors.
+
+Nebraska’s Parental Rights in Social Media Act , signed in May 2025 and effective July 2026, similarly requires platforms to verify age via third parties and restrict under-18s without parental permission.
+
+India’s Digital Personal Data Protection (DPDP) Act, 2023 , mandates verifiable parental consent before platforms process the personal data of users under 18. As highlighted in a MediaNama event, platforms must take “appropriate technical and organisational measures” to ensure consent is genuine, often via KYC checks or DigiLocker tokens.
+
+Obtaining such consent can be costly: a CUTS International repor t estimates government ID–based verification could cost up to $176,471 per 1 million checks. In contrast, DigiLocker tokens may cost around $35,176 for the same volume. Even AI-based age estimation would cost around $494,118 per million checks per year.
+
+At the same time, the DPDP Act prohibits behavioural monitoring and targeted advertising aimed at minors. However, it includes an exemption : the government may allow certain platforms, operating in a “verifiably safe manner,” to engage in such tracking solely to verify age or identity.
+
+A discussion during a MediaNama event warned that this “whitelisting approach” may kill innovation in child-facing products and create bureaucratic roadblocks for startups. Participants suggested instead adopting blacklisting for high-risk platforms or setting clear safe thresholds for verification processes.
+
+These legal contours like parental consent, costly verification, and tightly controlled exceptions for tracking, provide crucial context for the potential rollout of a YouTube-style AI age-estimation system in India.
+
+Aparajita Bharti, co-founder of public policy consulting firm The Quantum Hub, agrees with YouTube’s new system, pointing to the need for more “proactive age verification mechanisms on content platforms” rather than self-declaration, which is the norm in India’s current internet ecosystem.
+
+She believes that ID-based verification has several issues. “Everywhere in the world, there has been a lot of discussion that IDs by default may not be the best way to do age verification. Firstly, there are exclusionary effects sometimes. Secondly, they can also be gamed very easily, and thirdly, there are multiple privacy issues with this method,” Bharti says.
+
+Chitra Iyer, co-founder and CEO of social impact consulting firm Space2Grow, points out various issues with implementing a similar system in India. “I think verifying age on platforms is critical, and it (YouTube’s AI-based age verification model) is a great move, but how it is contextualised for India is critical,” she says.
+
+She notes that “digital behaviour patterns are very culturally unique. A system trained for children in the US may not work in the Indian context.” Iyer explains that on OTT platforms, content tailored for the 16+ age group in the US might not be the same for the age group in India.
+
+“There will always be algorithmic bias and false positives. The system may misclassify adults or overlook minors using shared devices,” she highlights. Iyer adds that a majority of children in rural India use shared devices. “Our research found that 99% of children are on the internet in the remotest parts of Araria, Bihar, but 50% of them are on shared devices,” Iyer notes.
+
+Bharti comments that the entire world is “racing to innovate on this” as age verification compliance measures for minors become stricter across countries. She adds that there are actually “three or four alternatives” in the Indian context.
+
+She explains that India’s digital public infrastructure (DPI) could support privacy-preserving ID verification without storing sensitive data. “A token can be generated which only gives a yes or a no after checking with the Unique Identification Authority of India (UIDAI) system,” she says, adding that the token could be erased immediately after use, so “you don’t even generate metadata.” This layered approach, she notes, “becomes privacy-protected” despite relying on an ID as its base.
+
+Beyond ID-based checks, Bharti highlighted AI-powered age estimation tools already in use abroad. In the EU, solutions like Yoti “use facial estimation to tell whether somebody is more than 18 or not” and return only a yes/no response before deleting the image.
+
+“I have been in a call with a company where their tool asks the user to do some hand gestures,” she says. “And the hand gestures themselves, because of the mobility and many other things that the AI is calibrating, are able to estimate age to a very high degree of accuracy,” she adds.
+
+These alternatives, tokenised verification, facial age estimation, and gesture-based AI checks, offer models for India that balance accuracy with data minimisation, potentially addressing privacy and cost concerns that come with large-scale ID checks or behavioural tracking.
+
+Iyer stresses that “age verification is not the only thing to keep children safe on platforms.” She highlights the need for a “more proactive safety-by-design approach where there are immediate support systems in terms of children being able to access moderators or content managers for support in case of risk and harm, that’s very important.”
+
+“Secondly, platforms having more AI or algorithmic approaches to remove harmful content would be a far more impactful way to ensure risks and harms are reduced. Whether it is an adult or minor user, the behaviour of the user is being predicted to create an ecosystem where harms are happening,” Iyer adds. She stresses that focusing on a safety-by-design approach, with more involvement of the product as well as parents and children themselves in education, is critical for looking at the safety of children from a more holistic point of view.
+
+India’s data points to real, rising harms. NCRB recorded 1,823 cybercrimes against children in 2022, a 32% jump from 2021. This covers offences like cyberbullying, online sexual harassment, grooming, and Child Sexual Abuse Material (CSAM) circulation.
+
+NITI Aayog’s 2025 brief underscores the same spike and flags growing risks from non-consensual intimate imagery (NCII), exposure to inappropriate content, and addiction.
+
+Signals from global tip lines also touch India: the U.S. National Center for Missing and Exploited Children (NCMEC) CyberTipline logged 20.5 million reports worldwide in 2024, and its India dashboard shows that 840,000 reports were referred between January and June 2024.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,80 @@
+SUBREDDIT: r/india
+TITLE: India Security News Weekly: Edition 10 - August 19
+DATE: 2017-08-20
+SCORE: 34
+URL: https://www.reddit.com/r/india/comments/6uqzte/india_security_news_weekly_edition_10_august_19/
+
+--- POST TEXT ---
+
+Security Underflow (and this newsletter) is an attempt to break down barriers to knowledge about computer security among the general public. I wish to raise awareness about the risks around us and how to mitigate them or raise questions about them when we see them. Feedback/suggestions/story-tips are welcome here or you can PM me as well.
+
+Last week's newsletter: [Edition 9](https://securityunderflow.com/learn/india-security-news-weekly-edition-9)
+
+Subscribe at: [tinyletter.com/securityunderflow](https://tinyletter.com/securityunderflow)
+
+[Downloadable PDF for sharing](https://securityunderflow.com/files/newsletter/2017/india-security-news-weekly-10-19-august-2017.pdf)
+
+-------------------------------------------------------------------------------
+
+# The Ticker
+
+Ticker is a collection of interesting security news and happenings in Indian companies and startups.
+
+- Hacks continue at Unocoin (An Indian Bitcoin focused company) [[Unocoin](https://twitter.com/Unocoin/status/896377051502006272)]
+
+*Ed Note:* Indian bitcoin companies continue to be under attack from hackers and continue to be unreliable for cryptocurrency enthusiasts. Earlier as well there were hacks at other BTC companies, including Unocoin itself a week ago. This time the hackers got into the [sendgrid account](https://twitter.com/shantanugoel/status/896396165494611969) and were able to send a fake email to all Unocoin customers. It seems as around unocoin customers were duped for atleast &gt; 4 BTC (~10-12 lakh INR) going by the transaction numbers seen on the fake ICO site. We tried to get info from Unocoin but they didn't do a good job of opening up the attack/issue to the public and [passed the buck onto sendgrid](https://twitter.com/Unocoin/status/896665736281706496). If you are interested in investing in cryptocurrencies, make sure you do NOT leave any of your coins in the online wallets of these services and move them to offline wallets soon after buying.
+
+- Reliance Jio HACKED!!! All customer information (name, address, CDRs, etc) already sold!! (Original headline of article. Please see Ed Note below for details.) [[Tumblr](https://aanonindia.tumblr.com/post/164044377694/reliance-jio-hacked-all-customer-information)]
+
+*Ed Note:* I came across this post (supposedly by Anon India) last week. It claims to have hacked Jio and unearthed a cache of APKs, each of which has the subsriber ID hardcoded. I warned folks against using it because it wasn't apparent whether this is malware or not. Since then, I did more analysis on the apks in the downloads and established that they do have a hardcoded subsriber ID but it is not apparent whether they are real or not. I do not have a JIO sim to analyze this further but if anyone is trying, please do it only if you know what you are doing. There could be adverse implications for you with this in any case whether it is right or wrong. Alleged Anon India spokesmen indicated that this can be used to reveal all data about a customer but I wasn't able to validate this and they didn't provide further proof as well.
+
+- Four employees of Bengaluru firm arrested for leaking ‘Game of Thrones’ episode [[Scroll](https://scroll.in/latest/847272/four-employees-from-bengaluru-firm-arrested-for-leaking-game-of-thrones-episode)]
+
+- CCB on a long, hard chase for couple involved in ATM hacking [[Hindu](http://www.thehindu.com/news/cities/bangalore/ccb-on-a-long-hard-chase-for-couple-involved-in-atm-hacking/article19512020.ece)]
+
+- After WannaCry, Mamba and Locky ransomware return to India [[BGR](http://www.bgr.in/news/after-wannacry-mamba-and-locky-ransomware-return-to-india/)]
+
+- Your credit data is at risk as hackers seek to bully startups [[ET](http://economictimes.indiatimes.com/articleshow/60078101.cms)]
+
+-------------------------------------------------------------------------------
+
+# Policy Water cooler
+
+We cover the policies and other news that concerns the Indian government and citizens en masse here.
+
+- Joint Press Release-Second Japan-India Cyber Dialogue [[MEA](http://mea.gov.in/press-releases.htm?dtl/28869/Joint_Press_ReleaseSecond_JapanIndia_Cyber_Dialogue)]
+
+- Taking aim at China, India tightens power grid and telecoms rules amid Doklam standoff [[HT](http://www.hindustantimes.com/business-news/taking-aim-at-china-india-tightens-power-grid-and-telecoms-rules-amid-doklam-standoff/story-qGsAvnC1XWty1uegBwv8MP.html)]
+
+- 21 smartphone makers, a chunk of them Chinese, told to share security info or face action [[ET](http://economictimes.indiatimes.com/articleshow/60084725.cms)]
+
+-------------------------------------------------------------------------------
+
+# World
+
+This section takes a look at the top security news around the world which impact most of us.
+
+**[Email Provider ProtonMail Says It Hacked Back, Then Walks Claim Back](https://motherboard.vice.com/en_us/article/qvvke7/email-provider-protonmail-says-it-hacked-back-then-walks-claim-back)**
+
+**[HBO social media accounts hacked in another cyberattack](https://www.cnbc.com/2017/08/17/hbo-social-media-accounts-hacked-in-another-cyberattack.html)**
+
+-------------------------------------------------------------------------------
+
+# Events
+
+Details on upcoming security conferences and other events around India.
+
+ 
+ - [IFSEC India](http://www.ifsec.events/india): New Delhi, 16-18 Dec '17
+
+-------------------------------------------------------------------------------
+
+# Recommended reading this week
+
+[Why Isn’t Telegram End-to-End Encrypted by Default?](http://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
+
+*Ed Note:* This is a post by Pavel Durov (Telegram's developer/owner), so take it with a grain of salt. But it is interesting to look at the E2E encryption choices between WhatsApp in this way. If you are interested in privacy of your conversations, do take a look and make your own judgement.
+
+-------------------------------------------------------------------------------
+
+-SecurityUnderflow

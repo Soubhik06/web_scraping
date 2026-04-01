@@ -1,0 +1,21 @@
+Only apps whose core functionality revolves around photos and videos will be able to request users unrestricted access to their photo library, according to the updated Google Play policy announced on October 25.
+
+“We consider core functionality to be the main purpose of an app. This means that the feature that you document in your app description is central to your app working and without it, your app wonât function,” Google explained on its developer support page . “Apps that are photo or video managers and gallery apps are the most commonly eligible apps to use these permissions,” Google added. These apps will have to pass Google’s appropriate access review.
+
+All other apps that need one-time or infrequent access to photos and videos must use a system picker such as the Android photo picker. Such pickers are more privacy-preserving as only the photos and videos that a user selects on the picker are shared with the app.
+
+Why does this matter:Â Many apps only occasionally require access to photos and videos. For example, for uploading a profile picture or uploading a document to complete a loan application. But these apps nevertheless gain access to the entire photo library of the user when the user gives permission and this access can be misused. The most alarming misuse of photo library permissions has been predatory loan apps that blackmail users with their morphed explicit photos when they fail to repay loans. Google has already restricted such loan apps from accessing photos and videos in a separate policy update that went into effect in June 2023, but the new policy brings privacy protection to all kinds of apps.
+
+“Photos and videos on a userâs device are considered Personal and Sensitive User Data and should be treated with utmost privacy best practices. This sensitive information leaves users vulnerable to leaks or targets of exploitation, so minimizing this access helps avoid the burden on developers of handling such sensitive data.” â Google
+
+When does this policy go into effect:Â
+
+The new policy will only apply to apps downloaded from the Google Play Store, not to apps downloaded from other app stores or installed using APK files.
+
+STAY ON TOP OF TECH NEWS:Â Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. ClickÂ here Â to sign up today!
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

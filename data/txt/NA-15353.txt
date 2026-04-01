@@ -1,0 +1,27 @@
+Iranian government-sponsored advanced persistent threat (APT) group has been targeting the critical infrastructure of the United States of America by exploiting vulnerabilities in Microsoft Exchange and Fortinet, the US Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) claimed.
+
+This claim, which came as part of a “joint cybersecurity advisory” issued by the FBI, CISA, UK’s National Cyber Security Centre (NCSC), and the Australian Cyber Security Centre (ACSC), said that the cyber attackers are targeting a broad range of sectors such as transportation, healthcare and public health in the US, as well as Australian organizations.
+
+Russia, China and Iran have been in the cross-hairs of the US government for allegedly perpetrating state-sponsored cyberattacks targeting the country’s critical infrastructure. The Biden administration has been publicly calling out both these nation-states over these alleged attacks. This was reiterated by Biden when he met his Russian counterpart Vladimir Putin in June this year.
+
+Attacks on critical infrastructure lead to a decline in trust between governments online, and lend themselves to retaliatory measures. In some instances, they lead to pushes for closing up of the Internet, and for firewalls and data localisation, thus having an impact on the openness of the Internet.
+
+The FBI and CISA have observed alleged Iranian government-sponsored activities on Microsoft Exchange and Fortinet vulnerabilities since March 2021. Here is a brief timeline of what they observed:
+
+The advisory said that the APT actors may have created new user accounts on domain controllers, servers, workstations, and active directories. “Some of these accounts appear to have been created to look similar to other existing accounts on the network,” it said.
+
+These are the following account usernames that the FBI and CISA identified to have been associated with this activity:
+
+The Iranian actors also may have abused the Windows Task Scheduler to perform task scheduling for recurring execution of malicious code, the advisory said. “These modifications may display as unrecognized scheduled tasks or actions,” it added.
+
+These actors have also been exploiting known vulnerabilities for conducting “follow-on operations, such as data exfiltration or encryption, ransomware, and extortion”, the advisory said. The APT actors also allegedly forced victims to activate Bitlocker to encrypt data and sent ransom demands from emails such as —
+
+The APT actors have used the following tools for a variety of tactics across the enterprise spectrum, the advisory said.
+
+The FBI, CISA, ACSC, and NCSC gave a slew of recommendations which include organisations using Microsoft Exchange servers and Fortinet investigate potential suspicious activity in their networks. Others are —
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

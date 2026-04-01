@@ -1,0 +1,34 @@
+SUBREDDIT: r/india
+TITLE: Scammed by Amazon Support Agents 
+DATE: 2024-09-28
+SCORE: 14
+URL: https://www.reddit.com/r/india/comments/1fr8dw1/scammed_by_amazon_support_agents/
+
+--- POST TEXT ---
+
+Hey folks
+
+The most bizarre thing happened yesterday. I reached out to Amazon support regarding an attempted delivery case and got scammed by the support agents!
+
+I contacted support via the Amazon app, so the support agent was a legit Amazon customer service (CS) representative. He collected my email ID and phone number over the call, told me to pick up any calls related to Amazon, and even asked for my alternate number. While I was on the call with him, I received another automated call from Amazon requesting me to confirm whether I wanted to change my linked phone number. This automated call sounded very professional. It asked me to press 1 to deny the number change or hang up if I wanted to proceed with the change. I pressed 1 and hung up, then informed the Amazon CS representative (who was on hold all this while) that I didn’t want my linked number changed. He just said “Okay,” and I ended the call.
+
+A few minutes later, I received the same automated call again, asking me to press 1 to deny the number change. I pressed 1 again, because I didn't want to change the linked no. This time the automated message said they would send me an OTP to confirm my identity. I received an OTP from Amazon, entered it on the keypad, and the automated message said it would take some time to verify the OTP. It then placed me on hold. After waiting for about 5 minutes with no updates, I hung up, assuming there was a technical issue.
+
+A few minutes later, I received the same call, pressed 1 again, but this time the OTP I received was from my BANK for ₹10,000! I immediately went into red alert mode, blocked my card, changed my Amazon password, and enabled 2FA. But, it was too late—the scammers had already logged into my Amazon account using the first OTP I had shared and had emptied my Amazon Pay wallet. I realized that the OTP I had shared earlier was for logging into my account, and they were able to do so because the CS agent had gathered my email address and phone number.
+
+I put the pieces together and realized it must have been the CS agent who was involved. I called customer support again to report the issue. Guess what? The new agent I got connected to was also a scammer. He spent 30 minutes consoling me and gave me instructions to change my password—everything sounded legitimate. How did I know this one was a scammer too? After the call, he sent me an email stating that the issue would be looked into and that a complaint had been registered. But the email was fake and filled with grammatical errors.
+
+On my third attempt, I called Amazon's fraud team (a separate phone number) and explained everything. I finally received an official complain from Amazon. However, they're not helping and now I am stuck. Any help here will be appreciated.
+
+I still don't understand how they got my cvv or how they linked my pay wallet with another third party app to transfer funds. I guess I'll never know...
+
+TL;DR
+Shared email and number with amazon support, who then logged into my account and emptied my wallet after taking otp over an automated call. Reached out again to support and got connected to another scammer. Finally reported my case to the amazon pay fraud team but they didn't acknowledge the fraud. Any guidance will be appreciated.
+
+Takeaways:
+
+-Please do NOT share any OTP over the phone even if it's automated and sounds professional 
+
+-Enable 2FA on your accounts.
+
+-Don’t trust customer service agents with your information blindly—always stay vigilant when sharing any details.

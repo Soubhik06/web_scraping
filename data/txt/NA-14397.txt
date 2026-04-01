@@ -1,0 +1,47 @@
+McAfee, a cybersecurity solutions company, has introduced the McAfee Deepfake Detector as part of its suite of AI-powered products. This new tool aims to tackle the growing issue of AI-generated videos, deepfakes, AI-driven scams, and the spread of misinformation. The company is doing this in collaboration with AMD (Advanced Micro Devices).
+
+The tool will “help consumers navigate videos increasingly riddled with misinformation,” the company stated.
+
+According to a report by Indian Express, users who subscribe to the service will receive alerts within seconds when the system detects AI-altered audio in videos, without needing to manually upload files.
+
+The company added that the tool has trained on hundreds of thousands of samples, and its AI detection model performs the entire identification process—known as inference—directly on the user’s PC. McAfee asserts that it does not collect or record any user audio, and users have full control, with the ability to enable or disable audio detection at any time.
+
+The company said that the detector integrates into the user’s workflow, ensuring that everyone—from professionals to casual users—can access “protection without technical hurdles.”
+
+However, some gaps appear. Consider the following scenarios:
+
+“McAfee’s Deepfake Detector uses advanced Convolution Neural Network models—AI tools specifically trained to identify manipulated or AI-generated audio within videos,” the company said. As the tool seems to focus on audio manipulation, the detector may fail to flag if someone altered the video using AI, but left the audio unaltered.
+
+If you opt out of the audio detection feature, McAfee’s Deepfake Detector would likely still work, but the detection and processing could be slower. This is because, as per McAfee’s explanation, enabling on-device audio detection helps provide faster detection and processing, as it happens directly on the device without relying on external resources.
+
+However, if you disable the audio detection feature, the tool might need to use a different method for detection, potentially relying on cloud-based processing or other mechanisms that could introduce delays in identifying AI-altered audio.
+
+It’s important to note that most viral deepfakes are videos where AI manipulates the appearance or behavior of people, typically by superimposing someone’s face or modifying their expressions. People can use these video deepfakes to create misleading content, such as fake interviews, altered speeches, or fabricated events.
+
+While the video itself might change (such as altering someone’s face or actions), the audio plays an equally important role. It can also change to match the video alterations, making the deepfake more convincing.
+
+For instance, the deepfake of actress Rashmika Mandanna involved a video , while politician Supriya Sule’s altered deepfake focused on her audio .
+
+At MediaNama’s Deepfakes and Democracy event in 2024, Gautham Koorma, a researcher at UC Berkeley, discussed the difficulties of detecting deepfakes. He pointed out that although watermarking AI-generated media could be a potential solution, researchers had already found ways to bypass all existing watermarking methods.
+
+“I think we should be using watermarking, but keeping in mind its downside, that it can be easily broken by a sophisticated adversary. Sometimes it’s not even [that],” he stated.
+
+He also underlined the challenges of detecting deepfake audio on social media, as platforms often transcode or modify the properties of uploaded audio. “And once that happens, we see that the accuracy of detection drops a lot, sometimes higher than 10 percent. So, it’s really hard to detect these things once they’ve gone on social media,” he explained.
+
+Fact-checkers who participated in a discussion following the 2024 general election noted that they encountered only a few deepfakes, which had limited impact but did lead to an erosion of trust.
+
+Kritika Goel, Head of Editorial Operations (India) at Logically Facts, stated that it has become easier for individuals to label real audio as a deepfake, providing them with “plausible deniability” or what is known as the “liar’s dividend.”
+
+We have reached out to McAfee with queries, we will update the copy as and when they respond.
+
+“…We began with audio within videos because our threat research found that most deepfake videos used AI-manipulated or AI-generated audio as the primary way to mislead viewers. The visual elements of the videos are typically tightly cut, genuine footage to distract the viewers from the suspicious message…”, McAfee responded in an email sent to MediaNama.
+
+This points to McAfee’s detection tool being focused on audio manipulation rather than visual analysis of deepfake videos. They further clarified that McAfee Deepfake Detector detects deepfake videos, but only on web browsers and will soon work across phones, tablets, laptops, and desktops.
+
+Furthermore they added that the detection tool is opt-in only, so there is no detection of deepfake videos if the consumer does not opt in – or, if they opt out at any point. Based on their response, if a user opts out of the audio detection feature, the detection tool seems to not provide any form of deepfake detection.
+
+Note: This article was edited on 13th January, 2024 at 10:12 PM to include McAfee’s responses.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

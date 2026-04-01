@@ -1,0 +1,89 @@
+MediaNama is launching a new analysis newsletter – Reasoned by Nikhil Pahwa . Reasoned will feature analysis and forecasting related to technology policy, business and AI in India, going beyond the news, highlighting facts you probably didn’t know about, and connecting the dots. I’ll be writing max 2-3 times a week, and one update a week will appear on MediaNama.
+
+Subscribe here .
+
+The article below is the first installment and is a follow-up to the post I made about India considering making GPS mandatorily on on handsets .
+
+*
+
+First the tldr version of what’s going on, and then lets get to why this is happening and what to watch for next:
+
+An always-on GPS isn’t a feature upgrade – it’s the creation of a citizen movement map/graph in a country with no surveillance law.
+
+Before you proceed, do consider supporting our work by making a payment here , if you’re in India, and here you’re not from India.
+
+Now here are some things for you to think about:
+
+If GPS is always on, always tracking, it maps your movements and whom you meet. The original problem that Aadhaar solved was that Ram Singh in one database is different from Ram Singh in another, and so the government couldn’t get a 360 degree view of an individual they wanted to track . Identification existed in silos, and Aadhaar is gradually breaking them, even if new ID’s carry new names for the sake of optics. Apaar ID and UHIDs are an example. They’re named so as to not remind us that Aadhaar is everywhere. Our driving licenses are mandatorily linked to Aadhaar, as is our PAN. Our licenses are also linked to our FASTAG.
+
+While Aadhaar is creating a Digital Activity Map, FASTAG and GPS will create a Movement Map.
+
+Cell tower tracking shows where you might have been. Mandatory GPS shows where you were, when you were there, how fast you moved, what route you took, which side of the road you were on, which floor of a building you were likely on, how long you stayed, and who you intersected with throughout your life. Meetings, patterns and habits, and deviations from routine. Every few seconds. Permanently.
+
+It isn’t there yet, but we should treat this as an end-goal for the Indian government.
+
+Where does this all go? Into NATGRID, or the National Intelligence Grid, which the Congress had started work on in 2010-11, and has been rolled out now, it appears to me. NATGRID is supposed to connect public and private databases (including from Airlines, Credit Card companies etc), and provide real-time data for surveillance agencies. Once consent managers enable sharing of your data with private parties, nothing in the Data Protection Law prevents the government from asking them for that data.
+
+India is a country under constant threat from its neighbours, and has been subject to several terrorist attacks (two in 2025 alone), and the intelligence agencies want surveillance. The question of proportionality and checks and balances come into question here: surveilling everyone all the time is clearly disproportionate, especially when there is no judicial or parliamentary oversight.
+
+Once mandatory GPS is deployed, and the line between National Security and Political Security for the political party in power blurs (it already has), opposition politicians, journalists their sources, whistleblowers and their movements, and other political active stakeholders can be placed under constant surveillance.
+
+Remember that National Security in India remains undefined.
+
+So 360 degree surveillance is the plan under NATGRID , a part of which are the Digital Activity Map (via Aadhaar linkages) and the Movement Map (via triangulation and GPS).
+
+The idea to improve traceability by improving cell tower triangulation is old, and Airtel pushed back against it in 2010 .
+
+Governments have ideas and proposals ready, and one thing the current dispensation has succeeded at is narrative building. They look for a trigger, and then roll out a plan. I’ll give you one old example: In 2015, the proposal for the Draft Encryption Policy, which indicated that you need to store a copy of your text messages in plaintext format, to be available to the government on demand, was released. Within 24 hours it was pulled after an outcry (I was involved), and for a while, nothing happened.
+
+In early 2017, after the Cambridge Analytica scandal made headlines, India’s IT Minister Ravi Shankar Prasad began talking about Fake News (the irony), and why WhatsApp needs to do better to address Fake News. They called Chris Daniels, the then CEO of WhatsApp to India multiple times, and kept pushing against end-to-end encryption. The latest narrative against end-to-end encryption is fraud, which we’ve seen with Sanchar Saathi and SIM Binding.
+
+So why this now? It’s a piece of the puzzle, yes, but sensitivity against terrorism is high right now , after the blasts near Red Fort in Delhi. It’s easier to make this argument now. So telecom operators are being pushed to invest their own money in improving traceability, which of course they don’t want to do. They gain nothing from investing more in CAPEX: they will need to improve tower density, better backhaul, system upgrades. They’re trying to push back against this by passing the buck to handset manufacturers and users. The narrative shifts they’re attempting:
+
+from Government → Telcos → Infrastructure upgrades, to Government → Your phone → Your battery + Your privacy .
+
+Because someone leaked it, the plan may get stalled (details below). The games people play. Everything is politics. There are other proposals probably in the mix, waiting for the right moment to be pushed.
+
+Handset Manufacturers are a vulnerable lot: all they want to do is sell devices and maintain neutrality. India is just a market for them, and they’ll set up assembling units and call it manufacturing because it appeases the government, export the devices from India so it improves India’s export numbers, even though the corresponding increase in imports (parts) means that the balance of payments shift is marginal.
+
+India is the second largest handset market in the world, and none of the handset manufacturers can afford to lose this highly competitive market. They can push back a little, but push comes to shove, they’ll buckle. Most didn’t push back against Sanchar Saathi, knowing fully well that this could have led to more government apps being pushed to their users, because they didn’t care about citizen surveillance. Users wouldn’t have had a choice if this app, and others, were pushed to all devices because the battleground would remain level.
+
+Some of them have leverage: Apple started assembling and exporting iPhones from India and the IT Minister can use this to claim victory, so it gives Apple a free pass in many instances: Sanchar Saathi gets pulled down because allegedly Apple pushed back. When the traceability provision in the IT Rules came out, Apple’s iMessage was allegedly exempt from it , informally, while WhatsApp had to go to court to get an exemption .
+
+In the same vein, we saw Starlink get a license to operate in India, even AFTER a Starlink dish and router was found amidst the Manipur violence last year because India wants a Tesla factory. The hypocrisy of the situation is that while we have put on hold the idea of GPS for FASTAG because we don’t want to depend on foreign satellites and there are privacy and national security concerns ,we have allowed Starlink.
+
+In the same vein, we have banned Chinese apps because of privacy reasons , but not Chinese Handsets.
+
+Ok, then.
+
+Four stakeholder groups here: citizens, telecom operators, handset manufacturers and the Indian government. Everything here is a negotiation, and negotiation is about leverage.
+
+Scenario 1: Telco-friendly resolution means GPS tracking becomes mandatory. This looks unlikely. Telcos are clutching at straws here.
+
+Scenario 2: Compromise regulation, where there are partial GPS requirements (e.g., emergency situations). The government gets at ability to surreptitiously switch GPS on, on a device. There is software that can do this and more. This is a tricky one: it’s a backdoor that may be legally defensible, but not in the court of public opinion.
+
+Scenario 3: Telcos are forced to improve triangulation, but this happens only if handset makers push back, and citizens protest against increasing surveillance.
+
+Scenario 4: Cold storage until the next trigger. This, in my opinion, is a feasible outcome.
+
+Scenario 5: Cold storage until next elections. Next time there are general elections, we’ll be heading into a potential historic fourth term, and like we saw with the IPC reboot, without meaningful consultation, you’ll see this among other security driven mandates being pushed through.
+
+1. Who takes the lead (or the blame): MEITY or MHA? I expect MEITY will be left to deal with this, even though it’s likely MHA is pushing for it.
+
+2. Whether handset makers publicly escalate the issue. This is unlikely.
+
+3. Whether government pushes for “emergency” carve-outs. This is likely but will potentially lead to lawsuits pushing for surveillance reforms and oversight.
+
+4. Whether the opposition picks this up (they did with Sanchar Saathi but largely have been quiet about SIM Binding). I have my doubts about this. Political energy is spent behind what can be a more popular issue in the court of public opinion. Political parties often do A/B testing of their own, wrt the media.
+
+5. Whether the SC resumes hearing the Pegasus case. They’ve sat on it long enough.
+
+This article was the first edition of Reasoned by Nikhil Pahwa .
+
+If this was useful for you, consider subscribing to this newsletter , because only one of 2-3 updates a week will be on MediaNama.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

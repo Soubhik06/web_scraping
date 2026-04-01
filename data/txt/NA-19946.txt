@@ -1,0 +1,90 @@
+SUBREDDIT: r/india
+TITLE: A deeper drive into CBSE's faulty 'moderation' and grading system
+DATE: 2020-01-21
+SCORE: 12
+URL: https://www.reddit.com/r/india/comments/erpyi8/a_deeper_drive_into_cbses_faulty_moderation_and/
+
+--- POST TEXT ---
+
+*Before we start: this is my first post in this subreddit. Please feel free to amend/remove this post as appropriate, but do let me know so that I do not make the same mistake(s) in the future. Also if you suspect any mistakes/flaws in my analysis or there are things which I have missed, please let me know.*
+
+# Introduction
+
+For some reason, there hasn't been much of a research into CBSE's grading and moderation policies, despite its 'moderation' system being fundamentally flawed. Here, I try to take a deeper look into what's really going on. There have been some reports on this (like [this one](https://www.thequint.com/news/india/cbse-isc-cheated-students-with-mark-moderation) and [this](https://timesofindia.indiatimes.com/home/education/news/CBSE-Std-XII-scoring-shows-sudden-spikes/articleshow/20582997.cms)), but surprisingly few for such a serious issue in my view.
+
+I first realised this when reading Debarghya Das' interesting analysis on his CBSE and ICSE data (link had to be removed due to automoderator), wherein he showed clear evidence of nonsensical grading by both boards. Naturally, I wanted to try this out myself, and it took me some Python scripts (sources listed), hours of web scraping using tmux and more hours of Excel (lesson learned - don't use it for large data), but the results were really surprising and made the effort worth it.
+
+# The statistical evidence
+
+For example, this is the graph for the third subject in the 2014 boards:
+
+&amp;#x200B;
+
+[Students' marks in their third subject in the 2014 CBSE Class 12 exams. Source: Leaderboard \(me\)](https://preview.redd.it/m18diylx82c41.png?width=997&amp;format=png&amp;auto=webp&amp;s=15323bdff2c0b8e0f204be47e48f5a087b8244c7)
+
+It is immediately obvious that the results make no statistical sense. Firstly, the graph resembles a multimodal distribution, which is in complete odds with what such a graph should *look* like (it should be normal/Gaussian).
+
+Secondly, take a look at the 'modes'/'peaks'. There are four: at 0,33,\~46-53 and 95. It is not too hard to explain how two of the peaks came about:
+
+* 0 is for students who never showed up for the exams.
+* 33 is the minimum pass mark
+
+But what about 46 and 95? These require a somewhat deeper explanation:
+
+* Marks in the ranges \[46,53\] are often scored by students in the sciences who score full in the practical but struggle to pass in the theory (and hence get 23/70 - pass mark). This is more evident when the graphs for Subject 3 (mostly Physics) and 4 (mostly Chemistry) are taken.
+* And 95? That's the subject for the next section.
+
+# The faulty moderation policy
+
+CBSE's moderation policy was first initiated in 1992 as a response to them creating sets. Their objective was to account for potentially varying difficulties in sets. That makes sense, right?
+
+But all that CBSE does is simply raise the marks of students by some amount *k*. Let the original mark of the student be *m*. Then the naïve way would be to add *k* marks to give a sum of *m*\+*k*. But then this raises the possibility of a student scoring beyond 100. So what CBSE has done is to cap students' marks to 95 *unless* they actually got more than 95. That is,
+
+*m* = max(min(*m+k*,95),*m*)
+
+So this essentially means that a student who has actually scored 95 and another who scored 95-*k* would end up getting the same score 95 in the end. **This is unfair**.
+
+What makes this even sadder is that CBSE was on the verge of ending this back in 2017, but it was unfortunately hit with a court case by the Delhi High Court that forced it to continue moderation that year.2018 (the year when I wrote the exams) was an interesting case - it was the first (and the only) time that they essentially abolished differential sets per region - everyone around the world, whether Delhi, All-India or Foreign - would receive the exact same questions. That was a very good idea to my eyes - that removed the primary motivation for having moderation in the first place (i.e, presence of sets). But unfortunately, moderation still persisted (we got 9 free marks in maths despite the paper being really straightforward), through at least it was uniform...
+
+2019 marked the unfortunate return to differential sets (and going as far as differing questions within the same region) and potentially non-uniform moderation scales. This was perhaps due to the 2018 paper leaks, but sigh...
+
+# Connecting with the (good) grading scale
+
+In comparison, the grading system of CBSE is much better and actually logical (if perhaps controversial at times). CBSE grading is purely relative: it first takes all passed students in a subject and then ranks them: the top 1/8 gets A1, the next 1/8 gets A2, the next 1/8 gets B1, and so on, till the last 1/8th gets a D2 (pass). This system properly accounts for difficulty in questions between years, and is the only system that takes the faulty moderation policy into account correctly.
+
+Using the scales, we can observe some interesting trends. Let's consider the grading curves:
+
+* In 2016, |min(D1)-min(D2)| was exactly 2 in Mathematics. This does not make sense - considering that 33 is the past mark - unless over 12.5% of all candidates managed to earn 33 or 34. Clearly, students near the pass mark were given "grace marks". The same can be seen in Class 10 with Science and Mathematics for 2018 (where the difference was just 1!)
+* Even with moderation applied, there is clear evidence that 2018 students in Mathematics had an advantage over their 2016 counterparts. Technically, if moderation was doing its job properly, then the cutoffs for each grade should be nearly the same. This is not the case (offset is the number of marks added in that year):
+
+|*Grade cutoff (Mathematics)*|*2016-17 year (offset = +15)*|*2018-19 year (offset = +9)*|
+|:-|:-|:-|
+|A1|90|95|
+|A2|76|84|
+|B1|67|73|
+|B2|57|63|
+|C1|50|55|
+|C2|44|46|
+|D1|35|42|
+|D2|33|33|
+
+The ramifications for this could be that students who applied to universities that considered the mark and not the grade would have been affected adversely (Indian and I think Canadian universities follow this for example). The argument that 2018 students were somehow 'smarter' is not valid (the 2014 A1 cutoff was 94 for example), and the law of large numbers is enforceable here.
+
+# What I want from them
+
+Considering that I have sent a lot of emails to them and have got nothing from them, I am not hopeful that I will get what I want. But here's what I wish they do:
+
+* Stop moderation. The grading scale handles many of the issues (i.e variations in difficulty) really well. Or, if you need to retain some sort of correction to students' marks, please do it in a statistically meaningful manner. Others know how to do it - the prime example being the SAT (whose task is actually much harder with the variety of sets that exist). Others like the IB, A-Levels and Scotland's (Advanced) Highers do it in a better way as well. Indeed, as I noted elsewhere,
+
+&gt;We start with capturing the marks obtained in a particular test administration (say the 2019 exams), and then convert its mark into one with a defined normal curve (my proposal is to set mean = 50/55), and finally use that as the basis for future test administrations. This is just like how standardised tests like the SAT work. In future test administrations, the distribution can be compared with that of the standardised curve and then curved to standardise the score. While it is doable in large subjects like Mathematics to force the curve to be the same due to the law of large numbers, the statistically better approach is to consider this with other factors before applying the adjustment to the standardised scale. *This is not moderation, however*. To start with, the adjustment is not purely linear. Marks can increase or decrease, the number of marks adjusted can vary, and it is not injective (i.e, multiple raw marks can map to the same scaled score). The SAT and most other standardised exams work on this principle, just that the raw and standardised marks both correspond to an integer inclusively between 0 and 100 in this case. 
+&gt; 
+&gt;For example, for a raw mark of 60, an easy paper might map that to a 55, while one might get a 65 or 70 for a harder one.
+
+* Stop the practice of giving grace marks. Like if you need do that, why not set the pass mark to that lower number instead? After all, there will be that many students who have fallen just short of the pass mark; there is no need to pass them.
+* Going further would deviate from this post (which focuses purely on the moderation aspect), but I have a lot more that I wish CBSE would do. Like doubling the portions (Class 11 + 12), adding a **H**igher tier for all subjects, and more. But **not** reducing the portion (as there were some media reports on it).
+
+# Sources/References
+
+* [Wikipedia's CBSE page](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education) \- contains all the graphs for the 2015 exams, and also other useful information. Note that I have written a lot of them.
+* [My GitHub page](https://github.com/Leader-board/cbse/tree/master/statistics) \- contains the raw and processed data for the 2014 and 2015 exams. Also some interesting, through unrelated, analysis (i.e average marks by first name)
+* [The Mathematics S - H proposal](https://github.com/Leader-board/MathsSHproposal) \- a proposal that I wrote in 2018 (just after finishing my board exams), that contained my vision on CBSE Mathematics - including how it should be done (like introducing a 2-tier system etc), the exams etc. Unfortunately, CBSE hasn't come back to me, despite sending a bunch of emails to them again...

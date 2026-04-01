@@ -1,0 +1,33 @@
+Malicious documents containing remote access trojans (RAT) were allegedly distributed to several Indian government and defence agency personnel to access confidential information, claimed Cisco Talos in a report.
+
+The hacking operation termed “Armor Piercer” uses two RATs — Netwire RAT and WarzoneRAT (alias Ave Maria), and it was first observed in December 2020. The Cisco Talos report said that the RATs masqueraded as documents related to the Indian government’s Kavach Application.
+
+What is Kavach? Kavach is a two-factor authentication application used by government employees to access their emails. There are multiple how-to-use Kavach documents available on the internet, issued by the Indian government. The malicious documents were modelled after these documents.
+
+Operation Armor Piercer is a grim reminder of the vulnerabilities still existing in our cybersecurity posture. To ensure end-to-end security of India’s assets and information, government and defence agencies must implement a layered defence strategy that enables visibility and coverage across all endpoints. — Vishak Raman, Director, Security Business, Cisco India
+
+MediaNama has reached out to the Indian Computer Emergency Response Team with queries pertaining to the alleged attack. The post will be updated when we receive a response.
+
+Operation Armor Piercer is another instance of highly motivated threat actors using a set of RAT families to infect their victims. These RATs are packed with many out-of-the-box features to gain complete control over the infected systems. The use of RATs makes it challenging to track down the threat actors behind them.
+
+The maldocs pose as documents related to either meeting schedules pertinent to the victims, or as technical guides related to the Government of India’s IT infrastructure. It is likely that these files are either delivered as attachments or links in spear-phishing emails where the verbiage is meant to social engineer the victims into opening the maldoc attachments or downloading them from an attacker-controlled link — Cisco Talos report
+
+These are some of the file names used:
+
+In other cases, Cisco Talos found that these maldocs were fashioned after security advisories, meeting schedules, and software installation files.
+
+The Netwire and AveMaria RAT families are eventually downloaded and executed on the victim machine. In some cases, we’ve also discovered the deployment of custom .NET-based file enumerator modules that generate and exfiltrate file path listings of specific file extensions on the infected systems – Cisco Talos report
+
+This is what NetwireRAT (one of the two RATs that were identified by Cisco) can do —
+
+AveMaria RAT can do a whole lot more, such as —
+
+There has been a recent spurt in cyber attacks in India, including alleged attacks perpetrated by Chinese state actors . As of today, India still does not have a data protection law and the National Cyber Security Strategy which has been in the pipeline since 2019, has still not been finalised.
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

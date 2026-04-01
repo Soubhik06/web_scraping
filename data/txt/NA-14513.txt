@@ -1,0 +1,17 @@
+Facebook users now have a new layer of authentication for logins using USB-based physical keys. The company has partnered with security solutions providers Yubico and FIDO Alliance which manufactures USB thumb drives that the can be used to assign cryptographic keys for two-factor authentication.
+
+The devices cost anywhere be $18 to $50. Users who have enabled two-factor authentication will have to insert these thumb drives onto a PC’s USB port after entering their password. The login-page will automatically authenticate by verifying crypto keys present on the hardware. The USB drive acts as “a physical security key to your account” so that users can verify their identity every time they login into a PC that doesn’t to belong to him/her.
+
+A Facebook user will need to enable ‘ Login Approvals ’ from the Security Settings page, and instead of generating a login code via SMS/email, the user simply plugs in the USB drive for identity verification. The two-factor login approvals were built so that even if a hacker gains access to a user’s password it will be hard for them to login through an unregistered PC or mobile device. However, with a physical USB key, Facebook claims that it provides protection from phishing attacks and faster logins through PCs and mobile devices with just a tap of the USB key (via NFC-supported phones).
+
+Here is a demonstration video on how this works:
+
+Currently, physical key authentication for Facebook is available on Chrome and Opera only, while the company mentions that it will be rolled out on Firefox browser sooner.  Note that apart from Facebook, services like Google, Dropbox, Microsoft, GitHub and Salesforce uses physical key authentication using Yubico and FIDO.
+
+GSMA’s login APIs via phone numbers
+
+GSMA provides an authentication feature using a mobile phones, which was unveiled in July last year. Users on Aircel, Bharti Airtel, Idea, Tata Indicom, Telenor and Vodafone in India can use their unique mobile numbers to sign in into social networks sites, online bank accounts and make transactions online, without having to manually enter their username and password in the login page.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

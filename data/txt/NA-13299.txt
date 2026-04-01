@@ -1,0 +1,61 @@
+The Department of Telecommunications (DoT) notified the Telecommunications (Telecom Cyber Security) Amendment Rules, 2025, in the Gazette of India on October 22.
+
+These rules, which came into effect immediately, introduce a Mobile Number Validation (MNV) platform to verify telecom identifiers, and officially bring Telecommunication Identifier User Entities (TIUEs) under DoT’s cybersecurity oversight.
+
+To explain, these entities include any service or business that uses mobile numbers to identify, verify, or deliver services to users.
+
+Notably, the final notification largely retains the structure of the draft amendment issued in June 2025. However, it removes the fixed fee schedule for number validation and gives DoT full discretion to decide which TIUEs may access the MNV platform voluntarily.
+
+The June 2025 draft had included a clear table of charges for mobile number validation requests: Rs. 3 per request when initiated by a business on its own and Rs. 1.50 per request when made under a government direction. It also detailed how this fee would be divided between the government and telecom operators.
+
+However, the final notification removes this fee schedule entirely. Rule 7A(3) now states that “fees charged for use of the MNV platform shall be shared between the Central Government or its agency and the authorised entity or licensee providing the validation services, as specified on the portal.”
+
+This means the fee amount will now be decided administratively and published on DoT’s official portal instead of being fixed in the rulebook. While this approach allows flexibility, it also gives the government exclusive control over pricing without public consultation.
+
+Additionally, the new proviso to Rule 7A(2) clarifies that when a TIUE wishes to use the platform on its own, “the decision to allow use of such platform shall rest with the Central Government”. This provision gives DoT the power to approve or deny voluntary access to the MNV system. In effect, businesses can only use the platform if DoT authorises them or if they are acting under a government directive.
+
+Apart from these changes, the rest of the text including the definition of TIUEs, the structure of the MNV platform, and DoT’s powers to suspend or restrict identifiers remains the same as the June draft.
+
+Under the new framework, the Central Government or an authorised agency will establish and manage the MNV platform to enable the validation of telecom identifiers such as mobile numbers. Telecom operators and authorised entities must participate in the platform and respond to validation requests from approved users.
+
+The DoT can now direct TIUEs such as digital platforms, fintech firms, or retailers that use phone numbers for verification or communication to use the MNV platform and verify whether a mobile number belongs to the registered user in a telecom operator’s database.
+
+Moreover, TIUEs must share details with the DoT about how they use telecom identifiers. They must follow cybersecurity standards set by the government and must suspend the use of any number when the DoT issues an order.
+
+For context, if the DoT identifies misuse of a telecom identifier, it can order both telecom operators and TIUEs to block or suspend it immediately in the public interest. The department does not need to issue prior notice but must record its reasons in writing.
+
+The platform acts as a secure intermediary between digital services and telecom networks. When a TIUE or government agency submits a request, the platform forwards it to the relevant telecom operator, which checks its subscriber records and sends a response back through the MNV system.
+
+Notably, all entities using the platform must follow technical and procedural standards prescribed by DoT and comply with applicable data protection laws, including the Digital Personal Data Protection Act, 2023.
+
+The platform’s stated objective is to improve telecom cybersecurity and prevent identity fraud or misuse of phone-based identifiers. However, the rules do not specify what kind of information a TIUE receives after validation, leaving uncertainty around the extent of user data shared during this process.
+
+Trishee Goyal, Public Policy Manager at Google, remarked at a MediaNama discussion that the absence of safeguards around what TIUEs might be required to share with the government or telecom service providers raises commercial privacy concerns.
+
+She noted that such access could reveal information about a business’s user base, both to the government and telecom operators.
+
+The amendment also introduces new provisions on International Mobile Equipment Identity (IMEI) numbers to prevent device tampering.
+
+Manufacturers and importers must ensure that newly produced or imported devices do not reuse IMEIs already active in Indian telecom networks. The Central Government will maintain a national database of tampered or restricted IMEIs, and sellers of used devices must check this database before sale. Furthermore, anyone found selling devices listed as restricted or tampered will be in violation of the rules.
+
+Notably, these provisions strengthen India’s existing Central Equipment Identity Register (CEIR) and aim to reduce circulation of stolen or cloned mobile phones.
+
+The final Telecommunications (Telecom Cyber Security) Amendment Rules, 2025, formally bring India’s digital service providers into DoT’s telecom cybersecurity framework.
+
+By establishing the MNV platform, the government now has a unified mechanism to verify mobile numbers used across digital ecosystems. This could help curb telecom-related fraud and improve accountability for mobile number-based services.
+
+However, the removal of the fixed fee structure and the introduction of DoT’s discretionary control over platform access centralise administrative authority. These provisions notably reduce transparency in cost-setting and eligibility criteria for entities that can access or use the MNV platform.
+
+Aman Taneja, Partner at Ikigai Law, previously warned that this level of visibility could expose competitively sensitive information to telecom companies. “If you get a sense of how frequently my users use my platform service, et cetera, that’s valuable information for especially if a TSP is getting into a competing line of business with me,” he said.
+
+Similarly, Apar Gupta, Co-founder of the Internet Freedom Foundation (IFF), pointed out that the absence of legal limits on how the MNV platform may evolve allows the government to expand or modify it without fresh subordinate legislation. He cautioned that this flexibility mirrors the approach taken with the Sahyog Portal, which was built through administrative directions rather than clear legal safeguards.
+
+Importantly, the inclusion of TIUEs expands DoT’s oversight to nearly every business that uses mobile numbers as identifiers. This notably broadens the scope of telecom regulation and brings it closer to areas already governed by the IT Act, 2000, and the DPDP Act, 2023.
+
+Ultimately, how DoT implements these powers will determine whether the new framework strengthens telecom cybersecurity or introduces new layers of compliance and privacy risk for digital businesses and users alike.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

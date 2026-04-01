@@ -1,0 +1,17 @@
+SUBREDDIT: r/india
+TITLE: This is how someone can clean up your bank accounts
+DATE: 2018-03-24
+SCORE: 109
+URL: https://www.reddit.com/r/india/comments/86r923/this_is_how_someone_can_clean_up_your_bank/
+
+--- POST TEXT ---
+
+A couple of days ago there was post about how a scamster was trying to get hold of a victim's sim card by trying to fool the victim into sending the simex ( sim exchange code to upgrade sim card to 4g ) to the mobile operator. 
+ For the uninitiated the scamster most likely wanted access to the victim's sim because he already has access to the last 6 digits of his debit card number and expiry date which is not that too difficult to find these days (restaurants , shops etc ). With access to both of them he could clean out victim's bank accounts in seconds via any UPI app . Even if the victim had previously registered for UPI his pin it wouldn't safeguard his funds as thief would simply be able to reset it easily. TBH the victim is not to blame here as it could be even a non-tech savy person could fall to prey here since being told to send a SMS to the operator to "extend the deadline for continuing mobile services" doesn't seem like one is actually sharing confidential information with anyone. The general safeguards being not to share sensitive details like ATM pin , bank accounts OTP etc all are being adhered to in this case. One cannot expect a layman to actually know what 'simex' or rather any other sim change code mean unless they have previously done it themselves. 
+The fault lines in the manner how banks are overly dependent upon mobile numbers to authenticate users assuming them to be secure and the basic vulnerability of UPI authorization mechanism itself. It is inherently insecure as it fails to follow the basic principles of authentication (https://blog.gemalto.com/security/2011/09/05/three-factor-authentication-something-you-know-something-you-have-something-you-are/). Atleast 2 factors need to be followed to secure any system. UPI only folows 1 , twice , which is : " Something you have " in this case it is the (Registered Mobile Number) RMN along with front facing debit card details . **Had it been RMN along with debit card pin there would be no way the scamster could get hold of victim's funds even if he had unknowingly sent the sms to his mobile operator to initiate sim exchange process.**
+ 
+The main issue here is folks fail to understand the magnitude of this flaw until they are screwed themselves by it. On the users side there are some who swear by UPI or Aadhar without knowing how they actually work . My point is , you are up against an insecure system (NPCI) , mobile operators and bhakts/unkils who swear by it even going to the extent of blindly defending it and there are plenty of the latter. Even on r/india too , like u/prajaybasu. As long as these two co-exist there is no respite. 
+ Your best bet for now is to go medieval by sticking to paper based transactions ( cheque / withdrawal slip ) and cancel your debit cards . Mind you paper based financial transactions (cheque) are by far more secure than their electronic counterparts as they have to pass through multiple checkpoints like bank , clearing house etc to validate any transaction the only downside being the time required to complete the transaction.
+I see no improvement in this regard unless folks start an anti-aadhar like campaign. Come to think of it UPI is actually facilitating theft.
+
+PS: I am a security researcher .

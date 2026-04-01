@@ -1,0 +1,49 @@
+Mobile number validations through a government-run platform can bring a slew of additional expenses to platforms, not just in paying for the validations themselves but also in terms of external dependencies, speakers at MediaNama’s discussion on the Department of Telecommunications’ (DoT) Mobile Number Validation (MNV) Rules pointed out.
+
+“ I was doing some rough numbers. If we do approximately, let’s say, five million validations a month, it’s going to cost you Rs 3 crore. Or Rs 1.5 crore, depending on whether it’s mandatory or voluntary. Training costs, of course, for people to follow this process. Data privacy, again, since you’re sharing the numbers externally, you’re responsible to maintain the data that MNV validates. That also means data privacy issues in future,” Rajiv Gupta, President of PB Fintech, explained.
+
+Gupta’s comments come in the context of the draft amendment to the telecom cybersecurity rules, 2024, that the DoT released in June this year. This draft amendment seeks to bring in a new category of service providers within the scope of the rules. Called Telecom Identifier User Entities (TIUEs), these are entities that use telecom identifiers to validate their users or deliver their services. TIUEs have a range of obligations, including following orders to suspend the use of certain telecom identifiers, providing DoT with data related to the telecom identifiers, and validating users using an MNV platform based on Government directions. User validation can cost businesses Rs 3 per user if they choose to do it voluntarily, or Rs 1.5 per user if they do so based on a Government directive.
+
+Besides everything else, businesses may also face customer support and trust issues, Gupta explained. He said: “For example, if there is a denial by [the] MNV system, the customer can be denied that service and that’s going to create a confusion. What methodology will MNV follow to validate yes or no?”
+
+When asked whether platforms would have a choice of opting between the platform or following along with their current validation protocols, Gupta clarified that it is unclear. “Now, whether it is really mandatory or why will they make it mandatory? That’s unclear in the draft,” he explained.
+
+The draft amendment says that a State Government, the Central Government, and authorised Government agencies can issue directions instructing businesses to validate customers. This could hypothetically mean that authorities like the Insurance Regulatory and Development Authority of India (IRDAI) could instruct all businesses under its purview to onboard the platform. To this, Gupta emphasised that it is unclear whether such sector-wise mandates are the agenda behind the draft amendment.
+
+With an overwhelming majority of customers using mobile numbers for registration on digital platforms, businesses will not be able to switch to alternative means of verification to avoid falling under the scope of the MNV rules.
+
+“I think like an overwhelming majority of users would be, as with any digital service these days, mobile-based, [and] would be registered using their mobile numbers. And I think it obviously goes beyond just authentication to the fact that mobile has now become the primary connection to the internet. And so any kind of service or update or information or promotion, marketing, whatever you want to provide, a mobile number becomes key, right? So it goes beyond just authentication and probably due diligence,” Hoonar Janu, Head of Public Policy at InfoEdge, explained.
+
+Fellow speaker Amarinder Dhaliwal, Chief Product Officer for IndiaMART, also emphasised the importance of mobile number-based customer validations, stating that the company does OTP-based verifications once every year for users on its platform.
+
+“Just to give you some idea, 40-50 million users visit our platform, on a monthly basis. So you can imagine in our business it is not a transaction, it’s really inquiry. So almost about 5-6 million of them every month do [a] transaction, which is an inquiry in our business. So all of them, anybody coming on the platform does require authentication, does require validation and phone number is the primary validation,” he explained.
+
+When asked whether platforms could rely on other means of identification like email, all the startup representatives denied such a possibility. “I don’t see that happening. And the reason we’re sitting here is because we can consult and we can give our views. Otherwise, it’s unilateral and any law would get passed just like that. So the point is mobile is the primary way of doing business and it will continue to be,” Dhailwal said.
+
+Dhaliwal mentioned that on the seller side, the company mandates both email address and mobile number for user authentication. Besides this, sellers also need to go through various other checks.
+
+“Like GST is one of the ways to authenticate. Active GST is another way. Udayam , Aadhaar. Many ways. And penny drop is another way. So digital businesses are all the time looking for ways to ensure that there is real identity. And all that the government has done on the digital infrastructure side, that’s really helped. Because we used to struggle a lot earlier, to especially verify the sellers,” Dhailwal explained.
+
+On the buyer side, he emphasised that a large part of the business happens over the phone. Unlike sellers, IndiaMART does not mandate email addresses for buyers. Dhaliwal explained that despite this, there are ways to further authenticate users. “One of the ways is to make sure that there’s enough transaction history on the platform, which helps to authenticate. What did the buyer send requirement for? How long was he active? But this [validating customer identity against phone number] is a problem that we struggle with. My name is Amarinder. This is my phone number. There’s no way to validate that. What is my history? There’s no way to validate that,” he added.
+
+“Compared to other validations that are done digitally, like GST or other validations, this is very expensive,” Dhaliwal mentioned. Adding to this, Seema Jindal, Head of Public Affairs for Truecaller, mentioned that OTP validations via SMS cost around 12 paise (p) to 15 p.
+
+She added that the price varies depending on the message volumes and in some cases could be as low as 8 p. “The OTP on OTTs, that’s also like maybe double the cost of what SMS is. So you can see the comparison in terms of Rs 3 versus, say, 15 p,” Jindal explained.
+
+MediaNama’s Editor Nikhil Pahwa explained the concern around regulatory creep with the draft amendment.
+
+He said: “There is a fundamental shift that is taking place over here, which is that every internet company that uses mobile numbers to register a user or validate a user, effectively becomes something called a TIUE. And therefore, they are regulated by the Department of Telecom separately, which means that once you are regulated by the DoT under these regulations, the ability to issue more directions to you exists with them. Are you okay with being regulated as a telecom entity?”
+
+Responding to this, Gupta argued that given the kind of emerging threats of fraud and cybersecurity, the draft amendment could be a positive step. However, he prefaced this by saying that PB Fintech would be okay with the amendment “provided this is refined in consultation with the ecosystem, whether it is cost or whether it is data privacy”. On the other hand, Dhailwal pushed back against the possible inclusion under the rules.
+
+“From internet business’s point of view, this [telecom level regulation] is not acceptable. We would not like to be regulated. It is a heavy cost to business without clarity on what the value [is] that could come out of it. Definitely not,” Dhaliwal emphasised.
+
+Watch the full discussion here:
+
+This discussion was organised with support from PhonePe, Truecaller and Meta. Our community partners for this event were Broadband India Forum, CUTS-International and the Internet Freedom Foundation (IFF).
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

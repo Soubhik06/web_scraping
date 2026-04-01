@@ -1,0 +1,141 @@
+The Ministry of Electronics and Information Technology (MeitY) has published FAQs explaining its Synthetic Media related amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2026. The ministry notified the changes yesterday and will enforce them from February 20, 2026.
+
+In the document, the ministry says it wants an âOpen, Safe, Trusted, and Accountable Internetâ and expects intermediaries to respond faster to harms caused by realistic synthetic media. Here is a detailed breakdown of the FAQs and what the amended rules require from platforms and users.
+
+The amendments reduce the compliance window for takedown on actual knowledge.
+
+When an intermediary receives actual knowledge through a court order or a reasoned intimation from an authorised officer in the appropriate government or its agency, the intermediary must remove or disable access within three hours.
+
+The FAQs also clarify authorisation requirements. The authorised officer must hold written authorisation. Police administration can designate one or more officers not below the rank of Deputy Inspector General of Police, with special authorisation by the appropriate government.
+
+The amendments also shorten grievance disposal and removal timelines:
+
+â¢ the intermediary must dispose of grievances within seven days
+
+â¢ the intermediary must act within 36 hours on certain grievances seeking removal or disabling access tied to Rule 3(1)(b)
+
+â¢ the intermediary must remove or disable access within two hours for complaints involving specified categories such as nudity, sexual content, morphed content, and impersonation
+
+The FAQs say intermediaries covered under Rule 3(3) must deploy âreasonable and appropriate technical measures,â including automated tools, to prevent users from creating or sharing synthetically generated information (SGI) that violates any law.
+
+The document highlights high-risk categories that platforms are expected to prevent, including SGI that:
+
+â¢ contains Child Sexual Exploitative and Abuse Material (CSEAM) or Non-Consensual Intimate Imagery (NCII)
+
+â¢ contains sexually explicit content or content invasive of bodily privacy
+
+â¢ creates false documents or false electronic records
+
+â¢ relates to explosives, arms, or ammunition
+
+â¢ falsely depicts a person or event through misrepresentation likely to deceive, including misrepresentation of identity, voice, conduct, action, statement, or the event itself
+
+The FAQs provide examples such as synthetic âundressing,â forged government IDs, fabricated financial documents, deepfake political clips, fake celebrity endorsements, cloned voice scam calls, and synthetic news footage of riots, attacks, stampedes, or accidents that never occurred.
+
+When synthetic content does not fall into the prohibited categories, the rules still require visibility and traceability.
+
+Intermediaries must:
+
+â¢ clearly and prominently label the content as SGI
+
+â¢ ensure prominent visibility for the label on visual and audio-visual content
+
+â¢ add a prominently prefixed audio disclosure for audio content
+
+â¢ embed permanent metadata or technical provenance mechanisms, to the extent technically feasible
+
+â¢ include a unique identifier that helps identify the SGI and the computer resource used to create or modify the content
+
+The amended rules introduce anti-tampering safeguards.
+
+Platforms must not enable users to modify, suppress, or remove:
+
+â¢ the SGI label
+
+â¢ metadata or provenance mechanisms used to identify SGI
+
+â¢ unique identifiers linked to the creation or modification of the content
+
+The FAQs cite features such as removing watermarks or exporting files without metadata as examples of what platforms should not enable.
+
+The amendments insert Rule 4(1A) and introduce pre-publication requirements for Significant Social Media Intermediaries (SSMIs).
+
+Before allowing users to upload or publish content, an SSMI must:
+
+â¢ obtain a user declaration on whether the content is SGI
+
+â¢ deploy technical measures to verify the correctness of the declaration before publication
+
+â¢ apply a clear and prominent label when the platform confirms the content as SGI through declaration or verification
+
+The FAQs state that when an SSMI knowingly permits, promotes, or fails to act on SGI in contravention of the rules, the platform will be deemed to have failed to exercise due diligence.
+
+The FAQs say the amendments strengthen and align Rule 4(4) with the new SGI obligations.
+
+The revised provision moves away from an âendeavourâ formulation and places a clearer obligation on Significant Social Media Intermediaries to deploy reasonable and appropriate technical measures, including automated tools, to ensure effective due diligence.
+
+When users create or circulate unlawful SGI, the intermediary must take expeditious action. The FAQs list actions that include:
+
+â¢ immediate removal or disabling access
+
+â¢ suspension or termination of the responsible account
+
+â¢ preservation of logs and relevant information so the platform does not compromise investigations
+
+â¢ disclosure of user information to complainants or competent authorities where required by law
+
+The amendments change Rule 3(1)(c) and require intermediaries to inform users every three months, instead of once every year.
+
+The periodic advisory must inform users about:
+
+â¢ the platformâs ability to suspend or terminate accounts and remove or disable content
+
+â¢ user liability for unlawful acts
+
+â¢ reporting obligations where the law mandates reporting of certain offences
+
+The amendments also add Rule 3(1)(ca), requiring platforms that enable SGI creation to warn users that unlawful SGI can attract penalties under the Information Technology Act, 2000 and other applicable laws.
+
+The amendments insert Rule 3(3), titled âDue diligence in relation to synthetically generated information.â
+
+This provision applies when an intermediary offers a computer resource that enables or facilitates the creation, generation, modification, alteration, publication, transmission, sharing, or dissemination of SGI.
+
+This includes:
+
+â¢ AI image and video generation tools â¢ voice synthesis or voice cloning tools â¢ services that facilitate the publication or distribution of synthetic media
+
+Under Rule 2(1)(wa), synthetically generated information (SGI) covers audio, visual, or audio-visual content that a computer resource artificially or algorithmically creates or alters in a way that appears real or authentic and depicts an individual or event in a manner likely to be perceived as indistinguishable from a natural person or real-world event.
+
+In practice, the definition targets realistic deepfake-style harms rather than ordinary editing.
+
+The FAQs exclude three categories where users act in good faith and do not misrepresent meaning or context.
+
+This includes edits such as formatting, technical correction, colour adjustment, noise reduction, transcription, or compression that do not materially alter the underlying content.
+
+This covers routine creation or formatting of documents, presentations, PDFs, educational material, and research outputs, including illustrative or hypothetical content.
+
+However, the exclusion does not apply when someone uses AI tools to create fake certificates, forged IDs, fabricated official letters, or false electronic records.
+
+The exclusions cover subtitles, captions, translation that does not manipulate meaning, summaries and search tags, audio description, and clarity improvements.
+
+The SGI definition applies only to audio, visual, or audio-visual content. Text-only AI output does not qualify as synthetically generated information under Rule 2(1)(wa).
+
+However, the amendments insert Rule 2(1A), which clarifies that references to âinformationâ used to commit unlawful acts include SGI in certain enforcement provisions.
+
+These include:
+
+â¢ Rule 3(1)(b), which requires platforms to prevent users from hosting unlawful content â¢ Rule 3(1)(d), which governs takedown obligations â¢ Rule 4(2), which requires identification of users sharing unlawful content â¢ Rule 4(4), which requires technology-based detection of unlawful content
+
+The broader due diligence duties therefore continue to apply to unlawful content in any form, including text.
+
+The FAQs clarify that removal or disablement of access to information, including SGI, in compliance with the rules does not violate the safe harbour conditions under Section 79 of the Information Technology Act.
+
+The ministry says that moderation actions taken through reasonable technical measures or automated tools will not by themselves undermine safe harbour eligibility.
+
+Update: This story was updated on February 27 at 1:54PM to reorganise the story for clarity based on editorial inputs.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,33 @@
+More than 800,000 lines of data, including information of over 50,000 persons were exposed following a data breach of the Tamil Nadu Police Facial Recognition Portal on May 4, 2024. As per an X thread by FalconFeeds.io , a threat intelligence platform, the data was breached by a threat actor named Valerie who accessed FIR details, and contact details of police officers, among other things. According to FalconFeeds, the incident highlights vulnerabilities in critical public safety infrastructure and the need for enhanced security measures.
+
+On May 5, FalconFeeds reported the following data to have been exposed:
+
+🚨 Cybersecurity Breach: Tamil Nadu Police Facial Recognition Portal Compromised 🚨
+
+A threat actor named Valerie has claimed responsibility for accessing the database of the Tamil Nadu Police Facial Recognition Portal ( https://t.co/cA34ZOiDtJ ) as well as the personal details of… pic.twitter.com/rM6abepoDP
+
+— FalconFeeds.io (@FalconFeedsio) May 4, 2024
+
+As per an unsigned police press release , the password of an admin account was compromised and has since been deactivated. It also said that the account had limited rights like the creation of ID for users, query search and the details on the front end.
+
+“The unauthorized user can only view the front-end data (creation of ID for users, queries search) and hence, the unauthorized user could not have provision to access the backend data and main server data,” said the press release, adding that a complaint was lodged at Cyber Crime Police Station, Chennai. The portal is used by 46,112 users across Tamil Nadu.
+
+In 2020, MediaNama first covered the exercise of Tamil Nadu police scanning people’s faces using a facial recognition app called FaceTagr. The app is meant to help police officials identify suspects as criminals by comparing the live photos against its database.
+
+However, there are no criteria by which an officer may identify a person as a suspect. According to police, the scanning of faces depends “purely on a police official’s experience, and the various inputs he might have received during his investigation.” Additionally, the police even stated that officials do not need any warrant before seeking a person’s facial data. This is concerning since officials had admitted even then that the app could be abused in the hands of a rogue police official on the ground. Aravindhan P, Superintendent of Police at the Thiruvallur district in Tamil Nadu had said that the police constantly monitored police officials’ use of the app at a central control centre to make sure that didn’t happen.
+
+Even then, experts had asked that there be “clear procedures under the police manuals about the procedure when collecting and matching photographs” and “audits of the technology to ensure its scientific validity in live contexts, apart from reliance on standards.” Further, the use of such technology also requires training in its use and limitations. A similar request for audit was made in this case as well.
+
+Dear @ptrmadurai – As minister for Information Technology and Digital Services of Tamil Nadu – this #Databreach greatly concerns digital (& physical) safety of residents of Tamil nadu.
+
+Please constitute an independent audit of the entire data leak and #FRS used by @tnpoliceoffl https://t.co/rP8YzcsVHQ
+
+— Srikanth.CashlessConsumer | ஸ்‌ரீகாந்த் (@logic) May 4, 2024
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,41 @@
+Farmers in Uttar Pradesh will have to undergo a mandatory e-KYC process after the central government discovered that a yearly subsidy meant for marginalised farmers under the PM Kisan scheme was disseminated to over three lakh ineligible beneficiaries, according to a Times of India report.
+
+The Pradhan Mantri Kisan Samman Nidhi transfers annual subsidies of Rs 2,000, Rs 4,000 and Rs 6,000 to three separate categories of farmers who do not have any taxable income outside of agriculture. Earlier this year, the government had run verification checks on these bank accounts only to find out that over 3.15 lakh of them were taxpayers with an income of over Rs 2.5 lakh per year from non-agrarian sources. Income from agriculture is exempt from taxation, the report added.
+
+District magistrates around Uttar Pradesh reportedly initiated the recovery process following an order from state chief secretary Durga Shankar Mishra, who claimed to TOI that around Rs 200 crores might be recovered from such farmers.
+
+Across India, the PM-Kisan scheme is facing two problems at the same time: Ineligible farmers getting funds not meant for them and the funds not reaching enough eligible farmers.
+
+Earlier in April, the government asked all states to conduct a mandatory e-KYC of every farmer in India by May 31. But activists are concerned that it could lead to financial profiling, discriminatory policy implementation, personal data breach, and even identity theft.
+
+An Assamese agriculture officer recently found herself locked out of the backend of the PM Kisan portal but upon being let back in, she saw that someone had used her credentials to register two new beneficiaries in Rajasthan, Scroll.in reported. This isn’t an isolated incident as government officials across the country have claimed that their work accounts had been hacked.
+
+Digital databases such as the PM Kisan portal are rich in personal and geographical data, thus they are ripe targets for cyber threat actor groups. Several government databases have been breached or leaked data in the past few years:
+
+Looking at how vulnerable these government data silos are, it seems like a bad idea to collate all farmer-related personal and demographic data in one place. However, that is exactly what the government’s PM Kisan mandate says it is doing.
+
+Common Service Centres (CSCs) are physical facilities for delivering the central government’s online services to rural India, which include PM Kisan and various other subsidy programmes. The CSCs are operated by freelance agents who could fudge data under pressure from local politicians or civil servants.
+
+In Assam, CSC managers (known as: “village-level entrepreneurs”) and data entry operators have alleged that just before the assembly polls, the state’s agriculture department officials coerced them into entering non-existent and ineligible names in the PM Kisan beneficiaries list, Scroll.in reported. These CSC entrepreneurs have almost negligible public accountability but they are the first ones to be detained when irregularities turn up in government reports, the report added.
+
+Data collected by such external agents have also been found to be floating around in online grey markets and is available for just Rs 5,000 per set, according to a Morning Context report. Srikanth Lakshmanan of Cashless Consumer tweeted about the possibility of identity theft as a consequence of the PM Kisan e-KYC drive.
+
+1. CSC / other agents claiming to be done eKYC for PMKISAN – can do anything (open credit accounts, demat accounts etc) under unknown names. If you are a fintech having eKYC flow – this month is not some free growth – but you may be servicing victims of identity theft
+
+— Srikanth.CashlessConsumer | ஸ்‌ரீகாந்த் (@logic) May 11, 2022
+
+Lakshmanan said that someone with a farmer’s details can apply for a loan over that farmer’s land without their knowledge. According to new RBI rules , the entire process of mortgaging land has been transferred online. Borrowers need to apply by physically visiting the bank and then, all further processes would be done by the bank itself. This includes:
+
+As part of the IndiaStack project, the Ministry of Agriculture and Farmers Welfare (MoHFW) had proposed a centralised database called AgriStack . This database is supposed to bring all agricultural subsidies (both state and Central), credit facilities, and soil health initiatives under one umbrella. The government had signed a memorandum of understanding with Microsoft and nine other tech firms to create a base model of this database on their Azure cloud computing platform.
+
+However, the 2020-21 farmers’ protest and its offshoot demonstrations made the government reconsider its current plans. In April, the MoHFW invited farmer union members and digital rights groups to a round table talk to air their concerns. Questions about the sanctity of the collected data and the protection of farmers’ privacy from big businesses were raised by the Internet Freedom Foundation , among other groups.
+
+However, the government representatives noted that despite it slowing down AgriStack, state governments have started their own digitisation projects. For example, the land records clearance projects launched in Bihar, Tamil Nadu, and Uttarakhand which use satellite maps to verify and record the ownership of plots.
+
+Also Read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

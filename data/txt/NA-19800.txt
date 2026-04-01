@@ -1,0 +1,28 @@
+SUBREDDIT: r/india
+TITLE: Possible Fraud Alert: Beware of Duplicate Deliveries from Amazon for COD Order
+DATE: 2024-07-09
+SCORE: 10
+URL: https://www.reddit.com/r/india/comments/1dyy7nq/possible_fraud_alert_beware_of_duplicate/
+
+--- POST TEXT ---
+
+I recently encountered a concerning issue with Amazon that I wanted to share with you all.
+
+I had placed a few orders for a family relative who isn't very tech-savvy. Some of these orders were prepaid and others as COD. I sent her an order summary screenshot and told her to keep the COD amount in cash ready for the delivery boy.
+
+Yesterday evening, she messaged me that she had received two identical products: one in the morning where the delivery person took a COD payment of 700, and another in the evening for the amount of 500 prepaid. I distinctly remembered the product was prepaid by me, so I checked my Amazon order history. It confirmed that I had ordered the product only once, prepaid, and only 500 Rs. When I asked her why she paid the 700 amount when I told her that the product was prepaid by me, she explained that she did not remember which products were prepaid and which ones were COD, and just paid the delivery boy assuming it must be a COD order.
+
+ 
+I contacted Amazon customer support this morning. Initially, they were of not much help, claiming they could only see one non-returnable order delivered once with a prepaid amount. I pressed further and insisted on a refund, got rude which is when they said to send the order ID of both the product received from the label.
+
+ 
+This is where things get interesting - I checked the labels of both deliveries and noticed the morning one labeled as COD 700 had **no order ID** and the evening one was labeled as prepaid with an order ID visible. The morning label looked so much like Amazon's label format and even had the words - "Shipped by - Amazon Seller Service Pvt Ltd" 
+
+I realized Amazon was not at fault and that they only delivered the correct product once. 
+
+What I am thinking happened is that sellers who receive order details can potentially make two deliveries and take money for one. The sellers listed on both labels were different, but I suspect a data leak or involvement of sellers in such cases. Even if they get two or three people to pay by mistake, it is enough.
+
+ 
+My relative is at fault too for not reading the label but I understand her POV. You cannot blame the receiver either as in this day and age, we often have so many deliveries we accept them blindly. My mother never sees my parcel details or if it is addressed correctly. She just smashes it on my table giving me the dirty "yet another parcel" look. 
+
+So TLDR; Make sure you cross-check your COD order from Amazon.

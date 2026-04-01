@@ -1,0 +1,21 @@
+Emphasizing on ‘informed consent’, the Unique Identification Authority of India (UIDAI) has directed the Requesting Entities (REs) to obtain such consent from residents either on paper or electronically before carrying out Aadhaar authentications, states a press release by the IT Ministry. The authority has urged REs to ensure that residents understand the type of data being collected and the purpose of such authentications.
+
+In an Aadhaar ecosystem, requesting entities play a crucial role as they provide authentication services to the residents and are also responsible for submitting the Aadhaar number and demographic or biometric information to the Central Identities Data Repository for authentication purposes.
+
+What is authentication?
+
+According to Aadhaar Authentication and Offline Verification Regulations 2022 , authentication means “the process by which the Aadhaar number along with demographic information or biometric information of an individual is submitted to the Central Identities Data Repository for its verification and such Repository verifies the correctness, or the lack thereof, on the basis of information available with it”.
+
+Under the Aadhaar Amendment Act 2019 , the use of an Aadhaar number for authentication can only be done with the informed consent of the Aadhaar number holder.
+
+Why it matters?
+
+Entities involved in providing verification, authentication and other Aadhaar-related services have been under scrutiny for not adhering to the rules pertaining to data security and grievance redressal by the UIDAI on the ground. Last month, a private company Karza Technologies Pvt Ltd , providing Aadhaar verification services, was asked to pause its services for violating the Aadhaar Act as one of its partners was capturing Aadhaar data directly on their user interface and bypassing the native sign-in/signup process. A report by the Comptroller and Auditor General of India revealed that the UIDAI had failed to verify the infrastructure and technological support claimed by the REs for carrying out secure authentications, before authorising them to do so. Against the backdrop of rising Aadhaar-concerning grievances, the UIDAI has been issuing guidelines for entities to tighten their security measures. However, it is unclear if any offline audit is being carried out to confirm if these rules are being adhered to.
+
+Here are the key points from the IT Ministry’s press release:
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

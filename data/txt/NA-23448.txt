@@ -1,0 +1,40 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Screening an IPO - Basic, surface-level analysis
+DATE: 2021-06-13
+SCORE: 176
+URL: https://www.reddit.com/r/IndiaInvestments/comments/nyukai/screening_an_ipo_basic_surfacelevel_analysis/
+
+--- POST TEXT ---
+
+I have been big on IPOs for some time now despite the arguments against them ("It's Probably Overpriced", "IPOs are exit strategy for old investors than an entry for new ones", etc.). But I think with a euphoric market, IPO craze, and high liquidity even among retail investors, it's better to have some kind of a measuring meter while picking what IPO to subscribe to than to simply invest by market sentiment, peer pressure, and face value.
+
+Here are the parameters that you can use to assess an IPO. This list doesn't care if you are in it for listing gains or for the long term. Your PF weightage to the industry the IPO belongs to will also matter eventually and if you want to hold a part of such a company. Therefore, the best way to use this meter is when you want to decide **if an IPO is worth applying to or not**.
+
+Tip - Always wait till the issue closing day to apply, and ideally after checking the final QIB subscription.
+
+In no specific order:
+
+* **GMP** \- Check on sites like Chittorgarh to see what the premium is on the closing day. A positive premium usually signals a positive listing (but not always)
+* **Total and QIB subscription** \- Check the overall subscription momentum throughout the three days to see how investors are responding to the issue. High HNI and RII subscription numbers don't matter much as they are people like you and me pumping money, most without any due diligence (e.g. With Nureca, this argument fails though). QIB number is important because it shows that the company is presumed to be worthy by people assumedly more knowledgeable than you and me.
+* **Anchor investors** \- Look for American investment banks or a mix of of European banks and asset management companies. Just having Indian MF houses or DIIs means the IPO may not be attractive enough. The problem with this is that some companies may invite investors in good faith to participate, and there is no way to know who will honour the participation and who will back out later. Same goes for QIB (not sure).
+* **Issue size** \- The larger the issue size (and lower the fresh issue size), the more you need to dig into the company's valuation. For e.g., Sona Comstar's IPO (opens 14 June 2021) is worth 5,500 crore out of which only 5% is fresh issue. Looking at the financials, this looks like a ploy by the investors to exit at an insane premium (Blackstone is shedding 5,250 crore which is huge). So, if an issue is large in size, look deeper without falling prey to the "large IPO to milna ka chances jyada. Savita, allotment laga to Taj mein khayenge."
+* **Promoter holding %** \- If there's a drastic drop in promoting holding post-issue, it may mean the promoters have lost or reduced their faith in the company. This is not as BW as it seems but a drop of more than 30% may indicate that something's amiss.
+* **Financial metrics** \- EPS, book value, P/E ration, P/B ratio - compare with industry ratios and peers to see how inflated the numbers are. In today's IPO market, numbers are more likely to be on steroids, so the issue price will always be astronomical. (All can be found in the RHP.)
+* **Value Research and Capital Market ratings** \- The only two IPO reviewers I have faith in (subjective, so use those reviewers who you have faith on)
+
+Now, these are just indicators to approach an IPO with. Instead of counting the positives, looking for red flags (Kalyan Jewellers had a P/E ratio of -90 at the time of IPO) will be a better way to assess. It might be wise to dig deeper using these indicators.
+
+Lastly, do what you will and pick any IPO that you want but **never, ever borrow money to apply for an IPO. However fascinating or multi-bagging a company's stock looks, never take a personal loan to apply for an IPO thinking that it's just 15k. If on listing day, the scrip goes down and you panic, there is a lot worse that can happen**. If you still want to try, just remember Reliance Power offered its shares at 450 rupees through an offer for sale in 2008. 11 years later, on Friday, it's trading at \~12 rupees. You are far better off dumping that 15k in an index fund than take the adventurous route and apply to an IPO.
+
+One more lastly, by "you and me" I mean amateur investors who can't make head or tails with terms like Diluted EPS (~~it's basically EPS with inflation put in~~ it's EPS when all the convertible commitments were exercised increasing the total outstanding), who are slowly learning the tricks of the trade, and who want to join the IPO bandwagon but only after figuring out if the wagon has seatbelts, that they work, and that you will wear them.
+
+Note - This meter is in no way a be-all-end-all of IPO screening. This is something that I **use for a surface-level analysis to weed out problematic IPOs**. There may be more elements out there but these are what I believe in, based on backtested data for the last 50 IPOs. In rare cases, the market behaved as it always does and the meter then turned to be untrustworthy. Even so, this meter has performed if the IPO does not open at a discount. What happens after the IPO ends up just another lonely scrip on the tick is a different game; all your usual stock management rules/tricks apply.
+
+A few questions that I myself answered during the research:
+
+1. Why is the total IPO subscription rate different than when you add up those of QIB, HNI, RII, and others? **Because allocated shares of QIB, HNI, RII are different. So their subscription rates will also be different. To get the total rate, divide the total shares offered by total share applied for into 100. These are available at NSE/BSE. Also, QIB and HNI shares are allocated proportionally due to the high volumes they deal in. For RII, it's a computerized lottery system in case of oversubscription.**
+2. Does applying for more lots increase chance of allotment? **If the issue is oversubscribed, no. If the issue is undersubscribed, yes. But getting an allotment in an undersubscribed IPO will be like going for broke.**
+3. Does applying via multiple applications (multiple PANs) increase chance of allotment? **Yes. But the same dilemma as above applies.** [**Here's a flowchart**](https://imgur.com/a/6XHeLGn)**.**
+4. Do broker/bank, time of the day, day of the issue that you apply on, ASBA/UPI, your neighbour's boyfriend's birthmark's placement, etc. influence IPO allotment? **No.**
+
+TL;DR - While screening an IPO, check the GMP on issue close day, total and QIB subscription numbers, anchor investor list (and if it has noteworthy US and/or European banks, VR and CM ratings, issue size and fresh issue size/%, pre-issue and post-issue promoter holdings, EPS, book value, P/E ratio, P/B ratio, and industry comparison.

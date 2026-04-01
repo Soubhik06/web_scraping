@@ -1,0 +1,75 @@
+SUBREDDIT: r/india
+TITLE: An investment advisor does some creative fraud
+DATE: 2023-08-12
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/15p2o2k/an_investment_advisor_does_some_creative_fraud/
+
+--- POST TEXT ---
+
+*Original Source:* [*https://boringmoney.in/p/money-market-manthan-fraud*](https://boringmoney.in/p/money-market-manthan-fraud?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=money+market+manthan) 
+
+\--
+
+One way to make money in the stock market is to be really good at stuff like understanding financial statements, macroeconomic factors, making financial models… you get the idea. You take some risk, make some money if things work out. An arguably better way to make money in the stock market is to not invest your own money in the market, but instead advise someone else to invest theirs, and charge them for the advice.
+
+If you invest your own money in the market, you better be good at what you’re doing. If you’re advising someone else to invest theirs, it’s fine if you’re not very good, but you better be good at your marketing. That’s how people will pay for your advice. Most of finance is a combination of being good at the financial stuff as well as being good at the marketing stuff. It’s a fine balance.
+
+SEBI is very aware of the need to maintain this balance. So you have to jump quite a few hoops if you want to make money by selling advice; get a finance degree, give some exams, register yourself with SEBI. Only then can you call yourself an “investment advisor” and even then you have to stick to a hundred rules that SEBI has set down for you.
+
+There are [1328](https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&amp;intmId=13) SEBI-registered investment advisors—quite a lot of them! So in spite of all the regulations, sometimes SEBI discovers that some of them are, well, scamming their clients. Last month, SEBI [released an order](https://www.sebi.gov.in/enforcement/orders/jul-2023/order-in-the-enquiry-proceedings-against-m-s-money-market-manthan-financial-services_73974.html) against Money Market Manthan Financial Services, once upon a time a registered investment advisor. SEBI had exactly 11 reasons to argue that Money Market Manthan was defrauding its clients, I’m going to look at a few of them.
+
+# Being deceptive
+
+How exactly does an investment advisor be *good* at marketing? Fund managers can point to their past fund performance and wink while they put out the disclaimer that past performance isn’t indicative of future returns. But investment advisors don’t manage money, they just give out advice!
+
+Here’s what Vicky Kamariya, the guy who ran Money Market Manthan, put on the firm’s website. From the SEBI order (emphasis from the order):
+
+&gt;**Equity Cash Intraday**: You are **definitely going to make profits if you make investments on the basis of stock cash tips given by our team** who solely work for researching the news and stocks. You can subscribe our services at reasonable package and then get up to intraday basis calls every day, weekly and monthly reports, chat sessions and dedicated customer service support for becoming a successful trader and **make big profits with small investments on regular basis”**.
+
+“You are definitely going to make big profits with small investments,” has a nice ring to it. Maybe Kamariya was a poet on the side. Unfortunately, SEBI doesn’t allow such poetry which promises any sort of fixed returns when it comes to the equity markets. Out-and-out illegal! Maybe Kamariya should’ve been an investment advisor on the side.
+
+Quick question. When you sign up for something with your email address and get a welcome email—how often do you read the contents of that email? Investment advisors are mandated to inform clients of the risks associated with investing, not guarantee returns. Kamariya, in his response to SEBI, said that he did inform his clients about the risks. In the welcome email! Here’s what Kamariya said:
+
+&gt;The Noticee did not offer /provide any guaranteed returns, which was also mentioned on Noticee’s website. Further, in the ‘welcome mail’ sent to the clients while onboarding them, the following was clearly mentioned: “Stock market has inherent market risk; hence, we do not claim any profit guaranteed services. Noticee do not provide any profit sharing services, guaranteed service and services which are not mentioned (on) our website.
+
+Money Market Manthan does not guarantee profits and only provides services mentioned on its website. But its website guarantees profits, as we saw above. A fine example of a paradox—I told you this guy was a poet!
+
+# Don’t like it? Change it
+
+Before an investment advisor gives out advice, they must understand how much risk their client can (and wants to) take. Can’t give the same investment advice to a fresh grad with their career ahead of them and some in their 40s struggling to repay their home loan.
+
+SEBI mandates this risk profiling stuff. So Money Market Manthan did this risk profiling of its clients, for some of them at least. They were assigned one of three risk statuses—Low Risk, Medium Risk, High Risk—based on how they answered a questionnaire. There were questions like “What’s your investment goal?”, “What’s your income?”, and “How much do you want to invest?”
+
+So far so good. The problem was in what happened when someone wasn’t assigned High Risk based on the questionnaire. In August 2019, a certain client was assigned Medium risk based on the questionnaire. Less than 30 days later in September, his risk profile went up to High Risk. Kamariya’s trick here was to ask his sales team to call up this client and make him re-answer some of the questions. Here’s one of the questions:
+
+&gt;High risk is associated with high return, Medium risk is associated with medium returns and low risk is associated with low returns? What risk can you bear (not prefer)?
+
+This is why I don’t trust survey results! The answer you get depends a lot on how you frame your question. If someone asks you if you want high returns or low returns, you’re going to say you want high returns. And then your risk profile would be marked as High Risk and you’d start getting advice to buy random derivatives.
+
+Share this post with your friends because who doesn’t like reading about creative deceptions?
+
+# Nothing makes sense
+
+Money Market Manthan went to great lengths to simultaneously follow and not follow SEBI rules, so it’s not a surprise that after all that the firm was also overcharging clients. Here’s a table from SEBI’s order with some information about the overcharged clients:
+
+These figures are bizarre! If you want to invest ₹1 lakh, want high returns, but are also willing to pay ₹3 lakh as fees… the way to do it is to *not* pay that ₹3 lakh and instead just put it all into a fixed deposit. Congrats, you’ve just turned your ₹1 lakh into ₹4 lakh—a phenomenal 300% return! \[1\]
+
+It’s tempting to think of the clients as stupid—which they were—but Money Market Manthan didn’t just charge the full fees all at once. The fees started low, then suddenly went up. The initial fee began at around ₹5000. And the client makes a profit at first, always! The firm wins their trust. Then suddenly, the client has the chance to buy an *exclusive* service available only to high net worth individuals (which the client is not) and stands to gain a lot. And that’s that! In one instance, Money Market Manthan charged ₹4.6 lakh as fees and promised to turn the client’s investment into ₹22 lakh (initial investment unknown).
+
+# The bare minimum
+
+The general idea behind penalising people that are caught in financial crime is that the amount they’re fined should be significantly more than the money they made doing the financial crime. Doing the crime shouldn’t have been worth it. Vicky Kamariya of Money Market Manthan was fined a mere [₹8 lakh](https://www.sebi.gov.in/enforcement/orders/jun-2023/order-in-the-matter-of-m-s-money-market-manthan-financial-services_73277.html) for all of the scamming that he did. SEBI decided that he had violated four sections of the securities law but for some reason went with the minimum penalty for each section. Between 2018 and 2019—the time period examined in SEBI’s investigation—Money Market Manthan had collected ₹1.4 crore in fees. If I were Kamariya, I’d be pretty happy about this deal. The return on investment is greater than that of his clients.
+
+Okay, I kid a little. If an investor files a complaint against a SEBI-regulated entity on its complaint redress system SCORES, the firm *must* take some action to resolve the complaint. Money Market Manthan obviously has a ton of pending complaints on SCORES, most of which are presumably demanding their money back.
+
+SEBI fined Money Market Manthan just ₹8 lakh but it also directed the firm to resolve its pending complaints on SCORES. Resolving these complaints might just mean issuing refunds to all the investors who were defrauded.
+
+&amp;#x200B;
+
+**Footnotes**
+
+\[1\] In case you’re wondering how this works—it’s just my attempt at humour. If you’re going to pay ₹3 lakh as a fee, it’s an expense, which is a loss. If you don’t take that loss and instead add it to your initial capital of ₹1 lakh, that’s 4X your original capital, or 300% return.
+
+\--
+
+*Original Source:* [*https://boringmoney.in/p/money-market-manthan-fraud*](https://boringmoney.in/p/money-market-manthan-fraud?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=money+market+manthan)

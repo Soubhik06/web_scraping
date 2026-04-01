@@ -1,0 +1,79 @@
+Around 64% of Instagram’s safety features either fail completely or are largely ineffective, declares the new ‘ Teen Accounts, Broken Promises ’ report, led by Meta whistleblower Arturo Béjar, in collaboration with four non-profit organisations.
+
+Among those partners are Cybersecurity for Democracy and Fairplay, both with strong reputations in digital rights and child welfare advocacy, as well as the Molly Rose Foundation and ParentsSOS, two groups founded by bereaved parents whose children died, in part, after exposure to harmful online content.
+
+The report subjected 47 of Instagram’s advertised safety tools to real-world tests and found that 30 were either defunct or easily circumvented, while most others offered only limited protection.
+
+Notably, Meta rolled out its ‘Teen Accounts’ feature worldwide on Messenger and Facebook, following a global launch on Instagram. The feature gives under‑18 users a distinct, safer experience by enforcing stricter default privacy settings, limiting interactions with unknown adults, and giving teens more control over the content they see. By default, Meta sets teen accounts to private, so only approved followers can view their posts or send messages.
+
+Additionally, Meta has incorporated tools to restrict potentially harmful content, reduce algorithmic amplification of risky posts, and provide prompts encouraging healthy usage habits, such as reminders to take breaks.
+
+Testing found that Instagram’s safety tools meant to curb Inappropriate Contact and Conduct are overwhelmingly ineffectual, with 13 out of 24 features (54%) showing significant flaws and receiving red ratings. Furthermore, only five features (21%) worked as advertised, prompting “substantial concerns about the efficacy of its messaging restrictions, account privacy, and anti-bullying tools”.
+
+Crucially, the platform exhibits a “conscious absence of a tool” for teens to report unwanted sexual advances or inappropriate contact, a design flaw that “creates a state of ‘willful blindness’ for Meta”.
+
+Moreover, supposedly the most restrictive settings fail to prevent abuse. The Hidden Words function, intended to filter harassment, proved “substantially ineffective”, allowing misogynistic phrases like “you are a whore and you should kill yourself” to be sent and received between test Teen Accounts without any warnings.
+
+Additionally, researchers found teenagers “remain unable to quickly or effectively report inappropriate or sexualised comments or messages they have received, including from adults”.
+
+Worryingly, the company even rewards minors with an animation for activating Disappearing Messages, which the report notes “can be used for grooming, drug sales, etc., and leave the minor account with no recourse”.
+
+The report highlights severe failures in Instagram’s Sensitive Content Controls for Teen Accounts. For context, Meta has issued eight press releases on product features meant to shield minors from harmful material, yet researchers found that “all eight features were found to contain significant flaws or to have been discontinued”.
+
+Elsewhere, the report notes that despite Meta’s assurances, Instagram recommended a wide range of disturbing material to test Teen Accounts. This included sexual content such as “graphic sexual descriptions, the use of cartoons to describe demeaning sexual acts, and brief displays of nudity”. Additionally, Meta also recommended violent content, self-harm, and body image content to accounts.
+
+Crucially, measures such as the “Not Interested” feature did not function as advertised. Even when testers indicated disinterest in harmful videos, Instagram continued to push similar material. The algorithm appeared to deliberately sample harmful categories “to gauge our interest in seeing further content if we engaged with it, whether out of curiosity, interest, or disgust”.
+
+This approach, the report warns, carries a “palpable risk of cumulative harm”, echoing the case of 14-year-old Molly Russell, where exposure to more than 2,000 harmful posts on Instagram played a role in her death.
+
+Moreover, search protections proved weak. For context, auto-complete actively suggested terms and accounts linked to eating disorders, self-harm, and even illegal substances. Typo searches such as “starve myself” or “I want to hurt myself” still returned harmful results, despite Meta having pledged to address these issues as far back as 2019.
+
+Finally, the report found that Instagram’s supervisory tools misled parents. The platform did not show parents that the algorithm recommended violent, sexual, or self-harm content to their teens, creating a “false sense of security”.
+
+The research finds that Instagram’s tools to curb compulsive use fall far short of Meta’s promises. Out of seven press releases highlighting safety measures for time spent, Meta discontinued or flawed five features, earning them red ratings, while only two worked effectively enough to earn green ratings.
+
+On the surface, many of these tools appeared to address parents’ growing concern about excessive screen time. Yet, in practice, their impact proved minimal.
+
+For example, Instagram appears to have quietly abandoned the once heavily promoted “Take a Break” feature. Despite the platform’s assurances that teens would receive reminders, testers did not receive a single notification prompt in March, June, or July, and there is no option to enable Take a Break in settings.
+
+Similarly, the “Nighttime Nudges” system, which would send prompts to teen accounts that used Instagram features at night did not work at all, according to the researchers. They said that none of their test accounts received any prompts during this time.
+
+Moreover, Instagram undermined its earlier commitment to reduce social pressures. In 2021, Adam Mosseri introduced the ability to hide Like and View counts, describing it as a way to foster “a less pressurised environment”. However, the company later removed the option to hide View counts, replacing it with the ability to hide Shares instead. The report stresses that “View counts can create pressure on a teenager to create exploitative content, so this change was significant”.
+
+Additionally, the findings also highlight how tools such as Quiet Mode, while functional, failed to address compulsive design patterns like infinite scrolling, autoplay, and the sheer volume of notifications. Consequently, the report concludes that Instagram’s interventions “offered only limited effectiveness at best”, leaving teenagers exposed to the risks of overuse.
+
+The findings show that Instagram continues to host vast amounts of content from children under 13, despite Meta’s public commitments. Researchers found that “Instagram is rife with users who appear to be, and often affirmatively state, that they are under 13”. Test accounts repeatedly received Reels featuring children claiming to be as young as six.
+
+Elsewhere, out of eight product features linked to age assurance and Teen Accounts, four showed “significant flaws” and received red ratings, three received yellow ratings, and only one functioned effectively, earning a green rating. This record underscores how most interventions failed to protect minors.
+
+Moreover, Instagram’s algorithms actively incentivised under-13s to perform sexualised behaviours. The report documents cases where “young girls whose posts typically got hundreds of views posted videos of them lifting up their shirts to show their bellies”, and these then garnered “tens of thousands to hundreds of thousands of views”.
+
+In other instances, videos of children singing sexually suggestive lyrics attracted hundreds of thousands of views and likes, alongside “sexually suggestive messages and references to and images of condoms” from adults.
+
+Additionally, amplification risks extended to disturbing content that damaged self-esteem. For example, one video of a girl aged about nine asking viewers to rate her looks received over one million views and more than 50,000 comments, “most of which rated her as ‘ugly’”. The report stresses that such algorithmic amplification “incentivises, endangers, and ultimately teaches young children to create content that is exploitative and demeaning”.
+
+Finally, Meta deliberately made reporting underage accounts difficult. Users had to complete seven steps, get redirected to a webpage, and re-enter their details, a process the report calls “virtually impossible” and suggests was intended to block the discovery of under-13 accounts.
+
+Meta pushed back strongly against the “Teen Accounts, Broken Promises” report. According to Reuters , Meta called the report erroneous and misleading. Meta spokesperson Andy Stone claimed that the research “misrepresents our efforts to empower parents and protect teens, misstating how our safety tools work and how millions of parents and teens are using them today”.
+
+Meta also insisted that teens who were placed under the protections did benefit. Stone said they “saw less sensitive content, experienced less unwanted contact, and spent less time on Instagram at night”.
+
+Moreover, Meta argued that the report applied outdated standards. Stone explained that the company’s approach to teen account features and parental controls has changed over time, implying that some criticisms did not reflect current functionality.
+
+Finally, Meta said it will continue refining its tools, claiming it “welcomes constructive feedback – but this report is not that”.
+
+These findings matter because they highlight a profound disconnect between Meta’s promises and the reality of its platform design. Instagram remains one of the most widely used apps among teenagers, yet the research shows that 64% of its safety features either fail completely or work so poorly that they provide no meaningful protection.
+
+Consequently, millions of young users remain exposed to bullying, sexual exploitation, harmful content, and compulsive use, despite Meta’s repeated reassurances to parents and regulators.
+
+Moreover, the report underlines how design flaws are not accidental. Features such as algorithmic recommendations, autoplay, and infinite scrolling continue to fuel engagement even when they expose teens to graphic violence, self-harm material, or sexualised content.
+
+Equally troubling is the evidence that Meta makes reporting harmful experiences deliberately complex, creating what the researchers describe as “willful blindness” to the risks minors face.
+
+At the same time, ineffective supervisory tools give parents a false sense of security, making them believe their children are protected when they are not. Therefore, this report matters not only for what it says about Instagram, but also for what it reveals about the limits of self-regulation among Big Tech companies. It strengthens the case for regulators to impose tougher oversight and mandate that platforms build child safety into their design, rather than treating it as an optional extra.
+
+Also Read :
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

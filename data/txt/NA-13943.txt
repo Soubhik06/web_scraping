@@ -1,0 +1,45 @@
+The Tamil Nadu e-Governance Agency (TNeGA) has issued a tender to develop an integrated social registry platform for facilitating social protection programmes for differently-abled persons in the state. The State Government intends to link the social registry with the State Family Database , a unified database being built to maintain ‘golden record’ of all residents.
+
+The TNeGA is a sub-implementing agency of the TN Rights Project, undertaken by the Directorate for Welfare of the Differently Abled (DWDA) and assisted by the World Bank fund, to promote “inclusion, accessibility, and opportunities” for people with disabilities.
+
+The tender noted that administrators rely on outdated documentation methods and basic digitised systems to keep track of beneficiaries and their information for social protection programmes. The lack of interoperable systems and other data exchange mechanisms has led to difficulties in monitoring beneficiary data, inefficiencies, and reduced oversight capabilities.
+
+“Fragmentation of programs and coordination challenges in federal structure combined with variations in level of development and interoperability capability of existing program systems constitute major challenges,” TNeGA added.
+
+With an interoperable social registry, the TNeGA aims to offer greater visibility to data from the State Family Database (SFDB), a beneficiary’s Aadhaar number, ration card details, health and education details, and importantly, the Unique Disability Identification or the UDID number.
+
+An integrated social registry platform will essentially verify data of a beneficiary from linked databases, determine their eligibility for one or more social protection programmes, and track the number of people from the Scheduled Caste, Scheduled Tribes and other vulnerable communities that have received benefits under the programmes.
+
+TNeGA stated that an integrated social registry platform, a central database, will serve as a key digital component for fulfilling a larger objective of implementing an Integrated Social Protection Information System for persons with disabilities.
+
+(Design of the technical architecture of the proposed integrated social registry platform. Image source: TNeGA)
+
+The tender noted that the interoperable integrated social registry must run on Windows and / or Linux operating system and the specifications relating to interfaces, protocols and data structures of the system must be available for public use, without a cost or license fee. It added that the system should be designed in a manner that it is scalable and allows inclusion of news programmes that the welfare department may want to introduce.
+
+The state, district, block and community level personnel and other stakeholders, such as authorized cluster level staffs, community facilitators and community rehabilitation workers, training service providers, and payment service providers among others, will have access to the centralised integrated Management Information System to carry out their business functions, the document specified.
+
+1. Registry of differently-abled persons: This central database will capture demographic data and disability-related information for identification, targeting, and determining areas of interventions specific to the needs of the individuals.
+
+2. Integrated Management Information System (MIS): An integrated MIS will be used to collect, store, and analyse data to streamline delivery of various social protection programmes and monitor the processes.
+
+3. Case management: The TNeGA explains that case managers act as advocates and support persons with disabilities in “accessing necessary support systems, rehabilitation services, healthcare, education, and employment opportunities”. With the new system, the TNeGA intends to offer these services through web and mobile applications or case assessment tools in an offline/online environment.
+
+4. Family and community-based Care: To include family and communities in the care and rehabilitation process for the beneficiaries, the TNeGA will also offer training, counselling and respite care to enhance the ability of the family in caring for the persons with disabilities.
+
+5. Data exchange/Web-based API: The tender stated that the API integration of the Social Protection Delivery System with external systems like the SFDB, Public Distribution System (PDS), Old Age Pension (OAP), and the Unique Identification Authority of India (UIDAI) is significant for “optimising” delivery of social programmes.
+
+The TNeGA believes that integration of multiple databases to exchange beneficiary data easily will enhance data accuracy and enable “real-time verification” of individuals against “authoritative databases”.
+
+“Secondly, it reduces administrative overhead and minimizes fraud by eliminating duplicate registrations, ensuring that resources are directed where they are most needed. Thirdly, it improves the overall efficiency of service delivery, reducing delays and ensuring timely access to benefits for eligible recipients. Lastly, it enhances transparency and accountability by providing a clear and auditable trail of data transactions, bolstering public trust in the social protection system,” it further explained.
+
+6. Grievance redressal mechanism: A grievance redressal mechanism will allow individuals to raise complaints or any other concerns regarding the State schemes they have applied for and it is expected that the system will address them in a timely manner.
+
+The TNeGA had issued a similar tender in 2023 for outlining a plan for creating a unified scholarship database in the education sector. Like the social registry tender, the education tender also proposed for a digital system that will determine which student is eligible for what scholarship/scheme based on the student’s identity, background, family income, and education information. MediaNama spoke to students, educationists in the State, former administrators, and tech policy experts, who raised significant concerns related to data veracity, information security, and exclusion of rightful beneficiaries that the government needs to prepare for as it planned to overhaul to depend on digital systems for identification of scholarship beneficiaries. Read the detailed report here .
+
+The DWDA provides 82 schemes for 1, 335, 219 individuals with disabilities in Tamil Nadu. One can anticipate similar challenges related to data inconsistencies, lack of alternatives for missing documents, incomplete information, burden of proof and others in deploying a digital work flow for implementing social protection schemes for people with disabilities. Secondly, the TNeGA plans to integrate the social registry with the SFDB. In 2021, MediaNama had reported that of the seven crore beneficiaries in Tamil Nadu’s PDS database, the 8-digit Makkal number or unique identification number of over six crore people was exposed to a massive data breach. The Makkal number is an important component of the state’s SFDB. Incidents like these raise doubts about how people’s privacy can be assured under such projects.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

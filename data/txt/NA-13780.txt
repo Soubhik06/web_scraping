@@ -1,0 +1,31 @@
+Nearly 19,000 out of 180,300 databases on Firebase were found to be exposed leaving them open to unauthorised access in a research study conducted by Avast Threat Labs in July this year, the antivirus software company revealed in a blog .  The exposure, simply put, leaves nearly 10.7 percent of tested Play Store apps open to risks of legal, regulatory, and financial risks such as theft.
+
+Firebase is Google’s mobile and web app development platform . The Google Play store has over 3 million apps in total as Android is the most popular mobile operating system in the world.
+
+Applications store and use a variety of user data which consists of personally identifiable information like names, birthdates, addresses, phone numbers, location, service tokens, and keys, among other things. The vulnerability puts the data stored and used by Firebase-based apps at a severe threat of misuse by cybercriminals and hackers.
+
+Avast clarified that these IP addresses were statically and dynamically extracted from Android apps. It found the situation to be alarming as the app databases also contain plaintext passwords. The company said that given the nature of the problem,  users cannot protect themselves against potential data breaches and that the problem will have to be resolved from the developer’s end.
+
+The firm reasoned that the flaw is a result of misconfiguration by app developers who resort to bad practices at times.
+
+“Of course, our testing shows only a subset of all existing Firebase instances. However, we believe that this 10.7% number can be a reasonable representative sample of the total number of Firebase instances that are currently open,” Avast wrote in its blog.
+
+It wrote that it presented the details to Google and urged them to “inform developers of the apps we identified as open” It also reached out to some of the developers and advised them to follow the practices laid down by Google itself.
+
+August 2021: Eight apps masquerading as cryptocurrency mining apps were identified as malware because of a report by Trend Micro, a cyber security research firm. The report stated that these apps tricked victims into watching ads, paying for subscription services with an average monthly fee of $15, and paying for increased mining capabilities without getting anything in return.
+
+July 2021: Google’s Android app had a vulnerability that could have allowed an attacker to quietly steal personal data from a victim’s device, Sergey Toshin, founder of mobile app security startup Oversecured, said in a blog post . The app which offers services like Search, Discover, and Explore, has more than five billion installs to date.
+
+December 2020: A security flaw in a popular Android library left around 8 percent of Android apps available on the Google Play Store vulnerable, according to security firm Check Point. ZDNet reported.
+
+May 2020: Security researchers found a major vulnerability in almost every version of Android, which lets malware imitate legitimate apps to steal app passwords and other sensitive data. The vulnerability was dubbed StrandHogg 2.0 and affected all devices running Android 9.0 and earlier, according to TechCrunch .
+
+March 2020: Check Point discovered 56 apps containing a malware programme that had infected a total of 1 million devices. The malware programme was designed to evade detection by Google Play Protect and then click on ads fraudulently.
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

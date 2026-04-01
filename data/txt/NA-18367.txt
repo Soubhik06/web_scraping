@@ -1,0 +1,17 @@
+SUBREDDIT: r/india
+TITLE: Tor Anonymity Browser Page blocked in India
+DATE: 2014-07-23
+SCORE: 6
+URL: https://www.reddit.com/r/india/comments/2bho0t/tor_anonymity_browser_page_blocked_in_india/
+
+--- POST TEXT ---
+
+Today, I wanted to update my old install of the Tor browser. 
+
+However, the page https://www.torproject.org wasn't opening up. When I googled for the site, Google India gave me an Indian registered domain http://www.torproject.org.in/. It looks EXACTLY like the original Tor website.
+
+My question is: Why is Tor Project blocked in India &amp; why a FAKE website registered in India is working? It appears the MD5 checksum is different between the browser bundles offered in India to the original.
+
+What the eff is going on??
+
+Edit: My ISP is Airtel. On calling customer care, I was told that it has been blocked as per instructions of DoT.

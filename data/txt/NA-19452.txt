@@ -1,0 +1,21 @@
+SUBREDDIT: r/india
+TITLE: PSA: Domino's India data breach could have exposed your personal details. The database is searchable by email and phone numbers.
+DATE: 2021-05-24
+SCORE: 376
+URL: https://www.reddit.com/r/india/comments/nju9uw/psa_dominos_india_data_breach_could_have_exposed/
+
+--- POST TEXT ---
+
+It's in the news and the link is widely available on social media. We are currently not allowing direct link to comply with reddit's rules on personal information.
+
+The leaked information includes email address, phone number, delivery address, order dates and amount. Credit card info has been withheld so far.
+
+Implication: ignoring the credit card information for now, the rest of the details can be used for doxxing. If you have given your phone number or email address, someone can find out your name and home address (if you took delivery at home). Are you in a chat group where you shared your phone number? They can know your address. Did you meet a guy/girl and give your phone number? They can find your address. Did you give a fake name for privacy reasons? People can use phone number to find your first and last name (email address).
+
+The point of this post is to make you aware of what's possible so you can take measures if you need to. Thanks!
+
+News links:
+
+&gt; https://gadgets.ndtv.com/internet/news/dominos-india-data-breach-13tb-files-customer-details-credit-card-numbers-2416829
+
+&gt; https://www.indiatoday.in/technology/news/story/leaked-data-of-dominos-india-users-now-available-on-search-engine-created-by-hacker-1805595-2021-05-22

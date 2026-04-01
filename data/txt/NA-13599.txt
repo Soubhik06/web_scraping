@@ -1,0 +1,91 @@
+The Ministry of Electronics and Information Technology (MEITY) has issued a report on development of AI Governance guidelines. Key recommendations from the report sway between creation of a regulatory framework and self-regulation in AI Governance.
+
+The deadline for public comments on the report is till February 27, 2025. The comments can be submitted here .
+
+The overall purpose of this Committee/Group under MEITY is to bring the key institutions around a common roadmap and to coordinate their efforts to implement a whole-of-government approach.
+
+Further recommendations include forming a sub-group with MEITY to strengthen the Digital India Act, enhancing the legal and regulatory framework, improving redress and adjudication mechanisms, and extending these improvements to the appellate level for effective resolution.
+
+In 2023, the Centre approved the India AI mission with a total financial outlay of Rs. 10,371.92 crore for 5 years, aimed at “encouraging the Development of Artificial intelligence in India.” The detailed financial outlay can be found here .
+
+The government has been swaying about AI regulation, hinting at self-regulation in response to queries in the recent winter session of Parliament, while consequently changing their stance a week later, hinting at considering a legal framework. Early last year, MEITY minister Ashwini Vaishnaw had said that India’s AI governance will focus on innovation and may not lean heavily on regulation like the US and Europe.
+
+These guidelines state that “regulation should aim to minimise the risk of harm”. The report stresses on the importance of harm mitigation as the core regulatory principle and explains it as:
+
+The report further adds that regulation controls people’s behavior by defining what is permissible and impermissible. Deviations from desired behavior are also penalized, while regulation imposes costs on everyone involved. Therefore, the report suggests that the risk of harm has to be real and specific for regulation to be relevant and useful.
+
+During MediaNama’s December roundtable on facilitative regulations for the AI ecosystem in India, Nikhil Pahwa, founder of MediaNama, posed an important question :
+
+“If you look at just liability as a concept, liability often depends on attribution to deterministic outcomes. But AI outcomes are probabilistic in nature. So how do you then attribute liability?”
+
+This highlighted the challenges of determining liability for AI outcomes, which are probabilistic rather than deterministic.
+
+Traditional liability frameworks hold humans responsible for their decisions, but AI complicates the issue of accountability. This raises key questions about how the law should adapt to address these new convoluted challenges.
+
+Pahwa added, “How much do we regulate in a manner that innovation isn’t stifled, and how do we innovate in a manner that regulation isn’t needed?”
+
+The report states that “the Technical Secretariat should establish, house, and operate an AI incident database as a repository of problems experienced in the real world that should guide responses to mitigate or avoid repeated bad outcomes.”
+
+The report states that an “AI incident” can include cyber incidents under the IT Act but may also extend beyond them. It can refer to adverse outcomes from AI use, such as malfunctions, unauthorized or discriminatory outcomes, system failures, privacy violations, and safety issues.
+
+The report acknowledges that with the ever-evolving AI technology, concerns arise that AI might generate outputs that humans may not expect or understand.
+
+“It can be difficult to understand how different components within an AI system interact with each other and which specific component is responsible for any potential harm caused.” it further adds.
+
+OECD (Organization for Economic Cooperation and Development)’s AI principles state that AI Actors should commit to transparency and responsible disclosure regarding AI systems. Moreover, they should provide clear, understandable information on the data sources, factors, processes, and logic behind AI predictions or decisions, allowing those affected to understand and challenge its output.
+
+Since 2016, several organisations like NITI Aaayog and NASSCOM have published ‘principles’ for “responsible and trustworthy AI (RTAI)”. Most Recently, NASSCOM came out with The Developer’s Playbook for Responsible AI in India . However, the playbook’s sector-agnostic approach may lack the specificity needed for specialised industries, offering general risk mitigation instead of sector-specific guidance. While promoting voluntary adoption and coordination across the AI lifecycle, it doesn’t define clear accountability, creating potential responsibility gaps. Additionally, its extensive documentation requirements may overwhelm smaller enterprises.
+
+The report states that developers, deployers, and users of AI systems should comply with applicable data protection laws and respect users’ privacy. Mechanisms should be in place for data quality, data integrity, and ‘security-by-design’.”
+
+However, the recently released DPDP Rules and the DPDP Act, 2023, exclude publicly available data from the law’s protection. This exclusion allows many AI services to scrape publicly available personal data from the internet to train their models without obtaining consent or adhering to any other provisions of the Bill.
+
+The question then remains: how does one divorce AI from Significant Data Fiduciaries’ obligations (SDFs) under the DPDP Rules, 2025? For instance, while entities like Google or Meta, potentially classified as SDFs, would face specific restrictions, how would these apply to platforms like Gemini under Google?
+
+The report adds that “existing laws and regulations continue to apply to the use of AI.”
+
+Moreover, it recommends that AI systems should be subject to human oversight, judgment, and intervention, as appropriate, “to prevent undue reliance on AI systems, and address complex ethical dilemmas that such systems may encounter.”
+
+Currently, the Safe and Trusted AI pillar “aims to drive the responsible development, deployment and adoption of AI”. However, under the India AI mission, only Rs. 20.46 crore (0.2% of the total Rs. 10,371.92 crore – lowest among all) has been allocated to Safe & Trusted AI.
+
+“Would we be as concerned about risks from (regulatory) sandboxes if, say, we had a strong trust and safety tooling, or trust and safety ecosystem?”, Kaustubha Kalidindi, Legal Counsel of Tattle had asked during the MediaNama discussion.
+
+She had further suggested that incentives for organizations to develop secure tools might help to mitigate risks from sandboxes.
+
+The report at several points emphasises the need to incorporate self-regulation within the AI Governance spectrum.
+
+A possible strategy proposed involves using technology tools similar to “consent artefacts” from MEITY’s Electronic Consent Framework .
+
+By combining these artefacts with contracts between participants, liability could be distributed fairly.  This setup would enforce or “require good behaviour” for all participants involved in the ecosystem. “This could potentially enable successful self-regulation across the ecosystem”, it stated.
+
+Moreover, it adds that “implementation of an appropriate AI governance framework would benefit from a cohesive and co-ordinated effort or a whole-of-government-approach.”
+
+At the MediaNama discussion on Governing the AI ecosystem, speakers had highlighted the ineffectiveness of self-regulation, citing failures across domains. They suggested that for AI, regulation should be sector-specific, tailored to industries and use cases. Speakers also highlighted the role of the legal system and suggested that a swift and effective judiciary in a country could address issues like deepfakes without formal regulation.
+
+One attendee had stated, “I’m happy to have a no regulation country. If you can tell me the courts will work,” advocating for judicial efficiency as a potential alternative to strict regulatory frameworks.
+
+The report further adds that the Technical Secretariat should collaborate with the industry to drive voluntary commitments on transparency across the AI ecosystem,
+
+The report raises important questions regarding copyrighted content without the approval of the copyright holder.
+
+Similar questions arise of eligibility of AI generated work for copyright. “All this would need to be examined and based on the answers, the legal framework adapted or left as is,” the report states.
+
+At the MediaNama discussion, Ajay Kumar of Triumvir Law proposed a statutory licensing model for AI training on copyrighted content, ensuring creators receive royalties for their work. He suggested adapting the Copyright Act’s existing statutory licensing provision to allow AI models to train on copyrighted Indian content while compensating creators. Kumar stated that he should be entitled to a royalty if someone uses his copyrighted work to train their AI.
+
+Pahwa and others compared this approach to Creative Commons licenses , assigning usage rights to different parts of a model—architecture, data, or outputs—so creators can control how their work is used while supporting innovation.
+
+“The risks posed by a system depends not just on their capability, but on the context of deployment as well. The categorisations of systems purely based on computational capacity or data parameters may not be effective”, it states.
+
+The report suggests examining how existing rules on assigning liability for non-compliances (e.g., in health, banking, financial services and insurance, energy, etc.) can apply to AI systems prone to high risk during the testing of sectoral laws.
+
+During our discussion, we examined the need to differentiate between high-risk AI applications, such as those in healthcare or defense, which require regulation, and low-risk applications, like Netflix recommendations, which do not. It was emphasized that regulation should focus on mitigating harm rather than regulating for potential risks.
+
+However, the report points out that there may well be situations where a sectoral view is limiting, since we may not fully understand the risks and/or the possibility for risks to spillover across sectors.
+
+Which could mean that there is an inefficiency and possibility of gaps due to a fragmented approach.
+
+Note: This article was updated on January 28, 2025, to reflect the extended deadline for comment submissions.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

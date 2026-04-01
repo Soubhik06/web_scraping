@@ -1,0 +1,25 @@
+We missed this earlier : Apple and Google will implement measures to prevent the spoofing of Singapore government agencies’ messages in their respective messaging services, the country’s Ministry of Home Affairs announced in a recent press release . This direction comes under Singapore’s Online Criminal Harms Act (OCHA), which allows competent authorities (in this case, the Singapore Police) to implement measures that address specific harms.
+
+The press release explained that government agencies had been using the “gov.sg” SMS sender ID to send messages since July 2024 to prevent the public from falling for impersonation scams. “While we have imposed this and other safeguards like the SMS Sender ID Registry (SSIR) on SMSes, they currently do not apply to messages sent via iMessage and Google Messages,” the Ministry said. It noted that while government agencies do not use the “gov.sg” ID for iMessage/Google Messages, the public may assume that messages appearing to come from this ID on these platforms (personal Rich Communication Services) are legitimate government communications. The police have already detected scams impersonating other SMS IDs.
+
+To prevent this, the Singapore government directed Google and Apple to implement the following measures:
+
+Google Messages and iMessage allow users to send messages over Wi-Fi or cellular data, with added features such as read receipts, typing indicators, and end-to-end encryption. Both services already have features to tackle spam and scams.
+
+For instance, Google allows users to report a conversation as spam and block the sender. It then uses this information to improve its spam and abuse protection for Google Messages, also training its AI on reported conversations to enhance its ability to detect spam. Earlier this year, Google introduced an AI feature within Google Messages to address situations where a conversation “starts harmless but eventually turns dangerous for the user.” If the service suspects someone is a scammer, it provides real-time alerts, allowing users to block the conversation immediately.
+
+Meanwhile, iMessage also allows users to report spam and screen messages from unknown numbers . Apple segregates messages from unknown senders into separate folders, and users do not receive notifications for these messages unless they opt in.
+
+Digital scams are rapidly becoming a major global concern. In India, telecom companies have consistently urged the Telecom Regulatory Authority of India (TRAI) to address spam on over-the-top (OTT) communication platforms such as WhatsApp and Telegram. They argue that as SMS traffic shifts to digital platforms, the regulatory safeguards applied to telecom networks often end up being bypassed.
+
+However, spoofing on iMessage and Google Messages has not received much attention in India. The government’s efforts have largely focused on addressing spoofing in the telecom ecosystem. In October 2024 , India launched the International Incoming Spoofed Calls Prevention System, which identifies and blocks international calls posing as Indian phone numbers by manipulating the calling line identification (CLI). CLI is the number displayed on a user’s screen during an incoming call and helps identify the caller.
+
+Further, in February this year , the Indian government issued directions to social media platforms and app-hosting services to take down content or applications that allow users to spoof CLI. It stated that tampering with telecom identifiers such as CLI, IP address, and IMEI number violates the Telecommunication Act, 2023. Any app enabling such tampering is abetting a violation of the Act, the government said, directing platforms to remove CLI-spoofing tools and content.
+
+Singapore’s approach could serve as a template for India and other countries dealing with similar challenges.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

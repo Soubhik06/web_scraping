@@ -1,0 +1,37 @@
+Update (15 May, 10:00 am): An identical version of Genesis Market is still available on the dark web and is “fully functional,” BBC reported on May 12.
+
+Genesis Market, an infamous and notorious online marketplace for stolen credentials, was taken down on April 4 in an international joint operation dubbed Operation Cookie Monster involving several countries, the US Department of Justice (DOJ) said in a press release .
+
+The website used to sell credentials such as usernames and passwords for email, bank accounts, and social media that were stolen from malware-infected computers around the world.
+
+Why does this matter: Genesis was one of the three most popular marketplaces for stolen information along with Russian Market and 2Easy. “Since its inception in March 2018, Genesis Market has offered access to data stolen from over 1.5 million compromised computers around the world containing over 80 million account access credentials,” the US DOJ stated.
+
+“Behind every cyber criminal or fraudster is the technical infrastructure that provides them with the tools to execute their attacks and the means to benefit financially from their offending. Genesis Market was a prime example of such a service and was one of the most significant platforms on the criminal market. Its removal will be a huge blow to criminals across the globe.” — Rob Jones, UK NCA Director General NECC and Threat Leadership
+
+How to check if your credentials were available on Genesis: The credentials obtained from Genesis Market during the course of the investigation have been provided to the website Have I Been Pwned . Victims can visit the site to see if their credentials were compromised and change their passwords and other credentials accordingly, the DOJ said. Users can also visit the portal set up by the Dutch Police to check the same. If you are one of the victims, Europol and the UK’s National Crime Agency have listed some measures here and here .
+
+Known for being accessible and user-friendly: The site was known for being user-friendly in contrast to other such forums for stolen credentials. While most such forums exist on the dark web only, Genesis Market existed on the open web as well. “Genesis Market was user-friendly, providing users with the ability to search for stolen access credentials based on location and/or account type (e.g., banking, social media, email, etc.),” the DOJ elaborated. “Its accessibility and cheap prices greatly lowered the barrier of entry for buyers, making it a popular resource among hackers,” EU’s Europol added in a press release .
+
+The main criminal commodity was “bots”: “Genesis Market’s main criminal commodity was digital identities. This marketplace would offer for sale what the market owners referred to as ‘bots’ that had infected victims’ devices through malware or account takeover attacks. Upon purchase of such a bot, criminals would get access to all the data harvested by it such as fingerprints, cookies, saved logins, and autofill form data. This information was collected in real-time – the buyers would be notified of any change of passwords, etc,” Europol explained.
+
+Genesis also provided a browser that mimics victims: “Genesis Market was unique in that it provided users with a custom browser, which would mimic that of their victim. This allowed the criminals to essentially masquerade as the victim, making it look like they were accessing their accounts from the usual location and operating system, thus not triggering security measures,” UK’s National Crime Agency explained in a press release .
+
+Credentials sold included access to critical infrastructure: “Account access credentials advertised for sale on Genesis Market included those connected to the financial sector, critical infrastructure, and federal, state, and local government agencies,” the DOJ revealed.
+
+What was the price of credentials sold on Genesis: “The price per bot (digital identity) would range from as little as USD 0.70 up to several hundreds of dollars depending on the amount and nature of the stolen data. The most expensive would contain financial information which would allow access to online banking accounts,” Europol explained.
+
+Used in ransomware attacks: “Genesis Market offered for sale the type of access sought by ransomware actors to attack computer networks in the United States and around the world, and published private-sector reports indicate that they indeed were used by ransomware actors to attack such systems,” the DOJ remarked.
+
+“The Genesis Market lowered the barrier to entry for ransomware groups and allowed many cybercriminals to swiftly scale their operations and carry out targeted attacks for immediate financial benefit. Without even factoring in the arrests of Genesis Market members, simply removing this immense cybercriminal marketplace from the web will significantly slow down cybercriminal activity.” — John Fokker, head of threat intelligence for U.S. cybersecurity firm Trellix, told Reuters
+
+Hundreds of people arrested: “Simultaneous actions were also carried out across the globe against the users of this platform, resulting in 119 arrests, 208 property searches, and 97 knock and talk measures,” EU’s Europol said.
+
+Which countries participated in the joint operation: The US Federal Bureau of Investigation (FBI) and the Dutch Police led the investigation along with the assistance of law enforcement agencies from the UK, Italy, Denmark, Australia, Canada, Romania, France, Spain, Germany, Sweden, Poland, Finland, Switzerland, Estonia, Iceland, New Zealand, and EU’s Europol.
+
+Genesis also sanctioned by US Treasury Department: Following the takedown of the site, the US Department of Treasury also sanctioned Genesis, meaning all the property of the entity that is in the United States or in control of US persons will be blocked and reported to the Department of the Treasury’s Office of Foreign Assets Control (OFAC). No entity will be allowed to transact with Genesis or deal with property owned by Genesis.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

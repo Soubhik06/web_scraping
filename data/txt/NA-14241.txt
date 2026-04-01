@@ -1,0 +1,153 @@
+Co-reported with Sarvesh Mathi
+
+India’s Ministry of Home Affairs on August 10 introduced three new bills in the Lok Sabha (lower house of the parliament) to overhaul the criminal laws of the country:
+
+The three bills have been sent to the Parliamentary Standing Committee on Home Affairs for further examination and recommendations.
+
+We break down the parts of the three bills that are most likely to impact the digital ecosystem.
+
+Section 94 of the Bharatiya Nagarik Suraksha Sanhita, 2023, allows the court or the police officer in charge to produce a written order summoning any document or thing required for an investigation as evidence. Notably, this proposed law explicitly includes summoning of “digital evidence,” and covers any electronic communication such as messages, call recordings, and emails as well as electronic communication devices such as mobile phones, laptops, cameras , and any other electronic device that may be specified by the government through notification in the future. A court also has the right to order search and seizure of such evidence for various reasons including if the person in possession of the evidence is not expected to produce the same.
+
+Section 185 of the law further allows a police officer to search for anything without a written order if he has “reasonable grounds” for believing that such a thing cannot be otherwise obtained without undue delay.
+
+Illustration: In October 2021, the Hyderabad Police received backlash for checking the phones of random commuters on the streets and looking for any messages about drugs. This was criticized, and even legally challenged , for being in violation of the right to privacy and for not being done in accordance with the law, which requires certain procedures to be followed when searching or seizing devices. With electronic devices being explicitly defined in section 94 of the BNSS and section 185 allowing searches without written orders to the person, such random searches of personal devices as carried out by the Hyderabad Police may be legitimized.
+
+The Code of Criminal Procedure (CrPC), 1973 is currently the law that deals with summoning of evidence and search and seizure. It does not explicitly include the words “electronic” and “digital” because of which there has been some uncertainty when it comes to the collection and presentation of electronic evidence.
+
+“Though the seizure of mobile phones has been in practice and was technically included under ‘other things’ as per Section 91 CrPC , Clause 94 of the BNSS now categorically includes ‘electronic communication, including communication devices which is likely to contain digital evidence.’ Whether or not the codification of ‘electronic communication’ will have a bearing on the manner in which it is subjected to search and seizure will remain to be seen. However, the legal backing will certainly provide a heightened impetus to law enforcement agencies to demand the production of communication devices. This can have far-reaching consequences as it may lead to increasing instances of violation of our right to privacy because we increasingly rely upon our communication devices, such as mobile phones, for our functioning,” Radhika Roy, Associate Litigation Counsel at Internet Freedom Foundation, explained to MediaNama (emphasis ours).
+
+“Our communication devices contain a multitude of information, including sensitive information, pertaining to our personal lives. This includes photographs, and chats, not excluding privileged communication such as communication with lawyers. More often than not, such communication may be incriminating in nature depending on the subjectivity of the authorities examining it. In such cases, full-fledged access to communication devices by law enforcement agencies and the courts violates our right against self-incrimination. This assumes importance as our right against self-incrimination has not only been constitutionally guaranteed to us under Article 20(3), but also finds a mention in CrPC which gives us the right to silence,” Roy added (emphasis ours).
+
+You can read more about the issues and current cases around the seizure of personal communication devices here and here .
+
+The new law will require digitization of the complete process starting from registration of the first information report (FIR) to filing of the charge sheet and delivery of judgment. The bill also permits the appearance of witnesses, accused, experts, and victims and the issuing of summons through electronic means. Any search and seizure operation by the police must also be recorded on audio-video electronic devices.
+
+The Bharatiya Nyaya Sanhita Bill, 2023 seeks to repeal the 163-year-old Indian Penal Code, 1860. In practice, it takes many of the Code’s provisions and brings them under a digital remit too. However, in doing so, the Sanhita may end up criminalising various kinds of online speech (ranging from communal speech to anti-State speech to satire), protecting women victims of cyber-crimes but not men or other genders, and much more.
+
+Criminalising dissenting speech against the State online—the return of sedition? : Among other mediums, using “electronic communication” or “financial means” to excite secession, armed rebellion, subversive activities, separatism, or endanger India’s sovereignty, unity, and integrity are offences under the bill.
+
+While introducing the bill in Parliament last week, Home Minister Amit Shah claimed that the Sanhita actually repeals offences like sedition, listed under India’s Penal Code.
+
+However, as LiveLaw soon reported , the Sanhita criminalises similar activities (mentioned above) and currently widens the scope of punishable offences, compared to the pre-existing sedition law. It also enhances the punishment for anti-State activities. India’s sedition law, whose application was stayed by the Supreme Court last year, has been allegedly used to target and stifle speech critical of the government. The Sanhita’s provisions seemingly expand these restrictions.
+
+Punishment: life imprisonment, imprisonment of up to seven years, and/or a fine.
+
+Criminalising ‘misinformation’ about India online : After a misinformation clause famously appeared in India’s platform regulation rules only earlier this year, the Sanhita once again criminalises using electronic communication to publish false or misleading information jeopardising India’s sovereignty, unity, integrity, and security. The thresholds for false, misleading, or jeopardising effects are not specified.
+
+Punishment: imprisonment of up to three years, and/or a fine.
+
+Criminalising defamation—and potentially satire? : Defamation under the Sanhita may potentially extend to satire, impacting free speech in India in the process. The provision may be used against satirists or politicians critical of the government online—a claim that has been separately raised by satirists while challenging recent Indian laws punishing ‘misinformation’ spread online (mentioned above).
+
+However, among other sub-types, the Sanhita punishes defamatory speech in the “form of an alternative or expressed ironically, may amount to defamation.” The Bill indirectly illustrates how this may impact satirical speech:
+
+[If someone says] “‘Z is an honest man; he never stole B’s watch’; intending to cause it to be believed that Z did steal B’s watch. This is defamation, unless it falls within one of the exceptions”.
+
+The exceptions permit speech made for the public good, and good faith opinions of public servants and public questions, among other sub-types.
+
+Speech promoting inter-group conflicts : The Sanhita punishes people publishing statements, reports with ‘false information’, rumours, and alarming news by electronic means (or others) that promote feelings of enmity, hatred, or ill will between different religious, racial, linguistic, regional, or caste groups, among others. The offence is exempted if the person circulating the speech has ‘reasonable grounds’ for believing the speech to be true, and publishes it in good faith, and without intent.
+
+Punishment: imprisonment of up to three years, and/or a fine.
+
+Speech prejudicial to national integration : Among other mediums, using electronic communication to claim that any class of persons cannot “bear true faith and allegiance to the Constitution” or uphold India’s sovereignty and integrity by virtue of their religious, racial, linguistic, regional, or caste memberships, among others, is an offence under the Sanhita. Also an offence: using electronic communications to assert, counsel, advise, propagate, or publish that these groups should be denied or deprived of their rights as Indian citizens. Another offence: using electronic communication to speak of the obligations of a class of persons by virtue of their membership in that class, if such an appeal is likely to cause disharmony, enmity, hatred, or ill will between the class members and other persons.
+
+Punishment: imprisonment of up to three years, and/or a fine.
+
+Speech prejudicial to communal harmony : Among other mediums, using electronic communications to promote disharmony, enmity, hatred, or ill-will between different religious, racial, linguistic, regional, or caste groups is an offence under the Sanhita. Also an offence: committing acts prejudicial to maintaining harmony between these groups, or an act that is likely to disturb public tranquillity.
+
+The bill also penalises exercises, movements, or drills where participants use criminal force or violence against different communities, which is likely to cause insecurity, fear, or alarm among them. While the bill does not specify online versus offline behaviour, in the Indian context, the provision may be relevant in the case of organised troll groups online, who often organise along political lines to produce harmful speech.
+
+Punishment: imprisonment of up to three years, and/or a fine.
+
+Deliberate and malicious anti-religion speech : Among other mediums, speech distributed by electronic means insulting a religion, and deliberately and maliciously intending to outrage its practitioners, is punishable under the Sanhita.
+
+Punishment: imprisonment of up to three years, and/or a fine.
+
+Abetting mutinies or armed forces rebellions : Among other mediums, the Sanhita also punishes using electronic means to circulate any statement, false information, rumour or report intending to cause members of India’s armed forces to mutiny or disregard their duties. Also criminalised: such reports intending or likely to cause fear, public alarm, or induce the public to commit offences against the State or “public tranquillity”. Finally, speech that incites a class of people to commit offences against another class of people is also punished.
+
+Punishment: imprisonment of up to three years, and/or a fine.
+
+Criminalising voyeurism and dissemination of non-consensual intimate images by men : Watching or ‘capturing’ a woman engaging in a ‘private act’ where they have the expectation of privacy, or disseminating these images, are offences under the Sanhita. If the ‘victim’ has consented to the images being captured, but not to their third-party dissemination, then disseminating them will be considered an offence.
+
+The Sanhita’s provision, a near copy of Section 354C of the Indian Penal Code , describes the victims of such acts as ‘women’, while the perpetrator could seemingly be of any gender. As a result, the Sanhita may potentially leave out men (and other non-female genders) who are victims of such crimes. This is unlike Section 66E of the IT Act , which also criminalises non-consensual dissemination of intimate images of all persons, including men.
+
+Private acts include situations where the victim’s genitals, posterior, or breasts are exposed, if they’re engaged in sexual acts not ordinarily performed in public, or if they’re using the lavatory.
+
+Criminalising cyber-stalking by men : Men who monitor women online on the Internet, by email, or other forms of electronic communication commit the offence of “stalking” under the Sanhita. Also stalkers: men who follow women and contact them for personal interactions despite the woman’s ‘clear indication’ of disinterest.
+
+Once again, the provision frames women as the sole victims of stalking (whether online, or otherwise) and men as the sole perpetrators—which may leave non-female victims outside of the section’s protection.
+
+Law applies to attacks on India’s computer resources : The Sanhita’s provisions apply to all sorts of people within and outside India. But, particularly, they also apply to any person outside India committing offences that target computer resources located in India. Here, offences means acts committed outside India, which would be punishable under the Sanhita if committed inside India.
+
+Targeting critical infrastructure comes under terrorist acts : Unsurprisingly, the Sanhita criminalises terrorist activities. Among others, these include causing “extensive interference with, damage or destruction to critical infrastructure”.
+
+While the Sanhita doesn’t define critical infrastructure, critical information infrastructure does find mention in India’s IT Act, 2000, where it is defined as a “computer resource, the destruction or incapacitation of which, shall have debilitating impact on national security, economy, public health, or safety.”
+
+Forging electronic records (and Aadhaar cards) : The Sanhita states that forgery means faking electronic records to cause damage to the public, to support any claim or title, to cause a person to party with property, to enter into an express or implied contract, or to commit fraud. Forging electronic records of identity documents issued by the government (like voter cards, Aadhaar, or certificates for birth, marriage, and burial), among other documents, is also punishable.
+
+Punishment: imprisonment of up to seven years, and a fine.
+
+Coming to encryption : Using encryption (or other ‘information hiding tools’, among others) to voluntarily conceal information on crimes likely to be punished with a death sentence or life imprisonment is an offence under the Sanhita.
+
+If public servants use encryption or information hiding tools to conceal information on offences they are bound to prevent, that’s an offence too. Various punishments are prescribed here.
+
+What about kids on the Internet who might commit offences? : No act is an offence under the Sanhita if committed by a child under seven years of age. Also exempted: acts by children between seven and twelve years, who haven’t attained “sufficient maturity” to judge the consequences of their actions in that specific case.
+
+Child ‘consent’ under the law : Consent under the Sanhita’s various provisions isn’t considered valid if given by someone under the age of twelve, unless “the contrary appears from the context”. Also exempted: if given by a person “ under fear of injury, or under a misconception of fact”. It’s also not valid if given by a person suffering from mental illness or intoxication, and wasn’t able to understand the nature or consequences of the consent they gave.
+
+Does the law impact (tech policy) activism? : The law penalises ‘unlawful assemblies’ of five or more people discussing or undertaking various specified criminal offences—which doesn’t seem unreasonable. However, a gathering simply meeting to “ resist the execution of any law, or of any legal process” can also be designated as an unlawful assembly. The Sanhita adds that “an assembly which was not unlawful when it assembled, may subsequently become an unlawful assembly”.
+
+It’s unclear if this could impact gatherings discussing action against the perceived shortcomings of Indian laws—in short, political and legal activism, which includes tech policy activism too. The threshold of ‘resistance’ to any law, that is when such resistance becomes ‘harmful’ or worrying, isn’t specified in the Sanhita—on the other hand, jail time and fines are prescribed for various acts by unlawful assemblies and their members.
+
+Does the Sanhita impact anonymity and pseudonymity online? : Like the Indian Penal Code, the Sanhita outlines the offence of “cheat by personation”—where pretending to be someone else, or knowingly substituting one person for another, or representing themselves or someone else as a person that they’re not is a crime.
+
+But, many netizens access the Internet through pseudonymous and anonymous accounts—sometimes to protect their identity, at other times for casual purposes, including satire and humour. All in all, pseudonymity and anonymity online largely support and expand free speech. While the Sanhita doesn’t elaborate on these digital issues, amidst a wave of user verification across Indian tech policies, will the provision extend to anonymity online?
+
+Criminalising obscenity online—and the sale of ‘obscene’ objects : Among content from other mediums (like books, paintings, and pamphlets), electronic content will be deemed obscene if it is “ lascivious “, appeals to “ prurient ” interests, or if it is likely to deprave and corrupt those who consume it. Distributing, circulating, importing, exporting, selling, or profiting from obscene content (or “objects”) is also punishable. Also an offence: people advertising that others are ready to engage in or sell acts prohibited under the Sanhita, or offering to do obscene acts prohibited by the section. Selling, hiring, distributing, exhibiting, or circulating obscene objects to children below the age of eighteen is also a punishable offence.
+
+What’s on our mind: does this impact online creative expression and adult entertainment in India?
+
+The Bharatiya Sakshya Bill seeks to repeal the Indian Evidence Act, 1872, which didn’t reflect “the technological advancement undergone in the country during the last few decades”. While the 1872 law was amended to cover digital and electronic evidence in some detail, the Adhiniyam attempts to further specify and clarify how such evidence may be used in India’s legal system.
+
+Defining electronic evidence : The Bill notes that ‘documents’ can constitute electronic records on emails, server logs, websites, locational evidence, voice mail messages stored on devices, and documents on computers, laptops, or smartphones.
+
+Nothing in the Bill denies the admissibility of electronic or digital records in evidence on the ground that they are electronic or digital. In other words, these records have the same legal effect, validity, and enforceability as paper records.
+
+Defining electronic primary evidence : Primary evidence means documents produced for a court’s inspection. For example:
+
+The current Act does not separately distinguish how digital records may constitute primary evidence.
+
+On self-incrimination of witnesses : Witnesses can’t be excused from answering relevant questions in suits or legal proceedings on grounds that it will directly or indirectly criminate them, or expose them to penalty or forfeiture of any kind. This is provided that no answers that witnesses are compelled to give will subject them to arrest or prosecution, or be proved against him in criminal proceedings (except prosecutions “forgiving false evidence by such answer”). This is a provision mentioned in the current evidence law too.
+
+Also, no one can be compelled into producing electronic records in their control, which any other person controlling them would be entitled to refuse. This is unless the “last-mentioned person consents to their production”.
+
+Deeming electronic records as documents : Like the current evidence law, under the Bill, any information in an electronic paper can be deemed to be a document, if it is “printed on paper, stored, recorded or copied in optical or magnetic media or semiconductor memory which is produced by a computer or any communication device or otherwise stored, recorded or copied in any electronic form”. Such documents will be admissible in proceedings without further proof “as evidence or any contents of the original or of any fact stated therein of which direct evidence would be admissible”.
+
+But, for this to happen, the following conditions have to be satisfied:
+
+If such evidence is to be presented during proceedings, then a certificate containing any of the following information needs to be submitted along with the electronic record whenever it is submitted for admission:
+
+On public electronic records : Like the current law, courts will presume the genuineness of electronic records presuming to be the Official Gazette, or directed by any law to be kept by any person, if these records are substantially kept in the form required by law and produced from proper custody.
+
+The Bill adds that proper custody of records means if they are kept in the required place, and looked after by the required person. Custody isn’t improper if the record is proven to have a legitimate origin, or if the case’s circumstances render the record’s origins as probable.
+
+Presumptions on electronic messages : Like the current law, courts can presume that electronic messages forwarded by originators through electronic mail servers to addressees to whom the messages are purportedly meant for, correspond with the messages fed into their computers for transmission. But, courts cannot make presumptions about the person who sent the message.
+
+Purpose limitation of digital evidence usage : Limited evidence will be provided when part of a longer statement or electronic record. No more than the relevant record as the courts consider necessary to fully understand the statement will be given.
+
+Verifying digital and electronic signatures : If courts have to “form an opinion” on a person’s electronic signature, the opinion of the Certifying Authority that issued the Electronic Signature Certificate becomes a relevant fact. Also, except in the case of secure electronic signatures, if a subscriber’s electronic signature has allegedly been affixed to an electronic record, the fact that the signature belongs to the subscriber must be proved.
+
+Courts shall also presume that the information listed in an Electronic Signature Certificate is correct, unless proven otherwise. An exception: unverified information specified as subscriber information, if the certificated is accepted by a subscriber. In the case of secure electronic records, Courts will presume (unless proven otherwise) that they have not been altered since the point in time to which the ‘secure status’ related. Unless proven otherwise, in the case of secure digital signatures, courts will presume that:
+
+To determine whether a digital signature belongs to the person it is affixed to, courts can direct:
+
+Further, if electronic records purported or proved to be five years old is produced from any custody considered by the Court to be proper, the Court may presume that the electronic signature of a person was affixed by him or a person authorised by him.
+
+Accounting records, digital or otherwise : Electronic accounts kept in the course of regular business are relevant to matters that courts have to inquire into. But, they don’t constitute sufficient evidence to hold people liable. As the Bill explains:
+
+“A sues B for one thousand rupees, and shows entries in his account book showing B to be indebted to him to this amount. The entries are relevant, but are not sufficient, without other evidence, to prove the debt.”
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

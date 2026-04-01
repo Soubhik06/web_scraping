@@ -1,0 +1,35 @@
+Ad: Our Data Protection Rules 2025 coverage is brought to you in partnership with K&S Digiprotect Services Pvt Ltd: Experts in DPDPA implementation, audits, training and regulatory support. Text us at 98116-74653, 98181-80981 or find more details here .
+
+The newly released draft Digital Personal Data Protection (DPDP) Rules, 2025 stipulate that the Central Government can seek information from Data Fiduciaries (entities that determine the purpose and means of processing personal data) for purposes affecting the sovereignty and integrity of India, for performing a function under law, among others. This clarification elaborates on Section 36 of the DPDP Act, 2023, which allows the Government to request information to fulfil the Act’s objectives. However, in doing so, it leaves out certain considerations and raises certain questions.
+
+While the DPDP Rules specify for what purposes and which authorised personnel will seek certain information on the government’s behalf, they fail to outline the mechanism to notify Data Fiduciaries or other entities of these data requests. Additionally, the government does not define the parameters for deciding the ‘specified time period’ for furnishing such information. The timeline concern, however, extends to the reporting of data breaches as well.
+
+The provision does not specify safeguards like data security measures that the government must undertake to prevent unauthorised access and breaches when handling data obtained from Data Fiduciaries. Additionally, there is no specific direction on how the government intends to use the information furnished to it or for how long the same will be retained. This, along with the Central Government exempting itself from the Act’s provisions (while processing personal data of citizens furnished by an exempted instrumentality), has raised concerns about potential mass surveillance.
+
+To begin, while terms like “sovereignty and integrity of India” and “security of the state” can be subject to wide interpretation, Jyotsna Jayaram, Partner at Trilegal, explains that such terminology has been used in previous laws like the Information Technology Act, 2000 as well. However, Anubhab Sarkar, Managing Partner at Trumvir Law claims that these provisions remain undefined in the context of the draft rules, although they are constitutionally recognised. He explains, “Such provisions could be used to stifle dissent or target entities perceived as critical of the government under the guise of national security. Without robust checks and balances, these rules might enable authorities to demand sensitive information with adequate justification, leaving Data Fiduciaries vulnerable to arbitrary requests”.
+
+Echoing this sentiment, Prasanto Roy, an independent public policy professional, opines that he expects misuse of the “sweeping rule” disallowing Data Fiduciaries from informing the Data Principal (entities whose data is being processed) of information requests by the Government when such disclosure could affect the “security of the state”. He explains that civil rights organisations should contest this clause. However, obstacles like the dearth of data due to the prohibition of Data Fiduciaries from disclosing specifics, further keeping Data Principals in the dark, would mar such efforts, Roy clarifies.
+
+Additionally, Tech Lawyer Varun Sen Bahl also points out the absence of an appellate mechanism for such ‘calls for information’ by the Central government, explaining that such an appeal process only extends against orders of the Data Protection Board. He explains, “This is problematic because it leaves Data Fiduciaries and Data Principals with no clear recourse against excessive data collection requests made under Section 36 read with Rule 22 “.
+
+Bahl also notes that the provision lacks specific mention of guardrails like the European Union’s data minimisation principle under the General Data Protection Regulation (GDPR) while furnishing such information requests.
+
+Roy explains that this provision could complicate matters for Data Fiduciaries handling the sensitive data of foreign citizens residing in India if Indian agencies demand such data. He adds, “On the other hand, a rule restricts Indian citizens’ data from being shared with a foreign state agency, which, as Medianama reported , may itself conflict with the U.S.’ ‘Reforming Intelligence and Securing America Act’ (RISAA) mandating that American enterprises share data of foreign citizens with American government agencies.
+
+Similarly, Jayaram states, “The provision has the possibility of creating conflicting obligations for Fiduciaries operating across multiple jurisdictions if laws in a certain jurisdiction restrict the Fiduciary’s ability to provide specific information to local authorities in other jurisdictions (like India)”. She notes that this would complicate matters for Data Fiduciaries who must comply with information requests within specific outlined timelines. “It will be interesting to see if the government provisions for extension of such timelines for information requests”, she adds.
+
+Moreover, Roy argues that the compliance burdens on Data Fiduciaries will increase and aggravate through sweeping requests and by invoking the non-disclosure clause. To explain, he cites the case of the Razorpay-AltNews situation in 2022, when the Government accessed the names and transaction details of the news platform’s donors via Razorpay (which had initially provided this data to the Delhi police without intimating AltNews).
+
+As a primary step, Jayaram advocates for the creation of a mechanism to check whether information requests correspond with the purposes identified and the authorised personnel as mandated by the rules. Additionally, she states, “such requests must also meet the tests laid down in the Puttaswamy judgement and be challenged based on that”.
+
+To ensure that government officers and agencies don’t abuse this provision, Roy explains that “Fiduciaries must [as part of corporate governance] give periodic reports of the number of such demands”. Similarly, law enforcement and other agencies should also submit periodic reports of such requests to the Data Protection Board comprising details of cases where the non-disclosure clause is invoked.
+
+Finally, to prevent any conflicting obligations for Data Fiduciaries especially, Sarkar recommends the issuance of detailed guidelines providing a clear mechanism for these entities to “ensure compliance with both domestic and foreign legal frameworks while protecting user trust and maintaining operational integrity”.
+
+Note: The post was updated on January 9, at 5.40 PM to implement corrections and clarify parts of the text based on inputs.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

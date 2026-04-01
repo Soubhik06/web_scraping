@@ -1,0 +1,29 @@
+SUBREDDIT: r/Scams
+TITLE: Beware of Axis Bank Reward Points Scam – Almost Fell for It!
+DATE: 2024-10-03
+SCORE: 1
+URL: https://www.reddit.com/r/Scams/comments/1fvej9h/beware_of_axis_bank_reward_points_scam_almost/
+
+--- POST TEXT ---
+
+I recently encountered a phishing scam that I wanted to share with everyone to prevent others from falling victim. Here’s what happened:
+
+I received a text message from an unknown number claiming that my Axis Bank reward points were expiring soon. The message urged me to redeem them by clicking a link. Here’s how it looked:
+
+	“Dear AXIS customer, your transaction rewardz points earned successfully worth INR 8950 are expiring soon redeem now.”
+
+The link directed me to what looked like a legitimate Axis Bank net banking login page. I was asked to enter my Customer ID, Password, and Phone Number (which was suspicious because Axis Bank had never asked for my phone number during login before).
+
+Without thinking too much, I filled in the details and was then prompted to enter an OTP that was sent to my phone number. Just before entering the OTP, I took a second to actually read the SMS, and that’s when I noticed something odd:
+
+	“248778 is the OTP for your Net Banking payment of INR 21501.00 towards ICICI Bank Credit Card (BILL DESK). Do not share it with anyone. Call 18001035577, if not done by you – Axis Bank.”
+
+This confirmed my suspicion that it was a scam. Axis Bank would never ask me for an OTP related to a credit card payment to ICICI Bank!
+
+To double-check, I went back to the phishing page and entered random details for the Customer ID and Password but kept my phone number the same. Guess what? I received another OTP for INR 21501 trying to debit my account.
+
+At this point, I knew it was a scam.
+
+I wanted to share this experience so others can be aware. If you receive any such messages about expiring reward points or anything that doesn’t feel right, always double-check and avoid entering sensitive information unless you’re 100% sure it’s legitimate.
+
+Stay safe, and share this with your friends and family to prevent anyone from falling into this trap!

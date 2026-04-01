@@ -1,0 +1,19 @@
+Twelve Indian banks’ customers are at risk as security researchers have spotted a malicious Android malware that steals banking information from users’ phones. A blog by Quick Heal Security Labs has brought to notice the existence of this malware named ‘Android.banker.A9480’ that targets over 232 banking, cryptocurrency and e-commerce apps.
+
+The malware has the ability to steal login credentials, hijack SMSs, access contact lists and upload them to a server. It is also able to display an overlay on top of your existing apps and capture user inputs from that.
+
+Targeted banking apps in India include:
+
+The malware also targets a multitude of apps from international banks, cryptocurrency wallets, Amazon Shopping app, eBay and AirBnB among others.
+
+The infection is designed and distributed as a Trojan. Like the wooden horse from Greek mythology, the malware is disguised as a legitimate app. Android.banker.A9480 is distributed through third-party app stores disguised a Flash Player app. The legitimate Flash Player, despite its own questionable history with internet security, is widely used by millions to access various web applications.
+
+Once an unassuming user installs the malicious app, it will ask the users to activate administrative rights. If the user tries to deny the request the app will keep throwing continuous pop-ups until admin rights are given.
+
+After the initial setup, the app runs in the background and looks for 232 particular apps (mostly banking and some cryptocurrency apps).
+
+If anyone of the targeted apps is found on the infected device, the malware will throw up a fake notification screen that leads the user to a login screen, both designed to mimic the original app. From here the app can easily steal the user’s banking ID and passwords.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

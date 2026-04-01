@@ -1,0 +1,67 @@
+Maharashtra has announced a state-wide rollout of MahaCrimeOS AI , expanding the system from a pilot in Nagpur district to all 1,100 police stations across the state.
+
+The AI tool assists police in analysing cybercrime complaints, drafting first information reports (FIRs) and legal notices, and suggesting investigation pathways. However, researchers caution that embedding generative AI directly into investigative workflows raises unresolved risks around hallucinations, bias, data governance and fair-trial rights.
+
+“Use of AI in law enforcement needs to be preceded by an assessment of potential risks,” said Dona Mathew, a researcher at the Digital Futures Lab, particularly when systems are expected to analyse complaints or guide investigations.
+
+MahaCrimeOS AI allows police officers to upload unstructured inputs, including cybercrime complaints, chat messages, bank records, screenshots and handwritten notes. The system works across English, Hindi and Marathi.
+
+Cybersecurity firm CyberEye built the platform using Microsoft Foundry and Azure OpenAI Service, while securing it through Microsoft Defender for Cloud. The system uses large language model-based analysis to extract information from unstructured material, generate drafts of FIRs and official requests, and suggest investigative workflows.
+
+The platform also drafts official requests to banks, telecom companies and online platforms, including requests for account freezes, call detail records and account takedowns. It tracks responses from these entities within the same interface.
+
+MahaCrimeOS AI further provides access to criminal law databases and open-source intelligence, enabling investigators to link cases, identify patterns and surface potential connections between complaints. Officers interact with the system through a dashboard that displays active cases, pending actions and incoming responses, and can query the system on how to proceed at different stages of an investigation.
+
+Overall, these features mean the platform does more than automate paperwork. Instead, it influences investigative decision-making by analysing material and recommending next steps.
+
+Cybercrime complaints have risen sharply in recent years. For context, government data cited by the Indian Cyber Crime Coordination Centre shows that authorities recorded over 2.26 million cybercrime complaints across India in 2024.
+
+Police officials involved in the Nagpur pilot say MahaCrimeOS AI reduced the time spent on routine investigative work. According to these officials, tasks that earlier took months now take days, allowing individual officers to handle multiple cases simultaneously.
+
+Against this backdrop, the Maharashtra government has cited capacity constraints to justify deploying AI tools in cybercrime investigations. The state has also argued that investigations requiring coordination with multiple banks, telecom providers and online platforms place sustained pressure on existing resources, which the system seeks to address.
+
+The use of AI-assisted tools in evidence analysis raises unresolved questions under Indian evidence law, particularly when AI outputs influence investigative or prosecutorial decisions.
+
+“From a trial perspective, applications like evidence analysis raise tricky evidence law questions,” Mathew said.
+
+“If an AI system is analysing evidence, who can be cross-examined in court? Who will be considered an expert to give expert opinion? Will the AI output be even admissible in court?” she said.
+
+These questions become especially significant when AI-generated analysis feeds into chargesheets, witness examination or trial strategy, where procedural safeguards form the backbone of fair trials. Notably, the Supreme Court has recently acknowledged the risks posed by AI-generated content in judicial processes, while reiterating that such tools may assist with administrative tasks but cannot replace or influence legal reasoning.
+
+Authorities have disclosed little public information about the datasets MahaCrimeOS AI relies on, how long it retains information, or whether independent audits have examined the data for bias or gaps.
+
+From a privacy standpoint, Mathew flagged concerns about state agencies sharing large volumes of personal and sensitive data with private companies to develop or operate such systems.
+
+“What kind of data is being shared? What are associated data retention policies? Has the data been audited for potential bias and gaps?” she said.
+
+Bias can also enter AI-assisted policing through historical crime data, predefined categories and inferred patterns. When the system links cases or flags trends, it risks reinforcing existing social, regional or economic biases embedded in past data.
+
+Generative AI systems can hallucinate, misclassify information and infer details when data is incomplete. In cybercrime investigations, errors in interpreting messages, transaction descriptions or contextual cues can misdirect officers or delay critical actions, such as freezing bank accounts.
+
+Because MahaCrimeOS AI drafts documents and suggests investigative steps, mistakes at early stages can cascade through the entire case lifecycle as officers reuse AI-generated outputs in subsequent procedural actions.
+
+Concerns around hallucinations are not theoretical. Indian judicial bodies have already faced scrutiny after AI-generated material, including fabricated case citations, appeared in official orders.
+
+“Any mistakes or errors attributable to AI-generated outputs across the case lifecycle, from investigation to filing chargesheets to witness examination, will impact fair trial rights and, if undetected, the liberty of individuals,” Mathew said.
+
+High-pressure policing environments heighten the risk of automation bias, where officers defer to AI-generated outputs rather than independently scrutinising them.
+
+“Using AI tools requires significant training for staff to distinguish between reliable and unreliable outputs, because in high-pressure contexts like policing, over-reliance on AI is foreseeable and can lead to harmful outcomes,” Mathew warned.
+
+Without sustained training and institutional safeguards, AI-generated suggestions can gradually reshape investigative decision-making in ways that officers and supervisors may struggle to detect or correct.
+
+The Maharashtra government is implementing MahaCrimeOS AI through Maharashtra Advanced Research and Vigilance for Enforcement of Reformed Laws (MARVEL), a state-created special purpose vehicle that partners with technology companies to deploy AI tools in law enforcement.
+
+While special purpose vehicles enable faster deployment and closer collaboration with private vendors, they also complicate accountability when AI-mediated decisions affect rights and liberties. Authorities have not publicly clarified whether standard operating procedures (SOP) have been established for AI adoption, post-deployment monitoring or addressing long-term issues such as model drift.
+
+“Police institutions need to have SOPs in place to govern both decision-making around adoption and post-adoption monitoring, including assessing long-term impact and issues such as model drift,” Mathew said.
+
+She added, “These SOPs must be developed with key stakeholders. Operationalising responsible AI should not be left to developers alone.”
+
+Overall, Maharashtra’s rollout reflects a broader move to embed generative AI into policing. Other states, including Telangana , have also experimented with AI-driven policing tools, bringing similar questions around accuracy, bias, data governance and due process into sharper focus.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

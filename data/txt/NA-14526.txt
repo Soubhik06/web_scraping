@@ -1,0 +1,39 @@
+An Iranian-American businessman has accused two Indian companies — Gurugram-based CyberRoot Risk Advisory and Delhi-based BellTroX Info — of hacking into his email accounts and publishing his email on the internet, according to a lawsuit filed in a federal court in North Carolina. Reuters first reported the story.
+
+In his suit, Farhad Azima, an American airline operator of Iranian origin, has alleged that CyberRoot Risk Advisory hired BellTroX to hack-and-leak his emails at the behest of Vital Management Services, an American private intelligence firm. Vital was in turn hired by international law firm Dechert on behalf of Ras Al Khaimah Investment Authority (RAKIA), a UAE-based sovereign investment fund. We have reached out to Dechert, CyberRoot, and BellTroX for more information.
+
+Vital allegedly paid $1 million to CyberRoot to hack and leak Azima’s emails. CyberRoot reportedly hired BellTroX using this money.
+
+The suit has described CyberRoot as a company that “engages in illegal hacking”. Azima has also alleged that the cache of targeted accounts that Reuters had reviewed while investigating BellTroX included email accounts belonging to Azima and his associates.
+
+Through phishing and spear phishing emails, that is, emails with malicious links specifically targeting Azima, CyberRoot gained real time access to his emails. The aim was to use Azima’s data in a lawsuit against him in the UK (more on that below).
+
+CyberRoot then uploaded this information online and shared some data with Del Rosso. In August 2016, it along with BellTroX, also created blogs accusing Azima of fraud. These blogs contained links to BitTorrent and WeTransfer where visitors could find Azima’s emails. The suit alleges that the two companies were trying to mislead people into thinking that these were organic articles against Azima. At the same time, Del Rosso made payments to CyberRoot.
+
+Role of the Indian companies: The lawsuit alleges that five employees of CyberRoot, including one of the company’s directors — Vibhor Sharma —, targeted Azima into providing his login data at the instructions of Vital’s owner and president Nicholas Del Rosso. CyberRoot used BellTroX’s infrastructure, including its server, to do the hacking. The lawsuit alleges that the two companies have common employees, including one Preeti Thapiyal . However, her LinkedIn page only lists her affiliation with BellTroX.
+
+What kind of data did they get access to? Apart from trade secrets related to Azima’s companies, CyberRoot, BellTroX, Vital and Dechert also allegedly got access to confidential internal pricing lists related to food transport for American troops in Afghanistan and confidential legal communications.
+
+In 2018, Azima had accused RAKIA of hacking his email accounts to blackmail him, and leaking embarrassing material about him on the dark net, a claim similar to the one made now. All this is because business relationship, — which includes a training academic in Ras Al Khaimah (one of the seven emirates) and a sale of a luxury hotel in Tbilsi, Georgia — between Azima and RAKIA had gone sour.
+
+In May 2020, a London court had found Azima guilty of fraud, conspiracy and bribery, and ordered him to pay $4.16 million to RAKIA. At the time, it was clear that RAKIA had used illegally hacked materials against Azima, but there was no evidence to prove that RAKIA did the hacking. However, the court had reportedly found RAKIA’s statements about “innocently finding hacked information on the dark web” to lack credibility. The court had found credible evidence that Iran attempted to hack Azima, but no evidence of link between RAKIA and Iran. Azima had planned to appeal the verdict.
+
+In the latest filing, Azima has drawn the link between RAKIA and the hacked materials — via Dechert, Vital, CyberRoot and BellTroX. Azima has accused Del Rosso of lying in the UK court as he had denied having any knowledge of how the stolen emails were obtained.
+
+This is not the first time that BellTroX has found itself in the news for its hack-for-hire operations. In June, Reuters had reported that BellTroX had helped its clients target government officials in Europe, gambling tycoons in Bahamas and well-known US-based investors such as KKR & Co., which had invested ₹11,367 crore in Jio Platforms in May.
+
+The company spied on more than 10,000 email accounts over seven years, as per the Reuters report. BellTroX’s owner, Sumit Gupta, was reportedly charged in a 2015 hacking case in the US where two private investigators admitted that they hired him to hack accounts of marketing executives.
+
+BellTroX’s modus operandi allegedly included flooding targets with thousands of malicious emails that imitate relatives and colleagues, pose as Facebook login requests or graphic notifications to unsubscribe from porn sites. University of Toronto-based research group Citizen Lab had linked the company with targeting thousands of individuals and organisations across six continents. Targets included senior politicians, government prosecutors, CEOs, journalists and human rights defenders, as per the Citizen Lab report.
+
+Yash Kadakia, the founder and CTO of Security Brigade, told us that as long as he had been in the industry (over 15 years), he had always heard of several hack-for-hire companies “that either are available to government agencies or to private operators/detective agencies and the like”. In fact, Google’s Threat Analysis Group, in May 2020, had highlighted that many of the “hack-for-hire” firms that spoofed the WHO originated in India.
+
+While there is no way to identify these companies off the bat, Kadakia said that in India, these companies usually offer “reputation management services where they offer to take care of any bad reviews, negative articles, social media posts, etc.” Such companies mostly operate on word of mouth and thus usually operate in the shadows, without any website or any real digital presence, he said.
+
+Kadakia explained that there are two kinds of companies — those that work with government agencies to “to develop malware, carry out offensive projects, etc.” and those “that offer their services to steal data, take down targets, etc. are the more malicious bunch that offer up their services through detective agencies, private brokers, etc and will serve pretty much anybody on the internet”. The latter have very high returns on investment, especially given their charges for global customers, he said.
+
+“What’s really surprising though is the number of corporates that reach out to us every year asking if we know any such agencies or would be able to help them with some ‘problems’ usually related to ex-employees, a rogue partner, or something of the sort.” Kadakia pointed out.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

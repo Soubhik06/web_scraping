@@ -1,0 +1,43 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Following up from yesterday's post on GoMechanic. Turns out that the founders as well as investors get nothing because the company was heavily in debt
+DATE: 2023-03-31
+SCORE: 112
+URL: https://www.reddit.com/r/IndiaInvestments/comments/127f1iz/following_up_from_yesterdays_post_on_gomechanic/
+
+--- POST TEXT ---
+
+\--
+
+Yesterday, I [wrote](https://www.reddit.com/r/IndiaInvestments/comments/126f9qw/comment/jedotze/?context=3) about CarTrade, a used-car marketplace, taking its own sweet time to buy GoMechanic, a car-service garage aggregator startup. The longer CarTrade waited, I noted, the better price it would get. Turns out CarTrade didn’t buy GoMechanic at all, and the information I based my piece on was dated even before I hit publish. Here’s a [report](https://www.livemint.com/companies/start-ups/gomechanic-acquired-by-consortium-led-by-lifelong-group-11680072158075.html) from Wednesday evening:
+
+&gt;Distressed car services platform [GoMechanic](https://www.livemint.com/companies/news/gomechanic-auditors-flagged-concerns-in-fy20-fy22-11674154378357.html), whose founders admitted to financial irregularities in January, has been sold to a consortium led by Delhi-based auto components manufacturer Lifelong India Pvt Ltd.Lifelong will be a majority shareholder in the consortium and the business will be run under car repair platform Servizzy, the companies said.“Due to the recent financial difficulties at GoMechanic, the board and shareholders with support from **Stride Ventures** initiated a speedy and widely publicized sale process to ensure the continuity of business. The Servizzy consortium, to be led by the Lifelong Group, emerged as the strongest bid in this process for the acquisition of the GoMechanic Business in accordance with the terms and conditions contained in the agreement," the media statement said.
+
+CarTrade was in talks to buy GoMechanic for nearly a month. In the end, it was Lifelong Group, a 38-year old company that primarily manufactures automobile parts, that bought GoMechanic.
+
+I’d also written about how even though GoMechanic’s founders had admitted to accounting fraud, and the company’s investors losing most of their money, the founders themselves *might* be getting rich. As long as they managed to sell the company, that is. I was wrong! The founders aren’t getting any money. But neither are any of the investors. There was a missing piece in this puzzle that just came out.
+
+If you’re a startup founder, the regular way to raise money to run your company is be selling some stake in the company. That way, your investors get some shares, and you don’t have to return the money ever (mostly) and can use it for whatever you like (sorta) for the company. Another way to raise money—less usual for startups, but very usual for everyone else—is to take a loan. Banks probably won’t lend to cash-burning tech startups \[1\] , but there are specialised firms that do like making these loans.
+
+These loans are risky! So the interest they charge is higher than anything banks would charge. They’re also in the business of lending specifically to startups (whose finances can be all over the place) so their repayment terms are usually more flexible. If a startup misses a repayment or two, it’s not nice, but a venture debt firm (what these firms are called) might understand and speak to the founders with sympathy and let them pay back when they do get the money. Unlike banks, they don’t risk the economy falling down if their loans aren’t repaid in time and can be a bit more chill.
+
+There’s another important benefit. If you’re a startup raising money by selling some stake to investors, an annoying thing that you have to do is decide on a valuation that you both agree with. As a starry-eyed founder with dreams of raising unicorns, you might want a billion dollar valuation. But a potential investor might not be as keen about your unicorn-rearing ambitions and might want better value for their money. But if you’re raising venture debt, the valuation question is irrelevant. You can borrow money, promise to pay it back with interest, and not worry about your valuation until you do find an investor that goes along with your demand to be a unicorn.
+
+Everything I just described is exactly what GoMechanic did. In early 2022, the company wanted to raise money and value itself at $1.2 billion. Softbank, the mammoth Japanese investing whale that was looking to invest, wanted an $800 million valuation. \[2\] So the deal didn’t happen.
+
+GoMechanic did need money but wanted to wait until it could get its unicorn valuation, so it took a loan from Stride Ventures, a venture debt firm. I can’t find exactly when it took this loan, but I’d guess that it was around this time because that’s when the company needed money.
+
+A pitfall of taking a loan though is that you have to pay it back. But GoMechanic had just admitted to accounting fraud, had no money, and was in the market to sell itself. Now, venture debt is risky, but it isn’t nearly as risky as venture capital. (Venture debt refers to startup loans, and venture capital is the money used to buy the startup shares.) The only thing a debt investor needs to hope for to recover their cash is that the company survives.
+
+So Stride Ventures ensured that GoMechanic survives! It [brokered the deal](https://www.moneycontrol.com/news/business/startup/gomechanic-finds-a-buyer-in-consortium-led-by-lifelong-group-10329851.html#:~:text=%22Due%20to%20the%20recent%20financial%20difficulties%20at%20GoMechanic%2C%20the%20board%20and%20shareholders%20with%20support%20from%20Stride%20Ventures%20initiated%20a%20speedy%20and%20widely%20publicized%20sale%20process%20to%20ensure%20the%20continuity%20of%20business%2C%22%20the%20Lifelong%20Group%20said%20in%20a%20statement.) with Lifelong Group and the valuation seems to be around ₹100–₹150 crore ($12–$18 million). This figure is just around what GoMechanic owed Stride. Which means that all the money from the company’s sale will go to Stride Ventures, with [nothing remaining for the founders and investors](https://www.businesstoday.in/entrepreneurship/news/story/gomechanic-acquisition-leaves-vc-investors-empty-handed-strive-ventures-to-recover-rs-100-cr-debt-in-phases-375304-2023-03-29).
+
+The exact numbers of this deal are sketchy. We don’t know exactly how much GoMechanic owed Stride Ventures. We also don’t know how much Lifelong Group is actually paying for GoMechanic. \[3\] The exact figures aren't super important, as long as the essence of it remains the same. I really hope I don't have to write about this acquisition again!
+
+**Footnotes**
+
+\[1\] One big exception to this was the recently-dead Silicon Valley Bank that was extremely startup friendly and lent money to startups all the time. The loans weren’t the reason the bank died, but the startup friendliness certainly was.
+
+\[2\] Economic Times had [dug deeply and found](https://economictimes.indiatimes.com/tech/startups/softbank-gomechanic-funding-deal-falls-through-post-due-diligence-company-will-initiate-audit-layoffs/articleshow/97081889.cms) details of exactly what happened. I’d shared this in my last post but sharing it again here because it’s so good.
+
+\[3\] There could be some genuine reasons for Stride Ventures and Lifelong Group keeping these figures private. For instance, if it turns out that Stride *lost* money on this deal, other startups that it has lent to might think of them as vulnerable to renegotiate their own deals. Or if Lifelong is in talks with other startups that it wants to acquire, knowing how much it paid for GoMechanic might give them a chance to benchmark their own deal. Unless someone leaks these numbers to a journalist, they might never come out.
+
+*Source:* [*https://boringmoney.substack.com/p/gomechanic-gets-sold-lifelong-group*](https://boringmoney.substack.com/p/gomechanic-gets-sold-lifelong-group)

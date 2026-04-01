@@ -1,0 +1,23 @@
+SUBREDDIT: r/india
+TITLE: Beware Guys - UPI Phishing scam
+DATE: 2020-01-18
+SCORE: 104
+URL: https://www.reddit.com/r/india/comments/eqisqq/beware_guys_upi_phishing_scam/
+
+--- POST TEXT ---
+
+Hi Guys,
+
+Couple of days ago my sister law got scammed by UPI phishing, I heard this type of scam for the first time.
+
+She wanted to send courier through blue-dart, she searched the customer care contact number of bluedart through google. She called the number appearing on the first search (first mistake). The guy told her that o collect the courier she needs to forward an sms to a number and to fill a google form sent her through link. They forwarded her an sms containing alphanumeric next and she forwarded it to the number she was told (second mistake). Then she filled up the google form mentioning her name and UPI ID (I think she might have also included UPI PIN) (third mistake). 
+
+At night time around 2 am, series of sms came and around 37k of money got deducted from her three bank accounts. She didnt have UPI linked to her YES bank account, that also they linked and deducted money from that.
+
+From the first mistake, it can be realized that scamsters are using google ads for using their contact numbers to be shown as customer numbers for legit business like bluedart, fedex , swiggy etc.
+
+Second mistake : I am not sure why they asked her to forward the weird alphanumeric sms to some number. As per my understanding you need physical sim card present in your phone for UPI app to detect and register your number with your bank account, might be they are using this sms to clone your SIM number some how. I didnt understand the usage of forwarding the sms to a number.
+
+Third mistake : This was a rookie mistake to give your UPI id and might be also along with it UPI PIN to strangers
+
+So guys please beware of this scam , when you search on google about contacts numbers for some business , please make sure don't click on the ads shown by Google. As you have got the contact number from Google you think the person on the other side of the phone is genuine which makes things easier for scamster.

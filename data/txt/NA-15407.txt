@@ -1,0 +1,19 @@
+Two months after the British, American and Australian governments wrote an open letter to Facebook asking it to not implement end-to-end encryption across its messaging platforms or build a backdoor to it for law enforcement agencies, Facebook and WhatsApp have replied (available below) and refused to do either. The letter was sent by Will Cathcart, the head of WhatsApp, and Stan Chudnovsky, the head of Messenger.
+
+Why did they send the open letter? On October 4, US Attorney General William Barr, Acting Secretary of Homeland Security Kevin K. McAleenan, British Home Secretary Priti Patel, and Australian Home Minister Peter Dutton had written to Facebook asking it to let law enforcement get lawful access to content in a readable and usable format (read: build backdoor) and “not deliberately design their systems to preclude any form of access to content”.
+
+Why don’t Facebook and WhatsApp want to remove encryption? As per the letter,
+
+Why are the companies against building a backdoor? They argue that building a backdoor to an encrypted messaging service weakens the entire system for “everyone, everywhere”. The backdoor for law enforcement would in fact galvanise criminals, hackers and repressive regimes.
+
+“The ‘backdoor’ access you are demanding for law enforcement would be a gift to criminals, hackers and repressive regimes, creating a way for them to enter our systems and leaving every person on our platforms more vulnerable to real-life harm. It is simply impossible to create such a backdoor for one purpose and not expect others to try and open it.”
+
+In the past too, WhatsApp has categorically refused to build backdoor to its service. In October, when the UK and USA had been negotiating a data access agreement under the CLOUD Act, it had initially been reported that it might force end-to-end encrypted messaging services to build a backdoor to their services. Before MediaNama had clarified that that wouldn’t be the case, Cathcart had commented on Y Combinator, “Backdoors are a horrible idea and any government who suggests them is proposing weakening the security and privacy of everyone.”
+
+Have Facebook and WhatsApp refused to help law enforcement agencies? No, they haven’t. They say that can and do help law enforcement when it is consistent with the law and does not undermine the safety of their users. They gave a few steps that they have taken to help law enforcement agencies:
+
+[embeddoc url=”https://www.medianama.com/wp-content/uploads/Facebook-Response-to-Barr-Patel-Dutton-Wolf-.pdf” download=”all”]
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

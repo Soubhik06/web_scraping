@@ -1,0 +1,61 @@
+OpenAI rolled out a new security update for ChatGPT Atlas after its internal testing revealed that attackers could manipulate the AI agent into performing harmful actions through a technique known as prompt injection. The company says the update strengthens defences for Atlas’s browser-based “agent mode”: which can read webpages, emails, and documents and take actions on a user’s behalf.
+
+Prompt injection attacks involve hiding malicious instructions inside ordinary digital content, such as emails, webpages, or documents, so that an AI agent mistakenly treats them as legitimate commands. In some cases, OpenAI found that such attacks could cause an agent to ignore the user’s request and carry out unintended actions, including sending emails without permission.
+
+And OpenAI triggered the latest security update after an automated internal red teaming exercise discovered a new class of prompt injection attacks. These findings led to the deployment of a newly adversarially trained model and additional safeguards for Atlas’s browser agent.
+
+ChatGPT Atlas’s agent mode allows the AI to interact with websites much like a human user, viewing pages, clicking buttons, and typing text. This design makes the system useful for everyday tasks such as managing emails or drafting responses, but it also expands the security risk.
+
+Unlike traditional cyberattacks that exploit software bugs or deceive human users, prompt injection targets the AI agent itself. Attackers embed malicious instructions in content that the agent is expected to read as part of a task.
+
+For example, if a user asks the AI agent to summarise unread emails, it may open all recent messages. If one of those emails contains malicious hidden instructions written specifically for the AI, the agent could follow them unless it detects the attack.
+
+OpenAI said this risk extends across many types of content the agent might encounter, including emails, shared documents, calendar invites, forums, and social media posts.
+
+To identify these risks before attackers exploit them publicly, OpenAI built an automated attacker system powered by large language models (LLMs) and reinforcement learning. This system is designed to repeatedly test the browser agent by attempting to trick it into harmful behaviour.
+
+According to OpenAI, the automated attacker can simulate complex, long-running attacks which provide richer contextual feedback rather than simple pass/fail signals. For context, such attacks can evaluate whether an injected prompt can cause the AI agent to carry out actions over many steps, such as composing emails or modifying files.
+
+One example that OpenAI shared involved a malicious email placed in a user’s inbox. When the user later asked the AI agent to write an out-of-office reply, the agent encountered the injected instructions and instead sent a resignation email to the user’s Chief Executive Officer (CEO).
+
+Notably, after identifying this prompt injection internally, OpenAI updated Atlas to flag such embedded instructions and ask users how to proceed instead of acting on them automatically.
+
+OpenAI said it relies on a ‘rapid response loop’ that immediately uses newly discovered attacks to improve defences.
+
+The AI company uses adversarial training to prepare updated versions of the AI agent to resist prompt injection attacks that succeeded in testing. Notably, the company has already rolled out a newly adversarially trained browser-agent model for all ChatGPT Atlas users.
+
+In addition to model updates, OpenAI said it uses attack traces to strengthen non-model defences, such as system instructions, monitoring tools, and confirmation prompts for sensitive actions.
+
+The AI company also said it can use the same process to respond to attacks observed outside its systems by recreating them internally and pushing fixes across the platform.
+
+OpenAI acknowledged that prompt injections are unlikely to be fully eliminated. The company compared this phenomenon to scams and social engineering attacks that persist despite ongoing security improvements.
+
+“The nature of prompt injection makes deterministic security guarantees challenging,” OpenAI said, adding that continuous testing and rapid fixes are necessary to reduce real-world risk.
+
+Furthermore, the company said its long-term strategy depends on internal access to model behaviour, large-scale computing resources, and ongoing automated testing to stay ahead of attackers.
+
+And while OpenAI improves system-level protections, the company also advises users to take precautions when using agent mode. For context, OpenAI recommends limiting logged-in access when possible, carefully reviewing confirmation prompts before sensitive actions like sending emails or making purchases, and giving the AI agent narrow, specific instructions instead of broad mandates.
+
+Ultimately, OpenAI’s goal is for users to eventually trust AI agents “the way you’d trust a highly competent, security-aware colleague or friend”. Meanwhile, it also acknowledges that the expanded capabilities of AI agents also expand the attack surface.
+
+The ChatGPT Atlas security update comes weeks after OpenAI publicly acknowledged that its frontier AI models are reaching advanced levels of cybersecurity capability. In a December 10 update , the company said internal testing showed its latest models could perform complex cyber tasks such as vulnerability discovery and exploit development, raising concerns about misuse if the systems fall into the wrong hands.
+
+According to OpenAI, performance on cybersecurity challenges rose sharply, from 27% in GPT-5 in August 2025 to 76% in GPT-5.1-Codex-Max by November 2025: bringing some systems close to what the company classifies as “high” cyber capability, including the potential to develop zero-day exploits. To explain, a zero-day exploit is a cyberattack that takes advantage of a unknown software flaw, meaning developers have “zero days” to fix it: making it extremely dangerous.
+
+These disclosures came amid growing evidence that threat actors are already using AI tools to generate malware, automate phishing campaigns, and evade detection. Security researchers, including Google’s Threat Intelligence Group , have documented real-world malware strains using LLMs for code obfuscation, reconnaissance, and data theft.
+
+Against this backdrop, OpenAI has said that it is adopting a defence-focused approach which combines model-level restrictions, access controls, continuous red teaming, and monitoring systems. The company framed its recent work on Atlas security as part of a broader effort to prevent attackers from manipulating increasingly capable AI systems into harmful real-world actions.
+
+Warnings about prompt injections are not limited to OpenAI. In a blog post, the UK’s National Cyber Security Centre (NCSC) , part of the country’s Government Communications Headquarters (GCHQ), cautioned that prompt injection attacks against generative AI systems may never be fully mitigated. Also, it warned against classifying prompt injection like SQL injection, noting that LLMs cannot reliably separate instructions from data, making them “inherently confusable”.
+
+The NCSC said that failing to address this distinction could expose websites and users to large-scale data breaches, potentially exceeding the impact of SQL injection attacks seen in the 2010s. Instead of seeking silver-bullet fixes, the agency urges developers to focus on secure system design and reducing the risk and impact of attacks.
+
+Elsewhere, independent security researchers have echoed these concerns. Brave Software , which has tested multiple AI-powered browsers, said indirect prompt injection is a systemic problem across agentic browsers, not an isolated flaw. In recent disclosures, Brave researchers showed how attackers could embed malicious instructions in webpages, navigation flows, or even screenshots using nearly invisible text, causing AI assistants to carry out harmful actions with the user’s logged-in privileges.
+
+Brave warned that traditional web security assumptions break down when AI agents act on behalf of users, allowing simple content such as a webpage or social media post to trigger cross-domain actions involving email, banking, cloud storage, or corporate systems. The company said developers should treat agentic browsing as inherently high-risk until they make fundamental safety improvements across the category.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

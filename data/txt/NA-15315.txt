@@ -1,0 +1,81 @@
+Outlining key components of a proposed Unified Health Interface (UHI) system, ways to improve access to healthcare service providers, methods to tackle fake reviews and to prevent monopolies on a digitised health platform are some of the major questions raised in National Health Authorityâs (NHA) consultation paper on âOperationalising Unified Health Interface (UHI) in Indiaâ .
+
+Released on December 15, the paper outlines a framework that enables interoperability in health services and is envisioned as a foundational layer of the Ayushman Bharat Digital Mission (ABDM). As stated in the paper, the document proposes different operational elements of UHI for consultation and âprovide adequate context for the citizens and concerned stakeholders to weigh in with their commentsâ. The public can submit responses through a form until Friday, January 13, 2023.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+A. Ayushman Bharat Digital Mission (ABDM)
+
+The consultation paper notes that the ABDM was launched in 2017 with an objective to âcreate a national digital health ecosystem that supports universal health coverage in an efficient, accessible, inclusive, affordable, timely and safe mannerâ in sync with the National Health Policy. ABDM aims to achieve this by prescribing common health data standards, developing core modules such as health facility registry, healthcare professionalsâ registry, which form the base of interoperability. The emphasis is on interaction of various digital health systems and “seamless sharing of data across healthcare providers”.
+
+With a focus on UHI and its various operational elements in an evolving ABDM architecture space, the consultation paper stresses on the need to have clear guidelines in place for “fair, efficient and transparent” operations of these digital building blocks.
+
+B. Unpacking Unified Health Interface (UHI)
+
+Image source: NHA Consultation Paper on UHI
+
+Citing the case of Unified Payment Interface (UPI) in India, which enables users to choose any apps such as BHIM, Paytm or PhonePe, the paper notes that UHI-enabled applications can allow patients to discover, book, conduct and pay for services offered by âa variety of participating providers from any application of their choiceâ.
+
+C. Entities of any service transaction in UHI, as stated in NHAâs paper:
+
+Further, the consultation paper provides a schematic illustration of a patientâs and doctorâs experience on the UHI.
+
+A. Search and Discovery
+
+The NHA lays out a step-by-step plan on how the UHIâs search and response network will enable HSPAs to provide and end users to avail health services. As stated in the paper:
+
+Some of the examples of service delivery includeâ discover a doctor for teleconsultation , discover availability of your doctor, discover an ambulance, discover the closest lab and more.
+
+In order to prevent preferential treatment in the search and delivery process, the paper states that the UHI network policy has guidelines in place that NPs have to follow. The guidelines aim to focus on accuracy and transparency of information provided by all UHI entities and on keeping a check on market competition and other discriminatory practices which ultimately affect the end user.
+
+These are the questions for consultation:
+
+B. Service Booking
+
+Once a user receives the search results of the service they wish to avail, they can proceed to select and confirm the booking of HSP of their choice. Next, according to the paper, âThe EUA, in communication with the HSPA, fetches the details of the chosen service including the available dates & timings for the service, price of the service, offers & discounts (if any), terms and conditions, rescheduling & cancellation policies, etc.â If the terms are suitable to the user, they can confirm the booking and move to pay.
+
+Upon confirmation, âthe transacting EUA and HSPA enter into a transaction level contract which lays down terms pertaining to the rights and obligations of both Network Participants”. The UHI policy requires HSPAs to have clear and transparent policies on refund in the event of cancellations, rescheduling and no-show, which will be displayed prominently on the EUA for the user information.
+
+These are the questions for consultation:
+
+C. Service Fulfilment
+
+The consultation paper states the following points on delivering services to the users across parameters such as time, price and others:
+
+These are the questions for consultation:
+
+D. Payment and Settlement
+
+The paper notes that, while the payment will happen through existing payment systems and will take place outside the network, âthe terms of settlement, settlement advice and the proof of payment will be transmitted using the underlying protocol to cultivate trust in the UHI Networkâ. The NHA has proposed two payment and settlement flows:
+
+a. One where the transaction starts through EUA via Reconciliation Service Provider (RSP) to the HSPA.
+
+b. Here, the HSPA is the collector who will facilitate the process through a payment link to the user.
+
+According to the paper, in both the cases, the collector will be the one settling it as well. Further, for in-person transactions, the HSPA is often the collector of the amount since they are the provider of the service and will settle the amount with the EUA in the same manner as described above.
+
+Further, to ensure that the payment is not used for other expenses in the process, the paper says that the amount will be held in a nodal-link amount until the settlement advice is prepared and shared.
+
+These are the questions for consultation:
+
+E. Reschedule and Cancellation
+
+According to the paper, the HSPAs have to provide clear and comprehensive rescheduling and cancellation policies to the users at the time of service booking confirmation. The UHI does not prescribe a set template for refunds, rescheduling and cancellations, but requires the participating HSPAs to have policies in place that will govern these aspects in a transparent manner, the paper notes.
+
+These are the questions for consultations:
+
+F. Grievance Redressal
+
+The user or the HSP can raise their grievance in four levels. The paper states the following:
+
+These are the questions for consultation:
+
+Miscellaneous questions added in the paper for comments/feedback:
+
+This post is released under aÂ CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

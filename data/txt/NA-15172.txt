@@ -1,0 +1,83 @@
+Should a 5-year-old be treated in the same way as a 17-year-old when she’s using the internet? This is one of the many questions raised by the draft Digital Personal Data Protection (DPDP) Bill, 2022 released for public feedback on November 18.
+
+The draft lays out additional obligations for data fiduciaries dealing with children’s personal data. A data fiduciary refers to a person/entity who’s collecting data and determining the purpose for which it will be processed.
+
+This draft presents a basic framework for processing children’s data and leaves out the specific details to be prescribed at a later stage. Despite this uncertainty, several concerns and questions arise, which the government should look into before finalising the bill.
+
+For example, the blanket requirement for children to get their parents’ consent before giving away personal details like names and photographs could restrict their access to educational and useful content on the internet. It’s worrisome to note that instead of putting the consent burden on certain websites (which could harm children), it mandates all websites to ask for verifiable parental consent , which severely limits the services and benefits that children can avail without asking their parents. Children could need their parent’s consent even for accessing the most basic services such as searching for a new career option, exploring their sexual identity or joining a community of like-minded people.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+Moreover, the popular demand by several activists to reduce the upper age limit used to define a child from 18 years to 16 years or 13 years has also been ignored. A 17-year-old would have to ask for their parents’ consent just like a 5-year-old for sharing their personal data if the government does not prescribe any remedies.
+
+Thus, instead of safeguarding youngsters from the harms of the internet, these restrictions may adversely impact their learning capabilities and growth in crucial teenage years.
+
+The tough compliance burdens may also disincentivise businesses and other organisations from offering useful services to children, like career counselling and mental and physical health awareness.
+
+In this article, we look at seven concerns that arise out of the provisions that aim to protect children’s privacy in the DPDP Bill, 2022. Please note that this is not the final draft of the bill and feedback on this can be submitted to the Ministry of Electronics and Information Technology on the MyGov website by December 17, 2022.
+
+The 2022 bill says, before processing any personal data of children, data fiduciaries have to obtain verifiable parental consent. Translating this into real-world scenarios could mean that children would need parental consent to access educational content, services such as social media, sign up for an email id, etc.
+
+“The Data Fiduciary shall, before processing any personal data of a child, obtain verifiable parental consent in such manner as may be prescribed.” – DPDP Bill, 2022
+
+Mandating parental consent will curtail children’s access to services and limit their ability to self-explore, said Aparajita Bharti, co-founder of Young Leaders for Active Citizenship, and The Quantum Hub. For example, if a child wants to explore an academic discipline that their parents disagree with or wants to explore subjects on gender identity, they may have to rely on parents’ consent for accessing websites and services, Bharti explained.
+
+Speaking at a Medianama event, Vaneesha Jain raised a pertinent question to which the Bill says completely silent “is there fresh consent being taken from that child when they turn 18 years old? So there’s been a lot of data that’s been collected and processed?” Various concerns like prevail to ambiguities in the provisions of the Bill.
+
+The new bill not only asks data fiduciaries to obtain parental consent but also to verify if the person giving consent is actually the parent or guardian of the child. However, the bill does not provide any mechanism on how such consent can be verified. To verify one’s identity, data fiduciaries would need to collect more data, like facial details (via facial recognition) or government documents for verification ( like Aadhaar etc), which is contrary to the principle of data minimisation, mentioned in the government’s explanatory note .
+
+Vrinda Bhandari, a digital rights lawyer, told Medianama, “You don’t want more AI to answer questions like if you are a child or not. You don’t want to profile more people, take their biometrics, do age profiling, which is what some of the US companies are doing.”
+
+In an earlier article , Evan Greer of Fight for the Future highlighted similar concerns with California’s Age Appropriate Design Code, which puts the burden of verifying users to identify children on businesses. Greer said the ‘vague and broad’ manner in which the Bill was written will allow widespread use of invasive age verification, leading to more surveillance. Greer added that some people proposed biometric face scans to access websites or online services under this Bill. Such age verification requirements make it nearly impossible to use online services anonymously, threatening the freedom of expression of human rights activists, whistleblowers, journalists, etc.
+
+Similar concerns could arise with India’s data protection law as well, as this draft asks data fiduciaries to verify every consent given by parents to every website that children want to access. This could translate to increased processing of data that is personal and sensitive in nature.
+
+The Bill however states that exemptions to this provision for certain purposes may be prescribed, but does not mention on what basis it will be done.
+
+This has been a major concern since the earlier drafts of the data protection bill. The Joint Parliamentary Committee looking into the 2019 version of the Bill had deliberated if the definition of children should be restricted to 13/14/16 years, but decided to keep it at 18 years. This would mean that a 17-year-old would need verifiable parental consent for sharing data with websites just like a 5-year-old kid.
+
+It is important to note that teenagers often have different needs than children younger than them. The provisions could mean that teenagers who wish to access a gaming website, dating apps, or even a news website with a particular agenda or bent, would have to ask their parents for permission.
+
+To counter this problem, Bharti suggests a graded approach where those between the ages of 13 to 16 are treated differently than those below 13 years of age. She says treating children of different ages under one bracket is not the right way to go as it will limit their access to the internet.
+
+The Software Freedom Law Centre echoed a similar view on the graded consent mechanism. It said , “There is a need to provide agency to children over different types of data at different ages to ensure their right to privacy and dignity are protected.” It added, “Sub-section 10(4) does provide for an exemption of parental requirement under circumstances as may be prescribed, it is hoped that the graded approach may be adopted in the Rules.”
+
+The 2022 draft bill states that a data fiduciary should not undertake such processing of personal data that is likely to cause harm to a child. However, the bill has a very specific definition of what “harm” means, which is significantly trimmed down compared to the 2021 Bill.
+
+The new bill defines harm as:
+
+“harm”, in relation to a Data Principal, means – a. any bodily harm; or b. distortion or theft of identity; or c. harassment; or d. prevention of lawful gain or causation of significant loss
+
+The 2021 Bill included several other things which have now been removed from the definition, here are some of them:
+
+This narrowed-down definition of “harm” could mean fewer protections for children browsing the internet.
+
+The new data protection bill says a data fiduciary “shall not undertake tracking or behavioural monitoring of children or targeted advertising directed at children.” A blanket ban on tracking and advertising will disincentivise businesses providing services dedicated to children, including welfare services such as suicide prevention and mental health counselling, etc.
+
+Bharti said, “If I’m an investor, I would rather not build for children, because regulations are so hard.”
+
+Vrinda Bhandari had also explained the impact of excessive restrictions on tracking in a previous article on Medianama, where she wrote, “Consider a company that offers students practice for competitive exams by providing them with performance-based assessment and periodic online testing. The standard of the next practice test, in this case, will be based on the student’s previous performance. Such performance-oriented assessment, which is cognizant of the learning ability and outcomes, is actually beneficial to a child.”
+
+Again, the 2022 draft says that for certain purposes, exemptions to tracking and targeted advertisement may be prescribed; however, there are no guidelines or framework mentioned to indicate on what basis this will be done.
+
+The Internet Freedom Foundation has however praised this approach, it said , a positive change “in the bill is that significant hurdles have been imposed in the processing of children’s personal data.”
+
+Bharti argued that the bill should not restrict access to websites by default as it does in its present form. She said restrictions should be put in place for certain purposes keeping the interests of the child in mind and by default, children should have access to services available on the internet.
+
+The concept of privacy by design is completely missing in the new draft, which was present in the 2019 version of the bill, Bharti said. She believes that this is an important aspect to consider. “You want to make it easy for startups to do impact assessment for data protection,” she added.
+
+Focusing on privacy by design means “platforms would have to take a risk assessment to find what risks children face on their platform and design their website accordingly. This involves nudging the industry to think deeply about what risks are posed to young users. By including the principles of privacy by design, you are forcing a conversation between the industry and data fiduciaries rather than just putting the decisions in the hands of parents who may not be aware of all the risks on the platform,” Bharti said. This also helps in starting an honest conversation about the risks that a platform poses, she added.
+
+Jain also said that not every parent will always be someone who’s acting in the “best interest” of the child. She added, that’s a phrase that’s absent from this version of the bill, which was there before. Such words could guide platforms to be more accountable in terms of how they design their products.
+
+The story was updated for brevity on December 13, 2022 (5:20 pm).
+
+The story was updated again on December 17, 2022 (5:40 pm) to include comments from Vaneesha Jain.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

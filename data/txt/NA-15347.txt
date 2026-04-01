@@ -1,0 +1,29 @@
+We missed this earlier: International child rights organisation ‘Save the Children’ was hit by a ransomware attack by cybercrime group ‘BianLian’ early September compromising crucial financial and health data from the nonprofit’s website, according to a report by The Register , a London-based technology news publishing website.
+
+What is a ransomware attack? A ransomware is a malware “designed to deny a user or organization access to files on their computer” by encrypting these files and demanding a ransom payment for the decryption key from the user.
+
+According to The Register’s report, BianLian claimed on its website that it broke into the IT systems of the NGO and stole 6.8TB of data, which they said, included “international HR files, personal data, and more than 800GB of financial records” along with email messages.
+
+What did Save The Children say?
+
+In a statement reproduced by The Register , Save the Children International confirmed that the team recently experienced an “IT incident involving unauthorised access to part of our network”, but stated that this did not disrupt operations.
+
+The organisation informed that, “We are working hard with external specialists to understand what happened and what data was impacted so we can take all the appropriate next steps. This process is complex and takes time, but remains our absolute priority. Our systems are also secured, and we are confident in the ongoing integrity of our IT infrastructure.”
+
+Article continues below ⬇ , you might also want to read:
+
+Who is BianLian?
+
+According to the United States government’s cybersecurity website , BianLian is a ransomware developer, deployer, and data extortion cybercriminal group that has critical infrastructures in multiple departments across several countries, including US and Australia. The group actors are particularly involved in extorting money by threatening to publish the stolen data to a leak site and also warn of financial, business, and legal ramifications if payment is not made by the victim company.
+
+“BianLian group engages in additional techniques to pressure the victim into paying the ransom; for example, printing the ransom note to printers on the compromised network. Employees of victim companies also reported receiving threatening telephone calls from individuals associated with BianLian group,” the US government informed.
+
+Why it matters: Save the Children works with around 25,000 employees across 116 countries , and has membership from 30 other countries, including India. The global child rights organisation primarily responds to national emergencies that impact child rights and initiates programmes that cater to children’s development across the world. Naturally, the organisation holds data of supporting organisations, employees, spanning countries across the globe, and most importantly locally-relevant information on children’s health as well as education data. A cyberattack can compromise personal data of thousands of people, raising concerns of misuse of such information, privacy and safety of the employees.  In July, the organisation had informed of another cyberattack at one of the vendors, Blackbaud, which provided tools and management resources for nonprofits across the world.
+
+As per India’s Digital Personal Data Protection Act , the Data Protection Board can impose a penalty of Rs 250 Crores if an entity fails to take “reasonable security safeguards” to prevent personal data breach. While the organisation has initiated investigation with relevant authorities, it is worth checking how the local governments would address such incidents as per their data protection laws.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

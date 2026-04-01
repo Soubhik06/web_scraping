@@ -1,0 +1,33 @@
+The Indian government has introduced telecom cybersecurity draft rules, that provide detailed guidelines for the risk management and safeguarding of telecom networks and equipment to protect users against fraud originating from OTT services like WhatsApp and Telegram.
+
+The Department of Telecommunications (DoT) released draft rules for telecom cybersecurity and critical telecom infrastructure under the Telecommunication Act, 2023 on August 28. As per the draft cybersecurity rules, the government or any authorised agency can ask telecom companies to submit traffic data or any other data to ensure telecom cybersecurity. Traffic data includes any data generated, transmitted, received or stored in telecommunication networks. It also includes data relating to the type, routing, duration or time of a telecommunication. The government can also direct telcos to establish the necessary infrastructure and equipment for collecting and providing such data from designated points to enable its processing and storage.
+
+In a briefing about the Telecom Act earlier this year , PK Singh, Chief Information Security Officer (CISO) with the Department of Telecommunications (DoT), said that since over-the-top (OTT) services like WhatsApp and Telegram use telecommunication networks to provide their services, they will generate a lot of telecom traffic data related to OTT services. He mentioned that the government would be able to analyse this traffic data and protect users from fraud. As such, the rules will also give the government access to OTT traffic data. At present, the OTTs are regulated by the Information Technology (IT) Act, 2000, and will continue to be regulated by it.
+
+As per the draft rules, the government can disseminate this traffic data with any central agency engaged in law enforcement and security-related activities. It can also share this data with telecom users and telecom entities. All disclosures under these rules would be to ensure telecom cybersecurity. Those with access to this data must ensure that they put in place specific safeguards as notified by the government. These rules are open for comment until September 28.
+
+The government can issue directions and standards for preventing the misuse of telecom networks/services and ensuring cybersecurity. These directions will be binding on all those to which they apply.
+
+Telcos must ensure that they adopt a cybersecurity policy that includes:
+
+They must confirm to the government that they have adopted such a policy. They must also conduct periodic telecom cyber security audits to assess the resilience of their networks to threats. Telecom companies have to conduct audits through the certified agency as specified by the Central Government. Further, they are required to promptly report any security incident and the action taken to address such incident to the Central Government. The rules state that telcos must establish SOCs by themselves or in collaboration with each other within a specified time period. These SOCs have to:
+
+After a telco notifies the government of anyone who endangers telecom cybersecurity, the government will send them a notice and the person to who the notice is issued must respond within seven days. If such a person fails to respond to the government notice, the government can direct telcos to suspend or terminate their services for such person.
+
+In cases where the government needs to take urgent action against a threat actor, they will not issue any notice and may instead direct telcos to suspend or terminate the threat actor’s services. The government must maintain a repository of all those whose services have been terminated or suspended under these rules.
+
+Each telco has to appoint a chief telecommunication security officer whose details shall be provided in writing to the Central Government. This officer will be responsible for coordinating with the Central Government for the implementation of these rules and reporting security incidents. The officer must report security incidents to the government within six hours of their occurrence, including the number of people affected, the duration of the incident, and the geographical area affected. They must also report the impact of the extent to which the telco’s services were affected by the attack, the impact of the incident on economic and societal activities, and the remedial measures that the telco took or proposes to take. The government may inform the public of such incidents in cases where it is necessary to do so.
+
+A telecom equipment manufacturer will register international mobile equipment identity (IMEI) numbers of equipment manufactured in India with the government before selling this equipment. Those importing telecom equipment must register IMEI numbers with the government before importing equipment. The Indian Government may issue directions to telecommunication entities to block the use of telecommunication equipment with tampered IMEI numbers.
+
+The Telecom Act, allows the government to notify any telecom network as critical telecom infrastructure if the disruption of such network will have a debilitating impact on national security, economy, public health or safety. To enable the government to notify critical telecom infrastructure, telcos must provide the details of their telecommunication network, telecommunication services and other relevant information, including software and hardware, upon request of the central government. Telcos must ensure that critical telecom infrastructure complies with:
+
+The government may authorise its personnel to access and inspect hardware, software, and data on critical telecommunication infrastructure. The Chief Telecom Security Officer will be responsible for implementing rules about critical infrastructure.
+
+Telcos must comply with the following obligations:
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,159 @@
+On June 16, MediaNama conducted a telephonic interview with Etienne Maynier, a technologist at Amnesty International, who was part of the team that investigated the coordinated spyware attack against at least nine human rights activists in India, eight of whom have called for the release of eleven activists arrested in the Bhima Koregaon case. Maynier had previously been a research fellow with Citizen Lab , the University of Toronto-based research lab that was also involved in this investigation. (Note that the questions have been reordered for readability but the answers are verbatim..)
+
+MediaNama: How did you start investigating this particular case, the one about Bhima Koregaon?
+
+Etienne Maynier: We were contacted by several people who received some weird emails and contacted us for help on that. And some people also contacted the Citizen Lab so when we discovered that we were actually investigating the same case, we said we would do a joint investigation and publication. That’s how we started investigating this case and trying to get more evidence and trying to understand the list of targets.
+
+MediaNama: When was this?
+
+Etienne Maynier: The investigation started in November 2019 after several people reached out to us.
+
+MediaNama: So just after news about Pegasus broke out?
+
+Etienne Maynier: I think it was definitely after the Pegasus case raised a lot of concerns in a number of countries including India. I think that human rights defenders were way more suspicious about emails and messages, and that is why I think we got contacted for something that may not have been identified as a problem before.
+
+MediaNama: Have you been involved with this investigation right from the beginning?
+
+Etienne Maynier: I was involved soon after the beginning, I would say.
+
+MediaNama: What do you think is the scale of this attack because Amnesty’s report says, “at least nine people were targeted”?
+
+Etienne Maynier: We really don’t know. We have identified nine people targeted. We have actually seen emails. We have no evidence that could show that it could be broader but in any such operation, it could be [bigger] and it is I very hard to estimate how broad it is without having more data. So maybe we will have some people contacting us after publishing this report but right now we have no evidence to show that there were more targets involved.
+
+MediaNama: Of the nine people mentioned, eight of them are directly related to the Bhima Koregaon case, either they are representing the people who have been imprisoned or they have publicly called for their release, except for one person. But a larger trend has been these are people who are directly or indirectly associated with what the government calls “left wing extremism”. Did you see any mention of that or anything that indicates that might be the trend?
+
+Etienne Maynier: We didn’t see anything clearly in the emails but we definitely think that it’s clear that it is targeting specific human rights defenders which is a violation of their right to free speech and privacy, but it is also clear that there is a focus on people related to this case [Bhima Koregaon case]. So there is a clear focus on targeting people on this case. And it is not the first time that it is happening — three of them were previously targeted by NSO Pegasus and some people involved in the Bhima Koregaon case were also targeted. It seems that there is a pattern of digital targeted surveillance against human rights defenders in India, but specifically around this case. I think what is interesting about this incident report is that, I think, it is confirming that pattern.
+
+MediaNama: On comparing this to the Pegasus attack, which cost a few hundred thousand dollars per target and was of course way more sophisticated than NetWire, what kind of costs are we looking at when we look at something like NetWire?
+
+Etienne Maynier: NetWire is way less expensive, NetWire is a malware that is sold on black market, that’s pretty cheap. It’s around a few hundred dollars a year. Some technical work has been done to obfuscate and make it harder to detect so there is definitely some time and money involved in that. But we are looking at maximum a few thousand dollars to buy some extra tools and servers and everything. So it’s way less expensive and way less complex than something like Pegasus.
+
+MediaNama: Where was NetWire sourced from? The Amnesty report mentions World Wired Labs, but is it just an example or was the malware bought from there?
+
+Etienne Maynier: No, NetWire is hard to know. NetWire is sold by online black markets, by companies, you can buy it from a website even though it is illegal. We don’t really know. There were some recent reports that traced NetWire to a Chinese group that was previously linked to state-sponsored [attacks] but that is not confirmed yet. But pretty much anyone can buy it from this website but you can also find it, I guess, in other places. It is really easily available so it is really difficult to answer who used it.
+
+MediaNama: Is the idea then that if anyone has that malicious link, they can potentially infect their devices with the malware?
+
+Etienne Maynier: The links now are disabled, but yes. How the attack worked was that the message pretended to show a PDF file which is a document with a link to download it. But when you download it, it was not actually a document, it was a program. So if someone were to double click on the program, it would actually install the malware and then open a PDF to let the victim think that everything was normal, but it was actually not a PDF. So yes, anyone downloading the program and running it would be infected with the malware.
+
+MediaNama: I saw that these were .exe files so could they also run on Macs or is NetWire something that runs only on Windows?
+
+Etienne Maynier: That’s a good question. NetWire is available for all platforms, but all the attacks that we have seen were using NetWire for Windows only. Everything was targeting only Windows. Which is again different from Pegasus because Pegasus was targeting smartphones while this was targeting Windows computers only.
+
+MediaNama: But it is available for Macs as well?
+
+Etienne Maynier: We have not seen it, but you can technically buy NetWire for Macs. But in this case it was definitely targeting Windows computers.
+
+MediaNama: While conducting your investigation, did you notice any other surveillance programs or campaigns at play? The vector here was the spear phishing emails so were there any other patterns that were discernible?
+
+Etienne Maynier: No, it was really focussing on targeting Windows computers and trying to compromise Windows computers. We have not seen anything else in this campaign, no other type of phishing; it was very specific on that. And even the servers used were used only, almost only for that.
+
+MediaNama: What kind of data would the attackers have had access to?
+
+Etienne Maynier: NetWire is a pretty [inaudible] spyware. It can basically monitor completely what is happening on your computer. So it can take screenshots, see the files that you create, it can log everything that you type on your keyboard, these kinds of things. Remotely someone can follow all that you are doing on your computer.
+
+MediaNama: Is it almost like TeamViewer in that way, but malicious?
+
+Etienne Maynier: It is exactly, actually the same functionality as TeamViewer. The only thing is that it is completely hidden. TeamViewer makes sure that you are aware that it’s on your computer. This malware has the same functionality but it is hidden; you wouldn’t see anything and yet the same kind of monitoring could happen.
+
+MediaNama: Can an anti-virus software detect NetWire? I know that the spam filter failed partly because these were bigger files and partly because the files were hosted on Firefox Send.
+
+Etienne Maynier: Exactly, because these were not attached files, the spam filters could not do anything. Yes, anti-virus can catch malware like this. Often what is happening that malware like in this campaign are specifically designed for that. So it means that anti-virus companies have never seen samples like that and this was not just NetWire, it was obfuscated in a way that it was hard to identify for an anti-virus. What we see in most cases in targeted campaigns is that anti-virus is not that good at detecting new threats like that and often once it [the malware] is reported, the anti-virus will develop a signature for that and then it will be detected, but it is often too late.
+
+MediaNama: Would Gmail’s spam and malware filters have detected it if the file were hosted, say, on Google Drive?
+
+Etienne Maynier: It is hard to say. Often Google is good at reacting when they discover a new campaign or one is warning them. But they are not good at catching the attacks in the first place [that is, when a malware is used for the first time]. In this case because it was not attached to the email, the spam filter did not have any way to detect that.
+
+MediaNama: As per the Amnesty report, three domains were linked to the campaign, and one of them — researchplanet.zapto[.]org — was identified as the Command & Control server. Is there any information available beyond the three UK companies on who might be controlling those domains?
+
+Etienne Maynier: No, we were not able to attribute these attacks to any organisation. As I said earlier, it is really just confirming the pattern [of coordinated spyware campaigns against human rights defenders in India]. We have no evidence attributing this to anyone but one of the things that we say in the report is that the Indian government has the responsibility of addressing this issue and protecting the free speech of human rights defenders. So we are actually calling upon Indian authorities to conduct an independent, transparent investigation on this targeted surveillance in the hope that they can discover who is behind this and take some measure about it.
+
+[Note that Amnesty and Citizen Lab identified digital signatures for three UK-registered companies on five samples submitted to them. When Amnesty contacted the owner of one of the companies, they denied any involvement. Amnesty believes that this was a case of “identity theft of small companies in order to issue signatures for malicious software”.]
+
+MediaNama: A similar demand was raised after the extent of the Pegasus surveillance came to light. But so far, nothing has been done. Amnesty has also recommended that the Personal Data Protection Bill not be enacted in its current form and the Section 69 of the Information technology Act be relooked at — both are demands that have been raised a number of times but to no avail.
+
+Etienne Maynier: It is definitely concerning to see that this keeps happening again and again against human rights defenders, human rights defenders who are just expressing their right to free speech, and attacks like this prevent them from doing so. So it is really concerning for us and we hope that the Indian authorities will take measures to investigate deeply and transparently into what happened in both of these cases and take some measures against that. We have made some recommendations in the report, but we hope that the authorities can investigate and explain what happened and take measures based on the information they find to ensure that this does not happen again.
+
+MediaNama: Is it true that the three domains mentioned in the report, by virtue of being dynamic DNS [DDNS], are harder to track and trace? Is that something that you faced while investigating?
+
+Etienne Maynier: Completely. These domains are using dynamic DNS which are domains that do not need any information to register so you can register for them very easily. Through these three sub-domains, people used the same IP address at the same time making it very hard to track. Because they can basically stop using them and start using another one very easily, so it was definitely one of the tricks that was used here to make the investigation harder.
+
+MediaNama: When it comes to these three domains, were these compromised domains, that is, the perpetrators captured legitimate domains, or were these domains specially created for the campaign?
+
+Etienne Maynier: Dynamic DNS or not, you can buy any domain. They are all provided by a service that anyone can register for very easily. So they were specifically used and created to be used in this service for this attack, they were not compromised. We have no evidence showing that they were compromised domains.
+
+MediaNama: Does that mean that a registry like WHOIS does not exist to look up this dynamic DNS?
+
+Etienne Maynier: Exactly because researchplanet.zapto[.]org which was the main domain name used is actually owned by a company providing dynamic DNS and anyone can use the service for free and use a sub-domain like researchplanet. So we cannot use WHOIS and for the attackers, it’s very easy to get a sub-domain like that for free and use it for some time and then stop using it and then use another one. It’s harder to investigate and track.
+
+MediaNama: People have mentioned that because of GDPR, it has become harder to get information about people who register for domains. Is that true?
+
+Etienne Maynier: That is true, yes. And it was actually the case already before GDPR where it was more about protecting private information on WHOIS while registering a domain. I think it also makes sense in the way that privacy is big a concern. When WHOIS was started with the internet in the ‘90s, privacy was not such a concern but now we have to balance the need for transparency with the need for privacy. I think it definitely makes our research harder in some cases, and not just on attacks like this one, but I think that it is also a good thing that people’s privacy is preserved when they are registering domains and that not everybody can get access to private information. I think that is a very good thing.
+
+MediaNama: As you said earlier, this version of NetWire has been customised so that it cannot be traced by anti-virus software on a computer. It is possible to customise malware so that it targets individuals in particular, depending on the kind of anti-virus software they are using or other kinds of software on their devices. Did this kind of very specific customisation happen here as well?
+
+Etienne Maynier: It was not exactly customisation. They [the attackers] used classic NetWire but they packaged into a more complex program that would hide NetWire as much as possible. And that makes it very hard for anti-virus software to detect it. I think, definitely, the inference there was that NetWire in known enough by anti-virus software so they likely have some signatures but they packed it into a more complex program made it way harder for the anti-virus software to detect it.
+
+MediaNama: Freedom of the Press Foundation has created a software called Dangerzone to detect malicious documents and basically strip them of malware before opening them. Do you think something like that could have helped the human rights defenders in this case?
+
+[ Dangerzone has been developed by Micah Lee, a founder and board member of Freedom of the Press Foundation.]
+
+Etienne Maynier: I am not aware of Dangerzone but if it is for different documents, I don’t think so. Here, the problem was that it was not actually a malicious document but it was actually a program pretending to be a document and so because of that, what was downloaded was not a PDF or a document, it was a .exe program. And because of that, there is very little that you can do. It basically works like if you downloaded a program on to your computer and run it, the program can run on your computer and there is not much you can do. We think there is a need to raise awareness and make sure that human rights defenders, but also people in general, have a better understanding of internet security knowledge and know-how to detect suspicious messages like in this case.
+
+MediaNama: What was your methodology for figuring out how this campaign was run? Did you source the devices from the victims so that you could see what kind of software was there?
+
+Etienne Maynier: No, we received several emails from victims, and we investigated from them mostly. Basically we clicked on the email and downloaded the files and ran the malicious program in a safe environment to identify what the malicious program was doing.
+
+MediaNama: How did you check the computers?
+
+Etienne Maynier: We have a procedure to check different things that is actually public but is quite technical. Basically you check whether all the programs are running on the computer, you check everything that’s running on start-up. In this case, because we know how the malware works and where it was located and so on, it was actually easy. You just had to check the folder in which the malware would be installed on the computer and those kinds of things.
+
+MediaNama: Was this all done remotely or was there an Indian team involved to physically look at the devices?
+
+Etienne Maynier: In few cases, we had to check. But in a few cases, the victims were not using Windows or did not click on the link. People were suspicious already and very few people actually clicked on it.
+
+MediaNama: No physical inspection of the computer was required?
+
+Etienne Maynier: No, for computers you could do it remotely. It is way harder for smartphones.
+
+MediaNama: Did all the nine people mentioned in the report reach out to Amnesty or did you discover them as you went along with your investigation?
+
+Etienne Maynier: No, they all reached out, either to us or to Citizen Lab.
+
+MediaNama: So it wasn’t a web of people interlinked and then infected where you could pull on one thread?
+
+Etienne Maynier: I think they all reached out independently. I don’t know if they know each other.
+
+MediaNama: Did you reach out to Jennifer Gonzales or Jairam Meshram whose fake email addresses have been used to target victims? During your investigation, did you ask the victims if they knew a Jennifer Gonzales or why is it that these particular names have been used?
+
+Etienne Maynier: In some cases, we found that they [the attackers] were sometimes using the names of people who existed and whom the victim may know. In some cases, we couldn’t find any link, like any real person behind the name, but they pretended, for instance, in one case to be a journalist or to be a public prosecutor. There was definitely some level of social engineering used to trick the victim and make them open the document. In some cases using names people knew, and in some other cases using more authority or titles like journalist or public prosecutor, for sure.
+
+[Note: Jairam Meshram, a Nagpur-based advocate who is a member of the Indian Association for Peoples’ Lawyers, was targeted using Pegasus. He confirmed to us that the email mentioned in the Amnesty report is not his. During a November 2019 conversation with Nihalsing Rathod, an advocate who heads the Human Rights Law Network in Nagpur and was targeted using both Pegasus and NetWire, MediaNama had seen emails sent to Rathod’s email account that were from this fake account and looked suspicious. Rathod and I had then noticed that the account was fake because it spelt Meshram’s last name with two As. Rathod has been representing Surendra Gadling, a lawyer and activist arrested in the Bhima Koregaon case. Similarly, both Meshram and Rathod don’t know a Jennifer Gonazales, who is listed in the Amnesty report and from whom Rathod has received emails (that MediaNama had seen in November). But both of them know Jennifer Ferreira, the wife of Arun Ferreira, another individual imprisoned in the Bhima Koregaon case, and Vernon Gonsalves, another person arrested in the case whom Meshram has represented in some cases.]
+
+MediaNama: One of the spear-phishing emails mentioned in the report is fake email for Jagdish Meshram, who knows some of the victims. Did Amnesty/Citizen Lab reach out to him to see if he had also been targeted, perhaps using fake emails of other victims? Did Amnesty/Citizen Lab also reach out to “potential” targets/victims after talking to the 9 victims who have been identified?
+
+Etienne Maynier: [received this response via email] We shared a private alert bulletin about this attack in December 2019, that included details and example of spear-phishing emails. This bulletin was shared largely in the Human Rights community within India, in order to raise awareness about such attacks and to identify more targets.
+
+[Note: Meshram confirmed to us that he had not been contacted by Amnesty and we have asked Maynier for a copy of the bulletin.]
+
+MediaNama: What should people who have been targeted using NetWire do? For instance, when people were targeted with Pegasus, Citizen Lab advised the victims to change their devices.
+
+Etienne Maynier: NetWire is definitely way less invasive. So the best thing to do is, I mean running an anti-virus check now that it is more public, I hope anti-virus will be able to detect that. But the best thing to do is to have someone with knowledge of malware check their computer and we have released a video guide at Amnesty to help people with good technologist to check computers for malicious evidence. And we provide information about how to detect malware. I think the best way is to have someone look at your computer and if it is not possible, one of the ways is to reinstall Windows and that will definitely solve the problem.
+
+MediaNama: Did you tell the nine targets to do this?
+
+Etienne Maynier: We talked with the victims and confirmed with them, and in some cases checked their computers, to check if the clicked on it [the malicious links]. We did some work with the victims to make sure that they were not compromised [anymore].
+
+MediaNama: Are you seeing any other surveillance trends with respect to India? For instance, Google’s Threat Analysis Group recently reported that the number of “hacks-for-hire” are on the rise in India. Citizen Lab published another report where a Delhi-based firm was involved in hacking government officials and private companies across the world. Are you seeing any such trends?
+
+Etienne Maynier: Based on just these two attacks — Pegasus and this one — this is clearly showing a trend of attacking human rights defenders. There may be others but two [such attacks] is concerning. I do not have much more information [about Google and Citizen Lab reports] than what is public. But the Google blog post and the research done by Citizen Lab mentioning companies in India raise some questions about whether there are hack-for-hire services in India and how broad [prevalent] they are. But I don’t have more information than what is public now.
+
+MediaNama: Any closing thoughts?
+
+Etienne Maynier: I really hope this helps in raising awareness, especially among human rights defenders, about these types of attacks. I really hope that it is going to make the government take it seriously and start a transparent investigation into what happened in this attack and also in the attack using Pegasus.
+
+If you think you are being similarly targeted, reach out to me at [email protected] .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

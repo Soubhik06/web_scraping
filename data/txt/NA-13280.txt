@@ -1,0 +1,41 @@
+The government should engage with the Reserve Bank of India (RBI) to ensure that one-time passwords (OTPs) via SMS continue to remain the primary factor of authentication, the Cellular Operators Association of India (COAI) said in a statement about the recent SIM Binding directions .
+
+“COAI urges DoT to engage with the Reserve Bank of India (RBI) to ensure that for all financial transactions, the primary factor of authentication should mandatorily be through SMS OTP, which continues to remain the most secure, operator-verified channel with guaranteed traceability. Strengthening this requirement will create a consistent and secure authentication framework across the financial ecosystem, further reducing the risk of fraud and reinforcing consumer trust,” the industry body mentioned.
+
+For context, the SIM directions require app-based communication services (including Telegram, WhatsApp, Snapchat, and Sharechat) to restrict users from accessing their services without an active SIM card. The service providers also have to log users out of web applications within a period of six hours. This essentially means that if you access any of these services on your laptop, you will have to log in again after six hours.
+
+COAI believes that SIM Binding will significantly reduce spam and fraudulent communications perpetrated through these platforms and help mitigate financial fraud. It had previously urged the government to employ the measure in August this year.
+
+The industry body cited a US Cybersecurity and Infrastructure Security Agency (CISA) alert from November 2025, which warned of “Guardian” spyware targeting users of messaging platforms through malicious links.
+
+“This tool compromises both Android and iOS devices, enabling data theft and surveillance. It has been deployed globally, with human rights defenders and journalists among the primary targets.
+
+“As CISA strongly encourages users to take steps to secure their mobile communications, India’s pioneering decision to mandate persistent SIM binding emerges as a timely and critical security measure,” COAI argues.
+
+Further, it mentions a Reuters report that revealed that a social media giant (Meta) failed for at least three years to identify and stop fraudulent ads. The report mentioned that Meta estimates that its platforms show users 15 billion scam ads a day.
+
+“These ads exposed billions of messaging app users to fraudulent e-commerce and investment schemes, illegal online casinos and the sale of banned medical products,” COAI mentions, adding that the SIM binding directive will be a vital step in curbing fraud and abuse on digital platforms.
+
+It further adds that while messaging services are taking steps to combat fraud, their effectiveness is limited. “For example, it is concerning to note that one prominent platform has acted on only about 2.5% of total ban appeals — a meagre rate that underscores the need for more robust, [and] systemic protections,” COAI says.
+
+Furthermore, the statement highlights a transnational scam that the Indian Cybercrime Coordination Centre (I4C) identified, in which fake social media advertisements lure users into linking their messaging accounts via malicious QR codes. This scam exploited the linked devices feature of app-based communication services to create “mule accounts” that are rented out to conduct fraud.
+
+In contrast with COAI’s support for the directions, Broadband India Forum (BIF) argued that the SIM binding requirements raise concerns of regulatory overreach, despite their positive intentions. BIF mentions that over-the-top (OTT) platforms and digital services squarely fall within the scope of the Information Technology Act, 2000 (IT Act, 2000) and the IT Ministry’s jurisdiction.
+
+“The Telecommunications Act does not authorise the regulation of OTT communication platforms, nor does it provide the legislative basis to impose telecom-style operational mandates upon them. Yet, under the guise of the Telecom Cyber Security Amendment Rules and without any public consultation, the present SIM-binding directions extend precisely such obligations, that too on a select set of applications,” BIF emphasises.
+
+It also argues that SIM binding and forced log-out requirements can become a material inconvenience to ordinary users.
+
+“ Ordinary use cases—such as travellers and NRIs who rely on Wi-Fi to use their Indian numbers abroad, professionals who depend on uninterrupted web-client access during an 8–10 hour workday, families and multi-SIM users who routinely separate their primary SIM from their messaging number, and elderly or low-literacy users who struggle with repeated re-authentication—stand to be disproportionately affected,” BIF highlights.
+
+The government sent the SIM binding directions to a select group of communication platforms, namely WhatsApp, Telegram, Signal, Arattai, Snapchat, ShareChat, JioChat, and Josh. BIF argues that this selective applicability creates room for regulatory arbitrage. “By covering some services and excluding others that operate in an identical manner, the approach could have the effect of bad actors simply migrating to platforms not subject to these obligations,” it explains.
+
+The think tank suggests that the government should pause the directions and their implementation timelines, and open up a formal stakeholder consultation. It also questions the effectiveness of the directions in curbing fraud, stating that the dominant trajectory of cyber fraud — which includes procuring SIM cards through mule accounts, remote device access and so on — is only marginally, if at all, affected by SIM binding.
+
+“A narrow SIM-binding requirement risks diverting attention from more impactful measures: strong SIM-KYC (know your customer) enforcement, and coordinated enforcement across telecom operators, financial intermediaries, and law enforcement agencies,” BIF suggests.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

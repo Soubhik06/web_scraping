@@ -1,0 +1,49 @@
+Ad: Our Data Protection Rules 2025 coverage is brought to you in partnership with K&S Digiprotect Services Pvt Ltd: Experts in DPDPA implementation, audits, training and regulatory support. Text us at 98116-74653, 98181-80981 or find more details here .
+
+Companies have to implement appropriate data security measures such as encryption, obfuscation, and mapping personal data to virtual tokens, to protect against personal data breaches under the recently released draft Digital Personal Data Protection (DPDP) rules.
+
+Released for public consultation on January 3, and issued under the Digital Personal Protection Act, 2023 (DPDP Act) , the rules will operationalise India’s data protection law. The Data Protection Act and the draft rules set out clear instructions about what companies must do in case of data breaches.
+
+Under the data protection law, a personal data breach is—
+
+“any unauthorised processing of personal data or accidental disclosure, acquisition, sharing, use, alteration, destruction of or loss of access to personal data, that compromises the confidentiality, integrity or availability of personal data.”
+
+The public consultation for the rules will close on February 18, 2025, and comments can be submitted to the same here .
+
+In the event of a breach, companies have to inform the Data Protection Board (the privacy regulator established under the law) and the affected individuals. Failing to report a data breach could lead to the Board imposing fines of up to Rs. 200 crore. The Board can also fine companies that don’t put in place “reasonable” security safeguards to protect personal data up to Rs. 250 crore.
+
+Now that the law is in effect, breaches that take place before the Board is notified will also be decided upon by it, based on what former Minister of State for IT Rajeev Chandrasekhar said at the Digital India Dialogue in Delhi in 2023 :
+
+“If there are any breaches under the law, either today, or after we’ve notified the Act, those breaches will be taken up by the Data Protection Board on or after the day it is constituted…The window between now and the Data Protection Board’s constitution is not a holiday, or a safe harbour, or a Section 79-like immunity [safe harbour held under Section 79 of the IT Acts shields platform from being held liable for the third-party content they host]…It just means these breaches will accumulate. When the Data Protection Board is ready, it will start adjudicating on them. Unless you are exempted or given a transition period explicitly in our notification, the Act is in force for all data fiduciaries vis-a-vis their interactions with their data principals.”
+
+Companies must ensure that they (at a minimum) —
+
+Further, the contract that companies have with data processors (those who process data on their behalf) must include a requirement that the processors will implement ‘reasonable security standards’ during their processing activities.
+
+Once a company becomes aware of a data breach they must inform the people affected by said breach in a “concise, clear and plain manner” and without delays. The company must communicate this information to the affected person either through the person’s account or through any other communication mechanism they have registered with the company. Here account means the online account a user has registered with the company. It includes any profiles, pages, handles, email addresses, mobile numbers through which a customer accesses the company’s services.
+
+So for instance, let’s say you are a Myntra customer and as a result of a data breach your account gets compromised. In this case, Myntra can either inform you of this breach through your Myntra account or other contact details that you registered with them like your phone number or email address.
+
+As per the rules, companies must provide the following details to those affected by a data breach—
+
+Companies must also inform the Data Protection Board of data breaches without delay. They must provide the board with a description of the breach similar to what they must tell affected persons. Further, within a period of 72 hours of learning about the breach, companies must  provide the board—
+
+The Data Protection Board may allow a company to take longer than 72 hours to submit this additional information if the company sends in a written request asking for an extension.
+
+A major concern many had raised with the law was that it did not specify clear timelines within which companies must inform the Board and affected users about the breach. This could leave companies free to take their time before reporting incidents, leaving people’s data vulnerable for longer periods of time. However, with the 72-hour window that the rules introduce, companies now have a clear window within which they must provide the Data Protection Board with details of the breach. Further, given that companies have to include details of how they intimated affected individuals as a part of this report, it is now clear that companies have to inform those affected within the first three-day window as well.
+
+While the clear timeline ensures that the board/the affected individuals get adequately informed, one has to wonder whether companies will have enough information about the measures they have implemented/may implement to tackle the breach within the 72 hour time period.
+
+The data protection regulation equally applies large fines for failing to prevent or report personal data breaches to both large and smaller companies. Experts have previously suggested that the Board should decide penalties after taking into account the size of the company and the extent of the harm caused, among other factors.
+
+In a similar vein, while speaking at MediaNama’s PrivacyNama 2023, lawyer Varun Sen Bahl argued that data breach reporting obligations should be staggered, and that users should be informed of them only when significant harm is caused to an individual. This includes breaching sensitive data like identifiers of users.
+
+“[Risk-based approach] can be not just in how you have to report data breaches, but also in terms of how you do data protection, impact assessments, or how you design security safeguards, right? So we would love to see that in your breach reporting rules, how can you adopt a risk-based approach where you don’t treat all breaches on equivalent ground and you can scale accordingly,” said Bahl.
+
+The Data Protection Board has powers to direct companies on how to clean up personal data breaches. However, a separate government entity, the Computer Emergency Response Team (Cert-IN), also released guidelines on reporting cybersecurity incidents, which could lead to jurisdictional overlap . When asked about how companies are supposed to navigate this,  Minister of State for IT Rajeev Chandrasekhar said data breaches will have to be reported by companies to both CERT-In and the Data Protection Board of India.
+
+Read more
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

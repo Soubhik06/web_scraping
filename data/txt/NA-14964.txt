@@ -1,0 +1,27 @@
+Google on December 6 introduced Gemini, its next-generation AI model that will power the company’s various AI features and services like the Bard chatbot and Duet AI assistant going forward.
+
+The company claims that Gemini is significantly more advanced and can deal with more sophisticated scenarios than not just the previous generation AI models of GoogleÂ but models developed by competitors like OpenAI as well. Google shared multiple videos showcasing use cases of Gemini to support these claims:
+
+Here are a few more videos showcasing various capabilities and use-cases of Gemini.
+
+The first version of this AI model, the Gemini 1.0, comes in three sizes:
+
+Google claims that Gemini beats other AI models currently out there including the powerful GPT-4 from OpenAI that powers ChatGPT Plus and Enterprise.
+
+“We’ve been rigorously testing our Gemini models and evaluating their performance on a wide variety of tasks. From natural image, audio and video understanding to mathematical reasoning, Gemini Ultraâs performance exceeds current state-of-the-art results on 30 of the 32 widely-used academic benchmarks used in large language model (LLM) research and development,” the company claimed, sharing the following two charts showing the Gemini Ultra’s scores vs GPT-4 on various benchmarks in text and multimodal input:
+
+“With a score of 90.0%, Gemini Ultra is the first model to outperform human experts on MMLU (massive multitask language understanding), which uses a combination of 57 subjects such as math, physics, history, law, medicine and ethics for testing both world knowledge and problem-solving abilities,” Google added.
+
+As for Gemini Pro, the model outperforms GPT 3.5 in six out of eight benchmarks including in MMLU, Google said in a separate blog post .
+
+For more about Gemini, here’s an interview with Google CEO Sundar Pichai and DeepMind’s Demis Hassabis on Platformer .
+
+“This new era of models represents one of the biggest science and engineering efforts weâve undertaken as a company. Iâm genuinely excited for whatâs ahead, and for the opportunities Gemini will unlock for people everywhere. ” â Google CEO Sundar Pichai
+
+Note (7 December, 5:10 PM): The post was updated based on editorial input.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

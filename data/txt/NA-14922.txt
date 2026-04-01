@@ -1,0 +1,139 @@
+“Dear User, this is to inform you that the storage subsystem of the AIRAWAT-PSAI system has experienced multiple simultaneous catastrophic hardware failures,” read an email to startups that were working on India’s AI supercomputer, AIRAWAT, on September 5, 2024.
+
+“The storage OEM is actively working on recovery efforts with their engineering team dedicated to restoring the system and recovering the data. Onsite efforts till now have not culminated into data recovery. Hence it might be required to ship the storage equipment to OEM engineering Lab (onsite),” the email continued. It added that efforts for data recovery are underway.
+
+AIRAWAT is India’s flagship AI platform developed under NITI Aayog. It is a high-performance system intended to provide affordable computing power for AI innovation and research.
+
+MediaNama has reviewed a series of emails from the Centre for Development of Advanced Computing (C-DAC), the research and development organization under the Ministry of Electronics and Information Technology (MEITY). CDAC is responsible for the maintenance of the AIRAWAT system.
+
+What started off as a routine maintenance of AI infrastructure led to a “catastrophic” hardware failure. This resulted in the subsequent loss of data from AI programs that startups had stored in AIRAWAT. These emails were corroborated by two startup founders that are working on AIRAWAT but declined to be identified.
+
+In January 2024, CDAC announced that over 25 AI startups had been onboarded to use the AIRAWAT infrastructure. However, no publicly accessible record of these startups or their names has been made available. Currently, CDAC is planning to further expand its AIRAWAT ambition, as indicated by the call for applications put out on November 25, 2024. These maintenance failures raise several questions regarding the safeguards and protections for AI startups working on the AI platform. Moreover, there are governance concerns about how startups are selected to work on AIRAWAT projects.
+
+AIRAWAT intends to offer crucial resources for startups and research institutions that rely on GPU power for intensive AI tasks. It was presented as a boon to those who do not have the money or resources to set-up their in-house AI training in India.
+
+In 2023, the Cabinet chaired by Prime Minister Narendra Modi approved a comprehensive national-level IndiaAI mission . The financial outlay for this was Rs 10,371.92 crore. Modi’s vision for AI is “Making AI in India and Making AI Work for India.”
+
+Subsequently, NITI Aayog, the government think tank, put forward AIRAWAT. The system and its accompanying infrastructure were to be built at the cost of Rs 7,500 over a 3 year period to advance Artificial Intelligence in India, reported Economic Times. AIRAWAT was reported as “An AWS-Like Platform To Help Startups Achieve Breakthroughs In AI.”
+
+The approach paper by NITI Aayog details how the system was intended to function.
+
+The system was proposed to support multi-tenant, multi-user computing with resource partitioning. The AIRAWAT architecture was intended to include resource partitioning and provisioning. Moreover, it intended to offer a multi-layer storage system to ingest and process multi-petabytes of big data.
+
+The usage of AIRAWAT was outlined as encompassing a wide range of applications. It ranged from Big Data Analytics to specialised AI solutions across various domains. These included healthcare, agriculture, weather forecasting, among others. Additionally, it also included security and surveillance, financial inclusion (fraud detection), and infrastructure tools.
+
+The CDAC first issued an alert message on July 15, 2024, regarding a technical issue that led to the emergency maintenance of the AIRAWAT-PSAI system. The alert described the situation as follows: “We regret to inform you that due to a storage component failure, the AIRAWAT-PSAI system at NPSF [ National PARAM Supercomputing Facility ] is in emergency maintenance mode. As a result, access to the system, job submission, and data transfer is currently disabled.”
+
+Subsequently, a second email came on July 26, 2024. “We are writing to provide you with an update regarding the ongoing downtime of the AIRAWAT-PSAI system due to failure of storage components. The OEM [Original Equipment Manufacturer] is currently sourcing the replacements for the failed components from the US, and we expect their arrival next week. We are actively working to restore the system as soon as possible,” it stated.
+
+The next update came on August 29, 2024, more than a month later. It stated: “In reference to the previous mail, We will be able to communicate some concrete updates regarding the system early next week.”
+
+Then, on September 5, 2024, another update came in stating that the “system has experienced multiple simultaneous catastrophic hardware failures.”
+
+“The storage OEM is actively working on recovery efforts with their engineering team dedicated to restoring the system and recovering the data. Onsite efforts till now have not culminated into data recovery. Hence it might be required to ship the storage equipment to OEM engineering Lab (onsite),” it further added.
+
+An update dated October 9, 2024, followed up on the above email. It stated that data was lost and could not be retrieved.
+
+“Following up on the email below regarding storage failure, we would like to inform you that the Storage OEM engineering team from across Australia, UK, US has made extensive efforts to retrieve the data from the failed components over past months. However, unfortunately, these attempts have not been successful.
+
+It has been indicated to us by Storage OEM that it is unlikely that the data can be recovered from the failed components.”
+
+For startups relying on AIRAWAT’s GPU and storage resources, the infrastructure failure has been a severe setback.
+
+“Had they said that the data recovery will not happen, or had they given a time of three months, then we would’ve moved out, right? Like, if you tell me that your shop is shutting down for the next three months, then I’ll obviously, as a consumer, go and find some other shop,” said an AI startup founder who requested anonymity and was using AIRAWAT’s infrastructure. “But if you keep telling me that it’s been delayed by a week and I’ll update you next week, then I am in a difficult position,” he added.
+
+When asked about any prior warnings or indications regarding the system shutting down, he stated that there were none whatsoever. He explained that he relied on this system for his daily operations. Moreover, he explained that there were no alternative solutions or backups in place. “The way you use these systems is very dependent on the infra[structure]. So that means even if you were to migrate to some other system, that is not an easy job, because there’s a lot of data that’s in place,” he said.
+
+He lost more than 10 terabytes (TB) of data due to the system failure. While he exchanged emails with AIRAWAT’s support, communication was infrequent and updates were sparse.
+
+“They were only communicating when somebody was asking them to,” he said.
+
+An update on September 11, 2024, from CDAC said that the system had become accessible.
+
+“This is to inform you that the AIRAWAT-PSAI system is now available for use, with an upgraded environment. The details of the upgrades are outlined in the attached document. In reference to below e-mail, an intermediate storage solution (total capacity of 435 TB) has been commissioned and is now available as the home area storage. Due to the limited capacity, a storage quota of 1 TB per project has been allocated,” the email from CDAC said.
+
+Despite the official announcement, the system remained unusable for several weeks. The founder explained while the system was “accessible” according to the update, it wasn’t functioning in a way that met user needs. “According to them, it was functional on September 11, but for us, it became accessible after a few weeks,” he told MediaNama. “There was no upfront communication because at the end of the day, we can’t shift blame to someone else. But it was very tricky at the time. It [system] wasn’t available for me to manage client’s expectations. We were in a very tough spot, then,” he added.
+
+To manage reliance on the non-operational AIRAWAT system, the startup took emergency steps to mitigate future disruptions. They had to create a backup to ensure their operations could continue uninterrupted, even if AIRAWAT fails again. Eventually, he had to purchase their own ‘on-prem’ system. On-prem refers to private data centres that companies house in their own facilities and maintain themselves.
+
+“As an early-stage startup, we had to purchase our own on-premises system, because we couldn’t rely on platforms like AIRAWAT and needed a form of hedging. This was a 20 lakh worth system. An expense that we didn’t account for, and completely unplanned. This decision was made during the 3-4 months when AIRAWAT was non-operational,” he said.
+
+He stated that the lost data was entirely under AIRAWAT. Therefore, CDAC held ultimate responsibility for data safety.
+
+Multiple attempts were made to get a comment from C-DAC regarding the “catastrophic” failure of AIRAWAT’s infrastructure and the loss of data. Rishi Pathak, joint director of CDAC, declined to comment when contacted by MediaNama.
+
+However, the source of the infrastructure failures can perhaps be traced to the procurement process for the AIRAWAT system.
+
+NITI Aayog’s approach paper stated that “the development of this facility would primarily require engagement with a System Integrator , with demonstrated capability in setting up large computing facilities specialized for AI, who would design and implement the entire technology stack for the facility, and bring on board the suitable vendors for each layer of the stack.
+
+“The responsibility of upgrading and maintaining the facility on an ongoing basis will also be entrusted with the System Integrator with necessary skillset and experience. The operation and maintenance of the facility needs to be structured in a manner that creates sufficient incentive to leverage existing infrastructure.” It further stated that the System Integrator would be chosen through an open tendering process.
+
+The manufacturing and initial deployment of AIRAWAT’s High Performance Computing (HPC) was carried out by Netweb Technologies a year ago.
+
+Two employees at the company talked to MediaNama on conditions of anonymity.
+
+One employee stated that their role ended after the initial setup. “We deployed it last year. We are not vendors anymore. We manufacture and deploy. What is currently happening there is not our concern,” they said
+
+However, when asked if NetWeb Technologies was aware that AIRAWAT systems weren’t working properly, another employee disagreed. He stated that it wasn’t true.
+
+“AIRAWAT is India’s fastest super computer. All IIT research institutes have been working on it since last year. There is some misunderstanding here,” they said.
+
+“We are responsible for maintaining and taking care of the AIRAWAT system until the warranty period ends, as part of the Annual Maintenance Contract (AMC),” they added.
+
+They asserted that AIRAWAT shuts down only for maintenance, testing, or upgradation. Alternatively, it may be blocked for other activities. However, they agreed that for this year, Netweb is responsible for the maintenance.
+
+The approach paper outlined that administration of the AIRAWAT facility “will be a joint effort of the System Integrator and the Host Institute, with the following division of responsibilities:
+
+System Integrator:
+
+There seems to be a certain level of misalignment between the responsibilities of the System Integrator and the operational readiness of the AIRAWAT facility, further deepened by Netweb Technologies seemingly distancing itself from ongoing issues, despite being responsible for maintenance during the warranty period under the AMC.
+
+This disconnect was further exacerbated by the gap between deployment and infrastructure failures. This sculpts the need for reliable maintenance protocols within India’s AI ecosystem.
+
+Both the AI startup founders that MediaNama spoke to found out about AIRAWAT through NASSCOM (The National Association of Software and Service Companies). NASSCOM is a non-governmental trade association and advocacy group that represents the Indian technology industry. NASSCOM was actively promoting AIRAWAT to AI startups, encouraging them to leverage the system’s capabilities.
+
+In April 2023, the Telangana Government, in collaboration with the C-DAC, facilitated by the Telangana AI Mission (T-AIM), launched a partnership. This was aimed at providing AI startups with exceptional access to advanced AI computational resources. This initiative aimed to support startups associated with T-AIM and powered by NASSCOM.
+
+“Startups will leverage C-DAC’s cutting-edge supercomputing facilities, bridging the gap between innovative AI concepts and their practical application, empowering groundbreaking exploration and innovation,” it stated .
+
+This partnership was part of broader efforts by NASSCOM and C-DAC to promote AIRAWAT.
+
+“NASSCOM was doing some sort of evangelism for AIRAWAT. That is how I got to know about it in the first place,” stated the first AI start-up founder.
+
+NASSCOM’s introductory email to AI startups on June 13, 2023, outlined the opportunity to access AIRAWAT’s supercomputing resources. It stated:
+
+“As part of our sustained mission to empower AI-focused startups, we are pleased to share an exciting opportunity for your organization.
+
+Many of you know that we have partnered with the Centre for Development of Advanced Computing (C-DAC) in Pune to provide Revv Up startups with privileged, exclusive access to their AI-specific supercomputing facilities. This access is unprecedented, and you’ll be the first set of startups that will lay hands on the fastest supercomputing facility in India.
+
+These state-of-the-art supercomputing infrastructure houses powerful AI computational resources that can significantly speed up your AI development and research processes. Leveraging these facilities can pave the way for rapid data processing, enhanced computational capabilities, and a platform to push the boundaries of your AI applications. Importantly, they come with free access for 6 months or 1000 GPU hours or whichever gets fulfilled first.
+
+The NPSF form mentioned above details the ‘Technical Affiliation Scheme’ for AI startups to join the system. It further states that “NPSF reserves the right to amend the Technical Affiliation Scheme fully or partially at any time. However, the Affiliates will be informed of any such changes. C-DAC also reserves the right to withdraw the scheme at any given time without giving any reasons thereof.”
+
+The form fails to mention any grievance redressal mechanism for AI startups. However, it states that “NPSF’s technical staff members having long experience in high performance computing are available for consultancy on working days to Technical Affiliates on terms as mentioned in this booklet.”
+
+Consultancy is outlined as such:
+
+“Consultation of C-DAC members towards usage of NPSF and on the specific user problem will be available at no cost to the user up to the initial one working day or equivalent. If an Affiliate requires consultancy of C-DAC members beyond this, separate charges will be applicable and these will be charged per support call on a case-to-case basis.
+
+Note:
+
+The term ‘consultancy’ in the context of the form does not imply a grievance redressal mechanism. In this case, the consultancy services described in the form are primarily focused on providing technical assistance to the affiliates. It specifically focuses on how to use the NPSF system and solve user problems related to high-performance computing. The form does not mention such a mechanism, meaning there is no explicit reference to a formal complaint handling process. It also lacks details on appeals or legal recourse if an affiliate feels aggrieved by the system, charges, or actions under the Technical Affiliation Scheme.
+
+“This is the risk [that] as a user, all the data I process or transfer ultimately relies on hardware that can die within your infrastructure,” stated the AI start-up founder.
+
+However, he noted that they are currently using the system again, as its affordability overpowers the costs of alternative solutions.
+
+“At this point in time, this is the only system that I have,” he stated. “There is a lot of pomp and show around AI and AI startups in India, but this was a complete infrastructure failure on their part. Especially for an elite institution like CDAC. How do I even function as an AI startup?”  he questioned.
+
+When reached out, many startups remained hesitant to talk against CDAC, as they are heavily reliant on these systems. Another AI startup founder, on conditions of anonymity, said,“This was a tough time for us. We didn’t intend to rely on it for super long, but as a startup, the rates they were offering, and are still offering, are too good to pass up.”
+
+He further added, “It’s already so difficult to operate as a startup; any help we can get is too important to overlook.” When asked if he has been frustrated with the state of things for three months, he said, “Of course I am, but I simply can’t just move out and move on.”
+
+We have reached out to NASSCOM for a response to these questions. We will update the story if/when we receive a response from them.
+
+We have reached out to CDAC for a response on these questions. We will update the story if/when we receive a response from them.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

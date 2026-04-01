@@ -1,0 +1,35 @@
+Besides Pegasus spyware, hacking groups such as ModifiedElephant and SideWinder targeted Rona Wilson, the activist who was arrested in the Bhima Koregaon case, according to a report by cybersecurity firm SentinelOne. This was first reported by The Washington Post .
+
+The SentinelOne report is an extension of the Arsenal Consulting report that claimed to have found the presence of Israel-based NSO Group’s Pegasus spyware in Wilson’s smartphone. SentinelOne said that between February 2013 and January 2014, Wilson received phishing emails from the SideWinder threat actor.
+
+“The relationship between ModifiedElephant and SideWinder is unclear as only the timing and targets of their phishing emails overlap within our dataset. This could suggest that the attackers are being provided with similar tasking by a controlling entity, or that they work in concert somehow.” — SentinelOne
+
+These revelations are significant because Sidewinder , according to Mitre.org, is a State-sponsored threat actor group that has been targeting government, military, and business entities primarily in Pakistan and China. The report’s findings are also likely to cast serious aspersions on the National Investigation Agency’s case and the electronic evidence it has against Rona Wilson.
+
+“The objective of ModifiedElephant is long-term surveillance that at times concludes with the delivery of ‘evidence’ – files that incriminate the target in specific crimes– prior to conveniently-coordinated arrests.” — SentinelOne report
+
+Through the last decade, ModifiedElephant infected its targets via spear-phishing emails with malicious attachments, the report said, adding that its techniques have evolved over time. Here’s a closer look at its modus operandi, as uncovered by SentinelOne:
+
+The payloads of these phishing emails by ModifiedElephant share infrastructure with Operation Hangover. SentinelOne described Operation Hangover as a threat actor whose “activity includes surveillance efforts against targets of interest to Indian national security, both foreign and domestic…”
+
+The Washington Post reported that Wilson received at least 32 malware-laden emails from ModifiedElephant. Similarly, SideWinder sent at least four malicious emails to Wilson between 2013 to 2014, the report said, attributing the findings to SentinelOne.
+
+“The malware most used by ModifiedElephant is unsophisticated and downright mundane, and yet it has proven sufficient for their objectives– obtaining remote access and unrestricted control of victims’ machines.” — SentinelOne report
+
+The primary malware, which are also publicly available, that were deployed:
+
+SentinelOne observed particular activities of this malware around a file named LTR_1804_to_cc.pdf  “which contains details of an assassination plot against Prime Minister Modi'”.  This was one of the key pieces of evidence on the basis of which the National Investigating Agency arrested Wilson and others in the Bhima Koregaon case. SentintelOne said that this file was delivered in handsets using the NetWire malware associated with ModifiedElephant.
+
+ModifiedElephant also delivered an Android Malware.”The Android malware is an unidentified commodity trojan delivered as an APK file,” the report said.
+
+“Arsenal found Pegasus (spyware) indicators on the Windows volume of Mr. Rona Wilson’s computer in two iTunes backups from an iPhone 6s [which belongs to Rona Wilson],” the report said. These indicators carried timestamps from July 5, 2017 to April 10, 2018, it added.
+
+Arsenal Consulting was hired by Rona Wilson’s defence counsel to investigate and analyse electronic evidence seized from Wilson’s home by the Pune police department in 2018. The firm has released a total of four reports to date, detailing the extent to which Wilson’s electronic devices were targeted by the attackers:
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

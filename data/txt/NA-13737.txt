@@ -1,0 +1,41 @@
+On May 29, 2025, the Reserve Bank of India (RBI) released its Annual Report 2024-25. The document highlights the central bank’s policy initiatives in the fintech and payments sector, while noting that the value of fraud cases in the banking sector has nearly tripled compared to FY24 levels. Accordingly, the report also explores the RBI’s agenda for the upcoming fiscal year, FY26, across various sectors.
+
+Expanding the scope and coverage of Central Bank Digital Currency and introducing new use cases and features: The RBI aims to ramp up efforts for bilateral, cross-border CBDC pilots, having commenced with person-to-person (P2P) and person-to-merchant (P2M) use cases for retail digital rupee earlier on.
+
+Introducing business-to-customer (B2C) functionality in the Unified Lending Interface (ULI): This would accompany broader efforts to incorporate more products, data providers, and lenders in the ULI to expand its scope and coverage.
+
+Scaling up MuleHunter.ai: In FY26, the Central Bank aims to deploy its MuleHunter.ai tool in more financial institutions beyond a few large public sector banks currently. Launched in December 2024, this tool leverages artificial intelligence and machine learning (AI/ML) to identify mule accounts involved in financial fraud.
+
+Preparation of a framework for responsible and ethical AI adoption in the financial sector: To aid this target, the RBI established a committee in December 2024 comprising personnel from institutions like IIT Bombay, NITI Aayog, NASSCOM, the IT Ministry, HDFC Bank, and others.
+
+As part of the RBI’s duty of supervising financial intermediaries, the central bank listed several targets concerning cybersecurity preparedness:
+
+Issuance of updated guidelines on cybersecurity framework: In FY25, urban cooperative banks (UCBs) offering digital services were advised to conduct a gap assessment through CERT-In empanelled auditors. Further, UCBs conducted a pooled audit of three common third-party IT service providers (ISTPs) via CERT-In empanelled auditors. These ISTPs were contracted by UCBs to offer services like hosting servers in data centres, core banking solutions, and card management, among others. Later, the RBI issued cybersecurity-related instructions to UCBs and aimed to consolidate the existing framework
+
+Cyber resilience measures for all supervised entities (SEs), including banks, UCBs, and non-banking financial companies (NBFCs):
+
+Under the aegis of the Consumer Education and Protection Department (CEPD), the RBI listed several goals:
+
+Surveying ‘Usage of Digital Payments’: The RBI intends to understand the evolving trends, adoption patterns, and user preferences in the digital payments ecosystem via this survey. The insights generated would aid financial inclusion and the effectiveness of the payment systems.
+
+Developing a prototype of Digital Payments Intelligence Platform (DPIP): The department assigned this task to the Reserve Bank Innovation Hub (RBIH), which must do so in consultation with five to ten banks. This platform aims to safeguard consumers from digital payment fraud.
+
+Formulating the ‘Payments Vision Document 2028’: This document will incorporate inputs from stakeholders and provide “further impetus to entities in the payments ecosystem for them to develop and deploy solutions in this space.”
+
+Identifying frictions in cross-border payments: The central bank aims to detect frictions in the processing of the beneficiary leg of cross-border payments and frame suitable regulatory policy. This goal builds on issues identified in the Financial Stability Board’s 2024 report on Key Performance Indicators (KPIs) for cross-border payments. For context, the report noted that complications at the beneficiary leg — or the time taken from the beneficiary bank receiving the payment to the final credit to the end-customer’s account — hinder the speed of cross-border transfers.
+
+Cloud facility for the financial sector: The Indian Financial Technology and Allied Services (IFTAS) will commence Phase II of developing the Indian Financial Sector (IFS) cloud. This phase focuses on services like API management, availability zones, and Security and Operations (DevSecOps). For context, the IFS cloud was built to “provide secure and cost-effective cloud-based services and ease the challenges of adopting modern technology, governance, and data localisation,” as per the RBI. Phase I of this service, comprising Infrastructure-as-a-Service and Platform-as-a-Service, has already been initiated.
+
+Developing e-Kuber 3.0: This includes establishing future modules like primary auction and public debt management functionalities. For context, e-Kuber 3.0 is the RBI’s in-house project concerning its next-generation core banking system.
+
+Formulating an alternate mechanism for the digital payments system: The RBI plans to continue experimenting to develop payment and messaging solutions adhering to modern standards and advanced capabilities.
+
+Implementing AI Governance Policy: The department will initiate the Framework for AI Policy to outline ethical use of AI/ML technologies by employees, vendors, and third-party partners. This includes guidelines for data handling, consent, and security within the RBI’s operations.
+
+Enhancing trust in the financial sector: This builds on the RBI’s February 2025 launch of exclusive domains like ‘.bank.in’ and ‘.fin.in’ for the Indian banking and finance sector to curb scams. The Institute for Development and Research in Banking Technology (IDRBT) will act as the exclusive registrar and initiate the registration process for banks.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

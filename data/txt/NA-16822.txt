@@ -1,0 +1,26 @@
+SUBREDDIT: r/india
+TITLE: If you're thinking of buying a Tata Docomo FTTH connection, don't.
+DATE: 2014-06-23
+SCORE: 46
+URL: https://www.reddit.com/r/india/comments/28uyqj/if_youre_thinking_of_buying_a_tata_docomo_ftth/
+
+--- POST TEXT ---
+
+Been less than a week since I got mine in Kolkata. I went for the 100Mbit plan.
+
+* You will not get 100Mbit down, although 5Mbit up won't be a problem. The highest I have ever reached was 94.5 on Speedtest, and that too only on one of the Indian servers (Beam Telecom Hyderabad).
+ * They use a 10/100 baseFX to 10/100 baseTX converter. Likely it is of poor quality so it gets saturated before it reaches 100.
+ * In your regular usage be grateful if you get even 3.5MByte, which is just a bit more than 25% of the promised 12.5Mbyte .
+ * Technician who came to my house said, we sell 100Mbit but your average will be 50+. Seriously?! This is scam level over 9000!
+ * No servers give me the promised 100mbit speed when I connect. No servers. Not even the ones abroad. Now I refuse to believe that there is not a single server that can provide a 100Mbit upload to single users. I've already seen the contrary when living in Canada. So it is either Docomo's infrastructure or Indian routing in general is incapable of handling 100Mbit in single connections...It's anybody's guess which of the two is more likely.
+
+* Routing is trash. I live in Kolkata but my ping to an Airtel Speedtest server is more than 150. WTF?? Routing to Singapore is faster than routing to India!
+
+* Your computer will likely have trouble interfacing with Docomo's backend. You have to create a PPPoE login anyway, and the physical "no internet access" connection just sucks so bad that your computer will have trouble even with getting basic DHCP IP settings settings to work!
+ * If this doesn't work properly then expect that your speed will have trouble crossing even 1Mbit, and you won't even be able to connect to half of the interwebs. Reddit is inaccessible many times when this happens.
+ * Also expect laggy connections to the world.
+
+* They rolled out FTTH without training their customer service agents on the phone to handle it. They still ask you to check "if Internet, LAN, WAN lights work" on your "*modem*". If you tell them it's a fiber connection, sometimes they don't understand the difference.
+ * The automated phone system is also not capable of handling it. When you are asked if you are a "new or existing customer" you will always have to select new because "existing" asks you for a fucking telephone number, and guess what, FTTH connections don't come with one. They give you a "del number" that doesn't even work.
+
+* The technicians are incompetent fucktards. The one who came to my place was downloading PUPs like DUMeter to check internet speed when Resource monitor does the same thing, and the fucker forgot to uncheck all the "sponsored" content and I ended up with lots of trash on my computer which was difficult to clean. He kept claiming that I would have to download multiple things at once to get the full speed and he wasted at least a few gigabytes trying to prove that and failing every single time. To find what he wanted to download he googled, fucking *googled* "free microsoft software" and other shit like that. If he has the gall to say I won't get 100Mbit in a 100Mbit connection, then it's time to terminate. I'll hold out another 3 days before asking them to take their junk back. I'll move to Alliance broadband, who my friend told me is giving him the full speed they promised.

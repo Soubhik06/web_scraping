@@ -1,0 +1,15 @@
+What’s the news: South Korea’s Personal Information Protection Commission (PIPC) imposed a fine of 3.6 million won (approx. USD 3,000) against OpenAI on July 26, 2023 for data leakage of 687 South Koreans using the company’s ChatGPT chatbot. The leak was due to a bug in the open-source cache solution used to increase ChatGPT’s service speed.
+
+Billing addresses and credit card details leaked: As per the PIPC press release, names, email addresses and payment details – including billing addresses, the last four digits of credit card numbers and expiration dates – of some users who were signed into the subscription-based ChatGPT Plus service were exposed to other users who were active simultaneously, between March 20 and March 21.
+
+PIPC issues recommendations to Open AI: While the PIPC found no reason to say OpenAI had neglected its responsibility to implement suitable data safeguard measures, it still issued a set of “improvement recommendations,” to Open AI as per the Personal Information Protection Act (PIPA). As per these suggestions the company must “(1) implement safeguard measures to prevent recurrence of personal data breach, (2) ensure compliance with the PIPA, and (3) cooperate with the future fact-gathering and monitoring program to be performed by the PIPC.”
+
+Article continues below ⬇ , you might also want to read:
+
+Why it matters: This isn’t the first time a South Korean entity has aired caution regarding ChatGPT’s security measures. In May, it was reported that South Korean company Samsung Electronics Co. temporarily banned the use of ChatGPT at the workplace after some employees uploaded company information in April. At the time, the concerns were around company data being leaked to rival entities. Now we see how people’s personal data can also be at risk. Italy too enforced a temporary ban against the chatbot in April due to data privacy worries .
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

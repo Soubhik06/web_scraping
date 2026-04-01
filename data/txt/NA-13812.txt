@@ -1,0 +1,63 @@
+“If you are not giving a loan to a worthy customer like a Zomato delivery boy, somebody else will. Market forces will take care of it and say that if an NBFC like Bajaj Finance can provide and recover the loan, then why am I not doing it?” explained Prashant Singh, Head of Product at fintech platform Jar, at MediaNama’s AI in Fintech event on April 24.
+
+Singh was giving his input on the protections needed to address bias in AI-based decision-making. alternatively, he suggested that aggrieved customers could seek legal recourse. “You can file a class action lawsuit saying we have tried to file a loan application, and there has been systemic discrimination against such loans,” Singh stated.
+
+Singh’s comments came during a broader discussion on safeguards to address bias in AI-driven systems. MediaNama Founder Nikhil Pahwa questioned speakers on the available recourse mechanisms for users potentially facing higher interest rates or discriminatory practices due to AI decisions.
+
+In response, Kiran Gopinath, Chief Innovation Officer at Sahamati, disclosed that entities are now mulling over how customers can communicate with them during loan rejections. “Based on customer responses and feedback, one can scale to see whether biases exist or not. If 100 people have not gotten a loan for a certain reason, you can evaluate and identify why they haven’t gotten a loan. You can look at the data provided and make those decisions”, he concluded.
+
+Pahwa later raised questions on the legal right to appeal automated decisions and how such appeals would function. Supporting the idea of robust redressal mechanisms, Amrita Sengupta, Research and Program Lead at Centre for Internet and Society, pointed out that customers could turn to the RBI’s Ombudsman scheme. She also advocated for creating greater public instruments for redressal, instead of plain legal recourse. “In many cases of fraud, there are challenges with the capacities of law enforcement. While many frauds (like deepfakes) occur and have adverse impacts on people, the current frameworks may not be accessible for them”, she added.
+
+Broadening the conversation to the regulation of AI use in fintech, speakers shared diverse perspectives.
+
+To begin, Sengupta argued that AI systems within the fintech sector shouldn’t be viewed as special or exempt technologies. She proposed auditing mechanisms similar to those used for other financial services. “If AI is not special, then within the financial services sector, just as you have audits, do you want to have auditable standards, where you audit the AI systems being used?” she asked.
+
+Saranya Gopinath, Head of Policy and Government Partnerships at Razorpay, echoed this view, saying that new governance models should build on existing frameworks. “If we are trying to create a new governance model for a new technology, that cannot be different from the existing framework, except where the technology has introduced a new vulnerability, in which case that should be identified”, she explained.
+
+Nehaa Chaudhari, Partner at Ikigai Law, also stressed the importance of existing frameworks. “The overwhelming sense from people we’re speaking to is that existing frameworks might be enough with a few tweaks”, she said. However, she emphasized the need to first identify the principal problems. “Firstly, the industry should identify the broader principal problems to solve. And finally, they should collaborate with the industry”, she recommended.
+
+Speaking further on industry collaborations, Chaudhari cited the example of the Monetary Authority of Singapore (MAS). She explained, “Since 2019, the MAS has developed principles of fairness, ethics, accountability, and transparency alongside the industry and established a consortium. They have picked up three use cases in three phases till 2023 and piloted them to test whether the principles work in practice.” In doing so, they have also tapped financial institutions, global cloud service providers, and other stakeholders in the AI ecosystem, Chaudhari added.
+
+While debating the necessity of regulating AI use in fintech, Badal Malick, Co-Founder of KarmaLife, raised the issue of compliance costs. He noted that the scale of loans and lending differs for entities like NBFCs and smaller players like Lending Service Providers (LSPs). “In terms of compliance costs, it could kill innovation. Considering that the sector is already inundated with regulatory compliance, when you add more on top of that, you don’t have any innovation going on,” Malick explained.
+
+Questioning this logic, Pahwa stated that when organisations deploy AI in the ecosystem, additional compliance comes into play. “The moment you add something to the mix, the game changes, and accordingly, the rules have to change,” he opined, adding that while compliance already exists, the scale also changes.
+
+The conversation then delved into the necessity for defining a threshold beyond which the regulation would apply.
+
+Chaudhari argued that risk is the typical factor—or the threshold—that regulations should address. She added that regulations must consider different use cases for deploying AI. “Whether it’s internal governance—then maybe thresholds don’t apply—or whether it’s loan underwriting or determining creditworthiness, which may not be a function of volume or threshold,” she said. Ultimately, she questioned why smaller startups or NBFCs shouldn’t have a regulatory framework. In response, Malick opined that all regulations should be cost-effective and based on the extent or volume of risk. “The size of the risk remains limited in the case of small loan quanta, despite a potential bias existing,” he concluded, noting that scale-based risk frameworks are ubiquitous, as in the case of payments.
+
+Speakers also revisited the concept of thresholds later in the discussion, with a lens of proportionality. Sengupta noted that proportionality should apply to curb barriers to market entry for newer players, considering that bigger players already have data to train their AI models. However, she advised against the use of loan quantum as a proportionality principle, citing an example.
+
+“Based on the fraud empirical work we have done, we observed that while low-income users lost Rs 5,000 in frauds, their personal monthly income was Rs 10,000. Essentially this led them to lose 50% of their income, causing a high impact for individuals. Ultimately, scale shouldn’t be thought of in a monolithic way, while considering that just because Rs 2 crore is lent out, we should apply regulations”, Sengupta stated.
+
+Zooming out, Sengupta emphasized the original intent of digital lending—reaching underserved populations. “We’re trying to give small-ticket loans to people who may lack access to traditional credit lines. So there is already a layer of vulnerability that exists within the ecosystem, which digital lending is trying to cater to,” she explained. Regardless of regulations, fintechs should focus on additional guardrails while deploying AI systems that lack transparency and explainability.
+
+Moving on, Sengupta also highlighted the inadequacy of relying solely on ethics by drawing a comparison with health tech. “There is enough historical evidence to see that ethics as a concept has not necessarily worked. For instance, while the Indian Council of Medical Research (ICMR) guidelines in healthcare have existed, health tech has advanced and doesn’t necessarily follow the ethical guidelines that exist,” she noted.
+
+In a similar vein, Kunal Raj Barua, Senior Manager at Aapti Institute, spoke of the foundational purpose behind creating healthy, innovative markets. “We’re doing it to improve lending and to better individual development for national development as well. So, if I am considering that as my role, shouldn’t I be accountable to that as well?” Barua argued.
+
+Furthering the discussion, Malick recommended adopting a self-regulatory approach for the current fintech environment in the country. “I understand that there are risks involved, but we have to not throw the baby out with the bathwater. We should wait for things to play out and then learn from outcomes,” he opined. Malick added that while the RBI already leans toward this approach in general lending and fintech regulation, “why should AI be any different?”
+
+Echoing this view, another speaker suggested that the RBI could outline the baseline principles while leaving implementation to self-regulatory organisations (SROs). “RBI can set baselines like no discrimination and bias, and later delegate the granularity of its functioning to SROs”, he explained. He pointed to a similar trend in the securities market, where the Securities and Exchange Board of India (SEBI) lays out baselines, with the Association of Mutual Funds (AMFI) providing granular specifics.
+
+Continuing the discussion, Sengupta argued that the current ecosystem lacks sufficient information to support regulation. “I don’t think there’s enough clarity within the fintech sector and across different stakeholders about how the regulations apply to AI use in the industry”, she explained. Before deciding between self-regulation or guiding principles, the regulator must first focus on the current use cases, how they are applicable, and later undertake a risk classification for different players (big and small), stakeholders, and consumers, including the market, Sengupta suggested.
+
+Agreeing with this concern over informational gaps, Chaudhari noted that industry players share the same sentiment. She further advocated for mapping risks and identifying where current regulations fall short. “Before any legislative regulatory action, regulators should focus on basic gap assessments. Following this, they should delve into solutions like self-regulation, a regulatory sandbox, or even following a Singapore-like model. However, first they should determine the problem they are solving”, Chaudhari concluded.
+
+Along the same lines, Nandini Chami, Deputy Director at IT For Change, recommended that the RBI could start by preparing a robust committee report. “This can include aspects like the statement of objects and purpose, that precede any guidelines”, Chami stated.
+
+Adding another layer to the discussion, Anand Venkatanarayanan, CTO and Co-Founder of DeepStrat, questioned the RBI’s technical competence.
+
+“Historically, the RBI has not always been a very tech-understanding organisation. I don’t think they have the technological competence to understand and regulate AI, despite having the mandate to regulate finance. So, I believe they should stay out of this”, he remarked.
+
+Countering this, Sengupta argued that technologists often enter sectors they have limited understanding of—such as finance, healthcare, and public health. “So, I believe the regulator then has more of an onus to regulate this than technologists,” she concluded.
+
+Watch the full video here:
+
+This discussion is organised with support from CRED, PhonePe, RazorPay and in partnership with HasGeek, Sahamati Labs, Aapti Institute and IT For Change.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

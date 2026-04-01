@@ -1,0 +1,27 @@
+Update (16th April 2018): According to a report on Livemint , WhatsApp has clarified its data privacy policy in India after it was reported that it shares its users’ payments data with parent company Facebook.
+
+âFacebook does not use WhatsApp payment information for commercial purposes, it simply helps pass the necessary payment information to the bank partner and NPCI. In some cases, we may share limited data to help provide customer support to you or keep payments safe and secure,â WhatsApp said.
+
+Original story (10 April 2018): WhatsApp, whose entry into the UPI payments space has been far from smooth , has said it is sharing critical user data like mobile number, Virtual Payment Address (VPA) and even the user’s UPI PIN with third parties including parent company Facebook.
+
+First reported by Livemint , the policies in WhatsApp’s Payments Privacy Policy says, âWe share information with third-party providers and services to help us operate and improve Payments… To send payment instructions to PSPs (payment service providers), maintain your transaction history, provide customer support, and keep our Services safe and secure, including to detect, prevent, or otherwise address fraud, safety, security, abuse, or other misconduct, we share information we collect under this Payments Privacy Policy with third-party service providers including Facebook ,â
+
+â To provide Payments to you, we share information with third-party services including PSPs, such as your mobile phone number, registration information, device identifiers, VPAs (virtual payments addresses), the senderâs UPI PIN, and payment amount ,â it adds.
+
+While any payment information being shared with third parties is concerning, particularly worrying is the fact that WhatsApp has the ability to share critical information like a user’s UPI PIN, phone number and VPA. This is further compounded by WhatsApp choosing to share all this information with its parent company Facebook. Facebook has been reeling under the revelation that around 87 million users’ data was access by British political firm Cambridge Analytica without the said users’ consent.
+
+The Livemint report says that according to the National Payments Corporation of India (NPCI), the banks associated with third-party payment apps like WhatsApp and PhonePe need to get exclusive permission from NPCI before they share customer data. But it is unclear if that allows for sharing of data as sensitive as a user’s UPI pin.
+
+WhatsApp launched its UPI-powered payments service in India in February to some anger over its lack of interoperability and alleged disruption of an âopenâ system. (The openness of UPI is up for debate.)
+
+Following the launch, incumbent payment services in India felt WhatsApp was playing by its own rules. Most vocal among them was the PayTM CEO, Vijay Shekhar Sharma. In an interview with CNBC Sharma said, âWhatsApp is killing Indiaâs âbeautiful, open UPI systemâ, and that it has gotten preferential access to UPI. He says that âit does not allow transactions to non-WhatsApp UPI handles, UPI handles created via other apps, does not include passwords and logins, and QR code scanning. Everyone else has 3 factors of authentication: login, password and then UPI pin. WhatsApp doesnât have login and password.â
+
+WhatsApp has since remedied some of these concerns by adding support for BharatQR and interoperability with other UPI apps.
+
+The National Payments Corporation of India (NPCI) then released a statement responding to the controversy where they said the WhatsApp rollout was a âbeta launch with a limited user base of 1 million and low per transaction limit.â
+
+This was the first we heard of âbeta rolloutâ for any UPI application. While features have been added post-launch, the basic framework has been in place for launches by other players (Tez or PhonePe for example). A one million user rollout for a financial feature with real transactions being termed âbetaâ soundsâ¦ unconvincing. There is no explicit mention of the âlow transaction limitâ on the app. With over a 200 million monthly active user base we have serious doubts that the feature can only be accessed by only a million users, so when is the âbeta launchâ coming to an end and when are we getting a stable release?
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

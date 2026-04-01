@@ -1,0 +1,113 @@
+By Anand Venkatanarayanan, Kārana
+
+The State of Aadhaar Report (SOAR; henceforth “Report”) by IDinsight (funded by Omidyar Network ) was released on 17th May 2018. Herewith we examine the claims and recommendations in the Report to determine if it has indeed added new insights and nuances to the debate on Aadhaar.
+
+Cost of delivering ID in Peru’s remote Amazon areas is $80/person whereas it is $5/person in cities. In India, enrolment agencies covered the capex and Govt paid $1 for every successful enrolment – creating incentive to reach out to remote areas to recover capex cost #CGDTalks pic.twitter.com/OsE5PB5WQx
+
+— Subhashish Bhadra (@Subhashish30) October 13, 2017
+
+There are a few data points the survey arrives at:
+
+Let us just analyze the problem of bribery first. Bribery has two distinct components:
+
+The monetary value was not asked in the survey. We do not know why such an obvious and important question was missed.
+
+If we assume an average bribe of ₹100 and take the average of the bribery demands from the three states (9%+24%+5.7%)/3 ≈ 13% , that suggests 13% of 120 crore (1.2 billion residents) paid ₹1,560 crores in bribes, a non-trivial sum.
+
+Further, the survey did not ask the following questions:
+
+These questions are important as it allows us to understand the cost the project imposed on residents. However, no such attempts were made, even though IDinsight’s funders seem to think that the cost is just about ₹9,000 crores, when in reality if all such factors are considered it could be as high as ₹35,000 crores .
+
+Cost of delivering ID in Peru’s remote Amazon areas is $80/person whereas it is $5/person in cities. In India, enrolment agencies covered the capex and Govt paid $1 for every successful enrolment – creating incentive to reach out to remote areas to recover capex cost #CGDTalks pic.twitter.com/OsE5PB5WQx
+
+— Subhashish Bhadra (@Subhashish30) October 13, 2017
+
+The Aadhaar enrolment infrastructure has largely collapsed from 2016 onwards, because of rampant bribery and UIDAI’s subsequent decision to shut down 50,000 private operators and even government entities like CSC . This resulted in enrolment failures accelerating, as shown below (see link for calculations).
+
+Hence the questionnaire should have contained the following questions:
+
+The last question is of supreme importance because of rampant use of cracked ECMP (Enrolment Client Multi-Platform) software.
+
+The difficulty faced by residents in AP (9%), Rajasthan (9.8%) and WB (11.6%), when scaled to a national level will be around 10.8–13.92 crore (108–132.9 million) “genuine people”. By only pointing out these lower percentage figures without projecting to a national level, the survey made a crucial omission. Further it also failed to distinguish between enrolment failures after submission to the CIDR (for deduplication and capture quality control) and before submission (rejected by the enrolment software and measured as 0.3%), but still went ahead and said “ exclusion from Aadhaar is not only low, but also not systematically biased against the poor or vulnerable ”.
+
+It also ignored critical questions on enrolment packets that were never submitted to the CIDR. Given that cracked versions of ECMP allowed standalone generation of an EID, and given the widespread use of physical copies of Aadhaar card or EID slip for availing various services, a retained enrolment packet of a head of family is priceless for committing fraud.
+
+The survey only focuses on demographic errors between the Voter ID database and the Aadhaar database and produces a top line error rate of 8%, 4.8%, 12.2%. However, it conveniently forgets its own data source from UIDAI about how wide these errors are: in the range of 20–35%.
+
+Comparing with Voter ID rolls for demographic errors is an exercise in obfuscation, because linking Aadhaar with Voter IDs is not mandatory (yet), but linking for Aadhaar Act Section 7 benefits is. That means every such demographic error is a denial of service for beneficiaries in all the schemes covered under Section 7.
+
+In effect, the survey chose a specific methodology that is particularly irrelevant for measuring exclusion, but had the advantage of showing a reduced headline error rate (8–12.2%) than the already acknowledged error rate (20–35%).
+
+The Report fails to mention the widespread use of cracked ECMP software, which was created for the purpose of solving the update problem. It also fails to mention the Gujarat biometric fraud case, where bank officials’ fingerprints were used for making updates.
+
+Here we have a curious recommendation for a problem that is widely known to exist, and for which solutions already exist (albeit illegal ones), but which the UIDAI continues to deny — and probably cannot fix because of the design choices they made. Yet, none of these are discussed or even mentioned in the report.
+
+The survey confirms an existing observation ( here , here and here ) that Aadhaar authentication is costly at scale, and use of photocopies is a means to avoid the authentication cost. Photocopies of Aadhaar cards, accepted for opening bank accounts, are also a primary misuse vector for bank fraud.
+
+The Report curiously does not acknowledge or even discuss the possibilities of misuse, while the evidence existed as far back as October 2015 . Besides, it again skips important questions on Aadhaar linking with banks, such as:
+
+Or for the survey designer:
+
+While the survey asks about account usage and DBT (Direct Benefit Transfer), and notes the poor penetration of Micro ATMs and Banking Correspondents network, it avoids getting into detail on the role of Aadhaar in DBT.
+
+However, it recommends newer delivery channels (mobile financial services) without considering what works or doesn’t in the current scheme of things.
+
+The benefits of APBS in disbursing DBTs compared with other electronic payment mechanisms, such as National Electronics Funds Transfer System (NEFT), are unclear. (Page 21 of the State of Aadhaar Report)
+
+Consolidating all DBT using Aadhaar Payment Bridge System (APBS) instead of NEFT was supposed to further financial inclusion:
+
+The claims of Aadhaar for financial inclusion in DBT may be tested with two data sources that are unfortunately not available to the public:
+
+Switching those who use Micro-ATMs to mobile banking is a non-starter, since the primary purpose of Micro-ATMs is withdrawal with an Aadhaar number and fingerprint. A phone can’t dispense cash .
+
+The growing incidence of cybercrimes is an indicator that even an educated population will fall prey. It is unclear if the Report’s recommendation is suggesting that Micro-ATMs have failed. It is also unclear if the recommendation has considered cybercrime risks, and whether benefits exceed harms.
+
+The sustainability of Banking Correspondents and Micro ATMs, the cost of cash (to banks, agents and beneficiaries), access to cash, access to payment systems, and payment infrastructure penetration, should all be understood deeply both at the systemic level and in the reflections of people using them, before proposing a new delivery channel. It is unfortunate that the Report despite being based on a survey makes such an unsubstantiated recommendation.
+
+Here are some questions that could have been asked to respondents to understand perceptions around digital financial services:
+
+The Report claims that biometric authentication mostly works, using the following dataset:
+
+Surprisingly, it fails to ask the following questions:
+
+It also fails to explore an even more interesting question: What is the number of people who are impacted because of Aadhaar if the figures are scaled up nationally?
+
+The Report makes the following claims w.r.t. Aadhaar and issues in PDS.
+
+Connectivity issues with a POS (Point of Sale) machine and the failure to authenticate any member of a household (since rations are issued to households, not individuals) are side effects of the dependence on online biometric authentication. Surprisingly, they have not been considered in the headline figure of 2.2% exclusion, as it increases the total number of individuals impacted from 12 lakh(Page 9, SOA report) to 19 lakh (120k to 190k).
+
+Further, the Report also fails to point out that the primary claim of Aadhaar is that dealers can’t route rations to fake/ghost beneficiaries while claiming non-availability of rations. Since dealers can continue to maintain that rations are not available, to justify dispensing reduced quantities, it means the raison d’être of Aadhaar in PDS has been severely weakened.
+
+In effect, Aadhaar has not solved any of the existing problems in PDS, but has added new forms of exclusion. Surprisingly, in spite of the data showing that this is indeed the case, the Report spins it as:
+
+Exclusion from food ration (PDS) due to Aadhaar-related factors is significant, but lower than non-Aadhaar factors
+
+Policy decisions are not made via opinion polls with a sample size of 3000. Surveys are not a referendum either. Further, the Report may have confused stated preferences with revealed preferences , a novice error in econometrics. For instance, consider the following questionnaire:
+
+The answers will be very different based on the questions asked. Participants answers are only valuable if they have skin in the game, and the only way to know would be if they, or someone close to them, has faced issues because of mandatory Aadhaar linking with services.
+
+It is difficult to ascertain if the survey does take this into account at all. The only way to know it for sure, would be to share the raw questionnaire, results and also the reasons, why those particular questions were chosen.
+
+Approximately 87 percent of people approved of the government’s mandatory use of Aadhaar, while 76.9 percent approved Aadhaar’s mandatory use by the private sector.
+
+While the report claims approval for mobile linking, little has been done to understand from people on the ground about awareness of identity theft, frauds and other risks enabled by Aadhaar, all of which gets exponentially higher when linked with mobile (especially when awareness of OTP as authentication factor with the surveyed population is very low).
+
+The Report makes no mention of surveying people about knowledge of frauds and the precautions they generally take, while making a sweeping statement on building strong data protection measures and responsible consent mechanisms regarding the gathering or sharing individuals’ data.
+
+If the participants were made aware of the fact that the largest DBT subsidy theft, amounting to ₹190 crore, was the result of enforced mobile linking, perhaps their answers would have been very different. Here is a partial list of Aadhaar-enabled fraud collated from Google search results.
+
+State of Aadhaar’s document library on their website had always been a good reference on various aspects of the Aadhaar project such as notifications, acts, press releases etc. So it is curious it has been taken down. See archived version here .
+
+It makes one wonder if SOA is following the footsteps of UIDAI, which has a history of deleting documentary evidence from its website when faced with criticism, without understanding that the Internet never forgets. Perhaps the true state of Aadhaar is in the hiding of inconvenient evidence?
+
+Let us recap the flaws in the State of Aadhaar Report (SOAR) so far:
+
+The report also fails to acknowledge existing discussions about the thoroughly debunked savings claim by the government on Aadhaar. It ignores a long running debate with evidence that on LPG, the fiscal impact of using Aadhaar is negative for the exchequer , and instead makes the strange claim that the evidence on Aadhaar’s specific contribution to deletion of non-genuine beneficiaries is not available.
+
+In conclusion, the quality of the report is disappointing. It presents ignorance as insight and errors as nuance. The fact that it has been funded by Omidyar Network only makes the disappointment deeper. Clearly, good quality scholarship and funding are not correlated.
+
+This article first appeared on Kārana , an independent blog that reports on Aadhaar.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

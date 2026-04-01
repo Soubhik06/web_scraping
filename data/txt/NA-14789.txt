@@ -1,0 +1,47 @@
+“Manus is joining Meta,” declared Manus, which is a Singapore-based AI agent company. Meanwhile, Meta’s parallel announcement read that: “We will continue to operate and sell the Manus service, as well as integrate it into our products.”
+
+This means that unlike a few AI companies that were shut down after Meta’s acquisition, the global tech giant does not plan to wind down Manus. Meta intends to keep its services running as a standalone offering, and also embed its capabilities into Meta’s own products.
+
+For context, Manus builds general purpose AI agents that can perform autonomous tasks based on user prompts, and the Meta acquisition comes shortly after Manus announced that it had crossed $100 million in Annual Recurring Revenue (ARR) since its launch in March 2025.
+
+Unlike conversation-driven OpenAI’s ChatGPT and Google’s Gemini, Manus LM executes tasks based on user prompts. China-based Butterfly Effect originally developed Manus and officially launched it in March 2025.
+
+Since its launch, Manus AI has supported browser-level operating capabilities. At launch in early March 2025, Manus operated through a cloud-based virtual browser : a sandboxed, isolated environment used for tasks such as web-based research, data analysis, and website creation. This setup kept execution of the user prompts limited only to interaction within the cloud-based virtual browser environment.
+
+However in November 2025, the company shifted to a local browser-level with the introduction of the Manus Browser Operator: which is an extension of Chromium-based browsers that allow the AI agent to work directly inside the user’s existing local browser.
+
+The change meant Manus shifted from merely a remote execution model to an AI-driven agent embedded in the user’s live browsing environment. Importantly, this can enable more context awareness and more direct interaction with more real-world workflows.
+
+In November, Manus also integrated payments from Stripe, an API-based payment services company. Elsewhere, they launched online learning courses that can enable users to learn how to use Manus across various use cases.
+
+AI-driven agents that are designed to give less agency to users will always have a higher degree of risk. For instance, several independent cybersecurity researchers at Brave Software have flagged security vulnerabilities of agentic AI browsers. After testing multiple AI-powered browsers, they said that indirect prompt injection is a systemic risk across agentic AI browsers rather than an isolated vulnerability.
+
+Researchers also demonstrated how attackers can embed malicious instructions in webpages, navigation flows, or even screenshots using near-invisible text, prompting AI assistants to perform harmful actions, especially if the user is logged in with credentials.
+
+Similarly, comparing the issue to scams and social engineering attacks that persist despite continuous security improvements, OpenAI has also acknowledged that prompt injections are unlikely to be fully eliminated. For some context, OpenAI has also launched a separate agentic AI browser called Atlas, furthering the new browser wars triggered by AI and agentic capabilities.
+
+However, addressing security and data privacy issues, Manus assured users that it doesn’t have access to their passwords during local browser-level interactions, saying that: “Manus cannot access your passwords—all authentication remains in your local browser.” It also claims that the data stored in the sandboxed environment is automatically deleted within seven days for free users, and 14 days for paid users.
+
+Recently, in an attempt to control the flow of American money into the Chinese-owned tech sector, US President Donald Trump signed the National Defence Authorization Act that restricts US investment in Chinese tech companies.
+
+And while Manus is currently based out of Singapore, it was originally based out China. After receiving some traction and gaining popularity, the AI agent company moved its headquarters to Singapore and removed all the content from its Chinese social media platforms.
+
+Without addressing this recent development, a Meta spokesperson said that, “There will be no continuing Chinese ownership interests in Manus AI following the transaction, and Manus AI will discontinue its services and operations in China.”
+
+Meanwhile earlier this year, a whistleblower by the name of Sarah Wynn-Williams, claimed that Facebook (now Meta) had operations in China from 2014 without the knowledge of the US government or the general public. Interestingly, she has written a book which details her experiences while she was an employee working at Facebook.
+
+Facebook, now rebranded as Meta , has acquired a plethora of companies since its inception. Among them, WhatsApp, Instagram, Giphy, Oculus VR (which became Meta Quest) are some popular acquisitions.
+
+As per Tracxn’s list of Meta acquisitions since 2021, the Mark Zuckerberg-led company did not acquire any companies in 2023 and 2024. However, Meta resumed acquisitions in 2025 and bought all AI-related companies.
+
+In September 2025, Meta acquired Rivos , a US-based semiconductor company, which is still operating individually. However, Meta’s recent acquired company Play AI is going to discontinue its services soon. For context, Play AI is an AI-voice based company that can build conversational voice models with abilities to clone voices and accents. At the time of writing, a disclaimer on the homepage reads, “We will be winding down all services on December 31, 2025.”
+
+Similarly, another US-based AI audio-related company, namely WaveForms AI’s URL remains inaccessible at the time of writing. Meta may have decided to discontinue the product after its acquisition .
+
+To explain, it is an audio large language model (LLM) research and product company aiming to solve the Speech Turing Test . Another such acquisition is Limitless AI, which is an AI-powered pendant that can record live conversations. The homepage of this company reads , “Limitless has been acquired by Meta” and says that they are discontinuing their services and joining Meta’s “vision to bring personal superintelligence to everyone”.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

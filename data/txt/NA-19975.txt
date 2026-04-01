@@ -1,0 +1,30 @@
+SUBREDDIT: r/india
+TITLE: PSA: Amex India may have exposed database with "sensitive data"
+DATE: 2018-10-25
+SCORE: 25
+URL: https://www.reddit.com/r/india/comments/9r8vu8/psa_amex_india_may_have_exposed_database_with/
+
+--- POST TEXT ---
+
+**Update: 2 million+ customers' Aadhaar, PAN, names, emails, addresses, relatives' names were available**
+
+No updates from Amex India yet; but if you are a customer, you should probably give them a call.
+
+Here's the tweet thread by Bob Diachenko, Director of Cyber Risk Research, Hacken.io.
+
+**[BD]** Seems like @AmexIndia exposed its #MongoDB for a while, with some really sensitive data (base64 encrypted). Now secured (just when I was preparing responsible disclosure), but question remains how long it was open. Found with @binaryedgeio engine.
+
+**[Banbreach]** Were they leaking customer info and/or tx records?
+
+**[BD]** In short - yes. aadhar / names / emails / pan / addresses / relatives names. Also, access details to this form
+
+**[Banbreach]** So, you could see the column headers (from which you'd know PAN/email etc. were being leaked), but not the records?
+
+**[BD]** Yes (but some data was in plain text). Looks like salted Base64 to me. Again, database is now secured, I'm referring to samples that I've taken while it was online and I was about to send responsible disclosure.
+
+**[Banbreach]** Wow. How many records? Was the data specific to any state/region or was it spread out all over the country? Did you hear back from Amex?
+
+**[BD]** one of the collections had as much as 2,332,115 records.
+
+Edit: updates from Mr. Diachenko.
+Edit #2: Add more updates, reformatted the post

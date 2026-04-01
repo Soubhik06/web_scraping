@@ -1,0 +1,17 @@
+SUBREDDIT: r/india
+TITLE: Do you guys love memorizing 16 digit card numbers every time you make a payment instead of just inputting the CVV? RBI has you covered!
+DATE: 2021-08-20
+SCORE: 35
+URL: https://www.reddit.com/r/india/comments/p7w8fn/do_you_guys_love_memorizing_16_digit_card_numbers/
+
+--- POST TEXT ---
+
+https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-against-dropping-card-storage-clause-in-new-rules/articleshow/85473789.cms
+
+"Under the new norms, millions of cardholders -- both debit and credit -- making payments online in 2022 may have to enter their 16-digit card numbers every time they make a payment online as opposed to just authenticating these transactions through the CVV"
+
+RBI opposes this on the grounds of third party vendors storing your card data and it being prone to breach (if only there was a Data Protection Bill or something that needed to be passed).
+
+Of course, if RBI does this, people, especially elderly, will try to use other payment methods that are easier to remember, like UPI. Which would be great if UPI didn't have [failure rates](https://economictimes.indiatimes.com/tech/technology/surging-upi-failure-rates-worry-banks/articleshow/78779204.cms?from=mdr) that don't even allow you to get refunds in some cases (everyone who uses UPI regularly will experience failure every few days - a rate you NEVER face with cards) or [network transaction limits](https://inc42.com/buzz/all-you-need-to-know-about-npcis-30-cap-on-upi-transactions/) that penalise you for using the most popular UPI apps like Google Pay or PhonePe.
+
+If there was a gold medal for unnecessary regulation India would win it every year and all other countries would just get relegated from the league . At which point India would probably introduce a regulation to stop over regulation since we apparently have a problem with being effective at anything.

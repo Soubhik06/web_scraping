@@ -1,0 +1,21 @@
+The Android malware attacking Indian taxpayers’ SMS inboxes by impersonating the Income Tax department has “reportedly returned” with heightened functionalities, reported Hindustan Times . Drinik 2.0 loads the official Income Tax website, bypassing anti-virus alarms on the device. It then requests the user to enable certain permissions—after which it records all activities performed on the device, such as keystrokes, device biometric recording, keylogging, and screen activity.  It can also steal One Time Passwords sent over SMS.
+
+Drinik is used to steal a victim’s banking credentials and perform transactions, leading to a “virtual bank account takeover”, said Dhanalakshmi P.K., Senior Director, Malware and Intelligence Research at Cyble, a “global threat intelligence SaaS provider” that flagged the virus’s return a few weeks ago.
+
+CERT-In first alerted citizens on the malware in September 2021. Victims were targeted through a “smishing” campaign—or phishing via SMS—where they received fake messages from the Income Tax department offering refunds for their paid income tax. Customers of 27 banks had already been targeted by the malware when the alert was issued.
+
+Why it matters : Cyble’s study indicates that only citizens with income tax accounts are targeted, suggesting that the threat actor behind the attack has access to the account data of Indian taxpayers, reports the Hindustan Times . With cyberattacks against Indian citizens on the rise , establishing a robust data protection and national cybersecurity regime can help protect their interests.
+
+Who is targeted? : 18 Indian banks are explicitly listed in the malware’s APK.
+
+How is information stolen? : Users are sent a link to the official Income Tax department website by SMS. Once the user is on the site, Drinik triggers a dialogue box seeking user permissions for various functions. Victims grant the permissions, thinking these are necessary to retrieve a refund—this is when Drink begins screen recording and logging all the user’s actions on their device. Drinik also infects the call screening feature by blocking incoming calls the user may receive for “verification purposes”.
+
+Once logged-in via the official page, the user is redirected to a fake income tax website. To apply for the fake refund, victims are instructed to enter their income tax account information, net banking log-in, PAN and Aadhaar details, and credit or debit card information.
+
+All this stolen information is sent to a Command and Control server. Cyble’s investigation indicates that the server identified in last year’s attack uses the same IP, suggesting that a single threat actor is behind both attacks. The threat actor’s identity is still being investigated by the firm.
+
+Since September 2021, two more Drinik variants cropped up before the one identified in October by Cyble. A version from February harvests credentials via phishing, abuses accessibility features, screen records, key logs, and downloads an APK. The version identified in August harvests credentials via the income tax page and performs an overlay attack, alongside the functions of the version released in February.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,25 @@
+The Indian Minister of Communications, Jyotiraditya Scindia, launched the ‘International Incoming Spoofed Calls Prevention System’ on October 22, 2024. According to the press release , the system identifies and blocks incoming international calls posing as Indian phone numbers.
+
+The press release notes that cybercriminals are using Indian numbers starting with (+91) to conduct scams that originate abroad by manipulating Calling Line Identities (CLI).
+
+The Department of Telecommunications (DoT) links these spoofed calls to financial scams and impersonation of government officials. Threats have included warnings of disconnection of mobile numbers by DoT/TRAI officials, fake digital arrests, drug trafficking in couriers, and arrests in sex rackets, among others.
+
+In response, the DoT and Telecom Service Providers (TSPs) have developed this system. Since becoming operational, the system has reportedly blocked approximately 1.35 crore spoofed calls within the first 24 hours. Earlier in May, DoT asked TSPs to block incoming international spoofed calls displaying Indian mobile numbers, which were misused in fake digital arrests, FedEx scams etc.
+
+The press release does not elaborate on how the ‘International Incoming Spoofed Calls Prevention System’ is used. It focuses on the system’s purpose and effectiveness in blocking spoofed calls but does not detail user interaction.
+
+When an Indian subscriber roams abroad, their calls use the Indian TSPs’ international long-distance network. The system checks whether the caller is a genuine subscriber; if the caller is not, the system blocks it. Additionally, the DoT flagged 300,000 Indian SIMs linked to cybercrimes originating from Southeast Asia. The department has blocked 295,000 of these Indian SIMS for failing re-verification, reported Hindustan Times .
+
+In summary, the system operates at the Telecom Service Provider (TSP) level, identifying and blocking spoofed calls automatically, without requiring any action from users.
+
+There are potential issues with the new spoof call prevention systems.
+
+In July, the Ministry of Finance announced Rs. 38.76 crore allocation to the Department of Telecommunications (DoT) for the establishment of the Centralised International Out Roamer (CIOR). It was relabelled to ‘International Incoming Spoofed Calls Prevention System’.
+
+Additionally, funding for the Digital Intelligence Unit (DIU), a project aimed at investigating the fraudulent use of telecom resources, including scams and spam calls and messages, was increased to Rs. 85 crore (budget estimate for FY25) from Rs. 50 crore (revised estimate for FY24).
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

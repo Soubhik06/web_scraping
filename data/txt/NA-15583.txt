@@ -1,0 +1,31 @@
+MediaNama’s Take : India’s proposed Digital Privacy Data Protection Act, 2023 , which is awaiting rules finalisation and official notification, mandates that all websites and online services collecting or processing personal data must verify the age of their users. If a user is identified as being under 18, the company is required to meet additional obligations, such as obtaining verifiable parental consent and refraining from profiling minors for targeted advertising.
+
+However, the proposal has drawn significant criticism for its potential privacy implications , as there might not be a perfect system in place that ensures the accuracy of the verification method, protects the privacy and security of users, and adheres to data minimisation principles, as pointed out by the Commission nationale de l’informatique et des libertés (CNIL) , the French-based data protection commission. In practice, enforcing age verification could compel companies to collect more personal data than they otherwise would, paradoxically increasing the risk to user privacy and undermining the very goal of data protection.
+
+Additionally, as witnessed in the UK after it rolled out the Online Safety Act, a strict and arbitrary age-gating mechanism can potentially result in censorship, not only diluting the internet experience but also preventing children from accessing educational content that may be falsely or intentionally flagged as adult content.
+
+Following its July release of the age verification mechanism, the European Commission has now released the second version of its initial blueprint. The updated framework introduces additional age verification methods, allowing users to verify their age through passports, identity cards, and digital e-IDs as onboarding tools.
+
+Alongside these new verification options, the Commission has introduced an Application Programming Interface (API)-based approach using the Digital Credentials API. This system integrates directly with various operating systems and browsers to implement the age verification process more seamlessly.
+
+In July 2025, the European Commission released the first version of a standardised age-verification blueprint for its members to help create a user-friendly and privacy-preserving age verification method. Denmark, France, Greece, Italy, and Spain were the first countries to adopt these age verification systems. Additionally, the press release mentioned that market players, such as digital ID providers and social media platforms, could further develop this mechanism.
+
+The Commission also said it is continuing work on the zero-knowledge age verification system, which it announced when releasing the first version of this mechanism, and plans to launch it before the end of the year. In this context, zero-knowledge proofs are cryptographic mechanisms enabling users to verify their age or other eligibility attributes without revealing their personal information, thereby upholding data minimisation principles.
+
+As defined by the Commission in its guidelines for protecting minors on the internet, the Commission introduced “privacy-preserving” methods to allow children to easily prove their age online if they are over 18 when accessing restricted adult content, such as online pornography, without revealing their personal information, not even their exact age.
+
+The guidelines are :
+
+India is actively grappling with the global debate over online safety for children, especially as it prepares to implement the Digital Privacy Data Protection Act, 2023.
+
+In India, Meta’s recent move to align Instagram’s teen safety settings with the PG-13 film rating system marks a major step toward creating a more age-appropriate platform. Under the new “13+ setting,” teens will no longer see sexually suggestive content, strong language, risky stunts, or posts that encourage harmful behaviour. Meta is also deploying AI-based age prediction tools to identify users to protect teen accounts from those who may falsely claim to be adults, signalling a growing consensus among regulators and platforms that age verification is essential for online governance.
+
+This global shift extends beyond India. Countries such as Australia and the United States have moved aggressively to protect children from the harms of social media. Australia is testing age verification systems before potentially banning social media access for users under 16, citing rising evidence of social and psychological harm. In the US , several states have sued Meta, accusing its platforms of fueling a youth mental health crisis. These actions reflect a shared concern among governments that online platforms have failed to protect young users, making regulation unavoidable.
+
+Similarly, the European Union has taken the lead in formalising these measures. The EU’s Digital Services Act requires platforms such as TikTok, X, and Instagram to prevent minors from accessing harmful or illegal content.
+
+In the UK, Ofcom’s new rules under the Online Safety Act of 2023 require companies to design age-appropriate experiences and implement verifiable age checks, particularly for pornographic or harmful material. However, enforcing these protective measures has also exposed a central tension in online content regulation between protection and free expression.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

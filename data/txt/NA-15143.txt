@@ -1,0 +1,55 @@
+On June 17, X (formerly Twitter) user Ujjwal Dimri flagged security vulnerabilities in the 10-minute food delivery app Zing that allowed him complete access to the platform’s backend. The user could see every order ever placed on the app, along with user details like phone numbers and delivery addresses.
+
+“I had write access to the entire database, which meant I could place fake orders, change prices, issue coupons, or even delete users if I wanted to,” he wrote.
+
+was checking out a new 10-minute food delivery startup in gurgaon called Zing Food. one thing led to another, and I ended up with full access to their backend. here's what i found: pic.twitter.com/bOmimzHZ43
+
+Speaking to MediaNama, Ujjwal, who is a fresh college graduate and an intern at Tower Research, stated that the food delivery app’s “janky” User Interface (UI) made him suspicious that they had not put much effort into their backend. He discovered that the app used a data storage platform called Firebase, which was common for startups.
+
+“Firebase has this thing called access rules. You can set who has access to data, who doesn’t have access to it. They had not configured any access rules for their database, and anyone could access it from their PC. I only needed the API key, which was in their app,” Ujjwal said.
+
+“I could see all registered users, all the orders ever placed with the info of the user who placed it, their address, exact order items, the delivery driver’s info, and coupons available to use in the app,” he further explained.
+
+Ujjwal Dimri attributed the vulnerability to the insecure configuration of the food delivery app’s Firebase database. “A lot of apps use Firebase as their backend to store stuff, but it is not secure by default. You need to set up access rules specifically to restrict read/write access. They should have set up the Firebase Admin SDK (Software Development Kit) in their backend for the dashboard. Also, there was no Authentication in the API endpoints, only a Frontend Authentication wall which can be easily bypassed because it’s frontend only,” he said.
+
+The Firebase Admin SDK is a collection of pre-written code that allows app developers to manage users and set up authentication tokens that would prevent anyone from accessing their data. An Application Programming Interface (API) is a mechanism by which two different software systems can communicate with each other and share data, while an API endpoint provides the location of a resource on an API server and helps connect the API client with the resource it is requesting.
+
+Soon after Ujjwal Dimri’s post made the rounds on X, software engineer Jay Vasant tried to access Zing’s backend in his own way. He went to Zing’s website, where he saw that the company used a web development framework called Next.js, which was hosted on Vercel.
+
+figured out how zing can be broken in, and their admin data can be accessed: iterated all of their subdomains, which gave me the following list: if we visit the dashboard, it lands on a page like this, it requires you to login using oauth: well, but only if you're accessing… https://t.co/3WlRvTrG74 pic.twitter.com/wBzKBg23Y5
+
+“Just by looking at their website, I couldn’t figure out anything. Then the next thing I checked was the subdomains they had on top of their domain. There are various tools that I can use to list down what are the subdomains for a particular domain, like passive DNS, certificate transparency logs, and so on, which provide a way to access the subdomains for a particular domain,” he said.
+
+Vasant found a particular subdomain – dashboard.getzing.app – that looked promising to him.
+
+“I went to that domain. I landed on a webpage that had an authentication check, which meant that I can’t visit any of their pages without logging in,” he said. After accessing the webpage’s code through his browser’s developer tools, he found out that the API calls were unauthenticated.
+
+“Just the UI has a login page, but the back-end call doesn’t have any authentication requirement,” Vasant said.
+
+Using network logs, he found an API endpoint that listed all the products on their website. Then he began to search for endpoints that may give him access to customer data.
+
+“For product, they had an endpoint called ‘/product.’ I thought for orders, it might be ‘/orders. That worked. I was actually able to get a list of all the orders on their website,” explained Vasant.
+
+Not just orders, but also important Personally Identifiable Information (PII) about customers, like their delivery addresses, names, and phone numbers. “Anything a customer put on their website, anything that was related to them, was available using that endpoint,” he said.
+
+Vasant stated that most regular users would be unable to find out sensitive customer data the way he did but suggested that the website should hide the data behind authentication.
+
+“The basic principle with respect to security is that anything that is accessible via the public Internet should have some authentication,” he added.
+
+Jay Vasant flagged the vulnerability to Zing’s support email on the Google Play Store. After seeing that the email address no longer worked, he reached out to an employee who fixed the problem and informed him that the food delivery app was shutting down its operations.
+
+Ujjwal Dimri had also flagged the problem to Zing’s customer care contact but decided to post the problem on X after receiving no response.
+
+The subdomain that Vasant used to access the data – dashboard.getzing.app – is no longer operational and returns a code 404 error. MediaNama also checked Zing’s app, which was no longer accepting new logins.
+
+Many Indian apps and platforms have had problems keeping sensitive personal data safe. Last year, MediaNama had covered how LIC’s online portal contained a vulnerability that put the personal information of lakhs of users at risks.
+
+Data breaches and hacks are also quite common, like identity verification platform Signzy, where hackers used malware to extract the data of two of Signzy’s customers and place them for sale on cybercrime forums. Another example would be Star Health , India’s largest health insurance provider, which suffered a breach that put the data of potentially 31 million users for sale on Telegram.
+
+Indian law does place obligations on platforms to secure customer data. Section 43A of the Information Technology Act requires entities to keep sensitive customer data secure. If a lack of reasonable security practices causes harm to any customer, then the platform is liable to pay for the damages. Similarly, the Digital Personal Data Protection Act requires organisations to implement appropriate technical and organisational measures as well as reasonable security safeguards to protect personal data from unauthorised or accidental access.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,15 @@
+The Greater Chennai Corporation’s website leaked over 30,000 people’s personal information through e-passes, security researcher Robert Baptiste said on Twitter. The vulnerability left application forms and emergency movement passes issued by the authorities exposed. Baptiste, known better under his Twitter pseudonym Elliott Alderson, said that over 30,000 reserve volunteers’ data was also exposed. The vulnerability was first spotted by Twitter user KaruppuNerd on May 2.
+
+https://twitter.com/KaruppuNerd/status/1256634832370765825
+
+Baptiste first tweeted about the finding at 6:31pm on May 4, and by 8:18pm , Chennai Corporation fixed the vulnerabilities. No dump of the exposed information has surfaced for the moment.
+
+The issue has been quickly fixed by @chennaicorp . Due to an IDOR, the e-pass were available publicly. Moreover, the Aadhaar numbers were hide in the pdf but not in the pass view. The details of all the volunteers were available too. Kudos to @KaruppuNerd who found these vulns https://t.co/SERtFNHEV2 pic.twitter.com/AJuEDnk7Rx
+
+— Baptiste Robert (@fs0c131y) May 4, 2020
+
+The corporation did not release a statement about the leak. We have reached out to them for more details on how the exposed data was secured, and what further steps they are taking to keep this information safe.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

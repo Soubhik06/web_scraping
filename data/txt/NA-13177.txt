@@ -1,0 +1,57 @@
+MediaNama’s Take: The fact that such only 2.43% cybercrimes reported to the National Cybercrime Reporting Portal (NCRP) ended up as registered FIRs in 2024 brings into question the use of said portal, other than mere data collection. The portal states that law enforcement agencies/ police take action based on the information available in the complaints. Is this then a question of improperly drafted complaints or under-resourced police departments?
+
+To combat the escalating cybercrime threat in India, authorities must streamline the process of converting cybercrime reports into FIRs, ensuring quicker and more transparent registration. Further, strengthening cybersecurity infrastructure across public and private sectors is essential, alongside launching comprehensive public awareness campaigns to educate citizens about common scams and safe online practices. Given the global nature of cybercrime, international cooperation is equally necessary, especially in jurisdictions where these syndicates are based.
+
+What’s The News: Only 2.43% of cybercrimes reported to the NCRP translated into registered FIRs in 2024, revealed a report from the Parliamentary Standing Committee on Home Affairs. The report, which focused on the ramifications of cybercrime, stated that there had been over 2.03 million reports to the NCRP in 2024, with only 49,582 corresponding FIRs. This is despite the fact that cybercrime reports have been increasing drastically every year.
+
+In fact, one sees that even though cybercrime FIRs increased exponentially every year, there has been minimal growth in the proportion of NCRP complaints that make it to FIRs. Between 2023 and 2024, that proportion actually declined by 0.2 percentage points, even as FIRs increased by 17.6%.
+
+In addition, the Citizen Financial Cyber Fraud Reporting and Management System (CFCFRMS) recorded over 1.54 million cases of cyber financial fraud in 2024, with reported financial losses of Rs. 21,181 crore. This marks a 36.28% yearly increase in reported cases and a 182% increase in amounts as compared to 2023.
+
+According to the report, the NCRP received an aggregate of over 5.39 million complaints since its inception on 30th August 2019 to 28th November 2024. While reported incidents from 2021 to 2024 collectively account for a defrauded amount of around Rs. 31,534 crore. Notably, financial cyber crimes formed the largest component of the crime reported, accounting for about 85% of the cases reported on NCRP.
+
+According to the Central Bureau of Investigation (CBI), the scale of cybercriminal operations has expanded beyond individual fraud to fuel organised networks. The investigative agency discovered that traffickers coerced Indian citizens into travelling abroad to commit cybercrimes from “scam factories” in Southeast Asia. These operations included fake loan applications, call centre extortion rackets, and human trafficking schemes funded through cryptocurrency payments.
+
+The Ministry of Electronics and Information Technology (MeitY) stated that criminals employed SIM swaps and header spoofing to impersonate banks, government agencies, and police forces. Criminals would then conduct “digital arrests”, which involved coercing victims to transfer money by fabricating legal threats.
+
+The National Payments Corporation of India (NPCI) also reported increased fraud involving UPI systems, QR codes, and payment gateways, due to compromised interfaces and insufficient customer education.
+
+Criminal networks recruit Indian nationals, primarily unemployed youth with digital and language skills, through job advertisements on Google, Facebook, Instagram and Telegram. These fraudsters offer employment in Southeast Asia, charge travel fees and then coerced recruits into digital fraud operations. Reports have confirmed physical abuse, document confiscation and ransom demands for release.
+
+Criminals then acquire Indian SIM cards through intermediaries operating shell companies, enabling bulk WhatsApp account activation. They courier these devices to overseas scam centres for impersonation fraud. Foreigners have also used foreign SIM cards to target Indian victims, complicating law enforcement traceability.
+
+Fraudsters also recruit Indian citizens via Telegram and WhatsApp to provide bank accounts for laundering proceeds. Account holders receive commissions for allowing fraud funds to pass through their accounts.
+
+Criminals then launder these proceeds through peer-to-peer cryptocurrency transactions, gold purchases, offshore cash withdrawal points and international fintech platforms. These methods enable conversion of illegal gains across multiple jurisdictions while avoiding detection.
+
+The report also mentioned a number of emerging threats, such as Cybercrime-as-a-Service (CaaS) platforms, which provide ready-made tools including ransomware kits, phishing services, deepfake technologies and Distributed Denial of Service (DDoS) attack tools to paying customers. These services allow individuals with minimal technical skills to launch large-scale attacks, lowering barriers for cybercriminals and making crimes more scalable and harder to trace.
+
+Artificial Intelligence, particularly generative models, also enable criminals to mimic voices and faces for fraud. Victims have received video calls from AI-generated voices and images of known contacts, tricking them into transferring funds. These attacks proved difficult to detect and challenged conventional forensic approaches.
+
+Meanwhile, cryptocurrency-based money laundering, dark web marketplaces and Crime-as-a-Service models have amplified cybercrime’s international dimension, according to the report. Southeast Asia in particular has become a testing ground for criminal service economies.
+
+Meanwhile, cloud computing infrastructure has faced growing threats, with CERT-In reporting multiple data breaches at hospitals and universities caused by misconfigured cloud settings or inadequate encryption. Interestingly, most public institutions still lack in-house cybersecurity teams.
+
+In addittion, the expansion of 5G has increased attack vectors exponentially, with criminals potentially hijacking autonomous vehicles, smart homes and connected industrial machines, creating both physical and economic threats.
+
+In its submission, the CBI stated it had created a dedicated Cyber Crime Investigation Division (CCID), with specialised units for crimes such as online child sexual exploitative and abuse material (CSEAM), cyber slavery and international fraud operations. The agency also deployed the Network for Evidence Tracing, Research, and Analysis (NETRA) lab, which supports real-time packet inspection, forensic imaging, memory analysis and malware reverse engineering.
+
+Notably, the CBI has adopted a three-pillar approach targeting financial, technical and human aspects of cybercrime. Financial investigations focus on mule bank accounts, illegal payment gateways and cyber money laundering systems. Technical operations address phishing toolkits, breach data repositories and anonymous routing tools, while human-centred investigations target overseas scam syndicates, traffickers and online exploiters.
+
+The agency has also coordinated nationwide operations like Operation Chakra I to V, which dismantled fraudulent call centres, investment schemes and cryptocurrency laundering networks, among others.
+
+Meanwhile, the National Investigation Agency (NIA) has established the Anti-Cyber Terrorism Division with specialised technological capabilities for digital threat detection and analysis. The division has deployed dark web monitoring systems to uncover illicit networks and extremist communication channels. Threat intelligence gathering is used to identify and assess emerging digital risks through continuous surveillance.
+
+The NIA also maintains a comprehensive database of encrypted messaging applications exploited by terrorist elements. Advanced tools developed by the Defence Research and Development Organisation (DRDO) have enabled monitoring of covert activities across these platforms. The NIA also tracks usage patterns through DRDO’s technological platforms, conducting thorough assessments when new applications emerged.
+
+Furthermore, the NIA’s digital forensics capabilities include Internet Protocol Detail Record (IPDR) analysis to decrypt usage patterns of encrypted applications. The agency also utilises the NETRA platform to capture and analyse data packets from users accessing destination IPs of such applications. In addition, detailed metadata analysis is used to extract critical information including communication frequency, geolocation and timestamps.
+
+The NIA also employs cryptographic hash values such as SHA-256 to ensure digital evidence integrity during transfer and analysis. For context, cryptographic hash function is an equation used to verify data validity. It has many applications, especially with respect to information security.
+
+However, the NIA admitted that it faced challenges with Virtual Private Network (VPN) usage, which route traffic through multiple servers without leaving direct traces. Furthermore, foreign-based encrypted platforms often do not provide user data due to NIA’s jurisdictional limitation over foreign-hosted servers.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

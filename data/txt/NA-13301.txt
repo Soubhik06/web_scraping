@@ -1,0 +1,61 @@
+A recent SEBI-commissioned investor survey of over 90,000 households revealed that 63% of Indian households are aware of at least one securities product, but only 9.5% actually invest. The findings highlight a vast disconnect between market awareness and actual retail investor participation.
+
+The market regulator’s new initiatives — Validated UPI Handles and SEBI Check, aim to close this gap, which has created fertile ground for fraudsters using artificial intelligence (AI) tools, unwanted text messages, and unregistered financial influencers to mislead investors under the guise of “guaranteed returns.”
+
+With SEBI introducing the validated UPI handle mechanism, all payments to SEBI-registered investor-facing intermediaries must now use a UPI ID with a special handle and a visual thumbs-up icon, alerting investors immediately against fraudulent channels. The regulator has also rolled out an accompanying tool, SEBI Check, which will help investors verify an intermediary’s payment channel.
+
+SEBI wants to combat rising online scams with new tech tools, but the first line of defense against investment fraud is responsible investing. The onus also lies with investors to use credible sources, question unrealistic promises, and understand their own financial goals and risk tolerance.
+
+Additionally, investment fraud has multiple layers. For instance, SEBI says it has no regulatory purview over Ponzi schemes targeting gullible investors, placing the responsibility for protecting such investors squarely on state governments.
+
+Then there are large-scale market scams — outside the payments interface. A case in point is the Karvy Stock Broking scam , which came to light in 2019. Karvy Stock Broking Ltd, a registered member of Indian stock exchanges, was found by SEBI to have pledged client shares worth about Rs 2,700 crore as collateral, borrowed loans on these shares, and diverted them to other entities. In the past, SEBI has failed to prevent investors from such large-scale market scams. The new UPI QR code verification mechanism introduced by SEBI will likely prove ineffective against such systemic frauds.
+
+In an effort to safeguard the growing base of retail investors from cyber fraud, the Securities and Exchange Board of India (SEBI) has rolled out a new sub-system of the Unified Payments Interface (UPI), Validated UPI Handles, for the securities market, it said in a circular on October 1, 2025.
+
+Starting this month, the UPI IDs of SEBI-registered investor-facing intermediaries will carry the exclusive “@valid” handle, issued by the National Payments Corporation of India (NPCI), along with category-specific suffixes such as .brk for brokers and .mf for mutual funds. According to the market regulator, this will enable investors to easily identify legitimate entities.
+
+A distinctive “thumbs-up inside a green triangle” icon will appear when making payments through the @valid UPI handle, confirming the authenticity of the transaction. If the icon is absent, it will serve as a warning to investors that they might be making payments to unauthorized entities.
+
+“A specially designed QR code, featuring the “thumbs-up” logo at its centre, enables convenient and error-free transactions. The presence of this QR code assures investors that payments are being made to SEBI-registered intermediaries,” the SEBI circular reads.
+
+To further empower investors, the capital markets regulator has developed a new digital portal called “SEBI Check.” Using this tool, investors — whether making payments through the @valid handles or other modes such as NEFT, RTGS, or IMPS — can independently verify the bank details and UPI IDs of SEBI-registered intermediaries using the entity’s bank account number and IFSC code or @valid UPI ID.
+
+These initiatives come amid rising stock market investment scams , where criminals deceive victims into investing money in fake or deceptive opportunities. These schemes often lure victims through unsolicited messages with links to join WhatsApp or Telegram groups like “VIP Group” or “Free Trading Courses,” promising extraordinarily high returns, sometimes claiming profits 100 times the initial investment, which is virtually impossible.
+
+Fraudsters often create fake profiles on social media platforms portraying themselves as experts in the securities market. In the past , criminals have impersonated SEBI-registered intermediaries, public figures, celebrities, and top executives of government organizations and renowned private companies.
+
+In July, this year, a fake video claiming Prime Minister Narendra Modi launched an investment plan promising Rs 1.25 lakh daily returns on a Rs 21,000 investment went viral on social media. The video, created using AI-based deepfake technology, was meant to defraud the public.
+
+PM Narendra Modi endorsing an investment scheme? Here’s the truth! An AI-generated, morphed advertisement is circulating online, falsely claiming that Prime Minister Narendra Modi is promoting an investment scheme that promises ₹1.5 lakh returns in just one month for an… pic.twitter.com/nS8pDkDnvm
+
+India is witnessing an alarming rise in cyber investment scams, including stock market investment fraud, online trading scams, forex trading schemes, matrimonial investment scams, and cryptocurrency investment frauds.
+
+Speaking to MediaNama, Srikanth Lakshmanan, founder of CashlessConsumer, a collective working on digital payments awareness, said there are multiple layers of investment fraud: “Fake/Ponzi schemes target people with very low financial literacy — SEBI has no purview over these. Then, some brokers invest pooled money but fail to create proper documentation. The DEMAT account holding the funds itself is not in the end investor’s name. This means someone claims to invest in the stock market but makes investments in their own name.”
+
+He added, “Then there are large-scale market scams outside the payments interface — like the Karvy brokerage scam and the NSE Himalayan Yogi case, where SEBI has taken little to no action. The UPI verification only solves the second type of scam and partially the first, and even that requires a lot of user awareness.”
+
+In February, a Reuters report cited Telangana Police alleging that thousands of investors across India lost nearly $100 million in a Ponzi scheme run by Falcon Invoice Discounting. The scheme lured victims into making short-term investments in reputed stocks such as Amazon and Britannia, promising guaranteed returns of up to 22%.
+
+Later, in June this year, SEBI barred former IIFL Securities Director Sanjiv Bhasin and 11 others from participating in the securities market over their alleged involvement in stock manipulation.
+
+Last month, the Reserve Bank of India (RBI) constituted a six-member Payments Regulation Body (PRB), comprising three members from the central government, to oversee the functioning of payment systems in the country. While the RBI formed the PRB, it effectively retained control over the payment systems, contrary to what the Watal Committee Report (2016) had recommended.
+
+“The payments regulatory oversight has long been criticised as opaque and top-down, with no consultative or transparent process since the data localisation mandate. RBI has historically preferred to duck the regulation question, especially concerning big tech and large fintech players, and has consistently pushed the ‘Self-Regulatory Organization’ model. Lack of consensus within the industry has made the SRO model a non-starter. The PRB is a step in the right direction, but it remains to be seen how this new approach will work,” Lakshmanan told MediaNama.
+
+He further emphasised that some investment frauds fall outside the jurisdiction of both the RBI and SEBI: “Chit funds, money lenders, and real-estate investment providers operate outside the formal financial sector. Distinguishing regulated financial players in digital payments is a step forward, but there needs to be effective regulatory oversight, as fraud prevention is a continuous activity.”
+
+The number of unique investors in India has grown to about 134 million, but only 36% possess high or moderate market knowledge, according to SEBI’s recent survey. The regulator’s latest initiatives, including the @valid UPI handles and SEBI Check, are expected to raise awareness, promote responsible investing, and make India’s securities market more inclusive.
+
+With 22% of non-investors expected to enter the market in the next year, government efforts to curb rampant investment fraud are increasingly significant. Speaking at World Investor Week 2025 on October 6, SEBI Chairman Tuhin Kanta Pandey highlighted that rising investment frauds are the core challenge facing the regulator today.
+
+“While digital infrastructure has brought markets to our fingertips, it has also armed fraudsters with new tools to deceive investors. Unsolicited messages, dubious ‘finfluencers,’ and fake trading apps promise the one thing our markets can never offer — guaranteed returns,” Pandey warned.
+
+These measures form part of SEBI’s broader effort to combat rising financial fraud. In April, the regulator instructed its registered entities to comply with TRAI’s latest guidelines and use only the ‘1600’ phone number series for service and transactional calls.
+
+To prevent the misuse of client funds by intermediaries, SEBI has made the direct payout of securities to clients’ demat accounts mandatory. It has also introduced a new framework to enable the safer participation of retail investors in algorithmic trading through brokers. Additionally, to enhance investor protection, SEBI has mandated an ASBA-like facility in the secondary market.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

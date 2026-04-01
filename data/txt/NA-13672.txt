@@ -1,0 +1,45 @@
+HDFC Bank said that its information technology or digital infrastructure does not have server capacity issues and that each of the five technical outages the bank has faced in recent years are fundamentally different. During a recent earnings call for the banks’ fourth quarter results, the banks’ management also said that the Reserve Bank of India (RBI) mandated third-party IT audit is in its final stages.
+
+The five outages in the last 28 months include glitches or downtime in the net banking and mobile banking platform. In November last year, there was unexpected outage at one of the banks’ data centers in Navi Mumbai which left customers in the dark for a few days. In March this year, technical issues led to customers complaining that they could not access the banks’ digital banking platforms.
+
+HDFC Bank has many accolades to its name. It is the largest private bank in the country, has a market cap of over Rs 7 lakh crore, historically low bad loans, over Rs 13 lakh crore in deposits , over Rs 11 lakh crore in loan disbursements, more than 5,000 branches and over 56 million customers . It is also one of the most digitised banks in the country, with 95% of its customers engaging through the web or mobile. But that last bit has recently run into trouble.
+
+When the power outage issue occurred, the RBI imposed business sanctions on HDFC Bank. This was a break from the central bank’s traditional practice of imposing monetary penalties on regulated entities for regulatory violations or poor business practices. So far HDFC Bank is the only bank to have faced such sanctions from the regulator, despite the fact that many other prominent banks face similar technical outages routinely .
+
+In the weeks following the power outage incident and imposition of business sanctions, the RBI also appointed an external audit firm to conduct a special audit of the bank’s entire IT infrastructure. “ The audit by independent third party is in the final stages, and we’ll update further as we get to know more from the regulators,” Srinivasan Vaidyanathan, Chief Financial Officer, HDFC Bank told analysts.
+
+In a letter to employees, Sashidhar Jagdishan, HDFC Bank’s new chief executive officer, explained the root causes behind each of the outages. MediaNama has seen a copy of the letter dated April 19, 2021. He said that the bank is working closely with the regulators to overcome the current situation.
+
+Jagdishan also outlined four specific initiatives the bank is working on:
+
+Jagdishan added that as the bank transforms itself and rebuilds itself for a digital-first wold, there will sometimes be pain and outages beyond its control. “We must doubly resolve to reach out proactively to our customers / stakeholders and explain the path that we are traversing to make their experience with us smoother, faster and better,” he said.
+
+Given the scale at which the bank operates and that 95% of its customers are constantly logging in and out of the net or mobile banking platforms, analysts asked the banks’ management whether the outages were due to excessive transaction volumes hitting their servers. In response, Vaidyanathan said that the technical outages or downtimes that the bank has been facing in the recent past “had nothing to do with capacity” and were “disparate events”
+
+With regards to the incidents in March this year, Vaidyanathan said that it was an intermittent issue on net and mobile banking that occurred due to a server hardware component failure, and has no correlation with any capacity issues. “On net banking, mobile banking, quite a few users closed their browsers or quit their app without logging out. The back-end system monitors this and clears the inactive sessions periodically. The hardware failure impacted the session clearance,” he said. However, once these inactive logs were cleared users were able to login and carry out transactions again,” he said.
+
+The bank’s management said that the banks’ server capacity is also demonstrated by the fact that there was a dramatic increase in the number of transactions among the banks’ large and mid corporate clients during the last three working days of the year. The bank witnessed a 93% increase in transactions during the last few days of the financial year, where there was “no capacity constraint”, Vaidyanathan said.
+
+He said that despite these issues, the bank added 7 million customers in the last financial year, which shows that customers have a preference for the banks’ services and digital platforms.
+
+When the RBI imposed business sanctions on HDFC Bank, it told the bank to temporarily stop sourcing new credit card customers. Vaidyanathan said that the impact of the sacntions is mainly on new employees in corporates and new corporate clients who have just on-boarded themselves. In terms of spending on credit cards issued by the bank, HDFC Bank has a 30% market share whereas on the acquiring side it has a 50% market share, he said.
+
+“ This loss of new customers can normally be made up within a few quarters of stoppage being lifted, since the bank continues to source liability customers, who will be pre-approved. About three-fourths of our sourcing comes from existing customers of the bank. In the meantime, the focus of all the channels and feet on street is on engaging with the existing card customers…,” Vaidyanathan said. This will boost the quantum of active cards, improve card dynamics and portfolio quality, he added.
+
+In January, the bank’s management told analysts that it had put in place strategic plans to transform the bank in the coming years. These plans had the consent of the RBI and would be executed over the coming months alongside regulatory supervision.
+
+At the time, Vaidyanathan told analysts that the bank had put in place several action plans from strengthening disaster recovery, recovery point, recovery time, automating the orchestration tools to get on to disaster recovery side or improving architectural efficiencies, cloud strategy. While some of these strategies are long term and could take 12 to 18 months, others are short term, he said.
+
+During the recent call with analysts, Vaidyanathan said that the bank is focusing on the design and development aspects of its digital operations. The bank is partnering with the likes of Oracle and other partners to build more capacities within its core systems. This would ensure that they are always performing and scalable, he said.
+
+“ While we continue to make good progress on our plans short, medium, long-term, addressing various matters, like many other things we set higher standards. It broadly covers areas of security enhancements, disaster recovery, resiliency, optimizing both recovery time and the recovery point, automation of orchestration, obsolescence management including consolidation of data centers, infrastructure scalability like the cloud strategy, application network monitoring tools…” — Srinivasan Vaidyanathan, Chief Financial Officer, HDFC Bank
+
+Outlining the three-phase strategy, Vaidyanathan said:
+
+The bank’s cloud migration strategy which would take anywhere between 12 to 18 months to execute. It is building application programme interfaces (APIs), or software that connects two applications, to export several functions and data services from its core system, Vaidyanathan said. ” Building customer friendly experience on cloud-native engagement platforms, leveraging data and AML for personalization underwriting risk and fraud control and analytics. We are also building new muscle and infusing new talent, to execute these strategies to establishing a digital factory,” he said.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,21 @@
+The Indian Railways has deployed an anti-bot system with the help of a content delivery network (CDN) service provider in an attempt to curb unauthorised automated ticket bookings.Â The Indian Railways Catering and Tourism Corporation (IRCTC) mentioned that with this new system, it has been able to mitigate all the bot traffic that the ticketing system gets within the first five minutes of Tatkal (which allows you to book tickets for immediate travel). Bot traffic accounts for 50% of all login attempts that IRCTC experiences during the first five minutes of Tatkal.
+
+This development comes after multiple reports came out late last year and in January this year about IRCTC outages. A Local Circles survey reveals that seven out of 10 people who have tried booking tickets via Tatkal in the past 12 months found that tickets become unavailable within one minute of booking opening, and they were waitlisted. People have taken to social media to highlight how the IRCTC site crashes as soon as the time period for Tatkal bookings begins.Â
+
+TATKAL TICKET BOOKING reality: Two screenshots, booking starts at 10am, gareeb rath had 240 seats under tatkal quota. 10.01 am – "booking not started" pop-up appears. then app crashes and starts buffering. 10.04 am – app responds. now it shows status as waiting list 41. evenâ¦ pic.twitter.com/ib9i7Qn9mi
+
+As a result of the anti-blocking system, the IRCTC has been able to identify and blockÂ  2.5 crore suspected user IDs. Besides the system, the IRCTC will now also require Aadhaar authentication for users who want to book Tatkal tickets immediately after creating an account. In case a user does not undergo Aadhaar authentication, they will have to wait three days after registration to book Tatkal tickets.
+
+Content delivery networks, which include service providers like Cloudflare and Akamai, optimise web content delivery by distributing it across a network of servers. Bot traffic includes all the non-human traffic that comes to a site, be it through a distributed denial of service (DDoS) Attack or search engines. A lot of bot traffic can overwhelm a website and cause it to crash. CDNs can help mitigate site crashes by distributing the traffic across their many servers.Â
+
+As per IRCTCâs press release, their site will serve 87% of its content through a CDN for faster speeds and reduced server load. The organisation also mentions that the anti-bot system actively detects and mitigates bot traffic using AI algorithms.
+
+As per a Cloudflare blog post , websites can curb bot traffic through a variety of measures:
+
+MediaNama has sent questions to IRCTC asking for more information about how the anti-bot system works.Â  We will update the copy with their comments once we hear back from them.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

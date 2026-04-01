@@ -1,0 +1,23 @@
+Google Messages has introduced an artificial intelligence (AI)-based feature to protect Android users from text message-based scams. The new AI-powered scam detection tool aims to tackle messages that start harmless but eventually turn dangerous for the user, according to a blog post by the company.
+
+“If Google Messages suspects a scam, you’ll receive a real-time warning so you can easily block and report the conversation. This feature can help protect you before you lose money or sensitive information,” the company explained, adding that users would not have to worry about their conversations being made public, as the scam detection would take place on the device.
+
+To demonstrate, Google attached the following image of a probable scam scenario:
+
+The image displays an Android user receiving a text from an unknown number asking if they are ‘Mary.’ While the user replies that they are not the intended recipient, the sender introduces themselves as a financial adviser, saying they were trying to reach a client with some investment information.
+
+At this point, the scam detection tool kicks into action, displaying a pop-up message alerting the user about the incoming texts being a ‘Likely Scam’, alongside a further note that ‘common scams often start this way’.
+
+According to a report by The Verge, Google will first launch the feature in English in the United States, the United Kingdom, and Canada, with plans to expand to other countries later.
+
+Interestingly, even though Google’s attempt at securing users from potential scams can see benefits, a concern that rises to the fore following this has more to do with handling user data.
+
+“The feature is on by default and only monitors conversations with people who aren’t saved to your contacts list,” the report further notes, which raises questions as to what Google does with users’ responses to messages from random senders.
+
+To put it simply, whatever information a user reveals about themselves after being prompted with such an uninitiated conversation is accessible by the company. While a single instance might not be enough to accumulate enough data about an individual, repeated potential scam-like situations, to which the user responds and provides data about themselves initially, can likely be enough to structure the profile of that particular person. This, when seen in the context of data privacy and data collection norms under jurisdictional regulations such as India’s draft Digital Personal Data Protection Rules, 2025 , that operationalises the DPDP Act, 2023, could lead to companies having to rethink collecting user data and related consent.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

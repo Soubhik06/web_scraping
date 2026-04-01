@@ -1,0 +1,81 @@
+Practitioners from The Fifth Elephant have warned the Ministry of Electronics and Information Technology (MeitY) that the governmentâs draft amendment to the Information Technology (IT) Rules on synthetically generated content rely on technical assumptions that may not survive real-world content flows.
+
+Representatives from Indian law firm Ikigai Law briefed participants about the substantive aspects of the proposed rules, as well as international legal frameworks related to regulating AI-generated content.
+
+In the Fifth Elephant submission, AI practitioners argue that the draftâs core enforcement tools â fixed visible or audible labelling and platform-side verification of synthetic origin â are brittle by design. Routine actions such as editing, compression, re-encoding, screenshots, screen recording, and reposting can strip or degrade provenance signals, making these controls unreliable in practice.
+
+As a result, the practitioners warn that platforms cannot reliably verify whether content is AI-generated at scale, even when deploying âreasonable and appropriate technical measuresâ as required under the draft rules.
+
+The submission, sent after a closed-door discussion held in November last year, brings together feedback from AI engineers, data scientists, product managers, and startup founders working across consumer and enterprise technology. Collectively, they warn that these technical design choices could end up over-regulating benign content, while still missing the most prevalent forms of online deception.
+
+Notably, the practitioners argue that these technical limitations create an enforcement mismatch. While compliant platforms and users face new obligations, malicious actors can bypass the framework by using open-source or locally hosted models, or by laundering content across platforms where provenance no longer holds.
+
+At the heart of the critique, practitioners argue that the draft amendment regulates how content is generated instead of addressing whether it causes harm.
+
+For context, the submission comes as the government moves to formalise deepfake regulation through amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021. MeitY has said the amendment aims to provide a clear legal basis for labelling, traceability, and accountability related to synthetic media, particularly deepfakes.
+
+Practitioners, however, warn that the proposed framework risks becoming both over-inclusive and under-inclusive, while remaining easy to evade in practice. As the Fifth Elephant submission puts it: “The new draft adds a synthetic-origin compliance layer (labelling, verification) that doesn’t directly map onto these existing harm-based provisions, creating potential gaps and overlap.”
+
+Under the draft amendments, âsynthetically generated informationâ includes any information that is âartificially or algorithmically created, generated, modified or altered using a computer resource, in a manner that such information reasonably appears to be authentic or trueâ.
+
+The draft mandates that such content carry labels covering at least 10% of the visual display area or the initial 10% of audio duration. Intermediaries offering AI-based creation or modification tools must embed these labels or identifiers at the point of generation and must not enable their removal through their own systems.
+
+Additionally, Significant Social Media Intermediaries (SSMIs) must require users to declare whether uploaded content is synthetically generated and deploy âreasonable and appropriate technical measuresâ to verify the accuracy of those declarations. Failure to comply could amount to a breach of due diligence obligations, with implications for safe harbour protection under the Information Technology Act.
+
+MediaNama has previously reported on these provisions and the governmentâs broader effort to bring deepfakes within a binding regulatory framework.
+
+Practitioners argue that the draftâs definition of synthetic content casts the net far too wide. Because it covers any algorithmic creation or modification that âreasonably appears authenticâ, it risks sweeping in routine, non-deceptive uses of software.
+
+The Fifth Elephant submission lists examples such as image compression, brightness correction, filters applied by phone cameras, autocorrect and grammar suggestions, translation tools, accessibility features like captions, and AI-assisted editing workflows. Importantly, none of these inherently mislead users or cause harm.
+
+This concern mirrors arguments raised during MediaNamaâs November 5 discussion on regulating deepfakes. As one participant said, âWe need to find those specific problems to solve instead of doing this (current) definition, which covers everything.â And other participants also thought that treating all algorithmic modification as suspect creates regulatory noise without isolating genuinely harmful behaviour.
+
+Elsewhere, the Fifth Elephant submission flags ambiguity in the phrase âreasonably appears to be authentic or trueâ. It asks whose perspective counts as âreasonableâ, what âauthenticâ refers to, and whether authenticity relates to identity, context, or factual accuracy. Practitioners warn that such ambiguity creates uncertainty for platforms and users.
+
+A major point of critique concerns the draftâs requirement that labels occupy a fixed percentage of visual or audio content. Practitioners argue that hard-coded thresholds do not reflect how content is produced or consumed online.
+
+In short-form and vertical video, a 10% visual overlay can obscure faces, subtitles, or accessibility elements. Similarly, in audio content, the requirement to insert an audible label during the initial portion of a clip becomes difficult to define across formats and durations. Moreover, for longer content, such as films or extended audio, the threshold appears arbitrary.
+
+During MediaNamaâs deepfakes discussion, participants questioned whether such requirements are enforceable at internet scale. âThere are billions of videos that are being uploaded on the internet every month,â one participant remarked. âIâm just wondering if, for anyone whoâs asking for labelling, whether you comprehend this is almost unenforceable at the inception level.â
+
+From a technical perspective, the Fifth Elephant review argues that visible labels are not future-proof. Globally, approaches increasingly rely on cryptographic signatures, metadata, and provenance systems that allow verification of origin and modification history without permanently altering content.
+
+The draft requires large platforms to verify whether user-uploaded content is synthetically generated using technical measures. Practitioners argue that this expectation does not reflect the limits of current detection technologies.
+
+Detection remains probabilistic rather than definitive, especially once content undergoes editing, compression, or cross-platform sharing. Expecting platforms to verify synthetic origin at scale therefore risks high false-positive rates and defensive over-enforcement.
+
+Participants raised similar concerns during MediaNamaâs November 2025 discussion , pointing to the complexity of modern content pipelines. One speaker described how many services operate across B2B2C (business-to-business-to-consumer) stacks, combining proprietary tools, open-source models, and third-party integrations. âThe complexity of getting to an output that you then make available in the world is fairly pretty crazy,â they said, arguing that attribution and liability become difficult to assign.
+
+In this context, the Fifth Elephant submission echoes this concern and warns that verification requirements could push platforms toward blanket labelling or excessive takedowns to manage liability risk.
+
+Practitioners also warned that the draft rules primarily constrain compliant users and platforms rather than malicious actors.
+
+Self-hosted and open-source models operate outside regulated platforms altogether. Even where labels or metadata exist, common practices such as screen recording, file re-encoding, and reposting can strip or degrade provenance signals. And cross-platform sharing often breaks any remaining chain of traceability.
+
+The Fifth Elephant submission notes that frameworks assuming perfect provenance preservation or detection will fail against motivated adversaries, while shifting compliance burdens onto good-faith actors who already operate transparently.
+
+Taken together, the Fifth Elephant submission aligns closely with themes that emerged during MediaNamaâs discussion on regulating deepfakes. Participants repeatedly emphasised that much real-world harm arises from contextual misuse rather than from clearly identifiable synthetic media.
+
+Miscaptioned real footage, selectively edited clips, and out-of-context recirculation often prove more damaging than overt deepfakes. These forms of deception can spread widely while evading frameworks that focus primarily on AI-generated content.
+
+Several speakers at MediaNamaâs discussion also questioned whether social media platforms should bear the primary regulatory burden, given that they function largely as distribution layers rather than points of generation.
+
+The Fifth Elephant submission calls for a shift towards harm- and risk-based regulation. Rather than regulating synthetic origin as such, practitioners urge the government to prioritise high-risk use cases, including impersonation, fraud, election interference, and non-consensual imagery.
+
+They recommend interoperable provenance systems based on cryptographic signatures and metadata as a technical backbone, while reserving visible warnings for high-risk contexts at the platform interface level. Additionally, the submission calls for tiered obligations based on modality, scale, and use case, with greater regulatory focus on distribution and contextual misuse.
+
+As one participant argued during MediaNamaâs discussion, a more rational approach would involve âassigning appropriate responsibilities across various layers of the AI value chainâ, instead of relying on the IT Rules as the primary instrument for regulating generative AI.
+
+Practitioners caution that without recalibration, the draft rules could shift compliance burdens onto ordinary users, disproportionately affect startups and smaller platforms, and still fail to address the most prevalent forms of online deception.
+
+Moreover, rigid, technology-prescriptive requirements risk diverging from emerging global approaches that emphasise proportionality, interoperability, and adaptability.
+
+Notably, although the consultation window for the draft IT Rules amendment has closed, members of the Fifth Elephant community have said they remain open to further engagement with MeitY on implementation challenges and alternative regulatory approaches.
+
+More broadly, their submission revives questions that surfaced repeatedly during MediaNamaâs deepfake discussion: Are the IT Rules the appropriate instrument to govern generative AI at all? Or does India needs a separate, harm-focused framework for regulating synthetic media?
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

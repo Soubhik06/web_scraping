@@ -1,0 +1,27 @@
+Telecom service providers must ensure that variable content in commercial messages is pre-tagged with descriptive labels, as per the Telecom Regulatory Authority of India’s (TRAI) recent directive . These descriptive labels must specify the content type, purpose, and validation criteria. By validation criteria, TRAI means that if the variable content is a number or numerical value, the telecom operator must verify that it is indeed a number and that no special or alphanumeric characters are included.
+
+In addition, telcos must verify tagged variable fields against a pre-whitelist of URLs, over the top (OTT) links, APK links, and callback numbers within thirty days. All new SMS templates issued by a telco within ten days of the direction must comply with the pre-tagging requirements.
+
+For the first 60 days after the directive, telcos will continue delivering messages even if validation errors occur, but they must record all errors in the background. They will track businesses sending messages with these errors and inform them about corrective measures and the consequences of continued non-compliance. For instance, if a business sends a message with “Rs #number#” but enters “2,500.00” within the first 60 days, the telco will only document the error and inform the business to fix it. After this period, such messages will be blocked.
+
+TRAI explains that investigations into unsolicited commercial communication (UCC) found that bad actors exploit the absence of pre-defined tags for fraudulent and phishing activities. They insert unregistered or malicious URLs, app links, and callback numbers into approved commercial message templates without detection. The regulator said the direction “aims to further strengthen the anti-spam and anti-fraud framework by ensuring complete visibility of variable fields in SMS.”
+
+According to the directive, TRAI held meetings with telecom companies to facilitate the implementation of pre-tagging. On September 5, the Cellular Operators Association of India (COAI) wrote to TRAI proposing various tags for commercial message content templates. All telcos have agreed to these tags.
+
+Under the Telecom Commercial Communication Customer Preference Regulation (TCCCPR, 2018), TRAI requires telecom companies to establish a distributed ledger technology (DLT) platform to register companies/telemarketers sending commercial messages. The platform also registers headers and content templates for commercial messages.
+
+Templates fall under three categories: promotional, transactional, and service messages. Businesses must select a message category and a registered SMS header, and then demarcate the fixed and variable parts of the content template.
+
+A commercial message can contain up to two variable elements, and telecom companies may allow a third in exceptional cases. Businesses may seek permission for more than three variables with proper justification.
+
+When templates contain more than three variable elements, each variable in the message template should be pre-tagged for the purpose it is proposed to be used, and no information other than that defined in the pre-tagging shall be included in such variables to prevent misuse of the content template. Telecom companies also have to ensure that only whitelisted URLs/APKs/OTT Links/Callback numbers are present in the content template.
+
+Based on existing norms, a message template for a bank wants to offer you a promotional service with a credit card. The message updating you of this deal would look something like this: “Lifetime Free ‘Bank Name’ Credit Card with Vouchers from X, Y and Z businesses worth Rs [variable]SMS [variable]. TnC apply”
+
+Now, variable sections of the message must carry specific tags, such as: “Lifetime Free ‘Bank Name’ Credit Card with vouchers from X, Y, and Z businesses worth Rs #number# SMS #cbn#. TnC apply.”
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

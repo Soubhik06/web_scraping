@@ -1,0 +1,67 @@
+“UIDAI was neither able to derive required assurance that the entities involved in the authentication ecosystem had maintained their information systems which were compliant with the prescribed standards nor did it ensure compliance of Information Systems Audit by the appointed entities ,” the Comptroller Auditor General (CAG) of India said in its report which also pointed out several faultlines in the unique ID pertaining to duplication of IDs, third-party authentication, and biometric data security.
+
+Based on regulations set by the Unique Identification Authority of India (UIDAI), Requesting Entities (REs) and Authentication Service Agencies (ASAs) should ensure that their operations and systems are audited by an Information Systems Auditor duly certified by a recognised body, on an annual basis to ensure compliance with UIDAI’s standards and specifications. However, “no REs or ASAs had their operations audited annually either by a certified Informations Systems Auditor or by UIDAI,” the CAG report found.
+
+A lot has been said about the security of the Aadhaar infrastructure, and government officials have usually defended all criticisms, even making arguments that do not make much sense. The report presents a comprehensive analysis of the Aadhaar infrastructure, highlighting its various pitfalls.
+
+Although around 50 percent of the total REs were being audited annually, barely any ASAs were getting audited, the CAG report found based on information provided by UIDAI. “Thus, it was evident that while UIDAI regulations stipulated annual audit of the operations and systems of both REs and ASAs by Information Systems auditor, compliance was very poor. UIDAI also failed to invoke its prerogative to audit the operations, infrastructure, systems and procedures of the REs and ASAs, either by itself or through audit agencies appointed by it,” the report said.
+
+In October 2020, UIDAI further intimated to the CAG that there was an increase in submission of IS Audit Reports by AUAs i.e., from about 35 percent in 2016-17 and 2017-18 to 52 percent in 2018-19 and that it was pursuing this aspect with the REs and sensitising them about the significance of the audits through training sessions.
+
+“UIDAI may ensure that each of the existing REs & ASAs are audited by UIDAI or by the Auditor appointed by it within a cycle of three years so as to provide adequate assurance about compliance to its Regulations,” the CAG report recommended.
+
+Authentication requests only on registered devices: In January 2017, UIDAI directed all Authentication User Agencies (AUAs) and Authentication Service Agencies (ASAs) that authentication requests would only be accepted through ‘Registered Devices’ certified by Standardisation Testing and Quality Certification.
+
+“An important feature of the Registered device was that it could encapsulate activities like biometric capture, signing and encryption of biometrics etc within it. Hence, use of non-registered devices will be putting resident’s privacy at risk ,” the report explained.
+
+Devices that don’t store biometric data to be used: Further, UIDAI had also instructed AUAs that they should ensure client applications used by sub-AUAs for providing authentication services are not capable of storing biometric data of the Aadhaar holder and that the biometric is encrypted.
+
+No audit reports on compliance with UIDAI instructions: UIDAI had further directed AUAs to ensure compliance with the above directions by submitting audit reports with a certificate signed by their Chief Executive Officer. “Audit was informed (July 2020) that UIDAI had not received any audit reports from any AUAs/ ASAs within the stipulated date, in compliance of their instructions of February 2017,” the report said.
+
+“Further, to our query on how UIDAI ensured that the front-end devices used for e-KYC were not capable of storing biometric/PID, Audit was informed that Aadhaar (Authentication) Regulation stipulates that the client application should package and encrypt the input parameters (Aadhaar number or any other identifiers provided by the requesting agency), into PID block before transmission. Therefore, it was mandatory for the requesting agencies to ensure compliance to the provisions of the Aadhaar Act and associated regulations and instructions issued by UIDAI.” — CAG report
+
+UIDAI enabled in-device encryption of biometric data: However, in October 2020, UIDAI informed the CAG that they completed the implementation of biometric-registered devices for authentication by April 2018, “thereby ensuring that biometrics were encrypted at the device itself before sending it to client application. No RE could perform authentication using non-registered device.”
+
+But what about devices before April 2018? “There was no system to confirm that the client applications used by authentication ecosystem partners for providing authentication services prior to April 2018, were not capable of storing biometric data of the Aadhaar number holders. As such, there was inadequate assurance that the risk of ASA/ AUAs/ sub-AUAs accessing and storing the personal information of Aadhaar holders through the earlier Non-Registered Devices, was addressed by UIDAI despite issuing directions in June 2017 mandating IS audits of client systems,” the report said.
+
+“Aadhaar numbers and any connected Aadhaar data were to be stored mandatorily on a separate Aadhaar Data Vault. UIDAI could not provide reasonable assurance that the entities involved adhered to the procedures.” — CAG report
+
+Establishing Aadhaar vaults was mandatory: In 2017, UIDAI had mandated all entities collecting and storing Aadhaar numbers to implement Aadhaar vaults. UIDAI also prescribed procedure for implementation of Aadhaar vaults and that non-compliance would attract general penalty under provisions of the Aadhaar Act.
+
+But UIDAI did not specify standards for Aadhaar vaults: UIDAI informed Audit (July 2020) that REs were to ensure that the objective of secure storage of Aadhaar numbers is met. “UIDAI has not specified any encryption algorithm or key strength for the encryption of Aadhaar Data Vault. It further mentioned (October 2020) that Aadhaar Data Vault (ADV) was not a specific product but a process and a concept for storage of Aadhaar numbers in a secure manner and its implementation was monitored through Audit Reports submitted by the REs. MeitY agreed (June 2021) with replies of UIDAI to the audit observations,” said CAG.
+
+No steps taken to verify compliance of entities: “The above position indicated that UIDAI had not established any measures /systems to confirm that the entities involved adhered to procedures and was largely dependent on Audit Reports submitted to them. They had not independently conducted any verification of compliance to the process to derive a satisfactory assurance,” it added.
+
+“De-duplication process remained vulnerable for generating multiple Aadhaar numbers and manual interventions had to be done to resolve the problem.”— CAG report
+
+De-duplication is integral to Aadhaar: De-duplication is supposed to ensure that the Aadhaar numbers generated are unique and that no second number is assigned to the same resident by comparing the resident’s demographic and biometric information collected during the process of enrollment, with the records in the UIDAI database.
+
+145 duplicate Aadhaar IDs generated a day: Nearly 4.75 lakh duplicate Aadhaar numbers were cancelled as of November 2019, as per information provided by UIDAI Tech Centre to the CAG. “This data indicated that on an average no less than 145 Aadhaars generated in a day during the period of nine years since 2010 were duplicate numbers requiring cancellation,” the CAG report said.
+
+Additionally, the verification of records at the UIDAI Regional Office in Bengaluru showed that residents reported 5,38,815 cases of issue of multiple Aadhaars during the period 2015-16 to 2019-20 forcing UIDAI to cancel the second Aadhaar issued, based on complaints received, the CAG report said.
+
+Inaccurate biometrics lead to multiple IDs: “UIDAI stated (September 2019) that the biometric de-duplication ensures uniqueness with accuracy of 99.9 per cent, but in cases where residents with poor biometrics enroll, their accuracy could be slightly poor which could lead to generation of multiple Aadhaars,” the CAG report said.
+
+No details on self-cleaning system used by UIDAI: “It was also informed that UIDAI has deployed self-cleaning system (an automated process) to identify duplicate Aadhaars and for taking corrective actions. However, no details on the frequency of the deployment of the self- cleaning system, the number of duplicates detected through the process etc., were provided to audit as of July 2020,” the report added.
+
+Any improvements made? “UIDAI later, (October 2020) explained the “whitelisting process” invoked in case a genuine person is denied Aadhaar through the de-duplication process. It claimed significant improvements in detecting duplicate and fraudulent enrollment after application of Service Level Agreement (SLA) parameters independently for each of the three Biometric Service Providers (BSPs) and incorporation of other SLA parameters like FNIRA16, attack presentation classification error rate etc. in the new contract,” the report informed.
+
+CAG’s recommendation: “UIDAI may tighten the SLA parameters of Biometric Service Providers (BSPs), devise foolproof mechanisms for capturing unique biometric data and improve upon their monitoring systems to proactively identify and take action to minimize, multiple/duplicate Aadhaar numbers generated. UIDAI may also review a regular updation of technology. UIDAI also needs to strengthen the Automated Biometric Identification System so that generation of multiple/duplicate Aadhaars can be curbed at the initial stage itself,” the report said.
+
+The Aadhaar (Enrollment and Update) Regulations 2016 prescribes the nature of documents a resident should submit as proof of identity (PoI), proof of address (PoA), date of birth (DoB), proof of relationship (PoR), etc., to the EAs. “Whenever a resident applies for enrolment/ correction/ updation, a standard form containing demographic details of self along with ticking the residential status, has to be filled,” the report said.
+
+UIDAI did not specify any Resident form: “It was, however, noted that UIDAI had not specified any proof/document in the regulation for confirming the “Resident” condition, to qualify as a resident. No procedure has been prescribed to check the veracity of the applicant’s testimony. Thus UIDAI had not put in place a system for fulfilling the fundamental requirement of identifying residents,” the report noted.
+
+Not verifying residence status is a problem: “Audit is of the view that non-verification of status of residence may lead to issue of Aadhaar to non-bona fide residents. UIDAI stated (September 2019) that the validity of the documents provided by individual applicants in support of identity, address, date of birth etc., are confirmed during enrolment and cases appearing as fraudulent are dealt in accordance with provisions of Aadhaar (Enrolment & Update) Regulations 2016,” the report added.
+
+Do you want to keep track of biometrics and digital identity regulation in India but don’t have the time? Relying on scattered content from across the web makes it feel harder than it needs to be.
+
+Subscribe to MediaNama and get crisp, timely updates on tech policy developments in India and across the world.
+
+Also Read:
+
+Have something to add? Subscribe to MediaNama here and post your comment.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

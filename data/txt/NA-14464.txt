@@ -1,0 +1,59 @@
+The Google Threat Intelligence Group (GTIG) has reported a significant shift in cyberattacks: threat actors are no longer using artificial intelligence just to speed up their work; they are now building malware that uses AI to change its own code during execution.
+
+According to GTIG’s latest report , this new phase marks the first active use of “just-in-time” AI in cyber operations. The group found that both state-sponsored and financially motivated attackers are experimenting with AI tools, including Google’s own Gemini and open models such as those hosted on Hugging Face, to enhance every stage of their campaigns, from reconnaissance to data theft.
+
+GTIG identified several malware families that use large language models (LLMs) during their execution to dynamically rewrite or generate code. The most notable examples include PROMPTFLUX, PROMPTSTEAL, and QUIETVAULT, each representing a different function in the attack lifecycle.
+
+Google said some of these tools, such as PROMPTFLUX, are still in testing phases, but others, like PROMPTSTEAL, have already been used in live operations.
+
+The report also describes how attackers are using social engineering techniques in prompts to manipulate AI models into providing restricted information. For instance, GTIG found that Chinese and Iranian state-backed hackers posed as students or researchers to convince Gemini to help them with malicious code.
+
+In one case, a China-linked group reframed their prompt by claiming to be part of a “capture-the-flag” cybersecurity competition, a legitimate hacking exercise. When presented as a CTF scenario, Gemini responded with technical details that could aid real-world exploitation.
+
+Another example involved the Iranian group TEMP.Zagros (MuddyWater), which pretended to be university students or authors “writing a paper” to bypass AI safety filters. In one prompt, the group accidentally exposed sensitive information, such as its command-and-control (C2) server and encryption key, allowing Google to disrupt the campaign.
+
+Google said it took action to disable assets linked to these actors and updated Gemini’s safety systems to detect similar misuse in the future.
+
+GTIG’s report also notes that criminal marketplaces selling AI tools have matured in 2025. Researchers identified underground forums, especially in English and Russian, where vendors advertise AI-powered services for phishing, malware development, vulnerability research, and social engineering.
+
+These illicit tools often use legitimate marketing language and offer subscription-based pricing models similar to mainstream AI products. Many tools focus on creating phishing lures, generating code, or bypassing KYC (Know Your Customer) checks through deepfakes.
+
+GTIG warned that these tools are lowering the technical barrier for cybercriminals, enabling less skilled actors to launch more sophisticated attacks.
+
+Google found that state-sponsored hackers from China, Iran, and North Korea continue to misuse generative AI across every phase of their operations.
+
+A suspected China-nexus group used Gemini to research cloud infrastructure and container technologies such as Kubernetes, vSphere, and AWS EC2, likely for deeper access into target networks.
+
+The same group used Gemini for help crafting phishing messages, conducting reconnaissance, and building tools for data exfiltration.
+
+North Korean threat groups, including UNC1069 (MASAN) and UNC4899 (PUKCHONG), used Gemini to support cryptocurrency theft operations and research software vulnerabilities. UNC1069 reportedly generated fake meeting excuses in Spanish to improve phishing success rates while also using deepfake videos impersonating crypto industry figures to spread malware disguised as a “Zoom SDK.”
+
+UNC4899 misused Gemini to explore exploit development for browsers and edge devices, continuing North Korea’s focus on supply chain attacks.
+
+Iran’s APT42 used Gemini to craft phishing messages impersonating staff from think tanks and to translate and edit lures in multiple languages.
+
+The group also attempted to develop a “Data Processing Agent” using Gemini to run SQL queries on personal data, an attempt to link phone numbers, track individuals, and generate lists of people with shared attributes.
+
+Google said it has disabled accounts and assets linked to these malicious campaigns and shared intelligence with its AI research unit, Google DeepMind, to strengthen model safeguards. The company added that its engineers are improving classifiers and red-teaming frameworks to prevent LLMs like Gemini from being tricked into unsafe outputs.
+
+The blog stated, “Guided by our AI Principles, Google designs AI systems with robust security measures and strong safety guardrails.”
+
+The company also emphasised that insights from these incidents are being used to improve the underlying security of Gemini models and classifiers.
+
+GTIG’s findings echo a broader call for stronger standards to secure AI systems. Google highlighted its Secure AI Framework (SAIF) as part of efforts to encourage responsible development and deployment across the industry.
+
+It also cited tools like Big Sleep, which uses AI to automatically detect unknown vulnerabilities, and CodeMender, an experimental agent that can automatically patch critical code flaws.
+
+While these tools reflect progress in defensive AI, GTIG’s report shows how rapidly attackers are adapting generative AI for malicious ends. The line between productivity and weaponisation, the report suggests, is growing increasingly thin.
+
+The GTIG report underscores a turning point in cybersecurity: AI is now not just a productivity booster for attackers but a dynamic component of their toolkits.
+
+With malware that can rewrite itself, underground markets for AI-powered hacking tools, and state actors probing AI systems for exploitation, defenders are racing to adapt.
+
+Google’s actions, disabling malicious assets, retraining Gemini, and reinforcing its AI models, highlight a critical reality: as generative AI evolves, so will the ways it can be misused.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

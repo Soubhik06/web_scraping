@@ -1,0 +1,51 @@
+Indian artificial intelligence (AI) startup Sarvam AI has announced the launch of its new text-to-speech (TTS) model, Bulbul v-2. The company stated that the new AI model supports 11 Indian languages with “authentic” Indian accents. In a promotional video, the Bengaluru-based startup compared its new AI model with ElevenLabs’ voice AI tool to demonstrate that it was faster and more efficient.
+
+Users can also upload their own voice samples to generate TTS audio files. However, the company has not clarified how it plans to protect users’ voice data. In the event of a cyberattack, such sensitive data could fall into the hands of malicious actors.
+
+Although Sarvam AI, in the launch video, showed that its Bulbul-v2 outperformed its competitor, ElevenLabs’ model, in benchmarks, how the two perform in real life remains to be seen.
+
+So, for a comparative analysis, MediaNama decided to pit Sarvam AI against two TTS AI models from Hume AI and ElevenLabs. Please note that MediaNama only used the free versions of the models available online for testing.
+
+All three TTS AI models were fed the following prompt to generate an audio file in Hindi. The prompt was – “हेलो, क्या हाल है भाई। कहाँ हो आज कल? क्या दस हजार रुपए मेरे अकाउंट मे ट्रांसफर कर सकते हो?” (Hello, how are you, brother? Where have you been lately? Can you please transfer Rs. 10,000 to my account?)
+
+In the tests, the Bulbul-v2 generated audio file, with a close to real-life Indian accent and accurate pronunciation, performed better than the competition. But the samples produced by it lacked voice modulation and emotions. A scammer could still fool someone who is not paying close attention. Sarvam AI’s model also produced the fastest results, even when switching between languages or default voices.
+
+ElevenLabs’ model only offers two Indian languages—Hindi and Tamil—compared to Sarvam AI’s 11. Its audio results were not on par with Bulbul-v2’s, primarily because it does not offer Indian accents. However, it was capable of producing audio with different tones, emotions, and voice modulations. The model also generated quick results, though slightly slower than Bulbul v-2.
+
+This TTS AI model performed the worst in the tests. It produced the slowest results, was unable to pronounce certain words in the Indian language, and lacked Indian accents. However, it had its positives. When given a prompt in English, it produced a human-like TTS response in a US accent. The result also featured voice modulations, with tone changes matching the text.
+
+Sarvam AI claims that Bulbul v-2 can generate natural-sounding speech with real-time synthesis, code-mixed text support, and multiple voice personalities. While these features enhance user experience, they also raise significant concerns.
+
+Human-like AI voices can make it increasingly difficult to distinguish between real and synthetic speech, opening the door to misuse. In recent years, there have been multiple cases of scammers using voice cloning to impersonate individuals and defraud others. For instance, in 2024, Bharti Enterprises Chairman Sunil Bharti Mittal revealed he was targeted in a scam where his voice was cloned to request money from an executive—an attempt so realistic it left him “stunned.”
+
+Another case involving playback singer Arijit Singh made the headlines in 2024. Singh had filed a lawsuit in the Bombay High Court against Codible Ventures LLP, which was using the playback singer’s voice samples to synthesise artificial recordings. Although the case sets a precedent in India for addressing the misuse of generative AI tools to violate intellectual property rights (IPR) and music, it also highlights the extent to which bad actors can exploit this technology to scam people.
+
+Another concern is the potential political misuse of the TTS AI model. Bad actors can use human-like, machine-generated speech to peddle misinformation, incite communal violence, and spread propaganda.
+
+There are also questions about where Sarvam AI is sourcing its voice datasets from, and who owns this data.
+
+MediaNama has reached out to Sarvam AI seeking answers to the following questions:
+
+It is important to note that the Government of India has allocated Rs 20.46 crore under its IndiaAI mission for Safe and Trusted AI, out of a total outlay of Rs 10,371.92 crore.
+
+In May 2024, OpenAI announced the formation of a ‘Safety and Security Committee’ to provide recommendations to its board on critical safety and security decisions.
+
+The US-based AI company also introduced a Preparedness Framework to track the frontier capabilities of its AI models that may pose new risks of significant harm. This framework focuses on three frontier capability areas, called Tracker Categories:
+
+Another US-based company, Perplexity, has implemented access controls to protect customer data. According to the company, “Our policy strictly prohibits the storage of customer data on company workstations, laptops, or removable media, ensuring that all such data is exclusively housed within secure production environments.”
+
+Sarvam AI can take inspiration from such measures to implement stronger guardrails for protecting its users.
+
+In April 2025, the Government of India selected Sarvam AI to build the country’s sovereign Large Language Model (LLM) under the IndiaAI mission. Out of 67 applicants, the company was the first to receive funding. Additionally, the government will soon provide Sarvam AI with access to its computing resources. Given the company’s role in developing India’s own LLM, it must build robust safety measures to protect user data.
+
+The company is also collaborating with global tech giants. In February 2024, Microsoft announced a partnership with Sarvam AI to build its Indic voice LLM on Azure. The two companies are working together to make the development and deployment of generative AI applications in India more accurate and cost-efficient.
+
+In February 2025, during MediaNama’s roundtable discussion “Understanding the Draft Digital Personal Data Protection Rules,” a speaker shed light upon the fact that once an AI model has been trained on a certain data point, it becomes “virtually impossible” to delete that particular data point, as a company would have to retrain the entire model without that one data piece. This, the speaker said, would be an expensive endeavour. Hence, how AI companies retain data becomes highly pertinent.
+
+Since only a draft of the rules for India’s Digital Personal Data Protection Act, 2023 (DPDPA) has been released, the regulation is yet to be operationalised. Hence, it becomes important for the company to enforce stringent safety measures.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

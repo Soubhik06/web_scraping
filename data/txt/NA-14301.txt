@@ -1,0 +1,133 @@
+About a month ago, YouTubers privately began complaining about copyright strikes from ANI (Asian News International) over clips they had used in their videos.
+
+Such complaints are not new. MediaNama has previously reported on similar complaints about copyright strikes from Indiaâs public service broadcaster, Prasar Bharati (read this and this ). Even a relatively unknown company has sent copyright claims en masse to multiple YouTubers .
+
+This time, however, it is different.
+
+ANI is demanding between Rs. 15â18 lakh from a YouTuber, as reported by The Reporters Collective . These demands include both “copyright penalties and licence fees to withdraw the strikes.” MediaNama was also working on this story before The Reporters Collective broke it, and we heard of even higher demandsâup to Rs. 40 lakhâas well as ANIâs unwillingness to withdraw the strikes without payment. Failure to comply could result in the YouTuber losing their account. When I first heard about this, I told my team, that this particular approach is unusual, and to me it appears to be “weaponisation” of YouTube copyright strikes.
+
+Over the past few years, many journalists have quit jobs at large media channels and publications to become YouTubers. There’s now enough money in itâif they have reachâand revenue is consistent, provided they post regularly (though algorithm-slavery on YouTube is a serious concern). They also have complete editorial independence, unlike news television, which is allegedly plagued by political and commercial interference. For viewers cutting the cord at an alarming rate, YouTube has become the primary source of video news, especially given the noise and lack of nuance on TV channels.
+
+This shift has been recognised in two ways: First , political parties have acknowledged the influence of YouTubers, conducting interviews with key influencers before the last elections and enabling access to government advertising (via DAVP) and awards. Second , the emergence of YouTube as a major news and analysis platform prompted IT Minister Ashwini Vaishnaw to identify algorithmic bias as a key issue last yea r, alongside âfake news and disinformation,â âfair compensation by platforms,â and the âimpact of AI on intellectual property.â It’s also why the IT Ministry is considering a rework of the “safe harbour” frameworkâsomething that could fundamentally change how the internet works in India. “Influencers” are now a legitimate media category.
+
+Many of these YouTubers incorporate short clips from publicly available sources (note: there’s a difference between public availability and public domain), including footage from Prasar Bharati and ANI. The lengths of these clips varyâtypically from 4â5 seconds to 10â15 seconds, sometimes longerâin videos that may be 15 minutes or more.
+
+You might ask about how ANI finds out that its clips have been used, given that manually scanning millions of YouTube videos is impractical. It’s likely ANI uses Content ID , a YouTube system that allows copyright owners to detect the use of their copyrighted material on the platform.
+
+Hereâs how it works : Copyright owners upload their content into YouTubeâs Content Management System by delivering reference files (audio, visual, or audiovisual) along with metadata that describes the content and specifies ownership by territory. YouTube then creates an â asset â in its content management system, essentially fingerprinting the content. Depending on the content type and delivery method, YouTube may also create a viewable video, a reference for Content ID matching, or both. Content ID scans both new uploads and performs a âlegacy scanâ to identify matching videos uploaded before the asset was created. Recent uploads and popular videos are scanned first.
+
+YouTubers are impacted the most because their videos are scanned and flagged to content owners first. As YouTube itself acknowledges, âThe majority of copyright claims and removal requests on YouTube come from our automatic detection technology.â
+
+Apart from Content ID, YouTube also provides a “Copyright Match” tool that copyright owners can use. The key condition here is that you must have uploaded your content first. You can find an explanation of how it works here.
+
+Itâs important to note that Copyright Match only detects âfull or nearly full matchesâ of videos, it doesnât work if only short clips have been used. This means ANI may have either manually scanned YouTube videos (which is entirely possible), or these videos with short snippets were surfaced through Content ID.
+
+YouTube has had a copyright violation issue since its inception, with people uploading copyrighted content without permission. Entire movies, full music albumsâyou name it. And it wasnât just YouTube; other services like Dailymotion had this problem too.
+
+In the world of content, the music industry is often the lead indicator, and music labels were among the first to take content platforms to court. T-Series vs MySpace is a landmark case in this space (also read this ), though it’s often forgotten that T-Series also sued YouTube. Itâs perhaps not a coincidence that a year after T-Series got the founders of Guruji arrested for running a music search engine , they struck a deal with YouTube , a deal which, as far as I know, was renewed just last year. Today, T-Series is the second most-subscribed YouTube channel in the world ; it was once the largest.
+
+Rajjat Barjatya, the late founder of Rajshri Media, once told me that while production is important, a significant part of any music or movie label’s business lies in copyright enforcement. These businesses are about hits and misses game, and a business can only remain sustainable if it enforces its copyright, and for the hits to keep generating money so they risk a few flops. This is why music labels and movie producers focus so much on John Doe orders, and work with the police to raid small shops and restaurants for pirating music.
+
+You might even recall that during COVID, the music industry attempted to license live social media performances of their own compositions by independent singers, which they stopped after a backlash that followed MediaNama’s reporting of it .
+
+For YouTube, tools like Content ID and Copyright Match are critical to ensuring that content owners have a means of making money on their platform , and don’t have to resort to litigation anymore to prevent piracy. They need to empower copyright owners to protect their intellectual property.
+
+Content owners have options when it comes to YouTube copyright enforcement: they can either issue a copyright strike against a video or choose to monetize the ads running on it. Most music labels actually profit from their content (even cover versions) being used by third-party channels and simply claim the ad revenue for those videos.
+
+However, this approach is resource-intensive. Someone once told me that T-Series has a 100-person team in Noida solely dedicated to dealing with Content ID claims and strikes. This remains unverified.
+
+YouTube indicates that copyright claims can be made even if you use a snippet, and you can get multiple claims depending on jurisdictions.
+
+You might receive:
+
+The duration of the clip doesnât necessarily matter. Hereâs an old example where a claim was made for a small snippet:
+
+It’s important to keep in mind that facts cannot be copyrighted, and despite attempts in the past to create a “ hot news doctrine ” by Board of Control for Cricket in India (BCCI) and STAR TV, nothing prevents live reporting of facts by anyone else. Anyone can report the facts.
+
+The footage of an event, however, is more than just facts: it is a composition crafted by a cameraperson, captured frame by frame, along with audio, and perhaps even commentary. Courts tend to be stricter in protecting such works.
+
+India’s Copyright Act states that:
+
+SpicyIPâs guide to fair usage cases in India is useful (though possibly outdated). Notably, thereâs no landmark Indian case where copyright was successfully claimed against the reporting of current events.
+
+As Rahul Ajatshatru told MediaNama , there isn’t sufficient clarity on what is fair dealing here: there is no formula, in terms of how long a snippet should be. He does say, however, that assessment will also be based on whether the usage is qualitative, indicating that if it is used for commentary and critique, it might be construed as fair dealing/fair usage.
+
+One important criteria that needs to be taken into account here is whether ANI’s original footage is being substituted by a Youtubers video, and in all probability, if enough original material, whether commentary, critique or other original content and perspective is being added by the YouTuber, then it should be fair dealing/fair use. It has to be derivative work, and not a substitute for ANI’s original content.
+
+The other legal framework to consider, which YouTube abides by, is the Digital Millennium Copyright Act (DMCA). The DMCA is interesting because it provides for both copyright claims and counter-claims.
+
+For example, if someone issues a copyright violation claim against me for using their footage, the platform has to inform me. Unless I contest this claim, they have to take the content down. However, if I contest the claim, the platform is required to restore the content, and it is no longer their responsibility. The copyright owner will have to take me to court to resolve the dispute, and the platform is safe.
+
+However, itâs important to note that the DMCA does not mandate a three-strike policy, which YouTube has implemented on its own, without a legal requirement to do so. YouTubeâs copyright policy strikes page states:
+
+If you get 3 copyright strikes:
+
+Additionally, YouTubeâs articulation of what constitutes fair usage is based entirely on U.S. law, not Indiaâs fair dealing provision.
+
+ANI has been particularly litigious of late. They’ve sued Wikipedia and Wikipedia editors for defamationâinterestingly, the Supreme Court of India cited my video on its implications while overturning a Delhi High Court order . Theyâre also suing OpenAI over copyrightâa case I actually hope they win. No media publication or news wire will survive if their copyrighted material is used for training data, especially by retrieval-augmented generation (RAG) models like Perplexity and Googleâs AI Summaries. Last year, ANI even sued Netflix for using IC-814 footage without a license .
+
+I donât grudge any company trying to enforce its copyright. As Iâve explained before using the music industry as an example, copyright enforcement is the only way for creators and rights-holders to ensure they get paid for their work, and thus have the incentive to invest in doing the same work.
+
+ANIâs core business, as a wire agency, is to distribute news reporting and video footage to other publications. But the news industry is on shaky groundâgrowth is limited, and many legacy outlets are posting losses ( NDTV , HT Media , Network18 , TV18 among them, even though Dainik Jagran and Dainik Bhaskar are relatively stable). This may have impacted these publicationsâ ability to source or pay for wire content.
+
+Then there is of course the added threat of Google’s AI Mode ( read this ), AI Summaries ( read this ) and the impact that has on online traffic and revenue. The threat of substitution by AI RAG models is existential for the media industry, and it is important for any content business to increase reach and monetization as quickly possible, and as much as possible in order to ensure that they have enough cash for the potential impact of AI on traffic and monetization.
+
+Governments are of no help here: they don’t want to bite this bullet because AI models need training data, and they don’t want India to lose out in the AI race. Most AI models have already stolen data from publicly available (but not public domain) data. Copyright as a concept, is under the extreme threat, and this will become an existential crisis for media.
+
+Even if this isn’t a consideration – and I can’t speculate as to why ANI has become so litigious of late – but it is the right of a business like ANI to try and increase their subscriber base. YouTubers are essentially a new market opportunity for them. If YouTubers decline the opportunity to take a subscription, then ANI has every right to enforce their copyright. Press Trust of India, another wire service, may have started with a carrotâ offering an âaffordableâ plan to YouTubers âbut I wouldnât be surprised if a stick follows eventually.
+
+Itâs also important to remember that many YouTubers reporting news are first-time entrepreneurs. Theyâre often unfamiliar with how to handle legal notices, copyright strikes, or even threatsâso they panic. I did too, when MediaNama first went live with this story and I received legal threats.
+
+Most YouTubers are also not aware of how copyright strikes and Content ID work, and given all that we’ve reported about copyright strikes on YouTube, the platform has clearly failed to do enough to educate them. It’s not like I haven’t told them to do this either.
+
+In my opinion , and this is not a legal opinion, each stakeholder is doing what is in their rational self interest, but there are some things that are problematic.
+
+First, I donât believe many YouTubers are committing copyright violations. Theyâre using news clippings to create derivative worksâengaging in critique, commentary, and public discourse. These are all forms of expression that serve the public interest and do not substitute the original work. This is something that should be protected by courts when they consider the implementation of the Copyright Act and fair dealing in terms of news content.
+
+Where News YouTubers are probably wrong is that they’re not disputing the copyright claims. If they contest it, it is no longer a strike. YouTube’s transparency report states that
+
+“In 2024, uploaders submitted counter notifications in response to over 8% of removal requests submitted via the webform, whereas itâs fewer than 3% for both the Enterprise Webform and for the Copyright Match Tool. Fewer than 1% of all Content ID claims made in 2024 have been disputed. Over 70% of those disputes succeeded because claimants either voluntarily released the claim or did not respond to the dispute in time.
+
+There is thus a clear case for YouTubers to dispute copyright strikes.
+
+YouTubers should also probably be ready to go to court regarding such complaints in order to set a precedence in such matters. It would make sense for an organisation like Digipub to create a Creators Legal Defence Fund , where creators can perhaps pay an annual fee that can be used to provide legal support to YouTubers that are Digipub members. It would work in a manner similar to insurance.
+
+Some YouTubers were also considering reuploading videos without the disputed clips, because the videos would stand even without them. However, this doesn’t necessarily absolve them of a potential copyright violation that may have already occurred. They might want to consider not using publicly available clips, and restrict themselves to public domain clips.
+
+Second, where is ANI wrong? Like I said before, ANI has every right to claim its copyright, to issue copyright strikes via YouTube, and to also claim compensation. However, what YouTubers are saying is important here: they claim that three strikes are being issued simultaneously in some cases, after allowing these alleged violations to accumulate, and thus there is a threat of getting banned from YouTube forever. There is also a claim that there is a penalty being charged on them for these alleged infringements, over and above the annual subscription fee.
+
+If this is indeed true, then I would say that this may be considered a misuse of YouTube’s copyright protection system’s three strike policy, which doesn’t envision commercial consideration or three strikes in a go with the alleged threat of leveraging that for account cancellation.
+
+Third, where is YouTube wrong? I would argue that YouTube is most at fault here. As I mentioned earlier, it hasn’t done enough to educate YouTubers about copyright strikes.
+
+Importantly, YouTube’s copyright strikes system is broken: the three strike policy goes beyond the ambit of the Digital Millennium Copyright Act, and has been used to create a fear of a complete ban for many YouTubers for whom this is now their primary source of livelihood. Effectively, they’re enabling an alleged misuse of their system. It’s not like YouTube is not aware of abuse of its copyright claims system. According to its transparency report for 2024: “Over 6% of videos requested for removal through the public webform in 2024 were the subject of abusive copyright removal requests, meaning these requests were assessed and rejected by our review team as a likely false assertion of copyright ownership.”
+
+The question here is whether YouTube would want to treat this alleged demand for money on the basis of an alleged misuse of three-strike-policy an abuse of its copyright management tools. This is tightrope for them to walk, because it could result in a lawsuit from a copyright owner.
+
+Fourth , and this is an often repeated complaint, but YouTube has failed to account for the complexities of Fair Use, and given a blunt instrument like three strikes to copyright owners.
+
+Fifth , channel deletion with the removal of the ability to create another channel, is an extreme action, and illustrates a lack of proportionality here, where even an inadvertent mistake has terminal consequences.
+
+They’ve also perpetuated an already significant power imbalance between large copyright owners and individual creators, who may feel compelled to comply with demands, even in case of fair use, and this in turn has a negative impact on free speech on the platform, especially, in this case, the suppression of critical voices.
+
+Of course, the lack of intention to intervene here is understandable: YouTube profits from both the ad revenue from creators’ videos, and that of IP holders like ANI. This dual dependence leads to a systemic incentive to avoid siding with either party, especially where legal ambiguity exists. They also don’t want to get involved in adjudicating copyright issues lest either party hold them to account for it. At the same time, it may be argued that YouTubeâs Content ID is effectively performing legal interpretation: it assesses ownership, determines potential violations, and enables consequences without judicial oversight. It is, in effect, a law unto itself with no real due process or accountability for this decision making.
+
+First, YouTube should consider suspending its three-strike account termination policy in cases where the alleged copyright violation involves minimal usageâfor example, less than 10 seconds used within a video that is over 10 minutes long. In case of repeat instances of multiple strikes, they should perhaps have an automated review of the strikes from the copyright owner. It’s not like Google doesn’t have tools for pattern recognition.
+
+Second, it should consider a product design change, in case this isn’t already done: YouTube is aware of what segments of someones copyrighted material has been used in a video, and they’re aware of the length of the video. For Content ID requests, a nudge in their product design warn to copyright owners about issuing strikes would help.
+
+For example, it could point out that “your copyrighted material is 5 seconds of a 15 minute video. Are you sure this isn’t fair use? Are you sure you want to issue a copyright strike? Repeated abuse of copyright strikes may lead to your Content ID account being suspended.
+
+Third, it should create a separate team to deal with YouTubers, and run programs to help them understand copyright issues better.
+
+Fourth , it should remove automated channel deletion as a consequence of copyright strikes.
+
+Fifth, YouTube needs to change its policies to interpret fair dealing from an Indian copyright law perspective, where fair dealing for the purpose of the reporting of current events and current affairs is permitted.
+
+There are only three outcomes possible here: either YouTube stands up for its community and enabling fair usage, this goes to court, or YouTubers accept the new reality that even apparent minor usage of copyrighted material lead to demands for compensation.
+
+Read More:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

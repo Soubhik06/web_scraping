@@ -1,0 +1,33 @@
+We missed this earlier: In May this year, the London School of Economics and the non-profit 5Rights Foundation released a report identifying the changes online platforms have made to comply with the UK’s Age Appropriate Design Code (AADC). This code is a part of the UK’s Data Protection Act, 2018 and applies to social media platforms, streaming services, connected toys and all other services that process children’s data. Children are defined as people up to the age of 18 years. It outlines standards of privacy and security that online services which cater to children must adhere to.
+
+As per the research conducted by the two, between 2017 and 2024, Meta, Google, TikTok and Snap made 128 changes to their platforms. Of these, 42 changes were logged across the four companies in 2021 when the code came into effect. Although the companies have only attributed five changes to specific legislation or regulations, the report suggests that the timing and nature of these changes indicate possible links to regulatory requirements.
+
+The report assesses risks based on the Organisation for Economic Co-operation and Development’s ( OECD) typology of risks faced by children in digital environments and changes are being made by platforms to address all these categories.
+
+By default here refers to the settings an application has prior to the user making any changes based on their requirements. The AADC requires companies to set privacy settings to high by default and ensure that location data is turned off by default. As per the findings highlighted in the report, 63 changes were made in the by-default category, with Google making 17, Meta making 26, Snap making 4, and TikTok making 16 changes. This, the report says, highlights the impact of the by-default design concept as a regulatory measure.
+
+All four companies have also notably prohibited advertising to children based on profiling, starting with some restrictions in 2021 in response to the AADC. Then, in 2023, the companies fully implemented the prohibition on such advertising, in response to the Digital Services Act (DSA) in the EU. Of the 63 changes in the by-default category, 25 were made in 2021 (which is when the AADC was to take effect).
+
+Within the by-default category, changes were made in a wide range of features including messages, recommendation systems, ad settings, content and ad settings. Some of the changes include—
+
+Notably, Google and Meta introduced age assurance mechanisms on their services. In 2019 Meta added a sign-up requirement that all Instagram users must enter a birth date. Then in 2022, Instagram announced a test of a new system to verify ages when users attempt to amend their birth date. There are three options: upload their ID, record a video selfie or ask mutual friends to verify their age. The video selfie uses age estimation technology from a platform called Yoti. The report highlights that this is a limited change as it does not cover new users signing up to the platform.
+
+Similarly, in 2020, YouTube announced that if their systems are unable to establish that a viewer is above the age of 18, they will request that they provide a valid ID or credit card to verify their age.
+
+The four companies made 37 changes to their tools and the highest number of these changes were made in 2023. This, the report says, may indicate that the companies sought to announce changes to tools as a response to the coming impact of the Digital Services Act (DSA) and the UK’s Online Safety Act (OSA) . Meta made 17 changes to its tools, followed by TikTok which made 10, Google at 6 and Snap at 4. Some examples of these are—
+
+21 changes related to information provision across the four companies, with Meta yet again emerging as the company that made the highest number of changes at 12, followed by TikTok at 4, Snap at 3 and Google with 2 changes. The information provided covers a range of scenarios – safety, privacy and wellbeing. Some of the examples of these changes are—
+
+While the information provided could empower children and parents, there is a risk that companies over-promote the value of information measures as an empowerment tool without evidence to support the tangible impact.
+
+Only 7 changes were made to support, with Meta introducing 6 of these and TikTok introducing 1 change. Examples of the changes made include—
+
+Just like the UK, India has also brought in specific rules for how platforms can process the data of those under the age of 18 under the Digital Personal Data Protection Act (DPDP, 2023) . As per the act, platforms are required to obtain verifiable parental consent before processing the data of anyone under 18. They are also restricted from tracking or carrying out behavioral monitoring. Given that the rules meant to implement the act are yet to be released for public consultation, the changes made by platforms in other jurisdictions give us a sense of the ways in which companies would comply with the requirements set out by the act and its rules.
+
+Also read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

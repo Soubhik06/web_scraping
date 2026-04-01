@@ -1,0 +1,33 @@
+The National Payments Corporation of India (NPCI) has instructed all Unified Payments Interface (UPI) members to seek consent from users before collecting their location data, as per a circular issued onÂ July 5.
+
+Why does this matter? Â Privacy activists have pointed out that collecting location information (geo-tag, geo-code) of the user while processing their transaction posesÂ surveillance risks . Regardless of what prompted NPCI to issue these new guidelines and the delay in doing so (~6 years), theseÂ guidelines address some of the privacy concerns because UPI apps like Google Pay and PhonePe can no longer geo-tag transactions without user consent and cannot deny UPI services to users who don’t share location data. Currently, Google Pay and other UPI apps do not allow you to initiate a transaction if location sharing is denied.
+
+After 6 years and billions of transaction, @NPCI_NPCI talks about 'consent' while collecting geo-coords for every #UPI txn & gives 6 more months time to make such data collection a choice based consent.
+
+Is there a #GPS coord in India – where @NPCI_NPCI doesn't have txn data pic.twitter.com/SJTrkrH8R6
+
+— Srikanth.CashlessConsumer | à®¸à¯âà®°à¯à®à®¾à®¨à¯à®¤à¯ (@logic) July 11, 2022
+
+In the UPI application programme interface (API) framework, location information of the payment is captured while initiatingÂ a transaction. “As mentioned in the NPCI guidelines, location details along with other relevant customer data needs to be captured within the app provider’s system in an encrypted format. In extension to the statedÂ guideline, since geo-tagging involves customer-centric information and such data points are used as per theÂ defined norms and regulations, we are releasing the below-mentioned directions to be followed by allÂ the UPI members,” the circular stated.
+
+Applicability: Â The aforementioned guidelines are applicable to domestic UPI transactions where the customer (payer) is an individualÂ who is initiating transactions.
+
+Deadline:Â All the UPI members must comply with these guidelines by December 1, 2022. “In case ofÂ non-compliance, PCI reserves the rights to take necessary regulatory actions on the members,” the circular states.
+
+“The UPI specifications, ever since its first version, mention transaction metadata related to device and location being collected. […] Multiple developers mentioned that even in apps that didn’t explicitly have location permissions, PSPs were auto-populating GPS coordinates by using geo-IP databases and issuer banks were using these in fraud and risk management.Â The collection of this data is problematic, and is being made available to at least NPCI and issuer PSP [Payment Service Provider] and is stored along transaction data for 5-7 years. This coupled with CrPC 91 [Section 91 in The Code Of Criminal Procedure, 1973] poses a deep threat to individuals’ privacy and UPI transaction metadata holds users’ historic location longer than most cell tower data records of telcos would,” Srikanth Lakshmanan of CashlessConsumer explained to MediaNama.
+
+Lakshmanan, in a blog post Â dated March 2017, wrote: “In a centralised architecture such as UPI, where each request is decrypted at NPCI, this means that any user of UPI app is constantly sending location information to NPCI (a pvt body owned by banks and a friend of state) […]Â Fact remains, nobody cares to respond to fears of privacy, surveillance, regressive terms and conditions because products of India Stack are one large monopoly, that is friendly to power corridors, run by not willing to be accountable to the public.”
+
+NPCI has not explicitly provided a reason for why it is now requiring apps to get user consent before collecting location data, but one main reason might be the stricter privacy measures that Android and iOS are instituting for apps that run on their platforms. “This is likely because of Android exposing and highlighting location gathering and users thus becoming more aware of what these apps are doing and not because NPCIÂ is suddenly pro-privacy,” Kingsly wrote on Twitter.
+
+What's probably happened is users are revoking location access more than before and it's delaying UPI txns which need location data.
+
+(Recent Android releases no longer allows apps to surreptitiously deternube location via WiFI APs without also enabling Location permissions)
+
+— mas.to / (@kingslyj) July 11, 2022
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

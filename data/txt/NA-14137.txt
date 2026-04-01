@@ -1,0 +1,65 @@
+By Paul Haskell-Dowland ( Edith Cowan University )
+
+Australia should work towards adopting a mandatory age-verification system for gambling and pornography websites, according to a recommendation from the federal parliamentary cross-party committee on social and legal issues.
+
+The recommendation follows the committee’s inquiry findings, released last month as a report titled Protecting the age of innocence . It identified high levels of concern, particularly among parents, about underage access to pornography and gambling sites.
+
+The committee has asked Australia’s eSafety Commissioner and Digital Transformation Agency to work towards implementing the system.
+
+But as the UK’s recently aborted effort shows, delivering on this idea will mean overcoming a host of technical and logistical hurdles, including identity fraud and the use of virtual private networks (VPNs) or anonymising browsers such as Tor.
+
+Like most developed countries, Australia has long had laws that restrict underage access to adults-only products. Attempting to buy a bottle of beer will quickly prompt a request for proof of age.
+
+But for as long as there have been rules, people have looked for ways to break them. Would-be underage drinkers can attempt to find a fake ID, a retailer willing to ignore the law, or simply an older friend or relative willing to buy some beer for them.
+
+Just like alcohol, access to gambling and pornography have been age-restricted by law for some time. This used to be relatively easy to enforce, when the only way to access such items was through a retail store. But everything changed when these things became available on the internet.
+
+Pornography and gambling represent significant proportions of web searches and traffic. According to one recent estimate , pornography accounts for up to 20% of internet activity.
+
+According to the committee’s report, the average age of first exposure to pornography is now between 8 and 10 years :
+
+It’s now not a matter of “if” a child will see pornography but “when”, and the when is getting younger and younger.
+
+The report also warns that adolescents are increasingly exposed to gambling advertisements :
+
+Adolescents today are increasingly exposed to gambling marketing… alongside increased accessibility and opportunities to gamble with the rise of internet and smart phone access.
+
+In an era where age-limited content is available for free to anyone with a web browser, how do we enforce age restrictions?
+
+Age verification legislation for online pornography has already been tried in the UK, when it introduced the Digital Economy Act 2017 . But by 2019 the attempt was abandoned , citing technical and privacy concerns.
+
+It seems simple in principle but is fraught with difficulty in practice. Given the global scale of these industries, it is almost impossible for the government to even generate a list of applicable websites. Without a definitive list, it will be difficult to block access to sites that do not comply.
+
+The situation is complicated further by the fact that many sites are hosted overseas, meaning they may have to provide different age-verification mechanisms for users in different jurisdictions.
+
+Credit card verification has become the default solution, as there are global platforms to verify credit cards. But while it is possible to verify a card number, there are various ways to obtain such details.
+
+A minor could potentially use a parent’s credit card, or even fraudulently obtain their own. Other ID options such as driving licences could potentially be used instead, but this may not be a popular option for legitimate users because of the risks of identity fraud or privacy breaches. This would also pose logistical challenges: imagine a US-hosted pornography site having to verify Australian driving licence details.
+
+Even if a technical solution is found, there are already established ways to evade the rules. Consumers are increasingly turning to VPNs to bypass regional restrictions on media content .
+
+A VPN allows a user’s internet traffic to appear to originate from another location. Often referred to as “tunnelling”, it effectively fools systems or services into thinking you are in another part of the world, by swapping the users’ local IP (internet) address with another address. Some VPN providers now explicitly advertise their product as a solution to the regional restrictions of streaming companies like Netflix and Amazon.
+
+It’s not hard to imagine that many consumers would turn to VPNs to dodge any verification procedures implemented here in Australia.
+
+Consumers concerned about privacy are also likely to use the Tor browser.
+
+Tor works in a similar way to a VPN. While it still hides the location of the user (potentially looking like they are in another country), Tor also ensures that traffic is bounced between multiple points on the internet to further obscure the user (and thus their age).
+
+The committee has acknowledged this but vowed to press on regardless, arguing :
+
+While age verification is not a silver bullet, it can create a significant barrier to prevent young people — and particularly young children — from exposure to harmful online content. We must not let the perfect be the enemy of the good.
+
+It is still early days, and there is much work for the eSafety Commissioner and the Digital Transformation Agency to do. It is also clear there is both government and public pressure to identify and implement solutions to safeguard children and vulnerable individuals. But unfortunately, human nature will inevitably render any developed solution as more full of holes than a block of Emmental.
+
+It would be easy to say we shouldn’t bother, or that parents should take responsibility. The reality is that implementing any solution will protect at least some of the vulnerable population and will form part of a layered approach. With widespread support, targeted education and age-verification, there is, perhaps, the potential for success.
+
+*
+
+Paul Haskell-Dowland is the Associate Dean (Computing and Security) at Edith Cowan University .
+
+This article is republished from The Conversation under CC BY-ND 4.0 licence .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,199 @@
+Ad: India’s Data Protection Bill is here, and your business needs to adapt. K&S Digiprotect, with its team of data protection experts, offers compliance services tailored to help you adapt to the new regulations, safeguard your data and build trust with your customers.Â ContactÂ us Â now!
+
+The Indian government on August 11, 2023, notified the Digital Personal Data Protection (DPDP) Act, 2023 [ PDF copy ], giving the country a data protection law as mandated by the Supreme Court in the landmark Puttaswamy judgment in 2017.
+
+The DPDP Bill, 2023, was passed by the Lok Sabha (lower house) on August 7 and by the Rajya Sabha (upper house) on August 9. It received the President of Indiaâs assent on August 11 before being enacted as the DPDP Act, 2023.
+
+Note: The DPDP Act contains many provisions that have a clause saying âas may be prescribedâ or its equivalence. This essentially gives the government the power to issue rules later on to elaborate on these provisions. Consequently, the following summary also has “as may be prescribed” appearing in many sections.
+
+Personal data: âAny data about an individual who is identifiable by or in relation to such data.â
+
+Digital personal data: “Personal data in digital form.”
+
+Data Fiduciary: âAny person who alone or in conjunction with other persons determines the purpose and means of processing of personal data.”
+
+Processing: “A wholly or partly automated operation or set of operations performed on digital personal data, and may include operations such as collection, recording, organisation, structuring, storage, adaptation, retrieval, use, alignment or combination, indexing, sharing, disclosure by transmission, dissemination or otherwise making available, restriction, erasure or destruction.”
+
+Data Principal: “The individual to whom the personal data relates, and where such individual is:
+
+Data Processor: Â âAny person who processes personal data on behalf of a Data Fiduciary.â
+
+Person:
+
+Personal data breach: “Any unauthorised processing of personal data or accidental disclosure, acquisition, sharing, use, alteration, destruction of or loss of access to personal data, that compromises the confidentiality, integrity or availability of personal data.”
+
+1. Processing of personal data collected within the territory of India when the data is collected in digital form or is collected in non-digital form and digitised subsequently.
+
+2. Processing of digital personal data outside of India, if the processing is in connection with any activity related to offering of goods or services to users within the territory of India.
+
+3. Does not apply to personal data
+
+1. Personal data can only be processed with consent or for certain legitimate uses: Data Fiduciaries can only process personal data for lawful purposes for which the Data Principal has given consent or for certain legitimate uses prescribed in the Act. The processing must be in accordance with the provisions of the Digital Personal Data Protection Act (henceforth referred to as the Act).
+
+2. Showing notice and obtaining consent: When seeking consent, Data Fiduciaries must present a notice to the user. If a user has given consent before the commencement of this Act, the Data Fiduciary should give this notice “as soon as it is reasonably practicable.”
+
+4. Legitimate use cases that don’t require consent: A Data Fiduciary can process personal data without obtaining user consent for the following “legitimate uses”:
+
+5. Preventing and notifying personal data breaches: A Data Fiduciary must “protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor, by taking reasonable security safeguards to prevent personal data breach.” In case of a data breach, the Data Protection Board and each affected Data Principals must be notified in such manner âas may be prescribed.â
+
+6. Erasure of personal data: Data Fiduciaries must erase the personal data once the user withdraws their consent or as soon as it is reasonable to assume that the specified purpose is no longer being served, whichever is earlier, unless retention is necessary for compliance with any law. The Data Fiduciaries must also ensure that the Data Processors involved erase the data.
+
+The purpose is no longer being served, if the Data Principal, for such time period “as may be prescribed,” does not:
+
+For example, if a user hires the services of a car-selling website to sell their car and the sale is concluded, then the personal data shared by the user with the website must be deleted because the purpose is served, the Act illustrates. Â However, if legally required to maintain the data for other reasons, the entity can continue to retain data as per provisions of other laws. Banks, for example, have to maintain data of their clients for a period of 10 years beyond the closing of accounts.
+
+7. Maintaining the accuracy of data: Â If the personal data processed by a Data Fiduciary is likely to be used to make a decision that affects the Data Principal or if the data is going to be shared with another Data Fiduciary, then the Data Fiduciary should ensure the “completeness, accuracy and consistency” of the personal data.
+
+8. Appointing a Data Protection Officer or contact person: Data Fiduciaries must publish the business contact information of a Data Protection Officer or a person who is able to answer questions that a user might have about the processing of their personal data. For Significant Data Fiduciaries itâs Data Protection Officers, for others it can be any other officer. These details should be published in the format “as may be prescribed.”
+
+9. Grievance redressal mechanism: Data Fiduciaries must “establish an effective mechanism to redress the grievances of Data Principals.”
+
+10. Can appoint Data Processor only under a valid contract: A Data Fiduciary may involve a Data Processor to process personal data on its behalf only under a valid contract.
+
+11. Implement technical and organisational measures to adhere to the Act: A Data Fiduciary should implement “appropriate technical and organisational measures to ensure effective observance of the provisions of this Act.”
+
+The government has the power to notify any class of Data Fiduciaries (or any specific Data Fiduciary) as Significant Data Fiduciaries and subject them to additional obligations, in addition to the ones outlined above.
+
+The government will notify the criteria for Significant Data Fiduciaries based on the following factors:
+
+Any entity classified as a Significant Data Fiduciary is required to:
+
+1. Appoint a Data Protection Officer who will represent Data Fiduciary under the provisions of this Act and be based in India. This Officer will be responsible to the Board of Directors or similar governing body of the Significant Data Fiduciary and serve as the point of contact for the user grievance redressal mechanism.
+
+2. Appoint an Independent Data Auditor to carry out a data audit and evaluate the compliance of the Significant Data Fiduciary in accordance with the provisions of this Act.
+
+3. Undertake Data Protection Impact Assessment and periodic audit in relation to the objectives of this Act, and other measures âas may be prescribed.â Data Protection Impact Assessment is defined as “a process comprising a description of the rights of Data Principals and the purpose of processing of their personal data, assessment and management of the risk to the rights of the Data Principals, and such other matters regarding such process as may be prescribed.”
+
+4. Other measures: Any other measures in relation to the purposes of this Act “as may be prescribed.”
+
+A Data Fiduciary processing data of a child (defined as anyone under the age of 18) or a person with a disability who has a lawful guardian, must:
+
+1. Obtain verifiable consent from parent or guardian: Obtain verifiable consent of the parent of the child or the lawful guardian before processing any personal data of the person, in such manner âas may be prescribed.â
+
+2. Cause no harm to the child: Not undertake any processing of personal data that is “likely to cause any detrimental effect on the well-being of a child.”
+
+3. Not engage in targeted advertising or behavioural monitoring: Not undertake “tracking or behavioural monitoring of children or targeted advertising directed at children.”
+
+4. Some Data Fiduciaries could have a lower age threshold or be exempted: If the government is satisfied that a Data Fiduciary has ensured that the processing of personal data of children is done in a manner that is “verifiably safe”, then the government can exempt the fiduciary from (1) and (3) for children above a certain age (in effect, lowering the 18-year-old threshold that applies to everyone else).
+
+5. Other Exemptions: Additionally, (1) and (3) shall not be applicable to “such classes of Data Fiduciaries or for such purposes, and subject to such conditions, as may be prescribed.”
+
+1. Right to access information about personal data: The user has the right to request from a Data Fiduciary:
+
+An exemption to the last two points is applicable if a Data Fiduciary shares personal data with any other Data Fiduciary authorised by law to obtain such personal data “for the purpose of prevention or detection or investigation of offences or cyber incidents, or for prosecution or punishment of offences.”
+
+2. Right to correction of personal data: The user has the right to request for:
+
+The request for correction should be made in the format “as may be prescribed.”
+
+3. Right to erasure of personal data: Users can request for the erasure of their personal data which must be complied with by the Data Fiduciary unless retention is necessary for the purpose for which it was processed or for compliance with any law for the time being in force. The request for erasure should be made in the format “as may be prescribed.”
+
+Notably, the above three rights only apply in cases where the user has given consent or has voluntarily provided data to a Data Fiduciary (other legitimate use grounds don’t apply).
+
+4. Right of grievance redressal: Users have the right to “readily available means of grievance redressal provided by a Data Fiduciary or a Consent Manager”, which can be exercised by users in respect to the Data Fiduciary or Consent Manager’s obligations or the users’ rights under the provisions of this Act.
+
+The Data Fiduciary or Consent Manager should respond to grievances within such period “as may be prescribed.” The user can escalate their grievance to the Data Protection Board only after exhausting their options with the Data Fiduciary or Consent Manager first.
+
+5. Right to nominate:Â A user has the right to nominate any other individual, who shall, in the event of death or incapacity of the user, exercise the rights of the user. The nomination can be in such manner “as may be prescribed.”
+
+6.Â Duties of Data Principals:Â
+
+Data Fiduciaries can transfer personal data for processing to any country or territory outside India except to such country or territory outside India the Central Government notifies.
+
+This law, however, does not override any other laws “that provides for a higher degree of protection for or restriction on transfer of personal data by a Data Fiduciary outside India.” (This means RBI’s and SEBI’s data localisation mandate will continue to apply for the sectors they regulate).
+
+The Central Government can issue a notification exempting any âinstrumentality of the Stateâ from the provisions of this Act in the interests of the:
+
+The Central Government is also exempted from the Act while processing any personal data that an exempted instrumentality may furnish to it.
+
+Additionally, the government and its instrumentalities can retain personal data for an unlimited period of time regardless of whether the purpose for which data was collected has been served or not and users don’t have the right to request erasure of their personal data collected by the government or its instrumentalities.
+
+The government also doesn’t have to allow for correction, completion or updating of personal data by a Data Principal if the processing is for a purpose that does not include making a decision that affects the Data Principal.
+
+1. Exemptions for startups and certain classes of Data Fiduciaries by notification: The Central Government has the power to issue a notification exempting certain Data Fiduciaries or a class of Data Fiduciaries, “ including startups”, based on the volume and nature of personal data they process, from the following provisions of the Act:
+
+2. Exemptions to any provision for a certain period of time: Within five years from the date of commencement of this Act, the Central Government may issue a notification declaring any provision of this Act shall not apply to such Data Fiduciary or classes of Data Fiduciaries for such period as may be specified in the notification.
+
+3. Exemptions for certain use cases: The Act exempts entities from provisions of Chapter 2 (obligations of Data Fiduciaries) except sub-section 1 and 5 (provision related to securing data) of Section 8; Chapter 3 (rights and duties of Data Principals); and Section 16 (transfer of personal data outside India) of this Act when:
+
+4. Exemption for research and statistical purposes: The Act does not apply to the processing of personal data “necessary for research, archiving or statistical purposes if the personal data is not to be used to take any decision specific to a Data Principal and such processing is carried on in accordance with such standards as may be prescribed.”
+
+Establishment of the Data Protection Board of India (DPBI): The Central Government will establish the Data Protection Board of India (henceforth referred to as the Board) by issuing a notification.
+
+Composition of the Board: The Board will consist of a Chairperson and other Members, who will be appointed by the Central Government “in such manner as may be prescribed.”
+
+Validity of the Board’s actions:Â No act or proceeding of the Board is invalid merely because of:
+
+Employees of the Board:Â
+
+Funding for the Board: For setting up and functioning of the Board, the government estimates about Rs 25 crore towards initial capital expenditure and Rs 10 crore annually for recurring expenditure. This expenditure will be incurred out of the Consolidated Fund of India.
+
+Article continues below â¬ , you might also want to read:
+
+Scope of Data Protection Board under India’s Digital Personal DataÂ ProtectionÂ Bill
+
+Here’s when entities don’t need to ask for consent as per India’s Digital Personal Data Protection BillÂ
+
+Indiaâs Digital Personal Data Protection Bill, 2023: What privacy rights do individuals have?Â
+
+1. Inquire and impose a penalty based on complaints: If the Board receives a complaint from a user a reference from the government or a direction from a court concerning any breach by a Data Fiduciary or a Consent Manager in observance of their obligations or in the exercise of the user’s rights, the Board can inquire into the breach and impose a penalty. The procedure to be followed for such inquiries is detailed in the next section.
+
+2. Address personal data breaches: In the event of a personal data breach, the Board can direct the Data Fiduciary to adopt any urgent remedial or mitigation measures, inquire into the breach, and impose a penalty.
+
+3. Issue directions: The Board may issue directions after giving the concerned persons a reasonable opportunity to be heard and after recording its own reasons in writing. The Board also can also modify, suspend, withdraw, or cancel any direction it has issued.
+
+Appeal against Board orders in Appellate Tribunal:Â Any person aggrieved by an order of the Board can file an appeal before the Telecom Disputes Settlement and Appellate Tribunal (established under section 14 of the Telecom Regulatory Authority of India Act, 1997)Â within sixty days from the date of the order “in such form and manner and shall be accompanied by such fee as may be prescribed.”
+
+The Appellate Tribunal will deal with an appeal in accordance with such procedure as may be prescribed.
+
+After hearing the parties to the appeal, theÂ Appellate Tribunal may pass orders confirming, modifying or setting aside the order issued by the Board. This should be done within six months and if cannot be, the Appellate Tribunal should record its reasons in writing.
+
+An order passed by the Appellate Tribunal will be treated as as a decree of a civil court, and for this purpose, the Appellate Tribunal will have all the powers of a civil court. The Appellate Tribunal can also transmit any order made by it to a civil court having local jurisdiction.
+
+An order by the Appellate Tribunal can be appealed at the Supreme Court as per section 18 of the Telecom Regulatory Authority of India Act, 1997.
+
+Alternate Dispute Resolution: “ If the Board is of the opinion that any complaint may be resolved by mediation, it may direct the parties concerned to attempt resolution of the dispute through such mediation by such mediator as the parties may mutually agree upon, or as provided for under any law.”
+
+Voluntary undertaking:Â The Board can accept voluntary undertakings from entities at any stage of its inquiry. Such voluntary undertaking may include an undertaking to take specified action within a specified time, or refrain from taking specified action, and or publicizing such undertaking. The Board can request for the terms of the undertaking to be modified. If the undertaking is finally accepted by the Board, any ongoing relevant proceedings against the concerned entity must be barred and no penalties can be imposed unless the terms of the undertaking are not complied with by the entity.
+
+Applicable penalties according to the Schedule of the Act:Â
+
+The Board gets to determine the quantum of penalty: If the non-compliance by a person is deemed significant by the Board, the Board can determine the quantum of financial penalty to issue as long as it adheres to the Schedule published by the government. To determine the amount, the Board should consider the following factors:
+
+Penalties go to the Consolidated Fund of India: “All sums realised by way of penalties imposed by the Board under this Act shall be credited to the Consolidated Fund of India.”
+
+Power to amend the amount of penalties: The Central Government has the power to amend the Schedule prescribing the penalties by issuing a notification. But the Schedule cannot be modified by the government to exceed double what was specified in it when this Act was originally enacted (which would put the max at â¹500 crores as the Act currently stands). The amendment must be presented to the parliament for debate after itâs notified.
+
+Power of the Central Government to block access to content on advice from the Board:Â In case of repeated imposition of penalties against an entity or in the “interests of the general public”, the Board can advise the Central Government to block access “to any information generated, transmitted, received, stored or hosted, in any computer resource” that enables such Data Fiduciary to carry out its business in India.
+
+The Central Government, after giving the Data Fiduciary an opportunity to be heard and for reasons recorded in writing, can order any agency of the Central Government or any intermediary to block access to such information belonging to that Data Fiduciary.
+
+The terms “computer resource”, “information” and “intermediary” will have the meanings defined in the Information Technology Act of 2000.
+
+Power of Central Government to make rules: The Central Government has the power to issue notifications to make rules to carry out the purposes of this Act. Rules can be issued for all parts of the Act that have a provision saying, “as may be prescribed.” These rules don’t need to presented before the parliament.
+
+Notifications and rules can also be issued for notifying countries to which transfers of personal data are prohibited and for amending the schedule of penalties, but these two notifications must be laid before the parliament (can be laid post notification), while it is in session, for a total period of thirty days. The parliament can decide to amend the notification or rule pertaining to these two aspects.
+
+Power of Central Government to call for information: The Central Government can, for the purposes of this Act, require the Board and any Data Fiduciary to furnish such information as the government may call for.
+
+Protection from liability for action taken in good faith:Â No suit, prosecution or other legal proceedings can lie against the Central Government, the Board, its Chairperson and any Member, officer or employee of the Board for anything that is done or intended to be done in good faith under the provisions of this Act.
+
+Bar of jurisdiction on courts: No civil court will have the jurisdiction to entertain a suit in respect of any matter for which the Board is empowered under the provisions of this Act and no court or authority can grant injunction in respect of any action taken under the provisions of this Act.
+
+Amendments to RTI Act: The Act modifies Section 8(1)(j) of the Right to Information Act, 2005.
+
+This section says that the Indian state is not obliged to disclose personal information under the RTI Act that has no relationship to any public interest or activity, or which causes the unwarranted invasion of the individualâs privacy, unless the Central or State Public Information Officer, or the appellate authority, determines that the âlarger public interest justifies the disclosure of such informationâ. The section further adds that information that cannot be denied to the Parliament or to a State Legislature will not be denied to an individual person.
+
+The DPDP Act, 2023, amends Section 8(1)(j) of the RTI Act to merely state that “the Indian state is not obliged to disclose information which relates to personal information,” essentially removing the power of the Public Information Officer or an appellate authority to override this, thus diluting to the power of citizens to seek information under the RTI Act.
+
+Power to remove any difficulties: If any difficulty arises in giving effect to the provisions of this Act, the Act allows the government to, within 3 years of the Act going into effect, issue an order to add provisions to the Act to remove the difficulties as long as the new provisions are not inconsistent with the existing provisions of the Act. Any such changes must be presented to the parliament.
+
+Update (10 August, 8:45 am): Removed references to what happens next in the intro as the Bill has been passed in the Lok Sabha and Rajya Sabha.
+
+Update (22 August, 5:25 pm): Updated the “Power of Central Government to make rules” section to clarify that rules only need to be presented before parliament in two instances, not for all rules.
+
+Update (November 1, 12:30 pm): Changed all references of Digital Personal Data Protection Bill to Digital Personal Data Protection Act since the Bill was enacted on August 11.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

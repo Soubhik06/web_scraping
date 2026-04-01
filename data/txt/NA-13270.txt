@@ -1,0 +1,83 @@
+If WhatsApp has the most cybercrime-related cases, then why not pass the SIM Binding directive to only WhatsApp? Or to the app with the most cybercrime cases, instead of a selective or blanket order to all number-using app-based communication apps?
+
+Notably, WhatsApp accounted for more cybercrime complaints than any other platform during the first quarter of 2024. For context, it recorded more than twice the number of complaints seen on Telegram, Instagram, or Facebook, as per official data provided by the Union Home Ministry’s Indian Cyber Crime Coordination Centre (I4C).
+
+Furthermore, WhatsApp witnessed over 11 times the complaints linked to fraud originating from YouTube.
+
+But the Department of Telecommunications (DoT), which also issued the now-revoked Sanchar Saathi mandate , mandated the SIM binding directive to only two of the above-mentioned platforms: WhatsApp and Telegram.
+
+Additionally, the DoT also mandated this directive for apps like Signal, Arattai, Snapchat, Sharechat, Jiochat, and Josh. Specifically, ShareChat and Josh are not messaging services primarily; rather, they operate as short-video-based social networking platforms that offer private messaging features, just like Instagram or Facebook, which were excluded from serving the SIM binding directive.
+
+Nikhil Pahwa, Editor and Founder of MediaNama, questioned the DoT’s lack of clarity on whom SIM binding should apply to during MediaNama’s recent discussion on the “Impact of SIM Binding on Social Media.”
+
+Then, the question remains: What clear criterion is the DoT using to bring only certain applications under the SIM binding directive while excluding others?
+
+More importantly, why not target the applications where the most fraud occurs, instead of issuing blanket directives to all mobile number-using app-based communication services?
+
+“Now, if you are just going to target one platform, I don’t think it will stand scrutiny. That would then be a case of discriminating against one platform while others [that] are offering similar kinds of services [are exempted],” Prasanth Sugathan, Legal Director at SFLC.in , remarked when Pahwa asked why regulators shouldn’t focus solely on the platforms with the highest number of cybercrimes.
+
+Kamya Pandey, the moderator of the discussion, addressed the uncertainty around the SIM binding directive’s applicability to companies that did not receive the notice and asked, “Does it still apply to app-based communication service providers beyond the companies listed [in the directive] as well? Let’s say I run an app-based communication service that is not one of the companies listed. Can I then claim that my company was not listed?”
+
+Meanwhile, Sugathan said that, “It’s like any other order: just because it doesn’t mention you by name or the company by name, that doesn’t mean it is not applicable to you.”
+
+“The main condition is whether you are providing an app-based communication service. If you are, then you are covered. The second condition is whether you are using a mobile number either to identify customers or to provide the service. These are the two conditions. So even if your name or your company’s name does not appear here, you would still be covered. That is my reading of it,” Sugathan further explained.
+
+Furthering the argument, Pahwa asked, “So, for example, an e-commerce service that uses a mobile number for identification is a Telecommunication Identifier User Entities (TIUEs) but may not be covered under this regulation, is that what you’re saying? Because this is specific to the usage of a TIUE for the delivery of [app-based messaging] services, correct?”
+
+After initially interpreting the directive narrowly, Nikhil Narendran, Partner in the TMT practice at Trilegal, later agreed with Pahwa.
+
+For context, Narendran said that the directive was “very, very broad” after Pahwa pointed out that the IT Act defines communication as “data transfer”: which could also include texting features even in payment apps such as Paytm, PhonePe or dating apps.
+
+The question then is: What intelligible criterion is the DoT using to include some apps while excluding others? This is pertinent to ask because the SIM binding directive is addressed to all the TIUEs providing “app-based Communication Services utilising Mobile Number for identification of customers/users or for provisioning or delivery of services in India”.
+
+So, why shouldn’t regulators serve Bumble , or communication-driven applications, with the SIM binding notice, especially when individual cybercrimes and large racket-level scams have occurred on online dating apps as well?
+
+Interestingly, Narendran distinguished between using a mobile phone number as a login mechanism and using it to identify the user. He remarked that: “Let’s take the example of WhatsApp or Signal. How is WhatsApp or Signal directing the communication to you? How is the user identified on that platform? It is using the [mobile] number.
+
+“So when Kamya is messaging Nikhil, Kamya’s number is shown against Kamya, Nikhil’s number is shown against Nikhil, and WhatsApp is relying on these numbers as identifiers to some extent. Users on the platform can search using these numbers and message each other using these numbers. So that is the frame within which this regulation has been issued by the government,” he explained.
+
+However, in reality, ShareChat and Josh, which received the SIM binding directive, use one’s phone number as one of the login mechanisms, while also offering users the option to log in through Gmail on ShareChat, and through Gmail as well as Facebook on Josh. Similarly, many other communication-based apps, like Bumble and Tinder, also provide multiple login options to users.
+
+It is important to note here that Bumble specifically requires OTP-based mobile number verification when a user initially creates a new account. So, until the user sets up additional login mechanisms through Facebook or Gmail, the platform identifies the user only through the mobile number.
+
+If that is the case, does it not mean that Bumble, Tinder, or similar apps that identify users solely through mobile numbers despite having additional login mechanisms, should come under the ambit of TIUEs? Especially when after a match is made on such dating apps, the primary function of the app is nothing but text-based communication: which is what the SIM binding directive is targeting.
+
+So, what is the exact rationale behind the exclusion of certain apps from the DoT’s SIM binding directive? And why should popular messaging apps, like Instagram and Facebook Messenger, which are also contributing to cyber fraud as per the MHA’s report be deliberately excluded?
+
+“The intelligible differential, I don’t think, really exists,” Narendran said. “The government seems to have just come out with a list of apps, and the reason they have probably done this is that they see this as where the frauds are happening.
+
+“Not to say that Bumble is not being used for fraud, but it has probably not come to the attention of the government. That is the reason why they have not included it,” Narendran added, highlighting the probable reasons why the government excluded certain apps from the directive’s ambit.
+
+Meanwhile, Anand Venkatanarayanan, who is Deepstrat’s Co-Founder, remarked that, “I think it is a conceptual problem for them [government]. I think they have essentially looked at it and said: ‘Oh, these two things [app & SIM] are tied, so it has to be tied like this.’ There are a whole bunch of issues with that kind of thinking.”
+
+Calling the SIM binding directive arbitrary, Pahwa remarked that: “There is no discernible, intelligible criteria defined under the law or the rules, or the directive based on which the eight companies have been selected to serve the notice.”
+
+During the MediaNama event’s first panel discussion, which focused on ‘Technical Alternatives to SIM Binding’, Venkatanarayanan opined that “fraudsters are going to be in every place where there are people”. For context, he was referring to popular communication apps like WhatsApp and Snapchat.
+
+He also said that, “In India, what I’ve particularly seen is that before a fraud happens, there is an initial contact, and that initial contact usually comes through the internet or the phone.”
+
+And, since the initial contact for a cybercrime happens through the internet or phone, does it make sense for the DoT to regulate internet-based applications like WhatsApp and Snapchat, which are legally under the IT Act, through an amendment to the Cybersecurity Rules in the name of “telecom cybersecurity”?
+
+It is important to note that in December 2023, then-Communications Minister Ashwini Vaishnaw assured that the IT Act of 2000 governs OTT messaging services (like WhatsApp and Telegram) and that the Telecommunication Act, 2023, does not apply to them. Then, wouldn’t the DoT’s attempt to regulate internet-based applications through TIUE directives under the Telecom Cybersecurity Amendment Rules (2025) effectively amount to a backdoor form of jurisdictional overreach?
+
+“If you look at the last few years, we have seen this happening repeatedly, whether with the IT rules or other new regulations, as the government introduces controls through subordinate legislation rather than parent legislation. That is a key concern,” pointed out Sugathan.
+
+Even if it does really make sense for “telecom cybersecurity” reasons, then the current directive is not the ideal way to combat overall cybercrimes: as it extensively turns a blind eye to other possible criminal acts, like using international SIM cards or virtual SIM cards to commit crimes. Notably, Venkata Satish Guttula, who is Cyber Security Consultant at Allied Boston Consultants India Pvt Ltd., raised this very point during MediaNama’s discussion.
+
+Additionally, the SIM binding directive also ignores the possibility of fraudsters migrating to apps that use email-based login mechanisms to scam people, or mobile number-using applications themselves evolving into email-based login mechanisms. Pertinently, Venkatanarayanan cautioned about this during MediaNama’s discussion, saying that: “If you really push messengers, they would move towards a username-based model.”
+
+If they do so, and they can, then what would be the real value of this SIM binding directive? How would it solve the end goal of reducing or preventing overall cybercrimes, and not just partially telecom-dependent cybercrimes?
+
+“So I think it would be useful if the DoT actually opened up to feedback and conducted public consultations so that it understands the situation and the impact better before issuing such far-reaching orders,” Pahwa concluded during the discussion, highlighting the arbitrary nature of the directive, and the way it was issued without any public and/or stakeholder consultation.
+
+Watch the full event video below:
+
+Note: This discussion was organised with support from Meta and Snap. Our community partners for this event are the Internet Freedom Foundation (IFF), Software Freedom Law Centre (SFLC.in) and the Centre for Internet and Society.
+
+Click here to read MediaNama’s coverage on SIM Binding.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

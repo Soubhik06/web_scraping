@@ -1,0 +1,102 @@
+SUBREDDIT: r/IndiaInvestments
+TITLE: Remember the "guest experts" on Zee Business who SEBI penalised for fraud? Here's a fun read about the mechanics of what they did and how SEBI proved their misconduct
+DATE: 2024-03-13
+SCORE: 1
+URL: https://www.reddit.com/r/IndiaInvestments/comments/1bdmvl7/remember_the_guest_experts_on_zee_business_who/
+
+--- POST TEXT ---
+
+*Original Source:* [*https://boringmoney.in/p/guest-experts-on-zee-business-were*](https://boringmoney.in/p/guest-experts-on-zee-business-were?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=guest+experts+zee) *(my newsletter Boring Money. If you like what you read, please do visit the original link to subscribe to receive similar posts directly in your inbox)*
+
+\--
+
+If you have your own stock recommendation show on television and you recommend the stock of a very small, random company with few shares trading in the market, it’s likely that you’re running a scam. The second you recommend this stock, its price will go up because everyone watching your show will rush to buy it. Later, the price will go way down—and everyone would know that you just ran a pump-and-dump and made a lot of money.
+
+If you go on television you don’t want your name and face to appear next to an obviously shitty company. It screams scam from the get-go. Instead, you want your name and face to show up next to a nice, large, trusted company with millions of floating stock. If you recommend the stock of *this* company, it will look nice and probably won’t affect its share price too much.
+
+If your goal was to genuinely recommend a stock, this serves its purpose. But if you actually did want to run some sort of fraud, making money out of a recommendation of a liquid stock is difficult.
+
+Here’s an alternative. Instead of recommending the *stock* of a legit company, how about you recommend its derivative, say, a stock option? That way, you would have a nice legit company name showing up next to your face on television. But a company’s stock options are not going to be as liquid as its shares, so you might be able to push the price up and run your scam anyway!
+
+Last month, SEBI published an enforcement order implicating a bunch of “guest experts” appearing on the TV channel Zee Business for fraud. Here’s a screenshot from SEBI’s [order](https://www.sebi.gov.in/enforcement/orders/feb-2024/in-the-matter-of-trading-based-on-the-stock-recommendations-given-by-guest-experts-appearing-on-zee-business-channel_81278.html):
+
+&amp;#x200B;
+
+[The screenshot is from the SEBI order. The annotations are mine.](https://preview.redd.it/la6vua82d2oc1.jpg?width=762&amp;format=pjpg&amp;auto=webp&amp;s=5a762fb6f2741d7ea40fa793a545a9f3f2aa539f)
+
+1. Hindustan Copper is a large, government-owned copper mining company. The company name isn’t far from the guest expert’s face.
+2. But he is not recommending the Hindustan Copper stock. He is recommending a Hindustan Copper call option, the HINDCOPPER 105 CE.
+
+That’s bizarre! If you research a stock and figure that it’s undervalued, sure it makes sense to recommend the stock to your clients or viewers or whoever. That’s your job done. People can then choose how to actually do the investing. They could buy the company shares directly, a straightforward choice, or they could buy a call option, a risky choice. \[1\] You do the research, recommend the company. The investor decides how she wants the exposure to the company.
+
+What is the point really of recommending a very specific option? What is the research that you have done to conclude that *this* particular option is a good buy? \[2\]
+
+I mean, we do know *now* that there probably wasn’t a lot of research that went into this. Hindustan Copper is a large company with a liquid stock, difficult to run a scam, but its options are comparatively much less liquid. You can both defraud investors and not associate yourself with an obviously shady company. Best of both worlds!
+
+# The way it worked
+
+There was this guy called Nirmal Kumar Soni from Jaipur and SEBI’s order pretty much makes him out to be the mastermind behind the fraud. Sure, the “guest experts” were the ones doing the defrauding but they were sharing their information with Nirmal who was the one trading and actually making the profit.
+
+Here’s an example. Mudit Goyal, the research analyst who recommended the weirdly specific HINDCOPPER call option that I referred to earlier, did it at around 1:05 pm on 8 August, 2022. Ten minutes prior, Nirmal Soni bought 59 of those options at ₹5.77. \[3\] By 1:07 pm, that is, within 2 minutes of Mudit’s recommendation on television, Nirmal sold all those options at an average price of ₹7.02—a 22% profit. He made ₹3.2 lakh ($3,800) in just about 10 minutes.
+
+This is pretty much what all the five “guest experts” did. They recommended a stock option of a credible looking company whose stock would be liquid but options would not. The main profit-maker, Nirmal, would then trade the options mostly using the accounts of two different companies (are the names of the companies even important?) and make anywhere between 10–30% in profit.
+
+Of course, Nirmal couldn’t just keep all this money to himself. He had to split the money he made with the “guest experts”. Almost all of these purported guest experts confessed to SEBI that they had a deal going with Nirmal. [Here’s](https://www.sebi.gov.in/enforcement/orders/feb-2024/in-the-matter-of-trading-based-on-the-stock-recommendations-given-by-guest-experts-appearing-on-zee-business-channel_81278.html) one of them, Simi Bhaumik:
+
+&gt;“Nirmal Soni (from Jaipur) contacted me in June, 2021. Thereafter, he subscribed to my website and paid the subscription fees. After one month, he· contacted me and told me he wanted to start a profit- sharing arrangement with me. As per this arrangement, he would pay me a share of 50% of the profits made by him from trading, in lieu of informing him about my recommendations prior to sharing the same on Zee Business. As per this arrangement, he has paid me total cash of around Rs. 75 lacs in person each time at Haldirams, Rabindra Sadan, Kolkata in 3 installments till date. I am yet to receive around Rs. 1 crore more from him.”
+
+Simi sounds like she’s pissed and uses SEBI as a therapist to express her frustration about not receiving her due from Nirmal. “I am yet to receive around Rs. 1 crore more from him”—I hope SEBI played a good counsellor here and asked Simi not to hold her breath for this.
+
+# Joining the dots
+
+One of the challenges that SEBI faces when proving securities fraud is connecting different parties involved in an apparent fraud with each other. Last year [I wrote](https://boringmoney.in/p/mcdowells-insider-insider-trading) about an instance of near-certain insider trading that SEBI couldn’t defend because it couldn’t prove that the participants were connected beyond being in-laws. Life is tough.
+
+Another securities fraud that I wrote about last year, the [YouTube pump-and-dump](https://boringmoney.in/p/youtube-is-great-for-pump-and-dumps), was maybe too easy to prove. Everyone involved behaved like total noobs and spoke to each other via good old cellular calling.
+
+This particular fraud is somewhere in the middle. They did exchange calls but it was not as blatant as the YouTube folks. Instead of calling each other directly, they called the other’s children. And the calls weren’t particularly long or obviously incriminating. They might not have been enough to prove something was off. Turns out, they were communicating over WhatsApp and Telegram, both encrypted chat apps.
+
+So.. SEBI just seized their devices? And discovered the WhatsApp conversations in their phones. A screenshot [from SEBI](https://www.sebi.gov.in/enforcement/orders/feb-2024/in-the-matter-of-trading-based-on-the-stock-recommendations-given-by-guest-experts-appearing-on-zee-business-channel_81278.html):
+
+&amp;#x200B;
+
+https://preview.redd.it/3wnb29v6d2oc1.jpg?width=790&amp;format=pjpg&amp;auto=webp&amp;s=de8ca06000792a5da92693ae3c05c007143645dd
+
+SEBI figured out how to effectively break encryption. By peeking into the participants’ phones. \[4\]
+
+Here’s another type of connection that SEBI [made](https://www.sebi.gov.in/enforcement/orders/feb-2024/in-the-matter-of-trading-based-on-the-stock-recommendations-given-by-guest-experts-appearing-on-zee-business-channel_81278.html):
+
+&gt;Further, from analysis of geographical locations of meeting points, it is observed that Nirmal Kumar Soni and Simi Bhaumik had met in Kolkata on multiple occasions.
+
+And,
+
+&gt;From Nirmal Kumar Soni’s phone gallery, photos of a trip to Dubai have been retrieved in which he was accompanied by Ashish Kelkar, Kiran Jadhav and Nitin Chhalani.
+
+Nirmal may or may not have been the mastermind behind this fraud but hey it was sweet of him to keep images of himself with his co-conspirators handy on his phone. I’d bet that there was a selfie of the four of them together. It’s really something that SEBI should have clarified in its order.
+
+# Give back the money but how?
+
+I’d say that SEBI has pretty convincingly figured out that there was securities fraud happening here. There might be some squabbles about who played exactly what role, and what is the proportionate penalty each of them deserves. For instance, both Simi Bhaumik and Mudit Goyal are SEBI-registered research analysts so their fraud is a little bit worse because they flout more laws. That said, SEBI and the “guest experts” sure seem to have portrayed Nirmal as the villain of this story so I wouldn’t be surprised if he gets the harshest punishment.
+
+For now, SEBI has asked everyone to return the money they made from running this fraud. \[5\] A total of ₹7.41 crore ($900,000).
+
+Here’s the thing: SEBI doesn’t know who has how much money right now. On paper, Nirmal made nearly all the profits. But we know that he shared the profits with the “guest experts”. So.. how much money is with whom right now? Simi said that Nirmal still owed her ₹1 crore ($120,000). What if Nirmal claims that he had given her the money? It was all in cash, so it can’t be proved anyway.
+
+I don’t think these folks (most of whom have already confessed) are going to lie about the money they have. It’s too risky—SEBI knows how much money it should be getting back! But I wouldn’t be surprised if they haven’t kept the most accurate accounting record of all that illicit cash. And a chunk of it is bound to have been spent already. Good luck to them to figure this out.
+
+&amp;#x200B;
+
+**Footnotes**
+
+\[1\] To make money on a stock, you need to buy a stock and be correct about it going up. To make money on a stock option, you need to not just buy the option and be correct about the stock going up (or down) but also about *when* and *how much*.
+
+\[2\] Every once in a while it could make sense to recommend a particular stock option if there is an arbitrage opportunity. But it’s rare and the quantum of profit to be made would certainly not be recommendation worthy.
+
+\[3\] I’ve calculated this figure from SEBI’s order. In the order, SEBI mentions the number of underlying stock each options contract represents. In Hindustan Copper’s case, the lot size was 4300 so 59 options represented the option of buying 2,53,700 underlying shares of the company.
+
+\[4\] Related [xkcd](https://xkcd.com/538/).
+
+\[5\] This is in addition to restricting their access to the funds in their bank accounts, barring them from the stock market, prohibiting them from giving financial advice, etc.
+
+&amp;#x200B;
+
+*Original Source:* [*https://boringmoney.in/p/guest-experts-on-zee-business-were*](https://boringmoney.in/p/guest-experts-on-zee-business-were?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=guest+experts+zee)

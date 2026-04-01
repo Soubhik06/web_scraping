@@ -1,0 +1,69 @@
+We missed this earlier: Representative bodies for India’s real-money gaming industry—the All India Gaming Federation (AIGF), the E-Gaming Federation (EGF), and the Federation of Indian Fantasy Sports (FIFS)—have adopted a Code of Ethics to promote responsible and fair gaming practices. The code details age-gating principles, player data protection strategies, and responsible advertising practices, among other provisions.
+
+The document reviewed by MediaNama states that the code applies to members of the three industry bodies, termed “operators,” offering online skill-based real-money gaming services in India. Operators earning an annual revenue of Rs 100 crore or more must comply with the code within six months of its signing, while those earning below Rs 100 crore have a nine-month compliance deadline.
+
+However, this is not the first time the online gaming ecosystem has deployed such a Code of Ethics. Previously, in December 2023, the Internet and Mobile Association of India (IAMAI) drafted a ‘Voluntary Code of Ethics for Online Gaming Intermediaries,’ co-signed by the same industry federations mentioned above, to build an “open, safe, trusted, and accountable online gaming ecosystem.” But how does the new code compare to the 2023 Code? Here are some of the key points we found:
+
+Both the 2023 and 2025 codes prohibit real-money games from being offered to users under the age of 18. The 2023 code outlines that such platforms must affirm users’ ages and eligibility through “user acceptance of terms and conditions” and platform verification. However, the 2025 code lists the process explicitly, mandating the player to declare being above 18 years old either during registration or while making the first deposit in the game. The player can do so by providing their date of birth or confirming platform-generated messages like “You must be 18 years of age to play online real-money games” or “By registering, I confirm I am 18+ and agree to the Terms of Use.” Moving forward, both codes guide platforms to communicate age restrictions clearly in the terms and conditions.
+
+Notably, the new code also prohibits operators from enticing underage players through advertising and promotional strategies like “Free-to-Play” games/offers. Finally, the 2023 code stipulates that gaming intermediaries terminate a user’s access to his account upon receiving “actual knowledge” that a minor uses their services.
+
+While the 2023 code directs gaming companies to collect KYCs “as per applicable law” for users, the 2025 code introduces an extensive, two-phase KYC mechanism for “Pay-to-Play” games. In phase one, operators must collect user information like mobile numbers (through code verification) and date of birth/age confirmation during account creation. Additionally, operators must implement a “robust password policy and/or secure means of access” such as biometric authentication, PIN-based login, or email verification. In phase two, the code mandates KYC compliance for all players upon making a withdrawal of Rs 1,000 or more or while making a cumulative lifetime deposit of Rs 50,000 or more, whichever occurs first.
+
+Further, operators should follow a three-step KYC verification process: identity proof for name and age verification (through documents like PAN card, Aadhaar card, etc.), address proof verification via electricity or landline telephone bills (alongside previous documents), and bank account validation through micro-deposit or instant account verification. For previously established accounts, operators can rely on gas bills and ration cards as address-proof documents. However, these KYC requirements do not apply to players operating in free-to-play mode.
+
+Both codes stipulate that gaming intermediaries comply with existing laws, including the Digital Personal Data Protection Act, 2023. Additionally, the 2023 code called upon e-gaming companies to undertake measures adhering to existing cybersecurity regulations to ensure a “secure and reliable gaming environment,” alongside recognizing and integrating evidence-based “best practices for safer gaming.” However, the 2025 code takes these guidelines a step further by outlining specific safeguards. Firstly, data transferred between a player’s device and the operator’s system (while a player authenticates and logs into their account via a mobile app) must be encrypted using TLS/SSL protocols alongside additional security controls. Further, operators should possess a valid Extended Validation Certificate as per TLS/SSL standards.
+
+Both codes prohibit operators from using bots or any form of “gameplay manipulation” to “maintain the integrity of the gaming operation.” However, while the 2023 code makes it optional for platforms to obtain independent third-party certifications on fair play, the 2025 code mandates a “No Bot” and RNG certification to ensure fairness and compliance.
+
+Additionally, the 2025 code stipulates that operators bar employees with access to certain information (enabling an unfair advantage in the game) from competing in contests for cash/prize winnings against non-employees. An exception to this provision exists for service improvement purposes and addressing player issues. Besides this, operators should develop internal guidelines for conducting test games and managing test accounts and for detection of cheating and collusion among players.
+
+Both codes require platforms to publish their terms and conditions alongside other gaming policies on their websites. Notably, both codes mandate platforms to undertake grievance redressal to address customer complaints, with the 2025 code mandating platforms to publish the details of a grievance officer. The 2025 code also detailed the following particulars to be published on the company’s website:
+
+The 2025 code also mandates that the terms and conditions be accessible via a homepage hyperlink leading to a dedicated webpage. Further, this code requires gaming companies to maintain a separate webpage for ‘responsible gaming,’ similar to the 2023 code, where platforms should provide details about such practices and safety guidelines. In ensuring transparency, operators must also maintain data specified by the federations like timestamps, and the game’s unique ID, among others, as the 2025 code stipulated.
+
+Moving forward, gaming applications must allow users to set their financial or spending limits, as stipulated by both codes. The 2025 code also notes that operators should prominently display mechanisms for setting such limits alongside alerts for losses and deposits during gameplay. Additionally, the platform may set default limits for players who have not set their own, notifying them of the same while providing an opportunity to modify them. While operators can implement such modifications immediately, they can increase the default limit only after 24 hours and via a self-declaration receipt from the player affirming their financial capability.
+
+Finally, the 2025 code details that operators should “promptly and visibly” display responsible play messages, including banners, pop-ups, and overlay reminders, nudging players to take breaks.
+
+The 2023 code enables players to set their own time limits and voluntarily suspend their access to the game. The latter is somewhat akin to the 2025 code’s self-exclusion feature for online real-money games, allowing users to opt out for a period ranging from 24 hours to at least three months. Companies must actively inform users about this tool, making it easily accessible and prominently displayed.
+
+Once set, the exclusion period is typically irreversible, except for a one-time reversal due to human or technical errors. Operators must prevent users from creating new accounts with the same email and implement multiple ID detection. Additionally, companies are barred from sending marketing communications to self-excluded players during this period.
+
+Besides this, the 2025 code states that players can close their accounts at their discretion, either via the account settings or by contacting customer support. If so, operators should allow users to withdraw any remaining funds or make reasonable efforts to do so, depending on the operators’ terms and conditions.
+
+The 2025 code incorporates a section on “assisting vulnerable players,” outlining guidelines such as blocking access to real-money games for identified vulnerable players. Additionally, operators should display pop-up messages or triggers to alert vulnerable players about the duration of their play or the amount of money spent, encouraging them to take a break.
+
+Beyond this, federations must maintain a unified mental health helpline or counseling support for players with gaming-related disorders. While the 2023 code does not explicitly list vulnerable players, it states that online gaming companies should use “advanced technology tools” to monitor players and support those exhibiting at-risk behaviors.
+
+Both codes stipulate that advertisers must adhere to responsible advertising and marketing practices as per existing laws, such as the Consumer Protection Act, 2019, and the Advertising Standards Council of India (ASCI) guidelines. Advertisements for online real-money games must be “fair and truthful,” contain necessary disclaimers and warnings, “not induce or entice minors,” and not misrepresent information about winning probabilities.
+
+Additionally, promotional activities of such games should not suggest that such activities act as an alternative to employment or financial investment and constitute a means of earning a livelihood. Finally, advertisements should not portray these games as “indispensable” or as a means of escaping personal or professional problems.
+
+The 2025 code introduces several provisions missing from the 2023 code:
+
+Managing players’ funds: Operators must provide clear information regarding the functioning of player accounts, the rules and restrictions on deposits and withdrawals, and access to funds. Additionally, they must hold players’ funds in a separate account that is not under their sole control.
+
+Operations in restricted states: Operators should restrict individuals from restricted states from participating in real-money gaming by implementing technological measures like GPS blocking, and IP address filtering.
+
+In contrast, the 2023 code details the following provisions skipped over in the new code:
+
+Financial safeguards: The code directed platforms to implement measures to detect and prevent the use of money laundering or other unlawful activities while allowing financial transactions only via “recognised digital banking channels”, credit and debit cards, or approved mobile wallets. Further, gaming companies must prohibit transactions through cash or cryptocurrencies or unauthorised payment systems.
+
+Mechanisms and game rules: The code also notes that the gaming policies listed on the gaming companies’ platforms and websites should specify the rules and mechanics of online games including the amount of platform fee collected, processes for calculating points and determining winners alongside the nature of prizes and how they are distributed.
+
+The 2025 code follows Tamil Nadu’s regulatory tightening, with its online gaming authority introducing new rules, including mandatory KYC verification and restricted platform access between midnight and 5 AM. However, as MediaNama previously noted, enforcement issues persist, with flaws such as individuals potentially using VPNs to circumvent restrictions and creating multiple gaming accounts.
+
+Nearly two weeks after this rule was introduced, real-money gaming operators and members of the EGF filed a writ petition in the Madras High Court, arguing that certain provisions of the new law unfairly impact online skill-based games.
+
+Notably, while the EGF advocated for a regulatory collaboration while accounting for the industry’s self-regulatory framework, the AIGF focuses on government collaboration to establish a policy framework for the sector. The two bodies, along with the FIFS, have since come together to create a new Code of Ethics for the e-gaming ecosystem, which may be seen as a middle ground.
+
+Additionally, the three federations signed an MoU with the ASCI to address growing concerns over offshore entities undertaking illegal betting and gambling advertisements. While not detailing offshore entities, the 2025 code extrapolates on “responsible advertising practices” as mentioned above.
+
+Finally, while the code also mandates regular audit processes to ensure compliance efforts, the timely adoption of its provisions by operators remains to be seen.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

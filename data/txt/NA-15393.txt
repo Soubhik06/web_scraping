@@ -1,0 +1,27 @@
+In response to a parliamentary question, the Indian government did not provide an explicit answer to whether it has developed systems capable of withstanding quantum cyber-attacks under the National Mission on Quantum Technologies and Applications. Responding to Congress MP Shashi Tharoor’s written question on the matter yesterday, the Ministry of Science and Technology simply said:
+
+Yes Sir. Government is developing a proposal to initiate National Mission on Quantum Technologies & Applications with the objectives of building capabilities in Quantum Computing, Quantum Communication, Quantum Materials, Quantum Sensing and metrology.
+
+The Ministry added that the details and deliverables of the Mission, announced in the 2020-21 Budget, are yet to be finalised.
+
+Wait, what’s quantum computing? Without delving too deeply into its physics, “quantum” here refers to quantum mechanics—which is what the computer system uses to calculate an output. So, essentially, quantum computers use concepts of quantum physics and apply them to computers. The hope is that they’ll help systems process things super fast. Or, as WIRED puts it, “the basic idea is to smash some barriers that limit the speed of existing computers by harnessing the counterintuitive physics of subatomic scales”.
+
+Right, so why do quantum cyberattacks matter ? Right now, much of the electronic information we send online is encrypted. This means information is coded to be unintelligible until the recipient gets it and decrypts or decodes the message using a specific key. Doing this ensures that a “computer system’s information can’t be stolen and read by someone who wants to use it for malicious purposes”.
+
+Some speculate that powerful quantum computers could actually be able to decrypt this information—making them unsecured and hugely compromising the cybersecurity of people and countries. For example, the World Economic Forum warns that “the quantum threat will increase data breaches of sensitive health and financial personal data, challenge the integrity of digital documents and break certain cryptocurrency encryption”.
+
+How serious is this threat? While acknowledging the risks of quantum computing back in 2019, researchers argued that this threat was hypothetical.
+
+The quantum computers that exist today are not capable of breaking any commonly used encryption methods. Significant technical advances are required before they will be able to break the strong codes in widespread use around the internet.
+
+Three years down the line, governments don’t seem to be taking this threat too lightly. Take the United States, for example. In its national cybersecurity strategy released a few weeks ago, the government promised to safeguard its tech infrastructure against attacks by quantum computers.
+
+Strong encryption is foundational to cybersecurity and global commerce. It is the primary way we protect our data online, validate end users, authenticate signatures, and certify the accuracy of information. But quantum computing has the potential to break some of the most ubiquitous encryption standards deployed today. We must prioritize and accelerate investments in widespread replacement of hardware, software, and services that can be easily compromised by quantum computers so that information is protected against future attacks.
+
+Indian commentators are also taking note of the issue—as seen with Tharoor’s question.
+
+What else did Tharoor ask? The Congress MP also asked if India is planning to initiate diplomatic partnerships with “techno-democracies” to pool resources and mitigate the quantum cyber threat. The government replied that no such proposals are on the cards for now. Also, there are no plans to develop “encryption tools that meet cryptographic standards set by the United States of America’s National Institute of Standards and Technology”, said the government in response to Tharoor. Read more
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

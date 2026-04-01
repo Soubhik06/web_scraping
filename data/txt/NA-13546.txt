@@ -1,0 +1,129 @@
+India’s telecom operator TRAI has issued new guidelines for the activation of services which integrate telecom operator billing, and are activated over Mobile Internet, SMS, USSD and Voice Portals (IVRS). This part of the ecosystem has a history of millions of unsuspecting customers being scammed, with money being withdrawn from their prepaid mobile accounts, and allegations of corruption have been rife. We’d covered the details of the new policy here . Here’s how the activation will take place as per different modes:
+
+Consumer originated SMS
+
+(a) service provider originated voice or non -voice message and USSD offering value added service;and
+
+(b) consumer originated voice or non -voice message and USSD to a short code:
+
+Step-1. The offer provided by the service provider shall contain the details of value added service and the charges thereof and in case of call or SMS or USSD from the consumer for value added service, the service provider shall inform the consumer the details of the value added service and applicable charges.
+
+Step-2. If the consumer gives his consent to subscribe the value added service after step 1, the consumer must be informed through SMS about the value added service requested and the charges of the service. He should then be asked to confirm the request within sixty minutes by sending ‘yes’ to the specified number.
+
+Step-3. If no confirmation is received from the consumer, the request of the consumer shall not be processed.
+
+Step-4. If the consumer confirms his request, the value added service platform/subscription engine of the service provider shall activate the value added service on the mobile number of the consumer and the consent logs should be stored in the system in an editable format.
+
+Step-5. The subscription of the value added service should again be acknowledged through Short Message Service (SMS) immediately after activation of the service, indicating the charges and details of the value added service such as name of the value added service, monthly fixed charge, content download charge and its recurring charge,validity period of the value added service activated, toll free short code 155223 for unsubscribing the value added service.
+
+Step-6. If the consumer informs the service provider that he has not given his consent for the value added service and requests for its deactivation
+
+(a) in case of value added service which is charged on a per day basis, if the request for deactivation is made by consumer within six hours of activation
+
+(b) in case of value added service which is charged other than per day basis, the request for deactivation is made by the consumer within twenty four hours of activation
+
+the entire amount deducted by the service provider for the value added service shall be refunded.
+
+Process for obtaining explicit consent of the consumer for activation of the value added service
+
+A. For service provider originated voice or non-voice messages offering value added services and consumer originated call or USSD to a short code for value added services:
+
+Step-1. The offer of the service provider should contain the details of value added service and the charges thereof. In case of call or USSD from the consumer for value added service, the service provider shall inform the consumer the details of the value added service and applicable charges.
+
+Step-2. If the consumer gives his consent to subscribe the value added service after step 1, he shall be led to the platform hosted by the service provider and asked to select the content.
+
+Step-3. The consumer must give his fist consent by pressing the relevant key on the platform provided by service provider.
+
+Step -4. The consent of the consumer should be then forwarded to the “Consent Gateway” setup by the service provider and managed by a third party.
+
+Step -5. The “Consent Gateway”shall then seek the second consent of the consumer.
+
+Step-6. The consumer must give his consent by pressing the relevant key, and the consent logs must be stored in the system in an uneditable format.
+
+Step-7. The “Consent Gateway” must forward the consent of the consumer to the value added service platform/subscription engine of the service provider.
+
+Step-8. The value added service platform/ subscription engine of the service provider can then confirm the subscription of the value added service on the mobile number and activate the value added service.
+
+Step-9. The subscription of the value added service should be again acknowledged through Short Message Service (SMS) immediately after activation of the service, indicating therein the charges and details of the value added service such as name of the value added service, monthly fixed charge, content download charge and its recurring charge,validity period of the value added service activated, toll free short code 155223 for unsubscribing the value added service.
+
+Step-10. If the consumer informs the service provider that he has not given his consent for the value added service and requests for its deactivation,
+
+(a) in case of value added service which is charged on per day basis,if the request for deactivation is made by consumer within six hours of activation; and
+
+(b) in case of value added service which is charged other than per day basis,the request for deactivation is made by the consumer within twenty four hours of activation, then the entire amount deducted by the service provider for the value added service shall be refunded.
+
+B. Consumer originated SMS:
+
+For Consumer originated SMS for value added service:
+
+Step-1. When an SMS from the consumer for a value added service reaches the platform of the service provider, the consumer must be informed through SMS with the details of the value added service, the charges thereof and he must be asked to confirm the request within sixty minutes by sending ‘yes’ to a specified number.
+
+Step-2. If no confirmation is received from the consumer, the request of the consumer shall not be processed.
+
+Step -3. If the consumer confirms his request, the “Consent Gateway” shall forward the consent of the consumer to the value added service platform/subscription engine of the service provider and the consent logs must be stored in the system in an uneditable format.
+
+Step-4. The value added service platform/subscription engine of the service provider shall then activate the value added service on the mobile number of the consumer.
+
+Step-5. The subscription of the value added service must be again acknowledged through Short Message Service (SMS) immediately after activation of the service, indicating therein the charges and details of the value added service such as name of the value added service, monthly fixed charge, content download charge and its recurring charge,validity period of the value added service activated, toll free short code 155223 for unsubscribing the value added service.
+
+Step-6. If the consumer informs the service provider that he has not given his consent for the value added service and requests for its deactivation,
+
+(c) in case of value added service which is charged on per day basis, if the request for deactivation is made by consumer within six hours of activation; and
+
+(d)in case of value added service which is charged other than per day basis, the request for deactivation is made by the consumer within twenty four hours of activation, then
+
+the entire amount deducted by the service provider for the value added service shall be refunded.
+
+Procedure for obtaining the explicit consent of the consumer for activation of value added service offered through WAP or mobile Internet
+
+Step-1. After the consumer has clicked the relevant web-link of the service provider offering the value added service, he shall be directed to a new page on the platform of the service provider where the details of the value added service including charges thereof shall be provided to him.
+
+Step-2. The consumer shall be given an option to accept or reject the offer and if the consumer accepts the offer he shall be directed to a new page at the “Consent Gateway”, set up by the service provider and managed by a third party,which shall record and reconfirm to the consumer his consent for subscribing to the value added service.
+
+Step-3. If no confirmation is received from the consumer, the request of the consumer shall not be processed.
+
+Step-4. The consent of the consumer shall be forwarded by the “Consent Gateway” to the value added service platform/subscription engine of the service provider and all consent logs must be stored in the systems in an uneditable format.
+
+Step-5. The value added service platform/subscription engine of the service provider shall then confirm the subscription of the value added service on the mobile number and activates the value added service.
+
+Step-6. The subscription of the value added service shall again be acknowledged through Short Message Service(SMS) immediately after activation of the service, indicating therein the charges and details of the value added service such as name of the value added service, monthly fixed charges, content download charge and its recurring charge,validity period of the value added service activated,toll free short code 155223 for unsubscribing the value added service.
+
+Step-7. If the consumer informs the service provider that he has not given his consent for the value added service and requests for its deactivation,
+
+(a) in case of value added service which is charged on per day basis, if the request for deactivation is made by consumer within six hours of activation, and
+
+(b) in case of value added service which is charged other than per day basis, the request for deactivation is made by the consumer within twenty four hours of activation, then the entire amount deducted by the service provider for the value added service shall be refunded.
+
+Procedure for deactivation of value added service on the request of the consumer through Interactive Voice Response (IVR) and SMS to toll free common short code 155223.
+
+(a) Through Interactive Voice Response(IVR):
+
+Step-1. The service provider shall provide to the consumer, over a recorded IVR,which shall be in English, Hindi and in the regional language;
+
+Step -2. The list of services activated on the mobile number of the consumer must be provided to him and he must be given the option to select the value added service he wants to deactivate by pressing the appropriate key for the service to be deactivated.
+
+Step-3. On pressing the key for a specific value added service, an SMS shall be delivered to the consumer informing him that the request to deactivate the service has been received and the service will be deactivated within four hours and that he will receive a confirmation SMS on deactivation of service.
+
+Step-4. In case the consumer presses an inappropriate key in step -3 IVR shall inform the consumer that the key pressed is wrong and the procedure listed at step -1 to step 3 shall be repeated.
+
+Step-5. In case the consumer again presses an inappropriate key in step-4 IVR shall inform that the key pressed is wrong and the call shall be transferred to a call center agent who shall record the request of the consumer for deactivation of value added service and shall inform the consumer that the service shall be deactivated within four hours and that he will receive a confirmation SMS on deactivation of service.
+
+Step-6. In case any key is not pressed for 10 seconds in step-2, the consumer shall be given an option advising him to “press 0 to repeat, press 9 to connect to a call center agent”
+
+Step-7. On pressing ‘9’ in step -6, the call shall be transferred to a call center agent who shall take the request of the consumer for deactivation of value added service and shall inform the consumer that the service shall be deactivated within four hours and that he will receive a confirmation SMS on deactivation of service;
+
+Step -8. An SMS shall be sent to the consumer, immediately after deactivation of the service, informing him about the successful deactivation of the service along with the name of the service deactivated.
+
+(b) Through SMS:
+
+Step-1. On receipt of an SMS on common short code 155223 from the consumer to stop a particular value added service, the consumer must be provided through SMS the list of value added service activated on his mobile phone and corresponding key for deactivation of a particular value added service and he must be asked to send through SMS the particular key of a value added service which he wants to deactivate.
+
+Step-2. In case of receipt of an incorrect response from the consumer an SMS shall be sent to the consumer informing him again of the list of services activated on his mobile number along with an advice to select the option for the value added service he wants to deactivate by sending through SMS the appropriate key for the service to be deactivated.
+
+Step-3. On receipt of the appropriate key through SMS as in step -1 or step-2, an SMS shall be delivered to the consumer informing him that the request to deactivate the requested service has been received and the service shall be deactivated within four hours and that he shall receive a confirmation SMS on deactivation of service.
+
+Step-4. An SMS shall be sent to the consumer, immediately after deactivation of the service informing him about the successful deactivation of the service along with the name of the service deactivated.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,37 @@
+USA-based Syniverse, a company that routes billions of text messages of major US carriers such as Verizon, T-Mobile, etc, and which also lists Airtel as its customer, in a regulatory filing declared that it suffered a hack of its internal systems from 2016 to 2021.
+
+On September 27, the company in a filing with the US Securities and Exchange Commission (SEC), said, “In May 2021, Syniverse became aware of unauthorized access to its operational and information technology systems by an unknown individual or organization. Promptly upon Syniverse’s detection of the unauthorized access, Syniverse launched an internal investigation, notified law enforcement, commenced remedial actions and engaged the services of specialized legal counsel and other incident response professionals.”
+
+Before going into the details of the hack, let’s start at the beginning —
+
+According to this article by The Verge , among other functions, Syniverse is responsible for handling billions of texts of major telcos in the US. For instance, if an AT&T customer wants to send a message to the same carrier, then it can be done directly. However, the need for a third party comes when the message has to be sent from one telecom carrier to the other.
+
+“A third-party company needs to take on the work of translating (one carrier’s) message into the (other’s) protocol, and physically routing it from one network to the other,” the report by The Verge said. Syniverse works as the third party and it delivers 600 billion messages every month, the report added.
+
+According to Syniverse’s SEC filing, the following telecom carriers are clients:
+
+Others include
+
+In the regulatory filing, Syniverse did not provide any identifiable name for the social networking sites, or credit card networks, and the way it described these companies have been included here unedited.
+
+Syniverse in their SEC filing said that they conducted an investigation into the matter when they discovered the breach in May 2021. This is what they declared to have found out —
+
+However, it is important to point out that Syniverse did not provide any details on what kind of data was exposed, or whether text messages were exposed. MediaNama has reached out to Syniverse in further detail regarding the matter and whether there has been any impact on Indian carriers or citizens.
+
+Since Syniverse listed Airtel as its customer, MediaNama has also reached out to the telecom carrier for comments on the matter. Apart from that, we have given queries to Reliance Jio and VodafoneIdea.
+
+The company said that the affected Electronic Data Transfer environment customers were notified and their credentials were reset or deactivated. “All customers whose credentials were impacted have been notified of that circumstance,” it said.
+
+Syniverse has notified all affected customers of this unauthorized access where contractually required, and Syniverse has concluded that no additional action, including any customer notification, is required at this time. Syniverse did not observe any evidence of intent to disrupt its operations or those of its customers and there was no attempt to monetize the unauthorized activity — Syniverse in its regulatory filing
+
+Syniverse has maintained that its cyber insurance will cover a substantial portion of its expenditures in investigating and responding to the hacking incident. Syniverse also said that it has identified and remediated the vulnerabilities that led to the incidents. It did not mention what those measures are in the filing.
+
+Since Syniverse has said that Airtel is one of their customers, and since there is a possibility that other major Indian telcos too may be customers of the company, it is necessary to question whether data of Indian citizens or companies were exposed in this five-year hack.
+
+Also read
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

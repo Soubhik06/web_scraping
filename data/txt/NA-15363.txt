@@ -1,0 +1,21 @@
+A ransomware attack ripped through computers around the world over the weekend, affecting healthcare, public transport, law enforcement, businesses, and individuals globally. Named ‘WannaCry’, the attack encrypted the contents of thousands of computers and demanded a ransom for recovering the files. The attack was first reported when critical systems of Britain’s National Healthcare System (NHS) were frozen by the program, forcing hospitals to refuse patients and significantly disrupting their operations. Governments and businesses around the world were later revealed to be affected as well, with the ransomware taking advantage of a vulnerability in several Windows machines. WannaCry was deployed using technology that was leaked when a giant trove of confidential NSA documents was made public last month.
+
+Impact on India: Unclear, but CERT-in plans webinar
+
+While visualizations show that multiple Indian systems have been hit by the attack, only the Andhra Pradesh police has so far disclosed that some of its computers were hit. The Indian government’s Computer Emergency Response Team (CERT-in) has issued an alert and, in a late night email, announced an informational webcast about WannaCry scheduled at 11am today. Since the attack started only after Asian business hours on Friday, many more instances of WannaCry attacks in India may be reported once government officials and businesses turn their computers back on today for the first time after the weekend. “We will only know the real magnitude of the damage once offices re-open on Monday and systems are turned on,” CERT-in’s director general Gulshan Rai warned .
+
+MediaNama has reached out to a significant cross-section of government organisations and financial institutions to find out whether they were affected.
+
+Starting with Britain’s NHS, WannaCry has affected over 200,000 computers in several organizations: Russia’s ministry of internal affairs, FedEx, German public transport system Deutsche Bahn, telecom majors Telefónica & Saudi Telecom, automobile conglomerates Renault & Nissan UK, and the Massachusetts Institute of Technology, among several others.
+
+While the first wave of attacks was accidentally halted by a “kill switch” activated by a tech blogger, experts warn that a newer variant of the ransomware without the kill switch may soon been deployed.
+
+Microsoft criticized the US government for not informing it of the vulnerability. “This attack provides yet another example of why the stockpiling of vulnerabilities by governments is such a problem,” Microsoft’s President and Chief Legal Officer Brad Smith said in a blog post . “Repeatedly, exploits in the hands of governments have leaked into the public domain and caused widespread damage. An equivalent scenario with conventional weapons would be the U.S. military having some of its Tomahawk missiles stolen.”
+
+The attack targets Windows systems that have not been udpated to patch the vulnerability revealed in the NSA leaks. The program encrypts most of the host system’s files and demands a $300 payment in anonymous virtual currency Bitcoin to trigger decryption. Machines running Windows XP, Server 2003, 7, 8, and 8.1 are vulnerable to the leak. Microsoft has released a patch for these operating systems, including the ones for which they no longer offer support. The company had earlier rolled out a patch in April for the vulnerability exploited by WannaCry. There are no known methods to recover files encrypted by WannaCry without giving in to the ransom.
+
+Image source: Wikipedia user Roke . Shared under Creative Commons Attribution-Share Alike 3.0 Unported license.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

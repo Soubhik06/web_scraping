@@ -1,0 +1,25 @@
+What’s the news: Online travel aggregator Cleartrip has suffered a data breach that has resulted in the compromise of certain customer data, the Flipkart-owned company said in an email dated July 18 sent to customers. “This is to inform you that there has been a security anomaly that entailed illegal and unauthorised access to a part of Cleartrip’s internal systems,” Cleartrip said in its statement while recommending customers reset their password as a precautionary measure.
+
+What data was compromised: Cleartrip’s statement lacks details. “We would like to assure you that aside from some details which are a part of your profile, no sensitive information pertaining to your Cleartrip account has been compromised as a result of this anomaly of our systems,” the company said, without providing any details on the timeline of the breach, the specifics of what data has been compromised, and how many customers are affected. We have reached out to Cleartrip seeking more details and will update this post once we get a response.
+
+@Cleartrip would you mind telling us when the breach happened? pic.twitter.com/JvMLT1pAp9
+
+— Jayesh Kumar (@Jayesh_Kumar) July 18, 2022
+
+Why does this matter: Cleartrip is a popular travel aggregator in India with about 18 percent market share. This breach puts the personal data of millions of customers at risk. Notably, this is also the first major data breach to take place after the new cybersecurity directions went into effect on June 28 ( except for small and medium enterprises who have until September 25). According to these directions, all companies are supposed to report breaches within 6 hours. It’s not clear if Cleartrip has adhered to this direction. “As per our protocols, we have immediately intimated the relevant cyber authorities and are taking appropriate legal action and recourse to ensure necessary steps are being taken as per the law,” Cleartrip said in its statement.
+
+Data for sale on the dark web: According to security researcher Sunny Nehra, who spoke with TechCrunch , hackers were selling the compromised data on a private, invite-only forum on the dark web for a brief period Monday morning. Based on filenames shown in the screenshot posted in the forum, Nehra indicated that all of Cleartrip’s data might have been compromised. “Apart from files seemingly having customer info, revenues, etc., there are also files including ‘GST on advance working’ which raise many questions about the involvement of some insider,” Nehra told TechCrunch.
+
+The CLEARTRIP seems to have suffered a massive data breach !!
+
+The screenshot as was posted by the threat actor (on private forum) to sell the data. As can be seen : the breach is new, customer entries info as well as internal company files are there. #cybersecurity #CyberAttack pic.twitter.com/ldAM2JtsCb
+
+— Sunny Nehra (@sunnynehrabro) July 18, 2022
+
+Cleartrip 2017 breach: This is not the first time Cleartrip has suffered a major data breach. Back in 2017, a hacking group called Turtle Squad took over Cleartrip’s website after gaining unauthorised access.
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

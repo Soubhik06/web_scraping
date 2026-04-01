@@ -1,0 +1,21 @@
+The RBI has issued a new set of operative guidelines for Mobile Banking in India, with changes based on comments from stakeholders. A couple of things significant in this set of guidelines:
+
+Transaction limit Transactions are limited to only Rs. 2500 ($55) per day, and Rs. 5000 ($110) per day, per customer. While this is an increase over the Rs. 1500 ($33) transaction cap and Rs. 2500 ($55) mentioned in the previous guidelines, it is still a very small amount. Take my example – My mobile phone bill is over Rs. 4000 per month, and I won’t be able to pay it using mobile banking services . This appears to a move to reduce the impact of fraud, since they’ve also asked banks to put a monthly transaction limit, based on the bank’s own risk perception of the customer .
+
+Across Mobile Operators The onus, clearly, is on the banks to ensure that customers across mobile operators have access to mobile banking services. They may restrict themselves only to one mobile operator for a period of six months. Two scenarios are possible in this instance: — Either banks will have to partner with multiple mobile payment service providers, each of whom have access to different operators, or — Mobile service providers will have to provide banks with access to different operators. For example, MChek provides ICICI Bank, SBI, HDFC and Corporation Bank services only on Airtel in India. So either MChek will have to tie-up with all operators within six months, or these banks will have tie up with different service providers. One bank with many service providers faces an issue – it will confuse customers. It’s like having a different short code for a different operators.
+
+Download the guidelines here More issues with the guidelines:
+
+Domestic Transactions Only What about Mobile Money Transfer? As per the RBI guidelines, only “Indian Rupee based domestic services” shall be provided.
+
+Separate Internet and Mobile Logins A clear dictat – Internet Banking login IDs and Passwords will not be allowed for mobile banking. I think these guidelines are rather short-sighted, and the RBI isn’t taking into account the Mobile Internet. So how does it work: If I use a GPRS application to make a payment, do I have to use a password that is different from the one I use over a WAP site?
+
+Authentication It appears that SMS based transactions will face an issue – where an mPIN is used, there needs to be an end-to-end encryption, and it cannot be stored in a clear text environment. It appears that PayMate will have to modify its transaction process. Their process, according to their website – “You will instantly receive SMS from PayMate confirming the transaction amount and asking for authorization with your PIN and 3-alphabet code for Eg PAY ABC 5678 where ABC is the 3-alpahabet code already mentioned in the transaction sms you receive and 5678 is your PIN.” SMSing a PIN means that it is stored in the users outbox, a clear text environment.
+
+Registration As per the guidelines, one of the key issues is that Banks will have to put into place a system of document based registration with mandatory physical presence of their customers. I don’t think users needed to be present physically to apply for Internet banking, and this will inconvenience customers, perhaps even impact uptake.
+
+Accreditiion And Other Guidelines Given that mobile banking service providers have a high employee turnover, they will need to be certified by an accredited external agency. Furthermore, only banks which are which are licensed and superviced within, and have a physical presence in India, will be allowed.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

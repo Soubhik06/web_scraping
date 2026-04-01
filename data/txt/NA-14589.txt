@@ -1,0 +1,37 @@
+The Department of Telecommunications (DoT) says that licensed satellite communication service providers have to comply with lawful interception and monitoring requirements. This comes as part of the security instructions that the DoT has recently released for all the satcom service providers with a Global Mobile Personal Communication by Satellite (GMPCS) license. Satellite operators need to obtain this license to operate in India. Companies have to demonstrate their system capabilities with respect to security aspects, including monitoring, before they begin operations in India.
+
+As per the new security instructions, satcom players have to provide interception and monitoring facilities to the government at the gateway/point of presence (PoP), network control/monitoring centre, or any other equivalent facility. The DoT currently requires terrestrial service providers (telcos like Airtel and Jio) to provide interception facilities in their network as a licensing requirement. Besides interception and monitoring, satcom companies also have to be able to restrict service access for an individual/group of individuals or certain geographical areas during times of hostilities or based on instructions from law enforcement agencies.
+
+This requirement comes after reports that the government had asked US-based satcom service provider Starlink to establish a control centre in India to enable the government to shut down services as required in sensitive areas. The company has had issues in the past with its services being used by smugglers to traverse across the Indian Ocean (despite the company not having a license to operate in India).
+
+Besides this, the Assam Rifles also reportedly found Starlink equipment in a militant camp in Manipur. A Guardian report suggests that the devices worked in several areas of the state and helped individuals and militant groups access the web during internet shutdowns. With these requirements, the government is clarifying that just like telcos, satcom players will also have to assist in imposing internet shutdowns and follow other such regulatory measures as well.
+
+Satcom services have to ensure that the websites the government has blocked through terrestrial networks for access in India are also blocked for access from their services. Besides websites, the service providers also have to ensure that they immediately block any malicious user terminal. Satcom players must have facilities available at their gateways/PoPs for real-time monitoring of the frequencies allocated to each user terminal so that they can stop frequencies causing interference.
+
+The DoT says that satcom companies must provide real-time monitoring to ensure that no user traffic originating from or destined to India is being routed through any gateway/PoP outside Indian territory. The data centre/PoP that the company designates for providing satellite service in India is based within the geographical boundary of India. They must also ensure that the Domain Name System (DNS) resolution services for their network are provided from within India’s geographical boundaries. For context, DNS is like the phone book of the internet that translates human-readable domain names into IP addresses that the computers understand.
+
+Companies must place their network traffic and control monitoring centre (which performs interception, monitoring, user data traffic routing, and control of equipment in gateways) in India. The government says that satcom companies have to integrate their lawful interception system into the centralised monitoring system/integrated monitoring system. This system automates the process of lawful interception/monitoring.
+
+Satcom companies have to provide services as per the survey of India maps and in border/sensitive areas. They require security clearance for setting up gateways in specific locations. The DoT requires satcom players to geo-fence in the case of debarred areas and reshape footprint patterns near border areas to prevent spillovers (adjust coverage patterns to prevent spillover into neighbouring territories).
+
+Companies must set up special monitoring zones (SMZs) along the territorial border (50km within the international border) and coastal borders (200 nautical miles) for law enforcement/designated agencies to monitor user activity. Satcom service providers also must ensure that no user terminal outside of India can access geo-fenced coverage within India through gateways outside the country. The DoT restricts user terminals in India from latching on to gateways located outside the country.
+
+As part of the call detail records (CDR)/internet protocol detail records (IPDR) satcom players have to provide the following information:
+
+Satcom companies must ensure that the location of user terminals/any other sensitive data related to their users in India is not accessible outside of the country. They also have to facilitate metadata collection by the telecom security operation centre under the DoT.
+
+Companies must ensure that all user terminals in India are registered in India. They must have a mechanism in place to regularly verify the user terminals. Further, any unregistered device/foreign device can only operate in India after due authentication/registration. Satcom companies have to provide law enforcement with real-time information about the foreign devices hooking onto their networks in India.
+
+Satcom service providers have to share user terminal details, including the name and address of the user, with law enforcement agencies at specified periods of time. They also have to share details of the shifted/relocated user terminals with law enforcement on a quarterly basis. Users who subscribe to fixed satellite service (FSS) and not a mobility service will be bound to the geo-location where the satcom player provides them service. Companies must grant relocation requests with proper authorisation. They also have to provide law enforcement with real-time location/data tracking of user terminals (fixed and mobile) anywhere in the country.
+
+The DoT instructs satcom players to implement India’s positioning system, NavIC, in their user terminals on a best effort basis and to have a transition plan in place to implement NavIC by 2029. Companies have to ensure that their user terminals do not have any location spoofing devices.
+
+Satcom companies have to submit an undertaking that they will not copy and decrypt Indian users’ data outside the country. They must also submit a confirmation that no surveillance activity can be carried out through their satellite constellation.
+
+The DoT requires companies to submit a year-wise phased manufacturing program with the aim of indigenising at least 20% of the ground segment of their satellite network that they establish post five years of the launch of commercial operations.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

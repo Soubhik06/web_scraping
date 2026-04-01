@@ -1,0 +1,103 @@
+SUBREDDIT: r/india
+TITLE: Airtel in India cheating with customers and what we should do.
+DATE: 2015-07-18
+SCORE: 147
+URL: https://www.reddit.com/r/india/comments/3dog61/airtel_in_india_cheating_with_customers_and_what/
+
+--- POST TEXT ---
+
+I have been Airtel user for quite sometime, but for past 5 months I am seeing crazy deductions made by Airtel in data and voice accounts.
+
+Here's a story: Story #1
+
+One day I recharged my phone voice account and received ~220 Rs. After I installed and uninstalled MyAirtel app, I found that they have reduced my balance to 0. Just like that.
+
+I called them up.
+
+Now, imagine an 8 minute wait on phone with hideous wait music on.
+
+After a while a guy picks and tells me that I do not belong to that circle and I have to call the different circle mobile number. This would cost me he told me after I asked.
+
+Anyway like a simmering pot what option do I have. I have to call that number.
+
+I called that number and had to listen to bad wait music again, after I went through whole menu to find how to talk to a representative. Finally! Calls get through to a representative with a heavy accent in weak English skills.
+
+Anyway, I told him my problem.
+
+I told him that I had recharged my data account and my voice account and after almost no use, my data account is standing but my voice account balance is zero. Why?
+
+Here's the answer he gave. "It's because you are using multiple applications simultaneously"
+
+I swear to God I lost my balance for a while. It was like someone put hot wax on my head while beating my head to ground with a jackhammer.
+
+I let few seconds pass. After few seconds are gone in silence. "What do you mean?"
+
+"Sir, you are using network and sometimes you don't close an app and go to other app."
+
+Well that's how smartphone work I thought in my head. So, I asked, "What does that have to do with my voice account balance?"
+
+"Sir, sometimes you use 20 MBs on internet on one app and use 5 MBs on internet on other app. But you only have 10 MBs. Then you go to first app and close it and close internet."
+
+My shit is loose in every direction, all 360 degrees.
+
+"Then you had 10 MBs but used 20 MBs so we deduct Ruppees from your account"
+
+Again, all the neurons are firing and back firing through axons and dendrites. Fucking crazy.
+
+I muster all the strength to not yell at the guy, "Then why do I have internet balance left."
+
+"Sir it's because you are using multiple applications in back". As soon as he said this, I gave him a lecture on how internet works, how applications work and how android is based on linux kernel and how Linux kernel deals with network packets. Suffice it so say, I was very angry.
+
+A lot more haggling and he agreed to reimburse me Rs 200. Just like that. With no explanation provided why or how he reached this conclusion. But whatever, I told him that I am not angry at him personally but at what he represents: Airtel's corrupt policy.
+
+He told me to wait for 1 hour and restart my phone and I'll receive my balance. I got it after 2 hours or so.
+
+This was this April(April 2015) after this happened https://www.reddit.com/r/india/comments/31ykxj/flipkart_and_airtel_are_fucking_with_your/
+
+Story #2.
+
+I was downloading StackOverFlow's database over torrent, when this crazy thing happened. I downloaded and uploaded 300 MBs, when my notification told me that I have consumed 700 MBs.
+
+Crazy. Inexplicable.
+
+Then I started noticing internet consumption. Airtel was charging more on every transaction. I connected through Airtel. Downloaded one single wallpaper whose link was already opened. Wallpaper size was exactly 1 MB. Closed the connection. Still data usage: 2.8 MBs. You can try such things too. Tell me if your data packs are exhausting pretty easily and early too.
+
+May be I am data roaming. But that's not an explanation.
+
+Story #3
+
+Today (18th July 2015 2:00 AM), I tried to send data via NFC on two of my phones of different companies. Google Play would come up. So I went online and then tried NFC. Google play on OnePlus One tells me that I cannot install Asus Gallery App as that app is not compatible. Other than that there's is lollipop download queued in background. I close the connection in less than a minute.
+
+Guess the fuck what?
+
+My internet balance of around 500 MiBs, my voice account balance of ~188 Rs. all gone. Gone as the wife was in 'Gone Girl'. No trace. Amazingly, due a being a great service provider Airtel loans me Rs. 10 almost instantly. No hiccups there. Didn't ask, still got it.
+
+So, learning from past experience, I tried installing an call recorder app. Exactly 3.70 MiBs download on Google Play: Automatic Call Recorder from Appliqato.
+
+Mid-way guess the fuck what again. I mean how dumb I am. Trying to use same internet connection that just burned me? What a slap right in the middle of the cheek and rightly so.
+
+I downloaded 0.89 MiB and Airtel tells me that my consumption of 9.76 MBs are over and so are loan Rs. 10.
+
+What sort of purgatory am I in? What explains all this shit that Airtel hurls at it's users. Alas the story continues.
+
+So, I finished download using other network on other phone via WiFi hotspot. Called Airtel. Know this, it's 2:30-ish in the morning and I am wide awake; feeling like an investigative journalist; investigative: I am alert; they are being murdered in India in numbers these days: James Bond like. For next 10 minutes, I am Assange.
+
+Anyway, Call 123. Nothing. Call 121. Going through pain of hearing machines trying to talk like human again and again: nothing happens. After a few minutes: dial 9 to talk to representative. Finally.
+
+As soon as I press 9. "You do not have balance to complete this call."
+
+After 'Tarey Jameen Par' night, tonight is the night I almost cried.
+
+After thinking about what to do next for a full 2 minutes. Here I am, typing the shit as it happened to me, shit that got stuck, shit that I cared to tell you about.
+
+Now, here's the call of action. If you have been duped by Airtel India in such manner, please let me know. I am going to file a case against Airtel as soon as I find 10000 current or Ex Airtel consumers. I do not know if I can file in such case in Supreme Court and what bases apply here. But a wide spread cheating, a national level cheating will turn it into a corruption case. I think misuse of trust (If such a thing exists), misappropriation of client money (If exists and/or applicable), Fraud, National level Scam will fit this case. I think because I do not know.
+
+If you want to help here are few areas and ways:
+
+General help 1. Spread the message. 2. Take snapshots and accurate measures of how Airtel is swindling your account balances.
+
+Technical help 1. Write an app that tracks the data and voice consumption. I would have done, but I have no clue how Android apps deal with netfilter driver or other basic information that I require to build such an app. 2. A tracking web site that records the number of people and amount people lost using Airtel services. - - A long shot since it will be user reported, but if we can get ballpark it'd enough.
+
+Legal help 1. Write to Supreme Court 2. Talk to your relatives who deal with law of the land.
+
+These are what I can think of right now. I'll begin with spreading the news first. This is my story; but in past 2 decades on Earth, I have come to believe that I am not alone or unique.

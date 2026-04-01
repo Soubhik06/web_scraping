@@ -1,0 +1,57 @@
+SUBREDDIT: r/india
+TITLE: Need volunteers for making bots specific for r/India
+DATE: 2015-06-21
+SCORE: 10
+URL: https://www.reddit.com/r/india/comments/3alar5/need_volunteers_for_making_bots_specific_for/
+
+--- POST TEXT ---
+
+**[Meta]**
+
+One of the genuine complaints of this community especially the older guys on r/India, would be that we don't gel along well &amp; are all good in when it comes limited individual efforts but as a team we don't work well. There maybe various reasons for that but one of them is surely non-acceptance of each other, the way we are the way we are. In repeated attempts, I tried to spread this message across the board, to take individual efforts to rather more fruitful team efforts where there are more tangible results for the well being of the community as a whole. I may sound too much idealistic at times, some may complain limitation of time or tools or skills but all this is doable if we all put our heads thinking on the solutions rather just focusing on the different problems or issues this community has.
+
+I made a [request](https://np.reddit.com/r/india/comments/39b4t9/need_volunteers_for_making_bots_specific_for/) two weeks back, but hardly there were any takers for that. So what is it - The idea itself is dull? Or is it availability of time for you guys? or is it no one is really bothered what happens here?
+
+**Here's what I wanted to see r/India to come up by team effort.**
+
+&gt; I believe many redditors would be missing the /u/samacharbot. The bot used extract &amp; post a brief from any news article. It was very useful I think for people on the go to read any post in a brief. Since the creator of the bot is probably inactive, the bot is too. As per my conversation with moderators earlier, it was not that the bot was banned, infact useful bots are welcome.
+
+&gt; GitHub of the /u/samacharbot - https://github.com/lekhakpadmanabh/Summarizer
+
+&gt; If any techie person or groups are willing to take this project in their free time, I &amp; the /r/India community would be very grateful for that.
+
+&gt; The bot needs to:
+
+&gt; - Post a brief summary in the comments section from the posted news article regardless of the source.
+
+&gt; - In addition to the above point, the bot also should create a Imgur mirror of the posted link, this way we can reduce traffic for click-bait titles or can also check the article even if gets removed later.
+
+&gt; - Even if the bot creator becomes inactive, banned or shadowbanned in future, the bot should always function. May be for this few people need to share the workings &amp; the passwords/keys for the bot. So it never gets down.
+
+&gt; - It should function on /r/India only. This way the chances of the bot getting shadow-banned might be reduced.
+
+&gt; Also /u/avinassh is looking for someone with the understanding of Python language to collaborate for the GoodReads Bot. The bot is supposed to provide the Name of the book, Author's name, Description &amp; other details when a link to a book from Goodreads.com is posted as a comment, something like the Wikibot. We intend to use the bot for the Bi-Weekly Books &amp; Articles Discussion thread on Friday evenings.
+
+&gt; If anyone is interested in taking up either of the two projects in their free time for better of the community, please do reply back in the comments.
+
+**The creator of the /u/samacharbot gave these suggestions to me in the pms. Here's what he wanted to convey:**
+
+&gt; You can download the code and run it as it is IIRC. All you need is a VPS or a computer that is always connected to the internet. Some modification of the code will be required for it to run Heroku or another cloud service. I haven't looked at it in a long time, but I can probably help with small issues.
+
+&gt; There were some to-dos that were left undone. Here are some of the things I remember having to do.
+
+&gt; 1. Fix the formatting. I wanted the summary to be collapsible so that it is non-intrusive. So I tried to leverage the formatting of Autowikibot and asked the mods to change the message to a generic one, which they did. It works most of the times - as you can see here. But sometimes it does some funny stuff like this. The easiest solution is to revert to the old formatting (just click view source on any of the older post or the git history to get the original version).
+
+&gt; 2. Initially the bot was heroku-compliant as it used praw's streaming feature. This meant as soon as a submission is made the bot posted a summary immediately. But I wanted it to only appear on high quality posts (didn't want to spam the forum). So I changed it to a polling version where it checks the new queue every x mins and only posts a summary if two conditions are satisifed - 1) submission has y number of upvotes 2) domain belongs to a whitelist. Actual values will be in the repository.
+
+&gt; These are some choices you'll have to make if you wish to make changes. Feel free to share this message with anyone else who is interested in reviving it. If no one else, then probably next month I'll try to find some time.
+
+&gt; Regarding screenshot - before samacharbot, I ran an experimental ToIbot which tried to tackle the linkbait problem. The ToIbot started as a [screenshot](http://np.reddit.com/r/india/comments/2kyj06/we_will_probe_every_scam_be_it_adarsh_or/clpvr00) bot. Many people were opposed to it as unethical so I changed the function to summarising rather than screencapping.
+
+&gt; Regarding google news - I had this idea too. The problematic bit was that google didn't provide an API for news when I looked into it. Scraping google news can be successfully done but my method was a little hacky and resource intensive. Google really doesn't like being scraped, which is ironic since it runs the biggest scraper/crawler of all time.
+
+______
+
+**Please pardon for the long wall of post, but still are there any takers for this? Isn't this thing doable?**
+
+**Please help out in making these points visible to all. New *useful* ideas or suggestions are always *welcome*! You can alternatively send me your ideas on pm too. :)**

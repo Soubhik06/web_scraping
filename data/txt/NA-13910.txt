@@ -1,0 +1,23 @@
+The Unique Identification Authority of India (UIDAI) has introduced a new security layer with a feature called “liveliness” of the fingerprints in the Aadhar-enabled payment system (AePS), ET reported . It intends to prevent the use of fake fingerprints for fraudulently withdrawing money using AePS, a senior government official told ET.
+
+What is the Aadhar-enabled Payment system (AePS)?
+
+This system allows basic transactions like cash deposits/withdrawals and balance enquiry, to be carried out just by using biometric information, which connects to Aadhar-linked bank accounts . These transactions can be carried out at PoS/Micro ATMs through a bank’s Business Correspondent/Bank Mitra using the Aadhar authentication.
+
+Why it matters: A man was arrested in Uttar Pradesh for cloning the fingerprints of 165 people and fraudulently transferring around Rs 15-20 lakh using the AePS, Medianama had reported . Cases like these raise questions on financial security of those using the Aadhar-linked biometric data for payments. “These details, such as fingerprints and masked Aadhaar, are uploaded by the land revenue department officials as part of efforts to be transparent about who owns which tract of land. But fraudsters downloaded these fingerprints and cloned them onto silicon pads using high-end printers,” an official told ET.
+
+The rollout of the “liveliness” feature: “It is a sort of software upgrade. We upgraded all the active devices remotely and introduced changes which will check whether the fingerprint being used belongs to a person who is alive or not,” the official told ET.
+
+It is not yet clear how the technology will work. In an unrelated blog post , Technology company Thales defines liveliness detection as “the ability of a system to detect if a fingerprint or face (or other biometrics) is real (from a live person present at the point of capture) or fake (from a spoof artifact or lifeless body part).” It adds that that “Liveness check uses algorithms that analyze data – after they are collected from biometric scanners and readers – to verify if the source is coming from a fake representation.”
+
+Combating financial fraud
+
+In FY22, 111 crore cash withdrawals worth over 2.99 lakh crore happened through the AePS, an RBI report states. Numerous Aadhar-linked financial frauds have been reported in India, which puts Aadhar-linked bank accounts at risk. A government mentioned told ET, “Instances of fraud in the entire ecosystem are less than 0.005% but even one fraud is one too many. We managed to track down all the PoS machines where the fraud had happened and took law-appropriate action.”
+
+National Payments Corporation of India (NPCI) had introduced detailed guidelines for banks and financial institutions to address the cases of fraud, the ET report says. Banks were asked to notify within five days if a customer registered a complaint along with a detailed investigation report of the incident, from September 1, 2020, onwards. The acquirer bank would then have 10 days to make their submissions, where they would have to contend that the liability of fraud is not at their end.
+
+Read more:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

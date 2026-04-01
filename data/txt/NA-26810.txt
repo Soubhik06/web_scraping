@@ -1,0 +1,57 @@
+SUBREDDIT: r/personalfinanceindia
+TITLE: The ULIP deep dive post is finally here. Spoiler - ULIPs are good 
+DATE: 2024-12-26
+SCORE: 1
+URL: https://www.reddit.com/r/personalfinanceindia/comments/1hmn84n/the_ulip_deep_dive_post_is_finally_here_spoiler/
+
+--- POST TEXT ---
+
+I'd put out a post yesterday on ULIPs, link to the post [here](https://www.reddit.com/r/personalfinanceindia/comments/1hlx32j/why_do_ulips_get_so_much_hate_they_seem_great_to/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button) aanndd let's just say that people were not happy.
+
+SO I'd like to start off by saying - I'm not an agent or Bank employee. I'm a member who has benefitted tremendously from this sub and love finance. I love researching on new financial products (or old ones) and sharing my views on the same. Hopefully folks, including me, can benefit from the discussion that happens.
+
+ 
+Let's start
+
+**Myth - ULIPS are very expensive**
+
+ 
+ULIPs were very super expensive before but now MOST ULIPs only have 3 major charges -
+
+* Mortality charge - This is the charge of the insurance premium that has to be paid out.
+* Policy Allocation Charge - This is a charge the insurance folks deduct to manage your policy. Paperwork etc. This amount is capped at Rs. 6000 annually
+* Fund Management Charge - This is the cost to manage the fund. Generally the cost is between 1.0%-1.4%
+
+The best way to find out all the charges is to ask for a benefit Illustration from your insurer. It's a document that gives a live example of all the charges and how it impacts your returns. They have 2 things to look out for (gross yield and net yield). The gross yield is a hypothetical yield number mandated by IRDAI to be at 8%. However the difference between the Gross and Net yield is the expense ratio! This expense ratio does not include the mortality charge. 
+
+So, I [created a sheet](https://docs.google.com/spreadsheets/d/14ADIfTjPZGlukH09m6DBTZKq5FUbaRX8NW5pViPDKdY/edit?gid=2001067422#gid=2001067422) where I've fetched the Benefit Illustration for 3 insurers and calculated the expense ratio after deducting all charges including Mortaility charges and everything. 
+
+ 
+As you can see in the sheet the expense ratio does not even breach 1.8%, which is very similar to mutual funds
+
+ 
+**Myth - ULIP funds give returns less than 8% / very less returns**
+
+Now that we've established that the charges are not very high, let's come to the performance. You can view a detailed list of the performance of all the ULIP funds [here](https://www.morningstar.in/insurance/ECInsuranceScreener.aspx?tabs=ltperf5Yr&amp;mwcScScreener-filters=%7B%7D). This is maintained by morningstar, the organization that reports the performance of all mutual funds too. 
+
+I'll mention the performance of the 3 large cap funds from insurers whose examples I've used in the expense ration calculation
+
+As on 25th December 2024
+
+* Bajaj Allianz Life - Equity Index Fund - 5Y return - 22%
+* Tata AIA Life - Tata AIA Top 50 - 5Y return - 18.58%
+* ICICI Pru Life-Maximiser Fund V - 5Y return - 15.71%
+
+*Reference - Nifty 50 index - 5Y return - 14.17%*
+
+Each of the 3 funds has outperformed the index. There are also options to invest in passive funds for those who love passive like me.
+
+I’ve chosen large cap to be the most unbiased. Most of the insurers also have midcaps and small cap funds that have given returns upwards of 20%, 30%. Further you can switch between funds or allocate different percentage to different funds given the your own risk appetite. 
+
+ 
+For those who keep saying they've invested in ULIPs but have not gotten returns I believe you have either invested into debt funds mainly or have been fleeced into buying some hybrid mixed up product that charges a ton of money elsewhere. 
+
+ 
+Further all the returns are tax free at maturity. NO LTCG Tax if your annual premium is less than 2.5 lakh and insured amount is not less than 10x of annual premium.
+
+Anyhow - all this is my personal rambling. No financial advice whatsoever. Would love for people to let me know if there's any flaw in my thought process or data. Happy to stand corrected. I like most people was a avid hater of ULIPs but I'm willing to give it a second look.

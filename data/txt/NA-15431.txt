@@ -1,0 +1,61 @@
+In what appears to be a turf war between the Indian IT and the Telecom Ministry, the two have come up with the security requirements for CCTV cameras. While the Department of Telecom’s (DoT) security standards are still in the draft stage and up for consultation until November 21 , the Ministry of Electronics and Information Technology (MeitY) notified the security requirements for CCTV cameras on April 9. MeitY’s requirements go into effect on April 9, 2025.
+
+While MeitY has not explicitly defined CCTV (closed circuit television) cameras in its essential security requirements, the DoT through the National Center of Communication Security (NCCS) has focused on smart cameras people use for surveillance applications in residential and office environments. Given the narrow focus that the DoT has given to the smart cameras under its consultation, one can essentially equate that the authority is looking at smart cameras people use for CCTV functionality.
+
+As per the DoT consultation , a smart camera is “a consumer Internet of Things (IoT) device that remotely captures multimedia (such as audio, video, image, etc.), can perform intelligent analysis functions (such as movement detection), and share the information with the consumer (over mobile/web-based interface).”
+
+The authority mentions that smart cameras can be a part of a video surveillance system (VSS). VSS provides display and storage of the video captured by multiple remote smart cameras over a network for multiple security applications along with other functionalities such as remote control and alarm.
+
+These VSS systems contain three key components— camera module, gateway, and mobile devices. A gateway acts as the central controller responsible for providing users with services such as watching videos, receiving alarms, and controlling camera functionality. Users can access gateways with a fixed or mobile network. The key difference here seems to be that CCTV systems are analogous , while smart camera systems operate over the internet, which in turn, works over telecom networks which are under DoT’s domain.
+
+In 2017 , MeitY added CCTV cameras to the Electronics and Information Technology Goods (Requirement for Compulsory Registration) Order, 2012. Through this addition, the IT Ministry made it compulsory for CCTV manufacturers to meet security standards if they wanted to sell/import these in the country.
+
+Then, in May 2022 , the DoT exempted smart cameras from prior mandatory testing and certification under the Telegraph Rules 1951. However, since then, the government has notified the Telecommunication Act, 2023 , which repeals the Telegraph Act, 1885 (which is the parent act under which the government had later released Telegraph Rules).
+
+Further, under the September 2024 amendment of the Government of India (Allocation of Business) Rules, 1961, matters related to the security of telecom networks are under the DoT, while matters related to cybersecurity as under the Information and Technology Act fall within MeitY’s scope. MeitY must also help other ministries/government departments in cybersecurity matters.
+
+Despite this, NCCS in its notice about the consultation cites The Indian Telegraph Rules, 1951, Part XI, Testing & Certification of Telegraph (Rule 528 to 537). This segment says that every Telecom equipment must undergo prior mandatory testing and certification. It is unclear why the NCCS does not factor in the 2024 amendment or the fact that the Telecom Act has superseded the Telegraph Act.
+
+NCCS sets out four levels of security requirements:
+
+Level 1: Level 1 devices must have no default passwords, and ensure that they get security updates and have means to manage vulnerability reporting. They must also meet other basic requirements such as message encryption, data encryption, device ID management (Physical/Logical), access control mechanisms, and password management.
+
+Level 2: Must meet level 1 requirements. However, on top of that, these devices must also have additional features such as attack protection, tamper resistance, security assessment certificates, data integrity, platform integrity, software assets protection and response, data authentication and device ID verification
+
+Level 3: These devices must fulfil Level 2 requirements as well as ensure the absence of known software vulnerabilities by putting in place features such as secure booting, external attack prevention and secure monitoring, policy updates and response.
+
+Level 4: These devices must meet Level 3 requirements and also have resistance against common cyber attacks. They must undergo penetration testing and incorporate the usage of biometric authentication.
+
+The NCCS says that the government will only certify smart cameras that meet at least Level 3 security requirements. The authority then has further requirements for various categories such as authentication, identity management, access controls, storing sensitive information, supply chain management, etc. Here are some of the key security aspects and their level-specific requirements—
+
+Level 1: Must ensure that the device disables factory-issued login accounts and passwords when the smart camera is installed/commissioned. They must not have authentication credentials hardcoded into devices and must allow users to create multiple accounts with varied levels of control.
+
+Level 2: Devices must have hashed or encrypted authentication credentials. Manufacturers must provide username and password reset mechanisms using multi-factor verification and authentication. They must request user confirmation when the smart camera pairs with/onboards another device. The device must not allow users to use common passwords containing the user’s account name.
+
+Level 3: Level 3 devices must impede brute force attacks by introducing delays following failed user login attempts. They can also have a maximum number of failed login attempts within a certain time interval. Further, the device can also lock an account following a certain number of failed login attempts.
+
+Level 2: Devices at this level must ensure that security parameters and passwords are not hardcoded into the source code or stored in a local file. They must store passwords in a format that is safe from offline attacks and must ensure that they hash passwords using an approved one-way key derivation or password hashing function.
+
+Level 3: Original Equipment Manufacturers (OEMs) must ensure that they store sensitive data such as private keys and certificates securely through the use of dedicated hardware security features. Besides this, Level 3 devices must store personally identifiable information (PII) and credentials using secure cryptographic controls. Level 3 devices must have a Universal Integrated Circuit Card (UICC)  for storing sensitive information in a tamper-resistant manner. For context, UICC is a type of SIM card which holds information that identifies the user to their wireless operator.
+
+Level 1: Devices must provide users with a short contextual privacy notice when they ask the users for personal information. This notice must inform users of the data that the device will process and how the device plans to use said data. The device must only record data (audio/visual) only after user authorisation. This means that the device must not carry out any passive recording without user permission. These devices must give users the option to export or remove their data on demand, they must also not store sensitive data in local storage.
+
+Level 2: The device must overwrite sensitive data contained in the device’s memory as soon as it is no longer required to mitigate memory dumping attacks.
+
+The Ministry has also released guidelines for manufacturers to implement its security requirements. These guidelines state that manufacturers have to get their products tested to confirm that they have implemented the security requirements and submit the same on the Bureau of Indian Standards’ portal. To ensure implementation, manufacturers must get their products tested by third-party testing laboratories.
+
+The guidelines state that the CCTV cameras’ wireless or wired communication protocol (eg Bluetooth, Wi-Fi, and Ethernet) must be consistent across the device series to maintain uniform communication functions.
+
+Despite the lack of a definition for CCTV, the fact that these devices work over communication networks like Wi-Fi could indicate that the IT Ministry does intend to implement this regulation on smart cameras as well.
+
+Further, all products in the same series must use identical software/firmware versions with matching hash values. If the manufacturer uses different software for products in the same series then they must get each of these tested separately as an independent series.
+
+It is important to know whether smart cameras come under the Telecom Act or not given the sensitive nature of the data they collect. Notably, under the Telecom Act, the government has come out with rules for telecom cybersecurity . As per the rules, the government or any other authorised agency can ask telecom companies for traffic data or any other information to ensure telecom cybersecurity.
+
+This traffic data is “any data generated, transmitted, received or stored in telecommunication networks.” It also includes data relating to the type, routing, duration or time of a telecommunication. Given that smart cameras send data (video footage) to customer’s phones over mobile networks, one has to wonder whether this video footage would also be within the scope of the traffic data that authorised agencies can ask for.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

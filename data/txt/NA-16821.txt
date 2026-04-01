@@ -1,0 +1,47 @@
+SUBREDDIT: r/india
+TITLE: This is a follow-up to my PSA on Tata Docomo's FTTH offerings that I'd posted about a month ago. [LONG POST]
+DATE: 2014-07-21
+SCORE: 23
+URL: https://www.reddit.com/r/india/comments/2b8atd/this_is_a_followup_to_my_psa_on_tata_docomos_ftth/
+
+--- POST TEXT ---
+
+**WARNING, LONG POST**
+
+Previous thread [here](http://www.reddit.com/r/india/comments/28uyqj/if_youre_thinking_of_buying_a_tata_docomo_ftth/).
+
+My opinion still stands. Avoid Tata Docomo. Nothing has changed since my previous observations, and the quality probably got worse over time.
+
+It's been a month and my connection was cancelled today. I'll get into the details about what transpired in a bit. We had purchased two connections - one for myself and one for my brother (/u/CharAznablekaBaap).
+
+Now about the situation:
+
+* Timed out every night and every afternoon, sometimes for an hour at a stretch. Have received cooldowns in CSGO Classic Competitive Matchmaking because of that shit.
+ * Sometimes it would just fail to connect and sometimes it would fail to authenticate. Technician would say "yes Kolkata side was down" every single time.
+* Speed fluctuates between fucking 1Mbit and 95Mbit, usually stays at 10-14Mbit. Customer service excuse: "we offered *upto* 100Mbps"
+ * Such scam much wow
+ * Concedes I should get at least 90Mbit but I'm still waiting for that to work consistently on a daily basis.
+ * I also get between 1% and 15% packet loss at times...
+* Sometimes it allowed me to use the net without logging in. My ping to kolkata would be good, at 30ms (good for India lel)
+ * As soon as I was able to log in, my location would change to Indore, Hyderabad or Bangalore and my ping would spike to 130ms within Kolkata. How they managed this black magic is beyond me (there's a limit to how crappy routing can get). Why the cock would my location change anyway?
+* Finally I got frustrated and told the CSR to just cancel my connection.
+ * I get a call from their retention agent a few days later who asks why and I tell him how shitty their service is. He tells me that he will get a senior technician at the West Bengal nodal department to take a look at my connection. Also says to keep the connection only if the problem is solved to my satisfaction.
+* I agree, because that was my primary intent by threatening a d/c.
+ * Three days pass, no communication from them. In the meantime, my brother's connection stops working.
+* We call customer service about my brother's connection. My brother had already seen that there was literally no signal from the fibre-optic cable and told them the problem was at their end. Customer service refuses to believe that and says "Aap apna *modem* check keejiye na." As if their motherfucking FTTH line comes with a bloody modem.
+ * Then they send a technician the next day. He sees the connection and says "Saar ab yeh mere haath mein nahi hai. Aap ko line fir se connect karvana padega. Kal tak ho jayega."
+* Fast forward another 3 days, i.e. Friday. Fuckers still hadn't fixed his connection. So I call customer service in the afternoon and rage at the guy on the other side about how shit their service is and how I want a disconnection.
+ * Fuckers don't have clean phone signals, how the fuck will they provide good internet? The responses from the guy on the other side was a garbled mess, given the poor quality of Docomo's transmissions.
+* I get a call from their retention service in the evening. More raging ensues. I demand a refund for the days my brother's connection didn't function and he promises to talk to (you guessed it - the west bengal nodal office).
+ * I also talk about my own connection, and how what they had assured me never happened. He promises to look into that.
+ * A few hours later he calls me back and says that their west bengal office said that the problem for my connection had been resolved! What the actual fuck? No communication with me, problems still occurred and they had the audacity to claim to have solved the problem?! Even more raging follows after which he says he will send them another email.
+* They send two technicians on Saturday. They determine my brother's diagnosis was correct. The problem was on Docomo's line and they promised to fix the problem by the end of the day. It's Monday as I write this and his connection doesn't work.
+* Yesterday (Sunday) around 11PM at night, they quietly cancelled my connection. Wow, what the fuck? They promise to fix it, and they suddenly cancel it? Common sense states that the cancellation request would be suspended until the problem was fixed or I chose to go ahead with the cancellation anyway.
+ * I asked the guy on the phone how much they would refund me and when my bill would arrive. He said bill would be generated tomorrow and I would receive it soon after that.
+ * I was doing work related to my university enrollment procedures when the cancellation occurred and this could have affect my ability to enroll in courses, which will happen in a few days, if I did not have a backup connection.
+* I enquire about when my brother's connection would be fixed, and he said "tomorrow, by 1PM". Which means today, Monday.
+ * I hope they don't end up cancelling his line as they did mine, because they do have a cancellation request on the offing for him as well.
+
+So, in the end Tata Docomo is just as shit as it was when I got it a month ago, if not worse. Highly inadvisable to get a line from these scumbags. Unreliable internet, unreliable customer service, poor telecommunications and the like. Special mention for the ignorant, absolutely incompetent and completely retarded local visiting technicians.
+
+**DO NOT BUY TATA DOCOMO. DON'T GIVE THESE MOTHERFUCKERS EVEN A PAISA.**

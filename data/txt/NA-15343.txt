@@ -1,0 +1,17 @@
+IT services company Cognizant, on April 18, confirmed that it has been hit by a Maze ransomware attack, which has caused “service disruptions” for some of its clients. The company has not revealed the details about the security incident, but said that its internal security teams and other cyber defence firms are trying to “contain the incident”. The company also said that it was engaging with the law enforcement. Bleeping Computer had first reported about the ransomware attack on Cognizant.
+
+Cognizant predicts a revenue loss: In a filing with the US’ Securities and Exchange Commission (SEC), the company said that “the attack has caused and may continue to cause an interruption in parts of our business and may result in a loss of revenue and incremental costs that may adversely impact our financial results”. TechCrunch first reported on Cognizant’s SEC filing.
+
+It had emailed clients with technical information about the attack: Cognizant claimed to have provided its clients with Indicators of Compromise (IOCs) and other technical information of a “defensive nature”. According to Bleeping Computer, the emails sent out by Cognizant to its clients included a “preliminary list of indicators of compromise identified through our investigation”, and IP addresses of servers, among other things.
+
+What is a Maze ransomware attack? Maze operators use RSA-2048 and ChaCha20 encryption and require the victim to contact the threat actor by email for the decryption key. The threat actors behind the malware are known to have attacked multiple sectors including government and manufacturing and threaten to release the company’s data if the ransom is not paid, according to security software company McAfee.
+
+Maze has not yet taken responsibility for the attack: When Bleeping Computer reached out to Maze, they denied being responsible for the ransomware attack., however, the report did say that “Maze is likely not discussing it to avoid complications in what they hope would be potential ransom payment”. The report speculates the presence of Maze operators in Cognizant’s severs for weeks, and that if it was Maze, they usually steal unencrypted files before encrypting them.
+
+“Maze ransomware operators are known to conduct their attack below the surface and have a reputation of stealing the data first before locking their target systems. They fully understand their victim’s reputational risks, and hence their approach is ‘steal, lock and inform’”, Beenu Arora, founder and CEO of  cybersecurity intelligence firm Cyble — which recently discovered 500,000+ Zoom IDs on the dark web — told MediaNama.
+
+Arora told us that his company had reached out to Maze as well, and they did not take responsibility for the security incident, and told us that Maze “understand[s] the brand value of this organization [Cognizant] and mostly likely publish them should their negotiations fails. Given the Maze name has been spread all over by Cognizant, it is expected the group will confirm it in the next 24-48 hours”.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

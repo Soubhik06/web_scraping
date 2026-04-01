@@ -1,0 +1,37 @@
+SUBREDDIT: r/india
+TITLE: [PSA] Do not trust videos on social media. A disclaimer on deepfake marketing.
+DATE: 2024-05-29
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/1d36d4w/psa_do_not_trust_videos_on_social_media_a/
+
+--- POST TEXT ---
+
+A couple of days ago, my mom was asking me for advice on starting a trading account and how to invest money in the stock market. Through the magic of data mining, Instagram started serving her adverts on trading apps. That's concerning, sure, but typical in the current digital era.
+
+The issue is that just a while ago, she was shown a "Promoted" reel (Ad) that made me reaalise that we are in queue for possible disasters. The reel appeared to be a clip of Azim Premji (Founder of Wipro) claiming that he had started a *Quantum Computing Software Firm* in collaboration with *Elon Musk(?!)*. Followed up with a vague explanation (with technical buzzwords) on how his app will let you trade in the stock market with minimal risk. Azim, in the reel goes on to say he is leading teams of engineers in Google and Facebook (again, wtf?!) who are working tirelessly to bring this tech to the market and that he wants *You* to be a part of it. The reel then switches to another clip of Molly Gambhir from WION news supposedly reporting a "breaking news" on how this tech is a big win for Indians, and that with it Indians can make guaranteed profits.
+
+The description of the reel opens a link to a website which looks ***exactly*** like The Indian Express, but the domain is something along the lines of "transgnnq.com" (I don't remember exactly), with an article on this tech.
+
+So anyways, my mom sees this reel and comes up to me asking if "this is a good way to start making money". She held not even an ounce of suspicion until I nitpicked various details out in the video to show her that it is fake. Even then, she was in disbelief, saying "But it's actually Azim speaking! And it's actually the reporter from WION in the video! And it's fake?"
+
+When I saw this clip, my first instinct was to be suspicious because of the jargony wording. Then I heard it closely and realised that the voice and video itself looks deepfaked. I am, however quite tech-savvy and have heard a fair few deepfaked audio clips so I was able to recognize it instinctively. Clearly, my mother wasn't able to do the same.
+
+PSA: Please do not believe anything you see on the internet and *please* warn relatives and friends who may not be tech savvy or are gullible about this. The reel we saw wasn't popular atm, only 200-ish likes, but the fact that such content was served through Instagram's advertisements channel tells me that more fake content like this may come through to users.
+
+If you see a video that is trying to sell you a product or service, and instead of a typical ad they use clips of just someone talking then be skeptical.
+
+**How to spot deepfakes:**
+
+1. Is the clip just one person, mostly in one position with minimal movement, in the video, talking?
+2. Does the person's speech have a slightly odd accent? A lot of these deepfake models are initially trained with accents from all over the world before being fine tuned for the particular person being faked, and especially for indians the accent doesn't always fit. 
+3. Does the person speak without small pauses, or "Ums", "Uhhs" that are common in natural speech? AI voices are often quite monotonous sounding with minimal emotion and lack of various speech intonations. If it sounds even remotely robotic, that is a red flag.
+4. Does the speech exactly match the lip movement? The deepfake has to run on both the voice and the video, and sometimes you can catch a glimpse of a weird lip movement that does not match the audio.
+5. Does the content link to a website? Does the website look legitimate? **THIS COULD BE A PHISHING SITE.** [A guide to check if a website is legitimate](https://www.bu.edu/tech/support/information-security/security-for-everyone/how-to-identify-and-protect-yourself-from-an-unsafe-website/) 
+6. Is the product being sold not described properly, instead relying on buzzwords, technical jargon and vaguely optimistic descriptions, and absurd claims? Ex. "This is a GPT based chat application that helps you understand your health conditions" sounds legitimate... but "This is a quantum computing based software product that is built by the founder of Wipro and Elon Musk with engineers from Google and Facebook that will help you win on the stock exchange as well as eradicate poverty" sounds fake.
+
+**What to do if you think you've spotted a deepfake ad:**
+
+1. Verify. Take the info in the video and research if the claims are true or if the product even exists. If the video is claiming something by referring to a clip of a famous person or a news reporter, this should be easy to verify. Ex. if Azim Premji really was investing in a quantum computing venture with Elon Musk (publicly, assuming the video was real) then surely this would be all over the news.
+2. Report and Block.
+
+Please educate people on this, I might be overreacting to one Reel, but if it can fool my mom then I think it is a safe assumption that deepfaked clips for marketing (scams) can become a problem down the line.

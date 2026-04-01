@@ -1,0 +1,175 @@
+By Asheeta Regidi and Aparajita Srivastava, Ikigai Law
+
+The Steering Committee on Fintech Related Issues (‘Committee’), set up by the Ministry of Finance, recently issued its report (‘Report’) [1] , in which it takes stock of developments in the fintech space, globally and in India. It makes 45 recommendations to enable fintech, particularly in critical sectors of the economy, and to promote ‘ease of doing business’ in India. Its focus areas include removing the disparity between bank and non-bank players, supporting Micro, Small and Medium Enterprises (‘MSMEs’) and the agricultural sector to promote financial inclusion, supporting the role of data in lending and enabling digitisation of key processes. Innovation in the financial sector through open data, digital KYC, inter-regulatory cooperation, sandboxes, etc., are other key recommendations.
+
+This article outlines the key recommendations put forth by the Committee, and concludes with a note of initial industry reactions to the Report:
+
+Removing discriminatory barriers between bank and non-bank players
+
+A significant recommendation of the Report is to ensure a level playing field between bank and non-bank players, so as to enhance innovation and competition and allow digital payments to reach their full potential [2] .
+
+First, it suggests requiring the National Payments Corporation of India (‘NPCI’) to provide non-discriminatory access to its payment infrastructure to fintech firms and other financial firms, who are not currently shareholders in the NPCI. Given the monopoly of banks in the constitution of the NPCI, this requirement of non-discrimination suggests a significant shift in the role of the NPCI. The Committee next suggests that the Reserve Bank of India (‘RBI’) and the proposed Payment and Settlement Systems Board continue taking similar steps towards such calibrated liberalisation. This proposed parity promises change in the fintech landscape, allowing nimble tech players to offer new ways of going cashless and bring in innovation in ways that traditional, incumbent banks can’t.
+
+MSME support via TReDS-GSTN integration
+
+Next, the Report is focussed on lending support to MSMEs. A key suggestion here is to merge the Trade Receivables Discounting System (‘TReDS’), which facilitates the financing of MSMEs by allowing them to sell their trades receivables to corporates, with the Goods and Services Tax Network (‘GSTN’). This TReDS-GSTN integration, which, for instance, helps identify fraudulent invoices, can form the backbone of a trusted invoice infrastructure. This in turn, can form the basis for a flow-based lending system for MSMEs by banks and Non-Banking Financial Companies (‘NBFCs’) [3] . The Committee, in fact, also recommends testing block-chain based solutions in trade finance for MSMEs, to remove inefficiencies in the supply chain and lower risks [4] .
+
+Further recommendations here include the creation of an open application programming interface (‘API’) – MSME stack, based on TReDS data validated by GSTN, for use by fintech companies [5] , and creation of an India MSME stack which similarly facilitates trade financing, flow-based lending, insurance and bill factoring via data pulled through APIs [6] . The Committee also recommends that the RBI issue guidelines for cash flow-based financing of MSMEs based on the TReDS-GSTN integration [7] .
+
+Reforming P2P Lending for a marketplace model of debt financing
+
+A related suggestion to support financing MSMEs, households and individuals, is to reform the current P2P lending model to create a marketplace model of debt financing. This allows tapping into certain positive features of the current and nascent P2P model in India, for instance, that it involves a wide range of potential lenders including not just banks but also non-banks, savers and others. The review of restrictions on exposure limits in the current model, and options like allowing the Micro Units Development & Refinance Agency (‘MUDRA’) to fund/co-fund MSMEs via this model are also suggested [8] .
+
+Supporting credit/insurance products for the agricultural sector
+
+A second, significant area of focus of the Report is on leveraging fintech to support credit/ insurance products for the agricultural sector. A key aspect of this is to collate and make better quality data available to banks, fintech companies, and other lending agencies and insuring companies. This will help in move away from collateral-based lending to data-based lending.
+
+For better quality data, the report recommends tapping into drone and remote sensing technology [9] and the digitisation of land records [10] to gather accurate data on self-reported cropping patterns, mortgages, encumbrances, land ownership, etc. Given that bank credit in the agricultural sector is largely based on land ownership, such data is essential. To this end, the Committee also recommends the creation of a National Digital Lands Records Mission, with real-time API based access to financial service providers [11] .
+
+To further alternative credit scoring as a means of financing the poor and unbanked, the Committee also suggests laying down a formal, consent based mechanism allowing this [12] . As further sources of data, the Committee also recommends the creation of an India Agri Stack, allowing open API access to data like land ownership data, a farmer’s borrowing history, etc., to lenders [13] .
+
+KYC reform and consumer protection
+
+In a critical step towards enabling low cost KYC, the Committee takes special note of the related issues that have arisen in the fintech sector, due to the Supreme Court’s decision in the Aadhaar case [14] . By putting a stop to e-KYC or relying on the Aadhaar database in any way for KYC, advantages such as significantly lower costs, greater efficiency and increased convenience for customers were lost.
+
+The Committee, thus, first recommends exploring alternative KYC models, such as e-Sign, non face-to-face boarding, use of documents in the Digi Locker as well as video-based KYC [15] . The Committee separately recommends that wet signatures be done away with in relation to certain legal processes (discussed below [16] ). Extending this for KYC as well would be a critical step towards enabling digital on-boarding and cutting costs.
+
+In order to further reduce costs, the Committee also suggests enabling the Central KYC (‘C-KYC’) registry to take off, such as via keeping upload of KYC data free and download chargeable based on the user pays principle [17] , and by naming a deadline for making the C-KYC registry operational [18] .
+
+The Committee is also focused on consumer protection, recommending that a legal framework for this be in place, keeping in mind issues like low digital literacy rates and ignorance of risks [19] .
+
+Open APIs, Open data and Open banking
+
+A large focus of the Report is to enable open, real-time and equal access to data. The Committee thus suggests that open and equal access APIs of relevant datasets be created, such that fintech solutions can be built using them. Data here must be anonymized or included with consent [20] .
+
+An interesting recommendation which borrows from the European concept of open banking is that financial sector regulators study the potential of open data access, to enable better competition in financial services [21] . The Committee recommends that open banking commence with, for example, opening up rejected credit applications (referral pools) with banks, available on a consent-basis to a neutral marketplace of alternate lenders [22] . Similarly, it suggests that the RBI open up bank data available to fintech firms this way [23] .
+
+To allow the sharing of data generated by government agencies as well, the Committee also recommends that the National Data Sharing and Accessibility Policy should have wider acceptance, making way for the sharing of this data in real-time, via open APIs [24] .
+
+In addition to open banking, the Committee is also keen on virtual banking, and recommends that its suitability in the Indian scenario be explored [25] .
+
+Recommendations for going paperless
+
+To give fintech a boost, it also suggests that regulatory changes be introduced to dematerialize financial instruments [26] , such as those for fixed deposits, small savings certificates, sovereign gold bonds, and so on. It similarly also suggests that amendments be introduced to allow paperless legal alternatives for all legal processes having a bearing on financial services, such as permitting alternatives to wet signatures on physical loan agreements for filing of loan recovery suits in courts [27] . It also recommends allowing digital alternatives for power-of-attorneys, trust deeds, wills, cheques, etc.
+
+Regulatory overhauls to support innovative and hybrid business models
+
+As hybrid models emerge, traditional regulations and divides of regulatory authority need a relook. To this end, the Committee recommends that in addition to individual fintech initiatives and international collaboration, inter-regulatory coordination via inter-regulatory groups be established. The Inter-Regulatory Technical Group (IRTG) set up under the Financial Stability and Development Council Sub-Committee is suggested as the forum for such coordination for hybrid innovations [28] . Interestingly, the Committee also suggests that in addition to individual regulatory sandboxes, an inter-regulatory sandbox is essential [29] .
+
+Further, the Committee recommends permitting new business models [30] . In particular, it notes restrictions on innovative business models on account of traditional laws. Examples are the barring of remuneration from advertisements on web aggregator platforms in the insurance sector, or the bar on financial service companies from outsourcing activities to fintech companies in the insurance sector [31] .
+
+Other Recommendations
+
+Other recommendations include, broadly, creating competitive neutrality between entities providing similar services [32] , introducing supportive prudential norms [33] , and encouraging the use of fintech for cybersecurity, fraud control and money laundering [34] . Another recommendation is to review the regulatory system for prepaid payment instruments (‘PPIs’), such as increasing the balance limits and liberalising its use with non-monetary limits [35] .
+
+The advantages of artificial intelligence, cognitive analytics and machine learning in back-end processes of PSU banks, such as in risk management and fraud control, are also to be explored [36] , as are the uses of Regulation Technology (RegTech) [37] and Supervisory Tech (SupTech) [38] .
+
+Industry Reactions to the Report
+
+Concluding with a look at industry reactions, the initial response has largely been extremely positive. One issue pointed out by CUTS International is that the report, while making many positive recommendations, does not adequately explore the roadblocks that can arise in their implementation [39] .
+
+The cryptocurrency industry has noted that the Report, interestingly, takes note of the use of cryptocurrencies and Initial Coin Offerings internationally, although it refrains from making any recommendations at this stage. This may perhaps be on account of the ongoing litigation on the issue, but the lack of any negative statements either is being viewed as a positive sign and an acknowledgement of the ‘revolutionary potential’ of cryptocurrencies [40] .
+
+Lending platforms like Faircent are seeing the recommendations on P2P lending and MSME support as positive steps providing much needed stimuli to this sector. These recommendations are being seen to potentially bridge the widening credit gap and enable P2P lending platforms to mobilise idle funds through reduced restrictions [41] . The potential of the TReDS-GSTN integration is another point of interest for fintech companies in the lending space [42] .
+
+For fintech companies in the payments space, the recommendations on open data, open access, and virtual banking are being viewed positively. The recommendations on PPIs, naturally, are another factor that payment companies are looking forward to [43] .
+
+Overall the recommendations of the Committee, given the boost it proposes for fintech, has been well-received by the fintech industry.
+
+*
+
+[1] Issued September, 2019, Report of the Steering Committee on Fintech Related Issues , 2019, Department of Economic Affairs, Ministry of Finance, available at https://dea.gov.in/sites/default/files/ReportoftheSteeringCommitteeonFintech.pdf
+
+[2] Recommendation No. 1.6.1, Ibid.: Removing discriminatory regulatory barriers in the digital payments infrastructure sector
+
+[3] Recommendation No. 1.6.4, Ibid.: Flow-based lending for MSMEs
+
+[4] Recommendation No. 2.4.3, Ibid.: Public sector block chain-based trade finance
+
+[5] Recommendation No. 1.6.4, Ibid.: Flow-based lending for MSMEs
+
+[6] Recommendation No. 2.4.7, Ibid.: Open APIs
+
+[7] Recommendation No. 1.6.4, Ibid.: Flow-based lending for MSMEs
+
+[8] Recommendation No. 1.6.5, Ibid.: Reforming P2P markets and creating a marketplace model for debt financing
+
+[9] Recommendation No. 2.4.4, Ibid.: Remote Sensing & Drone Tech for Credit & Insurance
+
+[10] Section 2.2.2, Ibid.: Digitisation of land records, at Page 55-56.
+
+[11] Recommendation No. 2.4.5, Ibid.: Digitisation of Land Records
+
+[12] Recommendation No. 1.6.10, Ibid.: Using unconventional data sources for better credit scoring and increasing access to credit
+
+[13] Recommendation No. 2.4.7, Ibid.: Open APIs
+
+[14] K.S. Puttaswamy vs Union of India, W.P.(Civil) No. 494 of 2012, available at https://sci.gov.in/supremecourt/2012/35071/35071_2012_Judgement_26-Sep-2018.pdf
+
+[15] Recommendation No. 1.6.9, Ibid.: Reformed KYC process in the light of the recent Supreme Court judgement on Aadhaar
+
+[16] Recommendation No. 2.4.6, Ibid.: Re-engineering Legal Processes for the Digital world, See Para below on Recommendations for going paperless
+
+[17] Recommendation No. 2.4.14, Ibid.: Eliminating costs of on-boarding KYC data on eKYC Depository
+
+[18] Recommendation No. 2.4.15, Ibid.: Mandatory use of C-KYC Registry
+
+[19] Recommendation No. 2.4.16, Ibid.: Consumer Protection framework
+
+[20] Recommendation No. 2.4.7, Ibid.: Open APIs
+
+[21] Recommendation No, 2.4.13, Ibid.: Open Data for enhancing competition
+
+[22] Ibid.
+
+[23] Ibid.
+
+[24] Recommendation No. 2.4.8, Ibid.: Expanding Open Government Data
+
+[25] Recommendation No. 1.6.6, Ibid.: Virtual banking
+
+[26] Recommendation No. 1.6.7, Ibid.: Dematerialisation of financial instruments
+
+[27] Recommendation No. 2.4.6, Ibid.: Re-engineering Legal Processes for the Digital world
+
+[28] Recommendation No. 4.6.4, Ibid.: Inter-regulatory coordination on fintech
+
+[29] Section 2.3.3, Ibid.: Regulatory sandboxes, at Page 69.
+
+[30] Recommendation No. 2.4.9, Ibid.: Support for new business models
+
+[31] Ibid.
+
+[32] Recommendation No. 2.4.10, Ibid.: Competitive ‘neutrality’ in regulation
+
+[33] Recommendation No. 2.4.12, Ibid.: Planning for high impact fintech scenario
+
+[34] Recommendation 1.6.2, Ibid. : Fintech for cybersecurity
+
+[35] Recommendation No. 1.6.8, Ibid.: Reform of Pre-paid instruments (PPI) system
+
+[36] Recommendation No. 2.4.2, Ibid.: Artificial Intelligence for back-end processes
+
+[37] Recommendation No. 2.4.18, Ibid.: Regulation Technology (RegTech)
+
+[38] Recommendation No. 2.4.19, Ibid.: Supervisory Technology (SupTech) for Regulators
+
+[39] Quote by Pradeep S Mehta, Secretary General, CUTS International, in Media Article by K.R. Srivats: Panel on fintech bats for ‘marketplace model’ of debt financing , The Hindu Business Line, dated September 4 th , 2019, available at https://www.thehindubusinessline.com/money-and-banking/panel-on-fintech-batsfor-marketplace-modelof-debt-financing/article29324478.ece
+
+[40] Quote by Sumit Gupta, CEO CoinCDX, in Blogpost by Vikrant Mansera: CoinDCX on India’s Fintech Report – India stands bullish on Blockchain and Crypto , Website of CoinDCX, dated September 4 th , 2019, available at https://blog.coindcx.com/india-fintech-report-india-stands-bullish-on-blockchain-and-crypto/ ; See also Quote by Aanchal Thakur, Managing Partner DayOrg Consulting Group, in article by Naimish Sanghvi: DEA Steering Committee Report says Blockchain and ICOs are revolutionising Fintech Landscape , CoinCrunch, dated September 3 rd , 2019, available at https://coincrunch.in/2019/09/03/steering-committee-dea-blockchain-ico-revolutionising-fintech/ .
+
+[41] Media Article by Rajat Gandhi, CEO, Faircent: Why fintech panel believes P2P platforms can ease credit supply, The Economic Times, dated September 5 th , 2019, available at https://economictimes.indiatimes.com/small-biz/sme-sector/why-fintech-panel-believes-p2p-platforms-can-ease-credit-supply/articleshow/70990829.cms
+
+[42] LinkedIn Post by Amit Tyagi, Chief Business Officer, Unimoni, LinkedIn, published in September 2019, available at https://www.linkedin.com/posts/tyagiamit14_report-of-the-steering-committee-on-fintech-activity-6575591500044959744-FisJ/
+
+[43] Ibid.
+
+*
+
+This article has been authored by Asheeta Regidi with inputs from Aparajita Srivastava. Regidi is an independent consultant and Srivastava is a Senior Associate (Regulatory & Policy), Ikigai Law.
+
+It was originally published on the Ikigai Law blog, read the original here .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,27 @@
+A United States-based cybersecurity company said that 13 telecommunications companies across the world were hacked by an entity named LightBasin, publicly known as UNC1945.
+
+“CrowdStrike identified evidence of at least 13 telecommunication companies across the world compromised by LightBasin dating back to at least 2019,” said a blogpost by the cybersecurity company . Although, during its investigation CrowdStrike found evidence of Chinese language in LightBasin’s data, the company did not assert a nexus between LightBasin and China. MediaNama has reached out to CrowdStrike for more details such as the names of the telecommunications companies that were affected.
+
+In brief, the cybersecurity company said LightBasin took advantage of the lax security protocols on Linux/Solaris systems – usually used by telecommunications companies. “LightBasin’s focus on Linux and Solaris systems is likely due to the combination of critical telecommunications infrastructure running on those operating systems, in addition to the comparatively lax security measures and monitoring solutions on Linux/Solaris systems that are typically in place on Windows operating systems within an organization,” said CrowdStrike.
+
+The data that was accessed by LightBasin includes subscriber information and call metadata.
+
+This cyber attack is reminiscent of the alleged China-backed attack on India’s critical infrastructure systems such as power companies in Telangana and other states. Although it is not yet confirmed whether Chinese state actors are involved in this cyber-attack, or whether any major Indian telcos were affected, it must be pointed out that India still does not have a data protection law, and the National Cyber Security Strategy which has been in the pipeline since 2019, has not been finalised yet.
+
+CordScan : This executable is a network scanning and packet capture utility that contains data relating to the application layer of telecommunications systems, which allows for fingerprinting and the retrieval of additional data when dealing with common telecommunication protocols, said CrowdStrike.
+
+SIGTRANslator : This executable provides LightBasin with the ability to transmit data via telecommunication-specific protocols, while monitoring the data being transmitted, the company said. The data is sent to a remote C2 host, which is encrypted with hard-code key ‘wuxianpinggu507’.
+
+This Pinyin translates to “unlimited evaluation 507” or “wireless evaluation 507.” “Wireless evaluation” is likely the correct translation, as the malware is targeting telecommunications systems. The identification of a Pinyin artifact indicates the developer of this tool has some knowledge of the Chinese language; however, CrowdStrike Intelligence does not assert a nexus between LightBasin and China — CrowdStrike
+
+Fast Reverse Proxy : This open-source utility is a reverse proxy used by LightBasin to permit general access to the eDNS server via an actor-controlled C2 IP address hosted by the VPS provider Vultr, the company said.
+
+CrowdStrike put out several recommendations to safeguard the critical infrastructure of telecommunications such as:
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

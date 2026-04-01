@@ -1,0 +1,27 @@
+The Department of Telecommunications (DoT) has issued pan-India blocking orders for 28,200 mobile handsets that were being misused in cybercrime. This is a joint effort by the DoT, Ministry of Home Affairs (MHA), and state police to curb the misuse of telecom resources. The investigation into these devices revealed that 20 lakh numbers were used with these mobile handsets. As such, the DoT has also issued orders for immediate re-verification of these 20 lakh connections, with disconnection following failure to re-verify.
+
+This is yet another instance of the “fraud stack” phenomenon that cybersecurity researcher and DeepStrat Co-Founder Anand Venkatnarayan had discussed during MediaNama’s event on user verification in March last year. Venkatanarayan explained that the process of de-frauding starts with the procurement of IDs for which there exist many ways such as “loaning IDs,” but most of them prefer “forging” them. Scammers procure SIM cards after the forging is done, with which one can create several bank accounts. The scammers operate call centers with hundreds of people and every team leader is given a goal of a hundred victims a month.
+
+“This is the fraud stack. The bottom layer is what I call the jam layer, the telecom, banking, and liability layer, all intermixed together. When cops usually come and say ‘we can’t bust scammers’, they are talking about the operational layer, which is payments. They have f-KYC (Fraud KYC) just like you have eKYC. They have hacking tools, sharpshooters, and so on,” Venkatnarayan said. He gave the example of a two-person fraudster gang in Delhi that had managed to fake the DSC verification process of multiple service providers by doing e-KYC as per the norms.
+
+Watch the video to get a comprehensive look at Venkatnarayan’s presentation.
+
+In May last year, the Ministry of Communications launched the Sanchar Saathi Portal which provides the following services—
+
+However as we have previously discussed , ASTR gives the Department of Telecommunications access to one’s personal information, which could be passed around to various other government departments as well. This circulation of data without user consent is essentially a violation of privacy rights. Further, facial recognition technology, like the one used by ASTR, is known to have issues such as low accuracy rates, racial biases, and failure to detect ageing.
+
+In November 2022, the Telecom Regulatory Authority of India (TRAI) released a consultation paper proposing to bring a Truecaller-like feature for all telecom users – where a person receiving the call will automatically get to know the name of the person who is calling. Then in February this year, (despite the critique of this system ) TRAI recommended that all telecom companies in India provide a caller identification service to identify callers based on their customers’ requests. TRAI believes that users prefer not to answer calls from unknown numbers and are forced to miss genuine calls in the absence of such a facility. It expects that this service will solve the problem of spam calls and messages.
+
+Speaking about the limitations of such identification systems during MediaNama’s discussion, a representative from Dvara argued that people engage with fraudulent communications when they are fully aware that these are suspicious text messages. “They might believe that it’s not too much of a risk, I can manage my way out of it. It is the problem. The problem is not about the identification of the person who is calling but it is about how social engineering is working,” he explained.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+Also read:
+
+Explained: Why in the world is India’s Telecom department using facial recognition on SIM users?
+
+TRAI’s caller identification system is an Inadvertent Gift to Spam Callers
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

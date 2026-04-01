@@ -1,0 +1,21 @@
+SUBREDDIT: r/india
+TITLE: Phishing Scam Alert: Tax Refund - Income Tax Department Fake Website
+DATE: 2015-05-26
+SCORE: 60
+URL: https://www.reddit.com/r/india/comments/37aqs7/phishing_scam_alert_tax_refund_income_tax/
+
+--- POST TEXT ---
+
+Came across this link that my buddy sent me.
+
+ http://managements.co.in/fast/dc/pr/kp/refund/asset/income/ir.php
+
+Here's a screenshot for brevity: http://i.imgur.com/cDHwdXA.png
+
+Upon stealing your bank, the website fakes the login page of the page where you enter your username and password and on the next screen, it asks for your **other** important details like CVV, ATM PIN, etc.
+
+Tell your friends to stay the fuck away.
+
+Update: Looks like the web-hosting account was suspended. Good.
+
+Update II: Friend also showed me this screenshot of a cleverly worded SMS that was received: http://i.imgur.com/Py9cfcT.jpg

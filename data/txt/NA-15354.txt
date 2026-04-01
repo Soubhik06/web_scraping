@@ -1,0 +1,31 @@
+REvil, the notorious ransomware group based in Russia, was taken offline in a hacking operation by several countries spearheaded by the United States, according to a Reuters report. The US government ramped up its efforts to stop REvil in its tracks after the gang was responsible for the attack against Kaseya , a US software management company, the report added.
+
+The agencies involved in the operation include the Federal Bureau of Investigation, US Cyber Command, the Secret Service, and a few countries whose names are not yet known, Reuters reported. REvil’s official website ‘Happy Blog’ is no longer online; it was used to leak victim data and extort companies, the news website added.
+
+Unnamed sources told Reuters that a foreign partner of the US government carried out the hacking operation infiltrating REvil’s computer architecture. They added that the operation was still active.
+
+Ransomware is the biggest cyber threat in 2021 as attacks have grown exponentially because of its lucrative gains. REvil is one of the most dreaded ransomware gangs responsible for attacks on JBS Meat and Colonial Pipeline, among others. The US-led hacking operation might taper the unfettered growth of ransomware attacks.
+
+REvil’s computer network infrastructure was hacked by law enforcement officials giving them control of some of their servers, as per Reuters. Earlier, the FBI had a universal decryption key following the Kaseya attack which permitted infected parties to recover their files without paying a ransom. However, the key was not used for weeks as the US pursued REvil’s members.
+
+A report in Bleeping Computer said that this key was accessed by Bitdefender and law enforcement agencies who then released a free decryptor , This is the entry point through which the gang’s websites were targeted.
+
+The website added that the REvil operation shut down suddenly, and their public-facing representative, Unknown, disappeared following the Kaseya attack. The gang’s offline websites were propped up recently from backups which gave officials access into their network.
+
+REvil’s websites have been down for more than a week, as per Bleeping Computer. It was not known at the time that a government operation was the reason behind it.
+
+January, 2021: A pan-Asian retail chain operator Dairy Farm was attacked by the REvil gang which demanded a $30 million ransom. The REvil ransomware group compromised Dairy Farm Group’s network and encrypted devices in January. There is no confirmation on whether the ransom was paid.
+
+March, 2021: Computer giant Acer was hit by a REvil ransomware attack this year where the threat actors demanded the largest ransom, $50 million, to date. The ransomware gang announced on the data leak site (Happy Blog) that they had breached Acer and shared some images of allegedly stolen files as proof. It is not yet known whether Acer complied with the ransom.
+
+May, 2021: JBS SA , the world’s largest meat processing company, was also one of the victims of the ransomware attack. It reportedly paid $11 million to obtain the decryption key. The ransom was paid in Bitcoin. The company was widely criticised for complying with the demands as it would incentivise more attacks.
+
+July, 2021: The attack on US-based software provider Kaseya in July 2021 is estimated to have affected up to 2,000 global organizations. REvil targeted a vulnerability in a Kaseya remote computer management tool to launch the attack. REvil demanded $70 million to restore encrypted data. Kaseya announced it received the decryption key for the files encrypted from an unnamed “trusted third party”, later discovered to be the FBI who had withheld the key for three weeks, and was helping victims restore their files.
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

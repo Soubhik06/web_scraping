@@ -1,0 +1,41 @@
+Some time ago, MediaNama talked about how the Haryana police deactivated 983 fraud SIM cards sextortion, ATM fraud and other crimes. The technology used by them is called the ‘Artificial Intelligence and Facial Recognition Powered Solution for Telecom Sim Subscriber Verification – ASTR.’ This mouthful of a name, despite its confusing acronym, gives you a rough idea of how the tool is used. And yet obviously, where there’s facial recognition, there arise questions about privacy and personal data safeguards. So, for the uninitiated, here’s a short explainer on ASTR and the concerns associated with it.
+
+What is ASTR? Created specifically to address problems of SIM-card fraud, ASTR was conceptualised and implemented by the Department of Telecommunications (DoT) Haryana LSA unit “to carry out 100% mobile subscriber verification”.
+
+How does it work? The system uses subscriber images provided by the Telecom Subscriber Providers (TSPs) as per DoT instructions and compares the same to groups of similar images using facial recognition. It also compares other details available in the database to confirm any cases of forged documents or duplication of SIM card registrations under different names, guardian name, date of birth or any other KYC parameter.
+
+Basically, the flow chart works like this:
+
+Oh, what is fuzzy logic? According to an explainer video released by DoT authorities, “fuzzy logic is a science of approximate string matching”.  Using this, authorities can identify two entries that are approximately similar and so find a set of subscriber names.
+
+The Indian government claims that by detecting fraudulent SIMs and re-verification, law enforcement agencies can find the bank accounts and social media accounts linked to the fake SIMs and reduce cybercrime in the country. It also claimed that the offending person will be traceable using such a system.
+
+FREE READ of the day by MediaNama: Click here to sign-up for our free-read of the day newsletter delivered daily before 9 AM in your inbox.
+
+Has ASTR proved useful? ASTR was first implemented in the Mewat region of Haryana which had reported the highest cases of SIM-card related fraud. As we mentioned before, No police near the Amravalli region of Haryana deactivated the contentious SIMs.
+
+Before that The Economic Times in April reported that the use of ASTR has helped neutralise cybercrime syndicates in Mewat. And yet, despite this rosy picture, privacy concerns remain. According to the government video introducing ASTR, before its launch, there were approximately 16.70 lakh SIMs in Mewat across all TSPs. After running the details of these subscribers through ASTR, approximately 4.28 lakh SIMs that were considered suspicious were disconnected from the telecom network.
+
+ASTR has an upper hand over conventional text-based analysis that is limited to finding similarities between the proof of identities or addresses and the accuracy of the provided information.
+
+Our take on ASTR: Considering the increasing number of cybercrimes since Covid-19, it makes sense that the Indian government would want to use AI-based technology to fight the rising crime. However, there is no reason or provision that justifies the Telecom department’s decision to dismiss people’s consent before scanning their faces. Largely, what we are wondering is this:
+
+MediaNama sent some of these queries to the DoT by way of an RTI and is still waiting for a satisfactory response. All of this is not to say that “ASTR is bad”. The way we see it, there are two possible outcomes to ASTR.
+
+Outcome 1 – Suppose a person using such fraudulent SIMs harasses or threatens individuals to extort money/information. The ASTR will allow the police to find not just the criminal’s identity and address but also detect their face. That is a desirable outcome. That is what the DoT and police are focussing on and pushing for ASTR accordingly.
+
+Outcome 2 – Suppose you are an innocent SIM card holder who has gone through the ASTR system. Your data is now stored in the system for an X period of time that is not known to the people. The DoT will have access to your identity and address details and may share them with other government departments if they feel like it. All this time, your data will be circulated without your knowledge, which is essentially a violation of your privacy rights.
+
+Take another scenario where you are an activist or someone involved in work that holds the government accountable. The data collected by ASTR will now be kept by DoT which is at liberty to share the same with the local police who can use the data for investigation–again without your knowledge. Plus, if we consider this in the backdrop of the Criminal Procedure Bill, 2022, the activist will already be considered a “suspect” for alleged cybercrime.
+
+In the latter two cases, the big question is: where is the safeguard for people to have some amount of control over their personal data?
+
+Even under the Digital Personal Data Protection Bill, 2022 , a Data Fiduciary must send a notice to a Data Principal before their data is processed. Even if we assume that the authorities are acting under the provision of deemed consent–that deems the Data Principal to have consented to the processing of their personal information–it’s worth asking how such a mechanism will work in the case of the Criminal Procedure Bill, 2022.
+
+This post is released under a CC-BY-SA 4.0 license . Please feel free to republish on your site, with attribution and a link. Adaptation and rewriting, though allowed, should be true to the original.
+
+Also Read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

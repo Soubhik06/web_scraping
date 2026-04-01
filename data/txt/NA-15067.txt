@@ -1,0 +1,35 @@
+“…I think it’s a question of form and manner of reporting. And so you can differentiate between high risk and low risk. So, you could have summary reports for low risk that like come out, at like longer intervals and high risk ones are the ones that you need to report upfront. So, obviously, this requires probably an entire panel discussion on its own, but I don’t think that the idea is to say that you will not report something. That’s not what the Act intends, but that is also not what a risk-based approach would also entail, right? Like that clearly is a way to differentiate between breaches based on harm or impact…” said Varun Sen Bahl, Public Policy Manager at NASSCOM, when talking about the challenges data fiduciaries (entities) will face in terms of obligations.
+
+Bahl was discussing obligations to companies as per Indian law, following the passing of the Digital Personal Data Protection Act, 2023 (DPDP), at MediaNama’s flagship event ‘PrivacyNama.’ Fellow speakers Tamoghna Goswami, Senior Manager Public Policy at ShareChat, Pragya Misra, Director of Public Affairs at Truecaller and Nehaa Chaudhari, Partner at Ikigai Law, also talked about the challenges companies may face in terms of reporting data breach, with Prasanto Ray from FDI Consulting as the moderator.
+
+The full conversation can be seen here:
+
+This discussion was organised with support from Meta, PhonePe, Google, and Salesforce, and in partnership with CUTS and the Centre for Communication Governance.
+
+Need for a risk-based approach in reporting: Bahl pushed for data breach reporting rules to adopt a risk-based approach where reporting obligations are staggered. He gave the example of the Singaporean data breach reporting regime that differs from India’s data protection and breach reporting laws by stating that “only certain breaches are notifiable if they are causing a significant harm to an individual”. This includes data that can  lead to the disclosure of certain information that is particularly sensitive to that individual like identifiers. The Singaporean regime also asks entities to report data breaches that impact at a significant scale.
+
+“[Risk-based approach] can be not just in how you have to report data breaches, but also in terms of how you do data protection, impact assessments, or how you design security safeguards, right? So we would love to see that in your breach reporting rules, how can you adopt a risk-based approach where you don’t treat all breaches on equivalent ground and you can scale accordingly,” said Bahl.
+
+Regarding provisions in the Act for monetary penalties in case of data breaches, Bahl again stressed for the need to consider “proportionate” penalties. Further, he said the requirement to send data breach reports to authorities as well as users adds further scale and dimension to data reporting.
+
+Article continues below , you might also want to read:
+
+What kind of data-sharing warrants reporting: Goswami raised the point that entities need to figure out what kind of data is being shared and what harm is being caused by the sharing. As an example, she said that if a user’s credit card number is leaked, then the company should be obligated to notify the user since the user’s money may be in jeopardy. However, the lines for due process  blur in situations like advertising identifier data.
+
+“If you look at an advertising identifier, it may be PII [Personally Identifiable Information], it may not be PII because I can say a 30-year-old man in Delhi likes shopping for shoes. I’ll add the name Varun… when I add the name, it becomes PII because there’s certain identifiable factors which are being given in. Now, these advertising identifiers have been within litigation in various other jurisdictions as well. In India, how it will be looked at, I don’t know. Now, if that is a data breach, then do I notify or not? Because if Varun is shoe shopping, is that a cybersecurity incident?” asked Goswami.
+
+With the definition of personal data within the Indian law being “catch-all,” she said that companies will have to see how the central government formulates the rules and categorises data as PII or otherwise. She said this is important for advertising especially since an advertiser targets users based on their preferences, that at times is even dependent on anonymised data.
+
+How do other countries handle data breach notification?
+
+During another session, Valborg Steingrimsdottir, Data Protection Authority Iceland, spoke about how the country handles data breaches. Based on the GDPR, Iceland looks at which categories of data should have a specific protection, which data subjects need specific protection and what risks are connected to a specific processing. Further, the country also plots the regions from where it gets a lot of data breach notifications and the regions from where it gets no notifications at all.
+
+“For example, we have three large banks in Iceland. And we have from one bank a lot of data breach notifications. And then some from the second. And then, I think, none from the third. And that also gives us a cause to look into what is happening there. Because I’m sure there are data breaches happening there. But why aren’t they notifying us? And what is going on? So, gaps in data also give us clues,” said Steingrimsdottir.
+
+Note: Speaker PRagya’s surname was changed to ‘Misra’ after editorial inputs at 3 PM on November 4, 2023.
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

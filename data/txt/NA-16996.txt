@@ -1,0 +1,97 @@
+SUBREDDIT: r/india
+TITLE: Embassy REIT looks at a fraudster and says "I'll have that one"
+DATE: 2024-11-27
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/1h0jt5x/embassy_reit_looks_at_a_fraudster_and_says_ill/
+
+--- POST TEXT ---
+
+*Original Source:* [https://boringmoney.in/p/embassy-reit-looks-at-a-fraud](https://boringmoney.in/p/embassy-reit-looks-at-a-fraud) 
+
+\--
+
+If you manage someone else’s money in any shape or form, one requirement from the regulator is that you shouldn’t have defrauded anyone in the past. Sure, it’s basic, but it’s also tough to meet because there is a non-insignificant overlap between people that enjoy both fraud and managing other people’s money.
+
+Earlier this month, SEBI [issued an order](https://www.sebi.gov.in/enforcement/orders/nov-2024/interim-order-in-the-matter-of-embassy-office-parks-management-services-private-limited_88223.html) asking Embassy REIT to suspend its CEO Aravind Maiya. The reason being that Maiya had been caught up in an unrelated fraud from a few years back, and had also been debarred from being an auditor.
+
+Until 2019 Maiya was an auditor at ~~KPMG~~ BSR &amp; Co, which is an audit firm that most people recognise as KPMG India. At the time, BSR was the auditor for Coffee Day Enterprises Ltd, the company owning the CCD brand. CCD’s owners turned out to have embezzled money from CCD to another company that they owned. Maiya was the guy responsible for ensuring that CCD’s financials, which was a publicly listed company, were correct.
+
+Well, he did a horrible job.
+
+# Draining out the coffee
+
+Here’s a slightly dramatic look into one of the ways in which VG Siddhartha, the founder of CCD (who unfortunately killed himself) stole money from the company:
+
+1. He kept a bunch of cheques in his table drawer. Each of those cheques were pre-signed by CCD’s CFO (and whoever else whose signature was needed to make a transaction).
+2. Next he would draw a cheque for a few hundreds or thousands of crores in favour of a company called Mysore Amalgamated Coffee Estates. The company was owned by his dad. Supposedly, it sold coffee beans and that’s what CCD was paying for.
+3. On his way back home from work, he likely dropped the cheque in his bank’s cheque deposit box.
+
+Sure yes, he probably didn’t deposit his cheques himself and sent someone else to do it for him. But the idea is generally right. Here’s a couple of snippets from a SEBI order against CCD [from last year](https://www.sebi.gov.in/enforcement/orders/jan-2023/order-in-the-matter-of-coffee-day-enterprises-ltd-_67495.html):
+
+&gt;I note that the Noticee has itself admitted that VGS, the Promoter and CEO, was running the entire show within CDEL and its subsidiaries. It has further admitted that VGS used to collect the signed blank cheques and all the fund transfers were done by him
+
+And,
+
+&gt;CDEL in its submissions to SEBI had stated that CDGL had regular coffee procurement relationship with MACEL \[para 41(h)\]. The revenues of MACEL during 2018-19 and 2019-20 (the years during which the fund diversion to MACEL had occurred) were merely Rs.1.71 Crore and Rs.3.27 crore respectively… It is quite intriguing that despite the extremely weak financial position of MACEL, the subsidiaries of CDEL decided to advance funds to the tune of Rs. 3,535 Crore to MACEL. This sum was more than the net worth of the Noticee, Rs. 3166 Crore as of March 31, 2019.
+
+Siddhartha signed off on cheques apparently to buy coffee beans. But the company he paid more than a thousand crores in advance to buy coffee beans from, had a revenue of less than a few crores.
+
+How did he get away with it? That’s where Aravind Maiya, the ~~KP~~ BSR auditor comes in. Maiya, whose job it was to identify and catch shenanigans when auditing CCD’s books, apparently did not because Siddhartha hadn’t technically written those cheques from CCD’s chequebook. He had used the chequebook of its subsidiary!
+
+Here’s a snippet [from](https://cdnbbsr.s3waas.gov.in/s3e2ad76f2326fbc6b56a45a56c59fafdb/uploads/2024/08/202408191036463933.pdf) the National Financial Reporting Authority (NFRA), \[1\] an organisation I didn’t know existed before this:
+
+&gt;CDEL borrowed Rs 2,960 crores from Standard Chartered Bank, through its step down subsidiary TRRDPL, which was a 100% subsidiary of Tanglin Developments Limited.
+
+&gt;\[…\] the EP has stated that they were the Auditors of CDEL and not for the subsidiaries, and they relied upon the audit work and the audit reports issued by other statutory auditors of CDEL group entities as permitted by SA 600 (Using the Work of another auditor). He further stated that he had relied on certain additional audit procedures performed on identified account balances of CDGL and TDL which were considered important from the standpoint of consolidation.
+
+One of CCD’s subsidiaries borrowed \~₹3,000 crore and lent a portion of it to Mysore Coffee (the company Siddhartha’s dad owned). Maiya told SEBI that since the money had gone out from CCD’s subsidiary, not CCD itself, and since those subsidiaries had their own auditors who found nothing wrong, it was okay for him to have the go ahead to CCD’s financials no matter how unusual they might seem.
+
+In another case, CCD was lending money to one of its subsidiaries in a.. peculiar manner. Here’s a bank statement from NFRA’s [order](https://cdnbbsr.s3waas.gov.in/s3e2ad76f2326fbc6b56a45a56c59fafdb/uploads/2024/08/202408191036463933.pdf):
+
+Image link: [https://imgur.com/a/jote6GT](https://imgur.com/a/jote6GT)
+
+Whoo, that’s quite some back and forth of money! CCD wanted to move money to its then-subsidiary Tanglin Developments. \[2\] So it lent it money. Tanglin repaid that money the same year, which in the world of finance is a great sign. But then CCD would just re-lend the money back to Tanglin in a couple of days. Eventually of course, that money would find its way to Mysore Coffee. Until the next time Tanglin’s loan from its parent company had to be “repaid”.
+
+I’m not an auditor, probably for good reason, but if I saw a bank statement with a +₹50 crore almost immediately followed by -₹50 crore repeated a few times and even across bank accounts, I would be alarmed. From NFRA again:
+
+&gt;\[…\] the EP \[Maiya\] stated that he did not review the transactions between CDEL and TDL in the manner NFRA has considered, as the money was advanced and returned during the year and these transactions were eliminated during consolidation, TDL being a wholly owned subsidiary.
+
+NFRA feels that Maiya’s responsibility was to ask CCD, “Hey why are you sending money back and forth to your subsidiary?” Maybe there was a perfectly reasonable answer to this question (rewards on Google Pay?). But not finding the transactions suspicious was suspicious.
+
+# FIT AND PROPER
+
+If you were a board member at a real estate investment trust (REIT), one of the things that you may want to do is to keep your REIT away from any shady people. Sure, you want to be doing that regardless, but especially if you’re around a REIT. Real estate in India is shady! The calling card for REITs mentions that people shouldn’t invest in them without getting their hands burnt.
+
+Here are Aravind Maiya’s qualifications:
+
+1. Found guilty of professional misconduct by NFRA.
+2. Debarred from being an auditor.
+3. Penalty of ₹50 lakh ($60, 000).
+
+Would you hire him as your REIT’s CEO? Maybe you have no idea about all of this and let’s say you do. If the regulator comes to you and specifically asks you to reconsider his eligibility—what do you do?
+
+This is what Embassy REIT did. From SEBI’s [recent order](https://www.sebi.gov.in/enforcement/orders/nov-2024/interim-order-in-the-matter-of-embassy-office-parks-management-services-private-limited_88223.html):
+
+&gt;REIT Regulations do not specify any criteria or requirements of the CEO of a manager to a REIT and do not provide any 'fit and proper person' criteria for the CEO of the manager of the REIT.
+
+SEBI wanted the REIT’s CEO to be a “fit and proper person” which is just a bunch of [floor criteria](https://www.sebi.gov.in/legal/regulations/aug-2022/securities-and-exchange-board-of-india-intermediaries-regulations-2008-last-amended-on-august-1-2022-_61700.html) for stuff like not having defrauded anyone or being a criminal. Embassy REIT’s argument was that its CEO doesn’t need to be a “fit and proper person”?!
+
+I know no one reads SEBI orders so Embassy REIT didn’t really care about what showed up in SEBI’s order. But come on, arguing that your CEO doesn’t need to be fit and proper is courageous. If it was up to me, I’d publish this line on the front page of whatever business newspaper I could. (The best I can do at the moment is the title of this blog post.)
+
+Eventually, of course, Embassy REIT had to ask Aravind Maiya to step down because SEBI didn’t give it an option. What do you think Embassy asked Maiya to do? *My* presumption was that it would ask him to go on sabbatical, or I don’t know, maybe pick up gardening as a hobby.
+
+Here’s a snippet from its [official statement](https://www.bseindia.com/xml-data/corpfiling/AttachHis/380f6cc3-3794-4937-9393-5b009eb08174.pdf):
+
+&gt;While we are reviewing the order and evaluating all options, in compliance with SEBI’s directive, effective immediately, Aravind Maiya will be stepping down as CEO of Embassy REIT. He will assume the role of Head of Strategy for Embassy REIT.
+
+HE WILL ASSUME THE ROLE OF WHAT? When the regulator asks you to chuck your CEO out, you chuck your CEO out! You don’t give him a proxy CEO position as head of “strategy”. \[3\]
+
+I have a hunch that someone at SEBI is now writing another order about how the head of strategy at a REIT should also be fit and proper. This time around they might cover more job titles.
+
+**Footnotes**
+
+\[1\] SEBI and NFRA worked together on this entire thing. First, SEBI investigated CCD and found that things were off. Then NFRA investigated Maiya, who was CCD’s auditor, because things were so *bizarrely* off. Then SEBI issued the most recent order asking Embassy REIT to ask Aravind Maiya to step down as the CEO because NFRA found him guilty.
+
+\[2\] CCD eventually [sold](https://www.thenewsminute.com/money/coffee-day-sells-global-village-techpark-bengaluru-rs-2700-crore-109101) Tanglin Developments to Blackstone.
+
+\[3\] The [performance](https://www.google.com/search?q=embassy+reit+share&amp;rlz=1C5CHFA_enIN1065IN1065&amp;oq=embassy+reit+share&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPDIGCAMQRRg80gEIMjcyNmowajeoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8) of the REIT in terms of its market price has also not been anything to write home about. Which makes Embassy REIT’s hesitance to let go of its CEO seem even more interesting.

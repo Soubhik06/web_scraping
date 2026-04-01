@@ -1,0 +1,23 @@
+ICICI Bank has ended its very public spat with Flipkart-owned YES Bank application PhonePe and is now allowing customers to make transactions on the wallet app again. Â On January 13,Â ICICI Bank blocked UPI payments from PhonePe .Â The new walletÂ said that more than 20,000 transactions with total value of over Rs 5 crore failed because of ICICI Bankâs move.
+
+The issue started a few days earlier when Flipkart’s app started allowing UPI payments. It was alleged that PhonePe violated the merchant guidelines, and when it launched, it wasnât easy for users to pay using a VPA other than the YES Bank one (@ybl). On the Flipkart app it showed pay “via PhonePe UPI” instead of “pay via UPI” and allowing customers to choose the app of their choice.
+
+What’s changed now
+
+The Economic Times reports that ICICI Bank resumed transactions on all @ybl handles on Wednesday after the January 31 guidelines for Android Intent Calls were enforced. The guidelines mandated that apps should enable intent calls to other UPI enabled apps on the customerâs mobile phone. PhonePe said that they had not activated the intent calls as it was not being accepted by other apps which would have caused transaction failures.
+
+PhonePe’s app now shows an option to use other UPI apps to make a payment. However, on trying whether another app could be used to make a UPI payment, it did not give us an option. This may be due to the fact that other UPI apps on my phone have not enabled intent calls still (I have the NPCI’s BHIM app and HDFC Bank’s mobile banking app on my phone as well).
+
+Problems on the UPI still existÂ
+
+Apart from interconnection problems, the UPI still has several others and the NPCI and banks need to issue a number of other APIs and features to build the entire ecosystem.
+
+– The UPI will soon haveÂ verified merchant virtual payment addresses (VPA) which will help banks whitelist merchants and help in preventing fraudulent through collect payment requests.
+
+– Note that most banks are still struggling with failed transactions and refunds. Some payment gateway aggregators who have also raised the issue that there is no refund API at the moment. Currently, companies have to send a batch of refund requests to a bank for processing.
+
+–Â The second version of the UPI is due for release in March 2017 Â and willÂ haveÂ pre-authorized transactions through digital signatures and biometric authentication, Aadhaar integration, and integration with the Bharat Bill Payments System (BBPS).
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

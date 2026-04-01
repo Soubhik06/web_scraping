@@ -1,0 +1,18 @@
+SUBREDDIT: r/india
+TITLE: Few reasons why Telcos want to bring out the anti-net neutrality data packs and make money
+DATE: 2015-04-13
+SCORE: 10
+URL: https://www.reddit.com/r/india/comments/32flzz/few_reasons_why_telcos_want_to_bring_out_the/
+
+--- POST TEXT ---
+
+ARPU (Average revenue per user) is a measure of what telcos earn per user. ARPU in 2003 was about Rs.404/- and it has fallen to less than Rs.200/- in 2015 [1]. Adjust to inflation, Rs.400 in 2003 at 5% inflation is Rs.700 in 2015 (approx). Contrary to the widely accepted belief, the truth is that the telcos are not milking money. Thanks to Raja, the telecom scam took a big hit on the industry. There have been wide spread lay offs not just in the Mobile operators (Vodafone, Airtel..) but also vendors (Nokia, Comverse..). Half the telecom companies that existed in 2010 have vanished. Telenor, Etisalat, Datacom, Tata CDMA and BPL have shut down. The reserve price of the all India spectrum was so high that none of the operators bid for it[2]. TRAI mandates the call and SMS rates. It has recently reduced the roaming call rates by 20% and of SMS by 70%[3]. It is no coincidence that the rate of dropped calls is higher than what it was a couple of years ago because telcos are not making good money. Applications like watsapp and viber have already eaten away more than 90% of the SMS revenues. Telcos have already invested heavily in deep packet inspection technologies that can charge users based on their usage. Scrapping this investment will make a big hole in their pocket. This is one reason why telcos are hesitating to withdraw the so called evil anti-net-neutrality policy.
+
+My view: Internet is a beautiful free medium. To me it represents a true democracy. I agree to the principles of Net neutrality but at the same time the telcos need to be given a free hand to decide the tariffs. Let the competition decide the call, sms and data tariff. TRAI needs to stop the practise of setting reserve cost and stop enforcing all telcos to follow a fixed MRP type tariff. There cannot not be a 'highest bidding policy for the spectrum' and have 'fixed low MRP type policy' for tariffs at the same time. Let the government run MTNL and BSNL follow the low MRP type tariffs as enforced by TRAI and let the private telco players fight out amongst themselves to settle on the lowest tariffs that they can provide to the users. Telcos are important for the development of the country but they are no charitable institutions. Telcos need to earn money to sustain themselves.
+
+[1] http://www.trai.gov.in/Content/PerformanceIndicatorsReports/1_1_PerformanceIndicatorsReports.aspx
+[2] http://en.wikipedia.org/wiki/Indian_Telecom_Spectrum_Auction#cite_note-12
+[3] http://articles.economictimes.indiatimes.com/2015-04-10/news/61017735_1_minute-and-rs-ceiling-tariffs-roaming
+
+Edit: TL:DR
+Telcos are not milking money. Voice and SMS tariff is regulated by TRAI so telcos want to make money from data.

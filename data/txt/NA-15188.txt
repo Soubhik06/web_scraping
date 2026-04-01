@@ -1,0 +1,57 @@
+The UK’s Data (Use and Access) Act , 2025 introduces a legal right for people to access data businesses hold about them, such as order histories, service logs, or digital interactions. It sets up new intermediaries to move this data across systems and builds a trust framework for verifying digital identities. The law also restructures regulation by replacing the Information Commissioner with a new statutory authority.
+
+Section 1 defines key terms:
+
+Section 2 empowers the Secretary of State to issue regulations that require data holders to provide customer data either “(a) to the customer, at the customer’s request, or (b) to a person of a specified description who is authorised by the customer to receive the data at the customer’s request”. This establishes a legal foundation for user-requested data transfers to third-party service providers, potentially enabling comparison tools, switching services, or consent-based analytics.
+
+Sections 3 and 4 clarify that these regulations may cover “the form in which customer data is to be provided,” “the means by which it is to be provided,” and technical “standards or requirements relating to customer data or business data.” These could include standardised APIs, data format rules, and identity checks.
+
+Section 6 introduces the concept of “decision makers,” defined as persons who are authorised or required to take a decision described in section 3(2)(c) (authorisation) or 5(3)(b) (approval). Regulations may include provisions about the appointment, suspension, or revocation of decisions by such decision makers. These individuals may also be granted monitoring powers, such as requiring the provision of documents or information, although these powers are subject to safeguards specified in section 9. Regulations must outline the rights of individuals affected by these decisions, including avenues for review and appeal.
+
+Section 7 allows for the creation of “interface bodies,” which may be tasked with setting up or managing technical interfaces for data exchange, creating standards, or maintaining shared systems. The law permits the Secretary of State to require data holders or third parties to establish such bodies. Regulations may detail the body’s governance, responsibilities, monitoring powers, complaint handling procedures, and transparency obligations. For example, interface bodies may be required to publish or share information and produce guidance on their operations.
+
+Section 8 allows the Secretary of State to create enforcement mechanisms, including issuing compliance notices and imposing penalties. Section 9 explicitly limits this enforcement scope by protecting “information in respect of which a claim to legal professional privilege… could be maintained” and requiring judicial approval for certain intrusive investigatory powers.
+
+Section 27 sets up a framework to ensure the reliability of digital verification services through five key components: a trust framework, supplementary codes, a register, an information gateway, and a trust mark.
+
+Section 28 authorises the Secretary of State to establish the DVS trust framework.
+
+Additionally, Section 50 mandates the creation of a trust mark for registered providers offering digital verification services.
+
+Sections 29 to 49 define the criteria for registration, eligibility, compliance, and enforcement for DVS providers. Sections 51-65 set rules for when and how digital verification data can be shared with other entities and under what safeguards.
+
+Part 5 of the Data (Use and Access) Act updates several provisions in the UK’s core data protection framework. It reaffirms that data controllers must only process personal data if they meet one of several legal conditions. Section 70 states that “processing of personal data shall be lawful only if and to the extent that (a) at least one of the conditions in this section is met.” These conditions include user consent, legal obligations, protection of vital interests, and contractual necessity.
+
+The law also strengthens users’ rights. Section 75 confirms that individuals can request access to their personal data, ask for corrections, request deletion, move their data to other services, or restrict how it is used. Data controllers must respond within one month unless the request is “manifestly unfounded or excessive.”
+
+To reduce harm from algorithms, the Data (Use and Access) Act gives users the right to opt out of automated decisions that have legal or significant effects. Section 80 provides that users “have the right not to be subject to a decision based solely on automated processing, including profiling.” It also requires companies to offer human intervention and a way to challenge such outcomes.
+
+For international data transfers, the Act permits cross-border flows only if there are adequate safeguards. These may include standard contractual clauses, binding corporate rules, or other mechanisms approved by the Secretary of State. In cases involving law enforcement or scientific research, the Act requires additional safeguards such as anonymisation and purpose limitation.
+
+Enforcement powers remain in place. The Information Commission can investigate, issue compliance notices, and impose penalties. According to Section 75, fines can go up to 4% of a company’s global annual turnover or 20 million pounds, whichever is higher.
+
+“There is to be a body corporate known as the Information Commission.”
+
+This new body replaces the former Office of the Information Commissioner and is tasked with overseeing data protection and privacy compliance across the UK.
+
+“The functions of the Chief Executive of the Office of the Information Commissioner are transferred to the Information Commission, which has the authority to enforce data protection laws, investigate breaches, and issue penalties.”
+
+However, the Data (Use and Access) Act does not explain how the government will appoint members of the Commission, ensure their independence, or fund the body. It also does not require the Commission to publish regular reports or be accountable to Parliament.
+
+The UK’s Data (Use and Access) Act, 2025 gives people a legal right to access and transfer their personal data, including order histories, service logs, and digital interactions stored by businesses. It also introduces a structured system for digital identity verification using a trust framework, supplementary codes, and a certification process. These tools aim to build reliability into digital services. India can take note of this approach, especially when strengthening systems like DigiLocker and the Account Aggregator framework.
+
+The Act replaces the Information Commissioner with a new statutory regulator called the Information Commission. It gives this body the power to enforce data protection rules, issue guidance, and resolve complaints. If India adopts a similar model for its Data Protection Board under the DPDP Act, it should also ensure regular public reporting and strong safeguards for independence.
+
+The Act creates new entities such as interface operators and decision-makers, but it does not explain who will appoint them, what responsibilities they hold, or how they will be held accountable. This lack of clarity could weaken oversight and reduce user protections. India should avoid this by defining each role clearly in the DPDP Rules and including strong mechanisms for transparency and redress.
+
+Although the Data (Use and Access) Act allows users to authorise data transfers, it does not explain how that consent should be collected, withdrawn, or tracked. This leaves users with limited control once they share their data. India should address this by setting clear rules for consent formats, expiry timelines, and withdrawal procedures.
+
+The Data (Use and Access) Act does not ensure that users can see when or how their data is shared. It also does not provide tools for users to track data use or challenge misuse. These gaps could cause serious harm, especially when automated systems deny services or create inaccurate profiles. India has the opportunity to fill these gaps by requiring transparency tools and strong grievance mechanisms.
+
+While the UK law introduces important ideas, it leaves many implementation questions unanswered. India still has the chance to get these details right and build a more transparent and accountable data protection system.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

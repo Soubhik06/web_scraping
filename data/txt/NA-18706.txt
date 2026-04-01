@@ -1,0 +1,17 @@
+SUBREDDIT: r/india
+TITLE: Scam using phone number in UPI Id
+DATE: 2023-02-01
+SCORE: 52
+URL: https://www.reddit.com/r/india/comments/10qm0yv/scam_using_phone_number_in_upi_id/
+
+--- POST TEXT ---
+
+So, this happened yesterday:
+
+A person called my dad at midnight. He said he transferred money by mistake to the wrong phone number as he was in a hurry at some hospital. He had to pay the bill and requested to transfer the money immediately to his phone number to pay off the bill.
+
+He also shared the UPI screenshot with an arrow mark the screenshot. The arrow was pointing towards my dad's number. The UPI id was something like ```bharatpe&lt;phone_number&gt;@yesbankltd```. My dad could not understand what was happening as he usually relies on bank SMS for confirmation.
+
+So, they played a trick using custom UPI id + urgent situation + late night call + elderly people.
+
+I'm sure most people here can easily find out about the scam, but I'm sharing it here so that you can educate elderly people in your family.

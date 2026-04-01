@@ -1,0 +1,53 @@
+On February 26, India’s cybersecurity agency CERT-In issued guidelines for the space sector, requiring incident reporting within six hours, annual audits, and security standards for satellite operators, ground stations, and equipment manufacturers. This framework extends across India’s satellite communication ecosystem, bringing together ISRO, private operators such as Jio Satellite Communications , Airtel-backed OneWeb , and foreign players such as Starlink that have received Indian licenses.
+
+India’s space sector has rapidly commercialized since the passage of the Indian Space Policy 2023, with multiple private players entering the satellite communications market. Jio recently received IN-SPACe approval for its joint venture with SES (Orbit Connect India), while Airtel has partnered with both OneWeb and Starlink . Meanwhile, Starlink received its Global Mobile Personal Communication by Satellite (GMPCS) license in 2025, and all three are awaiting commercial spectrum allocation to launch services.
+
+What does the six-hour reporting mandate require?
+
+An RTI filed by MediaNama in 2023 revealed that only 15 entities reported cybersecurity incidents within CERT-In’s mandated six-hour timeline during the first nine months after the 2022 directions came into effect, despite CERT-In handling nearly 14 lakh incidents throughout 2022 . The space framework also emphasizes this six-hour reporting requirement, which is enforceable under Section 70B of the IT Act 2000, rather than being advisory
+
+This timeline is steeper than global standards . In comparison, Singapore’s Personal Data Protection Act provides 72 hours to report data breaches, similar to the GDPR. Similarly, the UK requires “immediate” reporting only for material cyber incidents in the financial sector, with most incidents requiring a 72-hour reporting period. There are significant practical challenges to implementing these requirements. “Most people do not have staff 24/7, so what do you do if you get an alert at three in the morning or a late Friday night?” Suman Kar, CEO of cybersecurity firm Banbreach, told MediaNama in 2022.in 2022 .
+
+For the space sector specifically, satellite operators must detect anomalies in space assets operating under intermittent connectivity, limited bandwidth, and constrained monitoring capabilities, and report them within six hours.
+
+Organisations must maintain 180-day rolling incident logs. CERT-In’s directions specify reportable incidents, including unauthorised access to satellite control systems, signal jamming or spoofing, ground station compromise, data breaches, malware attacks, and any incident affecting satellite operations.
+
+At the same time, the Information Technology Industry Council, representing Apple, Amazon, Meta, Google, and Microsoft, told CERT-In in a May 2022 letter that “the definition of reportable incident to include activities such as probing and scanning is far too broad given probes and scans are everyday occurrences.”
+
+External audits by CERT-In-empanelled organizations are mandatory annually, while internal audits are required every 6 months. Additionally, audit findings must be submitted to CERT-In for review.
+
+CERT-In’s audit guidelines state that audits must “assess compliance, identify vulnerabilities, and cover areas like application security, cloud infrastructure, IoT, industrial control systems, supply chains, and physical security.”
+
+The guidelines do not define what counts as a “significant infrastructure change” and trigger more audits. Auditors and companies interpret this requirement, causing uncertainty for satellite operators launching new ground stations or satellites.
+
+All procurement must comply with the Trusted Telecom Directive and the National Security Directive for the Telecommunication Sector. Furthermore, organizations must conduct supply chain risk assessments and third-party audits before deployment, verify hardware provenance, test firmware for tampering, and maintain detailed documentation of all components.
+
+This particularly matters for foreign operators like Starlink. For instance, when DoT allocated provisional spectrum to Starlink in August 2025, the company was subject to strict security clearance requirements for foreign nationals and to regular reporting to law enforcement.
+
+The framework requires strict compliance with DoT rules on data localization, lawful interception, limits on foreign gateways for routing, and the use of Indian ground infrastructure.
+
+Indeed, during debates over satellite spectrum allocation, companies like Starlink, OneWeb, and Amazon’s Project Kuiper had to address how they would establish ground infrastructure and gateways in India. They cannot simply beam signals from overseas satellites.
+
+Moreover, the framework requires compliance with the Digital Personal Data Protection Act 2023, which mandates data minimization, encryption of personal data, and secure retention and deletion policies.
+
+Implement end-to-end encryption using internationally recognized security standards for all communication links between satellites, ground stations, and user equipment. Store encryption keys exclusively in specialized hardware security devices and ensure complete audit trails.
+
+First, obtain international security certifications for all hardware, software, and security systems before deployment. Next, separate corporate IT networks from satellite control systems using firewalls and isolated networks. In addition, deploy intrusion detection systems and enforce multi-factor authentication for all personnel accessing control systems.
+
+Every organization must appoint a Chief Information Security Officer with a dedicated cybersecurity team. Importantly, the CISO requires space sector-specific training beyond general cybersecurity domains.
+
+Moreover, organizations must establish Security Operations Centres integrated with CERT-In and Network Operations Centres for monitoring. Notably, DoT’s telecom cybersecurity rules from September 2024 mandated similar requirements for telecom operators.
+
+The framework adopts a hybrid approach , providing advisory guidance while also referencing multiple enforceable regulations. This blend of advisory and mandatory elements creates confusion about which requirements are legally binding.
+
+The enforceable components include six-hour incident reporting (under CERT-In Directions 2022 and IT Act Section 70B) and data protection compliance (under DPDP Act 2023). They also cover supply chain security (under the Trusted Telecom Directive and the National Security Directive on the Telecommunication Sector) and DoT compliance for international gateways.
+
+Technical security standards, certification, and infrastructure mandates are advisory but will likely become mandatory under IN-SPACe licensing.
+
+The framework doesn’t specify implementation timelines or address key questions:
+
+Furthermore, an RTI to CERT-In on its 2022 directions showed that compliance remains challenging even for established sectors. The space industry faces unique difficulties with specialised hardware, long lifecycles, and limited ability to update systems once satellites are in orbit. These technical constraints could make retroactive compliance impossible for existing space assets, raising questions about how regulators will balance security requirements with operational realities.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

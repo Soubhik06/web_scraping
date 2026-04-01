@@ -1,0 +1,37 @@
+Internet exchange points (IXPs) have no ability to block a specific piece of content, the Executive Director of Extreme Labs , Raunak Maheshwari, stated during the Internet Society’s Peering RoadShow on June 6. The event focused on issues related to peering and interconnection in India.
+
+One of the key points of discussion was the Telecom Regulatory Authority of India’s (TRAI) recommendation that the government bring IXPs within the scope of network authorisation under the Telecommunication Act, 2023. One part of the recommended IXP authorisation is that IXPs must block websites/URLs and/or specific network subscribers as identified by the government in the interest of national security or public interest.
+
+“With respect to internet exchange, if I get an order saying block Google, I can shut down Google ports. That is all I can do. Nothing else. So if they come and tell me, ‘Please block the YouTube video which is showing some yoga poses not well done,’ I have no ability to do it,” Maheshwari explained. He gave the example of the government issuing blocking orders for specific posts on X (formerly Twitter), pointing out that only X would have the ability to block such content. He added that not even telecom companies can block specific HTTPS URLs.
+
+You can watch the full roundtable discussion here:
+
+Given that it is not feasible for IXPs or Internet Service Providers (ISPs) to block content, Maheshwari suggested that the government should send blocking orders directly to content delivery networks (CDNs). Similarly, Rahul Vatts, Chief Regulatory Officer at Bharti Airtel, mentioned that to simplify the process of content blocking, it makes sense to go directly to the source.
+
+“See, there are today, let’s say, 200 ISPs. All of them are not at the same level of infrastructure or feasibility of being able to set up infrastructure. For a large telco, very easy. Blocking order comes, the automated system punches it in, blocks it. But for a smaller player, it’s work. He’s not even sitting 24/7. And last few days, last month, there was a humongous activity happening at night. You know what was happening on the networks. So there were blocking orders coming like hundreds each night,” Vatts mentioned.
+
+Whether the government should go to the CDN for content blocking depends on the use case, Anurag Bhatia, a network researcher at Hurricane Electric, explained during the discussion. In cases where the government wants to block specific tweets or YouTube videos, it is feasible to go directly to the companies. However, there is another category of harmful content that the government seeks to block, which is located on low-traffic sites that aren’t really present on any CDN and are hosted outside India.
+
+“In that scenario, of course, they won’t be that easier to be blocked by just reaching to the source. Many of them would not really go to a large commercial CDN. These are like low-traffic websites. So in that scenario, of course, they can be blocked at the gateway level. They can be blocked by various ILD [international long distance] players or a bunch of ISPs who are essentially connecting India to the outside world. So once you cover that, along with the social media blocking, I think that probably covers 99.9% of the cases.,” Bhatia explained.
+
+Bhatia mentioned that the blocking requirements could indicate that the regulator is conflating IXPs and ISPs, because there isn’t much to block at the IXP level. “At the IXP level, all they see are just packets flowing—frames flowing, essentially. They just see who is sending how much traffic. Beyond that, they can tap. If they badly want to, they can mirror ports and tap into things. But then it’s all mostly encrypted traffic,” he said.
+
+Today, a large number of over-the-top (OTT) platforms have encrypted their services. Similarly, many messaging platforms are end-to-end encrypted. Bhatia mentioned that even services that are not end-to-end encrypted are still encrypted using Transport Layer Security (TLS) .
+
+To explain the challenges of interception and surveillance for IXs, Maheshwari compared IXs to the fibre that carries telecom data from one point to another, and to the common conduits through which fibre travels.
+
+“Now, would you say that because data is also going in this common conduit through the fiber, I would like to have the same regulations that are set up on layer 3 of the network, wherein actually you can listen to the data on the fiber conduits also? This is not possible, right? This is illogical. Similarly, internet exchanges operate on a layer, which is the framing layer, which is switching layer. They have no visibility into the packet header.” Maheshwari explained.
+
+For context, the Open Systems Interconnection model (OSI Model) includes seven layers that a computer system uses to communicate over a network. Maheshwari’s key argument was that the government should tailor regulations to what a network player can do at a specific level of the OSI stack. “The only security that you can put in is the MAC [Media Access Control] layer security. There is nothing else that can happen at the switching layer,” he emphasised.
+
+Vatts pointed out that a large part of the data traffic today is video. “See, I watched YouTube or I watched content on Netflix. How is it relevant for a law enforcement agency?” he questioned. Vatts mentioned that the industry spent nearly half a billion dollars in the past year to store this data for law enforcement agencies.
+
+This is not the first time a telco has raised this argument during TRAI’s consultation on service authorisation under the Telecom Act. As part of its recommendations, TRAI suggested that the government allow telcos to share lawful interception systems (LIS) on a case-by-case basis. It also recommended that the government take up the issue of increasing interception costs with the concerned law enforcement agencies and explore mechanisms to suitably compensate service providers for fulfilling additional security-related requirements.
+
+While interception and surveillance requirements can be onerous for telcos, the security requirements at the ISP and IXP level tend to be different, because the former can identify end users while the latter cannot. “I have two connections at my home—one from Airtel, one from a provider indirectly connected to Extreme. I can challenge you—if Airtel wants, they can figure out and identify my connection. Raunak cannot. He technically won’t be able to,” Bhatia explained during the discussion.
+
+Also read:
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

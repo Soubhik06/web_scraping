@@ -1,0 +1,32 @@
+SUBREDDIT: r/india
+TITLE: Airtel Customer Database Compromised - 375 Million Users Affected.
+DATE: 2024-07-05
+SCORE: 1
+URL: https://www.reddit.com/r/india/comments/1dvrl6n/airtel_customer_database_compromised_375_million/
+
+--- POST TEXT ---
+
+xenZen (A Dark Web Seller) is allgedly selling data belonging to Airtel India.
+
+375 million Airtel India customers details including phone, email, address, parents name, gov ID (Aadhaar,etc.) updated to June 2024.
+
+Industry: Telecommunications
+Breached in: June 2024
+Data fields:
+- mobile_number
+- Name
+- DateOfBirth
+- FatherName
+- LocalAddress
+- PermanentAddress
+- AlternateNo
+- EmailId
+- Gender
+- Nationality
+- ConnectionType
+- SIMActivationDate
+- Aadhar
+- PhotoIdProofDetaill
+- AddressProofDetails
+
+Price: $50,000 USD in XMR

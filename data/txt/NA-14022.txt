@@ -1,0 +1,37 @@
+The Reserve Bank of India’s (RBI) draft circular on wallet guidelines has prescribed some tough norms for companies. We take a look at some of the rules and guidelines which wallet companies will have to navigate.  Comments, suggestions and feedback will have to be sent in by  March 31, 2017.
+
+1. Net worth requirements : The RBI said that wallet companies will have to have a minimum net worth of  Rs 25 crore, a sharp turn from the earlier regulatory norms for wallets included a minimum paid-up capital needed of Rs 5 crore and a minimum net worth of Rs 1 crore. Companies will have to abide by the capital requirements by the year 2020.
+
+MediNama’s take: The RBI is giving a clear signal that it only wants wallet players to who can put more skin in the game. Wallet companies who fail to comply with the requirements will not be allowed to carry on operations. While bigger companies such as Paytm, MobiKwik and FreeCharge shouldn’t have a problem with the guideline, smaller players who just got a wallet licence, such as Chennai-based Yeldi Softcom, will have to pull up their socks.
+
+2. KYC norms: Companies will have to convert existing wallets without complete KYC to full KYC compliant wallets within a period of 60 days from the date of issue. Failure to do so, no further credit will be allowed into these wallets.
+
+MediaNama’s take: It looks like the RBI is looking to weed out wallet accounts with weak KYC. Most wallets usually need a mobile phone number and an email to sign up. Note that State Bank of India still doesn’t allow wallets to load money via net banking due to phishing. Frauds used to acquire net banking details from customers and load money into wallets from bank accounts. They would use the wallets to withdraw money to their bank accounts. The RBI is signaling to wallet companies to make users more identifiable. In fact, the RBI said that it isn’t allowing wallet interoperability as it fears that wallets with lower KYC will be used for terrorist financing.
+
+3. Zero balance wallets: Wallets with zero balance for a consecutive period of one year shall be closed automatically by the issuers, and a notice sent to the customers.
+
+MediaNama’s take: This will have a significant impact on the number of wallets companies claim that they have on their platform. Many wallets lie dormant as people download the application once and don’t use them. At the time wallet companies create a PPI but many users would uninstall the application later. Data on daily and monthly wallet users would be helpful.
+
+4. Authentication: Wallet issuers will have to ensure that a separate login is provided for the the PPI account and ensure that access to PPI is not made part of access to other services offered by the issuer or its associate/parent/group company etc.
+
+MediaNama’s take: Note that Vodafone has been violating this proposed norm by forcing customers to create an mPesa wallet to access the My Vodafone app . Technically, Vodafone should be separating the login to mPesa from the the My Vodafone app.
+
+5. Merchant guidelines: The RBI noted the growing acceptance of wallets in e-commerce payments, including in digital marketplaces. In such scenarios, the payment mechanism is facilitated by payment aggregators or payment gateways. Wallets will have to obtain an undertaking along with the list of the merchants from the digital marketplace and payment aggregator. This undertaking and list shall be submitted to the escrow bank.
+
+MediaNama’s take : E-commmerce players such as Snapdeal and Flipkart who allow wallet payments through their own payment apps shouldn’t have an issue to comply with this rule. But this might affect like Zomato and Swiggy where they might have to disclose restaurants which accept wallet payments. A MediaNama reader also pointed out that it would be unfair fair to ask wallet companies to give away their client details to entities that have significant competing interests. For example, asking PauU to disclose merchant details to Paytm.
+
+6. Transfer to bank accounts: The RBI tightened norms on transferring money from wallets to bank accounts. Fund transfers from such wallets to bank accounts and also shall not exceed Rs 10,000 per month.
+
+MediaNama’s take: Wallet companies which run domestic remittance services such as MoneyOnMobile and Oxigen will be impacted by the new guideline as it reduces the amount of money which can be sent to a bank account.
+
+7. Wallets on rooted devices : The mobile app should not be allowed to be installed on rooted devices i.e. system level access should not be allowed.
+
+MediaNama’s take: Wallet companies will have additional security checks which they will have to ensure that their apps will not be installed on rooted devices. Good luck with dealing with trying to deal with users who like to tinker with their devices.
+
+8. OEM and wallets: Wallet companies have to perform source code audits by professionally competent personnel or service providers. Else they will have to have assurance from application providers and OEMs that the application is free from embedded malicious code.
+
+MediaNama’s take: This will have an effect on manufacturers such ad Intex, Micromax and Spice who are looking at building a wallet service business. These companies were looking at a captive audience by bundling the wallets with devices. Routine checks will now be needed.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,57 @@
+“…do you [speakers] see this [differentiating between data fiduciaries and data processors] as a significant challenge ? People still trying to figure out if they are, especially when they are a little further down the chain, they are involved in processing data, but they’re clearly involved in determining the purpose and means of processing that data, which is the definition of fiduciary,” asked Prasanto Ray from FDI Consulting as part of his opening remarks when discussing the future of data fiduciaries and processors in India.
+
+Ray spoke as a moderator during MediaNama’s flagship event ‘PrivacyNama.’ His panel included speakers such as Tamoghna Goswami, Senior Manager Public Policy at ShareChat, Pragya Misra, Director of Public Affairs at Truecaller, Varun Sen Bahl, Public Policy Manager at NASSCOM, and Nehaa Chaudhari, Partner at Ikigai Law. During the discussion, speakers talked about the possible manners in which these two categories of data-using entities may be categorised or regulated.
+
+The full conversation can be seen here:
+
+This discussion was organised with support from Meta, PhonePe, Google, and Salesforce, and in partnership with CUTS and the Centre for Communication Governance.
+
+Differentiation is activity-specific: Chaudhari explained that the categorisation of an entity as a ‘data fiduciary’ or a ‘data processor,’ while fundamental to compliance, is not an absolute distinction. The entity’s data-related activities would determine the label it will get.
+
+“The same organization for a particular purpose could be a data fiduciary, and for a completely different purpose, could be a data processor. And figuring out what hat you’re wearing and therefore, what is the scope of obligations that’s going to attract you is really the fundamental question,” said Chaudhari.
+
+She pointed out that a processor would want to ring-fence its identity as such since data fiduciaries are subject to a whole host of obligations to ensure compliance with the law.
+
+Confusion within the industry on how to differentiate the entities: Misra raised the question of criteria for companies to decide which category they fall into and to understand when a company might be in violation of their obligations under that role. She said that there is no clarity on how such norms will be operationalised.
+
+Truecaller has recently began internal assessments on its data-related processes, both in relation to users as well as vendors and partners, to understand what its obligations might be. However, this is a tall task owing to the lack of a definition of a data processor.
+
+“I feel like there’s going to be a lot of – for some time – ambiguity . Everyone’s going to be pointing at the other person or the other industry saying the other ones [are responsible] and we are not. You need a lot of clarification so that this gray area in some ways puts everyone at ease on which category they are in and then they can really start focusing on complying. As opposed to just figuring out what category you’re in,” said Misra.
+
+Data processors may have the same obligations as data fiduciaries: Regarding the grounds for processing data, Bahl pointed out that the Section begins by saying, “a person may process the personal data of a Data Principal only in accordance with this Act.” Bahl argued that the use of “person” instead of “data fiduciary” means that the provisions here can apply to any type of organization without taking into consideration the context that the entity serves in the processing operation.
+
+Further considering the clause that says “processing has to be for a lawful purpose” he suggested that even data processors may need to ensure that they meet the requirement within the bounds of the instructions that the data fiduciary gives them. However, further inferences can only be made depending on the data processor’s contract with the data fiduciary, said Bahl.
+
+Companies will need strong contractual agreements: Chaudhari predicted very strong back-to-back contractual arrangements between companies to address the ambiguity between fiduciaries and processors. She also suggested that sectoral regulators be brought in to help determine how stringent the obligation should be considering the sector-specific regulations.
+
+She stressed on the need to focus on critical clauses in a fiduciary-processor contract like audits rights that are hard to negotiate owing to the power dynamics involved. Chaudhari said in some situations a neutral third-party auditor is introduced to verify whether the processor’s systems are safe, which helps create indemnity clauses that ensure both parties share liability. Companies (fiduciaries) also ask for strong representations and warranties from vendors (processors). Companies also ask about the vendor’s organizational measures, technical safeguards, cybersecurity standards, etc.
+
+“All of it gets negotiated depending on whether the controller is more powerful or the processor is really more powerful,” said Chaudhari.
+
+Ray pointed out how this is especially important considering government departments acting as fiduciaries are exempt from certain rules under the DPDP Act, but the data processor that is processing the data may be held accountable depending on the stringency of its contract with the government.
+
+Should payment aggregators be considered processors? During another discussion, Richa Mukherjee, Director of Public Policy and Corporate Affairs for PayU, spoke about payment’s aggregators’ challenges as data processors. However, Ayushi Singh, the Lead in the Privacy Department of PayU said that payment aggregators should not be considered processors at all. While both from the same company, Singh argued that in case of processing data for cross-selling purposes, any type of activity which is independent of pure data processing should bring the entity in the data fiduciary category.
+
+“Under these cases, either through the merchant journey or when the customer lands on your page, there would be privacy notices which would have to go up if they have to continue with this cross-selling, if they have to do data analytics,” said Singh.
+
+Payment aggregators are licensed entities with personal data: Even in case of pure processing, Singh said payment aggregators do not have the capacity of a data processor. This is because such aggregators are licensed entities who do risk checks, fraud checks, AML checks, risk profiling, a lot of which requires require user profiling.
+
+“Like [Mukherjee] said on the BNPL [buy-now-pay-later] model, BNPL is more in financial services sector. Even for payment processing, we have a lot of transactions, there are fraud checks that have been done. In those cases, since it’s a licensed entity nationwide, it has always been a position of payment aggregators across that it is a data fiduciary at all points of time. We may have customer information, which is personal information, which we will use only for the purpose of payment processing. But when it comes to sensitive data, even in the processing leg, all of these payment processors act as a data fiduciary,” said Singh.
+
+Credit card networks can be data fiduciaries: Ray added that credit networks like Visa, MasterCard, etc also similarly can be included in the data fiduciary category since they determine the purpose and means of collecting the data.
+
+“They’re responsible if there is fraud. They give a fraud score back based on information they collect. So, we see very little scope for any sort of waiver of liability as fiduciary in any context. Everywhere it seems to be,” he said.
+
+Ray further said that card networks don’t necessarily collect the identity of the person. Information like name, address, etc. remains with the issuer bank. The network receives a certain filtered set of things, although it determines what the filtered information should be.
+
+Meanwhile, merchants cannot be data fiduciaries because the merchant is not the acquirer or issuer and cannot decide the purpose and means of collecting the data. Merchants simply offer a machine or a QR code, said Ray.
+
+Is joint controllership possible? Bahl suggested that rather than solely focusing on classifying entities as fiduciaries and processors, companies can think of jointly determining purpose and means with more than one entity. This would create a joint controllership or “joint fiduciariship” similar to what is being formulated by the European Data Protection Board through guidance.
+
+Also Read:
+
+STAY ON TOP OF TECH NEWS: Our daily newsletter with the top story of the day from MediaNama, delivered to your inbox before 9 AM. Click here to sign up today!
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

@@ -1,0 +1,29 @@
+India, apart from Brazil and Southeast Asia, was one of the regions affected by Glupteba, a Russia-based threat actor known to steal user credentials, cookies, and mine cryptocurrencies on infected systems.
+
+This finding came up in the Google Threat Analysis Group’s new report on actions taken to dismantle the multi-component botnet’s actions, such as terminating —
+
+Parallel to the analysis, tracking, and technical disruption of this botnet, Google has also filed a lawsuit against two individuals believed to be located in Russia for operating the Glupteba Botnet and its various criminal schemes, the tech giant said.
+
+This report shows how malicious actors are driven by cryptocurrencies and related activities to indulge in illegal practices such as, in this case, hacking platforms. Money laundering concerns and scams have also been linked to the crypto market which is unregulated in most countries. A crypto bill is soon to be tabled in India’s Parliament.
+
+For a period of time, we observed thousands of instances of malicious Glupteba downloads per day. The following image shows a webpage mimicking a software crack download which delivers a variant of Glupteba to users instead of the promised software. — Google
+
+Researchers found that other than mining cryptocurrencies and stealing credentials, those behind the Glupteba botnet were selling—
+
+A few weeks ago Google revealed that its cloud platforms were being used by malicious actors to perform cryptocurrency mining. The report said that of the 50 compromised GCP instances that its team observed, 86% of them were being used to perform cryptocurrency mining, which they described as a “cloud resource-intensive for profit activity”.
+
+Researchers at Google opined that although they have taken myriad forms of action against them, Glupteba may attempt to regain control of the botnet using a back command and control mechanism that uses data encoded on the Bitcoin blockchain.
+
+“In the event that the main C2 servers do not respond,” Google said, “the infected systems can retrieve backup domains encrypted in the latest transaction from the following bitcoin wallet addresses:
+
+India, apart from the United States of America and the United Kingdom, was one among the most affected countries that were allegedly targeted by a Russian government-backed APt28/Fancy Bear Gmail phishing campaign, according to a report by Google’s Cybersecurity Action Team.
+
+The report, a first of its kind, said that Google’s Cybersecurity Action Team observed a large-scale attack of a credential phishing campaign targeting more than 12,000 Gmail accounts by this threat actor. Fancy Bear earlier used to target Yahoo! and Microsoft users, the report said. Other countries that were targeted include Canada, Russia, Brazil, and members of the European Union.
+
+Also read:
+
+Have something to add? Post your comment and gift someone a MediaNama subscription .
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

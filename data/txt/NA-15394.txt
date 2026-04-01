@@ -1,0 +1,29 @@
+What’s the news: Apple finally brings end-to-end encryption (E2E) to iCloud Backups, Notes, Photos, and more, the company announced on December 7, as part of a set of new security-related features. Called Advanced Data Protection for iCloud, the feature will allow Apple users to enable end-to-end encryption for 23 categories of data on iCloud, up from the current 14.
+
+Why does this matter: Apple has always portrayed itself as a privacy-first company, but iCloud Backups, which contain users’ photos, messages and more, were not end-to-end encrypted until now. These backups could be decrypted by Apple, which privacy advocates had criticised. The Electronic Frontier Foundation , for example, noted that it “makes those backups vulnerable to government requests, third-party hacking, and disclosure by Apple employees.”
+
+“We applaud Apple for listening to experts, child advocates, and users who want to protect their most sensitive data. Encryption is one of the most important tools we have for maintaining privacy and security online.” — EFF
+
+For more on why this matters, here’s a thread by cryptography expert Matthew Green:
+
+Why is this a big deal? Because Apple sets the standard on what secure (consumer) cloud backup looks like. Even as an opt-in feature, this move will have repercussions all over the industry as competitors chase them. 7/
+
+— Matthew Green (@matthew_d_green) December 7, 2022
+
+Will it come to China: Apple confirmed to Wall Street Journal that the end-to-end encryption feature will come to China. This is notable because it has been reported in the past that Apple has made significant compromises in China, including giving the government backdoor access to backups.
+
+FBI not happy: As expected, the Federal Bureau of Investigation (FBI), which has had many tussles with Apple on access to data, and, reportedly , was the reason why Apple didn’t bring this feature earlier, said that it is “deeply concerned” with such end-to-end encryption features. “This hinders our ability to protect the American people from criminal acts ranging from cyber-attacks and violence against children to drug trafficking, organized crime, and terrorism,” the bureau said.
+
+Which categories will be eligible for end-to-end encryption: iCloud already protects sensitive data categories like passwords in iCloud Keychain and Health data using end-to-end encryption. With the new security update, it will also protect the following categories of iCloud data:
+
+Availability and how to enable this feature: Notably, Advanced Data Protection is not turned on by default, and users will have to opt-in by going into Settings, iCloud, and Advanced Data Protection. The feature is “available in the US today for members of the Apple Beta Software Program, and will be available to US users by the end of the year. The feature will start rolling out to the rest of the world in early 2023,” Apple said.
+
+Which categories are still missing and why: “The only major iCloud data categories that are not covered are iCloud Mail, Contacts, and Calendar because of the need to interoperate with the global email, contacts, and calendar systems,” Apple said.
+
+What other features did Apple announce: Apart from the end-to-end encryption, Apple also announced the following security features, which will be available in 2023:
+
+Also Read
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

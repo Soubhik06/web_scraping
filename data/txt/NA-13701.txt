@@ -1,0 +1,25 @@
+Reserve Bank of India (RBI)’s subsidiary unit, Reserve Bank Innovation Hub (RBIH) has launched MuleHunter AI, a tool developed to detect and flag mule bank accounts involved in financial frauds in India.
+
+Money launderers use mule accounts to deposit illicit funds. Mules open these accounts and transfer the money, which financial systems then process through wire transfers and currency exchanges to evade detection.
+
+RBIH states that mule accounts poses as a significant challenge in financial fraud, as the transfer of funds through these interconnected accounts makes it difficult to trace and recover the funds.
+
+Moreover, RBIH attributes high false positives and longer turnaround times to the older static-rule-based system. “The static rule-based systems used to detect mule accounts result in high false positives and longer turnaround times, causing many such accounts to remain undetected,” it stated.
+
+RBIH presents its new in-house AI/ML-based solution as a more effective alternative to the static rule-based system for identifying suspected mule accounts.
+
+MediaNama has reached out to RBIH and RBI to further understand this better. We will update this article when they respond.
+
+A static rule-based system follows predefined, fixed rules to make decisions or take actions. It uses rules as the knowledge representation. The crux of a rule-based system is to encompass and mimic the knowledge of a human expert in a specialised domain.
+
+In the context of detecting mule accounts, this system can operate based on a set of programmed criteria or conditions, such as:
+
+The older static rule based systems primarily relied on rigid patterns to detect fraud. These rules do not tend adapt or learn over time unless manually updated.
+
+Moreover, rule-based systems often require time-consuming manual checks. This can slow down the detection process, meaning fraudulent mule accounts could go unnoticed for longer periods. However, manual checks or human intervention also can complement these systems by adding a layer of judgment and context that automated systems may miss.
+
+The number of cyber fraud incidents has increased to 2,92,800 cases in FY2024 from 78,800 cases in FY 2023. The Hindu reported that the amount of money lost increased to Rs. 2,054.6 crore in FY2024 from Rs. 421.4 crore in FY2023. Moreover, the Finance Ministry disclosed that incidents of fraud in domestic Unified Payment Interface (UPI) transactions surged by 85% in FY2023-24 compared to the previous fiscal year, FY2022-23. This came in response to a query raised during the Lok Sabha’s winter session regarding the escalating number of fraud cases in UPI transactions over the past three years.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event

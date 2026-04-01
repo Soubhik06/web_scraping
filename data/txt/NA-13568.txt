@@ -1,0 +1,33 @@
+Nikhil’s Take : I don’t think NIXI is fit as a registrar for the .in domain. They’re seeking to enforce KYC via India’s digilocker for domain registration, and disallowing the registration/renewal of .in domain names to foreign citizens. This is a regressive move, not the first from NIXi, and goes against the spirit of the way the internet is structured: anyone can create a website on the internet and register a domain with any registrar. This move transforms NIXI from being an enabler to a bottleneck. Classic redtape-ism from a bureaucracy. Does NIXI have any clarity on what % of .in domains are used by cybercriminals? Theyâre throwing out the baby with the bathwater
+
+1. Brand names will be up for grabs? For example, if bestbuy, chipotle or sonos do not have Indian entities, then can they no longer own their .in domains? They don’t have a business in India, so they can’t justify owning their brand. This can lead to a surge in scam/spam domains, an issue that NIXI probably hasn’t considered.
+
+2.Domain names are internet infrastructure, not online content. By forcing identify verification NIXI is placing a disproportionate burden on all who want to host websites. Domain names are meant to be globally interoperable, and while minimal identity checks are valid, having to submit tax returns or letters from foreign missions is beyond bizarre.
+
+3.Death of the dot in domain? The dot in domain is premium because it ends with in, and could be a completion of a sentence (walk.in) or a part of a word that ends with in (slang domain for a mattress brand could be sleep.in) it is thus easy to remember. With this bureaucratic overhead, it becomes inaccessible. Smarter registrars like Anguilla (.ai) and iceland (.is) have monetized their domains smartly, which India has not.
+
+Web hosting provider and domain registrar MotherHost sent notices to users who owned .in domains, informing them that they would have to undergo a Know Your Customer (KYC) process to register or renew their domains, starting August 1.
+
+“This verification will be carried out through DigiLocker, the secure digital documentation platform developed by the Ministry of Electronics & Information Technology (MeitY) under the Digital India initiative,” said the email, which was reviewed by MediaNama.
+
+The e-KYC mandate is the result of a revised Registrar Accreditation Agreement (RAA), brought in place by the National Internet Exchange of India (NIXI) five months ago,” said a source at NIXI.
+
+The KYC requirement would allow the authorities to identify domain holders in case of any cyber incidents, the source added.
+
+According to the existing RAA on NIXI’s website, domain owners can submit their passport, voter ID, driving license, Aadhaar card, PAN card, or any other official identification card.
+
+In its initial email, MotherHost claimed that MeitY would no longer allow non-Indians to register or renew .in domains. However, they retracted the claim in a follow-up email, stating that both Indian and foreign citizens could register .in domains.
+
+Foreign nationals would have to submit their passport, driving license, a letter issued by the Foreign Embassy or Mission of India, and income tax returns for the last two years.
+
+Additionally, NIXI requires foreign entities to demonstrate a “legitimate business connection or purpose connected to India” by submitting a signed declaration outlining their business connection or purpose in India.
+
+NIXI’s KYC requirements were first brought up in 2023; however, they were only voluntary at the time. Experts told MediaNama that while KYC requirements could help curb cybercrime, they may go against the anonymous and decentralised nature of the internet. Instead, the government could have imposed additional compliance only on large platforms, similar to the obligations for significant social media intermediaries under the Information Technology Rules, 2021.
+
+Also Read:
+
+Note: Medianama Founder-Editor Nikhil Pahwa’s take was added on 31/07/2025 at 12:37 PM.
+
+For You Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
+
+Read Reasoned by Nikhil Pahwa: How AI is changing our world Sign up for MediaNama's Daily Newsletter to receive regular updates Sponsor a MediaNama Event
