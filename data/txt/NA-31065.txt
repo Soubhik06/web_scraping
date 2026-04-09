@@ -1,0 +1,32 @@
+SOURCE: The Print
+TITLE: China’s biggest lender ICBC hit by ransomware attack
+AUTHOR: Reuters
+DATE: 2023-11-10
+URL: https://theprint.in/tech/chinas-biggest-lender-icbc-hit-by-ransomware-attack/1839651/
+
+--- ARTICLE TEXT ---
+
+By Pete Schroeder and Zeba Siddiqui
+(Reuters) -The Industrial and Commercial Bank of China’s (ICBC) U.S. arm was hit by a ransomware attack that disrupted trades in the U.S. Treasury on Thursday, the latest in a string of victims ransom-demanding hackers have claimed this year.
+ICBC Financial Services, the U.S. unit of China’s largest commercial lender by assets, said it was investigating the attack that disrupted some of its systems, and making progress toward recovering from it.
+Hackers lock up a victim organisation’s systems in such attacks and demand ransom for unlocking it, often also stealing sensitive data for extortion.
+Show Full Article
+Several ransomware experts and analysts said an aggressive cybercrime gang named Lockbit was believed to be behind the hack, although the gang’s dark web site where it typically posts names of its victims did not mention ICBC as a victim as of Thursday evening. Lockbit did not respond to a request for comment sent via a contact address posted on its site.
+“We don’t often see a bank this large get hit with this disruptive of a ransomware attack,” said Allan Liska, a ransomware expert at the cybersecurity firm Recorded Future.
+Liska, who also believes Lockbit was behind the hack, said ransomware gangs may not name and shame their victims when they are negotiating with them on the ransom demand.
+“This attack continues a trend of increasing brazenness by ransomware groups,” he said. “With no fear of repercussions, ransomware groups feel no target is off limits.”
+U.S. authorities have struggled to curb a rash of cybercrime, chiefly ransomware actors, who hit hundreds of companies in nearly every industry annually. Just last week U.S. officials said they were working on curtailing the funding routes of ransomware gangs by improving information-sharing on such criminals across a 40-country alliance.
+The ICBC did not comment on whether Lockbit was behind the hack. It is common for victim organisations to refrain from publicly disclosing the names of cybercrime gangs.
+Since Lockbit was discovered in 2020, the group has hit 1,700 U.S. organizations, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). Last month it threatened Boeing with a leak of sensitive data it said it had found by breaching the company.
+A CISA spokesperson referred questions about the ICBC hack to the U.S. Treasury Department.
+While market sources said the impact of the hack appeared limited, it signalled how vulnerable systems at large organizations such as the bank continue to be to cybercriminals. Thursday’s incident is likely to raise questions over market participants’ cybersecurity controls and draw regulatory scrutiny.
+TRADES CLEARED
+ICBC said it had successfully cleared Treasury trades executed on Wednesday and repurchase agreements (repo) financing trades done on Thursday.
+“In general, the event had a limited impact on the market,” said Scott Skrym, executive vice president for fixed income and repo at broker-dealer Curvature Securities.
+Some market participants said trades going through ICBC were not settled due to the attack and affected market liquidity. It was not clear whether this contributed to the weak outcome of a 30-year bond auction on Thursday.
+“There could have been maybe some technical issues with some participants not being able to access the market fully on the day,” said Michael Gladchun, associate portfolio manager, core plus fixed income, at Loomis Sayles.
+The Financial Times reported earlier on Thursday that the U.S. Securities Industry and Financial Markets Association (SIFMA) told members that ICBC had been hit by ransomware that disrupted the U.S. Treasury market by preventing it from settling trades on behalf of other market players.
+“We are aware of the cybersecurity issue and are in regular contact with key financial sector participants, in addition to federal regulators. We continue to monitor the situation,” a Treasury spokesperson said in a response to a question about the FT report. SIFMA declined to comment.
+The Treasury market appeared to be functioning normally on Thursday, according to LSEG data.
+(Reporting by Urvi Dugar in Bengaluru and Pete Schroder in Washington; Additional reporting by Gertrude Chavez, Davide Barbuscia, Carolina Mandl, Paritosh Bansal; Editing by Stephen Coates)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

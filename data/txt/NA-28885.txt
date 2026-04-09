@@ -1,0 +1,72 @@
+SOURCE: The Print
+TITLE: RBI wants to scale up e-rupee via UPI. Why target of 1 mn transactions a day could be ‘far-fetched’
+AUTHOR: Sampurna Panigrahi
+DATE: 2023-08-09
+URL: https://theprint.in/economy/rbi-wants-to-scale-up-e-rupee-via-upi-why-target-of-1-mn-transactions-a-day-could-be-far-fetched/1706145/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+As part of the ongoing drive to accelerate India’s digital transformation, the Reserve Bank of India piloted a Central Bank Digital Currency (CBDC), the e-rupee, in November 2022. Now, the RBI aims to scale up CBDC usage through the popular Unified Payments Interface (UPI) platform, with a target of 1 million daily CBDC transactions by year-end.
+However, some experts
+working closely with the rollout
+claim that the goal is “far-fetched”, especially given a lack of awareness
+about the e-rupee and the limited number of banks that are participating in the pilot programme.
+CBDC refers to sovereign currency issued by a nation’s central bank, but existing digitally rather than as notes and coins. While they function similarly to private cryptocurrencies, they are
+positioned as ‘safer’
+and serve as a medium of exchange rather than as assets.
+Show Full Article
+Currently, the RBI has high hopes for CBDCs. Speaking at a conclave last month, RBI deputy governor T Rabi Sankar said the central bank was actively working to implement CBDC-UPI interoperability. He also asked banks to prepare to handle a million transactions per day using CBDC by the end of the year.
+But while the results of the pilot runs of CBDCs so far “have been satisfactory and in line with expectations”, according to the central bank’s latest annual report released in May, officials in the RBI, as well as participating banks, say there could be hiccups in the expansion plans.
+Presently, awareness about the e-rupee is still limited, with the RBI providing only a
+concept note
+and
+video
+for understanding CBDCs.
+On the retail front, the pilot involves only 13 partnering banks, some of which include State Bank of India (SBI), Bank of Baroda, HDFC Bank, IDFC First Bank, and Kotak Mahindra Bank. These banks have provided a limited number of customers with an option to experiment with the digital rupee and be a part of the retail pilot. The basis of selection is, however, not specified.
+According to an
+HDFC
+statement and
+media reports
+, HDFC Bank is the first and so far, only bank that has introduced UPI scan codes for transacting in CBDC for select users. Other partnering banks are yet to introduce interoperability as a part of the pilot.
+Also Read:
+RBI is going crypto with digital rupee — but not Bitcoin, Ether way
+‘Far-fetched goal’
+Finance Minister Nirmala Sitharaman unveiled the introduction of CBDC during the February 2022 Union Budget presentation. Subsequently, the wholesale pilot commenced in November 2022, followed by the retail pilot in December that year.
+As of June this year, around 13 lakh users downloaded the CBDC wallet, with around 3 lakh vendors accepting payments in e-rupees, the
+Economic Times
+reported.
+Now, the ambitious goal of achieving one million CBDC transactions per day by year-end has invited scepticism from experts.
+“Our banking system still needs time to process this change,” said Mrutyunjay Mahapatra, member of the governing council of the Reserve Bank Innovation Hub, a subsidiary of the RBI that promotes and facilitates innovation in the financial sector, speaking to ThePrint.
+“It has been more than a decade since the first Bitcoin was reported on and still there is so much left,” he added. “So, I feel it will take some time for us to adapt to the level of technology and safety to operate CBDC on a large scale. One million transactions a day is a far-fetched goal.”
+Mihir Gandhi, partner, payments transformation at PwC India, agreed with this assessment, noting that the financial institutions as well as RBI were still working towards understanding the concept well.
+He said a major issue with the wider adoption of CBDCs is a lack of awareness about what it is, and how it is different from UPI, which also involves digital transactions of money.
+However, Gandhi said with the increase in the number of use cases, RBI along with its partners will strategise effective communication around the topic.
+How are CBDCs different from UPI and crypto?
+CBDCs are a type of digital money based on distributed-ledger  technology similar to cryptocurrencies, but they function differently.
+And though CBDCs are similar to UPI in that they both use wallets to store digital currency, they differ in how they are issued and used
+“One major difference between CBDC and the existing UPI facility is that the latter requires a bank to facilitate the transaction. With CBDCs, the banks are out of the scenario. You can directly transfer the digital money directly to the CBDC account of the receiver,” he said.
+While transacting through CBDCs, the digital currency is debited from the sender’s e-wallet and credited directly to the receiver’s wallet. It skips the process of money being deposited in the bank accounts of customers.
+However, the issuance of CBDCs to retail customers involves transacting through a bank.
+The way the system works is that retail customers can use a wallet-based app from where they can raise tokens requesting the issuance of the CBDC. The request will be processed through the app and the partnering bank will then transfer the CBDC to the customer’s wallet.
+This means there is no direct connection between the RBI and the end customer.
+PwC’s Mihir Gandhi said that the current retail system is based on an API-based wallet system and not on blockchain technology because of the scale of transactions.
+“Banks play the custodial role in the pilot,” Gandhi explained. “They play both the business-to-business (B2B) and business-to-customer (B2C) roles. For B2B, banks receive CBDCs from the RBI using tokens on blockchain technology, and then banks use the digital money to make transactions or settlements of securities where no collateral has to be provided.”
+On the B2C front, Gandhi added, banks need to transfer RBI-issued digital CBDCs to customer wallets using API technology.
+While CBDC is often understood to be a replacement for cryptocurrency in India, it differs from privately issued digital assets like Bitcoin.
+“Unlike other cryptocurrencies, CBDC is based on distributor-ledger technology but does not comply with all principles. With CBDC, the central bank has the sole authority for creation and issuance of the digital rupee, and the entire track record of it is also available,” Mahapatra said.
+How will scaling up CBDCs help?
+At a macro level, CBDCs offer an avenue to reduce the costs of printing, storing, and distributing physical notes. Printing currency constitutes a substantial portion of the RBI’s expenditure, reportedly amounting, for instance, to Rs 5,000 crore in 2021-22.
+In addition, the RBI also controls the cash circulating in the economy. The central bank cannot keep printing currency notes continuously on a large scale, as it would in the longer term, increase the purchasing power of consumers, diminish the value of money, and eventually lead to inflation. CBDC can help mitigate this risk by providing a more controlled way to inject money into the economy through the token system.
+Further, said Mahapatra, CBDC reduces the issue of counterfeit currency.
+“With CBDC, the security around money also increases. There is an immutable record of ownership and transfer with the digital rupee. This also reduces the threat of fake currency. Since CBDC is RBI-approved and issued, the right to issue CBDC rests with the central bank,” he said.
+RBI has also presented the argument that with the digital rupee, the additional layer of banks would be subtracted from the system.
+In the current UPI payment system, when a user sends money to a merchant/user, the money gets debited from the sender’s bank account and then through UPI system, gets credited to the receiver’s bank account. The receiver cannot directly use the money without having to go through the bank.
+Mahapatra added that with CBDC, money cannot be lost. Unlike physical currency, digital currency can’t be destroyed as it has a permanent tracing record.
+Downsides of the digital rupee
+The CBDC system suffers from some drawbacks, most notably the inability to accrue interest.
+“Though CBDC is a digital currency and store of value, it does not yield interest in savings accounts. You cannot deposit CBDC in fixed deposits, or recurring deposits with banks as you do with the current currency. It can only be stored in the wallet,” explained Gandhi.
+He also noted that this factor serves as an obstacle to adoption as it is difficult to convince users to transfer their money into a non-interest-bearing account.
+(Edited by Asavari Singh)
+Also Read:
+How hyperinflation, economic turmoil is pushing people to adopt crypto in several emerging economies

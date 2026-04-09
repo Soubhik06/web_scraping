@@ -1,0 +1,39 @@
+SOURCE: The Print
+TITLE: Chatbots can be used to create manipulative content — understanding how this works can help address it
+AUTHOR: PTI
+DATE: 2023-07-03
+URL: https://theprint.in/world/chatbots-can-be-used-to-create-manipulative-content-understanding-how-this-works-can-help-address-it/1652253/
+
+--- ARTICLE TEXT ---
+
+Toronto/Salt Lake City, Jul 3 (The Conversation) Manipulative communication includes disinformation, propaganda, con artistry and fraud. With the increasing use of artificial intelligence (AI), manipulative communication is not only being aided by AI, automation and machine learning, but will likely be dominated by such practices in the near future.
+As communication scholars, we were interested in the applications of AI in supporting manipulative communication efforts. Our recent book, Social Engineering: How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication looks at how the internet affected manipulative communication.
+AI chatbots ChatGPT, one of the most popular and widely used chatbots, is an artificial intelligence chatbot, capable of parsing text input and quickly providing text responses.
+Show Full Article
+While it has been critiqued for being misleading, when we asked it about the possibilities for manipulative communication, its response was remarkably prescient: AI can be used for manipulative communication in a few ways: • Social media bots: AI-powered bots can be programmed to mimic human behaviour and spread false or misleading information to manipulate public opinion.
+• Deepfake technology: AI algorithms can be used to generate fake audio or video content that appears to be real, making it easier to spread false information or manipulate individuals.
+• Personalised advertising: AI algorithms can analyse data about a person’s behaviour, preferences, and relationships to create targeted advertisements that manipulate their emotions and influence their purchasing decisions.
+As we argue in Social Engineering, manipulative communication can be understood as a form of “masspersonal social engineering.” It’s “masspersonal” in that it can oscillate between targeted messages or societal-scale manipulation. It’s “social engineering” in that it combines the respective tools and techniques of hackers and propagandists in an attempt to shape the perceptions and actions of audiences.
+Masspersonal social engineering typically involves three stages: trashing, pretexting and bullshitting.
+Each of these stages can be automated, with new AI tools increasing the pace and intensity.
+Trashing Trashing is the stage where the masspersonal social engineer gathers information on potential targets. We use the term “trashing” because it hearkens back to a mid-20th century hacker process of literally going through corporate trash to find passwords and restricted information.
+While social engineers still go through physical trash, these days trashing takes place in digital environments.
+For example, trashing was key to the Russian hack of former White House Chief of Staff John Podesta’s emails in 2016. Podesta, who was in charge of Hillary Clinton’s 2016 presidential campaign, fell victim to a phishing attack.
+Podesta wasn’t the first target — the Russian hackers worked their way through several email addresses used by Clinton staffers, including staffers who were no longer part of her campaign and who had abandoned their email accounts years before.
+In other words, they had to work their way through the digital detritus of old and abandoned emails until they were able to find active ones – including Podesta’s – and then they could send a phishing email.
+Digital trashing has already been automated. Facebook/Meta, Twitter and especially LinkedIn have been ripe targets for the automated gathering of data on potential targets.
+Beyond social media, websites — particularly those that have organizational structures, names of employees and email addresses — are targets.
+Pretexting A pretext is the role a masspersonal social engineer plays when trying to get information or manipulate a target. For example, in a phishing email, the phisher is playing a role as a bank or government representative. The most effective pretexts are developed based on the information gathered in trashing — the more information a social engineer has on their target, the more likely the social engineer can construct a compelling role to play.
+And pretexts can be automated. We’ve already seen the effects of socialbots on discourse in social media. And for several years people have sounded alarms about deepfake videos and audio of political figures.
+But evidence from security professionals show that automated imitations of everyday people are happening, too. A case of fraud involving an AI-based imitation of a CEO’s voice has already occurred, and there are reports of fraudsters using AI-generated voices of relatives to scam their loved ones.
+Bullshitting The third and final stage, bullshitting, is the actual engagement with the target. All the trashing and development of a pretext leads to this point: trashing gives the social engineer background information, and the pretext provides a role-playing framework, but in any back-and-forth engagement with the target, the social engineer engages in improvisation.
+As moral philosopher Harry Frankfurt famously defines it, “bullshit” is not lying — it’s the indifference to truth. A bullshitter may or may not speak truth. The truth is beside the point; it’s the effect of the communication that matters.
+AI could produce bullshit content — including deepfakes — that floods a media system at a much larger scale than a person, or group of people, working together. The primary concern here is the production of seemingly real content that is meant to deceive or muddy debate.
+And we are already seeing interest among content marketers, who are using AI to help them crank out more content for their blogs.
+Even if no one piece is particularly effective, the flood of such content online will further add to the “firehose of falsehood.” This could have the effect of further muddying the waters of online discourse, and eroding our sense of what is true, false and authentic online.
+Increased intensity Manipulative communication isn’t new. But automated manipulative communication is a new development, increasing the pace and intensity of disinformation and misinformation.
+We hope that this framework, which breaks down the manipulative communication process into stages, helps future researchers and policymakers come to grips with this development.
+Reducing trashing behaviours involves better privacy regulations and cybersecurity to prevent data breaches, and enhanced penalties for organizations that do leak private data.
+Addressing pretexting can involve more transparency in the funding for advertising campaigns, particularly in the case of political advertising on social media.
+And to combat bullshitting, we should support projects that teach digital media literacy. (The Conversation) NSA NSA
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

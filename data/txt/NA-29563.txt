@@ -1,0 +1,22 @@
+SOURCE: The Print
+TITLE: Exclusive-AI being used for hacking and misinfo, top Canadian cyber official says
+AUTHOR: Reuters
+DATE: 2023-07-20
+URL: https://theprint.in/tech/exclusive-ai-being-used-for-hacking-and-misinfo-top-canadian-cyber-official-says/1679241/
+
+--- ARTICLE TEXT ---
+
+By Raphael Satter
+WASHINGTON (Reuters) – Hackers and propagandists are wielding artificial intelligence (AI) to create malicious software, draft convincing phishing emails and spread disinformation online, Canada’s top cybersecurity official told Reuters, early evidence that the technological revolution sweeping Silicon Valley has also been adopted by cybercriminals.
+In an interview this week, Canadian Centre for Cyber Security Head Sami Khoury said that his agency had seen AI being used “in phishing emails, or crafting emails in a more focused way, in malicious code (and) in misinformation and disinformation.”
+Khoury did not provide details or evidence, but his assertion that cybercriminals were already using AI adds an urgent note to the chorus of concern over the use of the emerging technology by rogue actors.
+Show Full Article
+In recent months several cyber watchdog groups have published reports warning about the hypothetical risks of AI – especially the fast-advancing language processing programs known as large language models (LLMs), which draw on huge volumes of text to craft convincing-sounding dialogue, documents and more.
+In March, the European police organization Europol published a report saying that models such as OpenAI’s ChatGPT had made it possible “to impersonate an organisation or individual in a highly realistic manner even with only a basic grasp of the English language.” The same month, Britain’s National Cyber Security Centre said in a blog post that there was a risk that criminals “might use LLMs to help with cyber attacks beyond their current capabilities.”
+Cybersecurity researchers have demonstrated a variety of potentially malicious use cases and some now say they are beginning to see suspected AI-generated content in the wild. Last week, a former hacker said he had discovered an LLM trained on malicious material and asked it to draft a convincing attempt to trick someone into making a cash transfer.
+The LLM responded with a three paragraph email asking its target for help with an urgent invoice.
+“I understand this may be short notice,” the LLM said, “but this payment is incredibly important and needs to be done in the next 24 hours.”
+Khoury said that while the use of AI to draft malicious code was still in its early stages – “there’s still a way to go because it takes a lot to write a good exploit” –  the concern was that AI models were evolving so quickly that it was difficult to get a handle on their malicious potential before they were released into the wild.
+“Who knows what’s coming around the corner,” he said.
+(Reporting by Raphael Satter in Washington; editing by Chris Sanders and Josie Kao)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

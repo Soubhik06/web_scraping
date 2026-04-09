@@ -1,0 +1,35 @@
+SOURCE: The Print
+TITLE: AI can make up songs now, but who owns the copyright? The answer is complicated
+AUTHOR: PTI
+DATE: 2024-05-14
+URL: https://theprint.in/world/ai-can-make-up-songs-now-but-who-owns-the-copyright-the-answer-is-complicated/2084059/
+
+--- ARTICLE TEXT ---
+
+Armidale (Australia), May 14 (The Conversation) Artificial intelligence (AI) text and image generation tools have now been around for a while, but in recent weeks, apps for making AI-generated music have reached consumers as well.
+Just like other generative AI tools, the two products – Suno and Udio (and others likely to come) – work by turning a user’s prompt into output.
+For example, prompting for “a rock punk song about my dog eating my homework” on Suno will produce an audio file (see below) that combines instruments and vocals. The output can be downloaded as an MP3 file.
+Show Full Article
+The underlying AI draws on unknown data sets to generate the music. Users have the option of prompting the AI for lyrics or writing their own lyrics, although some apps advise the AI works best when generating both.
+But who, if anyone, owns the resulting sounds? For anyone using these apps, this is an important question to consider. And the answer is not straightforward.
+What do the app terms say? Suno has a free version and a paid service. For those who use the free version, Suno retains ownership of the generated music.
+However, users may use the sound recording for lawful, non-commercial purposes, as long as they provide attribution credit to Suno.
+Paying Suno subscribers are permitted to own the sound recording, as long as they comply with the terms of service.
+Udio doesn’t claim any ownership of the content its users generate, and advises users are free to do whatever they want with it, “as long as the content does not contain copyrighted material that [they] do not own or have explicit permission to use”.
+How does Australian copyright law apply? Suno is based in the United States. However, its terms of service state that users are responsible for complying with the laws of their specific jurisdiction.
+For Australian users, despite Suno granting ownership to paid subscribers, the application of Australian copyright law isn’t clear cut. Can an AI-generated sound recording be “owned” in the eyes of the law? For this to happen, copyright must be found and a human author must be established.
+Would a user be considered an “author” or would the sound recording be classified as authorless for the purposes of copyright? Similarly to how this would apply to ChatGPT content, Australian case law dictates that each work must originate through a human author’s “creative spark” and “independent intellectual effort”.
+This is where the issue becomes contentious. A court would likely scrutinise precisely how the sound recording was generated. If the user’s prompt demonstrated sufficient “creative spark” and “independent intellectual effort”, then authorship might be found.
+If, however, the prompt was found to be too far removed from the AI’s reduction of the sound recording to a tangible form, then authorship could fail. If authorless, then there is no copyright and the sound recording cannot be owned by a user in Australia.
+Does the training data infringe copyright? The answer is currently unclear. Around the world, there are many ongoing lawsuits evaluating whether other generative AI technology (such as ChatGPT) has infringed upon copyright through the data sets used for training.
+The same question is pertinent to generative AI music apps. This is a difficult question to answer because of the secrecy surrounding the data sets used to train these apps. Greater transparency is needed – one day, licensing structures might be established.
+Even if there has been a copyright infringement, an exception to copyright called fair dealing might be applicable in Australia. This allows the reproduction of copyright-protected material for particular uses, without permission from or payment to the owner. One such use is for research or study.
+In the US, an exception called fair use might apply.
+What about imitating a known artist? Of concern to those in the music industry is the use of generative AI to create new songs that mimic famous singers. For example, other AI technology (not Suno or Udio) can now make Johnny Cash sing Taylor Swift’s Blank Space.
+Last year, writers in Hollywood went on strike in part to demand guardrails on how generative AI can be used in their profession. There is now a similar concern about a threat to livelihoods in the music industry, due to the unsolicited use of vocal profiles through AI technology.
+In the US, a right of publicity exists. This applies to any individual, but is mainly used by celebrities. It gives them the right to sue for misappropriation for the commercial use of their identity or performance.
+So, if someone used an AI-generated voice profile of a US singer commercially and without permission in a song, the singer could sue for misappropriation of their voice and likeness.
+However, in Australia, there is no such right of publicity. Due to the proliferation of voices and other materials that can be harvested from the internet, this potentially leaves Australians vulnerable to exploitation through new types of AI.
+AI voice scams are also escalating. This is where scammers use AI to impersonate the voice of a loved one in an attempt to extort money.
+With the rapid development of this technology, it is timely to debate whether a similar right of publicity should be introduced in Australia. If so, it would help to safeguard the identity and performance rights of all Australians and also protect against potential AI voice crimes. (The Conversation) PY PY
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

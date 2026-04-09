@@ -1,0 +1,22 @@
+SOURCE: The Print
+TITLE: CERT-In cautions Internet users against Ransomware ‘Akira’ attack
+AUTHOR: PTI
+DATE: 2023-07-23
+URL: https://theprint.in/india/cert-in-cautions-internet-users-against-ransomware-akira-attack/1682199/
+
+--- ARTICLE TEXT ---
+
+New Delhi, Jul 23 (PTI) An Internet ransomware virus ‘Akira’ that steals vital personal information and encrypts data leading to extortion of money from people has been reported in the cyberspace, the country’s federal cyber security agency has said in a latest advisory.
+This computer malware is targeting Windows and Linux-based systems, it said.
+“A recently emerged ransomware operation dubbed Akira is reportedly active in cyberspace. This group first steals the information from victims, then encrypt data on their systems and conducts double extortion to force the victim into paying the ransom.
+Show Full Article
+“In case the victim does not pay, they release their victim’s data on their dark web blog,” the Indian Computer Emergency Response Team (CERT-In) said in a latest advisory to Internet users.
+The agency is the central technology arm to combat cyber attacks and guards the cyber space against phishing and hacking assaults and similar online attacks.
+It said the ransomware group is “known to access victim environments via VPN (virtual private network) services, particularly where users have not enabled multi-factor authentication.” Ransomware is a computer malware that infects and blocks users from using their own data and system and they can get it back against a pay-off.
+This ransomware group has also utilised tools such as AnyDesk, WinRAR, and PCHunter during intrusions, it said, adding these tools are often found in the victim’s environment, and their misuse typically goes unnoticed.
+Describing the technical intrusion of the virus, the advisory said ‘Akira’ deletes the Windows Shadow Volume Copies on the targeted device.  The ransomware subsequently encrypts files with a predefined set of extensions and a ‘.akira’ extension is appended to each encrypted file’s name during this encryption process, it said.
+In the encryption phase, the ransomware terminates active Windows services using the Windows Restart Manager API. This step prevents any interference with the encryption process, the advisory stated.  The ransomware encrypts files found in various hard drive folders, excluding the ProgramData, Recycle Bin, Boot, System Volume Information, and Windows folders.  The CERT-In also advised Internet users to use basic online hygiene and protection protocols to keep safe from such virus attacks in the online space.
+Ransomware infections primarily keep data as hostage, hence, it is recommended to maintain offline backups of critical data and ensure that these backups stay up-to-date to prevent data loss in the event of infection, it suggested.
+Also, the advisory recommended that operating systems and applications should be kept updated regularly and “virtual patching” can be considered for protecting legacy systems and networks.  This measure hinders cyber criminals from gaining easy access to any system through vulnerabilities in outdated applications and software, it said.
+Users should also enforce strong password policies and multi-factor authentication (MFA) and void applying updates/patches available in any unofficial channel among other such measures to counter cyber and ransomware attacks, it said. PTI NES  DV DV
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

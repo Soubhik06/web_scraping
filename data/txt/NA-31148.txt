@@ -1,0 +1,29 @@
+SOURCE: The Print
+TITLE: Indonesia president orders audit of data centres after cyberattack
+AUTHOR: Reuters
+DATE: 2024-06-28
+URL: https://theprint.in/tech/indonesia-president-orders-audit-of-data-centres-after-cyberattack/2151671/
+
+--- ARTICLE TEXT ---
+
+By Stefanno Sulaiman and Stanley Widianto
+JAKARTA (Reuters) – Indonesian President Joko Widodo ordered on Friday an audit of government data centres after officials said the bulk of data affected by a recent ransomware cyberattack was not backed up, exposing the country’s vulnerability to such attacks.
+Last week’s cyberattack, the worst in Indonesia in recent years, has disrupted multiple government services including immigration and operations at major airports.
+The government has said more than 230 public agencies, including ministries, had been affected, but has refused to pay an $8 million ransom demanded to retrieve the encrypted data.
+Show Full Article
+Responding to the cyberattack, Indonesia’s state auditor said the president instructed it to examine the country’s data centres.
+The audit would cover “governance and the financial aspect”, said Muhammad Yusuf Ateh, who heads Indonesia’s Development and Finance Controller (BPKP), after attending a cabinet meeting led by Widodo on Friday.
+Hinsa Siburian, an official who chairs Indonesia’s cyber security agency known by its acronym BSSN, has said 98% of the government data stored in one of the two compromised data centres had not been backed up.
+“Generally we see the main problem is governance and there is no back-up,” he told a parliamentary hearing late on Thursday.
+Some lawmakers dismissed the explanation.
+“If there is no back up, that’s not a lack of governance,” said Meutya Hafid, the chair of the commission overseeing the incident. “That’s stupidity”.
+A BSSN spokesperson did not immediately respond when asked whether it would be possible to recover the encrypted data.
+Budi Arie Setiadi, Indonesia’s communications minister, said the ministry had back-up capacity at the data centres, but it was optional for government agencies to use the service.
+He said government agencies did not back up the data due to budget constraints, adding this would soon be made mandatory.
+The cyberattack has sparked criticism of the minister on social media in Indonesia.
+Digital advocacy group SAFEnet started a petition calling for Budi’s resignation, citing his lack of responsibility over repeated cyber attacks.
+Budi sent Reuters a separate petition calling for him to stay on as minister when asked for comment on calls for him to resign.
+The minister told parliament that a “non state actor” seeking money was believed to be behind the attack and that government services should be fully restored by August.
+Ransomware attackers use software to encrypt data and demand payment from victims for restoring the data. Indonesia has said the attacker in this particular incident used an existing malicious software called Lockbit 3.0.
+(Reporting by Stanley Widianto, Stefanno Sulaiman, and Ananda Teresia; Editing by Ed Davies and Michael Perry)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

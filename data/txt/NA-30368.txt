@@ -1,0 +1,113 @@
+SOURCE: The Print
+TITLE: Telegram CEO arrest set the stage for a law vs tech battle. It will shape norms worldwide
+AUTHOR: Praveen Swami
+DATE: 2024-08-27
+URL: https://theprint.in/opinion/security-code/telegram-ceo-arrest-set-the-stage-for-a-law-vs-tech-battle-will-shape-norms-across-the-world/2240208/
+
+--- ARTICLE TEXT ---
+
+T
+he messages arrived on Facebook messenger or by e-mail, but seemed to have been sent from a place of infinite evil: “I will lean over you as you scream and cry and beg for mercy,”
+one letter read
+, “before I slit your f*****g throat from ear to ear.” Each was signed by a man who used the name Brian Kil, but as the Federal Bureau of Investigation searched for him, its internet detectives found themselves looking into the void. “Everyone please pray for the FBI,” the man taunted them, “they are never solving this case LMAO.”
+Earlier this week, when
+French police
+held Telegram chief executive officer Pavel Durov—alleging the app’s lack of content moderation enabled its misuse for narcotics trafficking, money laundering, and the sharing of child pornography—they set the stage for a critical battle in the long-simmering feud between technology companies and global law enforcement.
+For five years, from 2012 to 2017, ‘Brian Kil’ waged what
+court later called
+a “campaign of terror”, terrorising hundreds of schoolgirls into sharing pornographic images of themselves, which he would sell online. The
+FBI
+discovered the extortionist was sheltered behind near-impenetrable layers of encryption, including the privacy-focussed
+Tails operating system
+.
+Show Full Article
+That case saw Facebook make a six-figure payout to a security company, which succeeded in
+planting malicious code
+inside pornographic content sent by a victim and then using it to identify the criminal as 26-year-old unemployed California resident Buster Hernandez.
+Across the world, though, organised crime cartels are continuing to use free, easily available tech tools, and the patience of some governments is starting to run out. Telegram’s
+encryption
+isn’t highly regarded
+, but its loose content moderation policies and openness to large chat groups have led Russian dissidents, American neo-Nazis, French anarchists, and
+Islamic State
+jihadists to turn to it to send out their messages.
+Telegram is now estimated to have
+900 million users
+—up from 500 million two years ago—and, in a recent interview, Durov claimed it was making hundreds of millions of dollars in advertising revenues.
+Facebook, WhatsApp, and other platforms, by contrast, have begun aggressively shutting down accounts and restricting the ease of broadcasting messages in response to mounting
+concerns over disinformation
+. Telegram, though, chose to buck the pressure.
+The Telegram prosecution is almost certain to be a test case of the relationship between privacy and law-enforcement requirements, which will shape norms across the world. The libertarian-leaning Durov—an eccentric billionaire who recently revealed he had donated sperm to father over 100 biological children—knew he faced an arrest warrant in France. Likely, he took the decision to travel there from the United Arab Emirates to provoke a showdown.
+Also read:
+Mewat is India’s latest Jamtara. And sextortion is the new kill
+The magic of primes
+For decades, computers have relied on what is called asymmetric cryptographic algorithms to encrypt sensitive information like the messages banks send to transfer money across the world. First developed by the computer scientists Ron Rivest, Adi Shamir, and Leonard Adleman in 1977, this kind of encryption relies on the fact that large prime numbers are
+difficult to factorise
+, even with the computational resources of states. Large prime-number cryptography remains the backbone of most encrypted communications today.
+In essence, asymmetric cryptography involves two p
+assword-protected keys
+—a public key, which users distribute, and a private key, which remains secret. To retrieve information is impossible unless both keys are available.
+Following the 2015 shooting of 14 people in San Bernardino by Syed Rizwan Farook and his wife Tashfeen Malik, Apple told the FBI it had no means to decrypt their locked iPhones. The FBI eventually turned to Azimuth Technologies, an Australian cyber-security firm, which developed tools to
+hack the devices
+.
+These problems were not unique to the United States. Telegram’s founder is said to have been forced to leave Russia for the UAE after he refused to hand over encrypted user details about dissidents from VKontakte, the country’s equivalent of Facebook. Telegram, Durov’s next project, was also
+banned in Russia
+. The restrictions were lifted in 2020, though—possibly because of Telegram’s looser encryption protocols—and the app is now popular with pro-regime groups in Russia.
+Even though Apple also
+faced growing pressure
+from the FBI to introduce a so-called backdoor into its systems, allowing the company to provide access to its devices for law enforcement, the company refused. To do so, Apple argued, would create vulnerabilities that hackers could also use to steal things like bank account details and credit card information.
+The revelations of large-scale espionage by Israeli-made spyware Pegasus, targeting the phones of heads of state, political dissidents and even journalists, led to growing public concerns over privacy. In 2019,
+amid litigation
+between WhatsApp and Pegasus manufacturer NSO, demand for encrypted messaging grew. Even if most people did not have the kinds of information intelligence services were looking for, they feared growing intrusion on their private lives.
+For many in the tech world, resisting state intrusion into their lives was a matter of principle, even ideological conviction. Together with his brother Nikolai—a world-famous Rubik’s Cube prodigy—Pavel had moved to Italy as a child after his father escaped from the Soviet Union. Later, after the collapse of the Soviet Union, the family moved back to St. Petersburg. There, armed with an IBM personal computer, Pavel designed VKontakte at the age of just 21, leading to his confrontation with the Kremlin over data.
+Also read:
+Kolkata is India’s newest, biggest scam zone. Police, YouTubers, mice can’t shut it down
+Governments push back
+In 2020, the Council of the European Union began holding hearings on encryption. It
+issued a resolution
+calling for tech firms to cooperate with law enforcement to combat “terrorism, organised crime, child sexual abuse (particularly its online aspects), as well as a variety of other cybercrime and cyber-enabled crimes”. The call was followed by
+credible reports
+that servers in seven European Union states were hosting much of the world’s child pornographic content, with more than 225,000 sites being detected in 2020 alone.
+The case of pornography wasn’t unique. Large parts of
+international narcotics networks
+had shifted to markets on the so-called DarkWeb, networks which operate on the internet but need secret configurations or passwords to be accessed.
+Law enforcement also became worried about the use of
+social media propaganda platforms
+, including Telegram, to recruit jihadists to the Islamic State, and mobilise supporters for neo-Nazi groups in the West. The storming of Capitol Hill in 2021
+catalysed these fears
+among policymakers.
+Following the European Parliament hearings, some law-enforcement agents proposed using tools like scanning the hash-values of uploaded content to identify child pornography. Each digital file has a unique numerical hash-value, and it is thus possible to detect the same film being uploaded by multiple users.
+For their part,
+tech companies
+pushed back, using two key arguments. First, Signal CEO
+Meredith Walker noted
+, there was no simple tech-fix to remove certain kinds of content without undermining the security of encryption as a whole. Each technological means involved the deliberate introduction of a vulnerability, which was open to misuse by criminals seeking private data.
+Efforts to moderate content, tech companies argued, just didn’t address the enormous quantities of material on the internet. Telegram, to be fair, did try to remove some of the most violent content it hosted, but
+with little success
+. Facebook and Instagram, officials in the
+United States
+recently argued,
+are still awash
+with child pornography.
+The second problem was that targeting encrypted messaging services wouldn’t end the problem. Ever since 2015, jihadist organisations like al-Qaeda and the Islamic State have developed
+proprietary digital technologies
+to mask their activities. Equipped with enormous budgets, narcotics cartels in Mexico had even succeeded in
+creating digital means
+to defeat state-of-the-art technology used by law enforcement in the United States.
+In essence, weakening encryption would make ordinary citizens more vulnerable, while doing little to deter real criminals. As the Buster Hernandez and St. Bernadino cases show, police have often registered success without weakening encryption. In another famous case, the FBI planted fake encrypted phones on a
+gullible criminal cartel
+, using a company it set up for the purpose.
+A moment of decision?
+Following Durov’s arrest, though, these debates are likely to come to a head. French counter-terrorism judges, in one case involving ultra-Left terrorism
+brought to court
+last year, appeared to argue that even using the Tails operating system, or the Tor anonymous browser system, in itself constituted suspicious behaviour. The judge’s remarks extended even to ProtonMail, a highly secure paid alternative to services which harvest user data for advertising.
+Last year, the United Kingdom’s internet regulator delivered a major blow to tech companies, requiring them to mandatorily
+scan client data
+for child pornography. The government appeared to acknowledge it was aware this would undermine end-to-end encryption and admitted it was simply impossible for WhatsApp and Signal to
+conduct such scanning
+. There is no telling, though, what future litigation will lead to.
+The laws over encryption in India, meanwhile, have led companies like WhatsApp to warn they may have to
+terminate their services
+in the country. The impact of such developments remains unclear. Even though many virtual private network companies—which allow users to access websites blocked by regulators—have exited India, their services remain widely used.
+Living in a new online age, the world needs to seriously debate the ethics and norms that ought to guide it. The debate is too serious to be left to government and law enforcement alone. Whatever Pavel Durov’s motives in going to France, he likely deserves our thanks for igniting the discussion.
+Praveen Swami is a contributing editor at ThePrint. He tweets with @praveenswami. Views are personal.
+(Edited by Humra Laeeq)

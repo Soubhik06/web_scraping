@@ -1,0 +1,37 @@
+SOURCE: The Print
+TITLE: Telecom dept’s limited powers, SIM misuse aid digital arrests—Centre pushes for SIM binding in SC
+AUTHOR: Vrinda Tulsian
+DATE: 2026-02-10
+URL: https://theprint.in/judiciary/telecom-depts-limited-powers-sim-misuse-aid-digital-arrests-centre-pushes-for-sim-binding-in-sc/2850633/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+The Centre has informed the Supreme Court that structural gaps in telecom regulation, coupled with limited statutory powers and the design choices of app-based communication platforms have significantly hampered the government’s ability to curb large-scale “digital arrest” scams.
+The disclosures by the Department of Telecommunications (DoT) form part of a suo motu writ petition being heard by the apex court on digital arrest scams, in which fraudsters impersonate police, courts or investigative agencies and coerce victims into transferring money during prolonged video calls.
+In its submission to the Ministry of Home Affairs (MHA) on 2 February, the DoT has underlined that it functions primarily as a regulatory body, not an investigative agency, and therefore, lacks the powers required to independently probe misuse of telecom resources.
+Show Full Article
+“DoT does not have any investigation powers for misuse of telecom resources and cyber frauds, and acts upon information received from law enforcement agencies,” it told the court, arguing that this constraint has limited its ability to take proactive action.
+Heart of the problem
+At the core of the problem, the DoT told the court, is the misuse of SIM cards—through forged KYC, mule SIMs (individuals obtaining SIMs through valid KYC and then sell or hand them over for fraud), bulk corporate connections and illegal SIM boxes—combined with the ability of app-based platforms such as WhatsApp to operate accounts indefinitely even after the original SIM is removed or deactivated.
+The department said that it is in the process of finalising the Telecommunications (User Identification) Rules, 2025, which are expected to be notified within the next two months. These rules will, for the first time, provide a statutory framework for mandatory biometric-based identification of telecom users, enabling effective capping of SIMs per individual across telecom service providers (TSPs).
+It has acknowledged that enforcing SIM caps was difficult due to the lack of cross-TSP visibility and legal restrictions on biometric data collection. “These limitations have now been addressed under Section 3(7) of the Telecommunications Act, 2023,” it said, urging the court to include TSP’s as respondents.
+SIM binding directive
+One of the most contentious interventions flagged by DoT relates to SIM binding for app-based communication platforms, particularly WhatsApp. In submissions, the DoT said criminals operating abroad exploit a “core technical gap”: platforms verify users through a one-time password (OTP) linked to an Indian mobile number, after which the account can continue to operate indefinitely—even if the SIM is removed, deactivated or taken abroad.
+“This allows fraudsters sitting outside India to operate Indian number-based accounts and run continuous video calls with extremely low traceability,” DoT said.
+To plug this loophole, the department issued directions on 28 November 2025 to major app-based communication service providers, asking them to implement SIM binding within 90 days—ensuring the app works only when the original, active SIM is present in the device.
+The directions also mandate auto-logout of web and desktop sessions within six hours, requiring fresh re-authentication. “These directions can break the long, uninterrupted psychological control that digital arrest gangs maintain over victims through never-ending online sessions.”
+Another point that was highlighted involved the persistent non-compliance by WhatsApp with the DoT directions during discussions, an issue that was raised alongside concerns over Voice over Internet Protocol (VoIP) abuse and SIP (Session Initiation Protocol) lines being misused for cybercrime.
+“These directions can play an important role in countering digital arrest cases as they ensure that App-based communication services accounts cannot be freely operated from outside India using only a past OTP,” it said.
+The directives can help improve traceability by tying each active account to a live KYC-verified SIM in a specific device as well as break the uninterrupted psychological control of digital arrest gangs through never-ending online sessions, it said. “An early implementation of these directions will plug in this loophole in the ecosystem.”
+Mule SIMs & PoS agents
+DoT said it has intensified action against SIM boxes, illegal telecom setups that allow mass routing of calls. The Draft Telecommunications (Radio Equipment Possession Authorisation) Rules have been framed and are being finalised. Under these rules, possession of SIM boxes using more than four SIMs will require authorisation.
+Regarding mule SIMs, the DoT said identification largely depends on law enforcement agencies. However, once flagged, immediate disconnection is mandated under DoT’s December 2021 instructions.
+According to data placed before the court, 11.14 lakh SIM cards have been blocked based on police inputs. Additionally, AI-based tools such as ASTR (Artificial Intelligence and Facial Recognition) have led to the disconnection of 86 lakh mobile connections that failed re-verification due to suspected forged or fake documents.
+The department also highlighted action against erring point-of-sale (PoS) agents, who are authorised by telecom firms to enrol customers. As of December 2025, 5,138 PoS agents have been blacklisted, with over 1,100 police complaints and 156 FIRs lodged.
+While the DoT said financial penalties totalling Rs 6,262 crore were imposed on telecom service providers for non-compliant customer application forms (CAF), it admitted that realisation of these amounts has not kept pace, as many cases remain sub judice. It clarified that no victim compensation framework exists under the Telecommunications Act, and that the issue “needs to be examined from a legal perspective”.
+The department also showcased the Digital Intelligence Platform (DIP)—an integrated system connecting DoT, telecom firms, law enforcement agencies, banks, financial institutions and platforms like WhatsApp—to enable real-time information sharing.
+Over 1,050 organisations have been onboarded on DIP, including police forces, banks, payment apps and stock exchanges. However, the DoT acknowledged a key limitation: it currently has no independent investigation powers for misuse of telecom resources and cyber frauds, a gap it said needs to be addressed.
+(Edited by Tony Rai)
+Also Read:
+Telegram, Meta, Google oppose govt proposal for ‘kill switch’ to curb digital arrests. Here’s why

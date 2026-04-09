@@ -1,0 +1,23 @@
+SOURCE: The Print
+TITLE: Greylock-backed Resolve AI raises $35 million in seed funding to help engineers
+AUTHOR: Reuters
+DATE: 2024-10-01
+URL: https://theprint.in/tech/greylock-backed-resolve-ai-raises-35-million-in-seed-funding-to-help-engineers/2292722/
+
+--- ARTICLE TEXT ---
+
+By Krystal Hu
+(Reuters) – Resolve AI, a startup aiming to automate software operations, has raised $35 million in seed funding from investors led by Greylock, as the latest entrants to the space of developing AI-powered tools for software engineers.
+It is the largest check written so far this year by the Silicon Valley venture capital firm that has backed companies such as Airbnb and Meta. Stanford Professor Fei-Fei Li and Google DeepMind’s Chief Scientist Jeff Dean also joined the round.
+Founded earlier this year by Spiros Xanthos, a former Splunk executive, Resolve makes AI tools that can autonomously troubleshoot and fix production issues, reducing “Mean Time to Resolve” and allowing engineers to focus on development tasks.
+Show Full Article
+While most AI engineer tools focus on code generation, Xanthos argues engineers spend much time on operational tasks like on-call duties, troubleshooting, and infrastructure management. These tasks require an understanding of code and specific production environments.
+He said by building proprietary agentic systems, Resolve can autonomously handle alerts and incidents using tools such as AWS and GitHub, without human intervention in most cases.
+“Our goal is to take over stressful and time consuming tasks, and offer the tool that could be much more intelligent and effective,” said Xanthos.
+The startup, self funded in the beginning, has already courted startup clients such as DataStax.
+Xanthos said he plans to use the capital for hiring, aiming to double the current team of 16 people by year end.
+The company is also looking to expand its AI tools to perform more tasks, such as incident prevention and cloud cost optimization.
+“Reimagining software engineering with AI might be the biggest opportunity in generative AI,” said Greylock partner Saam Motamedi, who led the investment.
+“We look for companies where there’s a very clear tie in to hard (return on investment). What Resolve is building is a very quantifiable space, and that’s why they’ve been very quickly able to go out of this (proof of concept) stage into production relationships with customers.”
+(Reporting by Krystal Hu in New York; Editing by Kirsten Donovan)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

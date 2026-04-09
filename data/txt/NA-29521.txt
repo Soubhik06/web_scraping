@@ -1,0 +1,22 @@
+SOURCE: The Print
+TITLE: Phishing link that ‘mimics’ MoD to steal govt data located in Indian cyberspace
+AUTHOR: Neelabh Srivastava
+DATE: 2024-09-05
+URL: https://theprint.in/india/phishing-link-that-mimics-mod-to-steal-govt-data-located-in-indian-cyberspace/2254327/
+
+--- ARTICLE TEXT ---
+
+New Delhi, Sep 5 (PTI) Indian cyber-security agencies have detected a phishing fraud that “mimics” the official website of the Ministry of Defence to “harvest” the log-in credentials of officials to “steal” sensitive government documents.
+An advisory issued this week by the National Informatics Centre (NIC) has identified two phishing links — mod.gov.in.aboutcase.nl/publications.html and mod.gov.in.army.aboutcase.nl/publications.html.
+The communication has been accessed by PTI and it says both the URLs seek NIC-provided log-in credentials of government officials through a fake e-mail that comes attached with a “fake” document titled “Hackers Targeted Defence Personnel in Mass Cyber Attack”.
+Show Full Article
+Once individual credentials like log-in IDs and passwords are punched, the links re-direct the users to a “login-error.html” page.
+“Both the phishing URLs have mirrored the original MoD website (www.mod.gov.in) to lure end users into believing they are legitimate MoD websites,” the communication says.
+The two links are “mimicking” the Department of Defence under the Ministry of Defence and the phishing campaign is primarily aimed at harvesting the NIC credentials of government officials to steal sensitive documents pertaining to the Indian government, the communication says.
+The NIC serves as the backbone of Internet-based government communication.
+A phishing attack is defined as the fraudulent practice of impersonating reputed and official names and identities through e-mails, text messages or phone calls to trick the victims into sharing sensitive personal information like banking and credit card details and login or identity information.
+The advisory has asked government staffers to delete such an e-mail if received in their inbox. In case they click on the links, the advisory tells them to disable the Internet connection on their computers, change passwords and update the operating system.
+It has also asked officials to be aware of suspicious online links and phishing attacks by rejecting e-mails received from untrusted sources and looking for spelling or grammatical errors in such malware-laden mails.
+“Be cautious of links shortened by using Bit.Ly or other link-shortening techniques,” the advisory says.
+A similar phishing attempt mimicking the National Investigation Agency (NIA) was detected in June-July. PTI NES RC
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

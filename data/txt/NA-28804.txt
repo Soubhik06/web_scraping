@@ -1,0 +1,58 @@
+SOURCE: The Print
+TITLE: In a small town in Gujarat, researchers are training AI to detect anaemia, without drawing blood
+AUTHOR: Sneha Richhariya
+DATE: 2026-03-27
+URL: https://theprint.in/health/in-a-small-town-in-gujarat-researchers-are-training-ai-to-detect-anaemia-without-drawing-blood/2889238/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+In Jhagadia, a small tribal block in Gujarat’s Bharuch district, patients visiting the local hospital for routine blood tests are participating in a study that can alter how anaemia is screened across India.
+As part of the ongoing study, a researcher photographs a patient’s lower eyelid with a smartphone and records a 30-second video of their fingertip pressed against the camera lens, to get a sense of the blood flow. The blood test is conducted as usual.
+The images and blood test results are then paired and fed into a machine-learning model that is being trained to detect anaemia, like a blood test does, but without the needle.
+Show Full Article
+The blood draw, at this stage, exists only to teach the AI. Every image is matched with a laboratory haemoglobin value so the model can learn to associate visual patterns in the eye with specific haemoglobin levels. The eventual aim is a point where the blood test is no longer needed for screening at all.
+The study
+protocol
+was published as a preprint in April last year.
+It aims for “potential development of a point of care test to detect anemia using smartphone images of conjunctivae, tongue and nail beds as well as photoplethysmogram (PPG) signals, and comparing their accuracy to a standard laboratory assay, and, a point of care haemoglobin assay”. PPG signal is a light-based measurement that shows blood volume changes.
+The innovation is one of 33 shortlisted from over 150 applications received under the Indian Council of Medical Research-National Institute of Nutrition’s INFUSE (Innovations in Nutrition & Food for Unified Solutions and Empowerment) initiative, which aims to identify and scale technologies to tackle malnutrition and diet-related diseases, researchers at ICMR-NIN told ThePrint.
+These innovations, which span areas such as food technology, nutrition assessment and point-of-care diagnostics, are now being supported for testing, refinement and possible integration into public health programmes.
+Some other ideas include a fermented wheat bran product aimed at improving gut health, a whole-grain rice fortification technique to enhance nutrient intake, and digital tools like “SmartDiet” and “TruthIn” that help assess diets and guide healthier food choices.
+The smartphone-based multimodal AI screening project for anaemia in rural India is led by Society for Education, Welfare and Action–Rural (SEWA Rural). It is being run in collaboration with Google, which contributes engineering and algorithmic expertise, is funded by the Gates Foundation and registered with the Clinical Trials Registry of India.
+The project has so far enrolled around 7,000 participants across age groups, including children, pregnant women, and adult men and women in tribal communities of southern Gujarat.
+Also Read:
+Over 50% of Indian women are anaemic. We need health literacy, support groups: Shabana Azmi
+Anaemia & its detection
+The scale of the problem the study is trying to address is huge.
+Anaemia, a condition where the blood has insufficient haemoglobin, the protein responsible for carrying oxygen through the body, affects between a quarter and a third of the world’s population.
+In India, the National Family Health Survey 2019-21 found anaemia in 57 percent of women of reproductive age and 67 percent of children under five. In tribal communities, where this study is based, prevalence ranges from 78 to 96 percent.
+Diagnosing anaemia currently requires a blood test. In rural India, that means equipment, trained personnel, and reagents, none of which are reliably available at the community level. As a result, large sections of the population go unscreened and undiagnosed. A smartphone-based screening tool, requiring no consumables and no specialised training, could change who gets tested and how often.
+“Almost every second woman is anaemic in India,” said Dr Raghu Pullakhandam, scientist and head of department, Drug Safety Division, at ICMR-NIN, and one of the study’s authors.
+The central government had launched the Anaemia Mukt Bharat campaign in 2018 to address this, with community-level screening using digital and point-of-care diagnostic tools as one of the key interventions.
+Yet, alternatives to the standard blood test remain limited. Clinical examination of the eyes, tongue, or fingernails for pallor has poor sensitivity as a diagnostic method.
+“Point-of-care fingerstick devices exist but require blood sampling, carry device and reagent costs, and have shown inconsistent accuracy in field conditions,” Dr Pullakhandam told ThePrint.
+He added that existing research has explored non-invasive ways to detect anaemia without blood tests. Techniques include spectrophotometry and PPG, which measure blood characteristics using light.
+With smartphones increasingly used in low-resource settings, studies have tested whether their cameras can detect anaemia. Some methods capture PPG signals by measuring light reflectance or transmittance through the fingernail bed, while others use algorithms to detect pallor in body parts as a sign of low haemoglobin.
+“While accuracy of some of the smartphone-based methods has been promising, none have progressed to more rigorous evaluation or regulatory approval, and none are in widespread use,” the authors said in the study preprint.
+How AI model is being trained
+The clinical basis for the approach is not new. Doctors have long checked the conjunctiva, the inner lining of the lower eyelid, to see if it looks pale, which can be a sign of anaemia.
+When haemoglobin levels drop, less oxygen-rich blood reaches the tissues, causing the conjunctiva to lose its normal pink colour. However, the human eye is not always reliable at detecting this change.
+According to the study protocol, the model is built by training machine learning algorithms on paired smartphone data and lab-confirmed haemoglobin values. Researchers photograph the eye, tongue and fingernails, and record PPG signals using the fingertip.
+The blood test haemoglobin value serves as the standard to check whether the model’s predictions are accurate.
+The researchers have not built a new AI model from the ground up, as this would require a much larger dataset. Instead, they are using existing image-recognition models that have already been trained on general tasks and adapting them for anaemia detection. This is essentially fine-tuning.
+In addition, they are using advanced models that convert images into meaningful patterns or features, which can then be linked to haemoglobin levels.
+To compare performance, they also test simpler methods—such as analysing the redness of specific areas like the eye, tongue, or fingernails—and use these measurements to predict haemoglobin levels.
+“The model currently achieves 75 to 80% sensitivity and specificity. For a screening tool, at this stage, the results are promising,” said Dr Pullakhandam. “But we are trying to improve. We wanted to take it to something like 90%.”
+Testing to expand to multiple states
+The study is now moving into multi-centric validation, testing the model across multiple sites and diverse populations to check whether it holds up beyond the controlled conditions. The project innovators plan to run this phase across several states, in field settings rather than clinical ones.
+“A minimum sample size of 2,322 participants is required for the validation to be statistically meaningful,” the authors wrote in the study preprint.
+The researchers expect to publish the study results within a year if the model performs as expected.
+Dr Pullakhandam said that if it does, the intended product is a downloadable smartphone application.
+An ASHA worker, the frontline community health volunteer who is often the only health contact for remote rural households, would photograph the conjunctiva, and the app would classify the patient as normal, mildly, moderately, or severely anaemic and guide the next steps.
+On data ownership and privacy, Dr Pullakhandam said the data will remain with Indian institutions. “Patient images are de-identified before being shared with Google’s engineering team, with each participant assigned a unique ID,” he said.
+The team also plans to make the anonymised dataset available to external researchers under a data-sharing agreement, so that other groups can attempt to build or improve upon models using the same evidence base.
+“We carefully and responsibly collected high-quality data. This data is being used to develop and evaluate the AI model by partners. The AI model will be further refined using a larger dataset from other parts of the country in the coming months. We are hopeful that the AI model and dataset will help millions of our citizens,” Dr Shrey Desai, Director of Research at SEWA Rural, Jhagadia, Gujarat, told ThePrint.
+(Edited by Nida Fatima Siddiqui)
+Also Read:
+Anaemia in India has a caste angle. That’s where new Modi govt scheme can help

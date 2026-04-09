@@ -1,0 +1,24 @@
+SOURCE: The Print
+TITLE: ‘Daam’ virus steals call records, reads history from Android phones; central agency issues advisory
+AUTHOR: PTI
+DATE: 2023-05-26
+URL: https://theprint.in/india/daam-virus-steals-call-records-reads-history-from-android-phones-central-agency-issues-advisory/1595990/
+
+--- ARTICLE TEXT ---
+
+New Delhi, May 26 (PTI) An Android malware called ‘Daam’ that infects mobile phones and hacks into sensitive data like call records, contacts, history and camera has been found to be spreading, the national cyber security agency has said in its latest advisory.
+The virus is also capable of “bypassing anti-virus programs and deploying ransomware on the targeted devices”, the Indian Computer Emergency Response Team or CERT-In said.
+The agency is the federal technology arm to combat cyber attacks and guard the cyber space against phishing and hacking assaults and similar online attacks.
+Show Full Article
+The Android botnet gets distributed through third-party websites or applications downloaded from untrusted/unknown sources, the agency said.
+“Once it is placed in the device, the malware tries to bypass the security check of the device and after a successful attempt, it attempts to steal sensitive data, and permissions such as reading history and bookmarks, killing background processing, and reading call logs etc,” the advisory said.
+‘Daam’ is also capable of hacking phone call recordings, contacts, gaining access to camera, modifying device passwords, capturing screenshots, stealing SMSes, downloading/uploading files, etc. and transmitting to the C2 (command-and-control) server from the victim’s (affected persons) device, the advisory said.
+The malware, it said, utilises the AES (advanced encryption standard) encryption algorithm to code files in the victim’s device.
+Other files are then deleted from the local storage, leaving only the encrypted files with “.enc” extension and a ransom note that says “readme_now.txt”, the advisory said.
+The central agency suggested a number of do’s and don’ts to avoid getting attacked by such viruses and malware.
+The Cert-In advised against browsing “un-trusted websites” or clicking on “un-trusted links”. Caution should be exercised while clicking on any link provided in unsolicited emails and SMSes, it said. Install and maintain updated anti-virus and anti-spyware software, it suggested.
+It also suggested that users should be on the lookout for “suspicious numbers” that don’t look like “real mobile phone numbers” as scammers often mask their identity by using email-to-text services to avoid revealing their actual phone number.
+“Genuine SMS messages received from banks usually contain sender ID (consisting of bank’s short name) instead of a phone number in the sender information field,” it said.
+It also asked users to exercise caution towards shortened URLs (uniform resource locators), such as those involving ‘bitly’ and ‘tinyurl’ hyperlinks like: “http://bit.ly/” “nbit.ly” and “tinyurl.com/”.
+Users are advised to hover their cursors over the shortened URLs to see the full website domain which they are visiting or use a URL checker that will allow the user to enter a short URL and view the full URL, the advisory suggested. PTI NES SKY
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

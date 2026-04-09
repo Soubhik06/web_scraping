@@ -1,0 +1,31 @@
+SOURCE: The Print
+TITLE: EquiLend hack raised costs as traders flew blind, sources say
+AUTHOR: Reuters
+DATE: 2024-02-26
+URL: https://theprint.in/tech/equilend-hack-raised-costs-as-traders-flew-blind-sources-say/1979827/
+
+--- ARTICLE TEXT ---
+
+By Laura Matthews
+NEW YORK (Reuters) – A ransomware attack last month on EquiLend, a little-known market utility, left Wall Street briefly in the dark on trading risks, raising capital costs for banks, two sources familiar with the matter said.
+EquiLend, partly owned by some of the biggest banks, is the primary platform for traders looking to borrow securities like shares, a key step in short bets, or trades that profit when prices fall.
+It also provides post-trade services, such as regulatory reporting in the securities finance industry. The two industry sources estimated that about 40% of the market used EquiLend’s post-trade services.
+Show Full Article
+EquiLend said the ransomware attack blacked out its systems on Jan. 22, and that it took the company until Feb. 5 to restore client-facing functions.
+The outage caused disruptions through the market, said the sources who have direct knowledge of the attack’s fallout, providing new details about the problems it created for financial firms and how they dealt with it.
+Without access to EquiLend’s electronic trading systems, which handle $2.4 trillion worth of transactions a month, traders could not necessarily see who they had struck deals with. That meant banks could not properly allocate capital against those trades, raising the cost of those transactions, the sources said.
+EquiLend did not respond to requests for comment.
+The trading costs and other market disruption, including the need for manual trading and issues with post-trade reporting, underscore the risks of concentration in the market.
+With the disruption coming on the heels of ransomware attacks on ION and ICBC, where services in the derivatives clearing and U.S. Treasury market were affected, it also shows how cyber attacks can gum up different parts of the industry at any time.
+Industry executives expect regulators to take a closer look at third-party firms providing financial markets with critical infrastructure for their businesses, and for regulators to look for more robust back-up plans to ensure business keeps running in such cases.
+“Ensuring that firms have plans that can limit the impact of an outage like this offer greater value to the industry than focusing on trying to lower the likelihood of one of these events,” said Scott Lamont, managing director at F2 Strategy, a boutique consultancy.
+A U.S. Securities Exchange and Commission spokesperson said the regulator is “regularly in touch with the industry about risks to investors and the capital markets, including cybersecurity.”
+A spokesperson for the UK’s Financial Conduct Authority said it is aware of the impact the EquiLend hack is having on some firms’ ability to meet their reporting requirements.
+TRADING PLATFORM
+When a trader borrows securities, they can come from several different owners. EquiLend’s agency lending disclosure system gives the trader information about those lending counterparties, a key component of risk calculations.
+Typically institutions like custodians that act as intermediaries use the EquiLend agency lending system.
+The hack took the system offline, leaving traders in the dark about their counterparties.
+One of the sources, who is based in the United States, said without the counterparty information, the trade becomes much more expensive for the bank as they have to set aside more capital to account for the risk.
+The European source said that led to a pick up in “name give up” trades, where the intermediary providing the securities disclosed the name of the lenders upfront.
+(Reporting by Laura Matthews; editing by Paritosh Bansal and Bill Berkrot)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

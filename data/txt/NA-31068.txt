@@ -1,0 +1,27 @@
+SOURCE: The Print
+TITLE: NPCI re-establishes connectivity with C-Edge after ransomware attack
+AUTHOR: PTI
+DATE: 2024-08-01
+URL: https://theprint.in/economy/npci-re-establishes-connectivity-with-c-edge-after-ransomware-attack/2203404/
+
+--- ARTICLE TEXT ---
+
+Mumbai, Aug 1 (PTI) In a relief to customers of around 300 lenders, the NPCI on Thursday re-established connectivity with the ransomware attack-infected C-Edge Technologies’ systems, allowing the account holders to undertake transactions like ATM withdrawals or UPI payments.
+Customers at some of the impacted Regional Rural Banks and cooperative banks faced an outage since Monday in key payment-related services like fund transfers using the NEFT or UPI route or also ATM withdrawals as a result of C-Edge — a joint venture between TCS and SBI — facing a ransomware attack.
+The connection has been re-established following a security review by an independent forensic auditing firm, NPCI said in a statement posted on the microblogging site X, adding services dependent on C-Edge have been restored as a result of the same.
+Show Full Article
+“Investigation confirms that the impacted systems have been isolated by C-Edge to contain potential spread of the ransomware,” the NPCI statement said, adding scans and security review have been conducted by the auditor to ensure that the rest of the infrastructure is “clean”.
+The NPCI also made it clear that the impact of the attack was limited to C-edge systems hosted in their own data centre and not on any of the cooperative banks or RRBs’ own infrastructure.
+The re-established connectivity will ensure that the banks are able to offer full range of services to their customers as before.
+Cybersecurity company CloudSEK said the attack has been carried out by Ransomexx group and primarily impacted Brontoo Technology Solutions, a key collaborator with C-Edge.
+Rajkot Commercial Cooperative Bank’s chief executive Purushottam Pipaliya had earlier in the day said that efforts were on to restore the system and the software will be made operational once all issues are resolved successfully.
+The ransomware breached systems at SBI and TCS-promoted C-Edge Technologies and the NPCI isolated the system from the rest of the payment network since Monday to ensure the problems do not get spilled into other parts of the network.
+Most of the 300 affected entities are cooperative lenders and Regional Rural Banks which depend on C-Edge platform for helping their customers access payments services like fund transfer, cash withdrawals at ATMs and also UPI.
+Experts said that usually, a miscreant who has been successful in breaching defences might ask for a ransom to allow easy access to the data, but added that banks have sufficient backups due to which they may avoid paying the ransom and also ensure smooth continuity in services.
+CloudSEK said Ransomexx, which has targeted government agencies, healthcare providers, and multinational corporations in the past, is known for targeting large organizations with substantial ransom demands.
+Meanwhile, in an advisory issued on Tuesday, the National Bank for Agriculture and Rural Development (Nabard) said that an application service provider which offers core banking and digital payment services to its supervised entities witnessed the incident.
+The advisory reviewed by PTI asked supervised entities to remain vigilant, report any suspicious activity and ensure that up to date reconciliation of the digital payments transactions on a daily basis.
+On Wednesday, a senior official had said that there has not been any report of a financial loss due to the ransomware attack and added that the banks where customers are not able to access the digital services account for less than 1 per cent of the overall payment volumes in the system.
+There has been no word from C-Edge Technologies since the matter came to light. The company’s website also seems to be taken down as it remained inaccessible on Thursday. When it was live, the company website called C-Edge as a software as a service platform which will act as a technology backbone for banks and help them focus on the business.
+“The solutions and services provided by us have a strong domain and technology focus that assists all our clients to maximise the value of their IT spend, reduce transaction costs and enhance customer satisfaction,” it said. PTI AA PJT PD HVA
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

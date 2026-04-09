@@ -1,0 +1,30 @@
+SOURCE: The Print
+TITLE: Trump campaign’s Iranian hackers have dangerous history and deep expertise
+AUTHOR: Reuters
+DATE: 2024-08-23
+URL: https://theprint.in/world/trump-campaigns-iranian-hackers-have-dangerous-history-and-deep-expertise/2235368/
+
+--- ARTICLE TEXT ---
+
+By Christopher Bing and Gram Slattery
+(Reuters) – The Iranian hacking team that compromised the campaign of Republican presidential candidate Donald Trump is known for placing surveillance software on the mobile phones of its victims, enabling them to record calls, steal texts and silently turn on cameras and microphones, according to researchers and experts who follow the group.
+Known as APT42 or CharmingKitten by the cybersecurity research community, the accused Iranian hackers are widely believed to be associated with an intelligence division inside Iran’s military, known as the Intelligence Organization of the Islamic Revolutionary Guard Corps or IRGC-IO. Their appearance in the U.S. election is noteworthy, sources told Reuters, because of their invasive espionage approach against high-value targets in Washington and Israel.
+“What makes (APT42) incredibly dangerous is this idea that they are an organization that has a history of physically targeting people of interest,” said John Hultquist, chief analyst with U.S. cybersecurity firm Mandiant, who referenced past research that found the group surveilling the cell phones of Iranian activists and protesters. Some of them were imprisoned or physically threatened in the country shortly after being hacked.
+Show Full Article
+A spokesperson for Iran’s permanent mission to the United Nations in New York said in an email that “the Iranian government neither possesses nor harbors any intent or motive to interfere in the United States presidential election.”
+Spokespeople for Trump have said that Iran is targeting the former president and current Republican candidate because they disfavor his policies toward Tehran.
+HIGHLY TARGETED
+The APT42 crew that targeted Trump has never been formally named in U.S. law enforcement indictments or criminal charges, leaving questions about their structure and identity. But experts believe they represent a significant threat.
+“The IRGC-IO is entrusted with collecting intelligence to defend and advance the interests of the Islamic Republic,” said Levi Gundert, chief security officer for U.S. cyber intelligence firm Recorded Future and a former Secret Service special agent. “Along with the Quds Force, they are the most powerful security and intelligence entities inside Iran.”
+In March, Recorded Future analysts discovered hacking attempts by APT42 against a U.S.-based media group named Iran International, which British authorities previously said were the target of physical violence and terror threats by Iranian-linked agents.
+Hultquist said the hackers commonly use mobile malware that allows them to “record phone calls, room audio recordings, pilfer SMS (text) inboxes, take images off of a machine,” and gather geolocation data.
+In recent months, Trump campaign officials sent a message to employees warning them to be diligent about information security, according to one person familiar with the message. The message warned that cell phones were no more secure than other devices and represented an important point of vulnerability, said the person, who requested anonymity as he was not permitted to speak to the media.
+The Trump campaign did not respond to a request for comment. The FBI and the Office of the Director of National intelligence both declined to comment.
+The Secret Service did not answer questions about whether the Iranian hacking activity could be intended to support physical attacks planned for the future. In a statement sent to Reuters, a Secret Service spokesperson said they work closely with intelligence community partners to ensure the “highest level of safety and security” but could not discuss matters “related to protective intelligence.”
+APT42 also commonly impersonates journalists and Washington think tanks in complex, email-based social engineering operations that aim to lure their targeting into opening booby-trapped messages, which let them takeover systems.
+The group’s “credential phishing campaigns are highly targeted and well-researched; the group typically targets a small number of individuals,” said Josh Miller, a threat analyst with email security company Proofpoint. They often target anti-Iran activists, reporters with access to sources inside Iran, Middle Eastern academics and foreign-policy advisers. This has included the hacking of western government officials and American defense contractors.
+For example, in 2018, the hackers targeted nuclear workers and U.S. Treasury department officials around the time the United States formally withdrew from the Joint Comprehensive Plan of Action (JCPOA), said Allison Wikoff, a senior cyber intelligence analyst with professional services company PricewaterhouseCoopers.
+The public emergence of APT42 in the ongoing presidential race began earlier this month following a report by Microsoft on Aug. 9, which said the group was attempting to hack staffers on an unnamed presidential campaign.
+APT42 is still actively targeting campaign officials and former Trump administration figures critical of Iran, according to a blog post by Google’s cybersecurity research team.
+(Reporting by Christopher Bing and Gram Slattery in Washington; Editing by Chris Sanders and Matthew Lewis)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

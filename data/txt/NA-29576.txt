@@ -1,0 +1,22 @@
+SOURCE: The Print
+TITLE: Cyber alert issued against ‘Royal’ ransomware that attacks health, education sectors
+AUTHOR: Neelabh Srivastava
+DATE: 2023-05-04
+URL: https://theprint.in/india/cyber-alert-issued-against-royal-ransomware-that-attacks-health-education-sectors/1555088/
+
+--- ARTICLE TEXT ---
+
+New Delhi, May 4 (PTI) The Indian cyber security agency has issued a warning against “Royal ransomware” virus that attacks critical sectors like communications, healthcare, education and even individuals and seeks pay-off in Bitcoins for not leaking personal data in the public domain.
+The Indian Computer Emergency Response Team or CERT-In has stated in a latest advisory that this Internet spread ransomware sneaks in through phishing emails, malicious downloads, abusing RDP (remote desktop protocol) and other forms of social engineering.  This ransomware, cyber experts told PTI, was first detected in January 2022 and it got active sometime around September last year even as the US authorities issued advisories against its spread.
+“Royal ransomware is targeting multiple crucial infrastructure sectors, including manufacturing, communications, healthcare, education, etc. or individuals. The ransomware encrypts the files on a victim’s system and attackers ask for ransom payment in bitcoin,” the advisory said.
+Show Full Article
+“Attackers also threaten to leak the data in public domain if denied payment,” the advisory said.
+The CERT-In is the federal technology arm to combat cyber attacks and guard the cyber space against phishing and hacking assaults and similar online attacks.
+The advisory said the “threat actors have followed many tactics to mislead victims into installing the remote access software as a part of callback phishing, where they pretend to be various service providers.” The ransomware infects “using a specific approach to encrypt files depending on the size of the content.” “It will divide the content into two segments i.e. encrypted and unencrypted. The malware may choose a small amount of data from a large file to encrypt so as to increase the chances of avoiding caution or detection. It adds 532 bytes at the end of encrypted file for writing randomly generated encrypted key, file size of encrypted file and encryption percentages parameter,” the CERT-In said.
+The lethality of this virus can be gauged from the fact that before starting encryption of the data it attacks, the ransomware checks the state of targeted files and deletes shadow copies to “prevent recovery” through service.  After intruding into network, the malware tries to make persistence and lateral movement in the network. Even after getting access of domain controller, the ransomware disables anti-virus protocols. Moreover, the ransomware exfiltrates a large amount of data before encryption, the advisory said.
+It has been observed, it said, that ‘Royal ransomware’ does not share information like the ransom amount, any instructions, etc. on a note like other ransomware, instead it connects with the victim directly via a .onion URL route (darkweb browser).
+The agency has suggested some counter-measures and Internet hygiene protocols to guard from this ransomware attack and others like it.
+Maintain offline backup of data, and regularly maintain backup and restoration as this practice will ensure the organisation will not be severely interrupted and have irretrievable data.
+It is also recommended to have all backup data encrypted, immutable (i.e., cannot be altered or deleted) covering the entire organisation’s data infrastructure, it said.
+The users should enable protected files in the Windows Operating System to prevent unauthorised changes to critical files and they should disable remote desktop connections, employ least-privileged accounts and limit users who can log in using remote desktop part from setting an account lockout policy.  A number of other best practices have been suggested by the agency, including basic ones like having an updated anti-virus in the computer systems and not clicking on unsolicited emails from unknown links. PTI NES  DV
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

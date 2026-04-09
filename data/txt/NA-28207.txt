@@ -1,0 +1,45 @@
+SOURCE: The Print
+TITLE: SIM binding: What India’s new mandate means for your WhatsApp & why big tech is pushing back
+AUTHOR: Vrinda Tulsian
+DATE: 2026-03-05
+URL: https://theprint.in/india/sim-binding-what-indias-new-mandate-means-for-your-whatsapp-why-big-tech-is-pushing-back/2869362/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+On 28 November last year, the Department of Telecommunications (DoT) issued a directive that went largely unnoticed by India’s 900-million-plus internet users.It gave messaging platforms—WhatsApp, Telegram, Signal, Snapchat and several others—90 days to bind their services to the physical SIM card inside a user’s primary phone. The deadline passed on 28 February. The mandate is now in force.
+The rules, issued under the Telecommunications (Telecom Cyber Security) Amendment Rules, 2025, require app-based communication services to ensure their platforms function only when the registered, KYC-verified SIM card is present and active in the user’s device.
+For secondary access — WhatsApp Web on a laptop, say, or Telegram on a tablet — sessions must automatically log out every six hours, after which users can reconnect only by scanning a QR code on their phone. Users roaming abroad will not be affected as long as the SIM remains active in the device.
+Show Full Article
+The compliance window has closed. Companies must submit detailed compliance reports by 28 March.
+When an individual installs WhatsApp on a new phone, the app sends a one-time password to the registered mobile number. Upon entering the OTP, the app verifies the number, and that is where the verification ends. From that point, WhatsApp does not check whether the SIM is still in the device. An individual can remove the SIM, travel abroad, or log in from a laptop—the app continues to work.
+SIM binding changes this. Under the new rules, the app must continuously verify that the original, KYC-verified SIM card is present and active in the device. If the SIM is removed or deactivated, the service stops. For web and desktop versions—where a SIM check is physically impossible—sessions must auto-terminate every six hours, requiring users to re-authenticate via their SIM-bearing phone.
+What govt says
+In its submission to the Ministry of Home Affairs status report filed before the Supreme Court on 9 February, the DoT described in detail the technical architecture it says enables “digital arrest” scams—in which criminals impersonating law enforcement officials keep victims under continuous video surveillance and coerce them into transferring money.
+The DoT told the court that a criminal sitting outside India can obtain an OTP on an Indian number, activate a WhatsApp account, and then operate it from abroad indefinitely—appearing to the victim to be calling from India.
+Long-lived web and desktop sessions make this worse, the DoT said, because once authenticated, a session remains active without the SIM, allowing scammers in foreign “scam compounds” to run uninterrupted video calls “with extremely low traceability.” SIM binding, the government argued, would improve traceability by tying each active account to a live, KYC-verified SIM, and break the “long, uninterrupted psychological control” that digital arrest gangs maintain over victims.
+At a press interaction on 26 February, Communications Minister Jyotiraditya Scindia called the SIM-binding regulation a “need of the day”. When asked whether the six-hour logout window might be relaxed, he said, “As of now, there’s no thought on an extension.”
+On the broader question of industry resistance, he drew a sharp distinction: “There are some issues which are national security issues, and there are some issues which are revenue implication issues. On national security issues, there can be no compromise.”
+In March last year, Minister of State for Home Affairs Bandi Sanjay Kumar told the Rajya Sabha that 39,925 cases of digital arrest scams and related cybercrimes, involving losses of Rs 91.14 crore, were reported on the National Cybercrime Reporting Portal in 2022. By 2024, the reported cases had more than tripled to Rs 1,23,672, while the amount defrauded surged over 21 times to Rs 1,935.51 crore.
+Last month, the Supreme Court termed the siphoning of over “Rs 54,000 crore” through digital arrests as nothing short of “robbery or dacoity” and directed the Centre to formulate a SOP to tackle such offences.
+Also Read:
+3 months past deadline, India’s waqf mapping is only at 44%. Umeed portal is ‘stressing’ out staff
+The pushback
+The Broadband India Forum, which represents Meta, Google and other major platforms, wrote to DoT Secretary Amit Agrawal on 23 February— five days before the deadline — attaching a senior counsel’s legal opinion. The opinion termed the SIM-binding direction “ultra vires the parent legislation” and “unconstitutional,” arguing that the 2025 Rules, exceed the authority granted by the parent Telecommunications Act of 2023.
+The legal argument turns on a specific question of jurisdiction. The industry body argued that an application-level reference to a mobile number by a messaging service is “derivative” and does not fall under the purview of telecom services as envisaged by the Act — in other words, that WhatsApp using a phone number to verify an account is categorically different from a telecom operator providing connectivity, and that DoT has no legal basis to regulate the former.
+The government’s position, stated through officials, is that the rules were framed after public consultation and that the security imperative overrides jurisdictional quibbling.
+What it means in practice
+Shobhit Chandra, counsel in the TMT and Privacy & Data Protection Practice Group at Khaitan & Co, acknowledged the government’s intent on the security aspect.
+While the objective of addressing financial security breaches and digital arrest scams is understandable, he said, the SIM-binding requirement may be difficult to implement in the short term.
+“Industries will have to create infrastructure that enables automatic logouts every few hours,” he said. “India is one of the first places to attempt this at such a scale, and we don’t yet know whether it will work or create additional user-experience issues.” Users, he added, are not accustomed to such frequent authentication cycles and sudden session terminations.
+He also raised questions about cross-border use. “How will this operate when a person is travelling abroad, using Wi-Fi or mobile data, or switching SIM cards?” he asked, noting that the lack of precedent makes both enforcement and seamless access uncertain.
+Will it actually work
+Dhruv Garg, a lawyer specialising in tech policy and partner at the Indian Governance and Policy Project, argued that from a user’s perspective, SIM binding could introduce significant friction without clear evidence that it would effectively curb fraud.
+“Many users today operate across multiple devices — for instance, using WhatsApp Web alongside their phones. Tightly binding services to a single SIM could disrupt these workflows and create inconvenience,” Garg said.
+“This may play out in two ways: either users continue to endure the friction, or they migrate to platforms that do not require phone numbers at all — which could be even more dangerous, as anonymity can make fraud and scams easier.”
+He argued that there is currently no robust fraud-risk assessment demonstrating that SIM binding would meaningfully address the problem it seeks to solve. “While the government’s intent may be well-meaning, there are insufficient use cases to establish that SIM binding will definitively reduce fraud to an extent that justifies the added user cost.”
+The evidentiary gap, he said, matters because the fraud landscape has shifted. “Fraudsters are increasingly leveraging AI-driven tools, and in several cases, scams originate from foreign SIMs. In such scenarios, SIM binding may have limited impact,” Garg added.
+A policy designed to close a SIM-removal loophole may find itself outpaced by fraudsters who have already moved on to other methods, he explained.
+(Edited by Tony Rai)
+Also Read:
+India has currently blocked at least 43,000 domains. New study shows scale for the first time

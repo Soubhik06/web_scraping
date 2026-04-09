@@ -1,0 +1,63 @@
+SOURCE: The Print
+TITLE: 3 trends that’ll influence cyberattacks & ransomware in 2024
+AUTHOR: Scott Sayce
+DATE: 2024-02-24
+URL: https://theprint.in/tech/3-trends-thatll-influence-cyberattacks-ransomware-in-2024/1977627/
+
+--- ARTICLE TEXT ---
+
+F
+ollowing two years of high but stable activity, 2023 has seen a worrying resurgence in ransomware and extortion losses, as the cyberthreat landscape continues to evolve. Hackers are increasingly targeting IT and physical supply chains, launching mass cyberattacks, and finding new ways to extort money from businesses, large and small. It’s little wonder that our customers and clients rank cyber risk as their top concern in the annual
+Allianz Risk Barometer
+survey.
+Ransomware activity alone was up 50% year-on-year during the first half of 2023 with so-called
+Ransomware-as-a-Service (RaaS)
+kits, where prices start from as little as $40, a key driver in the frequency of attacks. Gangs are also carrying out more attacks faster, with the average number of days taken to execute one falling
+from around 60 days in 2019 to four
+. Most ransomware attacks now involve the theft of personal or sensitive commercial data for the purpose of extortion, increasing the cost and complexity of incidents, as well as bringing greater potential for reputational damage. Our analysis of large cyber losses (€1 million+) in recent years shows that the number of cases in which data is exfiltrated is increasing – doubling from 40% in 2019 to almost 80% in 2022, with activity in 2023 tracking even higher.
+Protecting an organization against intrusion therefore is a cat and mouse game, in which the cybercriminals have the advantage. Threat actors are now exploring ways to use artificial intelligence (AI) to automate and accelerate attacks, creating more effective malware and phishing. Combined with the explosion in connected mobile devices and
+5G-enabled internet of things (IoT
+), the avenues for cyberattacks look only likely to increase in future.
+Show Full Article
+Successful ransomware attacks targeting data are on the rise. Image: Allianz
+Our global team of risk engineers regularly monitors the cyber landscape, assisting companies with mitigating emerging risks. Future threats currently on our radar include:
+1.
+The power of AI
+Threat actors are already using AI-powered language models like
+ChatGPT to write code.
+Generative AI can help less proficient threat actors create new strains and variations of existing ransomware, potentially increasing the number of attacks they can execute. We expect an increased utilization of AI by malicious actors in the future, necessitating even stronger cybersecurity measures.
+Voice simulation software has already become a powerful addition to the cybercriminal’s arsenal. There was the case of the
+CEO of a British energy provider transferring around $250,000 to a scammer
+after they received a call from what they thought was the head of the unit’s parent company, asking them to wire money to a supplier. The voice was generated using AI. Deepfake video technology designed and sold for phishing frauds can also now be found online, for prices as low as $20 per minute.
+It is not all bad news though. We might see more AI-enabled incidents in the future, but investment in detection backed by AI should also help to catch more incidents earlier.
+2.
+Mobile devices expose personal and corporate data
+Lax security and the mixing of personal and corporate data on mobile devices, including smartphones, tablets and laptops, is an attractive combination for cybercriminals. During the pandemic, many organizations enabled new ways of accessing their corporate network via private devices, without the need for
+multi-factor authentication (MFA)
+. This also resulted in a number of successful cyberattacks and large insurance claims.
+Criminals are now targeting mobile devices with specific malware to gain remote access, steal login credentials, or to deploy ransomware. Personal devices tend to have less stringent security measures. Utilizing public wi-fi on such devices can increase their vulnerability, including exposure to phishing attacks via social media.
+The rollout of 5G
+technology is also an area of potential concern if not managed appropriately, given it will power even more connected devices, including sophisticated applications – from driverless cars to smart cities. However, many IoT devices do not have a good record when it comes to cybersecurity, are easily discoverable, and will not have MFA mechanisms, which, together with the addition of AI, presents a serious cyberthreat. Even today, we see devices with default passwords that are available on the internet.
+Most cyberattacks are the result of poor security letting in external threat actors. Image: Allianz
+3.
+Cybersecurity skills shortage
+A growing shortage of professionals will increasingly complicate cybersecurity efforts. The current global cybersecurity workforce gap stands at
+more than 3 million people
+, with demand growing twice as fast as supply.
+Gartner predicts
+that a lack of talent or human failure will be responsible for over half of significant cyber incidents by 2025.
+In short, because technology is moving so fast, there are not enough experienced people to keep pace with the threats. It’s very hard to get good cybersecurity engineers, which means companies are more exposed to cyber events. Without skilled personnel, it is more difficult to predict and prevent incidents, which could mean more losses in the future. The shortage of cybersecurity experts also impacts the cost of an incident. Organizations with a high level of security skills shortage had a $5.36 million average data breach cost, around 20% higher than the actual average cost, according to the
+IBM
+Cost of a Data Breach Report
+2023
+.
+The importance of early detection
+Preventing a cyberattack is becoming harder, and the stakes are higher. As a result, early detection and response capabilities and tools are becoming ever more important. If you have an undetected loophole in your network, it is a potential Achilles heel. And if you do not have effective early detection tools, it can lead to longer unplanned downtime, increased costs and have a greater impact on customers, revenue, profitability, as well as your reputation.
+The lion’s share of IT security budgets is currently spent on prevention with around 35% directed to detection and response. However, if undetected, an intrusion can quickly escalate, and once data is encrypted and/or stolen, the costs snowball – as much as 1,000 times higher than if an incident is not detected and contained early; the difference between a
+€20,000 loss turning into a €20m one.
+Looking forward,
+detection tools
+will be the next logical step for most companies to invest in. Ultimately, early detection and effective response capabilities will be key to mitigating the impact of cyberattacks, as well as ensuring a sustainable cyberinsurance market going forward.
+This
+article
+previously appeared in the World Economic Forum.

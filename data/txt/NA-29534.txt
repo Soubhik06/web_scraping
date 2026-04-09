@@ -1,0 +1,22 @@
+SOURCE: The Print
+TITLE: CERT-In says global outage being leveraged to launch phishing attacks against CrowdStrike users
+AUTHOR: Neelabh Srivastava
+DATE: 2024-07-28
+URL: https://theprint.in/india/cert-in-says-global-outage-being-leveraged-to-launch-phishing-attacks-against-crowdstrike-users/2195206/
+
+--- ARTICLE TEXT ---
+
+New Delhi, Jul 28 (PTI) The Indian cyber security agency has said a phishing attack campaign has targeted users impacted by the recent global computer outage, with attackers impersonating CrowdStrike support staff to trick people by offering to help them with system recovery tools.
+According to a CERT-In advisory issued on Saturday said, these attack campaigns could “entice an unsuspected user to install unidentified malware, which could lead to sensitive data leakage, system crashes and data leak.” The world suffered a major computer systems outage on July 19 due to a faulty update to the CrowdStrike Falcon Sensor software leading to crash of Microsoft Windows operating system. The event grounded numerous flights, hit business, banking and hospital systems across the globe including in India.
+The systems have now recovered as both CrowdStrike and Microsoft released official fixes even as some organisations continue to recover from the mega technology meltdown.
+Show Full Article
+It has been reported, the advisory said, that there are reports of an ongoing “phishing campaign” targeting CrowdStrike users leveraging this (global tech outage) issue to conduct “malicious” activities.
+The attackers are sending phishing emails posing as CrowdStrike support to customers through phone calls. They sell software scripts purporting to automate recovery from the content update issue, it said.
+The phishing attackers also are distributing ‘Trojan’ malware pretending as recovery tools and these attack campaigns could entice an unsuspected user to install unidentified malware, which could lead to sensitive data leakage, system crashes and data loss, the CERT-In cautioned.
+A phishing attack is defined as the fraudulent practice of impersonating reputed and official names and identities through email, text messages or phone calls to trick the victim into sharing personal sensitive information like banking and credit card details and login or identity information.
+The CERT-In is the federal technology agency to combat cyber attacks and guard the online space against phishing and hacking attempts and other category of cyber attacks.
+The advisory asked users and organisations to configure thier firewall rules to block connections against 31 types of URLs (uniform resource locators) like ‘crowdstrikeoutage[.]info’ and ‘www.crowdstrike0day[.]com’ among others apart from a number of hashes.
+The advisory asked users to deploy some trusted and often-mentioned cyber hygiene practices like: obtaining software patch update from authentic websites and sources; avoiding to click a document with link to “.exe” as they are certainly a malicious file disguised as a legitimate document; and being cautious against suspicious phone numbers as scammers often mask their identity by using email-to-text services to conceal their actual phone number.
+It also suggested users to only click URLs that have clear website domain and using safe browsing and filtering tools apart from appropriate firewalls.
+“Look out for valid encryption certificates by checking for the green lock in the browser’s address bar, before providing any sensitive information such as personal particulars or account login details,” it said. PTI NES TIR TIR
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

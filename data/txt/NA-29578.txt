@@ -1,0 +1,20 @@
+SOURCE: The Print
+TITLE: Microsoft researchers report Iran hackers targeting US officials before election
+AUTHOR: Reuters
+DATE: 2024-08-09
+URL: https://theprint.in/world/microsoft-researchers-report-iran-hackers-targeting-us-officials-before-election/2215642/
+
+--- ARTICLE TEXT ---
+
+WASHINGTON (Reuters) – Microsoft researchers said on Friday that Iran government-tied hackers tried breaking into the account of a “high ranking official” on the U.S. presidential campaign in June, weeks after breaching the account of a county-level U.S. official.
+The breaches were part of Iranian groups’ increasing attempts to influence the U.S. presidential election in November, the researchers said in a report that did not provide any further detail on the “official” in question.
+The report follows recent statements by senior U.S. Intelligence officials that they’d seen Iran ramp up use of clandestine social media accounts with the aim to use them to try to sow political discord in the United States.
+Show Full Article
+Iran’s mission to the United Nations in New York told Reuters in a statement that its cyber capabilities were “defensive and proportionate to the threats it faces” and that it had no plans to launch cyber attacks. “The U.S. presidential election is an internal matter in which Iran does not interfere,” the mission added in response to the allegations in the Microsoft report.
+“A group run by the Islamic Revolutionary Guard Corps (IRGC) intelligence unit sent a spear-phishing email to a high-ranking official of a presidential campaign” and “another group with assessed links to the IRGC compromised a user account with minimal access permissions at a county-level government,” the report said.
+It said the activity appeared part of a broader push by Iranian groups to gain intelligence on U.S. political campaigns and target U.S. swing states. It said the county employee’s account was breached in May as part of a wider “password spray operation” – one where hackers use common or leaked passwords en masse on many accounts until they can break into one.
+The hackers weren’t able to access any other accounts through that breach and the targets were notified, the report added.
+The researchers also said another Iranian group had been launching “covert” news sites that used artificial intelligence to lift content from legitimate news sites, and targeted U.S. voters on opposite sides of the political spectrum. It named the two sites as Nio Thinker — a left-leaning site — and a conservative site called Savannah Time.
+When browsed on Friday, both websites had similar formats on their ‘About Us’ page, and neither listed any contact detail. Nio Thinker calls itself “your go-to destination for insightful, progressive news and analysis that challenges the status quo”, while Savannah Time says it is “a reflection of the values that make Savannah unique” and a place “where conservative values meet local insight.”
+(Reporting by Zeba Siddiqui and Christopher Bing; Additional reporting by Michelle Nichols; editing by Diane Craft)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

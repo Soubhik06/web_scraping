@@ -1,0 +1,82 @@
+SOURCE: The Print
+TITLE: Security systems are failing to detect deepfakes. ‘Trust but verify’ no longer works
+AUTHOR: WEF Team
+DATE: 2025-07-13
+URL: https://theprint.in/world/security-systems-are-failing-to-detect-deepfakes-trust-but-verify-no-longer-works/2688974/
+
+--- ARTICLE TEXT ---
+
+T
+he finance worker in Hong Kong thought nothing unusual about the video call. Their UK-based chief financial officer needed urgent approval for a confidential acquisition, and several familiar colleagues joined to discuss details.
+After thorough discussion, the employee authorized 15 transfers totalling $25.5 million. Only weeks later did the devastating truth emerge: every person on that call, except the victim, was an AI-generated deepfake.
+This
+January 2024 attack on engineering firm Arup
+represents far more than a sophisticated fraud – it signals a fundamental shift in how AI threatens the trust infrastructure underlying modern business.
+Show Full Article
+As organizations race to embrace AI’s transformative potential, they must simultaneously defend against its weaponization. The ability to detect dangerous AI is no longer optional; it’s existential.
+The evolution beyond political disinformation
+For years, deepfakes dominated headlines as tools for electoral manipulation and celebrity scandals. That era is over. The Arup incident demonstrates how deepfake attacks have evolved into precision weapons targeting corporate operations through executive impersonation – a threat for which most organizations remain dangerously unprepared.
+The scale of this evolution is staggering.
+Deepfake fraud cases surged 1,740% in North America
+between 2022 and 2023, with financial losses exceeding
+$200 million in Q1 2025 alone
+. The accessibility of deepfake technology has democratized fraud: voice cloning now requires just 20-30 seconds of audio, while convincing video deepfakes can be created in 45 minutes using freely available software.
+Beyond Arup, documented attacks reveal increasingly sophisticated tactics. Fraudsters attempted to impersonate
+Ferrari CEO Benedetto Vigna through
+AI-cloned voice calls that perfectly replicated his southern Italian accent
+. The call was only terminated after an executive asked the caller a question that only Vigna would know the answer to.
+Similar attempts have targeted
+WPP CEO Mark Read
+and numerous other executives across industries. The
+Financial Services Information Sharing and Analysis Center
+warns that these attacks represent “a fundamental shift from disrupting democratic processes to directly attacking business operations”.
+This evolution reflects a broader transformation in the threat landscape. Unlike political deepfakes designed for mass distribution, corporate deepfakes are surgical strikes – personalized, contextually perfect and devastatingly effective. They exploit the trust networks that enable business velocity, turning our reliance on digital communication into a critical vulnerability.
+Challenges of detecting dangerous AI
+Current security mechanisms are failing catastrophically against this threat. Research shows that
+state-of-the-art automated detection systems experience 45-50% accuracy drops
+when confronted with real-world deepfakes compared to laboratory conditions. Even more alarming,
+human ability to identify deepfakes hovers at just 55-60%
+– barely better than random chance.
+“Audio and visual cues are very important to us as humans, and these technologies are playing on that,” explains
+Rob Greig, Arup’s Chief Information Officer
+, reflecting on the $25 million fraud. “We really do have to start questioning what we see.”
+The fundamental challenge lies in the asymmetric arms race between generation and detection technologies. While deepfake videos are
+increasing at 900% annually
+, detection capabilities consistently lag behind. Traditional authentication methods – recognizing a familiar face on video, hearing a trusted voice, even observing behavioral patterns – can no longer provide reliable security.
+However, this challenge can be addressed through emerging technological solutions.
+Real-time multimodal detection systems
+that analyze voice, video and behavioural patterns simultaneously are achieving 94-96% accuracy rates under optimal conditions.
+These systems leverage ensemble methods that combine multiple detection algorithms, making them more resilient to adversarial attacks. Companies are integrating these capabilities directly into communication platforms, enabling real-time alerts during live interactions.
+The key to fixing the detection gap lies in continuous adaptation. Unlike static security measures, modern deepfake detection requires models that are constantly retrained on emerging threats.
+Leading solutions now employ federated learning approaches that update detection capabilities daily while preserving privacy. This dynamic defence posture, combined with cryptographic authentication methods for verified communications, offers a path forward in the detection arms race.
+Building systemic resilience against deepfakes
+Recognizing that perfect detection may remain elusive, leading organizations are building multi-layered resilience through integrated approaches combining technology, policy and human factors. This systemic defence strategy acknowledges that defeating deepfakes requires more than technical solutions – it demands fundamental changes in how we verify trust.
+Financial institutions are pioneering comprehensive frameworks. The
+FS-ISAC’s deepfake risk taxonomy
+enables methodical defence building across people, processes and technology. Key elements include multi-factor authentication extending beyond traditional methods to incorporate
+behavioural biometrics
+that analyse typing patterns and navigation habits in real-time. More than 100 financial institutions have deployed these systems, creating an inter-bank behavioural fraud detection network.
+Verification protocols that cannot be compromised by synthetic media are becoming standard practice. These include pre-established secondary communication channels, cryptographic device authentication and mandatory time delays for high-value transactions. The
+US Financial Crimes Enforcement Network
+has issued formal guidance mandating enhanced verification procedures and suspicious activity reporting for deepfake incidents.
+Training represents another critical pillar. The
+American Bankers Association
+conducts regular workshops teaching employees to recognize manipulation tactics and verify executive instructions through independent channels. Best practices emerging from these programmes include establishing “safe words” for sensitive communications, implementing callback procedures using pre-verified numbers, and creating decision trees for high-risk scenarios.
+Policy frameworks are rapidly evolving to address this threat. The
+European Union’s AI Act
+, which entered force in August 2024, mandates transparency obligations and technical marking for AI-generated content. While the
+United States lacks comprehensive federal legislation
+, multiple bills are advancing through Congress, including deepfake-specific provisions in broader AI governance frameworks.
+Robust verification protocols needed to combat deepfakes
+As the World Economic Forum’s
+Global Cybersecurity Outlook 2025
+emphasizes, the deepfake threat represents a critical test of our ability to maintain trust in an AI-powered world. With
+Deloitte projecting $40 billion in AI-enabled fraud by 2027
+, the stakes extend beyond financial losses to the fundamental infrastructure of business trust.
+The solution requires immediate, coordinated action. Organizations must implement robust verification protocols, invest in continuous detection capabilities, and transform their security culture from “trust but verify” to “never trust, always verify”. Technology providers must prioritize developing resilient, adaptive detection systems. Policy-makers must create frameworks that balance innovation with protection.
+Most critically, we must recognize that detecting dangerous AI is not merely a technical challenge – it’s essential to preserving the trust that enables human progress. In an AI-first world, our ability to distinguish authentic human communication from synthetic manipulation will determine whether artificial intelligence amplifies human potential or undermines the foundations of society itself.
+This article is republished from the
+World Economic Forum
+under a Creative Commons license. Read the
+original article
+.

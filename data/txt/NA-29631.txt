@@ -1,0 +1,30 @@
+SOURCE: The Print
+TITLE: Quantum startup QuBeats wins Rs 25 crore govt grant to build GPS-free navigation for Indian Navy
+AUTHOR: Javaria Rana
+DATE: 2025-06-09
+URL: https://theprint.in/defence/quantum-startup-qubeats-wins-rs-25-crore-govt-grant-to-build-gps-free-navigation-for-indian-navy/2652032/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+Quantum deep-tech startup QuBeats, one of India’s first focused on quantum sensing, has won the ADITI 2.0 Defence Challenge to develop an indigenous Quantum Positioning System (QPS) for the Indian Navy, securing a government grant worth Rs 25 crore. This system will enable naval ships and submarines to navigate accurately even in areas where GPS is unavailable or vulnerable to deception.
+According to a press release issued by the start-up, the award will fund the development of high-precision quantum sensors that enable accurate navigation in environments where GPS is jammed, denied or spoofed—a critical capability for modern military operations.
+In an era dominated by satellite-based navigation like GPS, the risk of signal denial in the form of jamming and spoofing, particularly in contested military zones, has spurred global investment in alternative technologies. Quantum navigation uses principles of quantum mechanics to develop systems that are entirely self-reliant, needing no external satellite inputs.
+Show Full Article
+Founded by a team of Indian researchers from global institutions in 2023, QuBeats is led by Mallikarjun Karra, a PhD candidate at the Max Planck Society; Madhu Talluri, a postdoctoral researcher at the Lawrence Berkeley Lab; Shouvik Mukherjee, a postdoc at the Joint Quantum Institute (University of Maryland); and Rajat Sethi, a graduate of MIT, Harvard and IIT Kharagpur who has also served as a political adviser to three chief ministers.
+At the centre of the start-up’s work is the development of a ‘quantum magnetometer’, an advanced sensor that detects subtle changes in the Earth’s magnetic field. Since these magnetic patterns differ from place to place, accurately sensing them can help navigate by using the Earth itself as a natural map.
+“GPS denial is a real and growing threat, especially in contested zones,” Mallikarjun Karra, one of the founders, told ThePrint. “But the Earth itself offers a solution. It acts like a giant magnet and its magnetic waves can be used for positioning. Quantum sensors allow us to navigate using these natural signatures with unmatched precision, even when GPS is unavailable.”
+The release by the company added that the quantum navigation suite under development includes not just magnetometers, but also quantum gyroscopes, miniature atomic clocks, Rydberg radars and ultra-sensitive detection sensors. These technologies are intended for a range of strategic military applications such as undersea warfare, long-range missile guidance and communication in contested environments.
+The release further said that these technologies have potential civilian applications as well, including deep-sea exploration, autonomous vehicles, and space navigation.
+“The global market for such quantum systems is estimated to be around USD 10 billion,” the company said, adding that it is currently raising a seed funding round to accelerate its product development roadmap.
+Where India stands in the global quantum race
+Globally, major powers are already investing heavily in quantum navigation and sensing. China has reportedly integrated quantum magnetometers into its naval operations to enhance submarine detection capabilities. State-owned enterprises like CETC (China Electronics Technology Group Corporation) and research arms of the People’s Liberation Army (PLA) have been working on quantum sensors that can penetrate stealth technology by detecting minute magnetic field changes underwater.
+In the United States, DARPA (The Defense Advanced Research Projects Agency) and major defence contractors such as Northrop Grumman and Honeywell Aerospace are investing heavily in chip-scale atomic clocks, quantum accelerometers and gravity-based sensors, all aimed at enhancing battlefield navigation without GPS reliance.
+Further, the United Kingdom’s Ministry of Defence is also collaborating with BAE Systems and the UK Quantum Technology Hub on developing quantum inertial sensors for GPS-denied environments, particularly in maritime scenarios.
+India, meanwhile, has also been gradually stepping up efforts in the quantum domain. Last month, the Defence Research and Development Organisation (DRDO) opened its first Quantum Technology Research Centre (QTRC) in Delhi, a facility set to boost research and development in quantum computing, sensing and communication for defence applications.
+As per a statement by the Defence Ministry, “The QTRC is expected to act as a national hub for defence-oriented quantum research, with collaborations expected from both the public and private sectors”.
+The QuBeats grant is part of the Ministry of Defence’s broader ADITI (Aatmanirbhar Defence Technology Initiative) 2.0 programme, launched in October last year. This initiative includes 19 challenges from the Armed Forces covering areas such as AI, quantum tech, military communication, anti-drone systems and adaptive camouflage. The winners receive funding up to Rs 25 crore through the iDEX (Innovations for Defence Excellence) platform.
+“Winning the ADITI 2.0 Challenge is not just a validation of our unique technology approach, but a clarion call to India’s quantum aspirations. QuBeats is here to build the future—and build it from India,” said the founders in a joint statement.
+(Edited by Viny Mishra)
+Also read:
+IAF aircraft flying into earthquake-hit Myanmar faced GPS spoofing. How it is different from jamming

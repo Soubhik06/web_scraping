@@ -1,0 +1,44 @@
+SOURCE: The Print
+TITLE: From Delhi, UP to Tokyo: Indian students learning Japanese among cyber fraudsters targeting Japan’s elderly
+AUTHOR: Ananya Bhardwaj
+DATE: 2025-05-29
+URL: https://theprint.in/india/from-delhi-up-to-tokyo-indian-students-learning-japanese-among-cyber-fraudsters-targeting-japans-elderly/2640578/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+In Japan, cyber fraud and digital scams have targeted the elderly, swindling them out of crores.
+The most surprising part? The entire racket was being operated from Uttar Pradesh and Delhi—by first time offenders, mostly students enrolled in language schools and learning Japanese.
+Their modus operandi: fraudsters display fake virus alerts and phishing prompts on victims’ computer screens, convincing them to install remote access tools, falsely claiming that their systems are infected and instructing them to call a specified phone number. Once access is granted, the scammers take control of their computers and steal sensitive financial information to defraud them. These pop-ups, sources said, are hosted on malicious URLs (primarily using Microsoft Azure servers).
+Show Full Article
+On Wednesday, the Central Bureau of Investigation conducted raids in Noida and Varanasi, arresting six individuals in their 20s. It appears that none have any past criminal record, but their credentials are being verified.
+“They were duping people in Japan sitting in call centres here in Delhi and UP. We have made the arrests and Japanese authorities have been informed,” a source said.
+The CBI received information that people based in India are “operating a sophisticated cyber enabled fraud scheme”, primarily from Delhi and few other locations, targeting victims in Japan.
+Among those arrested are Sandeep Gakhar, who allegedly received funds; Gaurav Maurya, who created the pop-ups; and Shubham Jaiswal, who was making the calls.
+Also read:
+In a first, 540 Indians detained from Cambodian scam farms to be repatriated on 10 March
+Money swindled, transferred to India in crypto
+According to an FIR registered by the CBI on 16 May, four specific instances of cheating involving Japanese citizens were recorded.
+In one case, pop-up warnings appeared on the computer of a person named Sakai Takaharu (57), a resident of Kosone-cho, Nishinomiya-shi, Hyogo Prefecture, Japan, while he was browsing a website.
+“The alert messages displayed on his screen included alarming statements such as, ‘Your computer has been infected with a virus’ and ‘Please call 01012019088006 immediately’,” the FIR stated.
+“These messages created fear and anxiety. When he called the number provided, he received a call back from an individual who falsely claimed to offer technical support. The caller assured him that he would remove the virus from his computer and claimed that the money in his bank account needed to be transferred to a ‘safe’ account for security reasons,” the FIR added.
+The suspect then persuaded him to install remote-control software under the pretext that it was necessary for providing technical support.
+“The caller introduced himself as a Microsoft director and further misled Mr Takaharu by claiming that his computer was infected with Trojan malware, that his bank account was unsafe, and that urgent action was required to protect his funds,” a source explained.
+“Following the caller’s instructions, Mr Takaharu revealed his internet banking account’s 3-of-12 PIN and displayed his proof of identity to the laptop camera. Subsequently, a bank account was opened in his name at SBI Sumishin Net Bank, Ltd., and the balance from his original bank account was transferred via remote access to the newly opened account,” the source added.
+By doing this, a total of 20,958,783 Yen (approximately Rs 1.11 crore) was transferred. The suspect then used the funds to purchase 2.10646958 BTC through Mr Takaharu’s Binance account, which was subsequently transferred to other cryptocurrency wallets.
+According to investigators, the proceeds were later traced to a Binance wallet belonging to a man named Kapil Gakhar, a resident of Panipat, Haryana.
+“The BTC was converted into USDT (Tether) and transferred to other cryptocurrency exchanges on multiple occasions,” the source explained.
+“Additionally, a portion of the BTC was found to have been converted into Indian fiat currency, that is Indian rupees,” the source added.
+In a similar fashion, 72-year-old Koji Suzuki, a resident of Toshima-ku, Tokyo, was defrauded by a caller impersonating a Microsoft employee. The caller instructed him to purchase Apple Gift Cards worth a total of 210,000 Yen (Rs 1.1 lakh) as payment for removing a supposed computer virus. The victim was then asked to display the gift card codes to his computer’s camera, thereby losing the right to use the gift cards.
+Similarly, earlier this month, 65-year-old Masashi Matsui from Edogawa-ku, Tokyo, was defrauded of 40,000 Yen (approximately Rs 27,000), along with 32-year-old Sherpa Norsang, who was defrauded of 80,000 Yen (approximately Rs 47,000).
+What gave it away
+According to sources, what gave it away was that the Japanese spoken by the callers was notably unnatural and non-fluent. Additionally, background conversations in Hindi were audible during the calls, and the incoming call numbers displayed Indian country codes—strongly suggesting that the operations were being conducted from India.
+“A source explained that analysis of the malicious URLs used in pop-ups, along with the IP addresses used to subscribe to hosting platforms, traced the activity back to India,” the official added.
+Among the key operatives is Manmeet Singh Basra, a resident of RK Puram, who was allegedly orchestrating the scam by generating leads and routing payments.
+Basra, the source said, is being assisted by Jiten Harchand, a resident of Delhi’s Chattarpur Enclave.
+“Their role involves lead generation and facilitating the flow of funds. Jiten is associated with several Skype IDs used for fraudulent activities. It was discovered that between July and December 2024, as many as 94 malicious URLs were being managed using devices linked to Indian IP addresses. These URLs were used to generate Japanese-language pop-ups,” the source said.
+Other accused individuals have been identified as Rohit Maurya, a resident of Faizabad, Uttar Pradesh; Adarsh Pandey, a native of Ayodhya; and Shubham Jaiswal.
+“Skype IDs were frequently used by this group to initiate outbound communications with the phone numbers of Japanese victims,” the source added.
+(Edited by Zinnia Ray Chaudhuri)
+Also read:
+Pyramid of cyber criminals & stolen data at heart of digital arrest scam. They know everything about you

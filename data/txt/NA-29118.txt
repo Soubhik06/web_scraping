@@ -1,0 +1,60 @@
+SOURCE: The Print
+TITLE: How safe is your private life? Your SIM can be cloned, phone number spoofed & WhatsApp hacked
+AUTHOR: Bismee Taskin
+DATE: 2024-09-02
+URL: https://theprint.in/india/how-safe-is-your-private-life-your-sim-can-be-cloned-phone-number-spoofed-whatsapp-hacked/2248179/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+Consider this: You wake up one morning to suggestive calls from an unknown person. The person, on the other side, talks about things you don’t understand. At first, you may dismiss it as a misdial. But over the next few days, you repeatedly get calls from several people talking about more things you have no idea about, such as games and links.
+In each case, when you tell the caller that you don’t know who they are and what they are talking about, they tell that you had called them first. The calls continue coming in from across the country for weeks and the harassment continues. None of the numbers are in your outgoing call log list. It’s a case of call spoofing.
+Dozens of readily available applications enable anyone and everyone to do this. All one needs to do is add the number they want to spoof and press call. Even though the person on the other end is using their phone, the number that will reflect will be the one they added to the app.
+Show Full Article
+So even when the receiver calls back, they will be connected to the person whose number was used for the spoofing—in this case, you.
+Also Read:
+Telegram has a seedy underbelly. It’s a hunting ground for paedophiles that’s got agencies worried
+Spoof calls & hacking WhatsApp made easy
+Hundreds of applications that allow call spoofing are available on the internet—most of them are free of cost and, for others, the user only needs to watch a few advertisements to make multiple free calls in a day.
+Some
+apps
+also let the user make calls without a SIM card. They also offer voicemail, call recording, fax spoofing, and even voice modulation features.
+In one such app, Fun phone call, that ThePrint used to test the services and the accessibility of such apps, the call time was free for 2 minutes. It did not require any sign-in details such as email ids or phone numbers. Some of the other apps though had a small tariff to be paid after creating an account.
+For fraudsters, these are easy tools. They use these apps to make an incoming call look like its coming from a law enforcement agency or a friend. They pretend that its an urgent situation getting the person receiving the call to put their guard down and give up valuable personal information, such as one time passwords (OTPs), making it easy to steal money from their bank accounts.
+Moreover, criminals can also use the apps to make threats, extort, sextort, and cheat people by providing phishing links with the victims believing it’s a call coming from a known contact or a registered phone number.
+According to investigators, these caller ID spoofing apps change the caller line identification presentation (CLIP) in a way that is similar to the voice modulation apps.
+“Like all scams, call spoofing functions primarily on two fronts—use of applications readily available on app stores and social engineering. These apps come free of cost which makes them easily available to the scamsters. Then they move on to manipulating the people whom they have called,” a police source said.
+Another way to intrude into private life through readily available apps is WhatsApp hacking, which has gained momentum globally.
+The first step is to gain access to the victim’s phone after the app is downloaded. According to investigators, the scammer will send links to the users which will, if they click, let the scamster access all your messages, including OTPs and other passwords. They can, then, enter your WhatsApp account and sign you out of it.
+Sometimes, the scamsters also use social engineering—that is through human interaction—to lure you into giving them an OTP that gives them access to your WhatsApp account.
+Another way for the scammer to disguise their identity is SIM cloning. However, unlike call spoofing, here the scamster will have to have access to your SIM card. They will put your SIM into a card reader and copy your
+data
+on a blank SIM. Then the scammer may use this data to blackmail you or dupe your contacts.
+Apps a ‘menace’
+According to investigators, easily accessible apps available on the internet have turned out to be a “menace” and are being used for different forms of phishing and hacking.
+Indian investigating agencies are dealing with different forms of such scams from KYC fraud and BSES fraud to online banking, gaming and loan app scams. Some of the apps can even alter video appearances, such as letting the user see the person they are calling in the nude even if they are fully clothed.
+One set of apps are just clickbait: by the time one downloads and uses it, scammers have already gained access to the phone, compromising all their private information.
+The market for such apps is huge. Sources at the agencies told ThePrint that every year between 200 and 500 apps are banned after criminal proceedings linked to them are initiated.
+“These apps while downloading take away personal information. They also ask you to enter a One Time Password when you log in or download and give them access to your data including phone number, name, location, contacts etc,” another source said.
+Apar Gupta, advocate and Internet Freedom Foundation’s founding-director told ThePrint, “There is no robust and comprehensive system in place for marketplace applications. Phone companies do have terms of services for any app to be listed, however audit mechanisms may vary on the extent to which they actually look into the adherence of the application developers.”
+“There are also options of user feedback for apps for content moderation. However the main issue with audits by marketplaces, like Google and Apple, is that they can only make an application conform to the requirements of their service agreement and later turn out to be different to what they were listed for.”
+Gupta noted that there needs to be a more active approach towards this problem through designated government agencies and regulatory bodies and in conjunction with inter-government agencies and ministries like the IT ministry and the Ministry of Home Affairs.
+Investigators said that tracking digital crimes often comes with its own set of hurdles. More often the investigation hits a dead end or ends in a limbo if the money is converted into cryptocurrency.
+Parts of the money can still be still traced in most cases if its still in some bank accounts, and, in the case of call spoofing, investigators can trace the caller back after accessing the call detail records of the victims.
+“We zero down on the time when the timeline on when the calls were made and then trace down the IP (internet protocol) address. It is tricky if the accused used VPN (virtual private network) instead of IP,” a police source said.
+Where scammers, spammers are
+getting your data
+Mobile numbers aren’t just numbers, but data pointers in data sets that connect to all your personal information—including age, locations, net worth, shopping habits—and both spam callers and scammers are able to gain access to this information. They are on the same ship.
+The epicentre could be anything—from you giving your number at a recharge shop or shopping centre to even just downloading an app.
+Most people are unaware of exactly what they are consenting to when they sign up to apps and tick the ‘I agree to the terms and conditions’ box. Businesses and organisations also don’t delve into specifics into what the user is consenting to.
+From spam telemarketers to commercial businesses to scammers—everyone is buying personal data sets. Some of these data pointers are also available free on the internet, without any consent.
+“These scams and spams are part of a broader problem pertaining to data protection and privacy. One can never know how a scammer or spammer got their personal information,” Gupta added.
+“What is needed is enforcement at the organisational level and data protection authorities that regularly audit data processing. Data is being sold at multiple levels. Moreover even legitimately collected data including government data is being breached.”
+In August last year, India notified its first Data Protection Act. It provides a framework for processing of personal digital data of Indian citizens: listing out the rights of data principals (users whose personal data is collected) and responsibilities of data fiduciaries (those who collect and process data).
+However, one year on, the rules have yet to be finalised, delaying its implementation. On 20 August, Union IT Minister Ashwini Vaishnaw said that the new rules will be released within a month.
+Meanwhile, the Telecom Regulatory Authority of India (TRAI) on 28 August proposed stricter action against telecom operators failing to take action against telemarketers flooding users with
+spam calls
+and messages, reviewing its 2018 Telecom Commercial Communications Customer Preference Regulations (TCCCPR).
+(Edited by Sanya Mathur)
+Also Read:
+Stock market frauds booming in India. How kingpins holed up in Cambodia & Dubai bait & scam investors

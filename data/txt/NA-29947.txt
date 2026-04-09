@@ -1,0 +1,31 @@
+SOURCE: The Print
+TITLE: India Built Digital Infrastructure for 1.4 Billion People. AI Agents Are About to Test Every Assumption Behind It
+AUTHOR: By:Kapil Joshi
+DATE: 2026-03-11
+URL: https://theprint.in/brandit/india-built-digital-infrastructure-for-1-4-billion-people-ai-agents-are-about-to-test-every-assumption-behind-it/2876552/
+
+--- ARTICLE TEXT ---
+
+I
+ndia’s digital public infrastructure is, by most measures, the most ambitious coordination system any country has built. UPI processes over 14 billion transactions a month. Aadhaar has enrolled more than 1.3 billion people. DigiLocker, ONDC, and the India Stack have created layers of interoperability that most developed nations have not attempted. The system works because it was designed around a coordination principle: build shared rails that let diverse participants transact without requiring them to share a platform.
+That principle is about to be tested by something it was not designed for.
+AI agents, software systems that reason, plan, and act autonomously on behalf of users and businesses, are entering the Indian digital ecosystem. They are arriving not as a distant possibility but as a near-term commercial reality. McKinsey projects $3 to $5 trillion in global agentic commerce by 2030. Gartner forecasts $15 trillion in agent-mediated B2B exchanges by 2028. India, with its density of digital transactions, its young and technically fluent population, and its existing interoperability infrastructure, is positioned to be one of the first markets where AI agents operate at true population scale.
+Show Full Article
+The question is whether the coordination infrastructure can handle what comes next.
+The Coordination Problem Agents Bring
+UPI works because it standardized how payments move between banks. Aadhaar works because it standardized identity verification. Both succeed by creating a shared protocol that diverse participants adopt. But AI agents introduce a coordination challenge these systems were not built to address.
+An AI agent does not make one transaction. It fans out. A single purchasing intent can generate dozens of simultaneous API calls across merchants, payment processors, logistics services, and verification systems. Multiply that by millions of agents operating on behalf of millions of users, and the interaction volume becomes a qualitative shift from current traffic, not an incremental increase. Industry analysis suggests that 30 to 50 percent of agentic compute globally is already wasted on coordination failures: redundant queries, retry storms, systems that cannot communicate across ecosystem boundaries.
+India’s digital rails were built for human-speed, human-volume transactions. Agent-speed, agent-volume interactions introduce load patterns, timing requirements, and failure modes that the current architecture was not designed to absorb. This does not mean the infrastructure will break. It means a new coordination layer is needed between the agents and the rails.
+What Coordination Infrastructure Looks Like
+This is the problem that Tethral, a U.S.-based startup, is building for. Founder John Lunsford holds a PhD from Cornell with fellowships at MIT and Oxford in autonomous system-to-society adoption. Before his academic work, he was a security engineer at the U.S. Department of Justice, then led AI and safety research at a major U.S. technology company where he shipped consumer products and co-led an enterprise design partnership with OpenAI.
+Lunsford designed a proprietary transformer architecture and coordination protocol built specifically for multi-agent, multi-device orchestration. The system interprets natural language intent and decomposes it into coordinated actions across whatever devices and services are present in an environment. The system is built to coordinate actors that do not agree, are not compatible, and may not even share a common schema, exactly the conditions that describe how devices, services, and AI agents coexist in real environments.
+The scaling dynamics matter for a market like India. Without a coordination layer, provider costs accelerate as agent density increases: more agents means more redundant queries, more retry storms, more wasted compute. Tethral’s architecture inverts that. The coordination layer reads behavioral signals across all agents in its environment, so each additional agent adds signal rather than just load. The system gets more efficient as it gets denser.
+Tethral is currently building from the consumer environment, orchestrating AI across smart home ecosystems, with architecture designed to generalize. Lunsford writes about the coordination problem on
+Tethral’s blog
+.
+Why India Is Positioned Differently
+Most countries will encounter the agent coordination problem as a disruption to existing systems. India may encounter it as an extension of infrastructure it has already built.
+The India Stack philosophy, shared rails, open standards, diverse participants, is structurally closer to what the agentic economy requires than the walled-garden approach dominant in the United States, Europe, and China. India has already proven that a billion-person coordination system can work if the protocol layer is right. The question is whether that protocol layer can evolve fast enough to accommodate participants that move at machine speed, generate combinatorial interaction volume, and reconfigure their capabilities during execution.
+Countries that solve agent coordination at population scale will have a structural advantage in the agentic economy. India has the digital infrastructure, the transaction density, and the institutional experience with interoperability to be among the first. Whether it captures that advantage depends on whether the coordination layer between AI agents and existing digital rails gets built in time.
+The challenge India faces is not whether its systems are good enough. They are among the best in the world. The challenge is that AI agents are a fundamentally different kind of participant, and the coordination they require does not exist yet. Building it is both an engineering problem and a national positioning opportunity.
+ThePrint BrandIt content is a paid-for, sponsored article. Journalists of ThePrint are not involved in reporting or writing it.

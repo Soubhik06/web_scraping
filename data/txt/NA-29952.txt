@@ -1,0 +1,78 @@
+SOURCE: The Print
+TITLE: India has currently blocked at least 43,000 domains. New study shows scale for the first time
+AUTHOR: Vrinda Tulsian
+DATE: 2026-03-02
+URL: https://theprint.in/tech/india-has-currently-blocked-at-least-43000-domains-new-study-shows-scale-for-the-first-time/2868178/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+When an Indian Internet user finds that a website won’t load, he or she is rarely
+told
+why. Blocking orders in India are confidential by law, and Internet Service Providers (ISPs) are not required to notify users when a site is censored. And until now, no one had a clear picture of how many sites are actually blocked
+in the country
+.
+A study—‘
+Poisoned Wells: Examined the scale of DNS censorship in India’
+—published on Monday offers the most comprehensive answer yet.
+Researcher Karan Saini, working with support from the Open Technology Fund and The Internet Governance Project under Georgia Institute of Technology, spent months querying 294 million registered domain names against the DNS
+resolvers of six major Indian internet service providers, generating 1.76 billion queries in total.
+Show Full Article
+DNS (or the Domain Name System) is effectively the internet’s phone book. When a user types a web address, their device asks a DNS server to translate it into a numeric IP address.
+ISPs run their own DNS servers, which gives them a straightforward mechanism for censorship: when a blocked domain is requested, the server returns a false or empty answer. The site appears not to exist. No explanation is given.
+Karan Saini, an Information Controls Research Programme researcher with the Internet Governance Project, confirmed
+that their study found
+43,083 domains blocked—six times more than the previous largest study had found—
+and this could be an undercount.
+Saini told ThePrint they conducted the research to fill the “basic gap in public knowledge” about the matter.
+“In India, blocking orders are confidential and ISPs are not required to disclose what they restrict, making it impossible to gauge the true scale of censorship,” he said.
+What stood out to him was how inconsistently ISPs appear to implement blocking orders. In some cases, even two government domains, under
+gov.in
+and
+nic.in
+, showed up on blocklists, suggesting filtering decisions are not always tightly coordinated.
+When he
+cross-referenced
+his results with the Tranco ranking of popular websites, he
+found out that
+only about 9,000 of the 43,083 blocked domains were widely visited.
+That indicates,
+he said,
+that
+most prior researches — which relied on popularity-based lists— may significantly underestimate the breadth of filtering. He cautioned, however, his study captures DNS-based censorship only; ISPs using other technical methods may be blocking additional sites.
+Previous studies tested at most a few thousand domains, drawn from curated lists of sites likely to be controversial.
+Saini’s approach—querying nearly every registered domain on the internet—revealed that method
+was not comprehensive
+. Only 21.73 percent of the blocked domains he found appeared in the Tranco list, the standard popularity ranking used in censorship research. The other 78 percent would never have shown up in a conventional study.
+Also Read:
+How a dormant bug shut down ChatGPT, X, Canva. Cloudflare outage exposes big risks
+Entire domain extension gone
+Among the study’s more striking findings is what appears to be a misconfiguration by Airtel, India’s second-largest ISP. Airtel is blocking every domain under the .yokohama extension — a generic top-level domain associated with the Japanese port city — not just specific sites, but the extension in its entirety.
+Saini verified the block by querying .yokohama domain names that do not actually exist and receiving the same blocking response. Blocking non-existent domains points to a misconfigured filtering rule rather than a deliberate list.
+State ISP blocks slack
+MTNL, a government-owned ISP serving Delhi and Mumbai, had the second-highest block count at 20,085 domains—and a blocklist unlike any other provider’s.
+It exclusively blocks Telegram, Discord, Slack, and Dropbox’s API (Application Programming Interface).
+API is a set of rules that allows different software programmes to communicate with each other to perform a particular task.
+It blocks Let’s Encrypt, a nonprofit that issues the security certificates used by a large share of websites worldwide, and Microsoft’s content delivery network. Neither is a website users visit directly, both are backend infrastructure.
+MTNL’s infrastructure is widely used within the Indian government ministries.
+Saini believes its consumer blocklist has been contaminated with the list intended only for government office networks, and that gets applied to general subscribers by mistake.
+The IP address used by MTNL to implement website blocking has remained the same since 2015.
+Govt domains, news outlets blocked
+You Broadband, a Maharashtra-based ISP, is the only Internet Service Provider in the study blocking Scribd, SlideShare, and Academia.edu—three platforms used for sharing documents and academic papers.
+It also uniquely blocks the domain of news agency Asian News International (ANI).
+All six ISPs block The Kashmir Walla, an independent Srinagar-based news outlet, following a 2023 government order.
+Two domains in India’s .
+gov.in
+zone — reserved for official government websites — appeared in the compiled blocklist. The website of the Military Engineer Services was blocked by You Broadband; a domain formerly used by Punjab’s Real Estate Regulatory Authority was blocked by Connect Broadband.
+Separately, ACT Fibernet continues to block videolan.org, the website for VLC Media Player’s developer, despite a government order in 2022 directing that it be unblocked.
+ThePrint reached out to MTNL, Airtel and You Broadband through email for their comments, but there was no response. The report will be updated if and when they respond.
+Inconsistent & getting around it
+What a user can access depends on which ISP they happen to use. Blocking consensus across all six providers was low: only 38.6 percent of terrorism-related domains were blocked by every ISP, the highest of any category. Pornography had a consensus rate of 0.53 percent. The study also found that all six ISPs continue blocking domains after they have expired and ceased to function.
+DNS-based blocking is relatively straightforward to circumvent. Switching to an encrypted DNS service — DNS over HTTPS — routes queries  through a channel ISP servers cannot easily tamper with.
+The study found that ACT’s DNS injection, a more aggressive technique that intercepts queries in transit, only functioned on the standard DNS port; queries on other ports bypassed it entirely.
+VPNs are a less reliable option in India: a 2022 government directive requires VPN providers to collect user identity data and retain it for at least five years.
+VPN (Virtual Private Network) is a service that creates an encrypted tunnel between a user’s device and the Internet, routing the traffic through a remote server run by the VPN provider.
+The study’s full dataset and blocklist are available at dnsblocks.in. The author notes that 43,083 is likely an undercount — the methodology covers DNS filtering only, and ISPs using other techniques may be blocking considerably more.
+(Edited by Ajeet Tiwari)
+Also Read:
+Internet access can be good for you, says Oxford study. Unless you’re a young woman

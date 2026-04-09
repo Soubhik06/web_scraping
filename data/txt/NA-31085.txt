@@ -1,0 +1,23 @@
+SOURCE: The Print
+TITLE: US officials seize extortion websites; ransomware hackers vow more attacks
+AUTHOR: Reuters
+DATE: 2023-12-20
+URL: https://theprint.in/tech/us-officials-seize-extortion-websites-ransomware-hackers-vow-more-attacks/1893310/
+
+--- ARTICLE TEXT ---
+
+By Raphael Satter and Christopher Bing
+WASHINGTON (Reuters) -U.S. officials on Tuesday seized digital extortion websites associated with the notorious “Blackcat” ransomware gang, sparking a threat from the hackers to escalate their attacks.
+Blackcat – also known as ALPHV or Noberus – is accused of working with the prolific hacking gang known as “Scattered Spider,” which has terrorized major businesses including MGM Resorts International and Caesars Entertainment.
+The Justice Department said in a statement that it had “gained visibility into the Blackcat ransomware group’s computer network” and seized several websites used by the group, as well as hundreds of cryptographic keys that could be deployed to help rescue up to 500 hacking victims.
+Show Full Article
+There was no mention of arrests or of action against Scattered Spider, a group believed by security researchers to be composed at least in part of young, native English speakers mainly from Western countries. The group has acted as the sharp end of the spear for Blackcat, seeding data-scrambling software on victims’ devices which can typically only be removed following a massive ransom payment.
+A Justice Department spokesperson declined to offer further comment, citing an ongoing investigation.
+Some private sector analysts described the takedown as significant. Charles Carmakal, an executive with Alphabet’s Mandiant cybersecurity unit, said it was “a huge win for law enforcement and the community.”
+Others said it was only a matter of time before the hackers would regroup.
+“Disruption will very likely only result in a temporary suppression of the threat,” said Daniel Curtis, an analyst with cloud security company ZeroFox Holdings.
+The hackers themselves promised to retaliate by extorting critical infrastructure providers and hospitals, according to screenshots of their threats captured by researchers at Dell Technologies’ Secureworks and elsewhere.
+“The group obviously now has an enormous reputation issue having been infiltrated by law enforcement,” Secureworks researcher Keith Jarvis said. “It feels like bluster.”
+Reuters was unable to immediately contact the hackers for further comment.
+(Reporting by Raphael Satter and Christopher Bing in WashingtonEditing by Tomasz Janowski, Nick Zieminski and Matthew Lewis)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

@@ -1,0 +1,47 @@
+SOURCE: The Print
+TITLE: EU under pressure to make digital economy safer. AI can address this issue
+AUTHOR: WEF Team
+DATE: 2026-03-15
+URL: https://theprint.in/tech/eu-under-pressure-to-make-digital-economy-safer-ai-can-address-this-issue/2879480/
+
+--- ARTICLE TEXT ---
+
+The EU is under pressure to make the digital economy safer, especially when it comes to the fight against financial crime.
+The United Nations Office on Drugs and Crime estimates that 2-5% of global GDP – roughly
+$800 billion to $2 trillion
+– is laundered annually. In the EU, the European Commission says organized crime generates profits of around
+€139 billion every year
+, while Europol estimates that only about
+2% of criminal proceeds
+are confiscated.
+The same pattern can be seen inside companies. The Association of Certified Fraud Examiners estimates that
+organizations lose 5% of revenue
+each year to fraud.
+Show Full Article
+In 2025, European leaders discussed the need for a
+form of accountability
+that would end online anonymity by linking social media accounts to the
+EU Digital Identity Wallet
+. The idea here is that stronger identity assurance could make it harder to use anonymous accounts for scams, fraud and other forms of illicit financial coordination online.
+What’s clear is that Europe needs new digital trust infrastructure. Societies cannot build durable trust in digital systems simply by expanding visibility into people’s private lives.
+How can AI help build financial crime evidence chains?
+Artificial intelligence (AI) can help to address this trust issue. In fact, the next chapter of AI in finance should be understood as being less about productivity software and more about trust infrastructure. In this context, AI’s most important benefit is not that it can process information faster, but that it can connect fragmented records, turning this information into structured, machine-readable evidence that could help to tackle financial crime.
+Every economic event leaves physical traces – a contract, an invoice, a shipment, a payment, a counterparty, a tax record, a ledger entry. In most organizations, those traces sit in separate systems and formats. That makes it hard to confidently determine whether a transaction reflects a real underlying event, or if it’s just a plausible-looking paper trail.
+AI can now help to assemble what might be called an evidence chain, such as the example developed by Nova Mundi, below. Evidence chains link a claim to the documents and actions that should substantiate it. An invoice should connect to delivery. Delivery should connect to payment. Payment should connect to a legitimate business relationship.
+If this chain holds, trust rises. If it breaks, risk becomes visible. This is as relevant for fraud and money laundering as it is for sanctions evasion or terrorist financing.
+An example of an AI evidence chain.
+Image: Nova Mundi, BDO, PwC
+And this matters because financial crime thrives on fragmentation. Money laundering is designed to obscure origin and ownership. Fraud often hides behind documentation that appears valid in isolation but fails when connected to wider business realities. The challenge, then, is not identifying suspicious objects, but identifying suspicious incoherence.
+AI is unusually well suited to this task because it can compare claims across documents, systems and time at a scale that manual review cannot match.
+Using AI to scale digital trust
+Private markets may succeed in this domain, whereas broad public surveillance can struggle.
+Blanket monitoring is often perceived as distant, imposed and politically brittle. But evidence-based verification can be deployed through actors that already carry operational responsibility for trust, such as banks, insurers, auditors, finance teams and regulated service providers. The state still matters, but its role should be to set standards, liability and safeguards, not to inspect transactions directly.
+Such a model is beginning to emerge. Firms are building tools that do not depend on reading everyone’s private communications, but instead focus on connecting objective business records to auditable chains of proof.
+This approach is more aligned with how trust is actually built in markets – that is, through verifiable transactions, accountable institutions and repeatable checks. It also fits with EU digital identity policy. In other words, Europe is already developing a selective-disclosure model in one area of digital policy and financial integrity should follow the same logic.
+Continuously testing financial integrity
+The timing is critical. The European Council
+adopted its anti-money-laundering package
+in 2024, creating a more harmonized rulebook and establishing a new Anti-Money Laundering Authority in Frankfurt. This gives Europe a regulatory base on which to build greater financial integrity and digital trust.
+But regulation alone will not close the gap between formal compliance and actual financial integrity. If firms still rely on disconnected records and labour-intensive review processes, enforcement will remain slow, expensive and incomplete. AI creates the possibility of a different model, one in which integrity is tested continuously across documents and workflows and before risk compounds.
+For policy-makers, this means setting interoperability standards for evidence-chain systems, requiring auditable logs and human reviews for higher-risk decisions, and giving smaller firms room to adopt trustworthy tools through sandboxes and proportionate compliance pathways. For business leaders, it means treating AI-based integrity infrastructure as a control layer that’s as essential as cybersecurity.
+The choice that Europe and its institutions now face is not between digital safety and privacy, but between blunt visibility and intelligent verification.

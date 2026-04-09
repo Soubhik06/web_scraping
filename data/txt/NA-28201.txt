@@ -1,0 +1,60 @@
+SOURCE: The Print
+TITLE: SubscriberWrites: When AI becomes the attacker
+AUTHOR: Shaikh Irfan
+DATE: 2026-03-28
+URL: https://theprint.in/yourturn/subscriberwrites-when-ai-becomes-the-attacker/2891098/
+
+--- ARTICLE TEXT ---
+
+Thank you dear subscribers, we are overwhelmed with your response.
+Your Turn is a unique section from ThePrint featuring points of view from its subscribers. If you are a subscriber, have a point of view, please send it to us. If not, do subscribe here:
+https://theprint.in/subscribe/
+O
+ver the years, Artificial intelligence has changed the way organizations operate, do their work, and analyze data. But like many technologies before it, AI is now being used by attackers as well.
+Show Full Article
+We have seen in past that cybercriminals used phishing emails and blatant scam calls for years. It was simpler to identify those attacks. The circumstances are different now with the use of AI. Now attackers can use AI tools and create realistic scams (like voice cloning, deepfakes).
+As a result of this change, cybersecurity teams and CISOs now must defend against increasingly human-like attacks.
+The Evolution of Digital Scams
+As we have seen over the years, scammers followed the same pattern. Earlier attackers used to send numbers of phishing emails hoping someone would click on that phishing link. Although the scale made it profitable, the success rate was modest.
+Instead of delivering a single message to thousands of people, attackers can now craft personalized messages for each target. Real information about the victim, their place of employment, or current affairs is mentioned in these communications.
+For organizations, this means phishing email detection based only on grammatical mistakes or suspicious wording is no longer enough.
+AI-Generated Voice Impersonation
+We have seen in many trending news channels that AI voice cloning is becoming very concerning.
+Attackers found a new way to collect small audio samples from social media, online interviews etc. Using these voice samples, they can now generate a voice that sounds very similar to the real person, which is hard to detect.
+Now imagine an employee receiving a call that sounds exactly like the company’s CEO asking for money transfer. At this moment, the employee would be believing its CEO and lose their money.
+As we have seen, several incidents reported in recent years show that attackers have used voice cloning to convince employees to transfer large sums of money.
+This creates a new issue for CISOs, when voice itself may be duplicated, conventional identity verification techniques might no longer be trustworthy.
+AI-Enhanced Phishing Campaigns
+Using AI attackers create convincing emails in a matter of seconds.
+These messages consist of:
+Use of realistic language
+accurate company language
+discussing current projects
+professional formatting
+As a result of this, security teams now face phishing emails that look almost identical to legitimate emails.
+Automated Social Engineering
+The usage of AI chat systems for social media is another new trend.
+Attackers can implement automated chatbots that interact with victims like a real person. These bots can respond to questions, accordingly, adjust their tone, and maintain conversations like real person.
+For example, a victim might receive a message claiming to be from customer support center. Instead of a real person, the attacker uses an AI system that can hold a natural conversation and gradually guide the victim into revealing sensitive information, which is mandatory security protocol for most of the companies.
+Why This Matters for CISOs
+AI scams are not only common people, but they also pose significant threat to business as well.
+It is well known that all the employees in organizations communicate through email, messaging platforms, and video calls. Attackers can now easily spoof those tools that allow them to mimic these communication methods more effectively than ever before, making it harder to detect.
+As a result, it is more likely that the human element of cybersecurity becomes even more critical.
+Strengthening Organizational Defenses
+To lower the danger of AI-enabled scams, organizations should take several actions.
+Verification Protocols
+Employes should always verify financial or sensitive information through secondary channels before they proceed to the do an activity. A simple call to a known number can prevent many fraudulent attempts.
+Multifactor Authentication
+Even if credentials are compromised, MFA’s can prevent attackers from gaining access to critical systems.
+Escalation Procedures
+Employees should feel comfortable reporting suspicious activity or communication without fail. To avoid any kind of scam.
+Looking Ahead
+Artificial intelligence will continue to evolve indefinitely, and attackers will always continue experimenting with new ways to trap people.
+However, technology alone does not determine the outcome of cybersecurity battles. Awareness, strong processes, and a culture of verification remain powerful defenses.
+For cybersecurity experts, the aim is not only to deploy security tools but also to prepare people for a new generation of social engineering attacks.
+Because the next scam might not even appear to be a scam in the era of artificial intelligence.
+End of article.
+About the Author
+Shaikh Irfan
+is a cybersecurity researcher. He has completed his MIST in Cybersecurity. His work focuses on understanding emerging cyber threats and helping organizations improve their security posture through practical risk-based approaches.
+These pieces are being published as they have been received – they have not been edited/fact-checked by ThePrint.

@@ -1,0 +1,67 @@
+SOURCE: The Print
+TITLE: What is GPS spoofing, common along India-Pakistan border and now disrupting Delhi airport
+AUTHOR: Johan Jose
+DATE: 2025-11-06
+URL: https://theprint.in/feature/what-is-gps-spoofing-common-along-india-pakistan-border-and-now-disrupting-delhi-airport/2778509/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+It’s a form of electronic warfare that’s typically reported from conflict zones like Ukraine, Israel, or even the India-Pakistan border. But this week, GPS spoofing hit Delhi’s Indira Gandhi International Airport. Fake satellite signals misled aircraft navigation systems, sent flight paths off course, and threw operations at the country’s busiest airport into chaos.
+Air disruptions over Delhi on Tuesday night were the second-highest in the entire world, according to the flight tracking website Flightradar24,
+reported
+the
+Economic Times
+. The report added that about seven flights were diverted to Jaipur and the Navigation Integrity Category value, a measure of GPS accuracy, dropped from a normal value of 8 to 0
+.
+Worse, it’s a national security risk, with aviation experts
+warning
+that it could be a threat to the “integrity of civilian navigation systems”.
+Show Full Article
+Not just Tuesday, some pilots r
+eported
+encountering spoofing almost all last week.
+The incidents coincided with the airport’s main runway undergoing Instrument Landing System (ILS) upgrades, which left aircraft arriving here more dependent on satellite navigation and vulnerable to spoofing. The Directorate General of Civil Aviation (DGCA) is now
+collecting data
+on the incidents.
+Also Read:
+MIAL prepares to demolish defunct Terminal 1A of Mumbai airport amid grand revamp plans
+What is GPS
+s
+poofing?
+In essence, GPS spoofing involves manipulating navigation data with malicious intent. Unlike jamming, which blocks GPS signals, spoofing involves transmitting fake satellite signals to override genuine ones.
+The aircraft’s navigation systems pick up these counterfeit signals and calculate wrong data for position, altitude, time, and speed.
+The aim is for the target to act on false navigation information. The fake signals over-ride the genuine satellite signals using specialised hardware or software.  Since GPS satellite signals are weaker, the receiver considers the amplified spoofed signals as authentic.
+Aircraft may end up flying blind or even worse, dangerously off-course. A pilot preparing to land at IGI could suddenly find her instruments insisting she’s still somewhere over Haryana.
+In this case, the spoofing started about 60 nautical miles (around 111 kilometres) from Indira Gandhi International Airport.
+What are the risks?
+GPS manipulation is on the rise worldwide, especially in conflict areas. In June, the International Air Transport Association (IATA)
+recorded
+4.3 lakh cases of GPS jamming or spoofing over conflict zones in the past year, up 62 percent from 2023.
+In the India-Pakistan border region, around 465 incidents of GPS interference and spoofing were reported between November 2023 and February 2025,
+according to government data.
+In March, Indian Air Force aircraft carrying relief materials to
+earthquake-hit Myanmar
+also faced GPS spoofing and had to rely on backup navigation systems.
+While it is highly unusual to see GPS spoofing happening in civilian areas, especially peaceful ones, the technique can be weaponised in trade and commerce. Possible motives could include misdirecting deliveries, masking shipment locations, or facilitating fraud by manipulating location data. Last year, a surge in GPS spoofing in commercial airlines was
+reported
+by the aviation advisory body OPSGROUP.
+It is basically a threat to any business that relies on accurate time or location data—navigation, logistics, finance, or security.
+Maritime infrastructure is at risk too. Last month, Jitin Prasada, Union minister of state for Electronics and Information Technology, said cyberattacks such as GPS spoofing could impact the country’s national security.
+“These are not merely technical glitches; they are acts of warfare, executed with a silent precision that can cripple economies and undermine sovereignty without a single shot being fired,” he
+said at an Indian Navy seminar.
+Also Read:
+Who is Rama Duwaji? Her art activism helped husband Zohran Mamdani’s brand
+How are the authorities responding?
+The government is enquiring into the incident and examining measures to prevent a repeat.
+The DGCA has
+issued advisories
+to airlines and pilots, urging them to switch to alternative navigation systems and remain alert through warnings broadcast via the airport’s Automatic Terminal Information Service (ATIS).
+The airport, too, has work to do. The main runway’s Instrument Landing System — which uses ground-based radio signals instead of satellites — was under upgrade when the spoofing occurred, leaving aircraft more reliant on GPS and therefore more exposed. Delhi International Airport Limited (DIAL), which operates four runways, is working to deploy the upgraded Instrument Landing System (ILS) on the main runway 10/28 by 27 November.
+Meanwhile, traditional ground-based navigation is reportedly being re-enabled, even for low-visibility landing situations.
+A multi-layered navigation framework to detect anomalies as they occur and reduce sole reliance on satellite-based systems is needed as a fail-safe.
+In March, Minister of State for Civil Aviation Murlidhar Mohol
+noted
+that in line with global best practices, retaining “ground-based navigation infrastructure” was a way to offset the threat of GPS interference.
+Johan Jose is a TPSJ alumnus currently interning with ThePrint.
+(Edited by Asavari Singh)

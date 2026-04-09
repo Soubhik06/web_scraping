@@ -1,0 +1,48 @@
+SOURCE: The Print
+TITLE: How a hacked-email marketplace fuelled hoax bomb threats—and how police bought their way to the seller
+AUTHOR: Samridhi Tewari
+DATE: 2026-03-07
+URL: https://theprint.in/india/how-a-hacked-email-marketplace-fuelled-hoax-bomb-threats-and-how-police-bought-their-way-to-the-seller/2872452/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+He allegedly sourced dead and dormant email accounts from data leaks and the dark web, reset their passwords, replaced their recovery details with addresses he controlled, and sold them on to online buyers. It was only when Gujarat Police began tracing a string of hoax bomb threats that were triggering evacuations in the state that the trail led straight to his marketplace.
+Sourav Biswas (30) was arrested on 1 March from West Bengal’s North 24 Parganas district, as part of police’s investigation into bomb threat emails that were sent to schools, courts, metro stations and government offices across Delhi, Punjab, Haryana, Maharashtra, Gujarat and Uttar Pradesh.
+After the arrest, when Ahmedabad Crime Branch and cybercrime unit was searching Biswas’s home, they found a bank of nearly 200 Gmail accounts stored on his devices. The bank included passwords of these accounts and recovery email details.
+Show Full Article
+Police said Biswas ran the operation knowingly. “Biswas was aware these email IDs were being used to send bomb threats,” said an investigating officer.
+Also Read:
+Cybercrime saw 24% spike in 2025. Indians lost Rs 22,495 crore, mainly in investment scams
+The marketplace
+Biswas allegedly operated through an online platform—expetseller.com, referred to as F5gitServices by users—that sold a range of hacked digital services: Gmail accounts, Google Voice numbers, cash app and bank accounts, VPN and proxy services, and social media accounts on Facebook, Instagram, WhatsApp and Telegram, along with valid phone numbers and remote desktop access tools.
+Prices ranged from $10 to $50 for most services, though individual email accounts were sold for $5 to $15 each—and sometimes for as little as $1, police said.
+All transactions were conducted in cryptocurrency. “All payments were made through cryptocurrency, mainly USDT (Tether, a digital currency), which made it difficult to trace the financial trail,” said Sharad Singhal, Joint Commissioner of Police, Ahmedabad Crime Branch.
+Biswas’s method followed a consistent pattern, police believe. He allegedly targeted email IDs that were no longer actively used. This could include accounts that had surfaced in database leaks, and their original IP addresses were often registered in the US or other countries.
+Once he obtained access, Biswas allegedly changed the passwords, usernames and recovery email addresses, substituting the recovery details with accounts controlled by himself or his associates.
+This gave him the ability to regain control of the accounts whenever verification was required—and to sell them on to buyers, police said.
+To cover his tracks, Biswas allegedly used VPN services, proxy servers and virtual phone numbers that made login activity appear as if it was originating from outside India. In several cases, the IP addresses associated with the threat emails were traced back to Bangladesh, police said.
+The threats—and the pattern
+The bomb threat emails that set the investigation in motion contained deliberately provocative language, invoking “Khalistan”, gangster Lawrence Bishnoi and Union Home Minister Amit Shah. They immediately triggered security responses—evacuations and the deployment of bomb disposal squads and police teams—across multiple states.
+Dozens of these hoax email threats have been reported over the past year. Gujarat Police registered an FIR after bomb threats were received across Ahmedabad in February. Other state police forces are investigating similar hoax threats.
+Cybercrime officers, police said, began picking apart the technical anatomy of the emails: headers, IP addresses, routing data, and the recovery email IDs linked to the email accounts. Gradually, a pattern emerged. Several of the compromised accounts shared a common recovery email structure.
+“It suggested that they may have originated from a common source,” the investigating officer said.
+The decoy buy & the seizure
+To confirm the link, Ahmedabad police officers posed as buyers on Telegram and on Biswas’s marketplace and purchased 10 to 15 email IDs.
+“Around 10-15 email IDs were purchased on 23 February, from the online platform. When we analysed those accounts, we found the same recovery email pattern that resulted in some of the bomb threats,” the investigating officer said, adding: “This helped establish a link between the accounts being sold and the threatening emails under investigation.”
+The digital trail then led investigators to a Gmail ID associated with the Gopalnagar area in North 24 Parganas. With assistance from West Bengal Police, Biswas was arrested on 1 March.
+Officers said they searched Biswas’s residence and seized three CPUs, five computer hard disks, three mobile phones and an internet router.
+“Forensics examined that the device contained nearly 200 Gmail IDs, along with passwords and recovery email date, as well as several Hotmail accounts. Some of these email IDs had been used to send bomb threats to several states,” Singhal told ThePrint.
+The Bangladesh link
+Police found that some of the compromised email IDs had been sold to individuals in Bangladesh.
+Biswas, according to police, had moved to India from Bangladesh during the Covid-19 pandemic in 2021 and settled near the Indo-Bangladesh border.
+Investigators said they aren’t sure of his nationality, and believe his original name before moving to India illegally was ‘Michael’.
+Police said his sister lives in Dhaka and her email ID was used as a recovery address in some of the accounts.
+Indian authorities have reached out to Bangladesh for assistance, but have not received any cooperation so far, Singhal said.
+Before entering the hacked-accounts trade, Biswas had worked at a cyber cafe, later transitioning into a digital marketing role, in which he managed bulk promotional emails, police said.
+Biswas has been charged under sections 351(3) (threat to cause death, grievous hurt) 351(4) (criminal intimidation by anonymous communication) 353(1)(B) (public mischief) and 61(2) (criminal conspiracy) of the Bharatiya Nyaya Sanhita along with provisions of the Information Technology Act, including Section 66F(2) for cyber terrorism.
+“During sustained interrogation, Biswas revealed he obtained this skill set from the internet, however, we are investigating if the syndicate was behind in training him. It was a proxy war,” police said.
+Biswas is currently in Ahmedabad police custody. Investigators said they will start identifying buyers of the email IDs next.
+(Edited by Prerna Madan)
+Also Read:
+Keep enough staff on cybercrime helpline—Amit Shah tells states to improve response time to 1930 calls

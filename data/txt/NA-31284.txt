@@ -1,0 +1,34 @@
+SOURCE: The Print
+TITLE: SubscriberWrites: The AI safety debate: Will my AI rule the world?
+AUTHOR: Ashutosh Bagga
+DATE: 2023-11-09
+URL: https://theprint.in/yourturn/subscriberwrites-the-ai-safety-debate-will-my-ai-rule-the-world/1838936/
+
+--- ARTICLE TEXT ---
+
+Thank you dear subscribers, we are overwhelmed with your response.
+Your Turn is a unique section from ThePrint featuring points of view from its subscribers. If you are a subscriber, have a point of view, please send it to us. If not, do subscribe here:
+https://englishdev.theprint.in/subscribe/
+T
+wo major events – US White House Executive Order and the AI safety summit in UK –  in the last couple of weeks have brought the discussion on AI safety front and centre into many a living room with questions and fears ranging from propagation of misinformation, to misuse of private data by new and unknown data behemoths (read : OpenAI, Deepmind, Anthropic) and finally but spoken with the loudest voices – a terminator style AI Armageddon
+Show Full Article
+While the debate is still raging and countries are being accused of trying to monopolize and control AI – I want to talk a little bit about what does AI safety really mean or at least should mean in my humble opinion as a AI practitioner
+So – What is AI safety?
+To better understand the implications of AI safety, it’s essential to consider the role of
+AI governance
+in shaping policies that ensure responsible development and deployment of AI technologies.
+In my opinion, any AI safety policy should comprise at least 3 things –
+Security of development
+Protection of individual privacy and liberty (to the extent possible)
+Safety from weaponization
+Safety of Development
+In simple words – researchers, practitioners, organizations – private or govt. Owned should be free and enabled sufficiently to develop AI models while ensuring the following
+Data that is deemed to be free for public usage is made available for training and evaluation
+Adequate resources are enabled in terms of compute (GPUs) for efficient model development
+Research as much as possible is shared across organizations and nation states
+Protection of individual privacy and liberty (to the extent possible)
+While I understand privacy in today’s world is a concept that is difficult to ensure in earnest given the vast amount of user generated data that is publicly available and data that becomes available from tertiary sources through careful data engineering or worse – data leaks. I do believe it is a fairly reasonable ask to be excluded from your data being used to train and all-encompassing Large Language model trained by scraping everything on the world wide web
+Safety from weaponization
+While I still feel uncomfortable discussing the weapons that can be created using AI without ending up providing a roadmap to a “Dr. Doom” type character, I do believe we are seeing some weapons built out for a while now – misinformation generated/propagated at scales that it becomes believable. The fear I would then have is not the rise of the terminator but the manipulation of human attention in ways that they in turn destroy each other. These fears are not misguided and adequate measures need to be put in place to ensure we can provide a safe space for consumers and practitioners
+Now whether policy makers or nation states at the helm of determining this safety, make the call-in favor of humanity or their own vested interest – may end up determining – if their AI will rule the world.
+These pieces are being published as they have been received – they have not been edited/fact-checked by ThePrint.

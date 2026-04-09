@@ -1,0 +1,29 @@
+SOURCE: The Print
+TITLE: ‘Tech-agnostic’ but stricter: At AI Summit, govt defends tighter AI, ‘synthetic’ media compliance norms
+AUTHOR: Vrinda Tulsian
+DATE: 2026-02-17
+URL: https://theprint.in/india/tech-agnostic-but-stricter-at-ai-summit-govt-defends-tighter-ai-synthetic-media-compliance-norms/2856981/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+As the Centre prepares to enforce stricter compliance obligations on ‘synthetic’ and AI-generated audiovisual content under amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, a senior government official said the focus is on empowering individuals rather than penalising platforms—even as industry leaders cautioned that implementation timelines may be tight.
+Speaking at the India AI Summit Tuesday, Deepak Goel, of the Cyber Law and Data Governance division of Ministry of Electronics and Information Technology (MeitY) framed the debate around risk and accountability in the age of generative AI.
+“In our very strong opinion, it’s the individual who is bearing the risk,” Goel said, pointing to voice cloning, deepfakes and impersonation. “My likeness is getting cloned. My voice is getting synthesised. My credibility is getting undermined.”
+Show Full Article
+Goel stressed that India’s approach to digital regulation has historically been “technology-agnostic” to allow solutions to scale across a diverse and mobile-first user base. Any provenance or labelling system, he said, must be “transparent, understandable, interoperable and immutable.”
+The
+amended IT Rules
+—notified earlier last week and set to take effect from February 20— explicitly bring “synthetically generated information” within due diligence obligations for intermediaries. Platforms must require user disclosures when uploading AI-generated audiovisual content and deploy reasonable technical measures to verify such claims. The platforms also must take down content within 3 hours of being notified by the government.
+While the government has signalled that the rules are aimed at verifiability and accountability rather than blanket censorship, industry representatives at the summit raised questions about operational readiness at scale.
+Andy Parsons, Global Head of Content Authenticity at Adobe, highlighted the role of the C2PA (Coalition for Content Provenance and Authenticity), a cross-industry standard developed with partners including Microsoft and Google. The standard attaches cryptographic credentials to images, video and audio to show how they were created and whether AI tools were used.
+“It’s not a silver bullet,” Parsons said, describing C2PA as a “foundational technology” that can support transparency but not solve the problem alone.
+Sameer Boray of the Information Technology Industry Council (ITI) echoed that view, calling C2PA “a good start” but cautioning that no single technical measure can fully address synthetic media risks. He suggested a phased approach to compliance, given India’s scale and diversity of devices, languages and platforms.
+Gail Kent, Global Public Policy Director at Google, said trust in the AI era would depend on collaboration between companies, governments and users. She outlined three pillars: technical provenance tools such as C2PA, user-facing systems that make those credentials understandable, and sustained investment in media literacy.
+“Just because something is created by AI doesn’t mean it’s not trustworthy,” Kent said, warning against conflating AI-generated content with harm.
+A key point of discussion was India’s requirement that users self-disclose AI-generated audiovisual content, while platforms verify and attach persistent identifiers. Panelists noted that widespread adoption of standards such as C2PA across social networks and messaging services remains uneven, raising questions about how consistently the new obligations can be implemented across the digital ecosystem.
+Goel indicated that the government is open to technological evolution and market-led solutions, but said that citizen protection remains central. “He has the right to know,” he said, referring to users. “He has the right to question against impersonation.”
+With enforcement deadlines approaching, the summit discussion reflected both regulatory urgency and technical complexity — positioning India as one of the first large democracies to operationalise synthetic media governance at national scale.
+(Edited by Shashank Kishan)
+Also Read:
+India’s AI rules risk curbing lawful content. Three-hour takedown policy is unprecedented

@@ -1,0 +1,149 @@
+SOURCE: The Print
+TITLE: Make Sanchar Saathi removable. Good intentions don’t excuse State overreach
+AUTHOR: K.B.S Sidhu
+DATE: 2025-12-02
+URL: https://theprint.in/opinion/sanchar-saathi-good-intentions-state-overreach/2796306/
+
+--- ARTICLE TEXT ---
+
+T
+he Department of Telecommunications has turned Sanchar Saathi from a voluntary service into a near-universal presence on new handsets sold in India.
+Acting under the Telecom Cyber Security Rules, 2024, the central government has directed all manufacturers and commercial importers of mobile phones “intended for use in India” to
+:
+P
+re-install the app.
+E
+nsure it is clearly visible at first use.
+A
+ttempt to push it via software updates to devices already in the sales channel.
+S
+ubmit compliance reports.
+The stated rationale is straightforward: cloned and spoofed IMEIs
+(international mobile equipment identity)
+, fraudulent connections, phishing calls, and cyber-enabled financial crime threaten both individual users and the integrity of telecom networks. Linked to the Central Equipment Identity Register, Sanchar Saathi can help verify whether a handset is genuine, block stolen phones, and report suspicious numbers.
+Show Full Article
+The problem isn’t
+the intentions
+; it is the method by which the State
+proposes to achieve
+them
+.
+Privacy after Puttaswamy
+The proper lens for examining this mandate is the Supreme Court’s privacy jurisprudence, beginning with
+Justice K.S. Puttaswamy (Retd.) v. Union of India
+.
+In this case,
+a nine-judge
+b
+ench recognised privacy as a fundamental right grounded in dignity, liberty, and equality, but accepted that it may be limited for legitimate State aims if a strict proportionality test is met.
+There
+must be a clear law
+with
+a legitimate purpose
+—or
+a measure that is suitable
+,
+necessary
+,
+and the least rights-restrictive option
+—
+and robust safeguards against abuse. The
+2018
+Aadhaar decision applied this framework, upholding the scheme only after pruning some uses and stressing purpose limitation and data minimisation. The Court was clear that participation in modern life cannot be conditioned on surrendering control over one’s own data and choices.
+Against this standard, Sanchar Saathi passes the easy parts. The Telecommunications Act and the Cyber Security Rules provide legal authority, and the fight against IMEI tampering and digital fraud is a valid and pressing public purpose. The difficulties lie in
+the
+necessity
+of the restriction as well as
+the need for the
+least intrusive
+measure
+and
+for
+safeguards.
+Until now, Sanchar Saathi existed as a portal and as an optional app that
+lakhs
+chose to download, suggesting genuine utility. The new direction converts it into a system-level application baked into Indian software builds and pushed to existing devices. If users
+can’t
+uninstall or meaningfully disable it, consent becomes largely illusory
+. T
+he citizen no longer opts in to a State service
+;
+the State is simply installed on
+their
+phone.
+Also read:
+That one sentence from US central bank changed gold prices
+Aadhaar
+and
+Pegasus
+The controversy does not arise in isolation. It follows a decade of battles over Aadhaar, surveillance, and the use of intrusive technologies by the State. In the Aadhaar litigation, critics warned that a centralised biometric ID could become a tool for profiling and exclusion on a massive scale. The Supreme Court’s cautious endorsement and Justice
+DY
+Chandrachud’s famous dissent have ensured that Aadhaar remains a symbol of unresolved tension between welfare, security, and privacy.
+The
+2021
+Pegasus episode pushed
+the
+anxiety into the realm of covert digital intrusion. Allegations that
+the
+military-grade spyware had been used against journalists, activists
+,
+and political opponents prompted the Court to appoint a technical committee
+. It also
+underline
+d
+that even in the name of national security, surveillance cannot be left to executive discretion alone. In this political and legal climate, any attempt to place a compulsory government app on every smartphone will inevitably be read against a background of distrust, not blind faith in official assurances.
+Risk of function creep
+From the government’s perspective, the case for
+the
+compulsion is practical
+. I
+f Sanchar Saathi sits on every handset, it becomes a uniform interface for blocking stolen phones, validating devices, and reporting fraud. But proportionality demands more than administrative convenience. The State already possesses powerful tools, including stringent KYC norms for SIM issuance and network-level blocking of blacklisted IMEIs through CEIR. It could also promote Sanchar Saathi aggressively as a voluntary app, integrated into telco messages and setup flows, without making it undeletable.
+A
+mandatory, non-removable app is
+not
+the least intrusive way of pursuing the stated aim.
+Compulsion also magnifies the risk of function creep. To work as advertised, Sanchar Saathi legitimately needs access to device identifiers, SMS for verification, the camera for scanning labels, and, in some cases, call logs or storage when reporting fraudulent communications. When installation is voluntary, this can be defended as a conscious trade-off between convenience and data access. Once the app is embedded as a system component, that trade-off evaporates.
+Future updates could quietly expand
+the app’s
+capabilities, deepen integration with law-enforcement databases, or enable background telemetry far beyond users’ expectations.
+The p
+rivacy law exists to guard not only against
+the State’s
+present intentions but also what
+future
+governments might be tempted to do with
+the
+infrastructure.
+There is a market dimension
+, too
+. Supporters of the mandate argue that a brand-new handset sold in India without Sanchar Saathi will stand out as a grey-market or smuggled device, giving authorities a new enforcement handle. Yet, if the app acquires a reputation as intrusive “stateware”, some users will actively seek out phones that
+are free of it
+: foreign-region models, gifts brought in from abroad, or devices with modified firmware that strips system apps. That is precisely the ecosystem where insecure, malware-ridden devices prosper. A measure meant to harden the system could, ironically, push
+some
+users into less regulated and less secure spaces.
+Also read:
+Why China targets Arunachal citizens — and how Nehru, Patel and Khathing saw it coming
+‘
+N
+on-compliant’ phones
+The text of the direction ties obligations to manufacturers and commercial importers, not to individual travellers. A tourist, an NRI
+,
+or a visitor who arrives with a lawfully purchased foreign phone may continue to use it on roaming or with an Indian SIM, regardless of whether Sanchar Saathi is installed. The mandate does not create an offence out of ordinary use of such devices. The difficulty arises later, when those phones stay behind.
+Devices are gifted to relatives, sold second-hand or simply reused
+. O
+ver time, a sizeable pool of perfectly legal but “non-compliant” handsets builds up inside the country. Unless telecom operators are separately instructed to treat these differently, the dream of universal reach
+won’t
+be realised. The burden of compliance falls heaviest on formal manufacturers, while the most porous edges of the market remain open.
+C
+ourse correction
+None of this means
+that
+Sanchar Saathi must be abandoned. As a portal and voluntary app, it has already shown how technology can empower users to control their devices and connections. But if the initiative is to survive both judicial scrutiny and public scepticism, it needs recalibration.
+A privacy-respecting approach would keep user choice at its core. The app could still be pre-installed yet remain fully uninstallable or genuinely
+removable
+, with a clear explanation that certain conveniences would then need to be accessed via the web portal. A specific, legally binding data protection policy for Sanchar Saathi should describe what data is collected, who may access it, for what purposes, and for how long
+, as well as
+how citizens can seek redress. Independent technical and legal audits, with published summaries, would help demonstrate that the app has not silently drifted beyond its stated remit.
+India is right to worry about telecom cybersecurity. However, the lesson of Puttaswamy, Aadhaar, and Pegasus is that good intentions do not excuse overreach. Security by default may be an attractive slogan for any State. Security with consent, transparency, and firm constitutional guardrails is the standard to which a constitutional democracy must hold itself.
+KBS Sidhu is a former IAS officer who retired as Special Chief Secretary, Punjab. He tweets @kbssidhu1961. Views are personal.
+(Edited by Prasanna Bachchhav)

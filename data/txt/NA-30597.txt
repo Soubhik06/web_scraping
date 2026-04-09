@@ -1,0 +1,23 @@
+SOURCE: The Print
+TITLE: Bankman-Fried directed special FTX privileges for Alameda -testimony
+AUTHOR: Reuters
+DATE: 2023-10-06
+URL: https://theprint.in/tech/bankman-fried-directed-special-ftx-privileges-for-alameda-testimony/1793448/
+
+--- ARTICLE TEXT ---
+
+By Jody Godoy and Luc Cohen
+NEW YORK (Reuters) – Sam Bankman-Fried asked two executives of his FTX cryptocurrency exchange to tweak the exchange website’s computer code to let his hedge fund withdraw unlimited funds just months after FTX was launched in 2019, a former executive testified on Friday at the fallen crypto wunderkind’s fraud trial.
+Gary Wang, FTX’s former chief technology officer, said a feature letting the fund, Alameda Research, run a negative balance on the exchange was one of the fund’s special privileges that were not disclosed to the public and ultimately let it withdraw $8 billion in FTX customer funds by the time of the exchange’s November 2022 bankruptcy.
+Wang, 30, is one of three former members of Bankman-Fried’s inner circle who have pleaded guilty to fraud charges and entered a cooperation agreement with the government. He and Bankman-Fried were college roommates before going on to co-found Alameda.
+Show Full Article
+Prosecutors say Bankman-Fried plundered billions of dollars in FTX customer funds to prop up Alameda, buy real estate and donate money to U.S. political campaigns in an effort to burnish his influence in Washington, D.C. They say Alameda’s special privileges were one of his main mechanisms to take the funds.
+Bankman-Fried has pleaded not guilty to two counts of fraud and five counts of conspiracy. His lawyer said during opening statements on Wednesday that FTX was a startup, and that Alameda was not just an ordinary customer on the exchange but a market maker, which generated supply and demand in the exchange’s early days.
+With Wang on the stand, prosecutors showed jurors portions of FTX’s computer code, which included a spreadsheet column with the title “Allow Negative.” Only accounts Wang said belonged to Alameda had a check mark in that column.
+He said Bankman-Fried asked him and Nishad Singh, FTX’s former engineering chief, to implement the feature in July 2019. Singh has also pleaded guilty and is expected to testify later on at the trial, which could last up to six weeks.
+Wang testified that when Alameda’s account went below zero, that meant it was taking money from other FTX customers.
+Bankman-Fried spoke with his attorney, Mark Cohen, at the defense table after that comment. The defense is expected to cross-examine Wang later on Friday.
+While Wang is the first cooperator to take the stand, jurors have so far heard from three other witnesses. A former FTX user testified he was unable to withdraw his funds after the exchange collapsed, and Matt Huang, the head of a crypto-focused fund that invested in FTX, said he was told Alameda received “no preferential treatment” on the platform.
+Adam Yedidia, a former FTX computer programmer who reported to Wang, testified that he expressed concern to Bankman-Fried in mid-2022 after learning that Alameda had borrowed $8 billion from the exchange. He said Bankman-Fried appeared worried and told him the companies were “not bulletproof” as they had been the year before.
+(Reporting by Jody Godoy and Luc Cohen in New York; Editing by David Gregorio, Nick Zieminski and Matthew Lewis)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

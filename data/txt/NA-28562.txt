@@ -1,0 +1,47 @@
+SOURCE: The Print
+TITLE: Telegram, Meta, Google oppose govt proposal for ‘kill switch’ to curb digital arrests. Here’s why
+AUTHOR: Vrinda Tulsian
+DATE: 2026-02-10
+URL: https://theprint.in/tech/telegram-meta-google-oppose-governments-proposal-for-kill-switch-to-curb-digital-arrest-scams-cite-unintended-risks/2850652/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+Major technology and messaging platforms have opposed a government proposal to introduce a “kill switch” to curb digital arrest scams, arguing that time-based disruption of video calls would be ineffective and could harm legitimate users.
+Telegram, Meta and Google recorded their objections during consultations with government agencies, according to a status report filed by the Ministry of Home Affairs (MHA) before the Supreme Court Monday. The report was submitted in response to a suo-motu writ petition taken up by the court on digital arrest scams.
+The proposal of a ‘kill switch’ was discussed at a January meeting convened by the Ministry of Electronics and Information Technology (MeitY) with a committee formed on the directive of the Supreme Court. The committee includes representatives from the government, messaging platforms, telecom authorities, law-enforcement agencies and amicus curiae N.S. Nappinai as part of the court-mandated exercise to examine preventive and remedial measures.
+Show Full Article
+The Supreme Court bench of Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice N.V. Anjaria described the siphoning of citizens’ money through digital arrest scams as “robbery or dacoity” during Monday’s hearing.
+Also Read:
+As Andhra considers Australia-like social media ban for kids, parents & experts warn against rushed law
+The scam & the solution
+Digital arrest scams involve fraudsters impersonating authority figures such as police officers, Central Bureau of Investigation (CBI) officials, customs authorities or judges through video calls and messaging platforms. Targets are told they are under “digital arrest” for offences and warned not to disconnect calls. Simultaneously, targets are told that the so-called cases against them will be taken care of if they transfer money or share sensitive information.
+MHA officials told the apex court Monday that targets are often kept on video calls for hours, if not days, effectively isolating them from family members, banks or the police.
+Against this backdrop, government agencies examined a call-level intervention described as a “kill switch” that would automatically terminate or interrupt video calls after a specific duration or under specific conditions, potentially breaking the scammer’s hold and giving targets an opportunity to seek help.
+Platform objections
+Dubai-based Telegram told the government that “restricting or arbitrarily limiting communication features, including dropping or capping ongoing interactions, may not always achieve the intended protective outcome”, according to the report.
+“In certain scenarios, such interventions may inadvertently increase user anxiety or distress,” the platform said, adding that it continues to assess the feasibility and impact of such measures through internal research.
+Meta, which owns WhatsApp, Facebook and Instagram, was more direct, telling the government that digital arrest scams succeed primarily because of impersonation rather than call duration.
+“These scams succeed primarily because bad actors impersonate authorities such as the police, the Central Bureau of Investigation, courts, or regulators—not because calls are lengthy,” Meta said in its submission.
+The company said it was “not aware of any evidence” that limiting call duration reduces fraud-related losses, and warned that bad actors would adapt to technical restrictions while legitimate users would face disruption.
+The Print has reached out to representatives of Meta, Google and Telegram. The copy will be updated if and when they send a response.
+Alternative measures
+Telegram told the committee in January that it deploys “advanced, platform-wide AI and machine learning (ML)-powered detection systems” to identify fraud and impersonation activity, supported by automated enforcement and human moderation. It claimed that these systems operate with “an accuracy of at least 99.1 percent”.
+Telegram also highlighted features such as warnings before redirecting users to external links, granular privacy controls that allow users to block unknown callers, and in-app reporting mechanisms.
+The report recorded MeitY’s concern that Telegram’s username feature is susceptible to misuse. Since usernames can be changed frequently and phone numbers are not visible, targets often struggle to identify fraudsters while filing complaints, especially if accounts are deleted.
+Telegram has assured the government it will submit a report on this issue.
+Meta said WhatsApp relies on behavioural and technical signals to detect scams, as it cannot access message content between users due to end-to-end encryption. According to Meta, “more than 75% of violative accounts are detected and blocked at the registration stage itself,” and nearly 12 million accounts linked to scam centres have been disrupted across Facebook, Instagram and WhatsApp. By December 2025, Meta said it had removed more than 134 million scam advertisements.
+Separately, Microsoft did not provide an official stand on the ‘kill switch’ as part of its submission to the report. But its representative had told the committee during the January meeting that measures to prevent digital arrest scams in now-defunct Skype included limiting the duration of video calls beyond a stipulated time, kill switches, and panic or stress buttons. The efficacy of these measures was also deliberated upon by the committee, according to the report.
+Google flags sideloaded apps
+Google’s submission to the government focused on risks linked to the Android ecosystem, particularly sideloaded applications that request sensitive permissions from users.
+The company said it has piloted enhanced fraud protection in India through Google Play Protect, which “analyses app installations from an internet sideloaded source… blocking those with sensitive permissions frequently abused for financial frauds”.
+Google also flagged targeted scam advertisements using the likeness of public figures, including deepfakes, and said that automated enforcement models have been trained to detect and remove such ads at scale.
+Google highlighted its Android developer verification initiative, under which apps will need to be registered to verified developer accounts. “Starting in 2027, the requirement will be rolled out globally,” the submission said.
+Law enforcement coordination
+The MHA report noted that funds extracted during digital arrest scams are frequently routed through mule accounts, often recruited or advertised through online platforms.
+The Supreme Court had designated CBI as the nodal agency for digital arrest cases, citing the pan-India spread of cybercrimes. Intermediaries have been asked to cooperate closely with enforcement agencies in furnishing user information and tracing coordinated networks.
+Telegram said it provides “expeditious cooperation” and operates a dedicated India channel monitored “24×7”. Meta said it discloses subscriber information, IP logs and device details to law-enforcement agencies pursuant to valid legal requests and conducts training sessions with the Indian Cyber Crime Coordination Centre (I4C).
+The Supreme Court Monday also directed MHA to draft a standard operating procedure (SOP) in consultation with stakeholders such as the Reserve Bank of India, banks and the Department of Telecommunications to deal with such cases.
+(Edited by Prerna Madan)
+Also Read:
+Meet the VCs powering India’s AI boom. Old rules aren’t working anymore

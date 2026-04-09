@@ -1,0 +1,58 @@
+SOURCE: The Print
+TITLE: FBI took down 19 million ‘zombie’ computers engaged in financial fraud, identity theft
+AUTHOR: David Elliott
+DATE: 2024-06-22
+URL: https://theprint.in/world/fbi-took-down-19-million-zombie-computers-engaged-in-financial-fraud-identity-theft/2142705/
+
+--- ARTICLE TEXT ---
+
+I
+n late May 2024, the US Federal Bureau of Investigation made an arrest in a case it described at something “ripped from a screenplay”.
+The operation took down a botnet that had infected millions of computers with malware in nearly 200 countries. Selling access to this network enabled crimes, including billions of dollars of financial fraud, identity theft, bomb threats and access to child exploitation materials around the world.
+The alleged operator used the proceeds to buy fast cars, luxury watches and properties in multiple countries.
+Show Full Article
+The service,
+known as “911 S5”
+, is thought to have been the world’s biggest-ever example of a botnet. And it comes as the share of
+web traffic caused by harmful bots is rising
+year-on-year.
+What is a botnet?
+Botnets are created
+when cybercriminals use malware viruses – called Trojans – to breach the security of users’ computers and even connected
+internet-of-things (IoT) devices
+.
+This malware can be hidden in an infected email attachment or a link the user is tricked into opening. In the case of 911 S5, residential IP addresses were compromised when users downloaded pirated software or virtual private network programs, which then loaded malware onto their devices.
+The criminals then take control of infected machines and organize them into a network of bots – also known as a “zombie army” – that they can remotely manage. The owners are usually unaware of what is happening.
+Almost half of all global traffic is related to bot activity, with a third of overall traffic being connected to a malicious program, according to the annual
+Bad Bot Report
+from cybersecurity company Imperva.
+What are botnets used for?
+Botnets can be used by
+hackers and organized criminals
+to perform illegal activities online. For example, launching
+denial of service attacks
+– an attempt to overload a website or network to damage its performance or make it inaccessible – or sending a phishing attack to steal credentials for identity theft.
+With 911 S5, criminals bought access to the service and then used the hijacked computers to conceal their identities as they committed crimes.
+According to the FBI, this allegedly included targeting pandemic relief programmes and submitting hundreds of thousands of fraudulent unemployment insurance claims. The scams resulted in fraudulent losses of more than $5.9 billion.
+Other cybercrime trends
+Cybercrime is on the rise. In the next five years, it is predicted that the global cost of cybercrime will be almost $14 trillion.
+Cyber insecurity is ranked as one of the top five risks currently facing the world in the World Economic Forum’s latest
+Global Risks Report
+.
+The global cost of cybercrime is expected to reach almost $14 trillion by 2028.Image: Statista
+According to Microsoft, some of the top cyber threats are attempts to steal passwords,
+ransomware
+– a type of malware that blocks access to files or devices until a ransom is paid, and phishing attempts, including
+business email compromise
+, where a scammer attempts to trick an executive or budget holder into transferring funds, or revealing sensitive information.
+The Forum’s Global Risks Report says that new tools and capabilities, such as generative AI, will make cybercrime increasingly low-risk and low-cost, and open new markets for criminals. For example, phishing attacks can now be easily translated into minority languages with AI.
+Over the coming years, the report continues, more sophisticated cyber defences will move targets to less secure infrastructure and systems and less digitally literate individuals.
+Cyberattacks are considered a top five risk to the world currently.Image: World Economic Forum
+What is being done about cybercrime?
+“What they don’t show in the movies,” said a spokesperson for the US Department of Commerce’s Bureau of Industry and Security on the 911 S5 case, “is the painstaking work it takes by domestic and international law enforcement, working closely with industry partners, to take down such a brazen scheme.”
+Yet the world is facing a big cyber-skills gap, with a
+global shortage of nearly 4 million cyber professionals
+. Challenges including lack of distinct career paths, outdated training and costly certifications are among the barriers discouraging people from pursuing a professional career in cybersecurity.
+This
+article
+previously appeared in the World Economic Forum.

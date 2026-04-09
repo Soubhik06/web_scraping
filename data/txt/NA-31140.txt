@@ -1,0 +1,46 @@
+SOURCE: The Print
+TITLE: No more tests, a bracelet-like device aims to track women’s hormones real-time
+AUTHOR: Sneha Richhariya
+DATE: 2026-02-16
+URL: https://theprint.in/science/no-more-tests-a-bracelet-like-device-aims-to-track-womens-hormones-real-time/2855520/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+If all goes as planned, women will only have to wear a bracelet-like device to track their hormones in real-time—innovation that can possibly ease fertility treatment and expand what we know about women’s health.
+Abhinav Agarwal, who is from Jaipur and studied computer science at Stanford University, co-founded ‘Clair’ with another graduate of the US college Jenny Duan. The non-invasive wearable device eliminates the need for blood, saliva or urine tests to monitor hormonal changes.
+The wrist-worn device uses multiple biosensors to track more than 100 physiological signals and employs machine-learning models to estimate levels of five critical hormones: oestrogen (estradiol), progesterone, luteinising hormone (LH), follicle-stimulating hormone (FSH) and pregnanediol glucuronide (PdG).
+Show Full Article
+“We’ll be seeking Food and Drug Administration (US FDA) approval. First, it will be a Class I medical device or a Class I general wellness device. And then once it gets FDA approval, it will be sold as a Class II medical device,” Agarwal told ThePrint.
+According to the US FDA, Class I devices are low-risk products subject to general regulatory controls, while Class II devices are moderate-risk products requiring greater oversight and formal clearance demonstrating safety and effectiveness.
+Also Read:
+A US man lived two days without lungs. Why it can revolutionise transplant practice
+Addressing a research gap
+Women have remained grossly underrepresented in medical research for decades, resulting in limited data and slow progress in understanding women’s health.
+Hormones are chemical messengers that travel through the bloodstream and regulate essential processes, including metabolism, mood, sleep, fertility and cardiovascular health. In women, reproductive hormones such as oestrogen, progesterone, LH and FSH fluctuate across the menstrual cycle.
+Tracking these changes can help confirm ovulation, identify irregular cycles, support fertility treatments and aid in diagnosing conditions such as polycystic ovary syndrome (PCOS), a chronic hormonal disorder affecting about 10-13 percent of women of reproductive age, according to the World Health Organisation.
+The hormones work together to regulate the menstrual cycle. FSH supports egg development, LH triggers ovulation, oestrogen builds the uterine lining, and progesterone sustains the second half of the cycle. Measuring only one offers an incomplete picture of ovulation, cycle health and fertility.
+Most at-home hormone tracking tools currently available are urine-based kits, such as those sold by San Francisco-based Mira and Colorado-based Proov, which are available in India and require users to test first-morning urine to estimate hormone levels.
+Indian-origin start-ups have also been selling devices that support hormone-related tracking. For instance, Inito Fertility Monitor connects to a smartphone and measures reproductive hormones such as oestrogen, LH PdG and FSH using urine test strips.
+Ultrahuman, a Bengaluru-based company, offers a device that tracks biomarkers such as skin temperature, heart rate variability and sleep patterns. These can be used to study menstrual cycle trends.
+But continuous and direct hormone-sensing wearables are not yet commercially available.
+Some research groups, including at Caltech, are exploring sweat-based hormone sensors, but these are largely limited to measuring oestradiol and are not yet widely available commercially.
+“Just measuring oestradiol is almost like driving a car with one wheel. You need all four hormones to understand what’s actually happening,” Agarwal said.
+He pointed to more invasive approaches, including implantable subdermal sensors being developed by Swiss-based startup Imply, which require devices to be placed beneath the skin.
+Clair plans to test its device in an independent study run by the Stanford Gladstone Initiative. Around 150 women will use the device for three months, starting in late May this year. The research team will collect and analyse the data, and publish the results independently in peer-reviewed journals. After that, the company will apply for FDA approval.
+If it follows the founders’ schedule, the device will be available in the US by November this year. For any expansion to other countries, the company will need to carry out larger trials.
+Agarwal said one major use-case for the device is fertility treatment. Women undergoing in-vitro fertilisation (IVF) often require frequent blood tests to monitor hormone levels. Continuous tracking could reduce clinic visits and help doctors better time procedures.
+Another potential application is sports medicine. Agarwal said aligning training schedules with hormonal cycles may help reduce injuries such as anterior cruciate ligament (ACL) tears, which affect a key stabilising ligament in the knee and are more common in women athletes.
+Privacy safeguards
+Given the sensitivity of reproductive health information, Agarwal said Clair stores data locally on users’ phones by default, with optional encrypted cloud backup.
+“From wearable data, you can recreate a fertility history—when someone got pregnant, when they may have had a miscarriage. That’s why we’ve built the entire architecture around privacy,” Agarwal said.
+“There is so much about hormonal health that we don’t understand because there isn’t enough data. Continuous monitoring — whether it’s us or someone else — will unlock new insights,” he added.
+If successful, devices like Clair could bring reproductive health tracking closer to how glucose and heart rhythms are monitored in real time.
+Dr Uma Vaidyanathan, Director (Obstetrics and Gynaecology) at Fortis Hospital in Shalimar Bagh-New Delhi, said hormone tracking is still largely limited to blood tests, urine kits, saliva tests and symptom-tracking applications.
+“Blood tests remain the medical gold standard, but they are invasive and only give us a single snapshot in time,” she said. Urine and saliva-based tests, she added, are easier but less reliable.
+According to her, continuous hormone tracking through a wearable or sensor-based device would mark a key shift in women’s healthcare. Real-time data on hormone levels could improve fertility and IVF outcomes, help in earlier diagnosis of conditions such as PCOS, thyroid disorders and endometriosis, and support safer use of contraceptives and hormone therapy, she said.
+“More importantly, continuous monitoring can move women’s health away from symptom-based treatment towards preventive and personalised medicine,” Dr Vaidyanathan said.
+Dr Suman Mehla, Director (Obstetrics & Gynaecology) at Fortis Hospital in Greater Noida agreed that such technology would mark a shift from reactive to predictive medicine, enabling data-driven, individualised reproductive and hormonal health management.
+(Edited by Prerna Madan)
+Also Read:
+Can showering in the dark before bed give you better sleep?

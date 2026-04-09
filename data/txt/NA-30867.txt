@@ -1,0 +1,22 @@
+SOURCE: The Print
+TITLE: RuPay goes live on CVV-less payments for tokenized cards
+AUTHOR: ANI
+DATE: 2023-05-15
+URL: https://theprint.in/economy/rupay-goes-live-on-cvv-less-payments-for-tokenized-cards/1575568/
+
+--- ARTICLE TEXT ---
+
+Mumbai (Maharashtra) [India], May 15 (ANI): RuPay has now introduced the CVV (Card Verification Value) free payment experience for its debit, credit and prepaid cardholders who have tokenized their cards on the merchant application or webpage, National Payments Corporations of India said in a statement on Monday.
+National Payments Corporation of India (NPCI) was incorporated in 2008 as an umbrella organization for operating retail payments and settlement systems in India.
+Show Full Article
+This new CVV less experience ensures that the cardholder will not have to reach out to their wallet or remember any card details, if they have saved (tokenized) their card on the e-commerce merchant which supports this feature, the statement said.
+“They will just have to enter the OTP or their device will auto-populate the OTP during the domestic e-commerce transaction and the payment will be done!” it added.
+Tokenization is a simple technology to secure card transactions without sharing clear or real card details with the merchants.
+The Reserve Bank of India (RBI) had made it mandatory for all credit and debit card data used in online, point-of-sale, and in-app transactions to be replaced with unique tokens. This added layer of security by way of tokenisation is expected to enhance users’ digital payment experience.
+As per the RBI, tokenisation refers to the replacement of actual card details with an alternate code called the “token”. A tokenised card transaction is considered safer as the actual card details are not shared with the merchant during the processing of the transaction.
+When a cardholder opts to save their card for a domestic e-commerce transaction, they authenticate the transaction through the card details (Card number, CVV, Card expiry date) as a one-time activity followed by entering the OTP (two-factor authentication), the details are then Tokenized and saved with the merchant.
+This safeguards the card details of the customer from cyber frauds as real details are not saved with the merchant.
+On the merchants’ live for CVV-less payments, for the subsequent transactions customer can complete the payment by just entering the OTP without the need to enter the CVV or other card details again. With the auto-read OTP feature enabled on customer’s devices, this payment experience becomes smoother than ever.
+RuPay, India’s own homegrown card network serving millions of Indians, is driven by the idea of solving and reducing friction for customers. RuPay went live on Card on File Tokenization in 2021, in line with RBI’s guidelines, for its domestic e-commerce transactions to ensure better security for all its cardholders.
+“Our vision has always been to ensure effortless payments for all our RuPay cardholders without compromising on the security aspect. Having worked with the payments industry extensively for the implementation of Card on File Tokenization, which ensures utmost security of sensitive card information, now we are aiming at making the payment experience of a tokenized card seamless,” said Denny Thomas, head of RuPay. (ANI)
+This report is auto-generated from ANI news service. ThePrint holds no responsibility for its content.

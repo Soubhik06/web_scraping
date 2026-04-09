@@ -1,0 +1,19 @@
+SOURCE: The Print
+TITLE: Apple-backed study finds rise in data breaches as iPhone maker defends encryption stance
+AUTHOR: Reuters
+DATE: 2023-12-07
+URL: https://theprint.in/tech/apple-backed-study-finds-rise-in-data-breaches-as-iphone-maker-defends-encryption-stance/1876799/
+
+--- ARTICLE TEXT ---
+
+By Stephen Nellis
+(Reuters) – In the first nine months of 2023, U.S. data breaches increased by 20% compared to the full year 2022, according to a new study that was commissioned by Apple.
+The iPhone maker paid for the study, which was conducted by Massachusetts Institute of Technology Professor Stuart E. Madnick, about a year after it rolled out a new feature to expand end-to-end encryption for data stored in its iCloud service. The study, which does not include any findings of data breaches at Apple itself, argues that breaches are becoming so commonplace that the only feasible way to protect consumer data is wider use of end-to-end encryption.
+Such encryption makes it impossible for the company that stores the data – or anyone who might hack its servers – to unscramble a user’s data without also possessing additional information, such as the passcode for one of the user’s personal devices. But that encryption approach also makes it impossible for law enforcement officials to access the data without the user’s knowledge and has long been a friction point between technologists and government officials.
+Show Full Article
+Britain is considering a law that would mandate access to private messages and has encouraged companies such as Meta Platforms not to expand their use of end-to-end encryption.
+The Apple-backed study, however, found that technology companies are frequently attacked by hackers because they provide services to valuable targets. Microsoft, for example, was hit by Chinese hackers this year, who managed to steal tens of thousands of U.S. State Department emails.
+The study said that 98% of organizations have a relationship with at least one technology vendor that experienced a data breach in the previous two years.
+“In today’s interconnected world, virtually every organization relies on a wide range of vendors and software. As a result, hackers only need to exploit vulnerabilities in third-party software or a vendor’s system to gain access to the data stored by every organization that relies on that vendor,” the study said.
+(Reporting by Stephen Nellis in San Francisco; Editing by Chizu Nomiyama)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

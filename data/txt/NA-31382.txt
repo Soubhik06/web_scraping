@@ -1,0 +1,19 @@
+SOURCE: The Print
+TITLE: Over 2.75 lakh URLs whitelisted by 10,000 entities after TRAI guidance
+AUTHOR: ANI
+DATE: 2024-10-16
+URL: https://theprint.in/economy/over-2-75-lakh-urls-whitelisted-by-10000-entities-after-trai-guidance/2314731/
+
+--- ARTICLE TEXT ---
+
+Mumbai (Maharashtra) [India], October 16 (ANI): Over 10,000 business entities have whitelisted more than 2.75 lakh URLs, after the guidance issued by the Telecom Regulatory Authority of India (TRAI) in August, the telecom regulator said in a release said on Wednesday.
+The TRAI directed all Access Service Providers to stop transmitting messages containing URLs, APKs and OTT links, which are not whitelisted by the Senders. The direction came in effect from October 1.
+Show Full Article
+Whitelisting a URL is the process of adding a URL to a list of approved resources that can be accessed. Whitelisting is a cybersecurity strategy that helps to protect devices and data from threats like malware, phishing, and hackers.
+“In compliance with TRAI’s August 20, 2024, directive, Access Providers have implemented mandatory whitelisting of URLs, APKs, or OTT links in messages by sending Entities,” the TRAI release added.
+TRAI has introduced stricter measures to combat the spam calls. It includes disconnection of telecom resources for violators. Over 800 entities have been blacklisted, and more than 18 lakh numbers have been disconnected for non-compliance, as per the release.
+Additionally, TRAI has enforced the migration of telemarketing calls using the 140 series to the Distributed Ledger Technology (DLT) platform, improving monitoring and reducing misuse, the release added.
+Other actions include the blocking of 3.5 lakh unused headers and 12 lakh content templates prone to fraud, further safeguarding consumers, as per the TRAI release.
+Access Providers are in the process of implementing technical solutions to ensure better message traceability. This involves mandating the Senders to define the complete chain of TMs through which messages travel before reaching the consumers. This would ensure that Heads and Content templates of the Senders are not misused by fraudulent elements, the regulator stated.
+With expanded collaboration through the Joint Committee of Regulators (JCoR), TRAI continues to work with agencies like RBI, SEBI, and IRDAI to tighten control over commercial communications and explore future enhancements, as per the regulator. (ANI)
+This report is auto-generated from ANI news service. ThePrint holds no responsibility for its content.

@@ -1,0 +1,44 @@
+SOURCE: The Print
+TITLE: India developing lethal autonomous weapon systems, database of citizens’ crime risk—House Panel report
+AUTHOR: Vrinda Tulsian
+DATE: 2026-03-30
+URL: https://theprint.in/defence/india-developing-lethal-autonomous-weapon-systems-database-of-citizens-crime-risk-house-panel-report/2892472/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+India is developing lethal autonomous weapon systems and a national police database that assigns risk scores to individuals based on predicted future behaviour.
+These are among the findings in the Twenty-Seventh Report of the Standing Committee on Communications and Information Technology, as presented in its report, ‘Impact of Emergence of Artificial Intelligence and Related Issues’.
+The report was tabled in the Lok Sabha Monday before being sent to the Rajya Sabha.
+Show Full Article
+The report draws upon depositions shared over a period of more than a year from various ministries, such as home affairs, finance, agriculture, law, defence, and tourism.
+The defence ministry told the committee that among the active research domains of the Defence Research and Development Organisation (DRDO) are “Lethal Autonomous Weapon Systems”. The listing appears in a table of ongoing projects, involving logistics, cyber security, and human behavioural analysis, but no further details are provided.
+When the committee pressed further, the ministry said, “Autonomous weapons systems act as a force multiplier, enabling expanded battlefield, allowing combat to reach into areas previously inaccessible. It can reduce casualties by excluding human war fighters from dangerous missions.”
+On risks, the ministry acknowledged, “AI ML-based techniques are not amenable to verified decision-making and hence are likely to result in unintended outcomes.” But its position was that “a semi-automatic control with an AIML-supported recommendation could be very impactful”.
+The report contains no reference to India’s position in international negotiations regarding autonomous weapons. No oversight body is named. No legislation is proposed or mentioned as under consideration.
+DRDO has confirmed in the same report the development of AI for underwater autonomous vehicles capable of target detection and classification, AI tested in missile applications, as well as a system called FRSD—Face Recognition under Disguise—designed to identify individuals attempting to conceal their identity at what the ministry describes as “sensitive locations”.
+Also Read:
+UNDP-commissioned report flags ‘shadow use’ of AI in India’s legal sector. ‘Unaware of risks’
+Scores for predicted crimes
+The Ministry of Home Affairs informed the committee that the National Crime Records Bureau is building CCTNS 2.0 as a replacement for the national police database used by stations across India.
+The ministry submitted a table of AI features under development for the system.
+Among them is “Person-Based: Criminal Suspect Profiling, NER and identifying repeat offenders (history-sheeters) using AI techniques, ingesting offender lists and predicting risk scores for entities”.
+The system will also link cases across police stations in different states to construct unified profiles through what the ministry calls “entity resolution—accurate identification and correlation of individuals across multiple data sources”.
+It will use “risk terrain modelling, combining crime history, social or cultural events and other local factors” to forecast locations where crimes are predicted to occur.
+The Directorate of Enforcement, the agency responsible for investigating money laundering and foreign exchange violations, told the parliamentary committee, “As of now, ED is not using any AI tools for money laundering investigations.”
+The parliamentary committee report—which, in sections, takes into account depositions from the Finance Ministry and, in others, those from the Financial Intelligence Unit—describes in detail how criminals are already using AI. Shell companies are being created using AI-generated documents, including invoices, contracts, and business records. Deepfakes are being used to defeat KYC verification at banks. AI is executing thousands of transactions simultaneously across jurisdictions to evade anti-money laundering detection. AI-generated identities are being used to even move cryptocurrency.
+The Financial Intelligence Unit also told the committee that it uses AI in its own detection systems. The Reserve Bank of India announced a committee in December to develop an AI framework for the financial sector. Banks have been directed by the RBI to deploy AI for transaction monitoring.
+The agency, whose mandate is the prosecution of these crimes, is, by its own account, using none of it.
+Asked about the future, the ministry said, “In future, AI can help ED dispose of cases faster by quickly analysing large volumes of data and highlighting high-risk cases for priority action.”
+Immigration
+The Bureau of Immigration confirmed to the committee that it currently uses no AI for screening people entering India. No AI is used for travel document verification, for identifying persons wanted in other jurisdictions, or for flagging individuals not yet on Interpol lists.
+On Wednesday, a replacement system called IVFRT 3.0—incorporating AI-based traveller profiling—was due to commence on 1 April. On international data sharing for identification purposes, the ministry said, “Currently, there is no collaboration with any country.”
+The UAE has proposed a data-sharing arrangement, but it is described as “under consideration” in the report.
+India ranks first in AI skill penetration, according to Stanford University, and ranks third in overall AI competitiveness—the report mentions these figures several times.
+India also ranks 72nd out of 174 countries on the IMF’s AI Preparedness Index, which measures infrastructure, human capital, innovation capacity, and legal framework to give a combined score.
+When the committee, citing this lower ranking, raised concerns, the ministry said that the IMF’s methodology differed from Stanford’s and that more recent analysis placed India in the top three. It, however, did not address the legal framework dimension.
+The parliamentary committee report, though, confirmed that no AI law exists, and none is imminent.
+It said that the ministry told the committee, “Specific laws for AI are yet to be enacted in India.”
+(Edited by Madhurita Goswami)
+Also Read:
+Vaishnaw warns electronics manufacturers—firms that don’t design products in India will be weeded out

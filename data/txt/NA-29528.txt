@@ -1,0 +1,24 @@
+SOURCE: The Print
+TITLE: Microsoft says Russia-linked hackers behind dozens of Teams phishing attacks
+AUTHOR: Reuters
+DATE: 2023-08-03
+URL: https://theprint.in/tech/microsoft-says-russia-linked-hackers-behind-dozens-of-teams-phishing-attacks/1698281/
+
+--- ARTICLE TEXT ---
+
+By Zeba Siddiqui
+SAN FRANCISCO (Reuters) – A Russian government-linked hacking group took aim at dozens of global organizations with a campaign to steal login credentials by engaging users in Microsoft Teams chats pretending to be from technical support, Microsoft researchers said on Wednesday.
+These “highly targeted” social engineering attacks have affected “fewer than 40 unique global organizations” since late May, Microsoft researchers said in a blog, adding that the company was investigating.
+The Russian embassy in Washington didn’t immediately respond to a request for comment.
+Show Full Article
+The hackers set up domains and accounts that looked like technical support and tried to engage Teams users in chats and get them to approve multifactor authentication (MFA) prompts, the researchers said.
+“Microsoft has mitigated the actor from using the domains and continues to investigate this activity and work to remediate the impact of the attack,” they added.
+Teams is Microsoft’s proprietary business communication platform, with more than 280 million active users, according to the company’s January financial statement.
+MFAs are a widely recommended security measure aimed at preventing hacking or stealing of credentials. The Teams targeting suggests hackers are finding new ways to get past it.
+The hacking group behind this activity, known in the industry as Midnight Blizzard or APT29, is based in Russia and the UK and U.S. governments have linked it to the country’s foreign intelligence service, the researchers said.
+“The organizations targeted in this activity likely indicate specific espionage objectives by Midnight Blizzard directed at government, non-government organizations (NGOs), IT services, technology, discrete manufacturing, and media sectors,” they said, without naming any of the targets.
+“This latest attack, combined with past activity, further demonstrates Midnight Blizzard’s ongoing execution of their objectives using both new and common techniques,” the researchers wrote.
+Midnight Blizzard has been known to target such organizations, mainly in the U.S. and Europe, going back to 2018, they added.
+The hackers used already-compromised Microsoft 365 accounts owned by small businesses to make new domains that appeared to be technical support entities and had the word “microsoft” in them, according to details in the Microsoft blog. Accounts tied to these domains then sent phishing messages to bait people via Teams, the researchers said.
+(Reporting by Zeba Siddiqui in San Francisco; Editing by Gerry Doyle)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

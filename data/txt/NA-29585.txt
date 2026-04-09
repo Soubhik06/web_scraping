@@ -1,0 +1,27 @@
+SOURCE: The Print
+TITLE: Suspected Russian hackers used new tactic against UK researcher
+AUTHOR: Reuters
+DATE: 2025-06-18
+URL: https://theprint.in/world/suspected-russian-hackers-used-new-tactic-against-uk-researcher/2662709/
+
+--- ARTICLE TEXT ---
+
+By Raphael Satter and James Pearson
+LONDON (Reuters) -Suspected Russian hackers have deployed a new tactic to trick even wary targets into compromising their own accounts, a victim of the spy campaign and researchers said on Wednesday.
+Last month hackers masquerading as a U.S. State Department employee who said her name was Claudie Weber invited British researcher Keir Giles to a meeting she said required the use of a secure government programme, according to emails reviewed by Reuters.
+Although Weber used a Gmail address, she spoke idiomatic English and copied her purported work address and State Department colleagues throughout the exchange.
+Show Full Article
+Giles, a senior consulting fellow of the Russia and Eurasia programme at London’s Chatham House, has been targeted by hackers and spies previously and said he is typically on his guard about unsolicited pitches.
+However, Giles was taken in by Weber’s patience over nearly two weeks of correspondence, the professionally produced material she attached to her email, and the fact that other State Department officials appeared to be copied on the conversation.
+Giles eventually provided Weber with an app-specific password, a kind of credential which can be used to help third party applications access email accounts but can also be abused to bypass password protection.
+In a blog post, Alphabet’s Google attributed the hack to the Russian government, based on similar activity it had seen previously.
+The Russian Foreign Ministry did not immediately return messages seeking comment about Google’s findings.
+Giles said there had been “an impressive amount of effort to make this a seamless operation”.
+“There’s nothing which, to me, even in retrospect, was a red flag,” he said.
+Although it was not possible to say for sure whether the hackers used large language models – typically dubbed artificial intelligence – to help draft messages to Giles, the fluency of the exchange suggests that hackers may be using such programmes, marking an upgrade from the typo-strewn, panic-inducing messages often associated with “smash-and-grab phishing”, said John Scott Railton, a researcher with the University of Toronto-based Citizen Lab, which investigated Giles’ hack.
+“This is the kind of attack almost anyone could have fallen for,” he added.
+Reuters could not reach Weber, whose email is now inactive, or find any trace of her or the other purported State Department officials on the exchange with Giles.
+Citizen Lab in its report said that sending messages to non-existent State employees does not produce an error message, which the hackers may have taken advantage of in their interactions with Giles.
+The U.S. State Department did not immediately return a message seeking comment.
+(Reporting by Raphael Satter and James PearsonEditing by Gareth Jones)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibility for its content.

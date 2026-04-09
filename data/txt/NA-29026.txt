@@ -1,0 +1,60 @@
+SOURCE: The Print
+TITLE: What is the Sanchar Sathi app? A consumer-protection tool raising privacy concerns
+AUTHOR: Samah Qundeel
+DATE: 2025-12-02
+URL: https://theprint.in/theprint-essential/sanchar-sathi-app-consumer-protection-tool-privacy-concerns/2796282/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+The Department of Telecommunications has officially directed smartphone manufacturers to pre-install the Sanchar Saathi app on all new mobile devices in India from March 2026, and ensure that its features “are not disabled or restricted.”
+“In order to safeguard the citizens from buying the non-genuine handsets, enabling easy reporting of suspected misuse of telecom resources and to increase effectiveness of the Sanchar Saathi initiative, the DoT has issued (these) directions,”
+said
+the Ministry of Communications on Monday.
+This follows a leaked memo reported by Reuters, and comes alongside the government’s push for SIM-binding on WhatsApp and other messaging apps. The two measures signal a sharper evolution in India’s digital-security framework, and have raised questions about user privacy, device control, and the future of telecom regulation.
+Show Full Article
+What
+is the
+government order?
+The
+Department of Telecommunication’s
+(DoT)
+directed
+manufacturers, such as Apple, Samsung, Xiaomi, and Vivo, that the Sanchar Saathi app must be pre-installed on all devices manufactured or imported for sale in India. It must be visible and accessible to users at the time of first setup, and its functionalities cannot be disabled or restricted.
+The government has mentioned that compliance
+with
+these directives must happen within 90 days, and companies must submit reports within 120 days. The government also
+reportedly
+wants the app pushed to older devices through software updates, though this has not been formally confirmed in the press note.
+This is one of the rare instances in which the Indian government has mandated a system app at the device level, leaving users with limited choice about removal or deactivation.
+Also read:
+What is brown fat? A key weapon against the global obesity epidemic
+What is the Sanchar Saathi app?
+In 2023, Sanchar Saathi
+kicked off
+as a web portal meant to help telecom users report fraudulent calls, block stolen phones, and check mobile connections issued in their names. At the heart of the system is CEIR — the Central Equipment Identity Register, a government database that records legitimate IMEI numbers of all mobile devices.
+Making the app mandatory, the government says, will strengthen this system. In its statement, the DoT said the directive aims to block lost or stolen phones across all networks, authenticate IMEI numbers to detect tampered or duplicate identities, help users see how many connections are linked to their identity, make reporting suspicious calls easier,
+and
+prevent the resale of blacklisted or stolen phones in India’s second-hand market.
+According to the DoT
+, duplicate or spoofed IMEI numbers allow the same identifier to appear across multiple devices simultaneously, creating problems for investigations and facilitating fraud. India’s large refurbished-phone ecosystem, where stolen devices sometimes re-enter circulation, is another concern.
+The app has been heavily promoted since launch, with the platform receiving 2.48 lakh fraud-related complaints and nearly 2.9 crore requests to check mobile connections linked to users.
+How does
+it
+work?
+Once installed, the app connects a device to CEIR and provides a set of telecom-security functions.
+Users can file a request to block their phone’s IMEI if the device is lost or stolen. CEIR then blacklists the IMEI across all networks, rendering the phone unusable even if the SIM is swapped. The government says the system has already helped recover over 7 lakh lost phones, block 3.7 million stolen devices, and terminate 30 million fraudulent mobile connections.
+The “Know Your Mobile Connections” feature lets users see all active numbers linked to their identity, useful for detecting unauthorised or fraudulently issued SIMs. This helps users determine whether a device’s hardware identity has been tampered with, especially in the second-hand market. Similar to TRAI’s DND app, Sanchar Saathi provides a channel to report spam, scam calls, and suspicious communication.
+The DoT’s listing on Google Play states that the app does not collect user data, though the permissions model for the mandatory version remains unclear.
+Also read:
+What is autopen? The signature device Trump is threatening ‘sleepy Biden’ for
+Is
+the move controversial?
+While the government has framed Sanchar Saathi as a consumer-protection tool, the mandatory nature of the installation and the inability to disable or uninstall it, have raised significant concerns.
+Play Store information shows the app may request access to call logs, SMS, camera, photos, videos, device and network state. The government has not clarified which of these will be compulsory once the app becomes a system-level requirement, especially given its connection to the device’s IMEI.
+On social media, users have compared the move to similar mandates in China and Russia, where pre-installed state apps are used to monitor communication and device activity. The comparison is driven less by the app’s current functionality and more by its mandatory, permanent status on personal devices.
+Just days earlier, the DoT said messaging platforms must ensure that accounts remain tied to an active Indian SIM. SIM-binding and mandatory device-level apps point to a more centralised, identity-linked telecom ecosystem.
+But there are still a lot of unanswered questions, like will the app automatically read a device’s IMEI? Can users revoke permissions? Will they be allowed to disable the app later? How will collected data (if any) be stored or shared?
+In the absence of clear guidelines, concerns over state access to personal devices have intensified.
+The mandate has also drawn wide criticism from Congress and other Opposition parties, who have alleged that this is a step towards state surveillance and demanded the immediate rollback of this direction.
+(Edited by Saptak Datta)

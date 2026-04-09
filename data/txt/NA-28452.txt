@@ -1,0 +1,63 @@
+SOURCE: The Print
+TITLE: Smart glasses, delivery bot, regional LLMs, a health-assessing mirror—the showstoppers of AI Summit
+AUTHOR: Vrinda Tulsian
+DATE: 2026-02-21
+URL: https://theprint.in/tech/smart-glasses-delivery-bot-regional-llms-a-health-assessing-mirror-the-showstoppers-of-ai-summit/2860247/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+As India hosted its flagship AI Impact Summit in New Delhi this week, The country’s innovators took centre stage.
+The government has pegged the summit as one of the largest AI gatherings globally.
+From smart glasses and voice bots, to models showcasing India’s AI sovereignty push, a record number of domestic ventures put on a display of their products, with focus on regional languages, regulated industries and real-world workflows.
+Show Full Article
+ThePrint visited the bustling exhibition at Bharat Mandapam in Delhi to browse through the innovations—each solving a niche problem, often overlooked by global players.
+Sarvam AI: Language models tuned to India
+Among the busiest pavilions at the summit was that of sovereign AI platform Sarvam, which unveiled its two large language models—a 30-billion-parameter and a 105-billion-parameter system—both trained from scratch on Indian languages and datasets.
+Visitors were especially drawn to Sarvam’s Kaze smart glasses—a wearable demo that interprets the environment and delivers assistance in real time. The device combines camera input with real-time language prompts. The firm demonstrated how it works to excited attendees—from translation of signage, to assistance with task instructions.
+Sarvam co-founder Pratyush Kumar even shared a picture of Prime Minister Narendra Modi trying the Kaze smartglasses on, calling him the first person to do so after the launch at the summit.
+The first person to try them? The Prime Minister.
+pic.twitter.com/OBdAw6zXhB
+— Pratyush Kumar (@pratykumar)
+February 17, 2026
+Sarvam’s representatives told ThePrint that their models are built with real Indian migration patterns, codeswitching and multilingual usage in mind. Their roadmap prioritises integration with government services and regulated sectors, where data is not meant to leave the country’s borders.
+Also Read:
+What top Indian and global companies displayed at AI Summit pavilions
+Soket Labs: Tools that understand real speech
+At a compact stall in the centre aisle at the exhibition, Soket AI Labs demonstrated how its work has attracted attention from both industry and defence circles.
+Soket’s team highlighted the CoSHE-Eval benchmark—a Hindi–English code-switching evaluation dataset designed to reflect how Indians actually speak in daily life. Building on that, the company showcased its DHRITH speech system, which doesn’t just produce transcripts, but also tags emotional tone and delivery in conversations.
+Speaking to ThePrint, Soket representatives
+mentioned
+a potential collaboration with Adani Group on defence AI, which could interpret signals coming from other countries.
+Gnani.ai: Voice systems built for India’s diversity
+A few steps away from Soket’s pavilion, Gnani.ai pulled in business visitors with demonstrations of its new Inya VoiceOS and underlying speech tools—models that process audio directly, instead of converting speech into text and then back again.
+Gnani’s executives explained that the company has trained its systems on more than 14 million hours of multilingual speech data, covering more than 15 Indian languages. The platform can thus handle overlapping speech, interruptions and natural conversation flow—something traditional systems often struggle with.
+They added that its voice stack is already in use across sectors, including government helplines, emergency response systems and enterprise support lines, and that the platform’s low latency and local deployment have made it attractive to organisations concerned about sovereignty and compliance.
+Protecto AI: Plugging compliance gaps
+As generative tools enter the workplace, many organisations are understandably cautious about data leakage, especially in regulated industries,
+such as healthcare and pharmaceuticals, finance, energy, communications, and so on
+. That is where Protecto AI’s product promises to help.
+In conversations at its booth, the company explained that instead of outrightly blocking AI use, its software scans prompts and gives outputs in real time to detect personally identifiable information (PII) and sensitive data. It further masks or tokenises it before anything is processed outside the secure environment.
+According to Protecto’s team, the tool has been specifically designed to help businesses meet compliance rules under India’s Digital Personal Data Protection (DPDP) framework and similar regulations elsewhere. For visitors from banks, insurance firms and healthcare providers, this was pitched at the summit as a “practical enabler” for safe AI adoption.
+Also Read:
+Airtel presents scam-blocking AI algorithm at Delhi summit. It’s stopped 30,000 frauds per day
+Ottonomy.io: Autonomous vehicles for real urban use
+Away from language and compliance, the mobility space had its own showstoppers. At the Ottonomy.io pavilion, autonomous shuttles and delivery robots navigated a demo lane, where attendees could see how the machines handle busy environments with pedestrians, uneven paths and obstacles.
+The robot can sense the kind of environment it is in. In a hospital, it is said to move at
+a safe distance
+from the patients, while at airports, the robots move closer in a queue.
+Instead of promoting futuristic private self-driving cars, the company is targeting commercial routes—airport transfers, logistics hubs, campus mobility and hospitals. Ottonomy’s Chief Technology Officer and co-founder Pradyot Korupolu
+told ThePrint that while the robots are already in use in Canada and the US, they have also tested them out at Hyderabad airport.
+BharatGen: Multilingual models baked into sovereign stacks
+One of the summit’s headline announcements was made by the government-backed BharatGen initiative, which launched the Param2, a 17-billion-parameter multilingual model supporting all 22 scheduled Indian languages.
+Unlike many commercial offerings,
+Param 2
+is designed as a base that governments, enterprises and startups can build on—not just for text, but for speech, vision and document understanding. It is part of a broader collaboration with state partners, including Andhra Pradesh’s “Swadeshi AI stack” aimed at citizen services in regional languages.
+Jio Health: Early screening with structured models
+Mega player Reliance was also present at the summit, and introduced JioArogya AI—an AI clinic designed to simplify primary healthcare through smart mirror scans and a voice-enabled AI doctor. The system is designed to deliver quick health assessments, flag potential risks, and guide patients toward specialist care when necessary.
+The key element of the AI Clinic is a “Smart Mirror” that scans visible indicators, such as the eyes and skin to detect potential health concerns. The system processes these visual cues within minutes to generate an initial health profile. Alongside that, a “Voice AI Doctor” interacts with patients in multiple Indian languages, collecting symptom details conversationally to ensure wider accessibility across diverse populations.
+JioAarogya AI categorises patients based on their condition, prioritising those needing immediate medical help. With stable digital connectivity, the clinic can be deployed beyond urban centres. The platform further enables online consultations and digital medicine ordering, linking screening to follow-up care.
+Reliance has clarified that the AI system only provides an initial assessment. No medicine or treatment is given without a doctor’s consultation.
+(Edited by Mannat Chugh)
+Also Read:
+Gujarat, UP, Bihar govts’ pavilions at India AI Summit. E-voting, stray cattle to phishing

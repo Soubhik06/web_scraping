@@ -1,0 +1,82 @@
+SOURCE: The Print
+TITLE: Indian courts are operating like a lottery. They need smarter case scheduling
+AUTHOR: Siddarth Raman
+DATE: 2026-03-23
+URL: https://theprint.in/opinion/counting-on-law/indian-courts-lottery-case-scheduling/2885959/
+
+--- ARTICLE TEXT ---
+
+C
+hief Justice
+of India
+Surya
+K
+ant’s announcement that the Supreme Court will use artificial intelligence to handle case listing and bench allocation is a welcome one. In 2018, four Supreme Court
+judges
+publicly raised concerns about how constitutional bench cases were assigned. An algorithmic roster with a clear audit trail to decide which judge hears which case is a meaningful institutional response.
+But this addresses
+only
+half of the problem —
+who hears which case. The other half of that question is: Will my case be heard at all? This matters far more to the millions of Indians whose cases languish in court. Most cases are not sensitive matters of constitutional law. They are cheque bouncing cases, bail applications, motor accident claims, land and property matters in lower courts that are already short on judges.
+Our emerging analysis of the Bombay High Court’s Original Side cases in TheProfesseer’s database indicates that in recent years, nearly 50 per cent of the listed matters on any given date are not heard. Of those that are heard, 30 per cent are non-substantive (adjournments). Only one in five cases actually make progress. District courts show similar numbers.
+Show Full Article
+In December 2025, Indi
+G
+o cancelling
+about
+10 per cent of its
+scheduled
+flights was a national crisis. It was on the news channels, there were questions asked in Parliament, a Division Bench of the Delhi High Court called the system alarming. The CEO resigned.
+Courts operate with a worse mismatch every day. Nobody calls it a crisis because it has always been this way.
+The impact on the system
+Our court scheduling has been unpredictable for so long
+that
+every participant has adapted to it. Lawyers routinely take overlapping dates across multiple cases because they count on their case not
+being taken up
+. The urgency of preparation for any single date drops because there’s no telling whether the case will be heard. Litigants have learn
+ed
+that non-appearance is tolerated, and adjournments are the norm. Judges rarely register the lack of movement in a single case against the ocean of pendency that has aged over decades.
+Annie Dillard wrote, “How we spend our days is, of course, how we spend our lives”. And a day in a courtroom tells us a lot about the state of our system as a whole. We have settled into a low equilibrium where no one is surprised when nothing moves.
+What makes this particularly cruel is that citizens have no exit. If your dentist booked a hundred patients for the same appointment slot and sent most of them home after hours of waiting — not tomorrow, but weeks later — you would find a different dentist. Litigants cannot find a different court. They return, and wait, and return again.
+Que sera, sera
+Flight schedules are built around crew hours and runway availability, not
+around
+how many passengers want to fly. Hospitals build surgery schedules around operating theatre hours and surgeon availability. In operations research, systems are
+designed
+around the scarcest resource. In a courtroom,
+it
+is the judge.
+A judge has perhaps 6-7 usable hours of court time in a day. How those hours are used is critical. Not all matters will take the same amount of time. A summons reissue may take five minutes, a witness deposition an hour, adjournments take seconds. Listing 100 matters at 10:30 am without estimating how long each takes or whether the total exceeds the available hours can’t be called scheduling. It’s more of a lottery.
+It is a little surprising that Indian courts haven’t cracked this yet. After all, queuing theory is old.
+Danish mathematician
+Agner Krarup Erlang modelled telephone call arrivals as a Poisson process way back in 1909. Over the last century, variations
+of
+the same mathematics have been applied to road traffic, airport operations, hospital admissions, factory floors, and call centres. Bin-packing, the problem of fitting items of different sizes into a fixed container, is undergraduate coursework. The model fits directly onto a courtroom. There are a fixed number of hours, and there are hearings of different lengths.
+Good scheduling needs good data
+The first step is getting the unit of analysis right. We currently measure cases in hearings and months: ‘pending 3 years’ or ‘15 hearings’. Neither is useful. Reframe the court process around the most scarce resource — judges.
+This
+changes the unit to minutes and hours. The question becomes: how much of a judge’s time does this case consume?
+Rahul Hemrajani and Himanshu Agarwal showed this is possible using real-time data from the Supreme Court’s live cause lists. They measured minutes to disposal by case type. From there
+,
+the job is to distribute this time across hearings and days — factoring in what percent
+age
+of hearings make substantive progress, and how hearing lengths vary by stage.
+Once a realistic schedule
+is made
+, it can be managed. How many listed cases were heard? How many made progress? Record actual hearing times, compare them to estimates, and refine.
+Appointment scheduling with feedback loops is standard practice in hospitality and transport. Sharpening estimates, behavioural adjustments and penalties for no-show patterns, smarter coordination mechanisms to find dates mutually convenient to all parties are all doable. Artificial intelligence isn’t necessary. Good data and some high school
+–
+level linear programming are enough to start.
+The problem is that courts don’t really publish this kind of data. But they can. The CIS 3.0 system already incorporates a stage-wise calendar showing how many hearings of each type have already been scheduled. Once we are able to add in the hearing time measure, we can build a scheduling system. The High Court of Kerala has implemented this in its ONCourt 24×7 court in Kollam. Hearings can now be measured in minutes.
+Also read:
+Indian judiciary must stop panicking over AI
+An appointment with justice
+The next big leap is from a queue to an appointment window. In a queue, you show up, you wait, you hope. With an appointment, you know the time and you can plan your day around it.
+Tim Ferriss puts it well — “People choose unhappiness over uncertainty”. Consider two IndiGo customers in December 2025. Who would you rather be — the person who
+was informed
+a day before that their flight got cancelled, or the person who waited at the airport for six hours before being told, “Maybe tomorrow”?
+For the litigant who spends their full day in the court, it isn’t just the day’s lost wages, the travel, the lawyer fees — it is the stress of not knowing whether after all this, they will get their appointment with justice.
+Siddarth Raman is co-founder and CTO of TheProfesseer.
+He tweets @thriddas.
+Supriya Sankaran is co-founder and creator of Agami. Views are personal.
+(Edited by Aamaan Alam Khan)

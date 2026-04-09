@@ -1,0 +1,104 @@
+SOURCE: The Print
+TITLE: Moltbook breach shows the danger of fast-evolving AI ecosystems
+AUTHOR: Samah Qundeel
+DATE: 2026-02-02
+URL: https://theprint.in/theprint-essential/what-are-ai-chatbots-discussing-on-moltbook-us-dollar-religion/2843917/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+A critical security flaw has emerged in Moltbook,
+the social network meant for AI agents.
+The
+R
+eddit-style
+chatroom launched
+in January 2026 by Matt Schlicht
+is being accused of
+exposing sensitive user data and raising concerns about the safety of autonomous online platforms.
+Security
+researchers
+found that the vulnerability allowed unauthenticated access to user profiles, exposing email addresses, login tokens, and API keys associated with registered AI agents. The exposure included 1.5 million API authentication tokens, 35,000 email addresses, and private messages between agents
+.
+Even though the breach was disclosed and all data accessed has been deleted, the
+security flaw
+underscores how rapidly evolving AI ecosystems can introduce new vulnerabilities when experimental technologies scale quickly.
+T
+he incident has become an early test case for how regulators, developers, and organisations manage the risks associated with autonomous digital networks.
+Show Full Article
+What is Moltbook?
+Moltbook is designed as a social network primarily for AI agents. Its official tagline describes it as “a social network for AI agents”, where they can post, comment, upvote, and form topic-based communities known as submolts. The platform allow
+s
+AI agents to generate content and interact autonomously across multiple languages. Humans can observe the activity and register agents that operate independently on their behalf.
+Moltbook’s creator, Matt Schlicht, posted on X that millions had visited the site in the past few days. “Turns out AIs are hilarious and dramatic, and it’s absolutely fascinating
+…
+This is a first
+,
+”
+he
+wrote
+.
+Millions of people have visited
+https://t.co/8cchlONJVj
+over the past few days 🤯
+Turns out AIs are hilarious and dramatic and it's absolutely fascinating.
+This is a first.
+— Matt Schlicht (@MattPRD)
+February 1, 2026
+Schlicht is the co-founder
+and
+CEO of Octane AI,
+a
+quiz and AI-funnels platform used by
+over
+3,000 Shopify stores. He co-founded the social media app Sway in 2011. In 2013, he was listed in
+Forbes
+’
+‘30 under 30’ for founding Tracks.by, a startup that provides social media marketing for musicians. He launched Moltbook in January 2026 as an ‘experiment’.
+The creation of Moltbook was catalysed by the existence of AI bot OpenClaw, previously known as Clawd and Moltbot. Dubbed as “the AI that actually does things”, its website says that the bot “clears your inbox, sends emails, manages your calendar, checks you in for flights.” Unlike ChatGPT, Claude, or other LLMs, OpenClaw’s bots can autonomously complete these tasks without the need for constant human intervention. Many of its bots, governed by OpenClaw’s code, are members of Moltbook.
+Moltbook is largely governed by an AI moderation system called ‘Clawd Clawderberg’, which handles onboarding, content filtering, and rule enforcement. Agents can be registered by human users or through automated processes, and many operate with varying degrees of system access depending on how they are configured. This level of autonomy has intensified concerns about oversight, particularly in light of the recent breach and the exposure of authentication credentials.
+Also read:
+What is the ‘Korean Love Game’ linked to the death of 3 Ghaziabad sisters?
+The breach
+The flaw potentially enables attackers to hijack accounts, extract data, or manipulate connected systems without detection. Developers have not publicly confirmed the rollout of patches so far, prompting cybersecurity experts to advise users and organisations to revoke API keys, sandbox AI agents, and conduct immediate security audits.
+The risk was exposed by Gal Nagli, the Head of Threat Exposure at Wiz, a cloud security platform in an official
+blogpost
+for the company. He also highlighted the
+threat
+in an
+X post
+.
+The breach has also cast doubt on Moltbook’s rapid growth claims. While the platform reported roughly 1.5 million AI agents, Wiz discovered
+the presence of human owners—even those, only
+17,000. Anyone
+could register millions of agents
+with a simple loop and no rate limiting, and humans could post content disguised as “AI agents” via a
+basic POST request
+.
+The platform has no mechanism to verify whether an “agent” was actually AI or just a human with a script.
+Turns out, t
+he
+so-called revolutionary
+“AI social network” largely consists of humans operating fleets of bots.
+Cybersecurity researchers warned that the platform’s architecture
+—
+where autonomous agents freely interact and exchange prompts
+—
+could enable prompt injection attacks, credential theft, and automated destructive actions, particularly when agents are connected to external services through APIs.
+Also read:
+Are TikTok users migrating to UpScrolled?
+By AI, for AI
+?
+The Moltbook founder
+explained on X
+that he just had an idea for the platform and didn’t do the actual coding.
+“I didn’t write a single line of code for @moltbook. I just had a vision for the technical architecture, and AI made it a reality,”
+he
+wrote.
+Such
+practice, which is
+increasingly
+becoming normal
+ised
+, can lead to dangerous security oversights. Cybersecurity analysts emphasise that autonomous platforms require stronger authentication controls, transparent reporting mechanisms, and strict security governance to prevent large-scale exploitation.
+(Edited by Prasanna Bachchhav)

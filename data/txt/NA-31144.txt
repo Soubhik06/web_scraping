@@ -1,0 +1,34 @@
+SOURCE: The Print
+TITLE: Lockbit cybercrime gang disrupted by Britain, US and EU
+AUTHOR: Reuters
+DATE: 2024-02-20
+URL: https://theprint.in/world/lockbit-cybercrime-gang-disrupted-by-britain-us-and-eu/1972052/
+
+--- ARTICLE TEXT ---
+
+By James Pearson
+LONDON (Reuters) -Lockbit, a notorious cybercrime gang that holds its victims’ data to ransom, has been disrupted in a rare international law enforcement operation by Britain’s National Crime Agency, the U.S. Federal Bureau of Investigation, Europol and a coalition of international police agencies, according to a post on the gang’s extortion website on Monday.
+“This site is now under the control of the National Crime Agency of the UK, working in close cooperation with the FBI and the international law enforcement task force, ‘Operation Cronos’,” the post said.
+An NCA spokesperson confirmed that the agency had disrupted the gang and said the operation was “ongoing and developing”.
+Show Full Article
+A representative for Lockbit did not respond to messages from Reuters seeking comment but did post messages on an encrypted messaging app saying it had backup servers not affected by the law enforcement action.
+The U.S. Department of Justice and the FBI did not immediately respond to requests for comment.
+The post named other international police organisations from France, Japan, Switzerland, Canada, Australia, Sweden, the Netherlands, Finland and Germany.
+Lockbit and its affiliates have hacked some of the world’s largest organisations in recent months. The gang makes money by stealing sensitive data and threatening to leak it if victims fail to pay an extortionate ransom. Its affiliates are like-minded criminal groups that are recruited by the group to wage attacks using Lockbit’s digital extortion tools.
+Ransomware is malicious software that encrypts data. Lockbit makes money by coercing its targets into paying ransom to decrypt or unlock that data with a digital key.
+Lockbit was discovered in 2020 when its eponymous malicious software was found on Russian-language cybercrime forums, leading some security analysts to believe the gang is based in Russia.
+The gang has not professed support for any government, however, and no government has formally attributed it to a nation-state. On its now-defunct darkweb site, the group said it was “located in the Netherlands, completely apolitical and only interested in money”.
+“They are the Walmart of ransomware groups, they run it like a business–that’s what makes them different,” said Jon DiMaggio, chief security strategist at Analyst1, a U.S.-based cybersecurity firm. “They are arguably the biggest ransomware crew today.”
+Officials in the United States, where Lockbit has hit more than 1,700 organisations in nearly every industry from financial services and food to schools, transportation and government departments, have described the group as the world’s top ransomware threat.
+In November last year, Lockbit published internal data from Boeing, one of the world’s largest defence and space contractors. In early 2023, Britain’s Royal Mail faced severe disruption after an attack by the group.
+‘HIGHLY SIGNIFICANT’
+According to vx-underground, a cybersecurity research website, Lockbit said in a statement in Russian and shared on Tox, an encrypted messaging app, that the FBI hit its servers that run on the programming language PHP. The statement, which Reuters could not verify independently, added that it has backup servers without PHP that “are not touched”.
+On X, formerly known as Twitter, vx-underground shared screenshots showing the control panel used by Lockbit’s affiliates to launch attacks had been replaced with a message from law enforcement: “We have source code, details of the victims you have attacked, the amount of money extorted, the data stolen, chats, and much, much more”, it said.
+“We may be in touch with you very soon” it added. “Have a nice day”.
+Before it was taken down, Lockbit’s website displayed an ever-growing gallery of victim organisations that was updated nearly daily. Next to their names were digital clocks that showed the number of days left to the deadline given to each organisation to provide ransom payment.
+On Monday, Lockbit’s site displayed a similar countdown, but from the law enforcement agencies who hacked the hackers: “Return here for more information at: 11:30 GMT on Tuesday 20th Feb.” the post said.
+Don Smith, vice president of Secureworks, an arm of Dell Technologies, said Lockbit was the most prolific and dominant ransomware operator in a highly competitive underground market.
+“To put today’s takedown into context, based on leak site data, Lockbit had a 25% share of the ransomware market. Their nearest rival was Blackcat at around 8.5%, and after that it really starts to fragment,” Smith said.
+“Lockbit dwarfed all other groups and today’s action is highly significant.
+(Reporting by James Pearson; Additional reporting by Christopher Bing in Washington and Karen Freifeld in New York; Editing by Lisa Shumaker and Leslie Adler)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

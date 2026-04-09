@@ -1,0 +1,20 @@
+SOURCE: The Print
+TITLE: Ransomware group ‘Black Basta’ has raked in more than $100 million -researchers
+AUTHOR: Reuters
+DATE: 2023-11-30
+URL: https://theprint.in/tech/ransomware-group-black-basta-has-raked-in-more-than-100-million-researchers/1864709/
+
+--- ARTICLE TEXT ---
+
+By Raphael Satter
+WASHINGTON (Reuters) -A cyber extortion gang suspected of being an offshoot of the notorious Russian Conti group of hackers has raked in more than $100 million since it emerged last year, researchers said in a report published on Wednesday.
+Digital currency tracking service Elliptic and Corvus Insurance said in a joint report the ransom-seeking cybercrime group known as “Black Basta” has extorted at least $107 million in bitcoin, with much of the laundered ransom payments making their way to the sanctioned Russian cryptocurrency exchange Garantex.
+An attempt to reach Black Basta via its darkweb site was not successful. Garantex, which was sanctioned by the U.S. Treasury in April last year, did not return messages seeking comment.
+Show Full Article
+Elliptic co-founder Tom Robinson said the massive haul made Black Basta “one of the most profitable ransomware strains of all time.” He said the researchers came up with the figure by identifying known ransom payments tied to the group and tracing how the digital currency was laundered, which revealed additional payments.
+Robert McArdle, a cybercrime expert with security firm TrendMicro who was not involved in the report, said the Black Basta figure was “certainly in a believable range for their operations.”
+The Elliptic-Corvus report said it had also uncovered evidence tying Black Basta to the defunct Russian group “Conti.”
+Conti used to be among the top ransomware gangs – operators that shake down victims either by encrypting their data and demanding money to unscramble it, by threatening to publish stolen information to the web, or both. The Russia-based group dismantled its leak site after the Kremlin’s full-scale invasion of Ukraine in early 2022 and the posting of U.S. bounties on its leadership that year, but researchers have long suspected the group merely reorganized and rebranded.
+“Conti was perhaps the most successful ransomware gang we’ve seen,” Robinson said. The latest findings suggest “some of the individuals responsible are replicating its success with the Black Basta ransomware,” he added.
+(Reporting by Raphael Satter; Additional reporting by James Pearson in London; Editing by Gerry Doyle and Richard Chang)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

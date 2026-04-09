@@ -1,0 +1,22 @@
+SOURCE: The Print
+TITLE: Entities found misusing bulk connections for spam calls to face disconnection, blacklisting: TRAI
+AUTHOR: PTI
+DATE: 2024-08-08
+URL: https://theprint.in/economy/entities-found-misusing-bulk-connections-for-spam-calls-to-face-disconnection-blacklisting-trai/2214921/
+
+--- ARTICLE TEXT ---
+
+New Delhi, Aug 8 (PTI) In a major crackdown against pesky calls by spammers, TRAI on Thursday said telcos will disconnect the telecom resources of entities that are found misusing bulk connections for making spam calls, and such entities would face blacklisting by all operators for up to two years.
+Sending out a strong message to erring entities and declaring its all-out offensive against spam calls, TRAI emphasised the urgent need to take firm action on spammers using `PRI/SIP connections’ for voice calls/Robo calls/Pre-recorded calls “without further delay”.
+The action comes just a day after TRAI Chairman Anil Kumar Lahoti made it clear that the regulator will review and strengthen regulations to curb spam calls.
+Show Full Article
+The Telecom Regulatory Authority of India (TRAI) held a meeting, with regulatory heads of all the Telecom Service Providers on Thursday. The meeting, Chaired by TRAI Chief, was attended by the Chief Regulatory Officers of Airtel, BSNL, Quadrant Televentures Limited (QTL), Reliance Jio, Tata Teleservices Limited, Vodafone Idea Limited and V-CON Mobile & Infra Private Limited.
+Representatives of MTNL and Reliance Communications Limited didn’t turn up for the meeting.
+After detailed deliberations, it was decided “If any entity misuses its SIP/ PRI (Session Initiation Protocol/Primary Rate Interface) lines for making spam calls, all the telecom resources of the entity shall be disconnected by its Telecom Service Provider (TSP) and the entity shall be blacklisted by it.” “This information shall be shared by the TSP with all other TSPs who will, in turn, disconnect all the telecom resources given by them to that entity and blacklist it for a period of up to two years. No new telecom resources shall be allocated to it by any TSP during the period of blacklisting,” TRAI said in a release.
+With effect from September 1, 2024, no message, containing URLs/APKs that are not whitelisted, shall be allowed to be delivered.
+“The technical implementation of entity and telemarketer chain binding for ensuring traceability of the message flow shall be completed by the TSPs latest by October 31, 2024,” TRAI said.
+TRAI highlighted that there is an immediate need to take firm action on spammers using PRI/SIP connections for voice calls/Robo calls/Pre-recorded calls without further delay.
+“All the TSPs promised to extend full support to TRAI in curbing the menace of spam calls and implement all the directions of TRAI within timeframe,” TRAI said.
+The issues discussed during Thursday’s meeting included spam calls by entities sending bulk commercial communications through PRI/ SIP or bulk connections and migration of all telemarketers and enterprises making bulk calls to DLT (Distributed ledger technology) platform. The meeting also deliberated on issues of entity and telemarketer Chain Binding for traceability of messages, and whitelisting of URLs for blocking of messages containing malicious links.
+On Wednesday, the TRAI chief had said: “We will work seriously…we will plug any loopholes that people are finding on existing regulations to tighten (the checks on) spam call issue.” The crackdown on pesky calls has figured high on the agenda of the Telecom Regulatory Authority of India, and the regulator has been hardening its stance on the issue, amid rising consumer complaints around unsolicited communications from unauthorised telemarketers. PTI MBI MR
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

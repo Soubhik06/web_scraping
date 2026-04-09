@@ -1,0 +1,40 @@
+SOURCE: The Print
+TITLE: Exclusive-Hacker uses Telegram chatbots to leak data of top Indian insurer Star Health
+AUTHOR: Reuters
+DATE: 2024-09-20
+URL: https://theprint.in/india/exclusive-hacker-uses-telegram-chatbots-to-leak-data-of-top-indian-insurer-star-health/2275880/
+
+--- ARTICLE TEXT ---
+
+By Christopher Bing and Munsif Vengattil
+WASHINGTON/BENGALURU (Reuters) – Stolen customer data including medical reports from India’s biggest health insurer, Star Health, is publicly accessible via chatbots on Telegram, just weeks after Telegram’s founder was accused of allowing the messenger app to facilitate crime.
+The purported creator of the chatbots told a security researcher, who alerted Reuters to the issue, that private details of millions of people were for sale and that samples could be viewed by asking the chatbots to divulge.
+Star Health and Allied Insurance, whose market capitalization exceeds $4 billion, in a statement to Reuters said it has reported alleged unauthorized data access to local authorities. It said an initial assessment showed “no widespread compromise” and that “sensitive customer data remains secure”.
+Show Full Article
+Using the chatbots, Reuters was able to download policy and claims documents featuring names, phone numbers, addresses, tax details, copies of ID cards, test results and medical diagnoses.
+The ability for users to create chatbots is widely credited with helping Dubai-based Telegram become one of the world’s biggest messenger apps with 900 million active monthly users.
+However, the arrest of Russian-born founder Pavel Durov in France last month has increased scrutiny of Telegram’s content moderation and features open to abuse for criminal ends. Durov and Telegram denied wrongdoing and are addressing the criticism.
+The use of Telegram chatbots to sell stolen data demonstrates the difficulty the app has in preventing nefarious agents taking advantage of its technology and highlights the challenges Indian companies face in keeping their data safe.
+The Star Health chatbots feature a welcome message stating they are “by xenZen” and have been operational since at least Aug. 6, said UK-based security researcher Jason Parker.
+Parker said he posed as a potential buyer on a online hacker forum where a user under the alias xenZen said they made the chatbots and possessed 7.24 terabytes of data related to over 31 million Star Health customers. The data is free via the chatbot on a random, piecemeal basis, but for sale in bulk form.
+Reuters could neither independently verify xenZen’s claims nor ascertain how the chatbot creator obtained the data. In an email to Reuters, xenZen said they were in discussions with buyers without disclosing who or why they were interested.
+TAKEN DOWN
+In testing the bots, Reuters downloaded more than 1,500 files with some documents dated as recently as July 2024.
+“If this bot gets taken down watch out and another one will be made available in few hours,” the welcome message read.
+The chatbots were later marked “SCAM” with a stock warning that users had reported them as suspect. Reuters shared details of the chatbots with Telegram on Sept. 16 and within 24 hours spokesperson Remi Vaughn said they had been “taken down” and asked to be informed should more appear.
+“The sharing of private information on Telegram is expressly forbidden and is removed whenever it is found. Moderators use a combination of proactive monitoring, AI tools and user reports to remove millions of pieces of harmful content each day.”
+New chatbots have since appeared offering Star Health data.
+Star Health said an unidentified person contacted it on Aug. 13 claiming to have access to some of its data. The insurer reported the matter to the cybercrime department of its home state of Tamil Nadu and federal cyber security agency CERT-In.
+“The unauthorized acquisition and dissemination of customer data is illegal, and we are actively working with law enforcement to address this criminal activity. Star Health assures its customers and partners that their privacy is of paramount importance to us,” it said in its statement.
+In an Aug. 14 stock exchange filing, Star Health, India’s biggest player among standalone health insurance providers, said it was investigating an alleged breach of “a few claims data”.
+Representatives for CERT-In and the Tamil Nadu cybercrime department did not respond to emailed requests for comment.
+UNAWARE
+Telegram allows individuals or organizations to store and share large amounts of data behind anonymous accounts. It also lets them create customizable chatbots which automatically provide content and features based on user requests.
+Two chatbots distribute Star Health data. One offers claim documents in PDF format. The other allows users to request up to 20 samples from 31.2 million datasets with a single click giving details including policy number, name and even body mass index.
+Among documents disclosed to Reuters were records related to the treatment of the one-year-old daughter of policyholder Sandeep TS at a hospital in the southern state of Kerala. The records included diagnosis, blood test results, medical history and a bill of nearly 15,000 rupees ($179).
+“It sounds concerning. Do you know how this can affect me?” said Sandeep, confirming the documents’ authenticity. He said Star Health had not notified him of any data leak.
+The chatbot also leaked a claim last year by policyholder Pankaj Subhash Malhotra which included ultrasound imaging test results, details of illness and copies of federal tax account and national ID cards. He also confirmed the documents were genuine and said he was not made aware of any security breach.
+The Star Health chatbots are part of a broader trend of hackers using such methods to sell stolen data. Of five million people whose data was sold via chatbots, India represented the largest number of victims at 12%, showed the latest survey on the epidemic conducted by NordVPN at the end of 2022.
+“The fact that sensitive data is available via Telegram is natural, because Telegram is an easy-to-use storefront,” said NordVPN cybersecurity expert Adrianus Warmenhoven. “Telegram has become an easier to use method for criminals to interact.”
+(Reporting by Christopher Bing and Munsif Vengattil; Editing by Aditya Kalra and Christopher Cushing)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

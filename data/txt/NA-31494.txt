@@ -1,0 +1,127 @@
+SOURCE: The Print
+TITLE: How a global trade war poses the biggest challenge to cyber leadership
+AUTHOR: WEF Team
+DATE: 2025-05-04
+URL: https://theprint.in/tech/how-a-global-trade-war-poses-the-biggest-challenge-to-cyber-leadership/2615213/
+
+--- ARTICLE TEXT ---
+
+I
+t is now a little over 100 days since Donald Trump entered the White House. The president’s impact on the world’s security landscape has been immediate and “
+seismic
+”. Not only on major flash points of global instability –
+War in Ukraine
+, the
+Middle East
+and the future of the
+NATO alliance
+– but across a whole swathe of often long-established foreign and domestic policy domains. For cyber leaders globally, the period since the January inauguration has been a wake-up call.
+Cybersecurity was largely considered politically neutral for the past
+20 years
+– a technical discipline, globally integrated and relatively vendor-agnostic. Not only in the US, but in the majority of
+technologically advanced countries
+. Arguably no longer. An “American First” agenda has led to major changes at the US Cybersecurity and Infrastructure Security Agency (
+CISA),
+stalled emergency funding needed for the global database of
+cyber vulnerabilities
+and curtailed international c
+yber
+capacity-building efforts.
+Today, the most far-reaching challenge for cyber leadership is the escalating global trade and tariff war. As the era of open markets fades, many in the cyber community are asking a fundamental question: Is the industry now destined to be restricted and repatriated like other strategic national assets?
+Show Full Article
+Here are three ways the new global trade agenda is set to shape the strategies of the cyber C-suite around the world.
+Inflation
+Trade conflicts have one common outcome – from the
+Smoot-Hawley Tariff Act
+of the 1930s, through the
+US-EEC Chicken War
+of the 1960s, to
+Ronald Reagan’
+s action against Japan in the 1980s – inflation.
+This matters to cyber leaders because of how it exerts pressure on the businesses they are defending. It inevitably squeezes cyber and technology budgets, at the same time increasing their own programme’s costs.
+In 2022, when inflation hit a 40-year high
+, it triggered aggressive interest rate hikes. Consequently, the tech sector lost over $7 trillion in market value. Cybersecurity, once seen as non-negotiable, for the first time saw
+investment slow
+,
+budgets curtailed
+and the
+efficacy
+of spending questioned.
+“
+A tariff is a tax, plain and simple. It raises the price of imports, and in doing so, reduces real income and fuels inflationary pressure.
+”
+— Paul Krugman, Nobel Laureate and Economist.
+At an ecosystem level, cyber innovation can also fall behind the threat landscape. Central banks raise rates to tame inflation and the cost of equity and debt financing jumps. Public‑market multiples compress –
+the NASDAQ Cyber Index
+fell almost 30 % during the 2022 inflation spike – and venture investors mark down comparables and slow deployment schedules. Early‑stage checks that fund next-generation capabilities, such as new record Google acquisition,
+Wiz
+, or frontier capabilities such as
+post‑quantum crypto
+, or
+AI‑driven threat hunting
+, become much scarcer.
+Re-shoring cyber capability
+Cyber leaders are not strangers to barriers. In many
+Asian markets
+, like Singapore, it has long been the practice for some to
+effectively erect barriers to parts of its cyber market
+– for example under
+class licensing and permit systems
+. Similarly, after the blacklisting of Huawei, over a dozen European governments have created
+“trusted vendor”
+rules for its critical national infrastructure (CNI), effectively screening out providers based on geopolitical affiliation. The current crisis has the potential to deepen and accelerate this trend across the full suite of cyber labour, technology and service providers.
+Barriers not only constrain the benefits of free markets — all 20 major global cyber providers are US- or Israeli-owned — but building effective “sovereign” capabilities is fraught with challenges. In the short term, critical networks could face greater risks, while decisions made today may not bear fruit for years.
+In Europe, efforts to compete with major American cyber providers face
+well-documented challenges
+. Strategic labour restrictions and “citizens-only” clearance policies further strain the cyber talent market. In the US, over 54% of cyber roles remain unfilled, despite dramatic wage inflation. The
+UK’s Cyber First Programme
+, and its
+Academic Centres of Excellence
+, designed to build British cyber talent, are over 10 years old and only now
+bearing fruit
+.
+The threat landscape
+Significantly, one of the biggest impacts on the cyberthreat landscape in the past decade was trade – not technical wizardry. While short-lived, the 2015
+Anatalya
+agreement and
+Obama-Xi Summit
+were predicated on
+Washington signaling it was prepared
+to curb Chinese firms’ access to the vast US consumer and capital markets unless alleged state‑sponsored commercial hacking abated. It did lead to
+a drop in APT activity
+, a dip unmatched before or since. It showed that credible market‑access discussions could positively modulate cyber behaviour faster than any firewall upgrade. Now, we could see the inverse happen.
+The
+international relations theory
+behind this is sound – economic and trade integration raises the opportunity cost of aggression and therefore dampens
+forms of conflict
+. Fracturing trade removes those barriers and could lead to much greater instability in cyberspace.
+While for the majority of global consumers and businesses,
+financial cybercrime is the principal
+cyberthreat, nation-state activity is a significant issue for many. Crowdstrike, a leading provider,
+tracks 232
+groups originating from 24 different countries alone. More broadly, fracturing trade relationships makes cooperation on issues like
+cyber safe havens
+, law enforcement
+cooperation and capacity efforts
+much more unlikely.
+What can the cyber C-suite do?
+Cyber strategy and economic dis-cooperation
+Cyber is not a
+consumer staple or a commodity,
+but for most, a crime type. Cooperation, where reasonably possible, needs to be a consistent principle of the cyber leadership community. In the short term, it is clear though that those tasked with securing our most valuable infrastructures need to adjust their cyber strategies in three ways:
+Insulate the cyber budget against fiscal shock:
+Engage now with the business to protect core risk‑mitigation spending so security posture survives any cost‑cutting and tariff‑driven inflation, even in a heightened threat landscape.
+Engineer geopolitical resilience into the enterprise cyber stack:
+Ensure that cyber and technology capabilities are truly resilient to future exclusions based on national origin, foreign policy and shifting alliances.
+Double down on talent:
+Work with both internal and external stakeholders to build a resilient workforce plan – scholarships, apprenticeships and continuous upskilling – to both develop and retain scarce cyber expertise.
+While ultimately all trade conflicts do end, the current uncertainty does have the potential to test the meaning of
+cyber resilience
+and the balance between information security and strategic advantage. There is no past blueprint. But what’s clear is that cyber leadership now demands more than technical competence – it requires strategic clarity, organizational agility and a willingness to reframe what cyber leadership really means.
+The decisions cyber leaders make today will not just secure systems – they will help define the resilience, stability and prosperity of tomorrow’s global economy.
+William Dixon is an Associate Fellow at the Royal United Services Institute.
+This article is republished from the
+World Economic Forum
+under a Creative Commons license. Read the
+original article
+.

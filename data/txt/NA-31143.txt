@@ -1,0 +1,28 @@
+SOURCE: The Print
+TITLE: HSBC tests protecting FX trading from quantum computer attacks
+AUTHOR: Reuters
+DATE: 2023-12-06
+URL: https://theprint.in/tech/hsbc-tests-protecting-fx-trading-from-quantum-computer-attacks/1874093/
+
+--- ARTICLE TEXT ---
+
+By Sinead Cruise and Lawrence White
+LONDON (Reuters) – HSBC has completed what it says is the world’s first trial of a tool designed to protect highly sensitive financial data from cyber criminals seeking to harness the power of next-generation quantum computers to launch future attacks.
+The British bank said it used the tool to safeguard a trade on its proprietary platform, HSBC AI Markets, exchanging 30 million euros for U.S. dollars.
+The test, details of which are reported here for the first time, shows how banks are trying to get ahead of cyber criminals who could use advances in computing to access trading data in global financial systems such as the $7.5 trillion per day foreign exchange market.
+Show Full Article
+“While we take the view that we are some distance away from quantum computers being able to break traditional encryption, the time to prepare for this is now,” Colin Bell, CEO of HSBC Europe, told Reuters.
+HSBC’s test ran on a network created by British telecommunications company BT and using devices developed by Toshiba as well as support from Amazon Web Services.
+The test is an important step in showing the commercial applications of the technology using currently available fibre networks, said Andrew Shields, head of quantum technology, Toshiba Europe.
+Howard Watson, Chief Security and Networks Officer, BT Group, said it was critical that digital infrastructure remained secure against new quantum-based threats.
+HSBC said the test helped it plan how it could roll out to some of its trading systems a form of encryption known as quantum key distribution (QKD).
+QKD uses particles of light to deliver secret keys between parties that can be used to encrypt and decrypt sensitive data, the bank said.
+“The protection of both the bank’s data and our clients’ data is something that we take with the utmost seriousness,” said Richard Bibbey, global head of foreign exchange, emerging market rates and commodities at HSBC.
+“Were someone to be able to eavesdrop on the flows that go across the largest foreign exchange institutions, they will have a significant amount of information, the capacity to manipulate the market and to understand what trades have been executed before they have been risk-managed.”
+Quantum computers promise to be millions of times faster than today’s most powerful supercomputers, potentially revolutionizing everything from medical research to battling climate change.
+Banks worldwide are working on how to take advantage, as well as how to protect themselves against any risks.
+Some 297 patents for so-called Post Quantum Cryptography, or systems resistant to quantum computing attacks, have been filed in the United States alone since 2015, according to John Egan, CEO of independent BNP Paribas research subsidiary L’Atelier.
+Some experts are sceptical of the immediate practical implications of the QKD technology for financial markets.
+Authorities say its specialist hardware requirements make QKD impractical for many potential end users, said Martin Albrecht, professor of cyber security at King’s College London.
+(Reporting by Sinead Cruise and Lawrence White; Editing by Mark Potter)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

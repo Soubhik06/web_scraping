@@ -1,0 +1,54 @@
+SOURCE: The Print
+TITLE: 3 hrs to take down content: Govt says new AI rules ‘doable’, tech industry asks how practical are they
+AUTHOR: Vrinda Tulsian
+DATE: 2026-02-16
+URL: https://theprint.in/india/3-hrs-to-take-down-content-govt-says-new-ai-rules-doable-tech-industry-asks-how-practical-are-they/2855334/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+The Centre has doubled down on its position that India will not tolerate what it terms as “irresponsible” use of generative artificial intelligence, even as digital rights experts and industry bodies raise concerns over newly notified amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.
+The amendments, notified on 10 February and set to come into effect on 20 February, cut the government notice-based takedown timeline for unlawful content from 36 hours to three hours. They also expand compliance obligations around AI-generated and synthetically altered content. The new rules will apply to major platforms, including Meta, YouTube and X.
+Abhishek Singh, Additional Secretary, Ministry of Electronics and Information Technology and CEO of IndiaAI Mission, defended the amendments, saying the government’s approach is guided by a “user-harm” lens.
+Show Full Article
+“It’s simple—if you are in India, you have to comply with the legal framework of the country,” Singh said in an interview to ThePrint Friday.
+According to him, the tightened timelines are aimed at addressing risks posed by deepfakes, synthetic media and AI-generated content that can fuel sexual abuse, harassment, threats to public order or national security.
+Referring to
+controversies
+involving Grok, the chatbot developed by xAI and integrated into X, Singh said delayed removals allow harm to crystallise.
+“If somebody is doing something similar to what Grok did, and you take that content off after 36 hours, the damage is done,” he said. “You can’t undo the reputational loss or the harassment an individual has gone through.”
+In early January, the Centre issued a formal notice to X over “vulgar, obscene and unlawful” content linked to Grok, including non-consensual sexualised images of women and minors. The government sought immediate removal and a detailed compliance report within 72 hours, warning that failure to act could jeopardise the platform’s safe harbour protections under the IT Act.
+X later acknowledged moderation lapses, blocking about 3,500 pieces of content and deleting more than 600 accounts after the government’s intervention.
+Singh rejected the contention that a three-hour deadline is technologically unworkable. “It is possible. In fact, I would say it can be brought lower. It can be done instantly,” he said.
+Drawing a comparison with copyright enforcement, he noted that platforms routinely take down infringing content within minutes using automated systems. If a user uploads a clip of Virat Kohli scoring a century or posts copyrighted material linked to rights holders such as the Board of Control for Cricket in India, “there is no complaint necessary,” Singh said.
+“Technically, they have that ability. So, when you bring in a legal provision, it is not something beyond their capability.”
+Also Read:
+Future belongs to the AI-ready, entry-level software jobs will be impacted first—India AI Mission CEO
+What new rules mandate
+The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026, expand the definition of “synthetically generated information” to include AI-created or altered audio-visual content that appears real. Such content is now explicitly covered under the takedown obligations.
+Under the amended framework, intermediaries must deploy automated tools to prevent unlawful synthetic content, mandate user declarations for AI-generated material, verify and prominently label such content, embed traceable metadata, and in certain cases, identify and disclose users to complainants. The government notice-based removal timeline has been reduced from 36 hours to three hours, while some grievance redressal timelines have been shortened to two hours.
+Officials have framed the changes as necessary to address emerging risks linked to generative AI, particularly where content can cause immediate and irreparable harm.
+What experts say
+According to digital policy experts, the amendments reflect mounting concern over the misuse of generative AI, but caution that certain provisions may raise implementation challenges.
+Rohit Kumar, co-founder of The Quantum Hub (TQH), told ThePrint that the rules signal deep concern about the consequences of AI misuse. At the same time, he warned that “mandatory timelines and enforcement” provisions could be difficult to operationalise and may be “susceptible to misuse themselves”.
+Instead of relying exclusively on reactive takedowns, Kumar argued that platforms and regulators should focus on limiting virality at the source. Once synthetic content spreads widely, removal from a single link does little to undo reputational harm.
+Kahaan Mehta, Senior Resident Fellow at Vidhi Centre for Legal Policy’s Applied Law and Technology Research Team, pointed out that the “bare text of the rules does not expressly limit the three-hour mandate to deepfake content alone”. This, he said, raises the possibility that a broader set of unlawful categories may now attract the shortened timeline.
+Mehta flagged operational risks linked to compressed review windows. “If this leads to over-reliance on automated tools for detecting and removing content, further research may be required, considering the questions around accuracy, linguistic and contextual sensitivity of automated systems used by mainstream platforms to assess the legality of content under Indian law,” he explained.
+He added that while large platforms may have the resources to maintain 24×7 moderation systems, “the consequences for smaller or emerging intermediaries and AI firms remain unclear”.
+Prateek Waghre, Head of Programs and Partnerships at non-profit Tech Global Institute, said shrinking timelines combined with significant liability consequences could incentivise platforms to err on the side of removal.
+“When timelines shrink to a few hours and liability consequences are severe, platforms are incentivised to comply immediately, even in borderline or contested cases,” he said.
+On mandatory labelling of synthetic content, Waghre said: “Bad-faith actors won’t voluntarily label their content. So, the burden falls on platforms to detect synthetic material accurately, but detection technologies are far from reliable.”
+He also flagged unresolved questions around liability in cases of incorrect labelling, disputed flags or content in legal grey zones.
+What industry bodies are doing
+Industry bodies including Broadband India Forum (BIF), National Association of Software and Service Companies (NASSCOM) and Internet and Mobile Association of India (IAMAI) are preparing submissions to the Ministry of Electronics and Information Technology, according to people familiar with the matter.
+While the submissions are still in preparatory stages, officials from the industry bodies said concerns centre on the three-hour compliance window and the limited time between notification and enforcement. Industry representatives argue that the 20 February implementation date provides little time to “rewire infrastructure” and adapt systems.
+Speaking to ThePrint, T.V. Ramachandran, President of BIF, said that companies “fully support” the government’s objective of “strengthening online safety and protecting users from harm”, but cautioned that the “significantly shortened compliance timelines introduce practical implementation considerations that merit careful examination”.
+He added that taking action on takedown requests within a “two-to three-hour window may not be feasible” given the “multiple internal checks, validation and cross-functional approvals” involved.
+“The scale of operations and the volume of these requests would add to the complexity in compliance,” he asserted, stating that “a structured and consultative engagement with stakeholders would help ensure that these timelines can be operationalised in a meaningful and effective manner”. BIF’s patron members include Meta and Google.
+One proposal informally gaining traction is a “stop-the-clock” model similar to mechanisms followed in parts of Europe. Under such an approach, content could be temporarily restricted or shadow-banned while a fuller review is conducted and authorities are given time to respond.
+An insider from another industry body representing both significant and small social media intermediaries, speaking on the condition of anonymity, told ThePrint that “nobody is happy with the rules”, particularly given the absence of consultation on the three-hour deadline.
+However, another industry expert familiar with the matter described the three-hour window as “doable”, noting that platforms already comply with similarly tight timelines during election time when directed by the Election Commission of India.
+“As soon as the government emails a takedown order, they click the link and take it down. It’s that simple,” the person said.
+(Edited by Nida Fatima Siddiqui)
+Also Read:
+India’s AI rules risk curbing lawful content. Three-hour takedown policy is unprecedented

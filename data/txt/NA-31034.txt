@@ -1,0 +1,22 @@
+SOURCE: The Print
+TITLE: India’s new SMS traceability framework goes live
+AUTHOR: ThePrint Team
+DATE: 2024-12-19
+URL: https://theprint.in/india/indias-new-sms-traceability-framework-goes-live/2410921/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+The
+Telecom
+Regulatory Authority of India (TRAI) announced the successful implementation of a framework designed to ensure the traceability of all commercial SMS messages sent in India. This initiative, effective December 11, 2024, aims to create a safer and more spam-free messaging environment for consumers, a PIB press release stated.
+The framework mandates that all businesses, banks, government agencies, and their telemarketers register their message transmission paths through a blockchain-based Distributed Ledger Technology (DLT). This process creates an end-to-end traceability chain for every SMS, allowing it to be tracked from origin to delivery without compromising data security or message delivery speed.
+TRAI issued a directive on August 20, 2024, requiring all commercial messages to be traceable starting November 1, 2024. Recognizing the scale of the activities involved in implementation,
+TRAI
+extended the compliance deadlines first to 30 November 2024 and later to December 10, 2024, to facilitate the onboarding of approximately 113,000 active Principal Entities (PEs) across various sectors.
+Show Full Article
+To ensure a smooth implementation, TRAI collaborated with sectoral regulators like RBI, SEBI, IRDAI, and government agencies like NIC and CDAC. Access Providers also played a crucial role by providing support and technical guidance to PEs and TMs.
+During the initial enforcement period, TRAI adopted an innovative implementation strategy. Chain-binding regulations were enforced, but undeclared messages were temporarily allowed with error codes. This approach ensured uninterrupted messaging services for critical communications like OTPs while encouraging PEs to comply with the regulations.
+With the successful implementation of this framework, TRAI has taken a significant step towards curbing spam and
+enhancing consumer trust
+in telecom services. This initiative builds upon TRAI’s existing anti-spam measures, including the disconnection of telecom resources used by spammers, URL whitelisting in SMS, and the migration of 140-series telemarketers to DLT platforms.

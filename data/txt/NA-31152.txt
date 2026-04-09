@@ -1,0 +1,38 @@
+SOURCE: The Print
+TITLE: Factbox-What to know about Signal messaging app used by Trump aides to share war plans
+AUTHOR: Reuters
+DATE: 2025-03-25
+URL: https://theprint.in/tech/factbox-what-to-know-about-signal-messaging-app-used-by-trump-aides-to-share-war-plans/2564326/
+
+--- ARTICLE TEXT ---
+
+(Reuters) – Top Trump administration officials used messaging app Signal to share war plans and mistakenly included a journalist in the encrypted chat, spurring calls by Democratic lawmakers for a congressional investigation into the security breach.
+Under U.S. law, it can be a crime to mishandle, misuse or abuse classified information, though it is unclear whether those provisions might have been violated in this case.
+Below are some of the main facts about Signal:
+Show Full Article
+HOW DOES SIGNAL WORK?
+Signal is a secure messaging service that uses end-to-end encryption, meaning the service provider cannot access and read private conversations and calls from users on its app, therefore guaranteeing its users’ privacy.
+Signal’s software is available across platforms, both on smartphones and computers, and enables messaging, voice and video calls. A telephone number is necessary to register and create an account.
+Unlike other messaging apps, Signal does not track or store user data, and its code is publicly available, so security experts can verify how it works and ensure it remains safe.
+HOW SAFE IS IT?
+Signal is an open-source and fully encrypted messaging service that runs on centralised servers maintained by Signal Messenger.
+The only user data it stores on its servers are phone numbers, the date a user joined the service, and the last login information.
+Users’ contacts, chats and other communications are instead stored on the user’s phone, with the possibility of setting the option to automatically delete conversations after a certain amount of time.
+The company uses no ads or affiliate marketers, and doesn’t track users’ data, as stated on its website.
+Signal also gives users the possibility to hide their phone number from others and use an additional safety number to verify the safety of their messages, it adds.
+Signal does not use U.S. government encryption or that of any other governments, and is not hosted on government servers.
+“All indications point towards Signal as one of the most trusted and secure services for communication,” said PP Foresight analyst Paolo Pescatore. “This is clearly underlined by the use within the U.S. government.”
+WHO FOUNDED SIGNAL?
+Signal was founded in 2012 by entrepreneur Moxie Marlinspike and its current president is Meredith Whittaker, according to the company’s website.
+In February 2018, Marlinspike alongside WhatsApp co-founder Brian Acton started the non-profit Signal Foundation, which currently oversees the app. Acton provided an initial funding of $50 million. Acton left WhatsApp in 2017 due to differences around the use of customer data and targeted advertising.
+Signal is not tied to any major tech companies and will never be acquired by one, it says on its website.
+WHO USES SIGNAL?
+Widely used by privacy advocates and political activists, Signal has gone from an exotic messaging app used by dissidents to a whisper network for journalists and media, to a messaging tool for government agencies and organisations.
+Signal saw “unprecedented” growth in 2021 after a disputed change in rival WhatsApp’s privacy terms, as privacy advocates jumped off WhatsApp on fears users would have to share their data with both Facebook and Instagram.
+Reuters lists Signal as one of the tools tipsters can use to share confidential news tips with its journalists, while noting that “no system is 100 percent secure”.
+Signal’s community forum, an unofficial group which states that its administration is composed of Signal employees, also lists the European Commission as a user of the tool.
+In 2017, the U.S. Senate Sergeant at Arms approved the use of Signal for Senate staff.
+“Although Signal is widely regarded as offering very secure communications for consumers due to its end-to-end encryption and because it collects very little user data, it is hard to believe it is suitable for exchanging messages related to national security,” said Ben Wood, chief analyst at CCS Insight – alluding to the breach involving top Trump aides discussing plans for military strikes on Yemeni Houthi militants.
+Google’s message services Google Messages and Google Allo, as well as Meta’s Facebook Messenger and WhatsApp, use the Signal Protocol, according to Signal’s website.
+(Reporting by Isabel Demetz and Greta Rosen Fondahn in Gdansk; editing by Mark Heinrich)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibility for its content.

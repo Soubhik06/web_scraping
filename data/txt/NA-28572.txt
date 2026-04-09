@@ -1,0 +1,23 @@
+SOURCE: The Print
+TITLE: Google reports scale of complaints about AI deepfake terrorism content to Australian regulator
+AUTHOR: Reuters
+DATE: 2025-03-05
+URL: https://theprint.in/tech/google-reports-scale-of-complaints-about-ai-deepfake-terrorism-content-to-australian-regulator/2534980/
+
+--- ARTICLE TEXT ---
+
+By Byron Kaye
+SYDNEY (Reuters) – Google has informed Australian authorities it received more than 250 complaints globally over nearly a year that its artificial intelligence software was used to make deepfake terrorism material.
+The Alphabet-owned tech giant also said it had received dozens of user reports warning that its AI program, Gemini, was being used to create child abuse material, according to the Australian eSafety Commission.
+Under Australian law, tech firms must supply the eSafety Commission periodically with information about harm minimisation efforts or risk fines. The reporting period covered April 2023 to February 2024.
+Show Full Article
+Since OpenAI’s ChatGPT exploded into the public consciousness in late 2022, regulators around the world have called for better guardrails so AI can’t be used to enable terrorism, fraud, deepfake pornography and other abuse.
+The Australian eSafety Commission called Google’s disclosure “world-first insight” into how users may be exploiting the technology to produce harmful and illegal content.
+“This underscores how critical it is for companies developing AI products to build in and test the efficacy of safeguards to prevent this type of material from being generated,” eSafety Commissioner Julie Inman Grant said in a statement.
+In its report, Google said it received 258 user reports about suspected AI-generated deepfake terrorist or violent extremist content made using Gemini, and another 86 user reports alleging AI-generated child exploitation or abuse material.
+It did not say how many of the complaints it verified, according to the regulator.
+Google used hatch-matching – a system of automatically matching newly-uploaded images with already-known images – to identify and remove child abuse material made with Gemini.
+But it did not use the same system to weed out terrorist or violent extremist material generated with Gemini, the regulator added.
+The regulator has fined Telegram and Twitter, later renamed X, for what it called shortcomings in their reports. X has lost one appeal about its fine of A$610,500 ($382,000) but plans to appeal again. Telegram also plans to challenge its fine.
+(Reporting by Byron Kaye; Editing by Edwina Gibbs)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibility for its content.

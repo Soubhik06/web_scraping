@@ -1,0 +1,87 @@
+SOURCE: The Print
+TITLE: Aadhaar can help India gamify healthcare. Give citizens points for positive behaviour
+AUTHOR: Pulkit Athavle
+DATE: 2023-11-24
+URL: https://theprint.in/opinion/aadhaar-can-help-india-gamify-healthcare-give-citizens-points-for-positive-behaviour/1857673/
+
+--- ARTICLE TEXT ---
+
+I
+n less than 15 years, Aadhaar has become the cornerstone of identity verification in India today. With the government’s strong belief in the benefits of
+Aadhaar to stem leakages
+and make public service delivery more efficient, Aadhaar uses have rapidly proliferated. The linking of a variety of systems using Aadhaar offers a crucial opportunity to give a fillip to public health campaigns by incentivising health-positive behaviours, especially for the poor who often, unfortunately, lack the time or incentive to prioritise this.
+Current applications in public health
+Currently, the government has increasingly linked Aadhaar with various public health campaigns:
+Conditional cash transfers
+Show Full Article
+The initial implementation consisted of ‘
+conditional cash transfer schemes
+’ where financial payouts are given for health-positive behaviours. This improves take-up amongst the poor by offsetting serious costs they face (absence from work, financial burden). The introduction of
+Direct Benefit Transfers (DBT) to Aadhaar-linked bank accounts in the public food distribution scheme
+was an early test, aimed at ensuring that beneficiaries got the full sum of subsidy without losses to middlemen. Better access to nutritious food cannot be underestimated as a public health scheme, although
+some have since argued
+that while Aadhaar-DBT was capable of reducing identity fraud, its ability to reduce quantity fraud was uncertain.
+Further expansions include the
+Janani Suraksha Yojana
+allowing pregnant women to get Aadhaar-DBT payments for institutional deliveries, to reduce maternal mortality by reducing at-home deliveries. Similarly,
+Aadhaar-DBT
+for TB patients helps to offset the cost of
+treatment
+and
+food
+, improving
+treatment and survival outcomes
+.
+Aadhaar as a Preferred Identity Proof in Healthcare Schemes
+Recently, Aadhaar has begun to be used to accurately link healthcare records to identity and make them easy to track. This began with the expansive
+Ayushman Bharat PM-JAY health insurance
+which provides beneficiaries with hospitalisation cover of 5 lakh/family/annum along with diagnostics and medications coverage. In this scheme,
+Aadhaar e-KYC
+is needed to generate the Ayushman Bharat card and access these benefits.
+Subsequently, the Co-WIN system for COVID-19 vaccinations
+included Aadhaar
+as an accepted identity proof and has inspired the
+under-rollout U-WIN platform
+for the Universal Immunisation Programme. Also being designed is the
+end-state Ayushman Bharat Digital Mission (ABDM)
+which aims to bring together doctor reports, test results, prescriptions and all medical information on one, expansive platform to improve accessibility—while using Aadhaar as one of just two accepted identity proofs.   [The above listed schemes are not an exhaustive list and, in many schemes, alternatives to Aadhaar are accepted.]
+However, each of these schemes appears to have been implemented in isolation and fails to capitalise on the benefits of using Aadhaar as a common linkage to promote public and preventive health. By taking advantage of the linked data pools, the government can promote health-positive behaviours and ideally, reduce healthcare-associated costs in future.
+Also Read:
+Go beyond Africa — India’s digital public infrastructure should be taken to the West now
+Incentivising health-positive behaviours with Aadhaar linkages
+To achieve this, Aadhaar should be the preferred identity verification method for the National Health Identity under the Ayushman Bharat Scheme. This should then be linked to Universal Immunisation, the National Programme for Non-Communicable Diseases, the National Tuberculosis Control Programme, PM-JAY, Jan Aushadhi Schemes, and other health schemes. [Other forms of identity can be used, although Aadhaar would be preferred because of the easier and more reliable process of identity verification.]
+Linking the various schemes and their databases would allow the government to gain a more holistic understanding of how an individual interacts with various health schemes. The government can now easily analyse specific trends in scheme uptake, graded by socio-economic status, region and even down to the individual level. For example, it can now be ascertained that an individual who uses the PM-JAY scheme does not avail of Jan Aushadhi benefits. Identifying such imbalances and trends at various administrative levels (ward, region, state) can help generate actionable insights about the performance of various schemes and more rapid corrective action. Aadhaar details like address and mobile can also offer a starting point for state health agencies to reach out to the underserved for schemes they are not availing.
+Next, Aadhaar data can be used to nudge public behaviour through a points-based incentive system where individuals get points for each health-positive act they participate in, with additive benefits the more health-positive actions one takes. For example, individuals who take recommended adult vaccinations, participate in relevant control programmes (e.g. filariasis control or adhere to TB control if TB-positive) and undergo recommended
+periodic screenings for non-communicable diseases
+(e.g. cervical cancer or high blood pressure screening) would get many more points as compared to someone who just does one of the above. These points not only offer some gamification benefits to promote health-positive behaviour but more importantly, can then feed into the provision of benefits for each segment of society.
+For income taxpayers, those with more points would receive a relatively higher offset against their tax burden, which could directly come from the health cess levied on many taxpayers. The percentage of the offset would be (income) progressive to avoid unnecessary loss of crucial government revenue as wealthier individuals need less of a financial nudge to seek out health-positive behaviours.
+For beneficiaries of means-dependent schemes, a similar slew of incentives might allow those who take more action to protect their health to receive a higher quantum of subsidies on Jan Aushadhis (generic medicines), PMJAY scheme and other government schemes. This would be on top of the default Aadhaar-DBT benefits that are provided.
+For children, such actions by their parents could lead to a points-linked beneficial top-up of child personal provident fund (PPF) accounts, providing a financial incentive for them to continue doing so, especially for poorer segments of society.
+In this way, the positive externalities produced as a result of preventive health actions would feed back to individuals as a financial incentive over and above the direct benefits to their health. Further, by capitalising on the currently underutilised power of linkages, the government can nudge individuals towards health-positive behaviours in a broader, additive manner rather than a piecemeal fashion. Such a model has had demonstratable success in the Indian context, with schemes like the
+Mid-day Meal scheme
+in schools or the provision of
+free cycles for female students in Bihar
+leading to positive results in terms of educational outcomes and enrolment.
+Also Read:
+UN agency-backed report says Aadhaar improved welfare delivery but excluded some poor
+Managing the limitations
+As always, such policies will have their own limitations that will have to be managed appropriately.
+First, a
+very small number of individuals
+(likely the rural poor) may still lack Aadhaar identification while others may have Aadhaar but not reveal it out of individual choice. To ensure that they are not discriminated against, the government mustn’t impose any costs on those without Aadhaar, for example in the form of higher fees. An incentive-only model would also push those without Aadhaar to register for one, in turn opening up many other benefits.
+Second, as the system becomes ever more linked, fraud identification and prevention will have to be similarly scaled up. Such linking has a dual nature: on one end, it increases the rewards of fraud but conversely, makes it easier for the government to catch abnormal patterns of behaviour and scheme usage compared to schemes viewed in isolation. Similar to how
+recent misuses of the PM-JAY scheme
+were discovered, a
+variety of technological tools
+including Artificial Intelligence-based pattern recognition will be required to prevent fraudulent uses of Aadhaar.
+Third, the government must exercise discretion when introducing Aadhaar-based linking for health issues prone to stigma. Reportedly, some HIV/AIDS patients
+dropped out
+of the National AIDS Control Programme rather than reveal their Aadhaar for fear of privacy breaches. In these cases, while the benefits are clear, implementation should be carefully considered and done gradually, if necessary, with clear communication from local health staff to build trust. Additional safeguards may also be needed to protect user privacy and assuage concerns.
+Conclusion
+Aadhaar, while not perfect, has been transformational for the delivery and implementation of schemes in India. However, current piecemeal implementation in healthcare is short on ambition and with a more integrated approach to delivering benefits, India can craft a holistic public and preventive health policy paradigm where individuals, especially the poorer segments, are nudged towards achieving as many health-positive behaviours as possible, improving their health and helping society and government over the long-term.
+Pulkit Athavle is a 2
+nd
+year MBBS undergraduate student at Nanyang Technological University, Singapore.
+Views are personal. This article
+originally
+appeared on Observer Research Foundation website.

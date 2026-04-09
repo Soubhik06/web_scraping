@@ -1,0 +1,21 @@
+SOURCE: The Print
+TITLE: Apple rolls out iMessage upgrade to withstand decryption by quantum computers
+AUTHOR: Reuters
+DATE: 2024-02-21
+URL: https://theprint.in/tech/apple-rolls-out-imessage-upgrade-to-withstand-decryption-by-quantum-computers/1974243/
+
+--- ARTICLE TEXT ---
+
+By Christopher Bing and Raphael Satter
+WASHINGTON (Reuters) – Apple is rolling out an upgrade to its iMessage texting platform to defend against future encryption-breaking technologies.
+The new protocol, known as PQ3, is another sign that U.S. tech firms are bracing for a potential future breakthrough in quantum computing that could make current methods of protecting users’ communications obsolete.
+“More than simply replacing an existing algorithm with a new one, we rebuilt the iMessage cryptographic protocol from the ground up,” an Apple blog post published on Wednesday reads. “It will fully replace the existing protocol within all supported conversations this year.”
+Show Full Article
+The Cupertino, California-based iPhone maker says its encryption algorithms are state-of-the-art and that it has found no evidence so far of a successful attack on them. Still, government officials and scientists are concerned that the advent of quantum computers, advanced machines that tap in to the properties of subatomic particles, could suddenly and dramatically weaken those protections.
+Late last year, a Reuters investigation explored how the United States and China are racing to prepare for that moment, dubbed “Q-Day,” both by pouring money into quantum research and by investing in new encryption standards known as post-quantum cryptography. Washington and Beijing have traded allegations of intercepting massive amounts of encrypted data in preparation for Q-Day, an approach sometimes dubbed “catch now, crack later.”
+“Early planning is necessary,” the U.S. cyber watchdog agency, the Cybersecurity and Infrastructure Security Agency, said in a 2022 advisory. “Cyber threat actors could be targeting data today that would still require protection in the future.”
+Apple’s blog says PQ3 uses a new and overlapping series of technical safeguards aimed at closing that window of opportunity.
+Michael Biercuk, the founder and chief executive of the quantum tech company Q-CTRL, said the fact that Apple was publicly hardening its defenses was a “vote of confidence” in the idea that advanced computers could one day lay waste to existing protections.
+“They are indicating that they believe this is a realistic threat and are preparing actively for it,” he said.
+(Reporting by Christopher Bing and Raphael Satter in Washington.; Editing by Matthew Lewis)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibilty for its content.

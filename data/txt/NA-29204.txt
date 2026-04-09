@@ -1,0 +1,32 @@
+SOURCE: The Print
+TITLE: Trading Rice Flour for Algorithms: Now, AI can draw ‘pulli’ kolams beyond human imagination
+AUTHOR: PTI
+DATE: 2026-03-25
+URL: https://theprint.in/india/trading-rice-flour-for-algorithms-now-ai-can-draw-pulli-kolams-beyond-human-imagination/2888329/
+
+--- ARTICLE TEXT ---
+
+Chennai, Mar 25 (PTI) Professor Shyamala Sivakumar recalled how when she was young, her mother was always pushing her to learn to draw ‘pulli’ kolams. The tradition of looping a line over dots to create intricate patterns, particularly the kind called ‘sikku’ or one-stroke kolams drawn without lifting hands, was something most young girls were expected to learn in the southern part of India.
+Shyamala, who teaches Computing Information Systems at Saint Mary’s University in Canada, said she could never master it despite trying her best. Decades later, Shyamala did get around to drawing that kolam. But she didn’t reach for a bag of rice flour, traditionally used for kolams. Instead, she did what she does best — create formulas so that AI could “draw” far more complicated ones than human minds can comprehend.
+The research, developed alongside her husband Seshadri Sivakumar, Founder and Chief Consultant at Florida-based Pasumai EnergyTech, transforms a traditional morning ritual into a high-stakes computational challenge.
+Show Full Article
+Their research on an algorithm for one-stroke kolam generation has been recently published in Nature’s Heritage Science, an international journal that publishes peer-reviewed research.
+The couple, who emigrated to Halifax, Canada, in the 1980s, said they “stumbled” on the algorithm while looking at the intersection of 2D art and generative learning using recurrent neural networks (RNN).
+Sivakumar, originally from Vellore, who pursued Electrical Technology and Electronics at the Indian Institute of Science in Bengaluru and worked for four years in Bharat Heavy Electrical Ltd (BHEL) before moving to Canada, said they realised that the ancient practice of drawing lines around a grid of dots was essentially a sophisticated topological puzzle.
+“Kolam patterns also possess a complex mathematical structure that has attracted significant research interest, spanning fields from computational geometry and graph theory to sociology and human-computer interaction,” Sivakumar told PTI.
+While for a layperson, the sikku kolam is a gruelling “test of memory and flow” to navigate the dots, a machine requires an appropriate network and sufficient computing power to learn the pattern without simply memorising it. If given these optimum conditions, the machine can easily outperform humans even for tasks with increased complexity.
+“In general, humans are more adept in creativity and improvisation when tasks are limited in complexity,” the researchers noted.
+The initial breakthrough came when they were working on a customised RNN called upper-lower triangular, which is an extension of Shyamala’s PhD work.
+Shyamala explained that because kolams are a “2D sequential artform”, this specialised structure was necessary for “memory retention capacity”. Their customised network, together with an innovative training, facilitates “controlled remembering and forgetting” which allows the digital line to keep moving in a stable, regulated manner.
+This “zigzag training algorithm” ensures that the line tracks the desired pattern based on the network’s own output from the previous instant, effectively mimicking human “muscle memory”.
+“This ability results in a stable generative kolam pattern with no external inputs — the line keeps moving in a controlled manner, tracking the desired pattern based on the network’s own output in the previous instant,” Shyamala said.
+This is significant, Sivakumar added. “We are not aware of other networks that use stable training as a machine learning methodology,” he said.
+The research notes that this architecture is “apt for a variety of tasks” including “grid load prediction, ECG waveform generation, and stock data modelling”.
+The humans have “to memorise by looking at the pattern”, therefore, limited to a “certain dimension” — typically up to 19 ‘pulli’ or dots, but can be 31 dots in exceptional cases, depending on the skills of the human. The reseachers’ algorithm, however, has “no limit” given enough computing power. In one instance, a kolam with “501 points” took two and a half days to generate on a normal desktop.
+The couple is quick to point out that the mathematical “one-stroke” logic has massive global implications. “While there is no direct correspondence between the kolam and technical fields, the mathematical underpinning of the one-stroke kolam lends itself to potential applications in secure wireless communications, image encryption and representation of complex protein structures,” Shyamala said.
+Sivakumar, who worked in power electronics “all his life”, noted that while the “cultural aspect” is defined by symmetry, the “pure mathematical aspect” is a universal language that no one had previously codified into such a versatile algorithm.
+Ultimately though, algorithmic kolam project remains a tribute to the “subjective beauty” of the form. “It acts as a digital record too, documenting the implicit and often unstated rules that traditional artists have passed down through generations. It not only generates viable patterns but also provides insight into problem-solving and decision-making inherent to traditional practice,” said Shyamala.
+It is also a way to protect kolam patterns from being lost due to fading memories and societal changes, pointed out Sivakumar. “Our algorithmic kolams can introduce this traditional art to new, digitally native audiences, make them accessible to the global audience,” he added.
+The couple are now fine-tuning the algorithm and improving network performance, with the help of an “enthusiastic” Indian student who got in touch with them due to Smart India Hackathon 2025. The hackathon, said Sivakumar, had helped spur renewed interest in the ancient art of kolam by framing it as a contemporary technological problem for students to solve.
+“We are also trying to see whether a machine can look at these patterns and learn to draw similar patterns without memorising them,” said Shyamala. PTI JR ROH
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.

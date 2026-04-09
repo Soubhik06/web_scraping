@@ -1,0 +1,26 @@
+SOURCE: The Print
+TITLE: Sim card swap, OTPs & transaction limits: ICICI to pay duped Ahmedabad firm Rs 1 cr, Vodafone fined
+AUTHOR: Bismee Taskin
+DATE: 2025-08-08
+URL: https://theprint.in/india/sim-card-swap-otps-transaction-limits-icici-to-pay-duped-ahmedabad-firm-rs-1-cr-vodafone-fined/2717021/
+
+--- ARTICLE TEXT ---
+
+New Delhi:
+The ICICI bank has been asked to pay over Rs 1 crore as compensation to an Ahmedabad-based company which became the victim of a sim card swapping fraud, that led to Rs 1.2 crore being transferred in 22 transactions from its accounts in a matter of hours.
+On 11 March 2023, when the director of the company Prakash Mehta was in Vietnam, cyber criminals tricked network provider Vodafone into activating a duplicate sim card for them, which gave them access to OTPs.
+And between 6 pm and 10 pm, on 12 March 2023, they had robbed Prakash Mehta of Rs 1,19,37,000.
+Show Full Article
+On 31 July, the Adjudicating Officer of the Department of Science and Technology (DST) of Gujarat, Mona Khandhar, under the Information Technology Act, asked ICICI Bank to pay Rs 10 lakh as penalty in addition to Rs 1.05 crore as compensation to the company—Collective Trade Links Private Limited. Further, Vodafone has been asked to pay Rs 5 lakh as penalty, and both Vodafone and ICICI Bank have been directed to enhance their internal procedures and checks within three months.
+The investigating officer had submitted in court that the incident had taken place due to the Vodafone Idea Company’s “negligence”.
+The sim swap and the robbery
+Investigations have shown that two Vodafone employees had initiated the sim swap without verifying the authenticity of the request or adhering to the “requisite procedural safeguards and verification protocols”.
+The swapping was finished in 25 minutes. The cyber criminals had sent a ‘phishing email’ to the telecom company asking for a change in the SIM card. A new sim was activated and the original one deactivated. Moreover, it was also found that the swap was carried out without confirmation from the complainant.
+The next day, after the Sim swap was done, the illegal transactions took place and surpassed the normal transaction limits and were processed without the OTP going to the original sim. Moreover, though Prakash Mehta had asked for OTPs to be sent to a second number, these reached 2-3 hours late, in which time, the transactions were complete.
+Employees of Collective Trade Links Private Limited discovered the fraud the next morning and reported it to the local police. The company’s director additionally also reached out to the Adjudication Officer of the DST for compensation from the bank and the network provider for negligence and filed a civil complaint against them for negligence in SIM issuance, KYC verification, and banking transaction monitoring.
+The police’s probe also revealed that a manager employed at a Vodafone store in West Bengal was “complicit in the issuance of blank SIM cards, bypassing established verification protocols” and that one such SIM was used in this fraud as well. The order also notes that the investigation revealed potential complicity of the network provider’s employees with fraudsters including organised cybercriminal gangs.
+“The Bank failed to exercise adequate due diligence while processing the addition of new beneficiaries and authorising high-value transactions. The absence of proper verification mechanisms and internal checks enabled the execution of unauthorised transactions, which not only exceeded standard transactional limits but also circumvented the mandatory One-Time Password (OTP) security protocols, thereby compromising security,” the order further notes.
+ThePrint has Whatsapped ICICI Bank and emailed Vodafone for a response. This report will be updated as soon as we get a reply.
+(Edited by Viny Mishra)
+Also read:
+From Delhi, UP to Tokyo: Indian students learning Japanese among cyber fraudsters targeting Japan’s elderly

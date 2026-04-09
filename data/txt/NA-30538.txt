@@ -1,0 +1,23 @@
+SOURCE: The Print
+TITLE: Google disrupts Chinese-linked hackers that attacked 53 groups globally
+AUTHOR: Reuters
+DATE: 2026-02-25
+URL: https://theprint.in/world/google-disrupts-chinese-linked-hackers-that-attacked-53-groups-globally/2863614/
+
+--- ARTICLE TEXT ---
+
+By AJ Vicens
+Feb 25 (Reuters) – Google disrupted a Chinese-linked hacking group that breached at least 53 organizations across 42 countries, the company said Wednesday.
+The hacking group, tracked as UNC2814 and “Gallium,” has a nearly decade-long history of penetrating government organizations and telecommunications companies, the company said in findings shared exclusively with Reuters.
+“This was a vast surveillance apparatus used to spy on people and organizations throughout the world,” John Hultquist, chief analyst with Google Threat Intelligence Group, said.
+Show Full Article
+Google and unnamed partners terminated Google Cloud projects controlled by the hacking group, identified and disabled internet infrastructure it was using and disabled accounts the group used to access Google Sheets, which it used to carry out its targeting and data theft operations.
+Using Google Sheets allowed the group to evade detection and blend into normal network traffic and was not a compromise of any Google product, the company added.
+Charlie Snyder, senior manager of Google Threat Intelligence Group, said the group had confirmed access to 53 unnamed entities across the 42 countries, with potential access in at least 22 more countries at the time of disruption.
+Snyder declined to identify the compromised entities, but said in one case the group had installed a backdoor Google calls “GRIDTIDE” on a system containing full names, phone numbers, dates of birth, place of birth, voter ID and national ID numbers.
+The targeting is consistent with efforts to identify and track select targets, the company said. “Similar campaigns have been used to exfiltrate call data records, monitor SMS messages, and to even monitor targeted individuals through the telco’s lawful intercept capabilities.”
+Chinese Embassy spokesperson Liu Pengyu said in a statement that “cyber security is a common challenge faced by all countries and should be addressed through dialogue and cooperation.
+“China consistently opposes and combats hacking activities in accordance with the law, and at the same time firmly rejects attempts to use cyber security issues to smear or slander China.”
+The activity is distinct from separate high-profile, telecommunications-focused Chinese hacking activity tracked as “Salt Typhoon,” Google said. That campaign, which the U.S. government has linked to China, targeted hundreds of U.S. organizations and prominent U.S. political figures.
+(Reporting by AJ Vicens in Detroit; Editing by Stephen Coates)
+Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibility for its content.

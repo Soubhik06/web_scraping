@@ -1,0 +1,32 @@
+SOURCE: The Print
+TITLE: ‘Invalid names, unrealistic DOBs’: CAG flags discrepancies in Ayushman Bharat database
+AUTHOR: PTI
+DATE: 2023-08-09
+URL: https://theprint.in/india/invalid-names-unrealistic-dobs-cag-flags-discrepancies-in-ayushman-bharat-database/1707664/
+
+--- ARTICLE TEXT ---
+
+New Delhi, Aug 9 (PTI) The Comptroller and Auditor General has highlighted discrepancies including invalid names, unrealistic dates of birth, duplicate health IDs and unrealistic family sizes in the database of Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY).
+Ineligible households were found registered as PMJAY beneficiaries and had availed the benefits ranging between Rs 0.12 lakh to Rs 22.44 crore under the scheme, said the audit report tabled in Parliament on Tuesday.
+“According to National Health Authority (NHA) records, 7.87 crore beneficiary households were registered, constituting 73 per cent of the targeted households of 10.74 crore (November 2022).
+Show Full Article
+“In the absence of adequate validation controls, errors were noticed in beneficiary database i.e. invalid names, unrealistic date of birth, duplicate PMJAY IDs, unrealistic size of family members in a household etc,” the report said.
+Health Ministry sources on Wednesday said there is no role of mobile number in the verification process.
+“The mobile number is captured only for the sake of reaching out to the beneficiaries in case of any need and for collecting feedback regarding the treatment provided,” an official source said.
+The sources said the mobile number has no role in deciding beneficiary eligibility and that it was an erroneous presumption that a beneficiary can avail treatment using mobile number.
+The CAG report pointed out that several beneficiaries were registered against the same mobile number under the health insurance scheme. It stated that 7.49 lakh people are registered against the mobile number 9999999999 as beneficiaries.
+The sources said performance audit has been done during initial and incipient stages of the scheme.
+“The deployed Pradhan Mantri Ayushman Mitra during the initial stages would enter random numbers as provided against the beneficiary population to save on time and address large queues in the hospitals.
+“The registration process used to take place at site of health service provider.  There was a field in the database where mobile numbers had to be added and therefore, some random numbers as highlighted in the CAG report and in the media were entered,” the source said.
+Ayushman Bharat PM-JAY identifies the beneficiary through Aadhaar identification wherein the beneficiary undergoes the process of mandatory Aadhaar based e-KYC.
+The details fetched from the Aadhar database is matched with the source database and accordingly, the request for Ayushman card is approved or rejected based on the beneficiary details.
+However, there is no role of mobile number in the verification process, the source said.
+In view of the above, treatment to the beneficiaries can’t be withheld just on the ground that the beneficiary doesn’t carry a valid mobile number, or the mobile number given by them has changed.
+Accordingly, beneficiaries mobile number has very limited role in the AB PM-JAY treatment workflow.
+“Also, the fact PM-JAY is an entitlement-based scheme and not an enrolment-based scheme and therefore, the beneficiary database is fixed and cannot be edited to add new beneficiaries. Thus, mobile number has no role in deciding beneficiary eligibility.
+“Therefore, it is an erroneous presumption that beneficiary can avail treatment using mobile number,” the source in the Health Ministry said.
+With regard to the use of same mobile number by multiple beneficiaries, it may be noted that initially the mobile number was not a mandatory field during beneficiary verification and therefore, mobile number was not validated in the process.
+However, since there was a field for collecting mobile number, it is possible that some random 10-digit number was entered by the field level workers in some cases.
+“However, this wouldn’t impact either the correctness of the beneficiary verification process or the validity of the beneficiaries’ claim. Further, it may be noted that necessary changes have been made in the current IT portal used by NHA for capturing only valid mobile number, in case same is possessed by the beneficiary,” the source said.
+The NHA has also provided three additional options i.e., fingerprint, iris scan and face-authentication for beneficiary verification along with OTP, of which fingerprint base authentication is most used, according to sources. PTI PLB CK
+This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.
