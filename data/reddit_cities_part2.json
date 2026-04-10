@@ -1,0 +1,74 @@
+[
+    {
+        "Reddit Post ID": "1jqdpa1",
+        "URL": "https://www.reddit.com/r/Palakkad/comments/1jqdpa1/need_help_tracking_down_shadowfax_office_in/",
+        "Title/Headline": "Need Help Tracking down Shadowfax office in Palakkad",
+        "Original Date": "2025-04-03",
+        "Author": "ray00054",
+        "StructuredData": {
+            "Reddit Post ID": "1jqdpa1",
+            "Unique ID": "NARCF3-00001",
+            "Date of Collection": "2026-04-10",
+            "Collector Name": "Soubhik Sarkar",
+            "Source Platform": "Reddit r/Palakkad",
+            "Source Publication": "reddit.com",
+            "Original Date": "2025-04-03",
+            "Title/Headline": "Need Help Tracking down Shadowfax office in Palakkad",
+            "URL": "https://www.reddit.com/r/Palakkad/comments/1jqdpa1/need_help_tracking_down_shadowfax_office_in/",
+            "Search Query Used": "fake delivery",
+            "Fraud Category": "E-Commerce and Delivery Fraud",
+            "Fraud Subcategory": "Delivery Fraud",
+            "Narrative Type": "THIRD-PARTY",
+            "TXT File Name": "NARCF3-00001.txt",
+            "Notes": "City: Palakkad | Author: u/ray00054 | Score: 3 | Reddit ID: 1jqdpa1"
+        }
+    },
+    {
+        "Reddit Post ID": "18ltnso",
+        "URL": "https://www.reddit.com/r/shimla/comments/18ltnso/shimla_man_scam_on_jeevansathi/",
+        "Title/Headline": "Shimla man scam on Jeevansathi!",
+        "Original Date": "2023-12-19",
+        "Author": "Khushiisingh",
+        "StructuredData": {
+            "Reddit Post ID": "18ltnso",
+            "Unique ID": "NARCF3-00002",
+            "Date of Collection": "2026-04-10",
+            "Collector Name": "Soubhik Sarkar",
+            "Source Platform": "Reddit r/Shimla",
+            "Source Publication": "reddit.com",
+            "Original Date": "2023-12-19",
+            "Title/Headline": "Shimla man scam on Jeevansathi!",
+            "URL": "https://www.reddit.com/r/shimla/comments/18ltnso/shimla_man_scam_on_jeevansathi/",
+            "Search Query Used": "video call scam",
+            "Fraud Category": "Digital Arrest Scam",
+            "Fraud Subcategory": "Video Call Coercion",
+            "Narrative Type": "NEAR-MISS",
+            "TXT File Name": "NARCF3-00002.txt",
+            "Notes": "City: Shimla | Author: u/Khushiisingh | Score: 1 | Reddit ID: 18ltnso"
+        }
+    },
+    {
+        "Reddit Post ID": "1hzo3m6",
+        "URL": "https://www.reddit.com/r/Udupi/comments/1hzo3m6/dylf1_scam/",
+        "Title/Headline": "Dylf1 scam",
+        "Original Date": "2025-01-12",
+        "Author": "No-Perception7131",
+        "StructuredData": {
+            "Reddit Post ID": "1hzo3m6",
+            "Unique ID": "NARCF3-00003",
+            "Date of Collection": "2026-04-10",
+            "Collector Name": "Soubhik Sarkar",
+            "Source Platform": "Reddit r/Udupi",
+            "Source Publication": "reddit.com",
+            "Original Date": "2025-01-12",
+            "Title/Headline": "Dylf1 scam",
+            "URL": "https://www.reddit.com/r/Udupi/comments/1hzo3m6/dylf1_scam/",
+            "Search Query Used": "cybercrime",
+            "Fraud Category": "General Cybercrime / Cyber Fraud Terms",
+            "Fraud Subcategory": "General Cybercrime",
+            "Narrative Type": "THIRD-PARTY",
+            "TXT File Name": "NARCF3-00003.txt",
+            "Notes": "City: Udupi | Author: u/No-Perception7131 | Score: 1 | Reddit ID: 1hzo3m6"
+        }
+    }
+]
