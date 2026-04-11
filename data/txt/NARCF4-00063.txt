@@ -1,0 +1,48 @@
+SOURCE: Reddit - r/Salem
+CITY: Salem
+TITLE: Fire Map Resources for NW Oregon/ Willamette Valley
+AUTHOR: K80_k
+DATE: 2020-09-09
+URL: https://www.reddit.com/r/SALEM/comments/ipioby/fire_map_resources_for_nw_oregon_willamette_valley/
+--- POST TEXT ---
+
+[InciWeb](https://inciweb.nwcg.gov/) Shows only on federal lands, indicates the containment percentage and has a lot of details on each incident, including estimated date of full containment which is further out than I would have expected
+
+[AirNow](https://fire.airnow.gov/?lat=45.49178360434162&amp;lng=-122.557497774495&amp;zoom=10) shows fire areas as well as smoke overlay
+
+[Google Maps Lionshead &amp; Beachie Creek Fires](https://www.google.com/maps/@/data=!3m1!4b1!4m3!15m2!1m1!1s%2Fg%2F11k8hp49gn?rlz=1C1CHBF_enUS868US868&amp;oq=clack&amp;aqs=chrome.0.69i59j69i57j69i60l2.1319j0j7&amp;sourceid=chrome&amp;ie=UTF-8) shows outline of the area overlaid on google map, said it would be updated hourly, not sure if that's still true
+
+[Statesman Journal Live Map](https://data.statesmanjournal.com/fires/) Shows fires, fire type, and smoke and containment percentage *note: graphics match another website I'm forgetting, I will update to them directly if I can remember which site it was...*
+
+[Wildfire Information Map](https://www.arcgis.com/apps/webappviewer/index.html?id=94b379a91e0f47cb91712da22f603d39) also shows major road closures. 
+
+[Clackamas County Fire Map](https://ccgis-mapservice.maps.arcgis.com/apps/webappviewer/index.html?id=fe0525732f1a4f679b75a5ccf1c84b30&amp;fbclid=IwAR3hSmCTtJtPEHqGoqWwKM3Gdb2IYLYrC401SuUxKsb-32Uv5DUSor0MlSA) Shows the evacuation levels overlaid on a GIS map as well as fire locations
+
+[Oregon Department of Forestry Current Fire Season Map](https://www.oregon.gov/odf/fire/documents/odf-current-fire-season-map.pdf) PDF format, updated monthly, shows type of fire, enlargements of the perimeter and area affected, a snapshot but not very helpful real time
+
+A friend of mine who studies fire for the NPS in California suggested that social media (Facebook/Twitter) accounts of fire departments is the best way to get up-to-date information. 
+
+Feel free to send me any other online map resources and I will add to the post. I haven't had success finding a map like Clackamas County has for Marion County if you find one please share!
+
+Edit1:
+ODF has a more current [map](https://www.oregon.gov/odf/fire/pages/firestats.aspx)
+
+Edit2:
+[#firemappers](https://napsg.maps.arcgis.com/apps/webappviewer/index.html?id=6dc469279760492d802c7ba6db45ff0e&amp;extent=-14214601.0025%2C5047241.8421%2C-12257813.0784%2C5951033.2646%2C102100&amp;fbclid=IwAR2-GRa3usV1T-F03vAjLH3S4zfwDeeAXBX4QdmvlwGap%20%200H%204cK8q5b) from u/Polypore0 post on the megathread
+
+Edit3: From comments below:
+
+[Zoom Earth](https://zoom.earth/#view=44.247,-120.988,7z/date=2020-09-09,09:50,-7/layers=fires) Satellite views of smoke and indication of coverage (edit4: and shows history!)
+
+[Northwest Interagency Coordination Center](https://gacc.nifc.gov/nwcc/information/firemap.aspx) *for some reason has no outline of Riverside fire in Clackamas at 9/9 11:06am*
+
+Edit5: thanks u/joeywas for these, go give him some fake internet points, commented below:
+
+[Marion County Evacuation Map](https://marioncounty.maps.arcgis.com/apps/webappviewer/index.html?id=5202b602f99647b9a16d488c545113b5) 
+
+[State of Oregon Wildfires Dashboard](https://experience.arcgis.com/experience/6329d5e4e13748b9b9f7f33f06a3c376/) **This one shows more evacuation levels across multiple counties**
+
+[ODOT Tripcheck](https://www.tripcheck.com) There are a lot of road closures so good to check before you try to head to another town
+
+Edit6:
+[Purple Air](https://www.purpleair.com) Air quality monitoring

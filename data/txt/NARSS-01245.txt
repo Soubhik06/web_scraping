@@ -1,0 +1,91 @@
+SOURCE: Reddit - r/Kerala
+STATE: Kerala
+TITLE: My experience with ISPs in Kottayam
+AUTHOR: poopforthought
+DATE: 2021-01-28
+URL: https://www.reddit.com/r/Kerala/comments/l7177f/my_experience_with_isps_in_kottayam/
+--- POST TEXT ---
+
+So, recently I decided to take a new internet connection after a decade of using just Mobile data (yes, even for my laptop). I have asked around in the past and got an idea of most ISPs available at Kerala.
+
+&amp;#x200B;
+
+TLDR; I think BSNL is bad, Asianet plans are expensive, I prefer railwire and keralavision, but you can't those 2 directly in my location and have to depend on agencies. Out of the 3 agencies, starvision is too lazy to ever come down and fix us a connection, Airbit is far too expensive asking 7000 ₹ to put up cables up to 170meters, and lastly Den will set you up with a subpar den broadband connection under the false pretense that you'll get a railwire connection. PS 8Megabits = 1 Megabyte, so if you don't get those speeds when you're downloading change connections or complain. You deserve better
+
+&amp;#x200B;
+
+BSNL - I don't think anyone would be surprised to hear this was my least preferred connection. I have always understood it to be slow and inconsistent and I didn't even bother with them.
+
+&amp;#x200B;
+
+Asianet - I think Asianet might've even had a monopoly as an ISP just over a decade back over what might be considered decent internet. I remember them being very lazy back in the day, but now their service is better, buy of course, they are comparatively more expensive, so I decided skip.
+
+&amp;#x200B;
+
+Railwire - cheaper with greater speeds, but until a few years back they were costly to connect to because of having to pay for drawing those expensive cables down to your house. They were 2nd choice
+
+&amp;#x200B;
+
+Keralavision - They were the ones with the best word of mouth reviews. Cheapest plans and great speeds, but even more rarer than Railwire, so even more costlier cabling.
+
+&amp;#x200B;
+
+Even though I knew what connections to get, despite being close to town, there were no direct offices for Railwire or Keralavision. I had to work through their agencies. I mainly contacted 3 agencies: Starvision, Airbit and my now ISP Den. My neighbor - J - was the one who recommended Den. This is important.
+
+&amp;#x200B;
+
+I had contacted Starvision first and they had the most promise, because he had provided services from Keralavision and Railwire, and from our conversations, it almost seemed as if the cabling would be free. But 3 weeks later, he has only come once and has not responded to my last few calls or my WhatsApp messages, before which he had promised to come down and get a connection ready and also had my ID and phot (Yikes!). Utter failure - lazy and indifferent.
+
+Also was too buys with his car rentals for marriages which he seemed a bit too proud of. In fact, I think the one time he did come down, he did to show off the Audi he came in. Absolutely hate the guy. J had the same experience half a year back. Except he was given excuses and also made him wait a week more.
+
+&amp;#x200B;
+
+3 weeks of waiting and after no responses, I decided to look for other ISPs. That's when I contacted Airbit. I had contacted them a few months back, he said he'll look into it, and then ghosted me. This time he gave me another number, told me it was the customer support, and it was quite good. They also provided services from both Keralavision and Railwire. Told them I needed it fast because of my experience with another ISP, their technician shows up that evening and I'm told they have cabling upto about 170m.
+
+&amp;#x200B;
+
+I was elated, but come the next day, they call about the cost and it's around 8k. And they gave me a discount which reduced to 7k. A Big no no. Promising, but too expensive initial costs.
+
+&amp;#x200B;
+
+Now I was a bit stuck because finding anymore seemed a difficult task. My 2 neighbors used Asianet, and recommended it, but I abhorred the idea, and the other one J- I had built him hopes for a new Keralavision connection for him to switch to.
+
+&amp;#x200B;
+
+But with not a lot of luck with Google, I decided to contact J and he told me his ISP's contact info. He actually had a railwire connection, though he had tried to switch a few months back and had to come back to it.
+
+&amp;#x200B;
+
+He gave me the contact info of Den, I called, couldn't reach the guy, but a few moments later calls back and told me he'll come down today. I had to call him down again in the evening, but he did show up, we talked price, he sent me the Railwire plans and took my ID and photo. Said he'll have it ready in 2 days.
+
+He came the next day, fixed the connection and he had went ahead and chose a plan for me without asking. I was fine with that, it meant I can finally use the network. Though, he did kind of block me from buying a modem from another source saying it might not be compatible with the ITS or something.
+
+I finally got internet !! So, with a cheap but sufficient internet plan(supposedly 595 per month, unlimited, 25Mbps) I decide to set up my modems, change SSID, passwords - all the basics and finally decide to test my internet on [speedtest.com](https://speedtest.com).
+
+&amp;#x200B;
+
+Here, I came across something interesting, he had got me a Den Broadband connection, as opposed to the railwire connection I had approached him for. I was fine with it, because the plan was ok and he did say I can switch between Railwire or Den anytime.
+
+&amp;#x200B;
+
+But this is kind of where things got bad. I contact J - he tells me he had suspected that his connection was Den for a long while because a long while back when he asked for online payment, he was asked to do it through Den's website. But his father, who had got the connection was adamant it was railwire. Also, once when his internet was down and he got no response from Den , he had contacted railwire to help him fix it, and their system could see his connection and continued to instruct him till the problem was resolved.
+
+&amp;#x200B;
+
+After hearing that, I had contacted Den and asked him to change to Railwire, but he said I'd need to provide him with more ID proof, and pay a whole months subscription with no refund of the original 595. At this point, I felt as if he was just delaying or making excuses so as not to change to railwire. All this only hit me after I hung up the phone, because he had me subscribe to Den broadband while I was given the impression it would be railwire - so it was basically fraud, and I didn't even ask him why.
+
+&amp;#x200B;
+
+My next problem arose when I started downloading. My net was capped at around 920KBps. Now that was unacceptable. At this point I was feeling dissapointed.
+
+&amp;#x200B;
+
+Now a very important side note regarding internet speeds - ISPs like to show their speeds in Mbp/s- which is Mega bits per second. But when we transfer files in our systems or download, the speeds are shown in MBp/s which is mega bytes per second. From what I've understood 8 megabit = 1 megabyte, so I should be getting speeds around at least 3.2MBPS. And I'm starting to think ISPs have tie ups with Speedtest websites to test speeds at favorable servers just to show customers that the connection provides said speeds
+
+&amp;#x200B;
+
+Either way, I'll be changing to Railwire next month, or just cancelling the subscription. Why did I write this post? Basically, me and J had a talk and the conclusion we came to was that the ISPs available to our regions were shit and we are left with such pathetic services. Also wanted my fellow town folks to be aware of the hurdles in picking up a new internet connection
+
+&amp;#x200B;
+
+Anyway, if anyone has also any information of better ISPs in town, do leave a comment. Also, thanks to anyone who read the whole post.

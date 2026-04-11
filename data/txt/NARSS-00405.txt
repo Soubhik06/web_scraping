@@ -1,0 +1,121 @@
+SOURCE: Reddit - r/Delhi
+STATE: Delhi
+TITLE: Taxation of single person US LLC of agency owners and freelancers when the owner is resident of India- Analysis of the Indian side- Part 1
+AUTHOR: PM_me_ur_pain
+DATE: 2023-09-17
+URL: https://www.reddit.com/r/delhi/comments/16l7ofv/taxation_of_single_person_us_llc_of_agency_owners/
+--- POST TEXT ---
+
+And I am back.
+
+**Tl:dr:** 
+
+1. You will not pay taxes in USA
+2. You will pay Income tax in India as per 44AD/44ADA or on actual profits
+3. You will be treated as exporter for the purpose of GST.
+
+**In this post I will NOT cover the following:**
+
+1. Taxation and compliance for US LLC in USA ( I am not a US CPA and I do not have adequate knowledge on the US tax code)
+2. How and where to form US LLC ( I believe there are good resources for that out there)
+
+&amp;#x200B;
+
+**In this post I will cover the following:**
+
+1. Impact of Indian Income tax on the US LLC owned by a single Indian Tax resident
+2. Impact of Indian GST on the billing done through US LLC owned by a single Indian Tax resident
+
+\~\~\~\~\~\~\~\~\~\~
+
+**Why people form US LLC**
+
+A lot of individuals and businesses nowadays are interested in opening US LLCs to command a better market presence. Moreover, it is a known fact that businesses all over the world feel safer when dealing with other businesses that look, talk, act and in a way exist like them.
+
+Hence, there has been a rise in the popularity of Wyoming LLC, or, LLCs that are created in the state of Wyoming in the United States of America.
+
+&amp;#x200B;
+
+For those who do not know, LLC is a form of business structure in the USA. Due to the facts that:
+
+1. LLCs are easy to form
+2. The liabilities of LLC are different from owner in day to day cases.
+
+They are popular to the point that a lot of online service providers have popped up to cope with the demand for creating LLCs
+
+For eg: Because an LLC is different from the owners, banks can not(unless there is a fraud) seize the assets of the owners of LLC for loans taken by the LLC. AND for the street smart people out there, for loans in cases where LLC's assets do not suffice as a collateral( aka security for repayment of loan), the personal assets of the owners are attached via a contract at the time of taking the loan. Hence, the owners are forced to give(through a separate contract) a personal guarantee for the loans of LLC, at the time of sanctioning the loan.
+
+\~\~\~\~\~\~
+
+&amp;#x200B;
+
+**Little bit about how Single member LLC(SMLLC) is taxed in USA by default:**
+
+The IRS(US Income tax agency) disregards the SMLLC. This means that IRS will not tax the SMLLC as a separate person from the sole owner FOR TAX PURPOSES. Hence, if the owner earns $60k as salary and $50k through the LLC, the whole $110k will be taxed in his hands by default.
+
+&amp;#x200B;
+
+Moreover, this also means that the income of SMLLC owned by an Indian will have to be taxed as if it is not the income of LLC, but the income of said non-resident.
+
+&amp;#x200B;
+
+\~\~\~\~\~\~\~\~\~\~\~\~\~
+
+**Applicability of Double Taxation avoidance agreement(DTAA)**
+
+&amp;#x200B;
+
+DTAA is a taxation agreement between two countries that makes the trade easier by creating rules to avoid taxing the same income twice( and capturing the incidences where the income is not taxed at all)
+
+&amp;#x200B;
+
+India and USA have a DTAA. ***And it is*** ***important.***
+
+&gt;***Permanent establishment***
+
+In simple terms, the Income you earn in USA will be taxed there as long as you are conducting your business in USA through a permanent establishment there.
+
+And having an LLC in USA should naturally mean that you have a permanent establishment in USA.
+
+However we are in luck as DTAA defines what an permanent establishment(Article 5 of DTAA) means for service providers:
+
+A permanent office in USA(branch, place of management, warehouse etc.)
+
+or 
+
+furnishing of services in USA through ***employees and other personnel located in USA, that too, only if certain conditions are met.***
+
+&amp;#x200B;
+
+Hence, we can conclude that as an Individual who owns a US LLC, unless you have an associated physical space in the USA or you furnish services through employees/contractors located in USA(and fulfill specified conditions), you do not have a permanent establishment in the USA.
+
+&gt;***Business profits***
+
+The DTAA also talks about how business profits are to be taxed under Article 7 and the same also needs to be discussed to ensure completeness of information.
+
+The business profits earned in USA will be taxed in USA only if they are earned through a permanent establishment situated therein.
+
+&amp;#x200B;
+
+Hence, the article 7 also does not tax our profits in the USA
+
+&amp;#x200B;
+
+&gt; ***INDEPENDENT PERSONAL SERVICES*** 
+
+The Independent personal services clause covers all the services provided as a contractor or Independent consultant/freelancer.
+
+Hence, it becomes important to discuss it as it may impose certain conditions that may govern the taxation of Income earned through US clients.
+
+&amp;#x200B;
+
+It states that the Income will be taxed in USA only in the following two scenarios:
+
+1. You have a permanent establishment available to you in USA
+2. You have stayed in USA for more than 90 days in a year.
+
+Hence, it is safe to assume that your Income will be taxed in India only unless you satisfy the condition 2.
+
+\~\~\~\~\~\~\~\~\~
+
+How Income will be taxed in India will be covered in Part 2!

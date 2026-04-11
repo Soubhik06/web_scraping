@@ -1,0 +1,35 @@
+SOURCE: Reddit - r/Kerala
+STATE: Kerala
+TITLE: Data privacy is a joke in India!
+AUTHOR: bineeth923
+DATE: 2024-12-16
+URL: https://www.reddit.com/r/Kerala/comments/1hfgesx/data_privacy_is_a_joke_in_india/
+--- POST TEXT ---
+
+I stumbled upon a glaring issue with a govt website (Kerala Tailoring Workers Welfare Board) website that exposes personal and sensitive information of citizens publicly. No login, no verification — just a serial membership number (incremental!) is enough to fetch everything.
+
+Here’s what’s accessible:
+
+* Full name
+* Aadhaar number
+* Mobile number
+* Address
+* Bank account details (incl. IFSC code)
+* Date of Birth
+* and the list goes on
+
+The site’s API lets anyone retrieve this data easily. By looping through membership numbers, you can scrape sensitive info for thousands of users in minutes.
+
+https://preview.redd.it/zrq0hph5w67e1.png?width=2810&amp;format=png&amp;auto=webp&amp;s=593de9b7a97c3f510a825ed06916da3b6abfe173
+
+https://preview.redd.it/ajr6yph5w67e1.png?width=3180&amp;format=png&amp;auto=webp&amp;s=9c123ad64d2844826726e331cb7409308089c542
+
+This isn’t hacking; it’s publicly available because of careless design and zero security measures.
+
+Btw, according to their [privacy policy](https://office.tailorwelfare.in/office/Profile/privacypolicy.php):
+
+&gt;
+
+It’s alarming to see such blatant disregard for data privacy, especially when laws like the DPDP Act exist. Without proper enforcement, these laws are meaningless, and citizens remain vulnerable to identity theft.
+
+XPost: [https://x.com/bineeth923/status/1868586986652488102](https://x.com/bineeth923/status/1868586986652488102)

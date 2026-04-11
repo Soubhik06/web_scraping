@@ -1,0 +1,18 @@
+SOURCE: Reddit - r/Maharashtra
+STATE: Maharashtra
+TITLE: नेहा नारखेडे - Founder of Apache Kafka a company that is helping most of the tech companies out there including fortune 500 companies. A woman in STEM we all should know about 
+AUTHOR: perfektenschlagggg
+DATE: 2024-12-06
+URL: https://www.reddit.com/r/Maharashtra/comments/1h84ag8/नह_नरखड_founder_of_apache_kafka_a_company_that_is/
+--- POST TEXT ---
+
+I was searching about it (women in STEM) today and just got to know about Neha Narkhede so I'm sharing it here, I think everyone should know about her work. I know most of you know about her. She cofounded a product that is helping almost every software developers, tech companies out there. I used her product, I was just not aware that she founded it. 
+
+Her product is Apache Kafka which is data streaming platform that can handle large amounts of real-time data. If I've to explain it in simple terms to people who are not in tech Kafka is basically imagine a big mailbox where you can put letters (messages) into different compartments (called topics) and anyone who wants to can come and read those letters whenever they like, even if they weren't the ones who put them there. That's kind of like Apache Kafka. 
+
+Literally every tech company in the world uses it including fortune 500 companies. FB, YouTube, Instagram, reddit and all this social media platforms uses Kafka. So all the likes and comments that you do on social media gets stored in Kafka queue before getting stored in database. Without Kafka it's so hard for companies to manage this millions of likes and comments that gets generated on social media every single minute. 
+
+She also cofounded Osocilar which is a platform that utilizes AI to automate risk decisions for fintech companies, focusing on fraud, credit, and compliance risks. 
+
+त्या मराठी असून त्यांचा शिक्षण हे पुणे विद्यापीठातून झाले आहे, 
+To know more her [check out](https://www.nehanarkhede.com/)

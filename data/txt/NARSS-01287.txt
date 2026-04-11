@@ -1,0 +1,36 @@
+SOURCE: Reddit - r/Kerala
+STATE: Kerala
+TITLE: A easy tool for your parents to detect scam links impersonating brands and companies.
+AUTHOR: webVerts
+DATE: 2023-12-16
+URL: https://www.reddit.com/r/Kerala/comments/18jt95v/a_easy_tool_for_your_parents_to_detect_scam_links/
+--- POST TEXT ---
+
+I have an opensource project which is intended to help internet users easily identify online scams impersonating brands, banks, etc.
+
+I ran a private beta with few of my contacts, and did receive some good responses. Now before onboarding brands and companies, I would like to know few suggestions and about the ease of use from here.
+
+1. You could visit the website authifyURL ([https://url.authifyweb.com](https://url.authifyweb.com/)). Direct link will be in the comment.
+2. Choose your bank of suggestion and submit enter.
+3. Paste an URL from bank.(Play with the link, like modify one or more character, submit wrong link, typo links etc.) and it will show result. Don't use short links.
+4. Results &lt; 30 seconds. Nearly real time.
+
+Think from any of the following perspective
+
+* someone who is not so tech savvy, old parents etc.
+* Someone who self doubts often about the authenticity of a link, when you receive it through email or message.
+* Someone who makes hasty decisions when they see an unbelievable offer.
+* Someone who does transaction and online payment on behalf of parents.
+
+Looking for opinion on the
+
+1. Ease of use. What can I improve.
+2. UI on the whole. What can be improved.
+3. If your could make your parents test it directly and their suggestion(Like font-size color etc.)
+4. Speed and accuracy of the result. What can I improve
+
+Apart from owned websites, currently it supports 30+ 3rd party services too, including social-media sites like IG and Twitter, also play-store, apple store, browser extension etc. and will keep on adding them.
+
+Also the code is opensource. Currently all the data is sourced from public. So they are prone to few errors. 
+
+I hope it helps everyone.

@@ -1,0 +1,15 @@
+SOURCE: Reddit - r/Delhi
+STATE: Delhi
+TITLE: Beware of this fraud 
+AUTHOR: AutomaticWallaby9
+DATE: 2024-07-15
+URL: https://www.reddit.com/r/delhi/comments/1e3oubv/beware_of_this_fraud/
+--- POST TEXT ---
+
+There's a fraud using aadhar enabled payment system (aeps) happening in the bank accounts. AEPS allows user to do the transaction using Aadhar card number and finger print. Scammers clone our biometrics from leaked data of aadhar and get access to our bank money through it.
+
+People suggest the best way to save ourselves from this scam is locking our biometrics on aadhar website / mAadhar aap. 
+
+But there's a problem with this too. Suppose I have locked my biometrics in aadhar, and my phone got stolen. Then there's no way I can retrieve my sim card. Because to get my sim replaced I need to verify my identity with my biometrics. And my biometric is locked. And to unlock my biometrics it, I need OTP which will come on my stolen phone. So it's a infinite loop
+
+The only solution I think that can save us is de-link aadhar card from bank accounts. Checkout my other post to know that experience

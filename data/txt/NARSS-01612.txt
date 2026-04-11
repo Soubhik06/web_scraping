@@ -1,0 +1,20 @@
+SOURCE: Reddit - r/TamilNadu
+STATE: Tamil Nadu
+TITLE: PII including location exposed on Government site
+AUTHOR: NaanTamilan
+DATE: 2023-05-22
+URL: https://www.reddit.com/r/TamilNadu/comments/13ojr4u/pii_including_location_exposed_on_government_site/
+--- POST TEXT ---
+
+I recently made a disturbing discovery regarding a newly launched government portal in Tamil Nadu. To my dismay, this portal lacks any form of authentication or authorization, thereby exposing a vast amount of personally identifiable information (PII) to the general public. Shockingly, sensitive details including individuals' names, precise latitude and longitude coordinates (collected through GPS), mobile numbers, addresses, EB numbers, and ration numbers are openly accessible.
+
+Deeply concerned about the potential privacy implications, I decided to delve deeper into the matter. Through my investigation, I was able to access and gather the personal details of more than 8,000 individuals from the portal.
+
+In the past, I encountered a similar issue with a different portal. However, back then, I refrained from disclosing it publicly as I feared it might erode people's trust in the government. Instead, I promptly reported my findings to the TN Cyber Crime department. Unfortunately, despite consistent email reminders spanning over two months, I only received a response from the Cyber Crime department after an extended period of time. It has now been nearly three years, and the problem remains unresolved. Initially, I was informed that the team at IIT Madras was actively working on fixing the issue and assured me that it would be addressed soon. However, despite the passage of time and a change in government, the problem persists. In fact, the same project was reintroduced with a different name by the new government.
+
+The lack of action taken to safeguard the privacy of citizens is deeply troubling. I earnestly hope that the authorities will promptly take necessary measures to rectify this vulnerability and protect the personal information of Tamil Nadu residents.
+
+It appears that the Union and State Governments tend to overlook qualified and experienced vendors when awarding projects of this nature. Instead, they often favor individuals who are relatives of politicians, granting them these projects. This biased approach leads to a situation where these individuals misappropriate funds and deliver subpar outcomes, such as the flawed portal we have encountered.
+In essence, it seems that the prioritization of personal connections over expertise and competence has resulted in a scenario where public funds are misused and the general public is left with substandard and ineffective solutions.Also they just announce the project and don't care maintain those. Just for publicity and photo op they seem to announce the projects. Why the hell they create it in the first place and waste our taxes on this. 
+
+Already we are currently experiencing a rise in targeted spam calls, which is concerning because these exposed data sets provide spammers with high-quality information. Thank you India. Thank you Tamil Nadu.
