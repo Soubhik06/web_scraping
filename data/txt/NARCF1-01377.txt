@@ -1,0 +1,21 @@
+SOURCE: Reddit - r/Hyderabad
+CITY: Hyderabad
+TITLE: First time I went to police station
+AUTHOR: kiranravirocks
+DATE: 2024-12-05
+URL: https://www.reddit.com/r/hyderabad/comments/1h73veq/first_time_i_went_to_police_station/
+--- POST TEXT ---
+
+I'll start with small introduction of my self, I work for MNC and do freelancing IT support for a co-working space. One day a client came to this co working space to rent out some seats and said he will be running a call center of a EV rental startup.
+
+Initially there will be no staff, just a couple of servers which will handles IVRS(Automated calls) and needs IT support to install those servers. So co-working space owner referred me. This client contacted me and said he needs help with installing servers and remaining will be taken care by some US people, also he needs regular support and we agreed for a certain amount on monthly basis. 
+
+On end of October'24 I have installed both servers run by cent OS and gave remote access to US people. They took 1000 line SIP connection(Like landline) from JIO. After server installation there is not much conversation between client and me. I regularly called him to enquire any issues and he said nothing. 
+
+Here comes the twist....On 3rd Dec'24 he called me and sked me to come to office as there is some issues with servers. So I went there to find out the office is filled with Police, Task force and DOT people. When I went inside they took my mobile and laptop and enquired me about this call center. I told them what I know and they told me to get the access to those servers.
+
+Here what happened is, this client running some fake call center from US using the servers I installed. I really don't know what type of fraud it is but many users complaint to TRAI that they are getting spam calls from some land line numbers and TRAI asked JIO to take action. Based on JIO complaint task force ran a operation to take the owner in to custody. Obviously he(client) also told my name that I helped them installing those servers. 
+
+Thankfully cyber security police are friendly and told me that they are not booking any case on me as I just gave support to them and don't have any involvement. They requested me to come to police station until they file the case just in case they need some help. They called some local police and told them to take us(me and the client) to station. First time I entered police station. There local police not knowing about case and though I'm also the accused and took my mobile and laptop. (cyber security police came late to station). They asked us to stand inside the lockup, I literally had tears in my ears and my full body is shaking like anything. I requested them to stand near by lockup and they said ok. Funny thing is one of one of constable( head I think) asked me about the case and started enquiring me. That moment I thought my life was over. I'm thinking about my family, job, reputation....everything flashing in front of me. After 1 hour of torture cyber security police came to station and I immediately called them. They said "why are you standing there go and sit in reception" and informed constable to handover my mobile and laptop. Finally some relied. After 3 hrs. they let me go after completion of FIR formalities and took my address and mobile.
+
+So learned a lesson that don't trust any one blindly should be taken care before accepting any work.

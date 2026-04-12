@@ -1,0 +1,15 @@
+SOURCE: Reddit - r/Kolkata
+CITY: Kolkata
+TITLE: In light of recent comments by Elon Musk on EVMs - Security Problems in India's Electronic Voting System (Harvard Center for Research on Computation and Society seminar talk)
+AUTHOR: basil_elton
+DATE: 2024-06-17
+URL: https://www.reddit.com/r/kolkata/comments/1dho961/in_light_of_recent_comments_by_elon_musk_on_evms/
+--- POST TEXT ---
+
+Abstract: : India uses paperless electronic voting machines (EVMs) for its state and national elections. These machines use a simple embedded system architecture that makes them considerably different from the complex electronic voting systems found in the U.S. and Europe (where almost all prior research has focused). Despite growing suspicions of fraud, Indian authorities have never permitted a serious, independent review of the machines' security.
+
+Hyderabad-based engineer Hari Prasad spent a year trying to convince election officials to complete such a review, but they insisted that the government-made machines were "perfect," "infallible," and "tamperproof." Then, in February 2010, an anonymous source gave him access to one of the machines for study. E-voting researchers J. Alex Halderman from the University of Michigan and Rop Gonggrijp from the Netherlands join him in India for the study. The team discovered that, far from being tamper-proof, the machines suffer from serious weaknesses that could be exploited to alter national election results.
+
+Months of hot debate about these findings have produced a growing consensus that India's electronic voting machines should be scrapped, as well as nascent efforts to create a better system. There have also been more disturbing developments: Prasad was arrested and jailed in August by authorities demanding to know the identity of the anonymous source. He has since been released on bail, and received the Electronic Frontier Foundation's Pioneer Award for his work.
+
+In this talk, Halderman will describe the design and motivations behind India's electronic voting system, the technical problems, and the implications of the machines' security weaknesses for voting technology in India and beyond. He'll also discuss some of the formidable practical challenges that India and many other democracies face in conducting elections. Designing voting systems that provide transparency and security under these constraints presents many open problems.
