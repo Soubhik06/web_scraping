@@ -1,6 +1,0 @@
-ollama_model: "llama3:latest"
-ollama_url: "http://localhost:11434/api/generate"
-data_folder: "../data"
-txt_folder: "../data/txt"
-max_context_records: 20
-api_key: "01a7c2229df14e639b66802b94c8d777.Ruh3HYqEdzDFDu9hqK2ymGNR"
