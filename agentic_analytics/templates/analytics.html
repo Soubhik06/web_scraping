@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-12 mb-4">
+        <div class="card">
+            <div class="card-header">Year × Category Heatmap</div>
+            <div class="card-body" style="overflow-x: auto;">
+                <table class="table table-bordered table-hover text-center">
+                    <thead class="bg-dark">
+                        <tr>
+                            {% for col in heatmap.columns %}
+                            <th>{{ col }}</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row_data in heatmap.data %}
+                        <tr>
+                            <td class="fw-bold text-start">{{ row_data['Category'] }}</td>
+                            {% for col in heatmap.columns[1:] %}
+                            {% set val = row_data[col] %}
+                            <td style="background-color: rgba(77, 201, 246, {{ (val / 100) if val else 0.05 }});">
+                                {{ val if val else '-' }}
+                            </td>
+                            {% endfor %}
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 mb-4">
+        <div class="card">
+            <div class="card-header">Emerging Trends</div>
+            <div class="card-body">
+                <h6>🚨 Post-2020 Categories</h6>
+                <ul>
+                    {% for t in trends.post_2020 %}
+                    <li>{{ t }}</li>
+                    {% else %}
+                    <li class="text-muted">None detected</li>
+                    {% endfor %}
+                </ul>
+                <hr>
+                <h6>🚨 Post-2022 Categories</h6>
+                <ul>
+                    {% for t in trends.post_2022 %}
+                    <li>{{ t }}</li>
+                    {% else %}
+                    <li class="text-muted">None detected</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 mb-4">
+        <div class="card">
+            <div class="card-header">Platform Source Contributions</div>
+            <div class="card-body">
+                <table class="table table-sm">
+                    <thead><tr><th>Platform</th><th>Records</th></tr></thead>
+                    <tbody>
+                        {% for pt in platforms %}
+                        <tr><td>{{ pt.Platform }}</td><td>{{ pt.Count }}</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

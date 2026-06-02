@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-4">
+        <div class="card stat-card py-4">
+            <h5 class="text-secondary">Total Processed Records</h5>
+            <div class="stat-value">{{ stats.total_records }}</div>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div class="card p-3">
+            <h5 class="card-title text-secondary">Source Breakdown</h5>
+            <div class="d-flex flex-wrap gap-2 mt-2">
+                {% for src, count in stats.source_breakdown.items() %}
+                    <span class="badge bg-primary fs-6">{{ src }}: {{ count }}</span>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 mb-4">
+        <div class="card">
+            <div class="card-header">Year-wise Incidents Activity</div>
+            <div class="card-body">
+                <canvas id="yearChart"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 mb-4">
+        <div class="card">
+            <div class="card-header">Top 10 Fraud Categories</div>
+            <div class="card-body">
+                <canvas id="categoryChart"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 mb-4">
+        <div class="card">
+            <div class="card-header">Narrative Type Distribution</div>
+            <div class="card-body" style="height: 300px; display:flex; justify-content:center;">
+                <canvas id="narrativeChart"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    Chart.defaults.color = '#a0a0a0';
+    Chart.defaults.borderColor = '#2d313a';
+
+    async function loadCharts() {
+        // Year Chart
+        let resY = await fetch('/api/chart/year_wise');
+        let dataY = await resY.json();
+        new Chart(document.getElementById('yearChart'), {
+            type: 'bar',
+            data: {
+                labels: dataY.labels,
+                datasets: [{ label: 'Incidents', data: dataY.data, backgroundColor: '#4dc9f6' }]
+            }
+        });
+
+        // Category Chart (Donut)
+        let resC = await fetch('/api/chart/top_categories');
+        let dataC = await resC.json();
+        new Chart(document.getElementById('categoryChart'), {
+            type: 'doughnut',
+            data: {
+                labels: dataC.labels,
+                datasets: [{
+                    data: dataC.data,
+                    backgroundColor: ['#f67019', '#f53794', '#537bc4', '#acc236', '#166a8f', '#00a950', '#58595b', '#8549ba', '#ffb041', '#4dc9f6']
+                }]
+            },
+            options: { maintainAspectRatio: false }
+        });
+
+        // Narrative Chart (Pie)
+        let resN = await fetch('/api/chart/narrative_types');
+        let dataN = await resN.json();
+        new Chart(document.getElementById('narrativeChart'), {
+            type: 'pie',
+            data: {
+                labels: dataN.labels,
+                datasets: [{
+                    data: dataN.data,
+                    backgroundColor: ['#ffb041', '#4dc9f6', '#f53794']
+                }]
+            },
+            options: { maintainAspectRatio: false }
+        });
+    }
+
+    loadCharts();
+</script>
+{% endblock %}

@@ -1,0 +1,52 @@
+SOURCE: Reddit - r/Kolkata
+CITY: Kolkata
+TITLE: Bank freeze guide: Experience, Resolution &amp; Prevention
+AUTHOR: 16-steps
+DATE: 2025-03-29
+URL: https://www.reddit.com/r/kolkata/comments/1jmg2e7/bank_freeze_guide_experience_resolution_prevention/
+--- POST TEXT ---
+
+#Experience:
+A few days ago, my North East Small Finance Bank (Slice) account was credit frozen citing "suspicious activities". The bank was not helpful at all! I kept sending mails, got no reply, called them, but was shunned away and they tried to say it was my fault. Now this is still better than debit freeze, which most suffer from, but due to a FD being there with the bank linked this account, this was very anxiety inducing for me.  So I went down a rabbit hole; bank account freezes, cyber security cases, frauds, cyber crime portal usefulness, legal procedures of cases, and what not! You name it I went through it. Scoured hundreds of posts, community websites like technofino, desi dime, etc. and now I have a definitive idea of how to deal with it and how to prevent it in the first place. Hope this post helps everyone!
+
+#Resolution:
+First off, account freezes are of three types:
+
+•**Credit freeze:** Happens mostly due to internal workings of the banks and what they think is "suspicious". This happens mostly with fintechs like Fi, Slice, Jupiter, etc. This is 90% of the time just operation in bad faith by the entity, barely ever one's fault.
+
+•**Debit freeze**: Happens mostly due to notice by cyber cell, or kyc update requirements or attempted fraud using debit card/upi/NetBanking etc.
+
+•**Total freeze**: This is the most unlikely one and this 99% of the time occurs due to orders by executive and judiciary authorities or if the account turns dormant.
+
+&amp;nbsp;
+
+Now, coming to how to deal with all of these:
+
+&amp;nbsp;
+
+•**Credit freeze**: Each entity operates differently hence you'll need to contact them over email and ask them what kind of documentation they require, mostly they ask for ITR or source of funds. On the off chance they don't co-operate, tagging them on social media along with other high officials, like CEO, CFO, consumer court, etc. often gets it expedited. This kind of freeze should only be a headache if you have a claim/FD etc with the entity. Otherwise just leave it and move on. If you have other incoming funds, like from mutual funds, refunds or other investments, contact the investment house or company and ask them to transfer the amount to your desired account. They do it 100% of the time, might ask for a cancelled cheque.
+
+•**Debit freeze**: Now this is something to be worried about. If it's a freeze by cyber cell then get the order that was received by the bank first. Contact the investigating officer, make him aware of your innocence and get him to send a NOC to the bank so that the freeze is lifted, easier said than done but this is your only way unless you are willing to go to court to present your case. If it was blocked due to attempted fraud, contact the bank, tell them that it is now okay and they'll unfreeze it. If it's a freeze at CBS by the bank themselves apart from these two reasons, first ask your RM or BM over email to fix it, if they don't comply, escalate to the Nodal officer, if it's still not fixed, then file a complaint in the CPGRAMS. Now the RBI Ombudsman is there but it has two lacunas, first being that there is no maximum timeline for resolution and second being in most of the freeze cases, RBI sides with the bank.
+
+•**Total freeze**: If this is the scenario, it's best to start cooperating with the authorities and help them with investigations or lawyer up if the case can't be dismissed solely by representing the facts in front of the authorities.
+
+And if any of this is a KYC issue, just email a copy of your Aadhar Card, PAN Card and a photograph to your BM and they should resolve it promptly
+
+#Prevention:
+Now almost all of these scenarios arise in the first place because of the use of UPI, receiving and sending funds to unknown entities. So here is a list of things that one can implement to live peacefully:
+
+•Unlink your phone number from UPI, so that if someone wants to send you money, you need to provide the UPI ID and you get to know the same. Also this adds a bit of privacy as no one can just search your name up on UPI apps.
+
+•Use digital wallets and RuPay cards to make UPI payments. This adds a big buffer to your bank account as you're not directly transacting with any unknown entity. However do not transfer back funds from wallets to your bank account as that acts as a "Layer"(link). Although most problems are due to receipt of funds, better safe than sorry. If a merchant doesn't accept either, please use cash, it's north worth the risk.
+
+•Receive funds from unknown parties in a wallet or a savings account that is not your primary account. However, do not transfer this back to your primary account as then this step will be useless, rather use that to pay utility bills (maybe the bills of the RuPay card on UPI) or withdraw it in cash and deposit it later. (Too many cash deposits can come under scrutiny from IT, if it doesn't match your returns).
+
+•Don't do P2P transactions or indulge in "scamming the scammer"
+
+•Keep very nominal funds in your savings account or just the required MAB. Keep them in FDs or Liquid/Overnight mutual funds. At least this way your finances will not come to a halt if your account gets frozen. Also you'll earn a bit of more interest. Win-Win! Tax is there but it's still better.
+
+&amp;nbsp;
+
+**Final words:** I have been a victim of freezing myself a month ago and it took me a painful 16 days to resolve it fully. I'm yet to recover from the mental trauma I went through because of that, I still get nightmares because of the same. The cyber crime portal is practically useless with only 0.8% reports turning into FIRs and of that 0.8% only 2% even get investigated and even a lower percentage of cases in which funds are recovered. But the harassment is real. Be safe, be vigilant.
+
+Any inputs are welcome!
